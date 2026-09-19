@@ -800,16 +800,12 @@
   {
     "id": "patera",
     "term": "Patera",
-    "short": "A priest’s title; compare Greek “father.”",
-    "note": "A title used for priests in the story. Compare modern Greek patera, the form used in addressing a father, and pateras, also used for a priest. This is a linguistic comparison, not evidence that the characters are speaking modern Greek.",
+    "short": "Possibly Greek: father.",
+    "note": "Possibly Greek patéra, a form of patéras, father; patéras can also denote a priest.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/πατέρας",
         "label": "Wiktionary"
-      },
-      {
-        "url": "https://jehlp.net/readers/book-of-the-short-sun/#blue-01/p-021",
-        "label": "Book passage · contextual usage"
       }
     ],
     "aliases": [
@@ -821,21 +817,18 @@
       "chapter": "blue-01",
       "paragraph": "p-021",
       "index": 1
-    }
+    },
+    "possible": true
   },
   {
     "id": "maytera",
     "term": "Maytera",
-    "short": "A religious title; compare Greek “mother.”",
-    "note": "A title used for the women serving the manteion. Compare Greek mētēra/mitera, mother. Maytera is the book’s spelling, not a standard transliteration; the resemblance should not be treated as a fully documented derivation.",
+    "short": "Possibly Greek: mother.",
+    "note": "Possibly Greek mētéra, mother.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/μητέρα",
         "label": "Wiktionary"
-      },
-      {
-        "url": "https://jehlp.net/readers/book-of-the-short-sun/#blue-01/p-217",
-        "label": "Book passage · contextual usage"
       }
     ],
     "aliases": [
@@ -847,7 +840,8 @@
       "chapter": "blue-01",
       "paragraph": "p-217",
       "index": 1
-    }
+    },
+    "possible": true
   },
   {
     "id": "augur",
@@ -896,16 +890,12 @@
   {
     "id": "azoth",
     "term": "azoth",
-    "short": "A weapon here; an old alchemical word.",
-    "note": "In this story, an azoth is a weapon, not a quantity of mercury. Historically azoth names alchemical mercury or a universal remedy. The historical senses explain the borrowed word, not the fictional device’s mechanism.",
+    "short": "Alchemical mercury or a universal remedy.",
+    "note": "An old alchemical term for mercury, or for a universal remedy.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/azoth",
         "label": "Merriam-Webster"
-      },
-      {
-        "url": "https://jehlp.net/readers/book-of-the-short-sun/#blue-01/p-263",
-        "label": "Book passage · contextual usage"
       }
     ],
     "aliases": [
@@ -917,7 +907,8 @@
       "chapter": "blue-01",
       "paragraph": "p-263",
       "index": 1
-    }
+    },
+    "possible": false
   },
   {
     "id": "cenoby",
@@ -1157,8 +1148,8 @@
   {
     "id": "talus",
     "term": "talus",
-    "short": "A powerful machine; a mythic echo.",
-    "note": "In the story, a talus is a large, powerful machine. The name recalls Talos, the bronze guardian of Crete in Greek myth, but the story’s machine should not be confused with that mythological individual. Ordinary English talus also has anatomical and geological meanings.",
+    "short": "Possibly Talos, the bronze guardian of Crete.",
+    "note": "Possibly Talos, the bronze giant who guarded Crete in Greek myth. In English, talus also means the ankle bone or a slope of accumulated rock fragments.",
     "sources": [
       {
         "url": "https://www.theoi.com/Gigante/GiganteTalos.html",
@@ -1167,10 +1158,6 @@
       {
         "url": "https://www.merriam-webster.com/dictionary/talus",
         "label": "Merriam-Webster · other senses"
-      },
-      {
-        "url": "https://jehlp.net/readers/book-of-the-short-sun/#blue-02/p-013",
-        "label": "Book passage · contextual usage"
       }
     ],
     "aliases": [
@@ -1182,7 +1169,8 @@
       "chapter": "blue-02",
       "paragraph": "p-013",
       "index": 2
-    }
+    },
+    "possible": true
   },
   {
     "id": "sciathan",
@@ -1208,8 +1196,8 @@
   {
     "id": "chenille",
     "term": "Chenille",
-    "short": "A shrub with long, red flower tassels.",
-    "note": "The chenille plant, Acalypha hispida, bears hanging, densely packed tassels of tiny flowers. Their soft, furry appearance gives it the name red-hot cat’s tail. Chenille also names a fuzzy yarn or fabric, from French for caterpillar. The botanical gloss does not exhaust the word’s meanings.",
+    "short": "A tassel-flowered plant; also fuzzy yarn.",
+    "note": "Acalypha hispida, a plant with long, furry-looking clusters of red flowers. Chenille also means a fuzzy yarn or fabric; the French word means caterpillar.",
     "sources": [
       {
         "url": "https://plants.ces.ncsu.edu/plants/acalypha-hispida/",
@@ -1228,7 +1216,8 @@
       "chapter": "blue-02",
       "paragraph": "p-005",
       "index": 2
-    }
+    },
+    "possible": false
   },
   {
     "id": "addax",
@@ -2077,7 +2066,7 @@
     "id": "azijin",
     "term": "Azijin",
     "short": "Possibly Dutch azijn: vinegar.",
-    "note": "Possibly a variant of Dutch azijn, vinegar. Azijin is the spelling of the name in this text; it is not the standard Dutch spelling and is retained rather than silently corrected.",
+    "note": "Possibly Dutch azijn, vinegar.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/azijn#Dutch",
@@ -2586,8 +2575,8 @@
   {
     "id": "fuligin",
     "term": "fuligin",
-    "short": "An exceptionally deep, sooty black.",
-    "note": "An exceptionally deep black, named from Latin fuligo, soot. The related English adjective fuliginous means sooty or dark and smoky. The word’s background is the residue of smoke; it is not the name of a standardized artists’ pigment.",
+    "short": "Possibly Latin fuligo: soot.",
+    "note": "Possibly Latin fuligo, soot. The related English adjective fuliginous means sooty or dark and smoky.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/fuliginous",
@@ -2595,7 +2584,7 @@
       }
     ],
     "aliases": [],
-    "possible": false,
+    "possible": true,
     "occurrences": 1,
     "first": {
       "chapter": "return-13",
@@ -2647,7 +2636,7 @@
     "id": "roche",
     "term": "Roche",
     "short": "Possibly Saint Roch, a pilgrim and healer.",
-    "note": "Possibly Saint Roch, the French pilgrim traditionally invoked against plague. His legend describes his care for sick people in Italy, his own illness, and a dog bringing him bread. The French word roche also means rock; the saint is a likely namesake rather than a certain identification.",
+    "note": "Possibly Saint Roch, the French pilgrim traditionally invoked against plague. His legend describes his care for sick people in Italy, his own illness, and a dog bringing him bread. French roche also means rock.",
     "sources": [
       {
         "url": "https://www.newadvent.org/cathen/13100c.htm",
@@ -2689,7 +2678,7 @@
     "id": "hamer",
     "term": "Hamer",
     "short": "Dutch: hammer.",
-    "note": "Dutch hamer means a hammer. It belongs to the same Germanic word family as English hammer: an everyday tool-word used as a personal name.",
+    "note": "Dutch hamer means a hammer. It belongs to the same Germanic word family as English hammer.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/hamer#Dutch",
@@ -3473,7 +3462,7 @@
     "id": "lal",
     "term": "Lal",
     "short": "Hindi: red.",
-    "note": "Hindi lāl means red, as a color or adjective. It is also used as a personal name; the long vowel is usually left unmarked in English spelling.",
+    "note": "Hindi lāl means red, as a color or adjective.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%B2#Hindi",
@@ -3573,7 +3562,7 @@
     "id": "mahawat",
     "term": "Mahawat",
     "short": "Hindi: an elephant keeper or driver.",
-    "note": "Hindi mahāvat is an elephant keeper or driver, the occupation known in English as a mahout. It is an occupational word used as a personal name.",
+    "note": "Hindi mahāvat means an elephant keeper or driver, the occupation known in English as a mahout.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%B5%E0%A4%A4#Hindi",
@@ -3740,7 +3729,7 @@
     "id": "nabeanntan",
     "term": "Nabeanntan",
     "short": "Possibly Gaelic: the mountains.",
-    "note": "Possibly Scottish Gaelic na beanntan, “the mountains.” Beanntan is the plural of beinn, a mountain or peak; na is the plural definite article. The place-name joins the two words.",
+    "note": "Possibly Scottish Gaelic na beanntan, the mountains. Beanntan is the plural of beinn, a mountain or peak.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/beinn#Scottish_Gaelic",
@@ -3760,7 +3749,7 @@
     "id": "geier",
     "term": "Geier",
     "short": "German: vulture.",
-    "note": "German Geier means a vulture. German normally capitalizes nouns, so the initial capital does not by itself turn the word into a personal name.",
+    "note": "German Geier means a vulture.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/Geier#German",
@@ -4024,8 +4013,8 @@
   {
     "id": "silk",
     "term": "Silk",
-    "short": "Silkworm fiber; also a personal name.",
-    "note": "Silk is the fine fiber spun by silkworms and used to make cloth. It is an animal product, not itself an animal. The word also has botanical uses, including the threadlike parts of an ear of corn; those meanings do not establish a hidden identity for the character.",
+    "short": "Silkworm fiber.",
+    "note": "The fine fiber spun by silkworms and used to make cloth. The word also denotes the threadlike styles of an ear of corn.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/silk",
@@ -4040,13 +4029,14 @@
       "chapter": "blue-01",
       "paragraph": "p-013",
       "index": 1
-    }
+    },
+    "possible": false
   },
   {
     "id": "horn",
     "term": "Horn",
-    "short": "An animal’s horn; also a personal name.",
-    "note": "An animal’s projecting horn, or the hard material from which it is formed. A cattle horn has a bony core covered with keratin. The name belongs to the vocabulary of animal parts and products, not just animal species.",
+    "short": "An animal’s horn; a hard natural material.",
+    "note": "An animal’s projecting horn, or its hard outer material. In cattle, a horn has a bony core covered with keratin.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/horn",
@@ -4061,13 +4051,14 @@
       "chapter": "blue-01",
       "paragraph": "p-007",
       "index": 1
-    }
+    },
+    "possible": false
   },
   {
     "id": "nettle",
     "term": "Nettle",
     "short": "A plant with stinging hairs.",
-    "note": "Nettles, especially plants of the genus Urtica, bear hairs that can sting the skin. The verb nettle means to irritate or provoke; that ordinary sense is distinct from identifying the character’s role.",
+    "note": "A plant, especially of the genus Urtica, bearing hairs that sting the skin. As a verb, nettle means to irritate or provoke.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/nettle",
@@ -4082,13 +4073,14 @@
       "chapter": "blue-01",
       "paragraph": "p-033",
       "index": 1
-    }
+    },
+    "possible": false
   },
   {
     "id": "hyacinth",
     "term": "Hyacinth",
     "short": "A fragrant flowering bulb.",
-    "note": "The familiar garden hyacinth, Hyacinthus orientalis, grows from a bulb and carries clusters of scented flowers. The ancient plant name had a less certain botanical reference; the word has also been used for gemstones. The flower meaning is relevant to the plant-name pattern here.",
+    "note": "A bulbous plant bearing clusters of fragrant flowers, especially Hyacinthus orientalis. Hyacinth is also an old gemstone name.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/hyacinth",
@@ -4103,13 +4095,14 @@
       "chapter": "blue-01",
       "paragraph": "p-263",
       "index": 1
-    }
+    },
+    "possible": false
   },
   {
     "id": "marble",
     "term": "Marble",
     "short": "A polishable metamorphic rock.",
-    "note": "Marble is limestone altered by heat and pressure into crystalline rock, widely used for sculpture and buildings. The personal name draws on a material word; it does not mean that the character is literally made of marble.",
+    "note": "Limestone transformed by heat and pressure into crystalline rock, widely used for sculpture and buildings.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/marble",
@@ -4124,13 +4117,14 @@
       "chapter": "blue-01",
       "paragraph": "p-217",
       "index": 1
-    }
+    },
+    "possible": false
   },
   {
     "id": "pike",
     "term": "Pike",
     "short": "A predatory freshwater fish.",
-    "note": "Pike names a long-bodied freshwater fish with conspicuous teeth. The same English spelling also denotes a long thrusting weapon. The fish sense fits the animal vocabulary of these personal names; a weapon-only gloss would miss it.",
+    "note": "A long-bodied freshwater fish with prominent teeth. Pike also denotes a long thrusting spear.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/pike",
@@ -4145,13 +4139,14 @@
       "chapter": "blue-01",
       "paragraph": "p-236",
       "index": 1
-    }
+    },
+    "possible": false
   },
   {
     "id": "musk",
     "term": "Musk",
     "short": "An animal scent used in perfumery.",
-    "note": "Musk originally denotes a strongly scented secretion obtained from the male musk deer. It also names similar scents and their substitutes. As a personal name it can therefore refer to an animal product, rather than to a species.",
+    "note": "A strongly scented secretion of the male musk deer; also similar fragrances and their substitutes.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/musk",
@@ -4166,13 +4161,14 @@
       "chapter": "return-01",
       "paragraph": "p-042",
       "index": 44
-    }
+    },
+    "possible": false
   },
   {
     "id": "mint",
     "term": "Mint",
     "short": "An aromatic herb.",
-    "note": "Mint names aromatic herbs, especially of the genus Mentha. This botanical meaning fits the personal name; the unrelated word for a place that makes coins is a different sense.",
+    "note": "An aromatic herb of the genus Mentha, including peppermint and spearmint.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/mint",
@@ -4187,13 +4183,14 @@
       "chapter": "blue-01",
       "paragraph": "p-236",
       "index": 1
-    }
+    },
+    "possible": false
   },
   {
     "id": "rose",
     "term": "Rose",
-    "short": "A flowering shrub; a plant name.",
-    "note": "A rose is a shrub of the genus Rosa, or its flower. The plant word is used here as a personal name. Its presence does not identify the character with a particular rose species or establish a particular religious symbol.",
+    "short": "A flowering shrub of the genus Rosa.",
+    "note": "A shrub of the genus Rosa, or its flower, commonly bearing prickles and fragrant blossoms.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/rose",
@@ -4208,13 +4205,14 @@
       "chapter": "blue-01",
       "paragraph": "p-236",
       "index": 1
-    }
+    },
+    "possible": false
   },
   {
     "id": "sinew",
     "term": "Sinew",
     "short": "A tendon; figuratively, strength.",
-    "note": "Sinew is an old word for a tendon, the tough tissue joining muscle to bone. It also suggests bodily strength. As a name, it belongs with words for animal parts and materials.",
+    "note": "A tendon: the tough tissue joining muscle to bone. Figuratively, bodily strength or a source of strength.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/sinew",
@@ -4229,7 +4227,8 @@
       "chapter": "blue-01",
       "paragraph": "p-025",
       "index": 1
-    }
+    },
+    "possible": false
   },
   {
     "id": "quire",
@@ -4256,8 +4255,8 @@
   {
     "id": "limna",
     "term": "Limna",
-    "short": "A lake-name, possibly from Greek.",
-    "note": "Lake Limna is a named lake in the story. Possibly the name echoes Greek limnē, a lake or pool. The Greek meaning is documented; its use as Wolfe’s intended derivation remains an inference.",
+    "short": "Possibly Greek: a lake or pool.",
+    "note": "Possibly Greek límnē, a lake, pool, or marsh.",
     "sources": [
       {
         "url": "https://atlas.perseus.tufts.edu/lemma/14816/",
@@ -4272,13 +4271,14 @@
       "chapter": "blue-01",
       "paragraph": "p-030",
       "index": 1
-    }
+    },
+    "possible": true
   },
   {
     "id": "calde",
     "term": "Caldé",
-    "short": "A civic ruler’s title.",
-    "note": "The title of Viron’s civic ruler. Possibly related to Spanish alcalde, a mayor or chief municipal magistrate, ultimately from Arabic al-qāḍī, the judge. That comparison explains a likely linguistic background, not identical powers or institutions. ",
+    "short": "Possibly Spanish alcalde: mayor.",
+    "note": "Possibly Spanish alcalde, a mayor or municipal magistrate, from Arabic al-qāḍī, the judge.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/alcalde",
@@ -4296,13 +4296,14 @@
       "chapter": "blue-01",
       "paragraph": "p-060",
       "index": 1
-    }
+    },
+    "possible": true
   },
   {
     "id": "whorl",
     "term": "whorl",
-    "short": "A world; also a spiral or ring.",
-    "note": "In these books, whorl is used for a world. In ordinary English it means a spiral, coil, or arrangement of parts around an axis. The fictional use and the dictionary meaning are distinct; the note does not explain the world’s hidden history.",
+    "short": "A spiral, coil, or ring.",
+    "note": "A spiral or coil; also an arrangement of leaves, petals, or other parts in a ring around an axis.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/whorl",
@@ -4320,49 +4321,381 @@
       "chapter": "blue-prelude",
       "paragraph": "p-002",
       "index": 0
+    },
+    "possible": false
+  },
+  {
+    "id": "hammerstone",
+    "term": "Hammerstone",
+    "aliases": [
+      "Hammerstone"
+    ],
+    "short": "A stone used as a hammer.",
+    "note": "A stone used for pounding or striking, especially a prehistoric tool used to shape other stones.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hammerstone",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false,
+    "occurrences": 12,
+    "first": {
+      "chapter": "blue-04",
+      "paragraph": "p-022",
+      "index": 4
     }
   },
   {
-    "id": "shiprock",
-    "term": "shiprock",
-    "short": "A building material in the story.",
-    "note": "The story’s name for a hard building material, used in blocks and walls. This is a contextual gloss: no specific chemical composition or real geological rock is implied.",
+    "id": "dace",
+    "term": "Dace",
+    "aliases": [
+      "Dace"
+    ],
+    "short": "A small freshwater fish.",
+    "note": "A small freshwater fish of the carp family, especially the European Leuciscus leuciscus; the name also applies to several North American fishes.",
     "sources": [
       {
-        "url": "https://us.macmillan.com/books/9780312872915/litanyofthelongsun/",
-        "label": "Reference"
+        "url": "https://www.merriam-webster.com/dictionary/dace",
+        "label": "Merriam-Webster"
       }
     ],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-06",
+      "paragraph": "p-111",
+      "index": 6
+    }
+  },
+  {
+    "id": "gib",
+    "term": "Gib",
     "aliases": [
-      "shiprock"
+      "Gib"
     ],
-    "occurrences": 9,
+    "short": "A male cat, especially a castrated one.",
+    "note": "An old word for a male cat, particularly a castrated male. It originated as a familiar form of the name Gilbert.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gib",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-283",
+      "index": 45
+    }
+  },
+  {
+    "id": "evensong",
+    "term": "Evensong",
+    "aliases": [
+      "Evensong"
+    ],
+    "short": "An evening church service.",
+    "note": "Evening prayer in Christian worship, especially the sung evening service of the Anglican tradition.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/evensong",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false,
+    "occurrences": 82,
+    "first": {
+      "chapter": "blue-12",
+      "paragraph": "p-066",
+      "index": 12
+    }
+  },
+  {
+    "id": "capsicum",
+    "term": "Capsicum",
+    "aliases": [
+      "Capsicum"
+    ],
+    "short": "The genus of pepper plants.",
+    "note": "A genus of plants in the nightshade family that includes sweet peppers and chili peppers; also their fruit.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/capsicum",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false,
+    "occurrences": 19,
+    "first": {
+      "chapter": "return-13",
+      "paragraph": "p-107",
+      "index": 56
+    }
+  },
+  {
+    "id": "palatine",
+    "term": "Palatine",
+    "aliases": [
+      "Palatine"
+    ],
+    "short": "Of a palace; possessing royal privileges.",
+    "note": "Connected with an imperial palace or endowed with royal authority. As a noun, a high palace official or a lord exercising sovereign powers in a territory.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/palatine",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-10",
+      "paragraph": "p-254",
+      "index": 53
+    }
+  },
+  {
+    "id": "rani",
+    "term": "Rani",
+    "aliases": [
+      "Rani"
+    ],
+    "short": "A queen or a raja’s wife.",
+    "note": "A queen in South Asia, or the wife of a raja. From Hindi and Urdu rānī, ultimately Sanskrit rājñī.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/rani",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false,
+    "occurrences": 11,
+    "first": {
+      "chapter": "blue-07",
+      "paragraph": "p-104",
+      "index": 7
+    }
+  },
+  {
+    "id": "merl",
+    "term": "Merl",
+    "aliases": [
+      "Merl"
+    ],
+    "short": "A blackbird.",
+    "note": "Merl or merle: an old word for the European blackbird.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/merl",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false,
+    "occurrences": 11,
+    "first": {
+      "chapter": "return-04",
+      "paragraph": "p-288",
+      "index": 47
+    }
+  },
+  {
+    "id": "willet",
+    "term": "Willet",
+    "aliases": [
+      "Willet"
+    ],
+    "short": "A large American shorebird.",
+    "note": "A stocky shorebird with long legs, a straight bill, and striking black-and-white wing markings.",
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Willet/id",
+        "label": "External reference"
+      }
+    ],
+    "possible": false,
+    "occurrences": 4,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-171",
+      "index": 45
+    }
+  },
+  {
+    "id": "blazingstar",
+    "term": "Blazingstar",
+    "aliases": [
+      "Blazingstar"
+    ],
+    "short": "A plant with conspicuous flower clusters.",
+    "note": "Blazing star is a common name for several plants, including Liatris, with spikes of purple flowers, and species of Mentzelia. It is also an archaic term for a comet.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/blazing%20star",
+        "label": "External reference"
+      }
+    ],
+    "possible": false,
+    "occurrences": 13,
     "first": {
       "chapter": "blue-01",
-      "paragraph": "p-237",
+      "paragraph": "p-038",
       "index": 1
     }
   },
   {
-    "id": "inhumi",
-    "term": "inhumi",
-    "short": "Plural of inhumu.",
-    "note": "Inhumi is the plural form; one is an inhumu. These are beings of the fictional setting. This note identifies the word forms without revealing their origins, abilities, or individual identities.",
+    "id": "strik",
+    "term": "Strik",
+    "aliases": [
+      "Strik"
+    ],
+    "short": "Dutch: a bow or snare.",
+    "note": "Dutch strik means a bow tied in ribbon or cord, or a snare for catching animals.",
     "sources": [
       {
-        "url": "https://jehlp.net/readers/book-of-the-short-sun/#blue-01",
-        "label": "Reference"
+        "url": "https://dictionary.cambridge.org/dictionary/dutch-english/strik",
+        "label": "External reference"
       }
     ],
-    "aliases": [
-      "inhumi",
-      "inhumu"
-    ],
-    "occurrences": 345,
+    "possible": false,
+    "occurrences": 32,
     "first": {
-      "chapter": "blue-01",
-      "paragraph": "p-157",
-      "index": 1
+      "chapter": "blue-06",
+      "paragraph": "p-168",
+      "index": 6
+    }
+  },
+  {
+    "id": "sfido",
+    "term": "Sfido",
+    "aliases": [
+      "Sfido"
+    ],
+    "short": "Possibly Italian: I challenge.",
+    "note": "Possibly Italian sfido, I challenge or I defy, from the verb sfidare.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/sfidare/",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 111,
+    "first": {
+      "chapter": "green-12",
+      "paragraph": "p-040",
+      "index": 29
+    }
+  },
+  {
+    "id": "valico",
+    "term": "Valico",
+    "aliases": [
+      "Valico"
+    ],
+    "short": "Italian: a mountain pass or crossing.",
+    "note": "Italian valico means a crossing or a pass through a mountain range.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/valico_%28Sinonimi-e-Contrari%29/",
+        "label": "External reference"
+      }
+    ],
+    "possible": false,
+    "occurrences": 33,
+    "first": {
+      "chapter": "green-11",
+      "paragraph": "p-074",
+      "index": 28
+    }
+  },
+  {
+    "id": "quadrifons",
+    "term": "Quadrifons",
+    "aliases": [
+      "Quadrifons"
+    ],
+    "short": "Possibly quadrifrons: four-faced.",
+    "note": "Possibly Latin quadrifrons, four-faced. The term describes a four-fronted Roman arch and occurs in the name Janus Quadrifrons.",
+    "sources": [
+      {
+        "url": "https://collections.soane.org/SCHEME1150",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 18,
+    "first": {
+      "chapter": "blue-06",
+      "paragraph": "p-078",
+      "index": 6
+    }
+  },
+  {
+    "id": "thyone",
+    "term": "Thyone",
+    "aliases": [
+      "Thyone"
+    ],
+    "short": "Possibly Semele’s divine name.",
+    "note": "Possibly Thyone, the name of Semele after her elevation to divine status in Greek myth. Semele was the mother of Dionysus.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Georgikos/Thyone.html",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 14,
+    "first": {
+      "chapter": "return-06",
+      "paragraph": "p-274",
+      "index": 49
+    }
+  },
+  {
+    "id": "phaea",
+    "term": "Phaea",
+    "aliases": [
+      "Phaea"
+    ],
+    "short": "Possibly the Crommyonian Sow.",
+    "note": "Possibly Phaea, the fierce Crommyonian Sow killed by Theseus in Greek myth.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Gallery/M15.3.html",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 10,
+    "first": {
+      "chapter": "blue-12",
+      "paragraph": "p-072",
+      "index": 12
+    }
+  },
+  {
+    "id": "duko",
+    "term": "Duko",
+    "aliases": [
+      "Duko"
+    ],
+    "short": "Possibly Esperanto: duke.",
+    "note": "Possibly Esperanto duko, duke, a title of nobility.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/duko#Esperanto",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 189,
+    "first": {
+      "chapter": "green-prelude",
+      "paragraph": "p-003",
+      "index": 17
     }
   }
 ]

@@ -1,3 +1,5 @@
+Current annotation policy and research: [version 9](NOTES-V9.md). This file records earlier passes; their in-book glosses are superseded.
+
 # Text and annotation decisions — version 7
 
 This is a plain, unlinked maintenance record. It is not an editorial section of the reading site. It contains later-volume names and occasional passage details, so it is not spoiler-free. The reading popups avoid explanations of plot events and character identities.

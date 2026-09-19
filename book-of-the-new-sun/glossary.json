@@ -3091,11 +3091,11 @@
     "id": "baldanders",
     "term": "Baldanders",
     "aliases": [],
-    "note": "Wolfe said that he borrowed Baldanders from Borges’s The Book of Imaginary Beings. The figure belongs to a German literary tradition of transformation; the name suggests being different again soon. This author-confirmed borrowing does not make the fictional character identical to the earlier creature.",
+    "note": "A perpetually changing being in German literary tradition. In Grimmelshausen’s Simplicissimus, Baldanders changes into living creatures and everyday objects. The name suggests being different again soon.",
     "sources": [
       {
-        "url": "https://gwern.net/doc/fiction/gene-wolfe/1988-11-mccaffery-onencompassingtheentireuniverseaninterviewwithgenewolfe.html",
-        "label": "Gene Wolfe · interview with Larry McCaffery"
+        "url": "https://diglib.hab.de/content.php?dir=edoc%2Fed000133&distype=optional&metsID=edoc_ed000133_introduction1&xml=tei-introduction.xml&xsl=tei-introduction.xsl",
+        "label": "External reference"
       }
     ],
     "short": "A shape-shifter in German literary tradition.",
@@ -3104,7 +3104,8 @@
       "chapter": "shadow-15",
       "paragraph": "p-025",
       "index": 14
-    }
+    },
+    "possible": false
   },
   {
     "id": "juturna",
@@ -8014,8 +8015,8 @@
   {
     "id": "asimi",
     "term": "asimi",
-    "short": "A silver coin; Greek for silver.",
-    "note": "A silver coin; modern Greek asími (ασήμι) means silver, the metal. The Greek word supplies the material meaning, not a particular historical coin’s weight or value.",
+    "short": "Greek: silver.",
+    "note": "Modern Greek asími (ασήμι): silver, the metal.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/%CE%B1%CF%83%CE%AE%CE%BC%CE%B9#Greek",
@@ -8196,8 +8197,8 @@
   {
     "id": "exultant",
     "term": "exultant",
-    "short": "A member of the highest nobility.",
-    "note": "A member of the highest hereditary nobility. The ordinary English adjective exultant means triumphantly joyful, from Latin exsultare, to leap up or rejoice. As a rank, the word is a specialized use, not a description of someone’s mood.",
+    "short": "Triumphantly joyful.",
+    "note": "Rejoicing intensely or triumphantly; from Latin exsultare, to leap up or rejoice.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/exultant",
@@ -8238,8 +8239,8 @@
   {
     "id": "fuligin",
     "term": "fuligin",
-    "short": "An exceptionally deep, sooty black.",
-    "note": "An exceptionally deep black, named from Latin fuligo, soot. The related English adjective fuliginous means sooty or dark and smoky. The word’s background is the residue of smoke; it is not the name of a standardized artists’ pigment.",
+    "short": "Possibly Latin fuligo: soot.",
+    "note": "Possibly Latin fuligo, soot. The related English adjective fuliginous means sooty or dark and smoky.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/fuliginous",
@@ -8247,7 +8248,7 @@
       }
     ],
     "aliases": [],
-    "possible": false,
+    "possible": true,
     "occurrences": 56,
     "first": {
       "chapter": "shadow-04",
@@ -8400,25 +8401,10 @@
     }
   },
   {
-    "id": "planteration",
-    "term": "planteration",
-    "short": "Compulsory eating used as a torment.",
-    "note": "The use of food or compulsory eating as a torment, in contrast to starvation. The precise historical derivation of the word is uncertain.",
-    "sources": [],
-    "aliases": [],
-    "possible": false,
-    "occurrences": 1,
-    "first": {
-      "chapter": "sword-04",
-      "paragraph": "p-037",
-      "index": 71
-    }
-  },
-  {
     "id": "roche",
     "term": "Roche",
     "short": "Possibly Saint Roch, a pilgrim and healer.",
-    "note": "Possibly Saint Roch, the French pilgrim traditionally invoked against plague. His legend describes his care for sick people in Italy, his own illness, and a dog bringing him bread. The French word roche also means rock; the saint is a likely namesake rather than a certain identification.",
+    "note": "Possibly Saint Roch, the French pilgrim traditionally invoked against plague. His legend describes his care for sick people in Italy, his own illness, and a dog bringing him bread. French roche also means rock.",
     "sources": [
       {
         "url": "https://www.newadvent.org/cathen/13100c.htm",
@@ -8437,8 +8423,8 @@
   {
     "id": "severian",
     "term": "Severian",
-    "short": "A Roman name related to Severus.",
-    "note": "A form of the Roman name Severianus, derived from Severus, “stern” or “serious.” Several early Christian saints bore it. Possibly intended is Severian, the fifth-century bishop of Scythopolis killed during the disputes following the Council of Chalcedon; the name alone does not establish that identification.",
+    "short": "Possibly Saint Severian of Scythopolis.",
+    "note": "Possibly Saint Severian, the fifth-century bishop of Scythopolis killed during the disputes following the Council of Chalcedon. Severianus is a Roman name derived from Severus, stern or serious.",
     "sources": [
       {
         "url": "https://www.catholic.org/saints/saint.php?saint_id=5720",
@@ -8578,34 +8564,10 @@
     }
   },
   {
-    "id": "vodalarius",
-    "term": "vodalarius",
-    "short": "A follower or supporter of Vodalus.",
-    "note": "A follower of Vodalus; the plural is vodalarii. The ending resembles Latin -arius, used to form words for someone associated with an occupation, object, or person. This is a transparent formation from a personal name rather than a historical military rank.",
-    "sources": [
-      {
-        "url": "https://en.wiktionary.org/wiki/-arius#Latin",
-        "label": "Wiktionary · -arius"
-      }
-    ],
-    "aliases": [
-      "Vodalarius",
-      "vodalarii",
-      "Vodalarii"
-    ],
-    "possible": false,
-    "occurrences": 3,
-    "first": {
-      "chapter": "shadow-01",
-      "paragraph": "p-066",
-      "index": 0
-    }
-  },
-  {
     "id": "zoanthrop",
     "term": "zoanthrop",
-    "short": "An animal-like human.",
-    "note": "An animal-like human; the formation joins Greek words for animal and human being. The related historical term zoanthropy describes the belief that one has become an animal. That word history does not by itself explain a physical transformation.",
+    "short": "Compare zoanthropy: belief in being an animal.",
+    "note": "Related to zoanthropy, a historical term for the delusion that one has become an animal. The roots are Greek zōion, animal, and anthrōpos, human being.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/zoanthropy",
@@ -8760,8 +8722,8 @@
   {
     "id": "armigette",
     "term": "armigette",
-    "short": "A woman of the armiger class.",
-    "note": "A feminine counterpart of armiger, a bearer of arms or someone entitled to heraldic arms. The ending -ette marks the feminine formation; the underlying Latin armiger means “arms-bearer.”",
+    "short": "Possibly armiger: a bearer of arms.",
+    "note": "Possibly a feminine formation from armiger, a bearer of arms or someone entitled to heraldic arms. Latin armiger means arms-bearer.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/armiger",
@@ -8772,7 +8734,7 @@
       "armigettes",
       "armagette"
     ],
-    "possible": false,
+    "possible": true,
     "occurrences": 5,
     "first": {
       "chapter": "shadow-12",
@@ -9044,7 +9006,7 @@
     "id": "ascian",
     "term": "Ascian",
     "short": "An old word meaning shadowless.",
-    "note": "Historically, an ascian is an inhabitant of a tropical region where the overhead sun can leave no shadow at noon. Wolfe uses Ascian as a people-name. It is not a misspelling of Asian.",
+    "note": "An inhabitant of a tropical region where the overhead sun can leave no shadow at noon; from Greek words for without and shadow.",
     "sources": [
       {
         "url": "https://www.wordnik.com/words/ascian",
@@ -9060,49 +9022,448 @@
       "chapter": "shadow-03",
       "paragraph": "p-044",
       "index": 2
-    }
+    },
+    "possible": false
   },
   {
-    "id": "vodalus",
-    "term": "Vodalus",
-    "short": "A personal name, not an invented word.",
-    "note": "Wolfe explicitly included Vodalus among the genuine, though uncommon, men’s names he used. That confirms the name’s prior existence, not a unique historical namesake or an interpretation of the character.",
+    "id": "septentrion",
+    "term": "Septentrion",
+    "aliases": [
+      "Septentrion"
+    ],
+    "short": "An old word for north.",
+    "note": "The north or northern regions. Latin septentriones names seven northern stars, literally seven plowing oxen.",
     "sources": [
       {
-        "url": "https://gwern.net/doc/fiction/gene-wolfe/1988-11-mccaffery-onencompassingtheentireuniverseaninterviewwithgenewolfe.html",
-        "label": "Reference"
+        "url": "https://www.merriam-webster.com/dictionary/septentrion",
+        "label": "Merriam-Webster"
       }
     ],
-    "aliases": [
-      "Vodalus"
-    ],
-    "occurrences": 250,
+    "possible": false,
+    "occurrences": 20,
     "first": {
-      "chapter": "shadow-01",
-      "paragraph": "p-043",
-      "index": 0
+      "chapter": "shadow-18",
+      "paragraph": "p-002",
+      "index": 17
     }
   },
   {
-    "id": "alzabo",
-    "term": "alzabo",
-    "short": "A predatory creature of the story.",
-    "note": "A fictional predatory animal. Its first mention concerns scavenging a carcass. This contextual identification intentionally leaves its later-described abilities unexplained.",
+    "id": "pelerine",
+    "term": "Pelerine",
+    "aliases": [
+      "Pelerine",
+      "Pelerines"
+    ],
+    "short": "French: a female pilgrim; also a cape.",
+    "note": "French pèlerine means a female pilgrim. In English, pelerine denotes a cape or mantle covering the shoulders.",
     "sources": [
       {
-        "url": "https://jehlp.net/readers/book-of-the-new-sun/#shadow-35",
-        "label": "Reference"
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/pelerine",
+        "label": "External reference"
       }
     ],
+    "possible": false,
+    "occurrences": 94,
+    "first": {
+      "chapter": "shadow-18",
+      "paragraph": "p-040",
+      "index": 17
+    }
+  },
+  {
+    "id": "acis",
+    "term": "Acis",
     "aliases": [
-      "alzabo",
-      "alzabos"
+      "Acis"
     ],
-    "occurrences": 62,
+    "short": "Possibly the mythical lover of Galatea.",
+    "note": "Possibly Acis, the shepherd loved by Galatea in classical myth. Killed by the jealous Polyphemus, he was transformed into a river.",
+    "sources": [
+      {
+        "url": "https://www.columbia.edu/cu/computinghistory/acis.html",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 19,
+    "first": {
+      "chapter": "claw-11",
+      "paragraph": "p-064",
+      "index": 46
+    }
+  },
+  {
+    "id": "idas",
+    "term": "Idas",
+    "aliases": [
+      "Idas"
+    ],
+    "short": "Possibly a Messenian hero.",
+    "note": "Possibly Idas, a hero of Greek myth, son of Aphareus and brother of Lynceus, who carried off Marpessa in a winged chariot.",
+    "sources": [
+      {
+        "url": "https://myths.uvic.ca/IDAS1.html",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 46,
+    "first": {
+      "chapter": "urth-02",
+      "paragraph": "p-036",
+      "index": 147
+    }
+  },
+  {
+    "id": "apheta",
+    "term": "Apheta",
+    "aliases": [
+      "Apheta"
+    ],
+    "short": "An astrological giver of life.",
+    "note": "In traditional astrology, a planet or point treated as the giver of life in a natal chart. The Greek word means a releaser.",
+    "sources": [
+      {
+        "url": "https://www.skyscript.co.uk/glossary/apheta/",
+        "label": "External reference"
+      }
+    ],
+    "possible": false,
+    "occurrences": 73,
+    "first": {
+      "chapter": "urth-17",
+      "paragraph": "p-039",
+      "index": 162
+    }
+  },
+  {
+    "id": "vincula",
+    "term": "Vincula",
+    "aliases": [
+      "Vincula"
+    ],
+    "short": "Latin: bonds or fetters.",
+    "note": "Latin vincula, plural of vinculum: bonds, chains, or fetters; also imprisonment.",
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n50975/",
+        "label": "External reference"
+      }
+    ],
+    "possible": false,
+    "occurrences": 37,
+    "first": {
+      "chapter": "sword-01",
+      "paragraph": "p-026",
+      "index": 68
+    }
+  },
+  {
+    "id": "saltus",
+    "term": "Saltus",
+    "aliases": [
+      "Saltus"
+    ],
+    "short": "Latin: woodland or forest pasture.",
+    "note": "Latin saltus can mean woodland, forested upland, or uncultivated pasture.",
+    "sources": [
+      {
+        "url": "https://logeion.uchicago.edu/morpho/saltus",
+        "label": "External reference"
+      }
+    ],
+    "possible": false,
+    "occurrences": 53,
+    "first": {
+      "chapter": "claw-02",
+      "paragraph": "p-007",
+      "index": 37
+    }
+  },
+  {
+    "id": "jolenta",
+    "term": "Jolenta",
+    "aliases": [
+      "Jolenta"
+    ],
+    "short": "Possibly Blessed Jolenta of Poland.",
+    "note": "Possibly Blessed Jolenta of Poland, a Hungarian princess who became a Poor Clare and abbess after her husband’s death.",
+    "sources": [
+      {
+        "url": "https://www.franciscanmedia.org/saint-of-the-day/blessed-jolenta-of-poland/",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 170,
+    "first": {
+      "chapter": "shadow-32",
+      "paragraph": "p-038",
+      "index": 31
+    }
+  },
+  {
+    "id": "ultan",
+    "term": "Ultan",
+    "aliases": [
+      "Ultan"
+    ],
+    "short": "Possibly Saint Ultan of Ardbraccan.",
+    "note": "Possibly Saint Ultan of Ardbraccan, an Irish abbot, bishop, and writer remembered for caring for poor children.",
+    "sources": [
+      {
+        "url": "https://www.newadvent.org/cathen/15124d.htm",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 44,
+    "first": {
+      "chapter": "shadow-05",
+      "paragraph": "p-039",
+      "index": 4
+    }
+  },
+  {
+    "id": "melito",
+    "term": "Melito",
+    "aliases": [
+      "Melito"
+    ],
+    "short": "Possibly the bishop of Sardis.",
+    "note": "Possibly Melito, the second-century bishop of Sardis and an early Christian writer.",
+    "sources": [
+      {
+        "url": "https://www.newadvent.org/cathen/10166b.htm",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 33,
+    "first": {
+      "chapter": "citadel-05",
+      "paragraph": "p-024",
+      "index": 111
+    }
+  },
+  {
+    "id": "daria",
+    "term": "Daria",
+    "aliases": [
+      "Daria"
+    ],
+    "short": "Possibly a Roman martyr.",
+    "note": "Possibly Saint Daria, a Roman martyr venerated with Saint Chrysanthus; their burial place was on the Via Salaria.",
+    "sources": [
+      {
+        "url": "https://www.newadvent.org/cathen/03742a.htm",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 20,
+    "first": {
+      "chapter": "citadel-19",
+      "paragraph": "p-038",
+      "index": 125
+    }
+  },
+  {
+    "id": "barbatus",
+    "term": "Barbatus",
+    "aliases": [
+      "Barbatus"
+    ],
+    "short": "Possibly a bishop of Benevento.",
+    "note": "Possibly Saint Barbatus, the seventh-century bishop of Benevento who attended the Roman council of 680.",
+    "sources": [
+      {
+        "url": "https://pbe.kcl.ac.uk/data/D16/F33.htm",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 71,
+    "first": {
+      "chapter": "sword-33",
+      "paragraph": "p-017",
+      "index": 100
+    }
+  },
+  {
+    "id": "jonas",
+    "term": "Jonas",
+    "aliases": [
+      "Jonas"
+    ],
+    "short": "Possibly Jonah, the biblical prophet.",
+    "note": "Possibly Jonah, also called Jonas, the biblical prophet who fled the command to preach at Nineveh and was swallowed by a great fish.",
+    "sources": [
+      {
+        "url": "https://www.newadvent.org/cathen/08497b.htm",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 238,
     "first": {
       "chapter": "shadow-35",
-      "paragraph": "p-008",
+      "paragraph": "p-060",
       "index": 34
+    }
+  },
+  {
+    "id": "hallvard",
+    "term": "Hallvard",
+    "aliases": [
+      "Hallvard"
+    ],
+    "short": "Possibly Oslo’s patron saint.",
+    "note": "Possibly Saint Hallvard, the eleventh-century Norwegian martyr and patron saint of Oslo.",
+    "sources": [
+      {
+        "url": "https://www.katolsk.no/st-hallvard",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 33,
+    "first": {
+      "chapter": "citadel-05",
+      "paragraph": "p-031",
+      "index": 111
+    }
+  },
+  {
+    "id": "casdoe",
+    "term": "Casdoe",
+    "aliases": [
+      "Casdoe"
+    ],
+    "short": "Possibly the Persian martyr Kazdoa.",
+    "note": "Possibly Kazdoa, also called Kasdoe, a Persian martyr commemorated with Dadas and Gabdelas in Christian tradition.",
+    "sources": [
+      {
+        "url": "https://www.oca.org/saints/lives/2007/09/29/102814-martyrs-dadas-gabdelas-and-kazdoa-of-persia",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 60,
+    "first": {
+      "chapter": "sword-15",
+      "paragraph": "p-003",
+      "index": 82
+    }
+  },
+  {
+    "id": "foila",
+    "term": "Foila",
+    "aliases": [
+      "Foila"
+    ],
+    "short": "Possibly Saint Foila of Killeely.",
+    "note": "Possibly Saint Foila, the Irish saint credited with founding Killeely Church in County Galway. Her tomb became a place of pilgrimage.",
+    "sources": [
+      {
+        "url": "https://heritage.galwaycommunityheritage.org/content/places/clarinbridge-heritage/places-clarinbridge-heritage/killeely-church",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 41,
+    "first": {
+      "chapter": "citadel-05",
+      "paragraph": "p-024",
+      "index": 111
+    }
+  },
+  {
+    "id": "morwenna",
+    "term": "Morwenna",
+    "aliases": [
+      "Morwenna"
+    ],
+    "short": "Possibly a Cornish saint.",
+    "note": "Possibly Saint Morwenna, the local saint commemorated in the dedication of the parish church at Morwenstow, Cornwall.",
+    "sources": [
+      {
+        "url": "https://www.chct.info/histories/morwenstow-st-morwenna-st-john-the-baptist/",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 33,
+    "first": {
+      "chapter": "claw-01",
+      "paragraph": "p-002",
+      "index": 36
+    }
+  },
+  {
+    "id": "hadelin",
+    "term": "Hadelin",
+    "aliases": [
+      "Hadelin"
+    ],
+    "short": "Possibly Saint Hadelin of Celles.",
+    "note": "Possibly Saint Hadelin, the seventh-century religious founder associated with Celles in present-day Belgium.",
+    "sources": [
+      {
+        "url": "https://connaitrelawallonie.wallonie.be/culture-et-patrimoine/patrimoine/eglise-saint-hadelin-celles",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 40,
+    "first": {
+      "chapter": "urth-30",
+      "paragraph": "p-056",
+      "index": 175
+    }
+  },
+  {
+    "id": "thrax",
+    "term": "Thrax",
+    "aliases": [
+      "Thrax"
+    ],
+    "short": "Latin: a Thracian.",
+    "note": "Latin Thrax means a Thracian, a person from ancient Thrace in southeastern Europe.",
+    "sources": [
+      {
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3DThracia",
+        "label": "External reference"
+      }
+    ],
+    "possible": false,
+    "occurrences": 125,
+    "first": {
+      "chapter": "shadow-13",
+      "paragraph": "p-024",
+      "index": 12
+    }
+  },
+  {
+    "id": "sidero",
+    "term": "Sidero",
+    "aliases": [
+      "Sidero"
+    ],
+    "short": "Possibly Greek: iron.",
+    "note": "Possibly Greek sidēros, iron, also the source of the combining form sidero- in English.",
+    "sources": [
+      {
+        "url": "https://www.ahdictionary.com/word/search.html?q=sidero-",
+        "label": "External reference"
+      }
+    ],
+    "possible": true,
+    "occurrences": 62,
+    "first": {
+      "chapter": "urth-02",
+      "paragraph": "p-038",
+      "index": 147
     }
   }
 ]
