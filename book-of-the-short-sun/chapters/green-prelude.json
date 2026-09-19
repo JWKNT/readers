@@ -1,0 +1,56 @@
+{
+  "id": "green-prelude",
+  "title": "To My Dear Friend and Councilor Incanto",
+  "volume": "green",
+  "volumeTitle": "In Green’s Jungles",
+  "number": null,
+  "label": "",
+  "kind": "prelude",
+  "index": 17,
+  "html": "<p class=\"prose\" data-block=\"p-001\" id=\"p-001\">27th day of the Mobilization</p><p class=\"prose\" data-block=\"p-002\" id=\"p-002\">To my Dear Friend and Councilor <span class=\"word\" data-first=\"true\" data-local-first=\"true\" data-term=\"incanto\">Incanto</span>—</p><p class=\"quoted-prose\" data-block=\"p-003\" id=\"p-003\"><span class=\"word\" data-first=\"true\" data-local-first=\"true\" data-term=\"olmo\">Olmo</span> has fallen. There can be no doubt of it. Our scouts have seen the Duko’s pennant at the base camp. I myself saw a dead trooper in purple and maroon not two hours ago. Dragoons of the Bodyguard are here, and the rest close behind. We bear ourselves like men, but you must be braced for the blow.</p><p class=\"quoted-prose\" data-block=\"p-004\" id=\"p-004\">I clawed you like a devil for supplies, I know. No more. Take <span class=\"word\" data-first=\"true\" data-local-first=\"true\" data-term=\"rimando\">Rimando</span>’s mules and muledrivers. <span class=\"word\" data-first=\"false\" data-local-first=\"false\" data-term=\"rimando\">Rimando</span> too. They are the only help I can give you.</p><p class=\"quoted-prose\" data-block=\"p-005\" id=\"p-005\">Advice: You know I tried to save the northern farms. We shared meat and salt, <span class=\"word\" data-first=\"false\" data-local-first=\"false\" data-term=\"incanto\">Incanto</span>. Listen to me. They are finished. Take what you can and leave them to their fate. These graybeards, these women and boys you found arms for, they may fight or make a show of it from the walls. If you march north with them, the Duko’s cavalry will cut them to pieces in half an hour. <em>Whatever happens, do not allow them out of the gates.</em> Show the guns on the walls, call a truce, and take the terms <span class=\"word\" data-first=\"true\" data-local-first=\"true\" data-term=\"rigoglio\">Rigoglio</span> offers.</p><p class=\"quoted-prose\" data-block=\"p-006\" id=\"p-006\"><em>Write at once if you have word of <span class=\"word\" data-first=\"true\" data-local-first=\"true\" data-term=\"mora\">Mora</span>.</em></p><p class=\"quoted-prose\" data-block=\"p-007\" id=\"p-007\">If I fall, do what you can for my mother. Also, Torda and <span class=\"word\" data-first=\"true\" data-local-first=\"true\" data-term=\"onorifica\">Onorifica</span>. Shed no tears for your discourteous friend—</p><p class=\"quoted-prose letter-line\" data-block=\"p-008\" id=\"p-008\"><span class=\"word\" data-first=\"true\" data-local-first=\"true\" data-term=\"inclito\">Inclito</span></p><p class=\"prose\" data-block=\"p-009\" id=\"p-009\">Especially Torda and my mother. I.</p>",
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002",
+    "p-003",
+    "p-004",
+    "p-005",
+    "p-006",
+    "p-007",
+    "p-008",
+    "p-009"
+  ],
+  "sections": [],
+  "noteAnchors": [
+    {
+      "term": "incanto",
+      "paragraph": "p-002"
+    },
+    {
+      "term": "olmo",
+      "paragraph": "p-003"
+    },
+    {
+      "term": "rimando",
+      "paragraph": "p-004"
+    },
+    {
+      "term": "rigoglio",
+      "paragraph": "p-005"
+    },
+    {
+      "term": "mora",
+      "paragraph": "p-006"
+    },
+    {
+      "term": "onorifica",
+      "paragraph": "p-007"
+    },
+    {
+      "term": "inclito",
+      "paragraph": "p-008"
+    }
+  ],
+  "words": 233,
+  "startWords": 129076
+}

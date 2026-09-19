@@ -1,0 +1,3999 @@
+[
+  {
+    "id": "barbican",
+    "term": "barbican",
+    "aliases": [
+      "barbican",
+      "barbicans"
+    ],
+    "note": "An outer fortification protecting a gate or bridge: a defensive entrance before the main entrance.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/barbican",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "An outer fortification guarding an entrance.",
+    "occurrences": 3,
+    "first": {
+      "chapter": "green-22",
+      "paragraph": "p-094",
+      "index": 39
+    }
+  },
+  {
+    "id": "autarch",
+    "term": "autarch",
+    "aliases": [
+      "autarch",
+      "autarchs"
+    ],
+    "note": "A ruler with absolute power.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/autarch",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "An absolute ruler.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-22",
+      "paragraph": "p-028",
+      "index": 39
+    }
+  },
+  {
+    "id": "oubliette",
+    "term": "oubliette",
+    "aliases": [
+      "oubliette",
+      "oubliettes"
+    ],
+    "note": "A concealed dungeon entered through an opening above. The French name is related to forgetting.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/oubliette",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A dungeon entered through a trapdoor above.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-13",
+      "paragraph": "p-012",
+      "index": 56
+    }
+  },
+  {
+    "id": "theurgy",
+    "term": "theurgy",
+    "aliases": [
+      "theurgy",
+      "theurgic"
+    ],
+    "note": "Ritual practice intended to call upon or work through divine powers.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/theurgy",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Ritual practice invoking divine powers.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-07",
+      "paragraph": "p-007",
+      "index": 7
+    }
+  },
+  {
+    "id": "necropolis",
+    "term": "necropolis",
+    "aliases": [
+      "necropolis",
+      "necropolises"
+    ],
+    "note": "A large burial ground or cemetery; literally a city of the dead.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/necropolis",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A large cemetery; a city of the dead.",
+    "occurrences": 5,
+    "first": {
+      "chapter": "green-14",
+      "paragraph": "p-160",
+      "index": 31
+    }
+  },
+  {
+    "id": "merlon",
+    "term": "merlon",
+    "aliases": [
+      "merlon",
+      "merlons"
+    ],
+    "note": "One of the solid upright sections of a battlement, between the gaps.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/merlon",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A solid upright section of a battlement.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-06",
+      "paragraph": "p-235",
+      "index": 49
+    }
+  },
+  {
+    "id": "peltast",
+    "term": "peltast",
+    "aliases": [
+      "peltast",
+      "peltasts"
+    ],
+    "note": "A lightly equipped ancient Greek infantryman, named for the small shield carried.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/peltast",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A lightly armed ancient Greek infantryman.",
+    "occurrences": 2,
+    "first": {
+      "chapter": "green-22",
+      "paragraph": "p-018",
+      "index": 39
+    }
+  },
+  {
+    "id": "verdigris",
+    "term": "verdigris",
+    "aliases": [
+      "verdigris"
+    ],
+    "note": "Green or blue-green corrosion products on copper and its alloys; also a historical pigment name.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/verdigris",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Greenish corrosion on copper or its alloys.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-10",
+      "paragraph": "p-286",
+      "index": 53
+    }
+  },
+  {
+    "id": "triskele",
+    "term": "Triskele",
+    "aliases": [
+      "Triskele",
+      "triskelion"
+    ],
+    "note": "A three-armed emblem, usually formed from three bent legs or three spirals radiating from one center. Also called a triskelion.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/triskele",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A three-armed emblem of legs or spirals.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-19",
+      "paragraph": "p-099",
+      "index": 62
+    }
+  },
+  {
+    "id": "omophagist",
+    "term": "omophagist",
+    "aliases": [
+      "omophagist",
+      "omophagists"
+    ],
+    "note": "A person who eats raw meat.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/omophagist",
+        "label": "Wiktionary"
+      }
+    ],
+    "short": "Someone who eats raw meat.",
+    "occurrences": 9,
+    "first": {
+      "chapter": "green-22",
+      "paragraph": "p-017",
+      "index": 39
+    }
+  },
+  {
+    "id": "erebus",
+    "term": "Erebus",
+    "aliases": [
+      "Erebus"
+    ],
+    "note": "The personification of primordial darkness in Greek mythology. In Hesiod’s Theogony, Erebus emerges from Chaos and, with Night, becomes the parent of Aether and Day.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Text/HesiodTheogony.html",
+        "label": "Hesiod"
+      }
+    ],
+    "short": "Primordial darkness personified in Greek myth.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-17",
+      "paragraph": "p-270",
+      "index": 60
+    }
+  },
+  {
+    "id": "typhon",
+    "term": "Typhon",
+    "aliases": [
+      "Typhon"
+    ],
+    "note": "A monstrous adversary of Zeus in Greek mythology, also called Typhoeus. Hesiod describes him as a son of Earth and Tartarus with a hundred serpent heads. Zeus defeats him with thunderbolts.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Text/HesiodTheogony.html",
+        "label": "Hesiod"
+      }
+    ],
+    "short": "A many-headed monster opposed to Zeus.",
+    "occurrences": 6,
+    "first": {
+      "chapter": "return-06",
+      "paragraph": "p-354",
+      "index": 49
+    }
+  },
+  {
+    "id": "sieur",
+    "term": "sieur",
+    "aliases": [
+      "sieur",
+      "sieurs"
+    ],
+    "note": "An old French-derived form of address meaning lord or sir.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sieur",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "An old form of address: lord or sir.",
+    "occurrences": 4,
+    "first": {
+      "chapter": "green-22",
+      "paragraph": "p-021",
+      "index": 39
+    }
+  },
+  {
+    "id": "cubit",
+    "term": "cubit",
+    "aliases": [
+      "cubit",
+      "cubits"
+    ],
+    "note": "An ancient measure based on the distance from the elbow to the tip of the middle finger.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cubit",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "An old measure based on the forearm.",
+    "occurrences": 25,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-120",
+      "index": 1
+    }
+  },
+  {
+    "id": "increate",
+    "term": "increate",
+    "aliases": [
+      "increate"
+    ],
+    "note": "Uncreated; existing without having been made.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/increate",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Uncreated; existing without having been made.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-21",
+      "paragraph": "p-014",
+      "index": 38
+    }
+  },
+  {
+    "id": "lochage",
+    "term": "lochage",
+    "aliases": [
+      "lochage",
+      "lochages"
+    ],
+    "note": "An officer commanding a small division of an ancient Greek army.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lochage",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A commander of an ancient Greek military unit.",
+    "occurrences": 8,
+    "first": {
+      "chapter": "green-22",
+      "paragraph": "p-204",
+      "index": 39
+    }
+  },
+  {
+    "id": "bowsprit",
+    "term": "bowsprit",
+    "aliases": [
+      "bowsprit",
+      "bowsprits"
+    ],
+    "note": "A spar projecting forward from a ship’s bow, supporting its forward sails and rigging.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bowsprit",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A spar projecting from a ship’s bow.",
+    "occurrences": 16,
+    "first": {
+      "chapter": "blue-02",
+      "paragraph": "p-025",
+      "index": 2
+    }
+  },
+  {
+    "id": "astern",
+    "term": "astern",
+    "aliases": [
+      "astern"
+    ],
+    "note": "Behind a ship, or toward its stern.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/astern",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Behind a ship; toward its stern.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-17",
+      "paragraph": "p-246",
+      "index": 60
+    }
+  },
+  {
+    "id": "halyard",
+    "term": "halyard",
+    "aliases": [
+      "halyard",
+      "halyards"
+    ],
+    "note": "A rope used to hoist or lower a sail, flag, or spar.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/halyard",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A rope used to raise a sail or flag.",
+    "occurrences": 4,
+    "first": {
+      "chapter": "blue-05",
+      "paragraph": "p-026",
+      "index": 5
+    }
+  },
+  {
+    "id": "foresail",
+    "term": "foresail",
+    "aliases": [
+      "foresail",
+      "foresails"
+    ],
+    "note": "A sail set on the foremast or toward the forward part of a vessel.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/foresail",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A sail on the foremast or forward part of a ship.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-02",
+      "paragraph": "p-079",
+      "index": 2
+    }
+  },
+  {
+    "id": "ashlar",
+    "term": "ashlar",
+    "aliases": [
+      "ashlar",
+      "ashlars"
+    ],
+    "note": "Stone cut into squared blocks with finished faces for building walls.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ashlar",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Squared stone cut for regular masonry.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-09",
+      "paragraph": "p-021",
+      "index": 26
+    }
+  },
+  {
+    "id": "aureate",
+    "term": "aureate",
+    "aliases": [
+      "aureate"
+    ],
+    "note": "Golden in color or ornamented with gold.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/aureate",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Golden or gilded.",
+    "occurrences": 6,
+    "first": {
+      "chapter": "green-19",
+      "paragraph": "p-018",
+      "index": 36
+    }
+  },
+  {
+    "id": "sotto-voce",
+    "term": "sotto voce",
+    "aliases": [
+      "sotto voce"
+    ],
+    "note": "In a low, quiet voice.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sotto%20voce",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "In a quiet or lowered voice.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-408",
+      "index": 45
+    }
+  },
+  {
+    "id": "spume",
+    "term": "spume",
+    "aliases": [
+      "spume"
+    ],
+    "note": "Foam or froth, especially on rough water.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/spume",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Foam or froth.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-10",
+      "paragraph": "p-162",
+      "index": 10
+    }
+  },
+  {
+    "id": "freeboard",
+    "term": "freeboard",
+    "aliases": [
+      "freeboard"
+    ],
+    "note": "The vertical distance between a ship’s waterline and the edge of its upper deck.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/freeboard",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "The height of a ship’s deck above its waterline.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-02",
+      "paragraph": "p-080",
+      "index": 2
+    }
+  },
+  {
+    "id": "backstay",
+    "term": "backstay",
+    "aliases": [
+      "backstay",
+      "backstays"
+    ],
+    "note": "A rope or cable supporting a mast from behind.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/backstay",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A rope supporting a mast from behind.",
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-06",
+      "paragraph": "p-009",
+      "index": 6
+    }
+  },
+  {
+    "id": "scintillate",
+    "term": "scintillate",
+    "aliases": [
+      "scintillate",
+      "scintillated",
+      "scintillating"
+    ],
+    "note": "To flash, sparkle, or give off small bursts of light.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/scintillate",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "To sparkle or flash.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-15",
+      "paragraph": "p-019",
+      "index": 15
+    }
+  },
+  {
+    "id": "carven",
+    "term": "carven",
+    "aliases": [
+      "carven"
+    ],
+    "note": "Carved; an old form of the word.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carven",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Carved.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-10",
+      "paragraph": "p-075",
+      "index": 53
+    }
+  },
+  {
+    "id": "eata",
+    "term": "Eata",
+    "aliases": [
+      "Eata"
+    ],
+    "note": "A seventh-century Northumbrian monk and bishop, a pupil of Aidan. He led the monastery at Melrose and served as bishop of Lindisfarne and Hexham. He died in 686.",
+    "sources": [
+      {
+        "url": "https://www.newadvent.org/cathen/05240c.htm",
+        "label": "Catholic Encyclopedia: St. Eata"
+      }
+    ],
+    "short": "A seventh-century Northumbrian monk and bishop.",
+    "occurrences": 3,
+    "first": {
+      "chapter": "return-13",
+      "paragraph": "p-022",
+      "index": 56
+    }
+  },
+  {
+    "id": "gurloes",
+    "term": "Gurloes",
+    "aliases": [
+      "Gurloes"
+    ],
+    "note": "Gurloës, also called Urlo, was the first abbot of Sainte-Croix at Quimperlé in Brittany. He died in 1057; his tomb became a focus of local veneration.",
+    "sources": [
+      {
+        "url": "https://fr.wikipedia.org/wiki/Saint_Gurlo%C3%ABs",
+        "label": "Saint Gurloës"
+      }
+    ],
+    "short": "The first abbot of Sainte-Croix at Quimperlé.",
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-13",
+      "paragraph": "p-038",
+      "index": 56
+    }
+  },
+  {
+    "id": "gyoll",
+    "term": "Gyoll",
+    "aliases": [
+      "Gyoll"
+    ],
+    "note": "Gjöll, the river on the road to Hel in Norse mythology. Its bridge, Gjallarbrú, is guarded by Móðguðr. Hermóðr crosses it when he journeys to the dead to seek Baldr.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gj%C3%B6ll",
+        "label": "Gjöll"
+      }
+    ],
+    "short": "Gjöll, the Norse river on the road to Hel.",
+    "occurrences": 5,
+    "first": {
+      "chapter": "green-14",
+      "paragraph": "p-162",
+      "index": 31
+    }
+  },
+  {
+    "id": "nessus",
+    "term": "Nessus",
+    "aliases": [
+      "Nessus"
+    ],
+    "note": "A centaur and ferryman in Greek mythology. Heracles shot him after he attacked Deianira. Before dying, Nessus persuaded her that his blood was a love charm; the poisoned garment she later sent Heracles caused his death.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Georgikos/KentaurosNessos.html",
+        "label": "Theoi: Nessus — ancient sources"
+      }
+    ],
+    "short": "A centaur and ferryman of Greek mythology.",
+    "occurrences": 11,
+    "first": {
+      "chapter": "green-14",
+      "paragraph": "p-145",
+      "index": 31
+    }
+  },
+  {
+    "id": "lune",
+    "term": "Lune",
+    "aliases": [
+      "Lune"
+    ],
+    "note": "French for “moon,” from Latin luna.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/lune#French",
+        "label": "Wiktionary: lune — French"
+      }
+    ],
+    "short": "French for moon.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-14",
+      "paragraph": "p-155",
+      "index": 31
+    }
+  },
+  {
+    "id": "matachin",
+    "term": "Matachin",
+    "aliases": [
+      "Matachin"
+    ],
+    "note": "A sword dancer dressed in an elaborate or fantastic costume.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/matachin",
+        "label": "Merriam-Webster: matachin"
+      }
+    ],
+    "short": "A sword dancer in elaborate costume.",
+    "occurrences": 2,
+    "first": {
+      "chapter": "green-22",
+      "paragraph": "p-127",
+      "index": 39
+    }
+  },
+  {
+    "id": "drotte",
+    "term": "Drotte",
+    "aliases": [
+      "Drotte"
+    ],
+    "note": "Droctoveus, a sixth-century monk and abbot of the Paris monastery later called Saint-Germain-des-Prés. A pupil of Germanus, he is traditionally said to have died around 580.",
+    "sources": [
+      {
+        "url": "https://www.ecatholic2000.com/butler/vol3/march47.shtml",
+        "label": "Butler: St. Droctovæus"
+      }
+    ],
+    "short": "Droctoveus, a sixth-century abbot in Paris.",
+    "occurrences": 3,
+    "first": {
+      "chapter": "return-13",
+      "paragraph": "p-022",
+      "index": 56
+    }
+  },
+  {
+    "id": "manteion",
+    "term": "manteion",
+    "short": "An oracle’s shrine.",
+    "note": "Greek manteion: an oracle, or the sanctuary where a diviner gives an oracular response. The word belongs to the family of mantis, a seer.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/μαντεῖον",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "manteion",
+      "manteions"
+    ],
+    "occurrences": 59,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-021",
+      "index": 1
+    }
+  },
+  {
+    "id": "palaestra",
+    "term": "palaestra",
+    "short": "A wrestling school or exercise court.",
+    "note": "A palaestra was a place for wrestling and athletic training in ancient Greece or Rome. The Latin word comes from Greek palaistra, related to palē, wrestling. By extension the word can name a school or place of instruction.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/palaestra",
+        "label": "Wiktionary · palaestra"
+      }
+    ],
+    "aliases": [
+      "palaestra",
+      "palaestras"
+    ],
+    "occurrences": 24,
+    "first": {
+      "chapter": "blue-02",
+      "paragraph": "p-095",
+      "index": 2
+    }
+  },
+  {
+    "id": "patera",
+    "term": "Patera",
+    "short": "“Father,” as a form of address.",
+    "note": "Patera is the form used when directly addressing a father in modern Greek. Pateras also serves as a title for a priest or monk.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/πατέρας",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Patera",
+      "Pateras"
+    ],
+    "occurrences": 246,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-021",
+      "index": 1
+    }
+  },
+  {
+    "id": "maytera",
+    "term": "Maytera",
+    "short": "Greek “mother.”",
+    "note": "A rendering of Greek mitera, meaning mother. The same form is used when directly addressing one’s mother.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/μητέρα",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Maytera",
+      "Mayteras"
+    ],
+    "occurrences": 166,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-217",
+      "index": 1
+    }
+  },
+  {
+    "id": "augur",
+    "term": "augur",
+    "short": "A priest who interprets omens.",
+    "note": "A diviner, especially an official religious interpreter of signs in ancient Rome. Augury sought indications of divine approval or disapproval before an undertaking.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/augur",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "augur",
+      "augurs"
+    ],
+    "occurrences": 96,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-021",
+      "index": 1
+    }
+  },
+  {
+    "id": "sibyl",
+    "term": "sibyl",
+    "short": "A woman credited with prophetic powers.",
+    "note": "A prophetess through whom a god was believed to speak. Ancient traditions placed sibyls in several regions, including Greece and Italy; the Cumaean Sibyl was especially celebrated.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sibyl",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "sibyl",
+      "sibyls"
+    ],
+    "occurrences": 24,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-236",
+      "index": 1
+    }
+  },
+  {
+    "id": "azoth",
+    "term": "azoth",
+    "short": "Mercury in alchemical terminology.",
+    "note": "An alchemical name for mercury, regarded as a fundamental principle of metals. Paracelsian writing also used azoth for a universal remedy.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/azoth",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "azoth",
+      "azoths"
+    ],
+    "occurrences": 41,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-263",
+      "index": 1
+    }
+  },
+  {
+    "id": "cenoby",
+    "term": "cenoby",
+    "short": "A religious community’s dwelling.",
+    "note": "A monastery or convent where members live in community, rather than as solitary hermits. The name ultimately combines Greek words for common and life.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cenoby",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "cenoby",
+      "cenobies"
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "blue-10",
+      "paragraph": "p-016",
+      "index": 10
+    }
+  },
+  {
+    "id": "coadjutor",
+    "term": "coadjutor",
+    "short": "An assistant, especially to a bishop.",
+    "note": "A helper or colleague in an office. In church usage, a coadjutor assists a bishop and may hold the right to succeed that bishop.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/coadjutor",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "coadjutor",
+      "coadjutors"
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-040",
+      "index": 1
+    }
+  },
+  {
+    "id": "prolocutor",
+    "term": "prolocutor",
+    "short": "A presiding officer or spokesman.",
+    "note": "A person appointed to speak for others, or to preside over an assembly. In ecclesiastical usage the title belongs to the chair of a convocation.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/prolocutor",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "prolocutor",
+      "prolocutors"
+    ],
+    "occurrences": 44,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-131",
+      "index": 1
+    }
+  },
+  {
+    "id": "prothonotary",
+    "term": "prothonotary",
+    "short": "A principal clerk.",
+    "note": "The chief clerk of certain courts or other official bodies. The title derives from words meaning first and notary.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/prothonotary",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "prothonotary",
+      "prothonotaries"
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "return-16",
+      "paragraph": "p-001",
+      "index": 59
+    }
+  },
+  {
+    "id": "pas",
+    "term": "Pas",
+    "short": "Greek “all” or “whole.”",
+    "note": "Pas is the masculine singular of the Greek word for all or whole. Its corresponding feminine and neuter forms are pasa and pan.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/πᾶς",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Pas"
+    ],
+    "occurrences": 198,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-126",
+      "index": 1
+    }
+  },
+  {
+    "id": "hierax",
+    "term": "Hierax",
+    "short": "Greek “hawk” or “falcon.”",
+    "note": "Hierax is an ancient Greek word for a hawk or falcon. Its stem hierak- appears in compounds and related names.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/ἱέραξ",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Hierax"
+    ],
+    "occurrences": 15,
+    "first": {
+      "chapter": "blue-14",
+      "paragraph": "p-035",
+      "index": 14
+    }
+  },
+  {
+    "id": "scylla",
+    "term": "Scylla",
+    "short": "A many-headed sea monster of Greek myth.",
+    "note": "A monster inhabiting the rocks opposite Charybdis. In Homer’s Odyssey she has six heads on long necks and snatches sailors from vessels passing her cave.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Pontios/Skylla.html",
+        "label": "Greek text and classical references"
+      }
+    ],
+    "aliases": [
+      "Scylla"
+    ],
+    "occurrences": 126,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-128",
+      "index": 1
+    }
+  },
+  {
+    "id": "tartaros",
+    "term": "Tartaros",
+    "short": "The abyss beneath the underworld.",
+    "note": "Tartarus, the deep pit below the realm of the dead in Greek cosmology, also personified as a primordial being. In Hesiod the defeated Titans are confined there.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Protogenos/Tartaros.html",
+        "label": "Greek text and classical references"
+      }
+    ],
+    "aliases": [
+      "Tartaros"
+    ],
+    "occurrences": 11,
+    "first": {
+      "chapter": "blue-05",
+      "paragraph": "p-041",
+      "index": 5
+    }
+  },
+  {
+    "id": "molpe",
+    "term": "Molpe",
+    "short": "A Siren whose name means “song.”",
+    "note": "Molpe is one of the Sirens named in the Hesiodic tradition. The Sirens’ alluring song draws passing sailors toward destruction. Her Greek name means song.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Pontios/Seirenes.html",
+        "label": "Greek text and classical references"
+      }
+    ],
+    "aliases": [
+      "Molpe"
+    ],
+    "occurrences": 32,
+    "first": {
+      "chapter": "blue-05",
+      "paragraph": "p-088",
+      "index": 5
+    }
+  },
+  {
+    "id": "thelxiepeia",
+    "term": "Thelxiepeia",
+    "short": "One of the Sirens of Greek tradition.",
+    "note": "A Siren named in the account attributed to Apollodorus. The Sirens are supernatural singers whose voices enchant those who hear them.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Pontios/Seirenes.html",
+        "label": "Greek text and classical references"
+      }
+    ],
+    "aliases": [
+      "Thelxiepeia"
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "blue-06",
+      "paragraph": "p-016",
+      "index": 6
+    }
+  },
+  {
+    "id": "sphigx",
+    "term": "Sphigx",
+    "short": "The Greek sphinx.",
+    "note": "A form of the Greek name for the sphinx: a creature with a lion’s body, a woman’s head, and wings. The Theban sphinx destroyed travelers who could not answer her riddle, until Oedipus solved it.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Ther/Sphinx.html",
+        "label": "Greek text and classical references"
+      }
+    ],
+    "aliases": [
+      "Sphigx"
+    ],
+    "occurrences": 27,
+    "first": {
+      "chapter": "blue-12",
+      "paragraph": "p-048",
+      "index": 12
+    }
+  },
+  {
+    "id": "talus",
+    "term": "talus",
+    "short": "Talos, the bronze guardian of Crete.",
+    "note": "Talos is the bronze man of Greek legend who patrols Crete and drives off intruders. In the story of the Argonauts, Medea helps overcome him. Talus is an alternative spelling.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Gigante/GiganteTalos.html",
+        "label": "Greek text and classical references"
+      }
+    ],
+    "aliases": [
+      "talus",
+      "taluses"
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "blue-02",
+      "paragraph": "p-013",
+      "index": 2
+    }
+  },
+  {
+    "id": "sciathan",
+    "term": "Sciathan",
+    "short": "Irish “wing.”",
+    "note": "Irish sciathán means a wing; it can also denote a projecting side or extension. Its ending is diminutive.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/sciathán",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Sciathan"
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-10",
+      "paragraph": "p-255",
+      "index": 10
+    }
+  },
+  {
+    "id": "chenille",
+    "term": "Chenille",
+    "short": "A shrub with long, red flower tassels.",
+    "note": "The chenille plant, Acalypha hispida, bears hanging, densely packed tassels of tiny flowers. Their soft, furry appearance gives it the name red-hot cat’s tail.",
+    "sources": [
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/acalypha-hispida/",
+        "label": "North Carolina State Extension"
+      }
+    ],
+    "aliases": [
+      "Chenille"
+    ],
+    "occurrences": 29,
+    "first": {
+      "chapter": "blue-02",
+      "paragraph": "p-005",
+      "index": 2
+    }
+  },
+  {
+    "id": "addax",
+    "term": "Addax",
+    "short": "A Saharan antelope with spiral horns.",
+    "note": "A pale-coated desert antelope, Addax nasomaculatus, with long, twisted horns. It is native to the Sahara.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/addax",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Addax"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-277",
+      "index": 45
+    }
+  },
+  {
+    "id": "auk",
+    "term": "Auk",
+    "short": "A northern diving seabird.",
+    "note": "A short-necked seabird of the family Alcidae, typically black and white. Auks use their wings underwater while diving; the extinct great auk, unlike living auks, was flightless.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/auk",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Auk"
+    ],
+    "occurrences": 42,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-234",
+      "index": 1
+    }
+  },
+  {
+    "id": "galago",
+    "term": "Galago",
+    "short": "A bushbaby.",
+    "note": "A galago, or bushbaby, is a small African primate active chiefly at night and at home in trees. Galagos have large eyes and belong to the family Galagidae. The name is used both broadly and as a zoological genus name.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/galago",
+        "label": "Wiktionary · galago"
+      }
+    ],
+    "aliases": [
+      "Galago"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-09",
+      "paragraph": "p-060",
+      "index": 52
+    }
+  },
+  {
+    "id": "gelada",
+    "term": "Gelada",
+    "short": "A grass-eating Ethiopian monkey.",
+    "note": "Theropithecus gelada, a large, long-haired monkey resembling a baboon. It is native to Ethiopia and feeds chiefly on grasses.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gelada",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Gelada"
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "blue-09",
+      "paragraph": "p-077",
+      "index": 9
+    }
+  },
+  {
+    "id": "incus",
+    "term": "Incus",
+    "short": "The anvil-shaped bone of the middle ear.",
+    "note": "The middle one of the three auditory ossicles, between the malleus and stapes. Its Latin name means anvil, describing its shape.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/incus",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Incus"
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "blue-04",
+      "paragraph": "p-022",
+      "index": 4
+    }
+  },
+  {
+    "id": "quetzal",
+    "term": "Quetzal",
+    "short": "A brilliant Central American trogon.",
+    "note": "A forest bird with iridescent green upperparts and red underparts. In the resplendent quetzal, the male’s exceptionally long upper tail-coverts extend well beyond the tail itself.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/quetzal",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Quetzal"
+    ],
+    "occurrences": 30,
+    "first": {
+      "chapter": "blue-04",
+      "paragraph": "p-022",
+      "index": 4
+    }
+  },
+  {
+    "id": "remora",
+    "term": "Remora",
+    "short": "A fish with a suction disk on its head.",
+    "note": "A suckerfish that attaches itself to larger marine animals or other surfaces. The Latin name means delay, from an ancient belief that these fish could hold back a ship.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/remora",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Remora"
+    ],
+    "occurrences": 62,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-033",
+      "index": 1
+    }
+  },
+  {
+    "id": "loris",
+    "term": "Loris",
+    "short": "A slow-moving nocturnal primate.",
+    "note": "A tailless or short-tailed, tree-dwelling primate native to southern Asia. Lorises have large eyes and move deliberately along branches.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/loris",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Loris"
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "green-01",
+      "paragraph": "p-181",
+      "index": 18
+    }
+  },
+  {
+    "id": "potto",
+    "term": "Potto",
+    "short": "A nocturnal African tree-dwelling primate.",
+    "note": "A woolly-coated primate of tropical Africa, with a short tail and a reduced index finger. Pottos move slowly and grip branches firmly.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/potto",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Potto"
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "blue-05",
+      "paragraph": "p-004",
+      "index": 5
+    }
+  },
+  {
+    "id": "tarsier",
+    "term": "Tarsier",
+    "short": "A small, very large-eyed nocturnal primate.",
+    "note": "A primate of Southeast Asian islands with long hind limbs and a slender tail. Its conspicuously large eyes suit its nocturnal life.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tarsier",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Tarsier"
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "return-09",
+      "paragraph": "p-060",
+      "index": 52
+    }
+  },
+  {
+    "id": "jerboa",
+    "term": "Jerboa",
+    "short": "A long-legged jumping desert rodent.",
+    "note": "A small nocturnal rodent of arid parts of Africa and Asia. Its elongated hind legs and long balancing tail support rapid, kangaroo-like leaps.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/jerboa",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Jerboa"
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-17",
+      "paragraph": "p-260",
+      "index": 60
+    }
+  },
+  {
+    "id": "tussah",
+    "term": "Tussah",
+    "short": "A coarse, naturally brownish wild silk.",
+    "note": "Silk produced by certain moths other than the domesticated mulberry silkworm. The word, from Hindi and Urdu tasar, also names the moth or caterpillar producing it.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tussah",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Tussah"
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-10",
+      "paragraph": "p-317",
+      "index": 53
+    }
+  },
+  {
+    "id": "incanto",
+    "term": "Incanto",
+    "short": "Italian “enchantment” or “spell.”",
+    "note": "Italian incanto means an enchantment, a spell, or the feeling of being charmed. It comes from the word family of incantare, to bewitch by chanting. An identically spelled auction term has a different history.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/incanto1/",
+        "label": "Treccani · incanto"
+      }
+    ],
+    "aliases": [
+      "Incanto"
+    ],
+    "occurrences": 163,
+    "first": {
+      "chapter": "green-prelude",
+      "paragraph": "p-002",
+      "index": 17
+    }
+  },
+  {
+    "id": "inclito",
+    "term": "Inclito",
+    "short": "Italian “illustrious” or “glorious.”",
+    "note": "Italian inclito means illustrious, renowned, or glorious. It continues Latin inclitus, a word for someone celebrated in what is heard or told about them. It is elevated literary language, not an everyday job title.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/inclito/",
+        "label": "Treccani · inclito"
+      }
+    ],
+    "aliases": [
+      "Inclito"
+    ],
+    "occurrences": 280,
+    "first": {
+      "chapter": "green-prelude",
+      "paragraph": "p-008",
+      "index": 17
+    }
+  },
+  {
+    "id": "gulo",
+    "term": "Gulo",
+    "short": "The wolverine’s genus.",
+    "note": "Gulo is the zoological genus containing the wolverine. The Latin word gulo means a glutton.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gulo",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Gulo"
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-171",
+      "index": 45
+    }
+  },
+  {
+    "id": "xiphias",
+    "term": "Xiphias",
+    "short": "The swordfish’s genus.",
+    "note": "Xiphias is the genus of the common swordfish. The Greek name is related to xiphos, a sword.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/xiphias",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Xiphias"
+    ],
+    "occurrences": 12,
+    "first": {
+      "chapter": "green-01",
+      "paragraph": "p-028",
+      "index": 18
+    }
+  },
+  {
+    "id": "urus",
+    "term": "Urus",
+    "short": "The aurochs, an extinct wild ox.",
+    "note": "An old name for the aurochs, the wild ancestor of domestic cattle. Urus was the Latin name for this animal.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/urus",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Urus"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-21",
+      "paragraph": "p-065",
+      "index": 38
+    }
+  },
+  {
+    "id": "krait",
+    "term": "Krait",
+    "short": "A venomous Asian snake.",
+    "note": "A krait is a venomous Asian snake of the genus Bungarus. Kraits belong to the cobra family, Elapidae; several species are strikingly banded. The English name comes from Hindi.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/krait",
+        "label": "Merriam-Webster · krait"
+      }
+    ],
+    "aliases": [
+      "Krait"
+    ],
+    "occurrences": 187,
+    "first": {
+      "chapter": "blue-05",
+      "paragraph": "p-074",
+      "index": 5
+    }
+  },
+  {
+    "id": "eschar",
+    "term": "Eschar",
+    "short": "A dry crust of dead tissue.",
+    "note": "An eschar is a crust of dead tissue left by a burn or other injury. The word concerns the damaged tissue itself, not an ordinary mark left after a wound has healed. It comes through Latin from Greek eschara.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/eschar",
+        "label": "Merriam-Webster · eschar"
+      }
+    ],
+    "aliases": [
+      "Eschar"
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-037",
+      "index": 1
+    }
+  },
+  {
+    "id": "olivine",
+    "term": "Olivine",
+    "short": "A greenish magnesium–iron silicate.",
+    "note": "Olivine is a group of magnesium–iron silicate minerals, commonly olive-green. Transparent material of gem quality is called peridot. The name describes the mineral’s characteristic color, not a connection to the olive tree itself.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/olivine",
+        "label": "Merriam-Webster · olivine"
+      }
+    ],
+    "aliases": [
+      "Olivine"
+    ],
+    "occurrences": 60,
+    "first": {
+      "chapter": "blue-06",
+      "paragraph": "p-078",
+      "index": 6
+    }
+  },
+  {
+    "id": "seawrack",
+    "term": "Seawrack",
+    "short": "Seaweed, especially cast up on shore.",
+    "note": "Sea wrack is marine vegetation washed onto a beach. Wrack is an old word for seaweed and other material left along the tide line.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sea%20wrack",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Seawrack"
+    ],
+    "occurrences": 334,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-252",
+      "index": 1
+    }
+  },
+  {
+    "id": "gyrfalcon",
+    "term": "Gyrfalcon",
+    "short": "A large Arctic falcon.",
+    "note": "Falco rusticolus, the largest species of falcon. Its plumage ranges from dark gray to predominantly white.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gyrfalcon",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Gyrfalcon"
+    ],
+    "occurrences": 60,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-034",
+      "index": 1
+    }
+  },
+  {
+    "id": "cugino",
+    "term": "Cugino",
+    "short": "Italian “cousin.”",
+    "note": "A cousin: the child of an aunt or uncle. The feminine form is cugina.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/cugino/",
+        "label": "Treccani"
+      }
+    ],
+    "aliases": [
+      "Cugino"
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "green-01",
+      "paragraph": "p-007",
+      "index": 18
+    }
+  },
+  {
+    "id": "cuoio",
+    "term": "Cuoio",
+    "short": "Italian “leather.”",
+    "note": "Animal hide prepared by tanning. Italian distinguishes this material word from the living skin.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/cuoio/",
+        "label": "Treccani"
+      }
+    ],
+    "aliases": [
+      "Cuoio"
+    ],
+    "occurrences": 41,
+    "first": {
+      "chapter": "green-16",
+      "paragraph": "p-088",
+      "index": 33
+    }
+  },
+  {
+    "id": "decina",
+    "term": "Decina",
+    "short": "Italian “a group of ten.”",
+    "note": "A set of ten things or persons; also an approximate quantity of ten. It is formed from dieci, ten.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/decina/",
+        "label": "Treccani"
+      }
+    ],
+    "aliases": [
+      "Decina"
+    ],
+    "occurrences": 16,
+    "first": {
+      "chapter": "green-01",
+      "paragraph": "p-250",
+      "index": 18
+    }
+  },
+  {
+    "id": "fava",
+    "term": "Fava",
+    "short": "Italian “broad bean.”",
+    "note": "The broad bean, Vicia faba, or one of its large edible seeds. The Italian name descends from Latin faba.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/fava/",
+        "label": "Treccani"
+      }
+    ],
+    "aliases": [
+      "Fava"
+    ],
+    "occurrences": 316,
+    "first": {
+      "chapter": "green-01",
+      "paragraph": "p-218",
+      "index": 18
+    }
+  },
+  {
+    "id": "soldo",
+    "term": "Soldo",
+    "short": "An old Italian coin.",
+    "note": "A small monetary denomination used in several Italian states; later a familiar word for a small amount of money. The name descends from Latin solidus.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/soldo/",
+        "label": "Treccani"
+      }
+    ],
+    "aliases": [
+      "Soldo"
+    ],
+    "occurrences": 61,
+    "first": {
+      "chapter": "green-01",
+      "paragraph": "p-128",
+      "index": 18
+    }
+  },
+  {
+    "id": "olmo",
+    "term": "Olmo",
+    "short": "Italian “elm.”",
+    "note": "An elm tree, of the genus Ulmus. The word descends from Latin ulmus.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/olmo/",
+        "label": "Treccani"
+      }
+    ],
+    "aliases": [
+      "Olmo"
+    ],
+    "occurrences": 30,
+    "first": {
+      "chapter": "green-prelude",
+      "paragraph": "p-003",
+      "index": 17
+    }
+  },
+  {
+    "id": "dentro",
+    "term": "Dentro",
+    "short": "Italian “inside.”",
+    "note": "Inside or within; an adverb referring to an interior position or movement into an interior.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/dentro/",
+        "label": "Treccani"
+      }
+    ],
+    "aliases": [
+      "Dentro"
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "green-07",
+      "paragraph": "p-003",
+      "index": 24
+    }
+  },
+  {
+    "id": "eco",
+    "term": "Eco",
+    "short": "Italian “echo.”",
+    "note": "An echo: sound heard again after reflection from a surface. The word comes from the Greek name Echo.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/eco/",
+        "label": "Treccani"
+      }
+    ],
+    "aliases": [
+      "Eco"
+    ],
+    "occurrences": 57,
+    "first": {
+      "chapter": "green-09",
+      "paragraph": "p-041",
+      "index": 26
+    }
+  },
+  {
+    "id": "dorp",
+    "term": "Dorp",
+    "short": "Dutch “village.”",
+    "note": "A village or small settlement. Dorp is the ordinary Dutch noun, with the plural dorpen.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/dorp#Dutch",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Dorp"
+    ],
+    "occurrences": 55,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-030",
+      "index": 1
+    }
+  },
+  {
+    "id": "wijzer",
+    "term": "Wijzer",
+    "short": "Dutch “pointer” or “clock hand.”",
+    "note": "A pointer or indicator, such as the hand of a clock. The noun is formed from wijzen, to point or indicate.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/wijzer#Dutch",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Wijzer"
+    ],
+    "occurrences": 96,
+    "first": {
+      "chapter": "blue-04",
+      "paragraph": "p-136",
+      "index": 4
+    }
+  },
+  {
+    "id": "beroep",
+    "term": "Beroep",
+    "short": "Dutch “profession” or “occupation.”",
+    "note": "A person’s profession, occupation, or calling. The Dutch word is related to the verb beroepen.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/beroep#Dutch",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Beroep"
+    ],
+    "occurrences": 45,
+    "first": {
+      "chapter": "return-05",
+      "paragraph": "p-068",
+      "index": 48
+    }
+  },
+  {
+    "id": "taal",
+    "term": "Taal",
+    "short": "Dutch “language.”",
+    "note": "Language or speech; a particular language. Its Dutch plural is talen.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/taal#Dutch",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Taal"
+    ],
+    "occurrences": 18,
+    "first": {
+      "chapter": "return-11",
+      "paragraph": "p-020",
+      "index": 54
+    }
+  },
+  {
+    "id": "wapen",
+    "term": "Wapen",
+    "short": "Dutch “weapon.”",
+    "note": "A weapon or arm. The Dutch plural wapens can refer collectively to armaments.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/wapen#Dutch",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Wapen"
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "return-07",
+      "paragraph": "p-201",
+      "index": 50
+    }
+  },
+  {
+    "id": "leger",
+    "term": "leger",
+    "short": "Dutch “army.”",
+    "note": "The Dutch word for an army. A legerman is literally an army-man.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/leger#Dutch",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "leger",
+      "legerman",
+      "legermen"
+    ],
+    "occurrences": 22,
+    "first": {
+      "chapter": "return-03",
+      "paragraph": "p-001",
+      "index": 46
+    }
+  },
+  {
+    "id": "gaon",
+    "term": "Gaon",
+    "short": "Hindi “village.”",
+    "note": "A village; the Hindi word गाँव is commonly transliterated gā̃v or gaon. Its vowel is nasalized.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/गाँव",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Gaon"
+    ],
+    "occurrences": 105,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-016",
+      "index": 1
+    }
+  },
+  {
+    "id": "nadi",
+    "term": "Nadi",
+    "short": "Hindi “river.”",
+    "note": "Nadī is the Hindi word for a river, inherited from Sanskrit.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/नदी#Hindi",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Nadi"
+    ],
+    "occurrences": 18,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-264",
+      "index": 1
+    }
+  },
+  {
+    "id": "rajan",
+    "term": "Rajan",
+    "short": "Sanskrit “king.”",
+    "note": "Rājan is a Sanskrit word for a king or ruler. Its nominative singular form rājā is the source of the familiar title raja.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/राजन्",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Rajan",
+      "rajan"
+    ],
+    "occurrences": 133,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-081",
+      "index": 1
+    }
+  },
+  {
+    "id": "blanko",
+    "term": "Blanko",
+    "short": "Esperanto “the color white.”",
+    "note": "The Esperanto noun for the color white. The corresponding adjective is blanka.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/blanko#Esperanto",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Blanko"
+    ],
+    "occurrences": 130,
+    "first": {
+      "chapter": "green-01",
+      "paragraph": "p-136",
+      "index": 18
+    }
+  },
+  {
+    "id": "azijin",
+    "term": "Azijin",
+    "short": "Dutch azijn: vinegar.",
+    "note": "Azijn is the Dutch word for vinegar, a sour liquid produced through acetic fermentation.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/azijn#Dutch",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Azijin"
+    ],
+    "occurrences": 44,
+    "first": {
+      "chapter": "return-03",
+      "paragraph": "p-002",
+      "index": 46
+    }
+  },
+  {
+    "id": "orpine",
+    "term": "Orpine",
+    "short": "A fleshy-leaved stonecrop.",
+    "note": "Hylotelephium telephium, formerly Sedum telephium, is a perennial succulent with clusters of small, star-shaped pink or purplish flowers. It is also called live-forever.",
+    "sources": [
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/hylotelephium-telephium/",
+        "label": "North Carolina State Extension"
+      }
+    ],
+    "aliases": [
+      "Orpine"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-06",
+      "paragraph": "p-493",
+      "index": 49
+    }
+  },
+  {
+    "id": "tansy",
+    "term": "Tansy",
+    "short": "An aromatic herb with yellow flower buttons.",
+    "note": "Tanacetum vulgare has finely divided, fernlike leaves and dense clusters of yellow flowers. The crushed foliage has a strong, camphorlike scent.",
+    "sources": [
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/tanacetum-vulgare/",
+        "label": "North Carolina State Extension"
+      }
+    ],
+    "aliases": [
+      "Tansy"
+    ],
+    "occurrences": 76,
+    "first": {
+      "chapter": "green-17",
+      "paragraph": "p-005",
+      "index": 34
+    }
+  },
+  {
+    "id": "oreb",
+    "term": "Oreb",
+    "short": "Hebrew “raven.”",
+    "note": "The Hebrew noun orev means a raven or crow. The older transliteration Oreb preserves a b for the same Hebrew consonant.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/עורב",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Oreb"
+    ],
+    "occurrences": 691,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-004",
+      "index": 1
+    }
+  },
+  {
+    "id": "kypris",
+    "term": "Kypris",
+    "short": "An ancient name of Aphrodite.",
+    "note": "Kypris, also written Cypris, is a name of Aphrodite, the Greek goddess of love and beauty.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Olympios/Aphrodite.html",
+        "label": "Greek text and classical references"
+      }
+    ],
+    "aliases": [
+      "Kypris"
+    ],
+    "occurrences": 8,
+    "first": {
+      "chapter": "blue-06",
+      "paragraph": "p-016",
+      "index": 6
+    }
+  },
+  {
+    "id": "echidna",
+    "term": "Echidna",
+    "short": "A half-woman, half-serpent of Greek myth.",
+    "note": "In Hesiod’s Theogony, Echidna has a nymph’s upper body and an immense snake’s lower body. With Typhon she is the mother of monsters including Cerberus and the Hydra.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Text/HesiodTheogony.html",
+        "label": "Greek text and classical references"
+      }
+    ],
+    "aliases": [
+      "Echidna"
+    ],
+    "occurrences": 35,
+    "first": {
+      "chapter": "blue-02",
+      "paragraph": "p-032",
+      "index": 2
+    }
+  },
+  {
+    "id": "theophany",
+    "term": "theophany",
+    "short": "A visible appearance of a deity.",
+    "note": "A manifestation in which a god becomes visible. The word comes through Greek theophaneia, combining the divine with the idea of appearing.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/theophany",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "theophany",
+      "theophanies"
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "blue-02",
+      "paragraph": "p-049",
+      "index": 2
+    }
+  },
+  {
+    "id": "ayuntamiento",
+    "term": "Ayuntamiento",
+    "short": "Spanish “municipal council.”",
+    "note": "The governing council of a town or city, consisting of its mayor and councillors.",
+    "sources": [
+      {
+        "url": "https://dle.rae.es/ayuntamiento",
+        "label": "Real Academia Española"
+      }
+    ],
+    "aliases": [
+      "Ayuntamiento"
+    ],
+    "occurrences": 14,
+    "first": {
+      "chapter": "blue-04",
+      "paragraph": "p-024",
+      "index": 4
+    }
+  },
+  {
+    "id": "juzgado",
+    "term": "Juzgado",
+    "short": "Spanish “court of law.”",
+    "note": "A court or judicial office; also the place where the judge exercises that office.",
+    "sources": [
+      {
+        "url": "https://dle.rae.es/juzgado",
+        "label": "Real Academia Española"
+      }
+    ],
+    "aliases": [
+      "Juzgado"
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "blue-10",
+      "paragraph": "p-255",
+      "index": 10
+    }
+  },
+  {
+    "id": "orilla",
+    "term": "Orilla",
+    "short": "Spanish “shore” or “bank.”",
+    "note": "The edge of a body of water: the shore of the sea, or the bank of a river or lake.",
+    "sources": [
+      {
+        "url": "https://dle.rae.es/orilla",
+        "label": "Real Academia Española"
+      }
+    ],
+    "aliases": [
+      "Orilla"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-062",
+      "index": 1
+    }
+  },
+  {
+    "id": "alameda",
+    "term": "Alameda",
+    "short": "A tree-lined walk or avenue.",
+    "note": "Spanish alameda originally denotes a grove of poplars; it also names a public walk planted with trees.",
+    "sources": [
+      {
+        "url": "https://dle.rae.es/alameda",
+        "label": "Real Academia Española"
+      }
+    ],
+    "aliases": [
+      "Alameda"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-14",
+      "paragraph": "p-033",
+      "index": 14
+    }
+  },
+  {
+    "id": "teasel",
+    "term": "Teasel",
+    "short": "A bristly-headed plant used in cloth finishing.",
+    "note": "A plant of the genus Dipsacus. The dried heads of fuller’s teasel have hooked prickles and were used to raise a nap on woven cloth.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/teasel",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Teasel"
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "blue-11",
+      "paragraph": "p-073",
+      "index": 11
+    }
+  },
+  {
+    "id": "mucor",
+    "term": "Mucor",
+    "short": "A genus of molds.",
+    "note": "Mucor comprises molds that produce spores in rounded or cylindrical spore cases. The Latin name means mold.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/medical/mucor",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Mucor"
+    ],
+    "occurrences": 119,
+    "first": {
+      "chapter": "blue-03",
+      "paragraph": "p-076",
+      "index": 3
+    }
+  },
+  {
+    "id": "scleroderma",
+    "term": "Scleroderma",
+    "short": "An earthball fungus.",
+    "note": "Scleroderma is a genus of tough-skinned, puffball-like fungi. Their interior darkens as the spores mature; the fungi form close associations with tree roots.",
+    "sources": [
+      {
+        "url": "https://www.mushroomexpert.com/scleroderma.html",
+        "label": "Michael Kuo, MushroomExpert"
+      }
+    ],
+    "aliases": [
+      "Scleroderma"
+    ],
+    "occurrences": 15,
+    "first": {
+      "chapter": "blue-02",
+      "paragraph": "p-012",
+      "index": 2
+    }
+  },
+  {
+    "id": "chough",
+    "term": "chough",
+    "short": "A glossy black, red-legged crow relative.",
+    "note": "A bird of the genus Pyrrhocorax, with dark, glossy plumage and red legs. The English name is pronounced “chuff.”",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chough",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "chough",
+      "choughs"
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "blue-15",
+      "paragraph": "p-047",
+      "index": 15
+    }
+  },
+  {
+    "id": "palustria",
+    "term": "Palustria",
+    "short": "Latin “marshy places.”",
+    "note": "Palustria is a neuter plural form of the Latin adjective paluster, marshy or swampy. It belongs to the same word family as palus, a marsh.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/paluster#Latin",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Palustria"
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-07",
+      "paragraph": "p-002",
+      "index": 7
+    }
+  },
+  {
+    "id": "urbs",
+    "term": "Urbs",
+    "short": "Latin “city.”",
+    "note": "A city or walled town. In Roman usage, urbs without further qualification can mean Rome itself.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/urbs#Latin",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Urbs"
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "return-14",
+      "paragraph": "p-196",
+      "index": 57
+    }
+  },
+  {
+    "id": "hus",
+    "term": "hus",
+    "short": "Greek “pig” or “swine.”",
+    "note": "Ancient Greek hus, written ὗς, means a pig or hog. The noun can be used of either sex.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/ὗς",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "hus",
+      "huses"
+    ],
+    "occurrences": 66,
+    "first": {
+      "chapter": "blue-03",
+      "paragraph": "p-137",
+      "index": 3
+    }
+  },
+  {
+    "id": "marl",
+    "term": "Marl",
+    "short": "An earthy deposit rich in lime.",
+    "note": "Loose or crumbly sediment containing a substantial amount of calcium carbonate, mixed with materials such as clay, sand, or silt.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/marl",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Marl"
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-04",
+      "paragraph": "p-054",
+      "index": 4
+    }
+  },
+  {
+    "id": "molybdenum",
+    "term": "Molybdenum",
+    "short": "A metal used to strengthen steel.",
+    "note": "A metallic element, symbol Mo, added to steel for strength and hardness. Its name descends from Greek molybdos, lead.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/molybdenum",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Molybdenum"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-248",
+      "index": 1
+    }
+  },
+  {
+    "id": "tamarind",
+    "term": "Tamarind",
+    "short": "A tropical tree with tart fruit pods.",
+    "note": "Tamarindus indica produces brown pods containing sticky, acidic pulp around its seeds. The name comes from an Arabic expression meaning Indian date.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tamarind",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Tamarind"
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-265",
+      "index": 1
+    }
+  },
+  {
+    "id": "bufe",
+    "term": "bufe",
+    "short": "A dog.",
+    "note": "An old cant word for a dog, recorded in Francis Grose’s dictionary of slang.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [
+      "bufe",
+      "bufes"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-21",
+      "paragraph": "p-065",
+      "index": 38
+    }
+  },
+  {
+    "id": "prog",
+    "term": "prog",
+    "short": "Food or provisions.",
+    "note": "Food carried or obtained for a meal. As a verb, prog also means to forage.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [
+      "prog"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-347",
+      "index": 45
+    }
+  },
+  {
+    "id": "mort",
+    "term": "mort",
+    "short": "A woman.",
+    "note": "An old cant term for a woman, as recorded in Grose’s historical slang dictionary.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [
+      "mort",
+      "morts"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-04",
+      "paragraph": "p-093",
+      "index": 47
+    }
+  },
+  {
+    "id": "fuligin",
+    "term": "fuligin",
+    "short": "An exceptionally deep, sooty black.",
+    "note": "An exceptionally deep black, named from Latin fuligo, soot. The related English adjective fuliginous means sooty or dark and smoky. The word’s background is the residue of smoke; it is not the name of a standardized artists’ pigment.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/fuliginous",
+        "label": "Merriam-Webster · fuliginous"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-13",
+      "paragraph": "p-052",
+      "index": 56
+    }
+  },
+  {
+    "id": "malrubius",
+    "term": "Malrubius",
+    "short": "Possibly Máel Ruba of Applecross.",
+    "note": "Possibly Máel Ruba, the Irish-born founder of Applecross in western Scotland in 673. Malrubius is a recorded Latinized form of his name. Later traditions present him as a martyr killed by Norse raiders, but their places and dates are not consistent with the early annalistic record.",
+    "sources": [
+      {
+        "url": "https://saintsplaces.gla.ac.uk/saint.php?id=133",
+        "label": "University of Glasgow · Máel Ruba"
+      }
+    ],
+    "aliases": [],
+    "possible": true,
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-13",
+      "paragraph": "p-038",
+      "index": 56
+    }
+  },
+  {
+    "id": "palaemon",
+    "term": "Palaemon",
+    "short": "Possibly an early Egyptian hermit.",
+    "note": "Possibly Palaemon, the Egyptian hermit who instructed Saint Pachomius in ascetic life. Pachomius later established organized monastic communities; Palaemon represents the older discipline of the solitary desert monk.",
+    "sources": [
+      {
+        "url": "https://www.newadvent.org/cathen/11381a.htm",
+        "label": "Catholic Encyclopedia · Pachomius and Palaemon"
+      }
+    ],
+    "aliases": [],
+    "possible": true,
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-13",
+      "paragraph": "p-030",
+      "index": 56
+    }
+  },
+  {
+    "id": "roche",
+    "term": "Roche",
+    "short": "Possibly Saint Roch, a pilgrim and healer.",
+    "note": "Possibly Saint Roch, the French pilgrim traditionally invoked against plague. His legend describes his care for sick people in Italy, his own illness, and a dog bringing him bread. The French word roche also means rock; the saint is a likely namesake rather than a certain identification.",
+    "sources": [
+      {
+        "url": "https://www.newadvent.org/cathen/13100c.htm",
+        "label": "Catholic Encyclopedia · Saint Roch"
+      }
+    ],
+    "aliases": [],
+    "possible": true,
+    "occurrences": 3,
+    "first": {
+      "chapter": "return-13",
+      "paragraph": "p-022",
+      "index": 56
+    }
+  },
+  {
+    "id": "refulgent",
+    "term": "refulgent",
+    "short": "Shining with brilliant light.",
+    "note": "Brightly shining or radiant, especially with reflected or splendid light. It is a more emphatic word than merely visible or pale.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/refulgent",
+        "label": "Merriam-Webster · refulgent"
+      }
+    ],
+    "aliases": [
+      "refulgence"
+    ],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-08",
+      "paragraph": "p-301",
+      "index": 51
+    }
+  },
+  {
+    "id": "hamer",
+    "term": "Hamer",
+    "short": "Dutch: hammer.",
+    "note": "Dutch hamer means a hammer. It belongs to the same Germanic word family as English hammer: an everyday tool-word used as a personal name.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/hamer#Dutch",
+        "label": "Wiktionary · hamer"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 49,
+    "first": {
+      "chapter": "return-03",
+      "paragraph": "p-076",
+      "index": 46
+    }
+  },
+  {
+    "id": "kenner",
+    "term": "Kenner",
+    "short": "Dutch: an expert or connoisseur.",
+    "note": "Dutch kenner is someone who knows a subject well: an expert, judge, or connoisseur. It comes from kennen, to know or be acquainted with.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/kenner#Dutch",
+        "label": "Wiktionary · kenner"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-11",
+      "paragraph": "p-068",
+      "index": 54
+    }
+  },
+  {
+    "id": "parel",
+    "term": "Parel",
+    "short": "Dutch: pearl.",
+    "note": "Dutch parel means a pearl. Like English pearl, it also admits a figurative sense of something precious or exceptionally fine.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/parel#Dutch",
+        "label": "Wiktionary · parel"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-05",
+      "paragraph": "p-047",
+      "index": 48
+    }
+  },
+  {
+    "id": "cijfer",
+    "term": "Cijfer",
+    "short": "Dutch: a numeral or figure.",
+    "note": "Dutch cijfer means a numeral or figure, and can also mean a numerical grade. It shares its history with cipher. “Digit” here means a written number, not a finger or toe.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/cijfer#Dutch",
+        "label": "Wiktionary · cijfer"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 25,
+    "first": {
+      "chapter": "return-05",
+      "paragraph": "p-125",
+      "index": 48
+    }
+  },
+  {
+    "id": "vadsig",
+    "term": "Vadsig",
+    "short": "Dutch: sluggish or indolent.",
+    "note": "Dutch vadsig describes sluggishness, indolence, or flabbiness. It is an adjective rather than the name of an animal or plant.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/vadsig#Dutch",
+        "label": "Wiktionary · vadsig"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 136,
+    "first": {
+      "chapter": "blue-05",
+      "paragraph": "p-034",
+      "index": 5
+    }
+  },
+  {
+    "id": "vlug",
+    "term": "Vlug",
+    "short": "Dutch: quick or agile.",
+    "note": "Dutch vlug means quick, nimble, or agile. It can describe speed in movement or in doing a task.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/vlug#Dutch",
+        "label": "Wiktionary · vlug"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 23,
+    "first": {
+      "chapter": "return-03",
+      "paragraph": "p-016",
+      "index": 46
+    }
+  },
+  {
+    "id": "zwaar",
+    "term": "Zwaar",
+    "short": "Dutch: heavy.",
+    "note": "Dutch zwaar means heavy, and extends to something weighty, severe, or difficult. The basic image is a burden with substantial weight.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/zwaar#Dutch",
+        "label": "Wiktionary · zwaar"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 3,
+    "first": {
+      "chapter": "return-03",
+      "paragraph": "p-103",
+      "index": 46
+    }
+  },
+  {
+    "id": "gevaar",
+    "term": "Gevaar",
+    "short": "Dutch: danger or peril.",
+    "note": "Dutch gevaar means danger or peril. The related adjective gevaarlijk means dangerous.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/gevaar#Dutch",
+        "label": "Wiktionary · gevaar"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-13",
+      "paragraph": "p-156",
+      "index": 30
+    }
+  },
+  {
+    "id": "leeuw",
+    "term": "Leeuw",
+    "short": "Dutch: lion.",
+    "note": "Dutch leeuw means a lion. The plural is leeuwen; the feminine leeuwin means a lioness.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/leeuw#Dutch",
+        "label": "Wiktionary · leeuw"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 4,
+    "first": {
+      "chapter": "return-03",
+      "paragraph": "p-103",
+      "index": 46
+    }
+  },
+  {
+    "id": "nat",
+    "term": "Nat",
+    "short": "Dutch: wet.",
+    "note": "Dutch nat means wet. As a noun, it can also denote moisture or liquid; the name is an ordinary Dutch word, not a shortened animal name.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/nat#Dutch",
+        "label": "Wiktionary · nat"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 28,
+    "first": {
+      "chapter": "return-01",
+      "paragraph": "p-202",
+      "index": 44
+    }
+  },
+  {
+    "id": "grotestad",
+    "term": "Grotestad",
+    "short": "Dutch: large city.",
+    "note": "A joining of Dutch grote, “large” or “great,” and stad, “city” or “town.” The compound can therefore be read as “large city.”",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/stad#Dutch",
+        "label": "Wiktionary · stad"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-11",
+      "paragraph": "p-207",
+      "index": 54
+    }
+  },
+  {
+    "id": "kenbaar",
+    "term": "Kenbaar",
+    "short": "Dutch: knowable or recognizable.",
+    "note": "Dutch kenbaar means knowable, recognizable, or capable of being made known. The suffix -baar is comparable to English -able.",
+    "sources": [
+      {
+        "url": "https://www.woorden.org/woord/kenbaar",
+        "label": "Woorden.org · kenbaar"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 3,
+    "first": {
+      "chapter": "return-11",
+      "paragraph": "p-007",
+      "index": 54
+    }
+  },
+  {
+    "id": "aanvagen",
+    "term": "Aanvagen",
+    "short": "Possibly Dutch: to sweep.",
+    "note": "Possibly a variant of Dutch aanvegen, to sweep up or sweep a place clean. The spelling differs from the usual Dutch infinitive, so this is a proposed connection rather than an exact dictionary form.",
+    "sources": [
+      {
+        "url": "https://www.woorden.org/woord/aanvegen",
+        "label": "Woorden.org · aanvegen"
+      }
+    ],
+    "aliases": [],
+    "possible": true,
+    "occurrences": 64,
+    "first": {
+      "chapter": "return-prelude",
+      "paragraph": "p-006",
+      "index": 43
+    }
+  },
+  {
+    "id": "onorifica",
+    "term": "Onorifica",
+    "short": "Italian: honorific or honorary.",
+    "note": "The feminine form of Italian onorifico: conferring honor, or honorary rather than carrying the full duties or material advantages of an office.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/onorifico/",
+        "label": "Treccani · onorifico"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 30,
+    "first": {
+      "chapter": "green-prelude",
+      "paragraph": "p-007",
+      "index": 17
+    }
+  },
+  {
+    "id": "rigoglio",
+    "term": "Rigoglio",
+    "short": "Italian: luxuriant growth or vigor.",
+    "note": "Italian rigoglio names vigorous, flourishing growth, especially of plants. It also extends to bodily vigor, fullness, or exuberance.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/rigoglio/",
+        "label": "Treccani · rigoglio"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 80,
+    "first": {
+      "chapter": "green-prelude",
+      "paragraph": "p-005",
+      "index": 17
+    }
+  },
+  {
+    "id": "rimando",
+    "term": "Rimando",
+    "short": "Italian: a reply or cross-reference.",
+    "note": "Italian rimando can mean a reply, return, or cross-reference. A rarer sense is postponement or deferral, so the associated idea of delay is also linguistically possible.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/rimando/",
+        "label": "Treccani · rimando"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 75,
+    "first": {
+      "chapter": "green-prelude",
+      "paragraph": "p-004",
+      "index": 17
+    }
+  },
+  {
+    "id": "sborso",
+    "term": "Sborso",
+    "short": "Italian: a payment or disbursement.",
+    "note": "Italian sborso is the act of paying money out, or the sum paid. It is related to sborsare, to disburse, with the image of money coming out of a purse.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/sborso/",
+        "label": "Treccani · sborso"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 4,
+    "first": {
+      "chapter": "green-11",
+      "paragraph": "p-007",
+      "index": 28
+    }
+  },
+  {
+    "id": "schiamazza",
+    "term": "Schiamazza",
+    "short": "Italian: cackles or makes a racket.",
+    "note": "A form of Italian schiamazzare: to cackle, squawk, or make a noisy commotion. The verb is used of poultry and other birds, and by extension of noisy people.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/schiamazzare/",
+        "label": "Treccani · schiamazzare"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 8,
+    "first": {
+      "chapter": "green-03",
+      "paragraph": "p-019",
+      "index": 20
+    }
+  },
+  {
+    "id": "colbacco",
+    "term": "Colbacco",
+    "short": "Italian: a fur cap.",
+    "note": "Italian colbacco is a fur cap, especially a tall military one, though the word also covers civilian fur hats. Its history runs through French colback to Turkish kalpak.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/colbacco/",
+        "label": "Treccani · colbacco"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-16",
+      "paragraph": "p-076",
+      "index": 33
+    }
+  },
+  {
+    "id": "gagliardo",
+    "term": "Gagliardo",
+    "short": "Italian: vigorous or robust.",
+    "note": "Italian gagliardo means strong, robust, or full of vigor. It can describe a person, a forceful action, or something potent such as wind or strong wine.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/gagliardo/",
+        "label": "Treccani · gagliardo"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 4,
+    "first": {
+      "chapter": "green-15",
+      "paragraph": "p-033",
+      "index": 32
+    }
+  },
+  {
+    "id": "gioioso",
+    "term": "Gioioso",
+    "short": "Italian: joyful.",
+    "note": "Italian gioioso means joyful or full of delight. It is formed from gioia, joy.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/gioioso/",
+        "label": "Treccani · gioioso"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 4,
+    "first": {
+      "chapter": "green-03",
+      "paragraph": "p-034",
+      "index": 20
+    }
+  },
+  {
+    "id": "adatta",
+    "term": "Adatta",
+    "short": "Italian: suitable or fitted.",
+    "note": "The feminine form of Italian adatto: suitable, fitted, or well adapted to a purpose. Of a person, it can imply an aptitude for a task.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/adatto/",
+        "label": "Treccani · adatto"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 11,
+    "first": {
+      "chapter": "green-16",
+      "paragraph": "p-063",
+      "index": 33
+    }
+  },
+  {
+    "id": "morello",
+    "term": "Morello",
+    "short": "Italian: a black horse or its coloring.",
+    "note": "Italian morello describes a black or nearly black color, especially a horse’s coat. Used as a noun, it can mean a black horse.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/morello1/",
+        "label": "Treccani · morello"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 22,
+    "first": {
+      "chapter": "green-15",
+      "paragraph": "p-098",
+      "index": 32
+    }
+  },
+  {
+    "id": "mora",
+    "term": "Mora",
+    "short": "Italian: a blackberry or mulberry.",
+    "note": "Italian mora is the fruit of a bramble or mulberry tree. Both can be dark, clustered fruits, though a blackberry and a mulberry are botanically different structures.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/mora1/",
+        "label": "Treccani · mora"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 353,
+    "first": {
+      "chapter": "green-prelude",
+      "paragraph": "p-006",
+      "index": 17
+    }
+  },
+  {
+    "id": "bricco",
+    "term": "Bricco",
+    "short": "Italian: a small pot or jug.",
+    "note": "Italian bricco is a small vessel with a pouring spout, traditionally made of metal and used for coffee or boiling milk.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/bricco1/",
+        "label": "Treccani · bricco"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 9,
+    "first": {
+      "chapter": "green-02",
+      "paragraph": "p-048",
+      "index": 19
+    }
+  },
+  {
+    "id": "casco",
+    "term": "Casco",
+    "short": "Italian: helmet.",
+    "note": "Italian casco means a helmet or protective head covering. It is related to Spanish casco, a shell or helmet.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/casco1/",
+        "label": "Treccani · casco"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 24,
+    "first": {
+      "chapter": "green-03",
+      "paragraph": "p-002",
+      "index": 20
+    }
+  },
+  {
+    "id": "mano",
+    "term": "Mano",
+    "short": "Italian: hand.",
+    "note": "Italian mano means a hand. It continues Latin manus and is grammatically feminine, despite ending in -o; its usual plural is mani.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/mano/",
+        "label": "Treccani · mano"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 19,
+    "first": {
+      "chapter": "green-02",
+      "paragraph": "p-090",
+      "index": 19
+    }
+  },
+  {
+    "id": "volto",
+    "term": "Volto",
+    "short": "Italian: face or countenance.",
+    "note": "Italian volto means the face or countenance. It can include the expression or aspect presented by a face, rather than just its physical surface.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/volto/",
+        "label": "Treccani · volto"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 12,
+    "first": {
+      "chapter": "green-02",
+      "paragraph": "p-090",
+      "index": 19
+    }
+  },
+  {
+    "id": "perito",
+    "term": "Perito",
+    "short": "Italian: skilled; an expert.",
+    "note": "Italian perito means skilled or experienced; as a noun, an expert or specialist. It is related to Latin peritus, experienced.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/perito/",
+        "label": "Treccani · perito"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 4,
+    "first": {
+      "chapter": "green-11",
+      "paragraph": "p-007",
+      "index": 28
+    }
+  },
+  {
+    "id": "terzo",
+    "term": "Terzo",
+    "short": "Italian: third.",
+    "note": "Italian terzo means third, the ordinal following second. It can also stand for a third part or a third person in a group.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/terzo/",
+        "label": "Treccani · terzo"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 27,
+    "first": {
+      "chapter": "green-17",
+      "paragraph": "p-012",
+      "index": 34
+    }
+  },
+  {
+    "id": "bacherozzolo",
+    "term": "Bacherozzolo",
+    "short": "Italian: a little beetle or cockroach.",
+    "note": "Italian bacherozzolo names a small dark beetle, especially a darkling beetle, and is also used popularly for a cockroach or similar insect. The diminutive belongs to the family of baco, a worm or grub.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/bacherozzolo/",
+        "label": "Treccani · bacherozzolo"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-17",
+      "paragraph": "p-024",
+      "index": 34
+    }
+  },
+  {
+    "id": "affito",
+    "term": "Affito",
+    "short": "Possibly Italian: rent or hire.",
+    "note": "Possibly Italian affitto, rent, lease, or hire. The usual Italian spelling has a double t; Affito is retained as a name rather than silently regularized.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/affitto/",
+        "label": "Treccani · affitto"
+      }
+    ],
+    "aliases": [],
+    "possible": true,
+    "occurrences": 5,
+    "first": {
+      "chapter": "green-01",
+      "paragraph": "p-222",
+      "index": 18
+    }
+  },
+  {
+    "id": "grandecitta",
+    "term": "Grandecitta",
+    "short": "Italian: large city.",
+    "note": "A joining of Italian grande, “large” or “great,” and città, “city.” Città descends from Latin civitas, originally the community or body of citizens.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/citta/",
+        "label": "Treccani · citta"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 24,
+    "first": {
+      "chapter": "green-01",
+      "paragraph": "p-134",
+      "index": 18
+    }
+  },
+  {
+    "id": "novella-citta",
+    "term": "Novella Citta",
+    "short": "Italian: new city.",
+    "note": "Italian novella città can be read as “new city”: novella is a feminine form of novello, new or young. The final accent in ordinary Italian città marks the stressed last syllable.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/novello/",
+        "label": "Treccani · novello"
+      },
+      {
+        "url": "https://www.treccani.it/vocabolario/citta/",
+        "label": "Treccani · citta"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 22,
+    "first": {
+      "chapter": "green-01",
+      "paragraph": "p-184",
+      "index": 18
+    }
+  },
+  {
+    "id": "juganu",
+    "term": "Juganu",
+    "short": "Hindi: firefly.",
+    "note": "Hindi jugnū, also jugunū, means a firefly or glow-worm. The word names a light-bearing insect; the spelling Juganu approximates one of its spoken forms.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E0%A4%9C%E0%A5%81%E0%A4%97%E0%A4%A8%E0%A5%82#Hindi",
+        "label": "Wiktionary · जुगनू"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 91,
+    "first": {
+      "chapter": "blue-16",
+      "paragraph": "p-063",
+      "index": 16
+    }
+  },
+  {
+    "id": "moti",
+    "term": "Moti",
+    "short": "Hindi: pearl.",
+    "note": "Hindi motī means a pearl. It is different from moṭā, “fat” or “thick”: the vowels and the kind of t distinguish the words.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E0%A4%AE%E0%A5%8B%E0%A4%A4%E0%A5%80#Hindi",
+        "label": "Wiktionary · मोती"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 3,
+    "first": {
+      "chapter": "blue-12",
+      "paragraph": "p-009",
+      "index": 12
+    }
+  },
+  {
+    "id": "mota",
+    "term": "Mota",
+    "short": "Hindi: thick or stout.",
+    "note": "Hindi moṭā means thick, stout, or broad. The retroflex ṭ is made with the tongue turned back; ordinary English transliteration usually leaves that distinction unmarked.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E0%A4%AE%E0%A5%8B%E0%A4%9F%E0%A4%BE#Hindi",
+        "label": "Wiktionary · मोटा"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-11",
+      "paragraph": "p-102",
+      "index": 11
+    }
+  },
+  {
+    "id": "mehman",
+    "term": "Mehman",
+    "short": "Hindi and Urdu: guest.",
+    "note": "Hindi and Urdu mehmān mean a guest. The word was borrowed from Persian and retains the sense of someone received with hospitality.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E0%A4%AE%E0%A5%87%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%A8#Hindi",
+        "label": "Wiktionary · मेहमान"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 24,
+    "first": {
+      "chapter": "blue-12",
+      "paragraph": "p-105",
+      "index": 12
+    }
+  },
+  {
+    "id": "namak",
+    "term": "Namak",
+    "short": "Hindi and Urdu: salt.",
+    "note": "Hindi and Urdu namak mean salt. The word was borrowed from Persian.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E0%A4%A8%E0%A4%AE%E0%A4%95#Hindi",
+        "label": "Wiktionary · नमक"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-12",
+      "paragraph": "p-054",
+      "index": 12
+    }
+  },
+  {
+    "id": "lal",
+    "term": "Lal",
+    "short": "Hindi: red.",
+    "note": "Hindi lāl means red, as a color or adjective. It is also used as a personal name; the long vowel is usually left unmarked in English spelling.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E0%A4%B2%E0%A4%BE%E0%A4%B2#Hindi",
+        "label": "Wiktionary · लाल"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 4,
+    "first": {
+      "chapter": "blue-13",
+      "paragraph": "p-103",
+      "index": 13
+    }
+  },
+  {
+    "id": "pehla",
+    "term": "Pehla",
+    "short": "Hindi: first.",
+    "note": "Hindi pahlā, often written pehla in English, is the ordinal first. Its ordinary feminine form is pahlī.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E0%A4%AA%E0%A4%B9%E0%A4%B2%E0%A4%BE#Hindi",
+        "label": "Wiktionary · पहला"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 5,
+    "first": {
+      "chapter": "blue-12",
+      "paragraph": "p-107",
+      "index": 12
+    }
+  },
+  {
+    "id": "chota",
+    "term": "Chota",
+    "short": "Hindi: small or younger.",
+    "note": "Hindi choṭā means small or little. It also expresses relative age or rank: younger, junior, or lesser, not only physical size.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E0%A4%9B%E0%A5%8B%E0%A4%9F%E0%A4%BE#Hindi",
+        "label": "Wiktionary · छोटा"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 11,
+    "first": {
+      "chapter": "blue-12",
+      "paragraph": "p-036",
+      "index": 12
+    }
+  },
+  {
+    "id": "alubukhara",
+    "term": "Alubukhara",
+    "short": "Hindi and Urdu: plum.",
+    "note": "Hindi and Urdu ālūbukhārā mean a plum. The name comes through Persian and contains Bukhara, the Central Asian city, rather than the separate modern Hindi word for a potato.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E0%A4%86%E0%A4%B2%E0%A5%82%E0%A4%AC%E0%A5%81%E0%A4%96%E0%A4%BC%E0%A4%BE%E0%A4%B0%E0%A4%BE#Hindi",
+        "label": "Wiktionary · आलूबुख़ारा"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-07",
+      "paragraph": "p-112",
+      "index": 7
+    }
+  },
+  {
+    "id": "barsat",
+    "term": "Barsat",
+    "short": "Hindi: rain or the rainy season.",
+    "note": "Hindi barsāt means rain, rainfall, or the rainy season. It belongs to the word family concerned with raining.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E0%A4%AC%E0%A4%B0%E0%A4%B8%E0%A4%BE%E0%A4%A4#Hindi",
+        "label": "Wiktionary · बरसात"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 6,
+    "first": {
+      "chapter": "blue-09",
+      "paragraph": "p-214",
+      "index": 9
+    }
+  },
+  {
+    "id": "mahawat",
+    "term": "Mahawat",
+    "short": "Hindi: an elephant keeper or driver.",
+    "note": "Hindi mahāvat is an elephant keeper or driver, the occupation known in English as a mahout. It is an occupational word used as a personal name.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%B5%E0%A4%A4#Hindi",
+        "label": "Wiktionary · महावत"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mahout",
+        "label": "Merriam-Webster · mahout"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 11,
+    "first": {
+      "chapter": "blue-12",
+      "paragraph": "p-074",
+      "index": 12
+    }
+  },
+  {
+    "id": "jahlee",
+    "term": "Jahlee",
+    "short": "Possibly Hindi: false or counterfeit.",
+    "note": "Possibly Hindi jālī, “false,” “forged,” or “counterfeit,” an adjective borrowed through Persian. A separate Hindi jālī means a net or lattice. The identical English-looking spelling conceals two different word histories.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E0%A4%9C%E0%A4%BE%E0%A4%B2%E0%A5%80#Hindi",
+        "label": "Wiktionary · जाली"
+      }
+    ],
+    "aliases": [],
+    "possible": true,
+    "occurrences": 275,
+    "first": {
+      "chapter": "blue-13",
+      "paragraph": "p-048",
+      "index": 13
+    }
+  },
+  {
+    "id": "chandi",
+    "term": "Chandi",
+    "short": "Possibly Hindi: silver.",
+    "note": "Possibly Hindi cā̃dī, usually written chandi in English, meaning silver. The nasalized vowel is often left unmarked in transliteration; a similarly romanized divine name has different consonants and vowels.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%E0%A4%9A%E0%A4%BE%E0%A4%81%E0%A4%A6%E0%A5%80#Hindi",
+        "label": "Wiktionary · चाँदी"
+      }
+    ],
+    "aliases": [],
+    "possible": true,
+    "occurrences": 11,
+    "first": {
+      "chapter": "blue-09",
+      "paragraph": "p-284",
+      "index": 9
+    }
+  },
+  {
+    "id": "hari-mau",
+    "term": "Hari Mau",
+    "short": "Malay: tiger.",
+    "note": "Malay and Indonesian harimau mean tiger. The two-word spelling Hari Mau separates the syllables into a name-like pair.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/harimau#Malay",
+        "label": "Wiktionary · harimau"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 84,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-081",
+      "index": 1
+    }
+  },
+  {
+    "id": "viron",
+    "term": "Viron",
+    "short": "Possibly Old French: a circle.",
+    "note": "Possibly Old French viron, a circle or the country round about. It belongs to the family of virer, “to turn,” and environ, “around.”",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/viron#Old_French",
+        "label": "Wiktionary · viron"
+      }
+    ],
+    "aliases": [],
+    "possible": true,
+    "occurrences": 295,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-001",
+      "index": 1
+    }
+  },
+  {
+    "id": "trivigaunte",
+    "term": "Trivigaunte",
+    "short": "Possibly Termagant, a medieval stage deity.",
+    "note": "Possibly Termagant, an imaginary deity of medieval European literature. Christian writers wrongly ascribed this figure to Muslims; on the stage the character became a noisy, overbearing tyrant. The later English insult termagant developed from that theatrical tradition.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/termagant",
+        "label": "Merriam-Webster · termagant"
+      }
+    ],
+    "aliases": [
+      "Trivigaunti",
+      "Trivigauntis"
+    ],
+    "possible": true,
+    "occurrences": 66,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-175",
+      "index": 1
+    }
+  },
+  {
+    "id": "alambrera",
+    "term": "Alambrera",
+    "short": "Spanish: a protective wire screen.",
+    "note": "Spanish alambrera is wire mesh or a protective wire cover, such as a screen over a window or food. It is formed from alambre, wire; the central image is an enclosing barrier.",
+    "sources": [
+      {
+        "url": "https://dle.rae.es/alambrera",
+        "label": "Real Academia Española · alambrera"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-01",
+      "paragraph": "p-013",
+      "index": 44
+    }
+  },
+  {
+    "id": "oosik",
+    "term": "Oosik",
+    "short": "A walrus’s penile bone.",
+    "note": "An oosik is the baculum, or penile bone, of a walrus. The word comes from Iñupiaq usuk. It names a particular anatomical structure, not the animal as a whole.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/oosik",
+        "label": "Wiktionary · oosik"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-05",
+      "paragraph": "p-004",
+      "index": 5
+    }
+  },
+  {
+    "id": "nabeanntan",
+    "term": "Nabeanntan",
+    "short": "Possibly Gaelic: the mountains.",
+    "note": "Possibly Scottish Gaelic na beanntan, “the mountains.” Beanntan is the plural of beinn, a mountain or peak; na is the plural definite article. The place-name joins the two words.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/beinn#Scottish_Gaelic",
+        "label": "Wiktionary · beinn"
+      }
+    ],
+    "aliases": [],
+    "possible": true,
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-12",
+      "paragraph": "p-249",
+      "index": 55
+    }
+  },
+  {
+    "id": "geier",
+    "term": "Geier",
+    "short": "German: vulture.",
+    "note": "German Geier means a vulture. German normally capitalizes nouns, so the initial capital does not by itself turn the word into a personal name.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/Geier#German",
+        "label": "Wiktionary · Geier"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-04",
+      "paragraph": "p-134",
+      "index": 4
+    }
+  },
+  {
+    "id": "karabin",
+    "term": "Karabin",
+    "short": "Polish: rifle.",
+    "note": "Polish karabin is a rifle or other long firearm. It belongs to the international word family of carbine, but in Polish it is not restricted to a short cavalry weapon.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/karabin#Polish",
+        "label": "Wiktionary · karabin"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 4,
+    "first": {
+      "chapter": "green-12",
+      "paragraph": "p-036",
+      "index": 29
+    }
+  },
+  {
+    "id": "zepter",
+    "term": "Zepter",
+    "short": "German: scepter.",
+    "note": "German Zepter is a scepter, the staff carried as an emblem of authority. The word ultimately comes from Greek skēptron, a staff.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/Zepter#German",
+        "label": "Wiktionary · Zepter"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 22,
+    "first": {
+      "chapter": "green-13",
+      "paragraph": "p-070",
+      "index": 30
+    }
+  },
+  {
+    "id": "gorak",
+    "term": "Gorak",
+    "short": "Serbo-Croatian: bitter.",
+    "note": "Serbo-Croatian gorak means bitter. Its basic sense concerns taste; it also permits the familiar figurative sense of a painful or disagreeable experience.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/gorak#Serbo-Croatian",
+        "label": "Wiktionary · gorak"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 9,
+    "first": {
+      "chapter": "green-11",
+      "paragraph": "p-111",
+      "index": 28
+    }
+  },
+  {
+    "id": "kupus",
+    "term": "Kupus",
+    "short": "Serbo-Croatian: cabbage.",
+    "note": "Serbo-Croatian kupus means cabbage, the leafy vegetable. The spelling is an ordinary noun used as a name.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/kupus#Serbo-Croatian",
+        "label": "Wiktionary · kupus"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 63,
+    "first": {
+      "chapter": "green-12",
+      "paragraph": "p-005",
+      "index": 29
+    }
+  },
+  {
+    "id": "schola",
+    "term": "schola",
+    "short": "Latin: a school or place of study.",
+    "note": "Latin schola means a school, lecture, or learned discussion. It comes from Greek scholē, leisure devoted to study: the word’s history links learning with time free from other work.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/schola#Latin",
+        "label": "Wiktionary · schola"
+      }
+    ],
+    "aliases": [
+      "scholae"
+    ],
+    "possible": false,
+    "occurrences": 9,
+    "first": {
+      "chapter": "blue-07",
+      "paragraph": "p-004",
+      "index": 7
+    }
+  },
+  {
+    "id": "chrasmologic",
+    "term": "Chrasmologic",
+    "short": "Possibly: concerned with oracles.",
+    "note": "Possibly formed from Greek chrēsmos, an oracle or prophetic response, with a suffix concerned with speech or discourse. “Oracular writings” is therefore a plausible reading; the exact formation remains uncertain.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%CF%87%CF%81%CE%B7%CF%83%CE%BC%CF%8C%CF%82#Ancient_Greek",
+        "label": "Wiktionary · χρησμός"
+      }
+    ],
+    "aliases": [
+      "chrasmologic",
+      "chrasmological",
+      "Chrasmological"
+    ],
+    "possible": true,
+    "occurrences": 13,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-085",
+      "index": 1
+    }
+  },
+  {
+    "id": "bier",
+    "term": "bier",
+    "short": "A stand or frame for a coffin.",
+    "note": "A frame or stand on which a dead body or coffin is carried or displayed. The word is related to bear in the sense of carrying a weight.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bier",
+        "label": "Merriam-Webster · bier"
+      }
+    ],
+    "aliases": [
+      "biers"
+    ],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-01",
+      "paragraph": "p-006",
+      "index": 44
+    }
+  },
+  {
+    "id": "balustrade",
+    "term": "balustrade",
+    "short": "A railing supported by small pillars.",
+    "note": "A row of small pillars, called balusters, supporting a rail. The term names the whole barrier along a stair, balcony, or terrace, rather than one of its supports.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/balustrade",
+        "label": "Merriam-Webster · balustrade"
+      }
+    ],
+    "aliases": [
+      "balustrades"
+    ],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-08",
+      "paragraph": "p-265",
+      "index": 51
+    }
+  },
+  {
+    "id": "tarn",
+    "term": "tarn",
+    "short": "A small lake, especially in the hills.",
+    "note": "A small lake, especially one in mountainous country. The word came into English from Old Norse and remains common in the place-names of northern Britain.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tarn",
+        "label": "Merriam-Webster · tarn"
+      }
+    ],
+    "aliases": [
+      "tarns"
+    ],
+    "possible": false,
+    "occurrences": 8,
+    "first": {
+      "chapter": "blue-05",
+      "paragraph": "p-101",
+      "index": 5
+    }
+  },
+  {
+    "id": "strega",
+    "term": "strega",
+    "short": "Italian: a witch.",
+    "note": "Italian strega means a witch. The word descends from Latin striga, related to strix, a night bird associated in ancient belief with uncanny or harmful powers.",
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/strega/",
+        "label": "Treccani · strega"
+      }
+    ],
+    "aliases": [
+      "stregas",
+      "streghe",
+      "strego",
+      "stregos"
+    ],
+    "possible": false,
+    "occurrences": 38,
+    "first": {
+      "chapter": "green-01",
+      "paragraph": "p-202",
+      "index": 18
+    }
+  },
+  {
+    "id": "dervis",
+    "term": "dervis",
+    "short": "A dervish: a religious ascetic.",
+    "note": "An older spelling of dervish, a member of a Muslim religious order associated with ascetic devotion. The word comes from Persian darvish, originally a poor person or beggar; it is broader than the particular order known for whirling ceremonies.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/dervis",
+        "label": "Wiktionary · dervis"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dervish",
+        "label": "Merriam-Webster · dervish"
+      }
+    ],
+    "aliases": [
+      "dervises",
+      "dervish",
+      "dervishes"
+    ],
+    "possible": false,
+    "occurrences": 5,
+    "first": {
+      "chapter": "green-02",
+      "paragraph": "p-010",
+      "index": 19
+    }
+  }
+]

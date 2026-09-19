@@ -1,0 +1,43 @@
+{
+  "id": "edition-part0208",
+  "title": "Appendix - The Miracle of Apu-Punchau",
+  "volume": "urth",
+  "volumeTitle": "The Urth of the New Sun",
+  "number": null,
+  "label": "",
+  "sourceLabel": "",
+  "kind": "appendix",
+  "source": "OEBPS/part0208.xhtml",
+  "index": 197,
+  "layout": "prose",
+  "html": "\n<h2 id=\"section-01\"><strong>Appendix</strong></h2>\n<h2 id=\"section-02\"><em><strong>The Miracle of Apu-Punchau</strong></em></h2>\n<p class=\"p\" data-block=\"p-001\" id=\"p-001\">NO SORT OF WONDER IS MORE CONVINCING TO THE PRIMITIVE mind than one affecting the presumably immutable workings of the heavens. <span class=\"word\" data-first=\"false\" data-local-first=\"true\" data-term=\"severian\">Severian</span>’s prolongation of the night, however, may leave less credulous minds puzzling over the ways in which such a marvel might be achieved without a cataclysm greater than that which accompanied the arrival of the New Sun.</p>\n<p class=\"p-indent\" data-block=\"p-002\" id=\"p-002\">At least two plausible explanations could be put forward. Mass hypnosis is invoked by historians to explain all multiply attested wonders that cannot be degraded in any other fashion; but it is something no actual hypnotist offers to produce.</p>\n<p class=\"p-indent\" data-block=\"p-003\" id=\"p-003\">If mass hypnosis is discarded, the only alternative appears to be an eclipse in the broadest sense—that is, the passage of some opaque body between the Old Sun and Urth.</p>\n<p class=\"p-indent\" data-block=\"p-004\" id=\"p-004\">In this context, it should be noted that the stars seen in the skies of the Commonwealth in winter rise in spring over the stone town (presumably due to the precession of the equinoxes); but that during his prolongation of the night <span class=\"word\" data-first=\"false\" data-local-first=\"false\" data-term=\"severian\">Severian</span> sees his accustomed spring stars. This would seem to favor the second explanation, as does the immediate manifestation of the Old Sun, already higher than the rooftops, after the capitulation of the <span class=\"word\" data-first=\"false\" data-local-first=\"true\" data-term=\"autochthon\">autochthons</span>. Nothing <span class=\"word\" data-first=\"false\" data-local-first=\"false\" data-term=\"severian\">Severian</span> writes indicates what the opaque body may have been; but the thoughtful reader will find\nlittle difficulty in advancing at least one plausible speculation.</p>\n<div aria-hidden=\"true\" class=\"source-space\" data-source-gap=\"gap-0281\"></div>\n<p class=\"p-d\" data-block=\"p-005\" id=\"p-005\">—G.W.</p>\n",
+  "blocks": [
+    "p-001",
+    "p-002",
+    "p-003",
+    "p-004",
+    "p-005"
+  ],
+  "sections": [
+    {
+      "id": "section-01",
+      "title": "Appendix"
+    },
+    {
+      "id": "section-02",
+      "title": "The Miracle of Apu-Punchau"
+    }
+  ],
+  "noteAnchors": [
+    {
+      "term": "severian",
+      "paragraph": "p-001"
+    },
+    {
+      "term": "autochthon",
+      "paragraph": "p-004"
+    }
+  ],
+  "words": 232,
+  "startWords": 510242
+}

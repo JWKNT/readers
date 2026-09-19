@@ -1,0 +1,89 @@
+[
+  {
+    "id": "book-of-the-new-sun",
+    "title": "The Book of the New Sun",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "shadow",
+        "title": "The Shadow of the Torturer",
+        "chapters": 35
+      },
+      {
+        "id": "claw",
+        "title": "The Claw of the Conciliator",
+        "chapters": 31
+      },
+      {
+        "id": "sword",
+        "title": "The Sword of the Lictor",
+        "chapters": 38
+      },
+      {
+        "id": "citadel",
+        "title": "The Citadel of the Autarch",
+        "chapters": 38
+      },
+      {
+        "id": "urth",
+        "title": "The Urth of the New Sun",
+        "chapters": 51
+      }
+    ],
+    "glossaryCount": 434,
+    "totalWords": 510474
+  },
+  {
+    "id": "book-of-the-long-sun",
+    "title": "The Book of the Long Sun",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "nightside",
+        "title": "Nightside the Long Sun",
+        "chapters": 13
+      },
+      {
+        "id": "lake",
+        "title": "Lake of the Long Sun",
+        "chapters": 13
+      },
+      {
+        "id": "calde",
+        "title": "Caldé of the Long Sun",
+        "chapters": 10
+      },
+      {
+        "id": "exodus",
+        "title": "Exodus from the Long Sun",
+        "chapters": 16
+      }
+    ],
+    "glossaryCount": 151,
+    "totalWords": 462155
+  },
+  {
+    "id": "book-of-the-short-sun",
+    "title": "The Book of the Short Sun",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "blue",
+        "title": "On Blue’s Waters",
+        "chapters": 16
+      },
+      {
+        "id": "green",
+        "title": "In Green’s Jungles",
+        "chapters": 25
+      },
+      {
+        "id": "return",
+        "title": "Return to the Whorl",
+        "chapters": 20
+      }
+    ],
+    "glossaryCount": 190,
+    "totalWords": 401962
+  }
+]

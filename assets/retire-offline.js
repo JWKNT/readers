@@ -1,0 +1,3 @@
+/* Retire only this library's old v1-v3 worker. No personal data is read or removed. */
+'use strict';
+(()=>{const src=document.currentScript?.src;if(!src||!('serviceWorker' in navigator))return;const scope=new URL('../',src).href;navigator.serviceWorker.getRegistrations().then(async regs=>{for(const reg of regs){if(reg.scope!==scope)continue;const worker=reg.active||reg.waiting||reg.installing;if(!worker||worker.scriptURL!==new URL('sw.js',scope).href)continue;await reg.unregister();if('caches' in window){const prefix='readers-offline:'+scope+':';for(const key of await caches.keys())if(key.startsWith(prefix))await caches.delete(key);}}}).catch(()=>{});})();

@@ -1,0 +1,48 @@
+{
+  "id": "shadow-appendix",
+  "title": "A Note on the Translation",
+  "volume": "shadow",
+  "volumeTitle": "The Shadow of the Torturer",
+  "number": null,
+  "label": "",
+  "sourceLabel": "Appendix",
+  "kind": "appendix",
+  "source": "OEBPS/part0038.xhtml",
+  "index": 35,
+  "layout": "prose",
+  "html": "<section>\n<h2 id=\"section-01\"><strong>Appendix</strong></h2>\n<p class=\"p-c\" data-block=\"p-001\" id=\"p-001\">A Note on the Translation</p>\n<div aria-hidden=\"true\" class=\"source-space\" data-source-gap=\"gap-0084\"></div>\n<p class=\"p\" data-block=\"p-002\" id=\"p-002\">In rendering this book—originally composed in a tongue that has not yet achieved existence—into English, I might easily have saved myself a great deal of labor by having recourse to invented terms; in no case have I done so. Thus in many instances I have been forced to replace yet undiscovered concepts by their closest twentieth-century equivalents. Such words as <em><span class=\"word\" data-first=\"false\" data-local-first=\"true\" data-term=\"peltast\">peltast</span>, androgyn</em>, and <em><span class=\"word\" data-first=\"false\" data-local-first=\"true\" data-term=\"exultant\">exultant</span></em> are substitutions of this kind, and are intended to be suggestive rather than definitive. <em>Metal</em> is usually, but not always, employed to designate a substance of the sort the word suggests to contemporary minds.</p>\n<p class=\"p-indent\" data-block=\"p-003\" id=\"p-003\">When the manuscript makes reference to animal species resulting from biogenetic manipulation or the importation of extrasolar breeding stock, the name of a similar extinct species has been freely substituted. (Indeed, <span class=\"word\" data-first=\"false\" data-local-first=\"true\" data-term=\"severian\">Severian</span> sometimes seems to assume that an extinct species has been restored.) The nature of the riding and draft animals employed is frequently unclear in the original text. I have scrupled to call these creatures <em>horses</em>, since I am certain the word is not strictly correct. The “<span class=\"word\" data-first=\"false\" data-local-first=\"true\" data-term=\"destrier\">destriers</span>” of <em>The Book of the New Sun</em> are unquestionably much swifter and more enduring animals than those we know, and the speed of those used for military purposes seems to permit the delivering of cavalry charges against enemies supported by high-energy armament.</p>\n<p class=\"p-indent\" data-block=\"p-004\" id=\"p-004\">Latin is once or twice employed to indicate that inscriptions and the like are in a language <span class=\"word\" data-first=\"false\" data-local-first=\"false\" data-term=\"severian\">Severian</span> appears to consider obsolete. What the actual language may have been, I cannot say.</p>\n<p class=\"p-indent\" data-block=\"p-005\" id=\"p-005\">To those who have preceded me in the study of the posthistoric world, and particularly to those collectors—too numerous to name here—who have permitted me to examine artifacts surviving so many centuries of futurity, and most especially to those who have allowed me to visit and photograph the era’s few extant buildings, I am truly grateful.</p>\n<p class=\"p-indent\" data-block=\"p-006\" id=\"p-006\">G.W.</p>\n</section>\n",
+  "blocks": [
+    "p-001",
+    "p-002",
+    "p-003",
+    "p-004",
+    "p-005",
+    "p-006"
+  ],
+  "sections": [
+    {
+      "id": "section-01",
+      "title": "Appendix"
+    }
+  ],
+  "noteAnchors": [
+    {
+      "term": "peltast",
+      "paragraph": "p-002"
+    },
+    {
+      "term": "exultant",
+      "paragraph": "p-002"
+    },
+    {
+      "term": "severian",
+      "paragraph": "p-003"
+    },
+    {
+      "term": "destrier",
+      "paragraph": "p-003"
+    }
+  ],
+  "words": 318,
+  "startWords": 98858
+}

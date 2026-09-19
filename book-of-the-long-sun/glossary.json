@@ -1,0 +1,3213 @@
+[
+  {
+    "id": "catafalque",
+    "term": "catafalque",
+    "aliases": [
+      "catafalque",
+      "catafalques"
+    ],
+    "note": "A raised, often elaborate structure supporting a coffin or representing one during funeral ceremonies.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/catafalque",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A raised structure supporting a coffin.",
+    "occurrences": 3,
+    "first": {
+      "chapter": "nightside-12",
+      "paragraph": "p-084",
+      "index": 11
+    }
+  },
+  {
+    "id": "merlon",
+    "term": "merlon",
+    "aliases": [
+      "merlon",
+      "merlons"
+    ],
+    "note": "One of the solid upright sections of a battlement, between the gaps.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/merlon",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A solid upright section of a battlement.",
+    "occurrences": 10,
+    "first": {
+      "chapter": "nightside-04",
+      "paragraph": "p-149",
+      "index": 3
+    }
+  },
+  {
+    "id": "thurible",
+    "term": "thurible",
+    "aliases": [
+      "thurible",
+      "thuribles"
+    ],
+    "note": "A vessel for burning incense, often suspended on chains.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/thurible",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A vessel for burning incense.",
+    "occurrences": 3,
+    "first": {
+      "chapter": "nightside-06",
+      "paragraph": "p-034",
+      "index": 5
+    }
+  },
+  {
+    "id": "chalcedony",
+    "term": "chalcedony",
+    "aliases": [
+      "chalcedony"
+    ],
+    "note": "A fine-grained form of silica, often translucent; varieties include agate and carnelian.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chalcedony",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Fine-grained, often translucent silica.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-06",
+      "paragraph": "p-315",
+      "index": 18
+    }
+  },
+  {
+    "id": "coruscant",
+    "term": "coruscant",
+    "aliases": [
+      "coruscant"
+    ],
+    "note": "Flashing or sparkling with light.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/coruscant",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Flashing or sparkling.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-01",
+      "paragraph": "p-112",
+      "index": 37
+    }
+  },
+  {
+    "id": "typhon",
+    "term": "Typhon",
+    "aliases": [
+      "Typhon"
+    ],
+    "note": "A monstrous adversary of Zeus in Greek mythology, also called Typhoeus. Hesiod describes him as a son of Earth and Tartarus with a hundred serpent heads. Zeus defeats him with thunderbolts.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Text/HesiodTheogony.html",
+        "label": "Hesiod"
+      }
+    ],
+    "short": "A many-headed monster opposed to Zeus.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-11",
+      "paragraph": "p-056",
+      "index": 23
+    }
+  },
+  {
+    "id": "automaton",
+    "term": "automaton",
+    "aliases": [
+      "automaton",
+      "automata"
+    ],
+    "note": "A self-moving mechanism or artificial figure. Automata is the Greek-derived plural.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/automaton",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A self-moving mechanism or artificial figure.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-149",
+      "index": 28
+    }
+  },
+  {
+    "id": "cubiculum",
+    "term": "cubiculum",
+    "aliases": [
+      "cubiculum",
+      "cubicula"
+    ],
+    "note": "A small room or sleeping chamber; cubicula is the Latin plural.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cubiculum",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A small room or sleeping chamber.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-10",
+      "paragraph": "p-154",
+      "index": 46
+    }
+  },
+  {
+    "id": "cubit",
+    "term": "cubit",
+    "aliases": [
+      "cubit",
+      "cubits"
+    ],
+    "note": "An ancient measure based on the distance from the elbow to the tip of the middle finger.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cubit",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "An old measure based on the forearm.",
+    "occurrences": 59,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-040",
+      "index": 0
+    }
+  },
+  {
+    "id": "bowsprit",
+    "term": "bowsprit",
+    "aliases": [
+      "bowsprit",
+      "bowsprits"
+    ],
+    "note": "A spar projecting forward from a ship’s bow, supporting its forward sails and rigging.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bowsprit",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A spar projecting from a ship’s bow.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-13",
+      "paragraph": "p-029",
+      "index": 25
+    }
+  },
+  {
+    "id": "pampa",
+    "term": "pampa",
+    "aliases": [
+      "pampa",
+      "pampas"
+    ],
+    "note": "An extensive, treeless grassy plain of South America.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pampa",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "An open South American grassland.",
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-003",
+      "index": 1
+    }
+  },
+  {
+    "id": "refectory",
+    "term": "refectory",
+    "aliases": [
+      "refectory",
+      "refectories"
+    ],
+    "note": "A communal dining hall, especially in a monastery or religious house.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/refectory",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A communal dining room.",
+    "occurrences": 2,
+    "first": {
+      "chapter": "lake-11",
+      "paragraph": "p-063",
+      "index": 23
+    }
+  },
+  {
+    "id": "postulant",
+    "term": "postulant",
+    "aliases": [
+      "postulant",
+      "postulants"
+    ],
+    "note": "A candidate seeking admission to a religious order, before becoming a novice.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/postulant",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "An applicant for admission to a religious order.",
+    "occurrences": 2,
+    "first": {
+      "chapter": "calde-08",
+      "paragraph": "p-015",
+      "index": 33
+    }
+  },
+  {
+    "id": "halyard",
+    "term": "halyard",
+    "aliases": [
+      "halyard",
+      "halyards"
+    ],
+    "note": "A rope used to hoist or lower a sail, flag, or spar.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/halyard",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A rope used to raise a sail or flag.",
+    "occurrences": 4,
+    "first": {
+      "chapter": "calde-01",
+      "paragraph": "p-116",
+      "index": 26
+    }
+  },
+  {
+    "id": "divan",
+    "term": "divan",
+    "aliases": [
+      "divan",
+      "divans"
+    ],
+    "note": "A long, low couch, often without a back or arms.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/divan",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A low couch or cushioned seat.",
+    "occurrences": 9,
+    "first": {
+      "chapter": "lake-10",
+      "paragraph": "p-105",
+      "index": 22
+    }
+  },
+  {
+    "id": "baculus",
+    "term": "baculus",
+    "aliases": [
+      "baculus",
+      "baculi"
+    ],
+    "note": "A staff carried as an emblem of office, especially a bishop’s pastoral staff.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/baculus",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A staff or rod.",
+    "occurrences": 13,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-095",
+      "index": 1
+    }
+  },
+  {
+    "id": "trumpery",
+    "term": "trumpery",
+    "aliases": [
+      "trumpery"
+    ],
+    "note": "Showy but worthless finery; things that look impressive without having real value.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/trumpery",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Worthless showy objects or empty nonsense.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-13",
+      "paragraph": "p-132",
+      "index": 12
+    }
+  },
+  {
+    "id": "tessellated",
+    "term": "tessellated",
+    "aliases": [
+      "tessellated"
+    ],
+    "note": "Formed from small pieces fitted together, like a mosaic or tiled surface.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tessellated",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Formed into a mosaic or tiled pattern.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-04",
+      "paragraph": "p-244",
+      "index": 16
+    }
+  },
+  {
+    "id": "aureate",
+    "term": "aureate",
+    "aliases": [
+      "aureate"
+    ],
+    "note": "Golden in color or ornamented with gold.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/aureate",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Golden or gilded.",
+    "occurrences": 13,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-087",
+      "index": 1
+    }
+  },
+  {
+    "id": "sotto-voce",
+    "term": "sotto voce",
+    "aliases": [
+      "sotto voce"
+    ],
+    "note": "In a low, quiet voice.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sotto%20voce",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "In a quiet or lowered voice.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-318",
+      "index": 28
+    }
+  },
+  {
+    "id": "escritoire",
+    "term": "escritoire",
+    "aliases": [
+      "escritoire",
+      "escritoires"
+    ],
+    "note": "A small writing desk with drawers or compartments for papers.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/escritoire",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A small writing desk.",
+    "occurrences": 5,
+    "first": {
+      "chapter": "lake-07",
+      "paragraph": "p-005",
+      "index": 19
+    }
+  },
+  {
+    "id": "scintillate",
+    "term": "scintillate",
+    "aliases": [
+      "scintillate",
+      "scintillated",
+      "scintillating"
+    ],
+    "note": "To flash, sparkle, or give off small bursts of light.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/scintillate",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "To sparkle or flash.",
+    "occurrences": 2,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-378",
+      "index": 42
+    }
+  },
+  {
+    "id": "stephane",
+    "term": "stephane",
+    "aliases": [
+      "stephane",
+      "stephanes"
+    ],
+    "note": "A metal headband that rises broadest above the forehead and narrows toward the temples, worn in ancient Greece.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/stephane",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "An ancient Greek metal headband.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-08",
+      "paragraph": "p-017",
+      "index": 33
+    }
+  },
+  {
+    "id": "manteion",
+    "term": "manteion",
+    "short": "An oracle’s shrine.",
+    "note": "Greek manteion: an oracle, or the sanctuary where a diviner gives an oracular response. The word belongs to the family of mantis, a seer.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/μαντεῖον",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "manteion",
+      "manteions"
+    ],
+    "occurrences": 409,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-041",
+      "index": 0
+    }
+  },
+  {
+    "id": "palaestra",
+    "term": "palaestra",
+    "short": "A wrestling school or exercise court.",
+    "note": "A palaestra was a place for wrestling and athletic training in ancient Greece or Rome. The Latin word comes from Greek palaistra, related to palē, wrestling. By extension the word can name a school or place of instruction.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/palaestra",
+        "label": "Wiktionary · palaestra"
+      }
+    ],
+    "aliases": [
+      "palaestra",
+      "palaestras"
+    ],
+    "occurrences": 85,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-037",
+      "index": 0
+    }
+  },
+  {
+    "id": "patera",
+    "term": "Patera",
+    "short": "“Father,” as a form of address.",
+    "note": "Patera is the form used when directly addressing a father in modern Greek. Pateras also serves as a title for a priest or monk.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/πατέρας",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Patera",
+      "Pateras"
+    ],
+    "occurrences": 1619,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-001",
+      "index": 0
+    }
+  },
+  {
+    "id": "maytera",
+    "term": "Maytera",
+    "short": "Greek “mother.”",
+    "note": "A rendering of Greek mitera, meaning mother. The same form is used when directly addressing one’s mother.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/μητέρα",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Maytera",
+      "Mayteras"
+    ],
+    "occurrences": 1439,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-001",
+      "index": 0
+    }
+  },
+  {
+    "id": "augur",
+    "term": "augur",
+    "short": "A priest who interprets omens.",
+    "note": "A diviner, especially an official religious interpreter of signs in ancient Rome. Augury sought indications of divine approval or disapproval before an undertaking.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/augur",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "augur",
+      "augurs"
+    ],
+    "occurrences": 337,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-070",
+      "index": 0
+    }
+  },
+  {
+    "id": "sibyl",
+    "term": "sibyl",
+    "short": "A woman credited with prophetic powers.",
+    "note": "A prophetess through whom a god was believed to speak. Ancient traditions placed sibyls in several regions, including Greece and Italy; the Cumaean Sibyl was especially celebrated.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sibyl",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "sibyl",
+      "sibyls"
+    ],
+    "occurrences": 132,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-071",
+      "index": 1
+    }
+  },
+  {
+    "id": "fisc",
+    "term": "fisc",
+    "short": "A state or royal treasury.",
+    "note": "The public treasury or the revenues belonging to a sovereign. Latin fiscus originally meant a basket and came to designate the imperial treasury.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/fisc",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "fisc"
+    ],
+    "occurrences": 18,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-152",
+      "index": 0
+    }
+  },
+  {
+    "id": "azoth",
+    "term": "azoth",
+    "short": "Mercury in alchemical terminology.",
+    "note": "An alchemical name for mercury, regarded as a fundamental principle of metals. Paracelsian writing also used azoth for a universal remedy.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/azoth",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "azoth",
+      "azoths"
+    ],
+    "occurrences": 145,
+    "first": {
+      "chapter": "nightside-06",
+      "paragraph": "p-142",
+      "index": 5
+    }
+  },
+  {
+    "id": "cenoby",
+    "term": "cenoby",
+    "short": "A religious community’s dwelling.",
+    "note": "A monastery or convent where members live in community, rather than as solitary hermits. The name ultimately combines Greek words for common and life.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cenoby",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "cenoby",
+      "cenobies"
+    ],
+    "occurrences": 58,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-170",
+      "index": 0
+    }
+  },
+  {
+    "id": "coadjutor",
+    "term": "coadjutor",
+    "short": "An assistant, especially to a bishop.",
+    "note": "A helper or colleague in an office. In church usage, a coadjutor assists a bishop and may hold the right to succeed that bishop.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/coadjutor",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "coadjutor",
+      "coadjutors"
+    ],
+    "occurrences": 34,
+    "first": {
+      "chapter": "nightside-04",
+      "paragraph": "p-117",
+      "index": 3
+    }
+  },
+  {
+    "id": "prolocutor",
+    "term": "prolocutor",
+    "short": "A presiding officer or spokesman.",
+    "note": "A person appointed to speak for others, or to preside over an assembly. In ecclesiastical usage the title belongs to the chair of a convocation.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/prolocutor",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "prolocutor",
+      "prolocutors"
+    ],
+    "occurrences": 95,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-149",
+      "index": 0
+    }
+  },
+  {
+    "id": "prothonotary",
+    "term": "prothonotary",
+    "short": "A principal clerk.",
+    "note": "The chief clerk of certain courts or other official bodies. The title derives from words meaning first and notary.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/prothonotary",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "prothonotary",
+      "prothonotaries"
+    ],
+    "occurrences": 22,
+    "first": {
+      "chapter": "nightside-04",
+      "paragraph": "p-117",
+      "index": 3
+    }
+  },
+  {
+    "id": "lavabo",
+    "term": "lavabo",
+    "short": "A basin for washing the hands.",
+    "note": "A washbasin, especially one supplied from a small tank or vessel above it. Its Latin name means “I shall wash.”",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lavabo",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "lavabo"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-06",
+      "paragraph": "p-064",
+      "index": 5
+    }
+  },
+  {
+    "id": "ormolu",
+    "term": "ormolu",
+    "short": "Gilt bronze or brass ornament.",
+    "note": "Bronze or brass given a gold surface and used for decorative objects, furniture mounts, and fittings. The French expression or moulu literally means ground gold.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ormolu",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "ormolu"
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-10",
+      "paragraph": "p-244",
+      "index": 9
+    }
+  },
+  {
+    "id": "alnico",
+    "term": "alnico",
+    "short": "An alloy used for strong permanent magnets.",
+    "note": "An iron-based magnetic alloy containing aluminum and nickel, with cobalt and sometimes other additions. Its name compresses aluminum, nickel, and cobalt.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/alnico",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "alnico"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-10",
+      "paragraph": "p-317",
+      "index": 35
+    }
+  },
+  {
+    "id": "tessera",
+    "term": "tessera",
+    "short": "A watchword or identifying token.",
+    "note": "In Latin, tessera can mean a military watchword as well as the token or tablet used to communicate or authenticate it.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/tessera#Latin",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "tessera",
+      "tesserae"
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "nightside-04",
+      "paragraph": "p-130",
+      "index": 3
+    }
+  },
+  {
+    "id": "pas",
+    "term": "Pas",
+    "short": "Greek “all” or “whole.”",
+    "note": "Pas is the masculine singular of the Greek word for all or whole. Its corresponding feminine and neuter forms are pasa and pan.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/πᾶς",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Pas"
+    ],
+    "occurrences": 437,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-036",
+      "index": 0
+    }
+  },
+  {
+    "id": "hierax",
+    "term": "Hierax",
+    "short": "Greek “hawk” or “falcon.”",
+    "note": "Hierax is an ancient Greek word for a hawk or falcon. Its stem hierak- appears in compounds and related names.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/ἱέραξ",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Hierax"
+    ],
+    "occurrences": 96,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-036",
+      "index": 0
+    }
+  },
+  {
+    "id": "scylla",
+    "term": "Scylla",
+    "short": "A many-headed sea monster of Greek myth.",
+    "note": "A monster inhabiting the rocks opposite Charybdis. In Homer’s Odyssey she has six heads on long necks and snatches sailors from vessels passing her cave.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Pontios/Skylla.html",
+        "label": "Greek text and classical references"
+      }
+    ],
+    "aliases": [
+      "Scylla"
+    ],
+    "occurrences": 242,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-007",
+      "index": 0
+    }
+  },
+  {
+    "id": "tartaros",
+    "term": "Tartaros",
+    "short": "The abyss beneath the underworld.",
+    "note": "Tartarus, the deep pit below the realm of the dead in Greek cosmology, also personified as a primordial being. In Hesiod the defeated Titans are confined there.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Protogenos/Tartaros.html",
+        "label": "Greek text and classical references"
+      }
+    ],
+    "aliases": [
+      "Tartaros"
+    ],
+    "occurrences": 129,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-153",
+      "index": 0
+    }
+  },
+  {
+    "id": "molpe",
+    "term": "Molpe",
+    "short": "A Siren whose name means “song.”",
+    "note": "Molpe is one of the Sirens named in the Hesiodic tradition. The Sirens’ alluring song draws passing sailors toward destruction. Her Greek name means song.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Pontios/Seirenes.html",
+        "label": "Greek text and classical references"
+      }
+    ],
+    "aliases": [
+      "Molpe"
+    ],
+    "occurrences": 60,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-038",
+      "index": 0
+    }
+  },
+  {
+    "id": "thelxiepeia",
+    "term": "Thelxiepeia",
+    "short": "One of the Sirens of Greek tradition.",
+    "note": "A Siren named in the account attributed to Apollodorus. The Sirens are supernatural singers whose voices enchant those who hear them.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Pontios/Seirenes.html",
+        "label": "Greek text and classical references"
+      }
+    ],
+    "aliases": [
+      "Thelxiepeia"
+    ],
+    "occurrences": 47,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-114",
+      "index": 1
+    }
+  },
+  {
+    "id": "sphigx",
+    "term": "Sphigx",
+    "short": "The Greek sphinx.",
+    "note": "A form of the Greek name for the sphinx: a creature with a lion’s body, a woman’s head, and wings. The Theban sphinx destroyed travelers who could not answer her riddle, until Oedipus solved it.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Ther/Sphinx.html",
+        "label": "Greek text and classical references"
+      }
+    ],
+    "aliases": [
+      "Sphigx"
+    ],
+    "occurrences": 80,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-114",
+      "index": 1
+    }
+  },
+  {
+    "id": "talus",
+    "term": "talus",
+    "short": "Talos, the bronze guardian of Crete.",
+    "note": "Talos is the bronze man of Greek legend who patrols Crete and drives off intruders. In the story of the Argonauts, Medea helps overcome him. Talus is an alternative spelling.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Gigante/GiganteTalos.html",
+        "label": "Greek text and classical references"
+      }
+    ],
+    "aliases": [
+      "talus",
+      "taluses"
+    ],
+    "occurrences": 209,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-157",
+      "index": 0
+    }
+  },
+  {
+    "id": "sciathan",
+    "term": "Sciathan",
+    "short": "Irish “wing.”",
+    "note": "Irish sciathán means a wing; it can also denote a projecting side or extension. Its ending is diminutive.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/sciathán",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Sciathan"
+    ],
+    "occurrences": 123,
+    "first": {
+      "chapter": "exodus-03",
+      "paragraph": "p-150",
+      "index": 39
+    }
+  },
+  {
+    "id": "iolar",
+    "term": "Iolar",
+    "short": "Irish “eagle.”",
+    "note": "Iolar is the Irish word for an eagle. More specific names combine it with another word, as in iolar mara, a sea eagle.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/iolar",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Iolar"
+    ],
+    "occurrences": 11,
+    "first": {
+      "chapter": "lake-12",
+      "paragraph": "p-176",
+      "index": 24
+    }
+  },
+  {
+    "id": "grian",
+    "term": "Grian",
+    "short": "Irish “sun.”",
+    "note": "Grian is the Irish word for the sun. Its genitive form is gréine, found in expressions describing sunlight or solar things.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/grian#Irish",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Grian"
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "exodus-05",
+      "paragraph": "p-001",
+      "index": 41
+    }
+  },
+  {
+    "id": "dreoilin",
+    "term": "Dreoilin",
+    "short": "Irish “wren.”",
+    "note": "Irish dreoilín means a wren; dreoilín donn names the Eurasian wren. The word is also found in the Irish name for Wren Day.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/dreoilín",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Dreoilin"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-06",
+      "paragraph": "p-071",
+      "index": 18
+    }
+  },
+  {
+    "id": "chenille",
+    "term": "Chenille",
+    "short": "A shrub with long, red flower tassels.",
+    "note": "The chenille plant, Acalypha hispida, bears hanging, densely packed tassels of tiny flowers. Their soft, furry appearance gives it the name red-hot cat’s tail.",
+    "sources": [
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/acalypha-hispida/",
+        "label": "North Carolina State Extension"
+      }
+    ],
+    "aliases": [
+      "Chenille"
+    ],
+    "occurrences": 611,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-213",
+      "index": 2
+    }
+  },
+  {
+    "id": "addax",
+    "term": "Addax",
+    "short": "A Saharan antelope with spiral horns.",
+    "note": "A pale-coated desert antelope, Addax nasomaculatus, with long, twisted horns. It is native to the Sahara.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/addax",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Addax"
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-072",
+      "index": 1
+    }
+  },
+  {
+    "id": "auk",
+    "term": "Auk",
+    "short": "A northern diving seabird.",
+    "note": "A short-necked seabird of the family Alcidae, typically black and white. Auks use their wings underwater while diving; the extinct great auk, unlike living auks, was flightless.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/auk",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Auk"
+    ],
+    "occurrences": 1254,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-052",
+      "index": 2
+    }
+  },
+  {
+    "id": "babirousa",
+    "term": "Babirousa",
+    "short": "An Indonesian wild pig.",
+    "note": "A babirusa, a wild pig of the genus Babyrousa found in Indonesia. Its name comes from Malay words for pig and deer.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/babirusa",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Babirousa"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-05",
+      "paragraph": "p-018",
+      "index": 30
+    }
+  },
+  {
+    "id": "bharal",
+    "term": "Bharal",
+    "short": "The Himalayan blue sheep.",
+    "note": "A goatlike mountain mammal, Pseudois nayaur, with a gray-blue coat. It inhabits high country in the Himalayas and neighboring parts of Asia.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bharal",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Bharal"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-12",
+      "paragraph": "p-006",
+      "index": 24
+    }
+  },
+  {
+    "id": "cavy",
+    "term": "Cavy",
+    "short": "A South American rodent.",
+    "note": "A member of the rodent family Caviidae, which includes the guinea pigs. Cavies are not rabbits; the name commonly denotes the short-tailed, rough-haired forms.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cavy",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Cavy"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-193",
+      "index": 28
+    }
+  },
+  {
+    "id": "coypu",
+    "term": "Coypu",
+    "short": "A large, semiaquatic South American rodent.",
+    "note": "Also called nutria, the coypu has coarse fur and spends much of its time in and around fresh water. Its scientific name is Myocastor coypus.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/coypu",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Coypu"
+    ],
+    "occurrences": 20,
+    "first": {
+      "chapter": "lake-06",
+      "paragraph": "p-222",
+      "index": 18
+    }
+  },
+  {
+    "id": "galago",
+    "term": "Galago",
+    "short": "A bushbaby.",
+    "note": "A galago, or bushbaby, is a small African primate active chiefly at night and at home in trees. Galagos have large eyes and belong to the family Galagidae. The name is used both broadly and as a zoological genus name.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/galago",
+        "label": "Wiktionary · galago"
+      }
+    ],
+    "aliases": [
+      "Galago"
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "lake-05",
+      "paragraph": "p-203",
+      "index": 17
+    }
+  },
+  {
+    "id": "gelada",
+    "term": "Gelada",
+    "short": "A grass-eating Ethiopian monkey.",
+    "note": "Theropithecus gelada, a large, long-haired monkey resembling a baboon. It is native to Ethiopia and feeds chiefly on grasses.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gelada",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Gelada"
+    ],
+    "occurrences": 32,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-342",
+      "index": 28
+    }
+  },
+  {
+    "id": "goral",
+    "term": "Goral",
+    "short": "A small Asian goat-antelope.",
+    "note": "A member of Naemorhedus, a genus of mountain-dwelling bovids ranging from the Himalayan region into China. Gorals combine a goatlike build with antelope-like features.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/goral",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Goral"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-05",
+      "paragraph": "p-020",
+      "index": 30
+    }
+  },
+  {
+    "id": "grison",
+    "term": "Grison",
+    "short": "A South American relative of the weasels.",
+    "note": "A low-slung carnivorous mammal with a gray upper coat and darker underparts. Grisons belong to the weasel family; the name comes from French gris, gray.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/grison",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Grison"
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-102",
+      "index": 0
+    }
+  },
+  {
+    "id": "hyrax",
+    "term": "Hyrax",
+    "short": "A small, thickset African or Middle Eastern mammal.",
+    "note": "A short-legged mammal with small ears, a rudimentary tail, and padded feet with broad nails. Hyraxes are also called dassies or coneys.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hyrax",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Hyrax"
+    ],
+    "occurrences": 15,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-383",
+      "index": 42
+    }
+  },
+  {
+    "id": "incus",
+    "term": "Incus",
+    "short": "The anvil-shaped bone of the middle ear.",
+    "note": "The middle one of the three auditory ossicles, between the malleus and stapes. Its Latin name means anvil, describing its shape.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/incus",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Incus"
+    ],
+    "occurrences": 276,
+    "first": {
+      "chapter": "lake-07",
+      "paragraph": "p-044",
+      "index": 19
+    }
+  },
+  {
+    "id": "quetzal",
+    "term": "Quetzal",
+    "short": "A brilliant Central American trogon.",
+    "note": "A forest bird with iridescent green upperparts and red underparts. In the resplendent quetzal, the male’s exceptionally long upper tail-coverts extend well beyond the tail itself.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/quetzal",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Quetzal"
+    ],
+    "occurrences": 226,
+    "first": {
+      "chapter": "lake-04",
+      "paragraph": "p-020",
+      "index": 16
+    }
+  },
+  {
+    "id": "remora",
+    "term": "Remora",
+    "short": "A fish with a suction disk on its head.",
+    "note": "A suckerfish that attaches itself to larger marine animals or other surfaces. The Latin name means delay, from an ancient belief that these fish could hold back a ship.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/remora",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Remora"
+    ],
+    "occurrences": 352,
+    "first": {
+      "chapter": "nightside-04",
+      "paragraph": "p-117",
+      "index": 3
+    }
+  },
+  {
+    "id": "loris",
+    "term": "Loris",
+    "short": "A slow-moving nocturnal primate.",
+    "note": "A tailless or short-tailed, tree-dwelling primate native to southern Asia. Lorises have large eyes and move deliberately along branches.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/loris",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Loris"
+    ],
+    "occurrences": 129,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-151",
+      "index": 0
+    }
+  },
+  {
+    "id": "potto",
+    "term": "Potto",
+    "short": "A nocturnal African tree-dwelling primate.",
+    "note": "A woolly-coated primate of tropical Africa, with a short tail and a reduced index finger. Pottos move slowly and grip branches firmly.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/potto",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Potto"
+    ],
+    "occurrences": 241,
+    "first": {
+      "chapter": "nightside-13",
+      "paragraph": "p-018",
+      "index": 12
+    }
+  },
+  {
+    "id": "tarsier",
+    "term": "Tarsier",
+    "short": "A small, very large-eyed nocturnal primate.",
+    "note": "A primate of Southeast Asian islands with long hind limbs and a slender tail. Its conspicuously large eyes suit its nocturnal life.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tarsier",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Tarsier"
+    ],
+    "occurrences": 11,
+    "first": {
+      "chapter": "nightside-08",
+      "paragraph": "p-115",
+      "index": 7
+    }
+  },
+  {
+    "id": "jerboa",
+    "term": "Jerboa",
+    "short": "A long-legged jumping desert rodent.",
+    "note": "A small nocturnal rodent of arid parts of Africa and Asia. Its elongated hind legs and long balancing tail support rapid, kangaroo-like leaps.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/jerboa",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Jerboa"
+    ],
+    "occurrences": 53,
+    "first": {
+      "chapter": "calde-05",
+      "paragraph": "p-120",
+      "index": 30
+    }
+  },
+  {
+    "id": "tussah",
+    "term": "Tussah",
+    "short": "A coarse, naturally brownish wild silk.",
+    "note": "Silk produced by certain moths other than the domesticated mulberry silkworm. The word, from Hindi and Urdu tasar, also names the moth or caterpillar producing it.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tussah",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Tussah"
+    ],
+    "occurrences": 12,
+    "first": {
+      "chapter": "lake-10",
+      "paragraph": "p-054",
+      "index": 22
+    }
+  },
+  {
+    "id": "linsang",
+    "term": "Linsang",
+    "short": "A slender, spotted or banded forest mammal.",
+    "note": "A small, long-tailed carnivore of tropical forests. The name applies to Asian Prionodon and African Poiana, animals resembling civets.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/linsang",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Linsang"
+    ],
+    "occurrences": 15,
+    "first": {
+      "chapter": "calde-06",
+      "paragraph": "p-305",
+      "index": 31
+    }
+  },
+  {
+    "id": "paca",
+    "term": "Paca",
+    "short": "A large, spotted American rodent.",
+    "note": "A nocturnal rodent of tropical America, with a stocky body and rows of pale spots along its flanks.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/paca",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Paca"
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-304",
+      "index": 42
+    }
+  },
+  {
+    "id": "sewellel",
+    "term": "Sewellel",
+    "short": "The mountain beaver.",
+    "note": "Aplodontia rufa, a burrowing rodent of western North America. Mountain beaver is another name for this animal.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sewellel",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Sewellel"
+    ],
+    "occurrences": 8,
+    "first": {
+      "chapter": "exodus-08",
+      "paragraph": "p-010",
+      "index": 44
+    }
+  },
+  {
+    "id": "zoril",
+    "term": "Zoril",
+    "short": "An African striped polecat.",
+    "note": "A mustelid with conspicuous black-and-white markings and strong-smelling defensive secretions. The name is also written zorille.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/zoril",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Zoril"
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-193",
+      "index": 28
+    }
+  },
+  {
+    "id": "ratel",
+    "term": "Ratel",
+    "short": "The honey badger.",
+    "note": "Mellivora capensis, a tough-bodied member of the weasel family found in Africa and parts of Asia. Its upper coat is pale and its underside dark.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ratel",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Ratel"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-165",
+      "index": 0
+    }
+  },
+  {
+    "id": "gulo",
+    "term": "Gulo",
+    "short": "The wolverine’s genus.",
+    "note": "Gulo is the zoological genus containing the wolverine. The Latin word gulo means a glutton.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gulo",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Gulo"
+    ],
+    "occurrences": 93,
+    "first": {
+      "chapter": "lake-04",
+      "paragraph": "p-055",
+      "index": 16
+    }
+  },
+  {
+    "id": "xiphias",
+    "term": "Xiphias",
+    "short": "The swordfish’s genus.",
+    "note": "Xiphias is the genus of the common swordfish. The Greek name is related to xiphos, a sword.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/xiphias",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Xiphias"
+    ],
+    "occurrences": 141,
+    "first": {
+      "chapter": "nightside-13",
+      "paragraph": "p-067",
+      "index": 12
+    }
+  },
+  {
+    "id": "simuliid",
+    "term": "Simuliid",
+    "short": "A fly of the blackfly family.",
+    "note": "A member of the family Simuliidae, the small flies commonly called blackflies. The word comes from the genus Simulium.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/simuliid",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Simuliid"
+    ],
+    "occurrences": 20,
+    "first": {
+      "chapter": "nightside-09",
+      "paragraph": "p-250",
+      "index": 8
+    }
+  },
+  {
+    "id": "trematode",
+    "term": "Trematode",
+    "short": "A parasitic fluke.",
+    "note": "A parasitic flatworm of the class Trematoda. Many flukes have a flattened body and suckers by which they attach to their hosts.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/trematode",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Trematode"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-04",
+      "paragraph": "p-010",
+      "index": 40
+    }
+  },
+  {
+    "id": "oont",
+    "term": "Oont",
+    "short": "A camel.",
+    "note": "An Anglo-Indian word for a camel, borrowed from Hindi and Urdu. It is also encountered in Australian usage.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/oont",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Oont"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-193",
+      "index": 28
+    }
+  },
+  {
+    "id": "urus",
+    "term": "Urus",
+    "short": "The aurochs, an extinct wild ox.",
+    "note": "An old name for the aurochs, the wild ancestor of domestic cattle. Urus was the Latin name for this animal.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/urus",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Urus"
+    ],
+    "occurrences": 112,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-340",
+      "index": 28
+    }
+  },
+  {
+    "id": "isagogics",
+    "term": "isagogics",
+    "short": "Introductory study before interpretation.",
+    "note": "The preliminary study of a text’s literary and historical background, especially study preparing for the interpretation of the Bible.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/isagogics",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "isagogics"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-08",
+      "paragraph": "p-094",
+      "index": 44
+    }
+  },
+  {
+    "id": "hierologics",
+    "term": "hierologics",
+    "short": "The study of sacred lore.",
+    "note": "Related to hierology: religious lore and literature, or the study of sacred things.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hierology",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "hierologics"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-04",
+      "paragraph": "p-055",
+      "index": 16
+    }
+  },
+  {
+    "id": "orpine",
+    "term": "Orpine",
+    "short": "A fleshy-leaved stonecrop.",
+    "note": "Hylotelephium telephium, formerly Sedum telephium, is a perennial succulent with clusters of small, star-shaped pink or purplish flowers. It is also called live-forever.",
+    "sources": [
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/hylotelephium-telephium/",
+        "label": "North Carolina State Extension"
+      }
+    ],
+    "aliases": [
+      "Orpine"
+    ],
+    "occurrences": 122,
+    "first": {
+      "chapter": "nightside-10",
+      "paragraph": "p-043",
+      "index": 9
+    }
+  },
+  {
+    "id": "mezereon",
+    "term": "Mezereon",
+    "short": "An early-flowering daphne shrub.",
+    "note": "Daphne mezereum bears fragrant rose-purple flowers before its leaves and later produces bright berries. The plant is poisonous.",
+    "sources": [
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/daphne-mezereum/",
+        "label": "North Carolina State Extension"
+      }
+    ],
+    "aliases": [
+      "Mezereon"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-12",
+      "paragraph": "p-061",
+      "index": 11
+    }
+  },
+  {
+    "id": "oreb",
+    "term": "Oreb",
+    "short": "Hebrew “raven.”",
+    "note": "The Hebrew noun orev means a raven or crow. The older transliteration Oreb preserves a b for the same Hebrew consonant.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/עורב",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Oreb"
+    ],
+    "occurrences": 462,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-085",
+      "index": 1
+    }
+  },
+  {
+    "id": "kypris",
+    "term": "Kypris",
+    "short": "An ancient name of Aphrodite.",
+    "note": "Kypris, also written Cypris, is a name of Aphrodite, the Greek goddess of love and beauty.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Olympios/Aphrodite.html",
+        "label": "Greek text and classical references"
+      }
+    ],
+    "aliases": [
+      "Kypris"
+    ],
+    "occurrences": 144,
+    "first": {
+      "chapter": "nightside-06",
+      "paragraph": "p-034",
+      "index": 5
+    }
+  },
+  {
+    "id": "echidna",
+    "term": "Echidna",
+    "short": "A half-woman, half-serpent of Greek myth.",
+    "note": "In Hesiod’s Theogony, Echidna has a nymph’s upper body and an immense snake’s lower body. With Typhon she is the mother of monsters including Cerberus and the Hydra.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Text/HesiodTheogony.html",
+        "label": "Greek text and classical references"
+      }
+    ],
+    "aliases": [
+      "Echidna"
+    ],
+    "occurrences": 144,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-160",
+      "index": 0
+    }
+  },
+  {
+    "id": "theodidact",
+    "term": "theodidact",
+    "short": "A person taught by a god.",
+    "note": "Greek theodidaktos means taught by God, combining theos, god, with didaktos, taught. The adjective appears in 1 Thessalonians 4:9.",
+    "sources": [
+      {
+        "url": "https://biblehub.com/greek/2312.htm",
+        "label": "Greek lexicons: θεοδίδακτος"
+      }
+    ],
+    "aliases": [
+      "theodidact",
+      "theodidacts"
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-024",
+      "index": 0
+    }
+  },
+  {
+    "id": "theophany",
+    "term": "theophany",
+    "short": "A visible appearance of a deity.",
+    "note": "A manifestation in which a god becomes visible. The word comes through Greek theophaneia, combining the divine with the idea of appearing.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/theophany",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "theophany",
+      "theophanies"
+    ],
+    "occurrences": 37,
+    "first": {
+      "chapter": "nightside-06",
+      "paragraph": "p-076",
+      "index": 5
+    }
+  },
+  {
+    "id": "ayuntamiento",
+    "term": "Ayuntamiento",
+    "short": "Spanish “municipal council.”",
+    "note": "The governing council of a town or city, consisting of its mayor and councillors.",
+    "sources": [
+      {
+        "url": "https://dle.rae.es/ayuntamiento",
+        "label": "Real Academia Española"
+      }
+    ],
+    "aliases": [
+      "Ayuntamiento"
+    ],
+    "occurrences": 204,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-151",
+      "index": 0
+    }
+  },
+  {
+    "id": "juzgado",
+    "term": "Juzgado",
+    "short": "Spanish “court of law.”",
+    "note": "A court or judicial office; also the place where the judge exercises that office.",
+    "sources": [
+      {
+        "url": "https://dle.rae.es/juzgado",
+        "label": "Real Academia Española"
+      }
+    ],
+    "aliases": [
+      "Juzgado"
+    ],
+    "occurrences": 70,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-071",
+      "index": 1
+    }
+  },
+  {
+    "id": "orilla",
+    "term": "Orilla",
+    "short": "Spanish “shore” or “bank.”",
+    "note": "The edge of a body of water: the shore of the sea, or the bank of a river or lake.",
+    "sources": [
+      {
+        "url": "https://dle.rae.es/orilla",
+        "label": "Real Academia Española"
+      }
+    ],
+    "aliases": [
+      "Orilla"
+    ],
+    "occurrences": 26,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-110",
+      "index": 2
+    }
+  },
+  {
+    "id": "alameda",
+    "term": "Alameda",
+    "short": "A tree-lined walk or avenue.",
+    "note": "Spanish alameda originally denotes a grove of poplars; it also names a public walk planted with trees.",
+    "sources": [
+      {
+        "url": "https://dle.rae.es/alameda",
+        "label": "Real Academia Española"
+      }
+    ],
+    "aliases": [
+      "Alameda"
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-169",
+      "index": 2
+    }
+  },
+  {
+    "id": "teasel",
+    "term": "Teasel",
+    "short": "A bristly-headed plant used in cloth finishing.",
+    "note": "A plant of the genus Dipsacus. The dried heads of fuller’s teasel have hooked prickles and were used to raise a nap on woven cloth.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/teasel",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Teasel"
+    ],
+    "occurrences": 42,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-176",
+      "index": 0
+    }
+  },
+  {
+    "id": "mucor",
+    "term": "Mucor",
+    "short": "A genus of molds.",
+    "note": "Mucor comprises molds that produce spores in rounded or cylindrical spore cases. The Latin name means mold.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/medical/mucor",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Mucor"
+    ],
+    "occurrences": 198,
+    "first": {
+      "chapter": "nightside-05",
+      "paragraph": "p-056",
+      "index": 4
+    }
+  },
+  {
+    "id": "scleroderma",
+    "term": "Scleroderma",
+    "short": "An earthball fungus.",
+    "note": "Scleroderma is a genus of tough-skinned, puffball-like fungi. Their interior darkens as the spores mature; the fungi form close associations with tree roots.",
+    "sources": [
+      {
+        "url": "https://www.mushroomexpert.com/scleroderma.html",
+        "label": "Michael Kuo, MushroomExpert"
+      }
+    ],
+    "aliases": [
+      "Scleroderma"
+    ],
+    "occurrences": 42,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-165",
+      "index": 2
+    }
+  },
+  {
+    "id": "chervil",
+    "term": "Chervil",
+    "short": "A delicately leaved culinary herb.",
+    "note": "Anthriscus cerefolium, an aromatic herb of the carrot family. Its divided leaves are used in salads, soups, and other dishes.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chervil",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Chervil"
+    ],
+    "occurrences": 15,
+    "first": {
+      "chapter": "lake-06",
+      "paragraph": "p-222",
+      "index": 18
+    }
+  },
+  {
+    "id": "crassula",
+    "term": "Crassula",
+    "short": "A genus of succulent plants.",
+    "note": "A chiefly southern African genus of fleshy-leaved plants. Its name comes from Latin crassus, thick; older botanical usage included certain stonecrops.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/crassula",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Crassula"
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "nightside-11",
+      "paragraph": "p-157",
+      "index": 10
+    }
+  },
+  {
+    "id": "desmid",
+    "term": "Desmid",
+    "short": "A microscopic green alga.",
+    "note": "A member of a group of green algae whose cells are often joined or divided into matching halves. The name derives from Greek desmos, a bond.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/desmid",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Desmid"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-360",
+      "index": 42
+    }
+  },
+  {
+    "id": "subtrahend",
+    "term": "subtrahend",
+    "short": "The number being subtracted.",
+    "note": "In a subtraction, the subtrahend is the quantity taken away. In 9 minus 4, it is 4; the starting quantity is the minuend.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/subtrahend",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "subtrahend",
+      "subtrahends"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-040",
+      "index": 0
+    }
+  },
+  {
+    "id": "gipon",
+    "term": "gipon",
+    "short": "A close-fitting medieval tunic.",
+    "note": "Also called a jupon: a shirtlike garment, often padded or quilted, worn beneath armor. The word is related to French jupe.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/jupon",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "gipon",
+      "gipons"
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-462",
+      "index": 28
+    }
+  },
+  {
+    "id": "lyrichord",
+    "term": "lyrichord",
+    "short": "A keyboard instrument with wheel-bowed strings.",
+    "note": "A harpsichord-shaped instrument whose strings sound through contact with revolving wheels, rather than by plucking.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lyrichord",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "lyrichord",
+      "lyrichords"
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "exodus-11",
+      "paragraph": "p-109",
+      "index": 47
+    }
+  },
+  {
+    "id": "chough",
+    "term": "chough",
+    "short": "A glossy black, red-legged crow relative.",
+    "note": "A bird of the genus Pyrrhocorax, with dark, glossy plumage and red legs. The English name is pronounced “chuff.”",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chough",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "chough",
+      "choughs"
+    ],
+    "occurrences": 44,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-042",
+      "index": 1
+    }
+  },
+  {
+    "id": "palustria",
+    "term": "Palustria",
+    "short": "Latin “marshy places.”",
+    "note": "Palustria is a neuter plural form of the Latin adjective paluster, marshy or swampy. It belongs to the same word family as palus, a marsh.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/paluster#Latin",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Palustria"
+    ],
+    "occurrences": 34,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-045",
+      "index": 1
+    }
+  },
+  {
+    "id": "amnis",
+    "term": "Amnis",
+    "short": "Latin “river” or “stream.”",
+    "note": "Amnis names flowing water, especially a river or a strong current. Its Latin plural is amnes.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/amnis#Latin",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Amnis"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-09",
+      "paragraph": "p-263",
+      "index": 21
+    }
+  },
+  {
+    "id": "urbs",
+    "term": "Urbs",
+    "short": "Latin “city.”",
+    "note": "A city or walled town. In Roman usage, urbs without further qualification can mean Rome itself.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/urbs#Latin",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "Urbs"
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "lake-06",
+      "paragraph": "p-308",
+      "index": 18
+    }
+  },
+  {
+    "id": "hus",
+    "term": "hus",
+    "short": "Greek “pig” or “swine.”",
+    "note": "Ancient Greek hus, written ὗς, means a pig or hog. The noun can be used of either sex.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/ὗς",
+        "label": "Wiktionary"
+      }
+    ],
+    "aliases": [
+      "hus",
+      "huses"
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "exodus-my-defense",
+      "paragraph": "p-014",
+      "index": 53
+    }
+  },
+  {
+    "id": "marl",
+    "term": "Marl",
+    "short": "An earthy deposit rich in lime.",
+    "note": "Loose or crumbly sediment containing a substantial amount of calcium carbonate, mixed with materials such as clay, sand, or silt.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/marl",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Marl"
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "exodus-02",
+      "paragraph": "p-200",
+      "index": 38
+    }
+  },
+  {
+    "id": "molybdenum",
+    "term": "Molybdenum",
+    "short": "A metal used to strengthen steel.",
+    "note": "A metallic element, symbol Mo, added to steel for strength and hardness. Its name descends from Greek molybdos, lead.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/molybdenum",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Molybdenum"
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "exodus-11",
+      "paragraph": "p-424",
+      "index": 47
+    }
+  },
+  {
+    "id": "salvia",
+    "term": "Salvia",
+    "short": "The sage genus.",
+    "note": "A large genus of herbs and shrubs in the mint family, including culinary sage and many flowering garden plants. The Latin name means sage.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/salvia",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Salvia"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-09",
+      "paragraph": "p-098",
+      "index": 45
+    }
+  },
+  {
+    "id": "dimberdamber",
+    "term": "dimberdamber",
+    "short": "A leader of thieves.",
+    "note": "Old cant for the chief of a group of thieves or vagrants. It combines the approving dimber, “fine,” with damber; historical dictionaries also print it as two words or a hyphenated compound.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose · Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [
+      "dimberdamber"
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "lake-05",
+      "paragraph": "p-214",
+      "index": 17
+    }
+  },
+  {
+    "id": "bufe",
+    "term": "bufe",
+    "short": "A dog.",
+    "note": "An old cant word for a dog, recorded in Francis Grose’s dictionary of slang.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [
+      "bufe",
+      "bufes"
+    ],
+    "occurrences": 12,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-368",
+      "index": 28
+    }
+  },
+  {
+    "id": "prog",
+    "term": "prog",
+    "short": "Food or provisions.",
+    "note": "Food carried or obtained for a meal. As a verb, prog also means to forage.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [
+      "prog"
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-321",
+      "index": 42
+    }
+  },
+  {
+    "id": "lowre",
+    "term": "lowre",
+    "short": "Money.",
+    "note": "An old slang term for money. Historical dictionaries also spell it lowr.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [
+      "lowre"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-285",
+      "index": 42
+    }
+  },
+  {
+    "id": "cull",
+    "term": "cull",
+    "short": "A man or fellow.",
+    "note": "A cant term for a man. A bob cull is a good-natured fellow.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [
+      "cull",
+      "culls"
+    ],
+    "occurrences": 67,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-090",
+      "index": 0
+    }
+  },
+  {
+    "id": "mort",
+    "term": "mort",
+    "short": "A woman.",
+    "note": "An old cant term for a woman, as recorded in Grose’s historical slang dictionary.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [
+      "mort",
+      "morts"
+    ],
+    "occurrences": 17,
+    "first": {
+      "chapter": "lake-05",
+      "paragraph": "p-183",
+      "index": 17
+    }
+  },
+  {
+    "id": "sough",
+    "term": "sough",
+    "short": "A low sighing or moaning sound.",
+    "note": "A low, continuous sighing, rushing, or moaning sound, especially the sound of wind among trees or through a narrow opening. The verb means to make that sound.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sough",
+        "label": "Merriam-Webster · sough"
+      }
+    ],
+    "aliases": [
+      "soughing",
+      "soughed"
+    ],
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "lake-08",
+      "paragraph": "p-009",
+      "index": 20
+    }
+  },
+  {
+    "id": "lambent",
+    "term": "lambent",
+    "short": "Flickering softly or lightly luminous.",
+    "note": "Playing lightly over a surface, as a small flame does; by extension, softly glowing or radiant. The underlying Latin verb means to lick, an image of flame touching a surface without consuming it.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lambent",
+        "label": "Merriam-Webster · lambent"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "lake-12",
+      "paragraph": "p-216",
+      "index": 24
+    }
+  },
+  {
+    "id": "sere",
+    "term": "sere",
+    "short": "Dry and withered.",
+    "note": "Dry, withered, or stripped of freshness, especially of vegetation. A literary description of leaves or land, rather than a statement about temperature alone.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sere",
+        "label": "Merriam-Webster · sere"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 4,
+    "first": {
+      "chapter": "nightside-07",
+      "paragraph": "p-236",
+      "index": 6
+    }
+  },
+  {
+    "id": "viron",
+    "term": "Viron",
+    "short": "Possibly Old French: a circle.",
+    "note": "Possibly Old French viron, a circle or the country round about. It belongs to the family of virer, “to turn,” and environ, “around.”",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/viron#Old_French",
+        "label": "Wiktionary · viron"
+      }
+    ],
+    "aliases": [],
+    "possible": true,
+    "occurrences": 205,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-009",
+      "index": 0
+    }
+  },
+  {
+    "id": "trivigaunte",
+    "term": "Trivigaunte",
+    "short": "Possibly Termagant, a medieval stage deity.",
+    "note": "Possibly Termagant, an imaginary deity of medieval European literature. Christian writers wrongly ascribed this figure to Muslims; on the stage the character became a noisy, overbearing tyrant. The later English insult termagant developed from that theatrical tradition.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/termagant",
+        "label": "Merriam-Webster · termagant"
+      }
+    ],
+    "aliases": [
+      "Trivigaunti",
+      "Trivigauntis"
+    ],
+    "possible": true,
+    "occurrences": 149,
+    "first": {
+      "chapter": "nightside-06",
+      "paragraph": "p-254",
+      "index": 5
+    }
+  },
+  {
+    "id": "alambrera",
+    "term": "Alambrera",
+    "short": "Spanish: a protective wire screen.",
+    "note": "Spanish alambrera is wire mesh or a protective wire cover, such as a screen over a window or food. It is formed from alambre, wire; the central image is an enclosing barrier.",
+    "sources": [
+      {
+        "url": "https://dle.rae.es/alambrera",
+        "label": "Real Academia Española · alambrera"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 63,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-095",
+      "index": 2
+    }
+  },
+  {
+    "id": "oosik",
+    "term": "Oosik",
+    "short": "A walrus’s penile bone.",
+    "note": "An oosik is the baculum, or penile bone, of a walrus. The word comes from Iñupiaq usuk. It names a particular anatomical structure, not the animal as a whole.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/oosik",
+        "label": "Wiktionary · oosik"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 262,
+    "first": {
+      "chapter": "lake-06",
+      "paragraph": "p-034",
+      "index": 18
+    }
+  },
+  {
+    "id": "aer",
+    "term": "Aer",
+    "short": "Irish: air.",
+    "note": "Irish aer means air, the atmosphere, or the open air. It is the ordinary language word rather than the name of a particular bird.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/aer#Irish",
+        "label": "Wiktionary · aer"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 28,
+    "first": {
+      "chapter": "exodus-05",
+      "paragraph": "p-001",
+      "index": 41
+    }
+  },
+  {
+    "id": "mear",
+    "term": "Mear",
+    "short": "Irish: quick or nimble.",
+    "note": "Irish mear means quick, nimble, or lively. It can also mean hasty or rash: speed in action can become haste in judgment.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/mear#Irish",
+        "label": "Wiktionary · mear"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 13,
+    "first": {
+      "chapter": "exodus-05",
+      "paragraph": "p-001",
+      "index": 41
+    }
+  },
+  {
+    "id": "canna",
+    "term": "canna",
+    "short": "Irish: a can or vessel.",
+    "note": "Irish canna means a can or container. This noun should be distinguished from the Scottish and northern English contraction canna, “cannot.”",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/canna#Irish",
+        "label": "Wiktionary · canna"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "exodus-12",
+      "paragraph": "p-167",
+      "index": 48
+    }
+  },
+  {
+    "id": "aedicule",
+    "term": "aedicule",
+    "short": "A small shrine or framed niche.",
+    "note": "A small shrine or a niche given the architectural form of a little building. The name comes from Latin aedicula, a diminutive of aedes, a house or temple.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/aedicule",
+        "label": "Merriam-Webster · aedicule"
+      }
+    ],
+    "aliases": [
+      "aedicules"
+    ],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-06",
+      "paragraph": "p-194",
+      "index": 18
+    }
+  },
+  {
+    "id": "balneum",
+    "term": "balneum",
+    "short": "Latin: a bath or bathing room.",
+    "note": "Latin balneum means a bath, bathing place, or bathing room. The word was borrowed from Greek balaneion and is the ancestor of English terms beginning balneo-, concerned with baths.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/balneum#Latin",
+        "label": "Wiktionary · balneum"
+      }
+    ],
+    "aliases": [
+      "balnea"
+    ],
+    "possible": false,
+    "occurrences": 10,
+    "first": {
+      "chapter": "nightside-06",
+      "paragraph": "p-061",
+      "index": 5
+    }
+  },
+  {
+    "id": "cenatiuncula",
+    "term": "cenatiuncula",
+    "short": "Latin: a little dining room.",
+    "note": "A little dining room. Latin cenatiuncula is a diminutive of cenatio, a room for dining; the diminutive makes the room small or intimate rather than a large banqueting hall.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/cenatiuncula#Latin",
+        "label": "Wiktionary · cenatiuncula"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-11",
+      "paragraph": "p-111",
+      "index": 47
+    }
+  },
+  {
+    "id": "schola",
+    "term": "schola",
+    "short": "Latin: a school or place of study.",
+    "note": "Latin schola means a school, lecture, or learned discussion. It comes from Greek scholē, leisure devoted to study: the word’s history links learning with time free from other work.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/schola#Latin",
+        "label": "Wiktionary · schola"
+      }
+    ],
+    "aliases": [
+      "scholae"
+    ],
+    "possible": false,
+    "occurrences": 59,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-025",
+      "index": 0
+    }
+  },
+  {
+    "id": "agardente",
+    "term": "agardente",
+    "short": "A strong distilled spirit.",
+    "note": "A strong distilled spirit, related to Portuguese aguardente and Spanish aguardiente. Both names literally describe “burning water”; the word does not specify a single ingredient or fixed strength.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/aguardiente",
+        "label": "Merriam-Webster · aguardiente"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-06",
+      "paragraph": "p-167",
+      "index": 18
+    }
+  },
+  {
+    "id": "chrasmologic",
+    "term": "Chrasmologic",
+    "short": "Possibly: concerned with oracles.",
+    "note": "Possibly formed from Greek chrēsmos, an oracle or prophetic response, with a suffix concerned with speech or discourse. “Oracular writings” is therefore a plausible reading; the exact formation remains uncertain.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%CF%87%CF%81%CE%B7%CF%83%CE%BC%CF%8C%CF%82#Ancient_Greek",
+        "label": "Wiktionary · χρησμός"
+      }
+    ],
+    "aliases": [
+      "chrasmologic",
+      "chrasmological",
+      "Chrasmological"
+    ],
+    "possible": true,
+    "occurrences": 19,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-009",
+      "index": 1
+    }
+  },
+  {
+    "id": "dimber",
+    "term": "dimber",
+    "short": "Fine, attractive, or pleasing.",
+    "note": "Old cant for pretty or fine; “dimber hands” can accordingly mean fine or capable hands.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose · Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 37,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-047",
+      "index": 1
+    }
+  },
+  {
+    "id": "darkee",
+    "term": "darkee",
+    "short": "A lantern with a shutter.",
+    "note": "A dark lantern used in housebreaking, its light concealed when necessary.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose · Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [
+      "darkees"
+    ],
+    "possible": false,
+    "occurrences": 3,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-463",
+      "index": 28
+    }
+  },
+  {
+    "id": "dilly",
+    "term": "dilly",
+    "short": "A stagecoach or hired carriage.",
+    "note": "An old abbreviation of diligence, a stagecoach; also used for a post-chaise.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose · Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [
+      "dillies"
+    ],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-05",
+      "paragraph": "p-218",
+      "index": 17
+    }
+  },
+  {
+    "id": "fussock",
+    "term": "fussock",
+    "short": "An insulting word for a bulky woman.",
+    "note": "An old derogatory term for a fat, awkward, or lazy woman.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose · Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [
+      "fussocks"
+    ],
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-04",
+      "paragraph": "p-070",
+      "index": 3
+    }
+  },
+  {
+    "id": "glims",
+    "term": "glims",
+    "short": "Eyes.",
+    "note": "Slang for eyes, also written glimms. A singular glim can instead mean a candle or lantern.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose · Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [
+      "glimms"
+    ],
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-306",
+      "index": 42
+    }
+  },
+  {
+    "id": "foyst",
+    "term": "foyst",
+    "short": "To slip something in surreptitiously.",
+    "note": "An old spelling of foist: to insert secretly or fraudulently, especially with “in.”",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose · Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [
+      "foysted",
+      "foysting"
+    ],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-279",
+      "index": 42
+    }
+  },
+  {
+    "id": "lumb",
+    "term": "lumb",
+    "short": "Too much.",
+    "note": "A cant expression meaning too much, rather than a particular denomination of money.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose · Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-285",
+      "index": 42
+    }
+  },
+  {
+    "id": "cut-bene-widdes",
+    "term": "cut bene widdes",
+    "short": "To speak pleasantly or civilly.",
+    "note": "Cant for speaking civilly or ingratiatingly; also recorded as “cut bene whiddes.”",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose · Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [
+      "cut bene whiddes"
+    ],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-309",
+      "index": 42
+    }
+  },
+  {
+    "id": "betel",
+    "term": "Betel",
+    "short": "An Asian vine with aromatic leaves.",
+    "note": "Betel is the climbing pepper vine Piper betle, whose leaves are chewed with areca nut. The leaf and the so-called betel nut come from different plants.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/betel",
+        "label": "Merriam-Webster · betel"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 8,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-046",
+      "index": 2
+    }
+  },
+  {
+    "id": "campion",
+    "term": "Campion",
+    "short": "A flowering plant of the pink family.",
+    "note": "Campion is a common name for several flowering plants of the pink family, traditionally assigned to Lychnis and Silene. The name does not select one particular species.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/campion",
+        "label": "Merriam-Webster · campion"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-11",
+      "paragraph": "p-117",
+      "index": 10
+    }
+  },
+  {
+    "id": "milkwort",
+    "term": "Milkwort",
+    "short": "A plant of the genus Polygala.",
+    "note": "Milkworts are plants of the genus Polygala. The traditional name reflects an old belief that such plants increased milk production; the name is not a promise of that effect.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/milkwort",
+        "label": "Merriam-Webster · milkwort"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-046",
+      "index": 2
+    }
+  },
+  {
+    "id": "asphodella",
+    "term": "Asphodella",
+    "short": "A name formed from asphodel.",
+    "note": "A name related to asphodel, a flowering plant of the genus Asphodelus. The Greek-derived name is used for plants with tall flower spikes and lily-like blossoms.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/asphodel",
+        "label": "Merriam-Webster · asphodel"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 4,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-164",
+      "index": 0
+    }
+  },
+  {
+    "id": "murtagon",
+    "term": "Murtagon",
+    "short": "Possibly the martagon lily.",
+    "note": "Possibly martagon, the lily whose petals curl strongly backward in a turban-like shape. The usual botanical spelling is martagon; the personal name is left unchanged.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/martagon",
+        "label": "Merriam-Webster · martagon"
+      }
+    ],
+    "aliases": [],
+    "possible": true,
+    "occurrences": 2,
+    "first": {
+      "chapter": "calde-10",
+      "paragraph": "p-031",
+      "index": 35
+    }
+  },
+  {
+    "id": "bier",
+    "term": "bier",
+    "short": "A stand or frame for a coffin.",
+    "note": "A frame or stand on which a dead body or coffin is carried or displayed. The word is related to bear in the sense of carrying a weight.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bier",
+        "label": "Merriam-Webster · bier"
+      }
+    ],
+    "aliases": [
+      "biers"
+    ],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-10",
+      "paragraph": "p-263",
+      "index": 9
+    }
+  },
+  {
+    "id": "balustrade",
+    "term": "balustrade",
+    "short": "A railing supported by small pillars.",
+    "note": "A row of small pillars, called balusters, supporting a rail. The term names the whole barrier along a stair, balcony, or terrace, rather than one of its supports.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/balustrade",
+        "label": "Merriam-Webster · balustrade"
+      }
+    ],
+    "aliases": [
+      "balustrades"
+    ],
+    "possible": false,
+    "occurrences": 5,
+    "first": {
+      "chapter": "nightside-06",
+      "paragraph": "p-027",
+      "index": 5
+    }
+  },
+  {
+    "id": "obsequies",
+    "term": "obsequies",
+    "short": "Funeral rites or observances.",
+    "note": "The ceremonies performed for someone who has died. The word is normally plural and concerns the observances surrounding burial, rather than the grave itself.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/obsequies",
+        "label": "Merriam-Webster · obsequies"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 3,
+    "first": {
+      "chapter": "lake-11",
+      "paragraph": "p-117",
+      "index": 23
+    }
+  },
+  {
+    "id": "baize",
+    "term": "baize",
+    "short": "A thick, softly napped cloth.",
+    "note": "A woolen or cotton cloth with a felt-like surface. It is commonly used to cover gaming tables and to line or cover doors, where its thickness helps soften noise.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/baize",
+        "label": "Merriam-Webster · baize"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-09",
+      "paragraph": "p-249",
+      "index": 8
+    }
+  }
+]
