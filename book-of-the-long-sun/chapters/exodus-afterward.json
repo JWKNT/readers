@@ -7,7 +7,7 @@
   "label": "",
   "kind": "epilogue",
   "index": 54,
-  "html": "<p class=\"prose nonindent chapter-opening\" data-block=\"p-001\" id=\"p-001\"><span class=\"initial\" data-letter=\"H\" data-set=\"exodus\"><span class=\"initial-letter\">H</span><img alt=\"\" aria-hidden=\"true\" class=\"initial-image\" decoding=\"sync\" src=\"../../assets/initials/exodus/H.svg\"/></span>orn wiped the point of his quill with a scrap of soft leather and corked the ink that he and his wife had concocted from soot and sap, pushed back his chair, and stood. It was done. It was done at last, and now perhaps the ghost of the boy he had been would leave him in peace.</p><p class=\"prose\" data-block=\"p-002\" id=\"p-002\">Outside, the short sun’s fiery rim had touched the sea. A golden road—an <span class=\"word\" data-first=\"false\" data-local-first=\"true\" data-term=\"aureate\">Aureate</span> Path—stretched westward across the whitecaps toward a new Mainframe that almost certainly did not exist. He walked to the beach where Hoof and Hide were playing and asked where Sinew was.</p><p class=\"prose\" data-block=\"p-003\" id=\"p-003\">“Hunting,” Hide declared; Hoof added, “Over on the big island, Father.” Hoof’s wide, dark eyes showed plainly how deeply he was impressed.</p><p class=\"prose\" data-block=\"p-004\" id=\"p-004\">“He should be home by this time.”</p><p class=\"prose\" data-block=\"p-005\" id=\"p-005\">Nettle called from the kitchen window as he spoke.</p><p class=\"prose\" data-block=\"p-006\" id=\"p-006\">“Go inside.” When the twins objected, he gave each a push in the direction of the sturdy walls.</p><p class=\"prose\" data-block=\"p-007\" id=\"p-007\">From the summit of the tor, he had a clear view of the strait. Still, a half minute passed before he could be certain of the coracle, lifted upon distant waves only to vanish from sight.</p><p class=\"prose\" data-block=\"p-008\" id=\"p-008\">Night had come already to the eastern sky, scattering the short suns of other whorls across its black velvet. Soon Green would rise, almost a second sun, yet baleful as a curse; it had brought a succession of storms and monstrous tides—</p><p class=\"prose\" data-block=\"p-009\" id=\"p-009\">There!</p><p class=\"prose\" data-block=\"p-010\" id=\"p-010\">Horn watched and waited until he was sure the faint gleam was actually moving against its glittering backdrop. Within that point of light he had been born, and had grown almost to manhood. Within that point of light Sinew had been conceived, in all probability, in the Caldé’s Palace. It did not seem possible.</p><p class=\"prose\" data-block=\"p-011\" id=\"p-011\">Almost too quickly to be noticed, something dark flitted between Horn and the whorl that had been his; and he shuddered.</p>",
+  "html": "<p class=\"prose nonindent chapter-opening\" data-block=\"p-001\" id=\"p-001\"><span class=\"initial\" data-letter=\"H\" data-set=\"exodus\"><span class=\"initial-letter\">H</span><img alt=\"\" aria-hidden=\"true\" class=\"initial-image\" decoding=\"sync\" src=\"../../assets/initials/exodus/H.svg\"/></span>orn wiped the point of his quill with a scrap of soft leather and corked the ink that he and his wife had concocted from soot and sap, pushed back his chair, and stood. It was done. It was done at last, and now perhaps the ghost of the boy he had been would leave him in peace.</p><p class=\"prose\" data-block=\"p-002\" id=\"p-002\">Outside, the short sun’s fiery rim had touched the sea. A golden road—an <span class=\"word\" data-first=\"false\" data-local-first=\"true\" data-term=\"aureate\">Aureate</span> Path—stretched westward across the whitecaps toward a new Mainframe that almost certainly did not exist. He walked to the beach where Hoof and Hide were playing and asked where <span class=\"word\" data-first=\"true\" data-local-first=\"true\" data-term=\"sinew\">Sinew</span> was.</p><p class=\"prose\" data-block=\"p-003\" id=\"p-003\">“Hunting,” Hide declared; Hoof added, “Over on the big island, Father.” Hoof’s wide, dark eyes showed plainly how deeply he was impressed.</p><p class=\"prose\" data-block=\"p-004\" id=\"p-004\">“He should be home by this time.”</p><p class=\"prose\" data-block=\"p-005\" id=\"p-005\"><span class=\"word\" data-first=\"false\" data-local-first=\"true\" data-term=\"nettle\">Nettle</span> called from the kitchen window as he spoke.</p><p class=\"prose\" data-block=\"p-006\" id=\"p-006\">“Go inside.” When the twins objected, he gave each a push in the direction of the sturdy walls.</p><p class=\"prose\" data-block=\"p-007\" id=\"p-007\">From the summit of the tor, he had a clear view of the strait. Still, a half minute passed before he could be certain of the coracle, lifted upon distant waves only to vanish from sight.</p><p class=\"prose\" data-block=\"p-008\" id=\"p-008\">Night had come already to the eastern sky, scattering the short suns of other <span class=\"word\" data-first=\"false\" data-local-first=\"true\" data-term=\"whorl\">whorls</span> across its black velvet. Soon Green would rise, almost a second sun, yet baleful as a curse; it had brought a succession of storms and monstrous tides—</p><p class=\"prose\" data-block=\"p-009\" id=\"p-009\">There!</p><p class=\"prose\" data-block=\"p-010\" id=\"p-010\"><span class=\"word\" data-first=\"false\" data-local-first=\"true\" data-term=\"horn\">Horn</span> watched and waited until he was sure the faint gleam was actually moving against its glittering backdrop. Within that point of light he had been born, and had grown almost to manhood. Within that point of light <span class=\"word\" data-first=\"false\" data-local-first=\"false\" data-term=\"sinew\">Sinew</span> had been conceived, in all probability, in the <span class=\"word\" data-first=\"false\" data-local-first=\"true\" data-term=\"calde\">Caldé</span>’s Palace. It did not seem possible.</p><p class=\"prose\" data-block=\"p-011\" id=\"p-011\">Almost too quickly to be noticed, something dark flitted between <span class=\"word\" data-first=\"false\" data-local-first=\"false\" data-term=\"horn\">Horn</span> and the <span class=\"word\" data-first=\"false\" data-local-first=\"false\" data-term=\"whorl\">whorl</span> that had been his; and he shuddered.</p>",
   "layout": "prose",
   "blocks": [
     "p-001",
@@ -27,6 +27,26 @@
     {
       "term": "aureate",
       "paragraph": "p-002"
+    },
+    {
+      "term": "sinew",
+      "paragraph": "p-002"
+    },
+    {
+      "term": "nettle",
+      "paragraph": "p-005"
+    },
+    {
+      "term": "whorl",
+      "paragraph": "p-008"
+    },
+    {
+      "term": "horn",
+      "paragraph": "p-010"
+    },
+    {
+      "term": "calde",
+      "paragraph": "p-010"
     }
   ],
   "words": 315,

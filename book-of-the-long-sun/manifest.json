@@ -239,16 +239,64 @@
           "paragraph": "p-001"
         },
         {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "maytera",
           "paragraph": "p-001"
+        },
+        {
+          "term": "marble",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "horn",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "pike",
+          "paragraph": "p-003"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-007"
         },
         {
           "term": "scylla",
           "paragraph": "p-007"
         },
         {
+          "term": "limna",
+          "paragraph": "p-007"
+        },
+        {
+          "term": "shiprock",
+          "paragraph": "p-008"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-008"
+        },
+        {
           "term": "viron",
           "paragraph": "p-009"
+        },
+        {
+          "term": "paean",
+          "paragraph": "p-017"
+        },
+        {
+          "term": "raddled",
+          "paragraph": "p-017"
+        },
+        {
+          "term": "villus",
+          "paragraph": "p-019"
         },
         {
           "term": "theodidact",
@@ -496,7 +544,15 @@
           "paragraph": "p-001"
         },
         {
+          "term": "limna",
+          "paragraph": "p-001"
+        },
+        {
           "term": "patera",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "silk",
           "paragraph": "p-001"
         },
         {
@@ -505,6 +561,10 @@
         },
         {
           "term": "pas",
+          "paragraph": "p-005"
+        },
+        {
+          "term": "whorl",
           "paragraph": "p-005"
         },
         {
@@ -525,6 +585,14 @@
         },
         {
           "term": "maytera",
+          "paragraph": "p-008"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-008"
+        },
+        {
+          "term": "mint",
           "paragraph": "p-008"
         },
         {
@@ -566,6 +634,18 @@
         {
           "term": "cull",
           "paragraph": "p-056"
+        },
+        {
+          "term": "pike",
+          "paragraph": "p-058"
+        },
+        {
+          "term": "marble",
+          "paragraph": "p-058"
+        },
+        {
+          "term": "horn",
+          "paragraph": "p-064"
         },
         {
           "term": "echidna",
@@ -941,7 +1021,15 @@
           "paragraph": "p-001"
         },
         {
+          "term": "silk",
+          "paragraph": "p-002"
+        },
+        {
           "term": "maytera",
+          "paragraph": "p-003"
+        },
+        {
+          "term": "marble",
           "paragraph": "p-003"
         },
         {
@@ -957,12 +1045,24 @@
           "paragraph": "p-011"
         },
         {
+          "term": "rose",
+          "paragraph": "p-012"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-012"
+        },
+        {
           "term": "cenoby",
           "paragraph": "p-012"
         },
         {
           "term": "pas",
           "paragraph": "p-014"
+        },
+        {
+          "term": "pike",
+          "paragraph": "p-046"
         },
         {
           "term": "milkwort",
@@ -985,6 +1085,10 @@
           "paragraph": "p-065"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-079"
+        },
+        {
           "term": "prolocutor",
           "paragraph": "p-086"
         },
@@ -1005,7 +1109,19 @@
           "paragraph": "p-110"
         },
         {
+          "term": "horn",
+          "paragraph": "p-114"
+        },
+        {
           "term": "viron",
+          "paragraph": "p-123"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-123"
+        },
+        {
+          "term": "shiprock",
           "paragraph": "p-123"
         },
         {
@@ -1025,12 +1141,20 @@
           "paragraph": "p-169"
         },
         {
+          "term": "limna",
+          "paragraph": "p-178"
+        },
+        {
           "term": "chenille",
           "paragraph": "p-213"
         },
         {
           "term": "juzgado",
           "paragraph": "p-248"
+        },
+        {
+          "term": "musk",
+          "paragraph": "p-269"
         },
         {
           "term": "molpe",
@@ -1231,6 +1355,14 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "limna",
+          "paragraph": "p-001"
+        },
+        {
           "term": "orilla",
           "paragraph": "p-002"
         },
@@ -1247,6 +1379,14 @@
           "paragraph": "p-005"
         },
         {
+          "term": "musk",
+          "paragraph": "p-011"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-019"
+        },
+        {
           "term": "manteion",
           "paragraph": "p-029"
         },
@@ -1256,6 +1396,10 @@
         },
         {
           "term": "maytera",
+          "paragraph": "p-047"
+        },
+        {
+          "term": "mint",
           "paragraph": "p-047"
         },
         {
@@ -1277,6 +1421,14 @@
         {
           "term": "pas",
           "paragraph": "p-082"
+        },
+        {
+          "term": "marble",
+          "paragraph": "p-085"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-088"
         },
         {
           "term": "schola",
@@ -1481,6 +1633,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "talus",
           "paragraph": "p-001"
         },
@@ -1521,6 +1677,14 @@
           "paragraph": "p-014"
         },
         {
+          "term": "marble",
+          "paragraph": "p-014"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-014"
+        },
+        {
           "term": "schola",
           "paragraph": "p-049"
         },
@@ -1543,6 +1707,10 @@
         {
           "term": "sphigx",
           "paragraph": "p-100"
+        },
+        {
+          "term": "musk",
+          "paragraph": "p-109"
         },
         {
           "term": "tartaros",
@@ -1840,6 +2008,14 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "whorl",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "pampa",
           "paragraph": "p-001"
         },
@@ -1900,6 +2076,10 @@
           "paragraph": "p-028"
         },
         {
+          "term": "marble",
+          "paragraph": "p-028"
+        },
+        {
           "term": "kypris",
           "paragraph": "p-034"
         },
@@ -1914,6 +2094,10 @@
         {
           "term": "orilla",
           "paragraph": "p-042"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-050"
         },
         {
           "term": "balneum",
@@ -1940,8 +2124,20 @@
           "paragraph": "p-142"
         },
         {
+          "term": "musk",
+          "paragraph": "p-180"
+        },
+        {
           "term": "chough",
           "paragraph": "p-188"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-194"
+        },
+        {
+          "term": "pike",
+          "paragraph": "p-196"
         },
         {
           "term": "trivigaunte",
@@ -2216,12 +2412,24 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "silk",
+          "paragraph": "p-002"
+        },
+        {
           "term": "patera",
           "paragraph": "p-012"
         },
         {
           "term": "augur",
           "paragraph": "p-013"
+        },
+        {
+          "term": "musk",
+          "paragraph": "p-013"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-017"
         },
         {
           "term": "balneum",
@@ -2248,6 +2456,10 @@
           "paragraph": "p-058"
         },
         {
+          "term": "pike",
+          "paragraph": "p-058"
+        },
+        {
           "term": "hierax",
           "paragraph": "p-061"
         },
@@ -2258,6 +2470,10 @@
         {
           "term": "cubit",
           "paragraph": "p-073"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-087"
         },
         {
           "term": "viron",
@@ -2277,6 +2493,18 @@
         },
         {
           "term": "maytera",
+          "paragraph": "p-191"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-191"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-191"
+        },
+        {
+          "term": "marble",
           "paragraph": "p-191"
         },
         {
@@ -2508,11 +2736,31 @@
           "paragraph": "p-001"
         },
         {
+          "term": "silk",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "musk",
+          "paragraph": "p-005"
+        },
+        {
           "term": "manteion",
           "paragraph": "p-008"
         },
         {
+          "term": "hyacinth",
+          "paragraph": "p-012"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-020"
+        },
+        {
           "term": "augur",
+          "paragraph": "p-049"
+        },
+        {
+          "term": "pike",
           "paragraph": "p-049"
         },
         {
@@ -2536,6 +2784,10 @@
           "paragraph": "p-088"
         },
         {
+          "term": "shiprock",
+          "paragraph": "p-093"
+        },
+        {
           "term": "talus",
           "paragraph": "p-115"
         },
@@ -2544,7 +2796,19 @@
           "paragraph": "p-115"
         },
         {
+          "term": "horn",
+          "paragraph": "p-115"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-123"
+        },
+        {
           "term": "maytera",
+          "paragraph": "p-131"
+        },
+        {
+          "term": "marble",
           "paragraph": "p-131"
         },
         {
@@ -2562,6 +2826,10 @@
         {
           "term": "pas",
           "paragraph": "p-165"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-166"
         },
         {
           "term": "cenoby",
@@ -2853,12 +3121,20 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "teasel",
           "paragraph": "p-001"
         },
         {
           "term": "patera",
           "paragraph": "p-002"
+        },
+        {
+          "term": "pike",
+          "paragraph": "p-022"
         },
         {
           "term": "sphigx",
@@ -2881,12 +3157,32 @@
           "paragraph": "p-040"
         },
         {
+          "term": "hyacinth",
+          "paragraph": "p-041"
+        },
+        {
           "term": "auk",
+          "paragraph": "p-043"
+        },
+        {
+          "term": "calde",
           "paragraph": "p-043"
         },
         {
           "term": "maytera",
           "paragraph": "p-047"
+        },
+        {
+          "term": "marble",
+          "paragraph": "p-047"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-067"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-067"
         },
         {
           "term": "cubit",
@@ -2897,7 +3193,15 @@
           "paragraph": "p-086"
         },
         {
+          "term": "musk",
+          "paragraph": "p-090"
+        },
+        {
           "term": "pas",
+          "paragraph": "p-114"
+        },
+        {
+          "term": "whorl",
           "paragraph": "p-114"
         },
         {
@@ -2917,6 +3221,10 @@
           "paragraph": "p-218"
         },
         {
+          "term": "horn",
+          "paragraph": "p-229"
+        },
+        {
           "term": "chrasmologic",
           "paragraph": "p-246"
         },
@@ -2931,6 +3239,10 @@
         {
           "term": "simuliid",
           "paragraph": "p-250"
+        },
+        {
+          "term": "limna",
+          "paragraph": "p-254"
         }
       ],
       "words": 8200,
@@ -3230,6 +3542,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "patera",
           "paragraph": "p-002"
         },
@@ -3255,6 +3571,10 @@
         },
         {
           "term": "pas",
+          "paragraph": "p-056"
+        },
+        {
+          "term": "whorl",
           "paragraph": "p-056"
         },
         {
@@ -3286,8 +3606,20 @@
           "paragraph": "p-076"
         },
         {
+          "term": "musk",
+          "paragraph": "p-089"
+        },
+        {
           "term": "chenille",
           "paragraph": "p-093"
+        },
+        {
+          "term": "shiprock",
+          "paragraph": "p-104"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-115"
         },
         {
           "term": "augur",
@@ -3302,12 +3634,20 @@
           "paragraph": "p-140"
         },
         {
+          "term": "marble",
+          "paragraph": "p-140"
+        },
+        {
           "term": "cenoby",
           "paragraph": "p-141"
         },
         {
           "term": "schola",
           "paragraph": "p-149"
+        },
+        {
+          "term": "pike",
+          "paragraph": "p-190"
         },
         {
           "term": "alambrera",
@@ -3543,6 +3883,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "silk",
+          "paragraph": "p-002"
+        },
+        {
           "term": "orpine",
           "paragraph": "p-010"
         },
@@ -3557,6 +3901,10 @@
         {
           "term": "sphigx",
           "paragraph": "p-027"
+        },
+        {
+          "term": "musk",
+          "paragraph": "p-038"
         },
         {
           "term": "manteion",
@@ -3575,6 +3923,10 @@
           "paragraph": "p-094"
         },
         {
+          "term": "calde",
+          "paragraph": "p-095"
+        },
+        {
           "term": "pas",
           "paragraph": "p-098"
         },
@@ -3587,6 +3939,10 @@
           "paragraph": "p-109"
         },
         {
+          "term": "rose",
+          "paragraph": "p-109"
+        },
+        {
           "term": "mucor",
           "paragraph": "p-111"
         },
@@ -3595,12 +3951,24 @@
           "paragraph": "p-112"
         },
         {
+          "term": "shiprock",
+          "paragraph": "p-113"
+        },
+        {
           "term": "campion",
           "paragraph": "p-117"
         },
         {
           "term": "talus",
           "paragraph": "p-117"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-117"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-118"
         },
         {
           "term": "azoth",
@@ -3617,6 +3985,14 @@
         {
           "term": "viron",
           "paragraph": "p-128"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-141"
+        },
+        {
+          "term": "limna",
+          "paragraph": "p-141"
         },
         {
           "term": "crassula",
@@ -3826,6 +4202,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "echidna",
           "paragraph": "p-005"
         },
@@ -3850,12 +4230,24 @@
           "paragraph": "p-017"
         },
         {
+          "term": "hyacinth",
+          "paragraph": "p-020"
+        },
+        {
           "term": "patera",
+          "paragraph": "p-025"
+        },
+        {
+          "term": "pike",
           "paragraph": "p-025"
         },
         {
           "term": "schola",
           "paragraph": "p-025"
+        },
+        {
+          "term": "musk",
+          "paragraph": "p-039"
         },
         {
           "term": "manteion",
@@ -3902,8 +4294,16 @@
           "paragraph": "p-085"
         },
         {
+          "term": "marble",
+          "paragraph": "p-085"
+        },
+        {
           "term": "viron",
           "paragraph": "p-091"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-092"
         },
         {
           "term": "orilla",
@@ -3926,8 +4326,16 @@
           "paragraph": "p-115"
         },
         {
+          "term": "shiprock",
+          "paragraph": "p-116"
+        },
+        {
           "term": "alambrera",
           "paragraph": "p-117"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-138"
         },
         {
           "term": "tartaros",
@@ -4099,8 +4507,16 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "musk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "viron",
           "paragraph": "p-001"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-003"
         },
         {
           "term": "augur",
@@ -4147,6 +4563,10 @@
           "paragraph": "p-028"
         },
         {
+          "term": "hyacinth",
+          "paragraph": "p-032"
+        },
+        {
           "term": "cull",
           "paragraph": "p-049"
         },
@@ -4189,6 +4609,10 @@
         {
           "term": "teasel",
           "paragraph": "p-141"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-145"
         }
       ],
       "words": 5165,
@@ -4420,6 +4844,14 @@
           "paragraph": "p-001"
         },
         {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "horn",
+          "paragraph": "p-001"
+        },
+        {
           "term": "palaestra",
           "paragraph": "p-001"
         },
@@ -4440,12 +4872,28 @@
           "paragraph": "p-005"
         },
         {
+          "term": "rose",
+          "paragraph": "p-005"
+        },
+        {
           "term": "sphigx",
           "paragraph": "p-005"
         },
         {
           "term": "manteion",
           "paragraph": "p-010"
+        },
+        {
+          "term": "pike",
+          "paragraph": "p-021"
+        },
+        {
+          "term": "marble",
+          "paragraph": "p-021"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-036"
         },
         {
           "term": "auk",
@@ -4472,12 +4920,28 @@
           "paragraph": "p-113"
         },
         {
+          "term": "nettle",
+          "paragraph": "p-117"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-121"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-124"
+        },
+        {
           "term": "azoth",
           "paragraph": "p-135"
         },
         {
           "term": "kypris",
           "paragraph": "p-154"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-155"
         },
         {
           "term": "mucor",
@@ -4659,7 +5123,15 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "maytera",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "marble",
           "paragraph": "p-001"
         },
         {
@@ -4675,12 +5147,20 @@
           "paragraph": "p-002"
         },
         {
+          "term": "mint",
+          "paragraph": "p-003"
+        },
+        {
           "term": "patera",
           "paragraph": "p-004"
         },
         {
           "term": "augur",
           "paragraph": "p-004"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-006"
         },
         {
           "term": "viron",
@@ -4691,6 +5171,14 @@
           "paragraph": "p-011"
         },
         {
+          "term": "horn",
+          "paragraph": "p-022"
+        },
+        {
+          "term": "pike",
+          "paragraph": "p-023"
+        },
+        {
           "term": "palaestra",
           "paragraph": "p-025"
         },
@@ -4699,7 +5187,15 @@
           "paragraph": "p-027"
         },
         {
+          "term": "hyacinth",
+          "paragraph": "p-033"
+        },
+        {
           "term": "molpe",
+          "paragraph": "p-034"
+        },
+        {
+          "term": "whorl",
           "paragraph": "p-034"
         },
         {
@@ -4720,6 +5216,10 @@
         },
         {
           "term": "fisc",
+          "paragraph": "p-071"
+        },
+        {
+          "term": "shiprock",
           "paragraph": "p-071"
         },
         {
@@ -4749,6 +5249,10 @@
         {
           "term": "chrasmologic",
           "paragraph": "p-099"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-133"
         },
         {
           "term": "cenoby",
@@ -4972,6 +5476,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "orpine",
           "paragraph": "p-002"
         },
@@ -4996,6 +5504,10 @@
           "paragraph": "p-015"
         },
         {
+          "term": "villus",
+          "paragraph": "p-021"
+        },
+        {
           "term": "kypris",
           "paragraph": "p-022"
         },
@@ -5012,7 +5524,19 @@
           "paragraph": "p-029"
         },
         {
+          "term": "marble",
+          "paragraph": "p-029"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-031"
+        },
+        {
           "term": "cenoby",
+          "paragraph": "p-031"
+        },
+        {
+          "term": "mint",
           "paragraph": "p-031"
         },
         {
@@ -5032,6 +5556,10 @@
           "paragraph": "p-050"
         },
         {
+          "term": "pike",
+          "paragraph": "p-050"
+        },
+        {
           "term": "mucor",
           "paragraph": "p-066"
         },
@@ -5044,6 +5572,10 @@
           "paragraph": "p-071"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-092"
+        },
+        {
           "term": "schola",
           "paragraph": "p-093"
         },
@@ -5052,8 +5584,16 @@
           "paragraph": "p-111"
         },
         {
+          "term": "musk",
+          "paragraph": "p-112"
+        },
+        {
           "term": "dimber",
           "paragraph": "p-140"
+        },
+        {
+          "term": "horn",
+          "paragraph": "p-157"
         },
         {
           "term": "sibyl",
@@ -5062,6 +5602,10 @@
         {
           "term": "chough",
           "paragraph": "p-169"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-181"
         },
         {
           "term": "tarsier",
@@ -5358,12 +5902,20 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "musk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "chenille",
           "paragraph": "p-001"
         },
         {
           "term": "patera",
           "paragraph": "p-002"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-003"
         },
         {
           "term": "scylla",
@@ -5406,8 +5958,16 @@
           "paragraph": "p-020"
         },
         {
+          "term": "pike",
+          "paragraph": "p-022"
+        },
+        {
           "term": "palaestra",
           "paragraph": "p-024"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-026"
         },
         {
           "term": "oreb",
@@ -5454,8 +6014,20 @@
           "paragraph": "p-134"
         },
         {
+          "term": "marble",
+          "paragraph": "p-134"
+        },
+        {
           "term": "sibyl",
           "paragraph": "p-138"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-140"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-140"
         },
         {
           "term": "cenoby",
@@ -5478,6 +6050,10 @@
           "paragraph": "p-205"
         },
         {
+          "term": "raddled",
+          "paragraph": "p-234"
+        },
+        {
           "term": "tessellated",
           "paragraph": "p-244"
         },
@@ -5488,6 +6064,14 @@
         {
           "term": "mucor",
           "paragraph": "p-253"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-253"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-260"
         }
       ],
       "words": 8696,
@@ -5749,6 +6333,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "sibyl",
           "paragraph": "p-001"
         },
@@ -5765,7 +6353,15 @@
           "paragraph": "p-010"
         },
         {
+          "term": "musk",
+          "paragraph": "p-010"
+        },
+        {
           "term": "maytera",
+          "paragraph": "p-014"
+        },
+        {
+          "term": "rose",
           "paragraph": "p-014"
         },
         {
@@ -5801,12 +6397,28 @@
           "paragraph": "p-022"
         },
         {
+          "term": "hyacinth",
+          "paragraph": "p-023"
+        },
+        {
           "term": "hierax",
           "paragraph": "p-023"
         },
         {
+          "term": "horn",
+          "paragraph": "p-029"
+        },
+        {
           "term": "azoth",
           "paragraph": "p-033"
+        },
+        {
+          "term": "marble",
+          "paragraph": "p-035"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-035"
         },
         {
           "term": "cenoby",
@@ -5815,6 +6427,10 @@
         {
           "term": "palaestra",
           "paragraph": "p-048"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-050"
         },
         {
           "term": "augur",
@@ -5843,6 +6459,10 @@
         {
           "term": "mort",
           "paragraph": "p-183"
+        },
+        {
+          "term": "limna",
+          "paragraph": "p-200"
         },
         {
           "term": "ayuntamiento",
@@ -6237,6 +6857,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "oreb",
           "paragraph": "p-001"
         },
@@ -6257,8 +6881,16 @@
           "paragraph": "p-006"
         },
         {
+          "term": "limna",
+          "paragraph": "p-007"
+        },
+        {
           "term": "chenille",
           "paragraph": "p-008"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-015"
         },
         {
           "term": "kypris",
@@ -6266,6 +6898,10 @@
         },
         {
           "term": "pas",
+          "paragraph": "p-019"
+        },
+        {
+          "term": "whorl",
           "paragraph": "p-019"
         },
         {
@@ -6283,6 +6919,10 @@
         {
           "term": "oosik",
           "paragraph": "p-034"
+        },
+        {
+          "term": "musk",
+          "paragraph": "p-036"
         },
         {
           "term": "molpe",
@@ -6315,6 +6955,14 @@
         {
           "term": "alambrera",
           "paragraph": "p-095"
+        },
+        {
+          "term": "shiprock",
+          "paragraph": "p-097"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-122"
         },
         {
           "term": "orilla",
@@ -6677,12 +7325,20 @@
           "paragraph": "p-002"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-002"
+        },
+        {
           "term": "scylla",
           "paragraph": "p-002"
         },
         {
           "term": "viron",
           "paragraph": "p-002"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-004"
         },
         {
           "term": "escritoire",
@@ -6749,12 +7405,20 @@
           "paragraph": "p-120"
         },
         {
+          "term": "hyacinth",
+          "paragraph": "p-124"
+        },
+        {
           "term": "theophany",
           "paragraph": "p-128"
         },
         {
           "term": "ayuntamiento",
           "paragraph": "p-134"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-140"
         },
         {
           "term": "trivigaunte",
@@ -6781,8 +7445,16 @@
           "paragraph": "p-168"
         },
         {
+          "term": "limna",
+          "paragraph": "p-170"
+        },
+        {
           "term": "talus",
           "paragraph": "p-184"
+        },
+        {
+          "term": "musk",
+          "paragraph": "p-193"
         },
         {
           "term": "azoth",
@@ -6991,11 +7663,19 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "talus",
           "paragraph": "p-001"
         },
         {
           "term": "scylla",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "limna",
           "paragraph": "p-001"
         },
         {
@@ -7005,6 +7685,10 @@
         {
           "term": "azoth",
           "paragraph": "p-002"
+        },
+        {
+          "term": "musk",
+          "paragraph": "p-003"
         },
         {
           "term": "potto",
@@ -7027,6 +7711,10 @@
           "paragraph": "p-009"
         },
         {
+          "term": "shiprock",
+          "paragraph": "p-011"
+        },
+        {
           "term": "cubit",
           "paragraph": "p-011"
         },
@@ -7047,11 +7735,19 @@
           "paragraph": "p-018"
         },
         {
+          "term": "pike",
+          "paragraph": "p-018"
+        },
+        {
           "term": "gulo",
           "paragraph": "p-020"
         },
         {
           "term": "maytera",
+          "paragraph": "p-020"
+        },
+        {
+          "term": "marble",
           "paragraph": "p-020"
         },
         {
@@ -7064,6 +7760,10 @@
         },
         {
           "term": "cenoby",
+          "paragraph": "p-067"
+        },
+        {
+          "term": "mint",
           "paragraph": "p-067"
         },
         {
@@ -7091,8 +7791,16 @@
           "paragraph": "p-076"
         },
         {
+          "term": "hyacinth",
+          "paragraph": "p-079"
+        },
+        {
           "term": "pas",
           "paragraph": "p-163"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-176"
         }
       ],
       "words": 6901,
@@ -7388,6 +8096,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "auk",
           "paragraph": "p-001"
         },
@@ -7412,6 +8124,14 @@
           "paragraph": "p-018"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-019"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-020"
+        },
+        {
           "term": "viron",
           "paragraph": "p-021"
         },
@@ -7422,6 +8142,10 @@
         {
           "term": "patera",
           "paragraph": "p-021"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-050"
         },
         {
           "term": "sibyl",
@@ -7440,6 +8164,10 @@
           "paragraph": "p-078"
         },
         {
+          "term": "marble",
+          "paragraph": "p-078"
+        },
+        {
           "term": "urbs",
           "paragraph": "p-110"
         },
@@ -7448,8 +8176,16 @@
           "paragraph": "p-122"
         },
         {
+          "term": "shiprock",
+          "paragraph": "p-127"
+        },
+        {
           "term": "augur",
           "paragraph": "p-139"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-152"
         },
         {
           "term": "mucor",
@@ -7482,6 +8218,14 @@
         {
           "term": "tartaros",
           "paragraph": "p-195"
+        },
+        {
+          "term": "musk",
+          "paragraph": "p-196"
+        },
+        {
+          "term": "limna",
+          "paragraph": "p-236"
         },
         {
           "term": "amnis",
@@ -7679,6 +8423,10 @@
           "paragraph": "p-007"
         },
         {
+          "term": "silk",
+          "paragraph": "p-007"
+        },
+        {
           "term": "molpe",
           "paragraph": "p-012"
         },
@@ -7689,6 +8437,10 @@
         {
           "term": "alameda",
           "paragraph": "p-028"
+        },
+        {
+          "term": "limna",
+          "paragraph": "p-032"
         },
         {
           "term": "dimber",
@@ -7723,6 +8475,10 @@
           "paragraph": "p-056"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-056"
+        },
+        {
           "term": "pas",
           "paragraph": "p-077"
         },
@@ -7731,8 +8487,16 @@
           "paragraph": "p-079"
         },
         {
+          "term": "marble",
+          "paragraph": "p-079"
+        },
+        {
           "term": "manteion",
           "paragraph": "p-087"
+        },
+        {
+          "term": "pike",
+          "paragraph": "p-089"
         },
         {
           "term": "cubit",
@@ -8014,6 +8778,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "limna",
+          "paragraph": "p-002"
+        },
+        {
           "term": "auk",
           "paragraph": "p-002"
         },
@@ -8044,6 +8812,10 @@
         {
           "term": "hierax",
           "paragraph": "p-041"
+        },
+        {
+          "term": "pike",
+          "paragraph": "p-042"
         },
         {
           "term": "palaestra",
@@ -8078,7 +8850,23 @@
           "paragraph": "p-059"
         },
         {
+          "term": "marble",
+          "paragraph": "p-059"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-061"
+        },
+        {
           "term": "refectory",
+          "paragraph": "p-063"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-063"
+        },
+        {
+          "term": "rose",
           "paragraph": "p-063"
         },
         {
@@ -8090,12 +8878,20 @@
           "paragraph": "p-072"
         },
         {
+          "term": "shiprock",
+          "paragraph": "p-074"
+        },
+        {
           "term": "betel",
           "paragraph": "p-076"
         },
         {
           "term": "potto",
           "paragraph": "p-083"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-085"
         },
         {
           "term": "manteion",
@@ -8122,8 +8918,16 @@
           "paragraph": "p-137"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-152"
+        },
+        {
           "term": "palustria",
           "paragraph": "p-154"
+        },
+        {
+          "term": "musk",
+          "paragraph": "p-159"
         },
         {
           "term": "viron",
@@ -8132,6 +8936,10 @@
         {
           "term": "prolocutor",
           "paragraph": "p-167"
+        },
+        {
+          "term": "horn",
+          "paragraph": "p-181"
         },
         {
           "term": "remora",
@@ -8156,6 +8964,10 @@
         {
           "term": "azoth",
           "paragraph": "p-206"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-212"
         }
       ],
       "words": 7085,
@@ -8464,6 +9276,10 @@
           "paragraph": "p-008"
         },
         {
+          "term": "silk",
+          "paragraph": "p-008"
+        },
+        {
           "term": "thelxiepeia",
           "paragraph": "p-011"
         },
@@ -8474,6 +9290,10 @@
         {
           "term": "augur",
           "paragraph": "p-023"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-029"
         },
         {
           "term": "ayuntamiento",
@@ -8500,6 +9320,10 @@
           "paragraph": "p-066"
         },
         {
+          "term": "hyacinth",
+          "paragraph": "p-078"
+        },
+        {
           "term": "azoth",
           "paragraph": "p-087"
         },
@@ -8518,6 +9342,18 @@
         {
           "term": "maytera",
           "paragraph": "p-122"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-122"
+        },
+        {
+          "term": "limna",
+          "paragraph": "p-133"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-141"
         },
         {
           "term": "tarsier",
@@ -8546,6 +9382,10 @@
         {
           "term": "galago",
           "paragraph": "p-226"
+        },
+        {
+          "term": "horn",
+          "paragraph": "p-243"
         }
       ],
       "words": 8895,
@@ -8839,11 +9679,23 @@
           "paragraph": "p-002"
         },
         {
+          "term": "marble",
+          "paragraph": "p-002"
+        },
+        {
           "term": "manteion",
           "paragraph": "p-002"
         },
         {
+          "term": "mint",
+          "paragraph": "p-002"
+        },
+        {
           "term": "gulo",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "silk",
           "paragraph": "p-002"
         },
         {
@@ -8855,6 +9707,10 @@
           "paragraph": "p-011"
         },
         {
+          "term": "limna",
+          "paragraph": "p-027"
+        },
+        {
           "term": "oreb",
           "paragraph": "p-028"
         },
@@ -8863,12 +9719,24 @@
           "paragraph": "p-029"
         },
         {
+          "term": "hyacinth",
+          "paragraph": "p-030"
+        },
+        {
           "term": "ayuntamiento",
           "paragraph": "p-034"
         },
         {
           "term": "auk",
           "paragraph": "p-054"
+        },
+        {
+          "term": "musk",
+          "paragraph": "p-055"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-056"
         },
         {
           "term": "palustria",
@@ -8911,6 +9779,10 @@
           "paragraph": "p-149"
         },
         {
+          "term": "shiprock",
+          "paragraph": "p-153"
+        },
+        {
           "term": "kypris",
           "paragraph": "p-155"
         },
@@ -8921,6 +9793,10 @@
         {
           "term": "iolar",
           "paragraph": "p-200"
+        },
+        {
+          "term": "horn",
+          "paragraph": "p-217"
         },
         {
           "term": "hierax",
@@ -8937,6 +9813,10 @@
         {
           "term": "scylla",
           "paragraph": "p-227"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-249"
         }
       ],
       "words": 9611,
@@ -9201,6 +10081,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "shiprock",
+          "paragraph": "p-001"
+        },
+        {
           "term": "patera",
           "paragraph": "p-001"
         },
@@ -9229,6 +10113,10 @@
           "paragraph": "p-005"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-008"
+        },
+        {
           "term": "pas",
           "paragraph": "p-010"
         },
@@ -9245,12 +10133,24 @@
           "paragraph": "p-015"
         },
         {
+          "term": "limna",
+          "paragraph": "p-029"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-029"
+        },
+        {
           "term": "urbs",
           "paragraph": "p-037"
         },
         {
           "term": "alambrera",
           "paragraph": "p-059"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-065"
         },
         {
           "term": "loris",
@@ -9711,6 +10611,14 @@
           "paragraph": "p-001"
         },
         {
+          "term": "marble",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-001"
+        },
+        {
           "term": "hierax",
           "paragraph": "p-002"
         },
@@ -9743,6 +10651,10 @@
           "paragraph": "p-015"
         },
         {
+          "term": "silk",
+          "paragraph": "p-015"
+        },
+        {
           "term": "gulo",
           "paragraph": "p-017"
         },
@@ -9755,6 +10667,10 @@
           "paragraph": "p-019"
         },
         {
+          "term": "rose",
+          "paragraph": "p-021"
+        },
+        {
           "term": "aureate",
           "paragraph": "p-025"
         },
@@ -9763,8 +10679,16 @@
           "paragraph": "p-030"
         },
         {
+          "term": "horn",
+          "paragraph": "p-030"
+        },
+        {
           "term": "theophany",
           "paragraph": "p-067"
+        },
+        {
+          "term": "pike",
+          "paragraph": "p-075"
         },
         {
           "term": "orpine",
@@ -9776,6 +10700,10 @@
         },
         {
           "term": "palaestra",
+          "paragraph": "p-141"
+        },
+        {
+          "term": "calde",
           "paragraph": "p-141"
         },
         {
@@ -9803,8 +10731,20 @@
           "paragraph": "p-148"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-164"
+        },
+        {
           "term": "schola",
           "paragraph": "p-180"
+        },
+        {
+          "term": "shiprock",
+          "paragraph": "p-227"
+        },
+        {
+          "term": "limna",
+          "paragraph": "p-266"
         },
         {
           "term": "dimber",
@@ -9828,6 +10768,10 @@
         },
         {
           "term": "azoth",
+          "paragraph": "p-317"
+        },
+        {
+          "term": "hyacinth",
           "paragraph": "p-317"
         },
         {
@@ -10421,12 +11365,24 @@
           "paragraph": "p-011"
         },
         {
+          "term": "silk",
+          "paragraph": "p-011"
+        },
+        {
           "term": "juzgado",
           "paragraph": "p-012"
         },
         {
           "term": "tessera",
           "paragraph": "p-014"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-029"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-040"
         },
         {
           "term": "augur",
@@ -10477,6 +11433,14 @@
           "paragraph": "p-114"
         },
         {
+          "term": "shiprock",
+          "paragraph": "p-119"
+        },
+        {
+          "term": "limna",
+          "paragraph": "p-120"
+        },
+        {
           "term": "manteion",
           "paragraph": "p-120"
         },
@@ -10491,6 +11455,14 @@
         {
           "term": "maytera",
           "paragraph": "p-178"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-178"
+        },
+        {
+          "term": "marble",
+          "paragraph": "p-182"
         },
         {
           "term": "gulo",
@@ -10513,6 +11485,14 @@
           "paragraph": "p-193"
         },
         {
+          "term": "horn",
+          "paragraph": "p-193"
+        },
+        {
+          "term": "nettle",
+          "paragraph": "p-193"
+        },
+        {
           "term": "oont",
           "paragraph": "p-193"
         },
@@ -10531,6 +11511,22 @@
         {
           "term": "cenoby",
           "paragraph": "p-223"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-223"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-226"
+        },
+        {
+          "term": "musk",
+          "paragraph": "p-227"
+        },
+        {
+          "term": "villus",
+          "paragraph": "p-229"
         },
         {
           "term": "mucor",
@@ -10961,8 +11957,16 @@
           "paragraph": "p-001"
         },
         {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "quetzal",
           "paragraph": "p-004"
+        },
+        {
+          "term": "villus",
+          "paragraph": "p-009"
         },
         {
           "term": "patera",
@@ -10982,6 +11986,10 @@
         },
         {
           "term": "maytera",
+          "paragraph": "p-015"
+        },
+        {
+          "term": "marble",
           "paragraph": "p-015"
         },
         {
@@ -11013,6 +12021,14 @@
           "paragraph": "p-020"
         },
         {
+          "term": "mint",
+          "paragraph": "p-022"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-022"
+        },
+        {
           "term": "chenille",
           "paragraph": "p-022"
         },
@@ -11037,6 +12053,10 @@
           "paragraph": "p-036"
         },
         {
+          "term": "musk",
+          "paragraph": "p-049"
+        },
+        {
           "term": "kypris",
           "paragraph": "p-054"
         },
@@ -11057,12 +12077,24 @@
           "paragraph": "p-093"
         },
         {
+          "term": "pike",
+          "paragraph": "p-094"
+        },
+        {
           "term": "divan",
           "paragraph": "p-094"
         },
         {
           "term": "ayuntamiento",
           "paragraph": "p-112"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-118"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-127"
         },
         {
           "term": "viron",
@@ -11085,6 +12117,10 @@
           "paragraph": "p-190"
         },
         {
+          "term": "shiprock",
+          "paragraph": "p-197"
+        },
+        {
           "term": "thelxiepeia",
           "paragraph": "p-207"
         },
@@ -11099,6 +12135,10 @@
         {
           "term": "gelada",
           "paragraph": "p-274"
+        },
+        {
+          "term": "limna",
+          "paragraph": "p-277"
         },
         {
           "term": "dimber",
@@ -11672,11 +12712,23 @@
           "paragraph": "p-003"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-003"
+        },
+        {
           "term": "aureate",
           "paragraph": "p-003"
         },
         {
           "term": "maytera",
+          "paragraph": "p-004"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-004"
+        },
+        {
+          "term": "marble",
           "paragraph": "p-004"
         },
         {
@@ -11692,6 +12744,10 @@
           "paragraph": "p-004"
         },
         {
+          "term": "silk",
+          "paragraph": "p-004"
+        },
+        {
           "term": "zoril",
           "paragraph": "p-004"
         },
@@ -11702,6 +12758,10 @@
         {
           "term": "alambrera",
           "paragraph": "p-013"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-017"
         },
         {
           "term": "manteion",
@@ -11717,6 +12777,14 @@
         },
         {
           "term": "echidna",
+          "paragraph": "p-031"
+        },
+        {
+          "term": "shiprock",
+          "paragraph": "p-031"
+        },
+        {
+          "term": "calde",
           "paragraph": "p-031"
         },
         {
@@ -11776,8 +12844,16 @@
           "paragraph": "p-142"
         },
         {
+          "term": "musk",
+          "paragraph": "p-194"
+        },
+        {
           "term": "chenille",
           "paragraph": "p-198"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-199"
         },
         {
           "term": "mucor",
@@ -11824,6 +12900,10 @@
           "paragraph": "p-250"
         },
         {
+          "term": "villus",
+          "paragraph": "p-256"
+        },
+        {
           "term": "sphigx",
           "paragraph": "p-266"
         },
@@ -11840,6 +12920,14 @@
           "paragraph": "p-293"
         },
         {
+          "term": "horn",
+          "paragraph": "p-312"
+        },
+        {
+          "term": "nettle",
+          "paragraph": "p-312"
+        },
+        {
           "term": "talus",
           "paragraph": "p-340"
         },
@@ -11850,6 +12938,10 @@
         {
           "term": "potto",
           "paragraph": "p-378"
+        },
+        {
+          "term": "limna",
+          "paragraph": "p-490"
         },
         {
           "term": "theophany",
@@ -12280,6 +13372,14 @@
           "paragraph": "p-009"
         },
         {
+          "term": "shiprock",
+          "paragraph": "p-009"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-009"
+        },
+        {
           "term": "augur",
           "paragraph": "p-010"
         },
@@ -12320,6 +13420,14 @@
           "paragraph": "p-034"
         },
         {
+          "term": "limna",
+          "paragraph": "p-035"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-037"
+        },
+        {
           "term": "juzgado",
           "paragraph": "p-044"
         },
@@ -12344,12 +13452,20 @@
           "paragraph": "p-109"
         },
         {
+          "term": "musk",
+          "paragraph": "p-133"
+        },
+        {
           "term": "cull",
           "paragraph": "p-147"
         },
         {
           "term": "pas",
           "paragraph": "p-161"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-170"
         },
         {
           "term": "maytera",
@@ -12376,8 +13492,16 @@
           "paragraph": "p-215"
         },
         {
+          "term": "pike",
+          "paragraph": "p-215"
+        },
+        {
           "term": "kypris",
           "paragraph": "p-252"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-285"
         },
         {
           "term": "trivigaunte",
@@ -12393,6 +13517,10 @@
         },
         {
           "term": "oosik",
+          "paragraph": "p-305"
+        },
+        {
+          "term": "hyacinth",
           "paragraph": "p-305"
         },
         {
@@ -12701,6 +13829,14 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "shiprock",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-002"
+        },
+        {
           "term": "linsang",
           "paragraph": "p-002"
         },
@@ -12725,7 +13861,15 @@
           "paragraph": "p-005"
         },
         {
+          "term": "hyacinth",
+          "paragraph": "p-006"
+        },
+        {
           "term": "augur",
+          "paragraph": "p-007"
+        },
+        {
+          "term": "calde",
           "paragraph": "p-007"
         },
         {
@@ -12735,6 +13879,10 @@
         {
           "term": "manteion",
           "paragraph": "p-007"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-030"
         },
         {
           "term": "oosik",
@@ -12821,6 +13969,10 @@
           "paragraph": "p-160"
         },
         {
+          "term": "mint",
+          "paragraph": "p-162"
+        },
+        {
           "term": "prothonotary",
           "paragraph": "p-172"
         },
@@ -12839,6 +13991,14 @@
         {
           "term": "potto",
           "paragraph": "p-205"
+        },
+        {
+          "term": "musk",
+          "paragraph": "p-207"
+        },
+        {
+          "term": "marble",
+          "paragraph": "p-232"
         },
         {
           "term": "xiphias",
@@ -13106,7 +14266,15 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "marble",
+          "paragraph": "p-001"
+        },
+        {
           "term": "maytera",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "mint",
           "paragraph": "p-001"
         },
         {
@@ -13150,6 +14318,10 @@
           "paragraph": "p-050"
         },
         {
+          "term": "shiprock",
+          "paragraph": "p-051"
+        },
+        {
           "term": "alambrera",
           "paragraph": "p-051"
         },
@@ -13174,6 +14346,10 @@
           "paragraph": "p-062"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-065"
+        },
+        {
           "term": "tartaros",
           "paragraph": "p-076"
         },
@@ -13184,6 +14360,10 @@
         {
           "term": "viron",
           "paragraph": "p-076"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-083"
         },
         {
           "term": "palaestra",
@@ -13206,7 +14386,15 @@
           "paragraph": "p-097"
         },
         {
+          "term": "hyacinth",
+          "paragraph": "p-098"
+        },
+        {
           "term": "oosik",
+          "paragraph": "p-099"
+        },
+        {
+          "term": "calde",
           "paragraph": "p-099"
         },
         {
@@ -13248,6 +14436,10 @@
         {
           "term": "balneum",
           "paragraph": "p-181"
+        },
+        {
+          "term": "limna",
+          "paragraph": "p-215"
         },
         {
           "term": "kypris",
@@ -13560,12 +14752,24 @@
           "paragraph": "p-001"
         },
         {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "xiphias",
           "paragraph": "p-001"
         },
         {
           "term": "oosik",
           "paragraph": "p-002"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-005"
         },
         {
           "term": "quetzal",
@@ -13624,6 +14828,14 @@
           "paragraph": "p-061"
         },
         {
+          "term": "limna",
+          "paragraph": "p-087"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-097"
+        },
+        {
           "term": "trivigaunte",
           "paragraph": "p-105"
         },
@@ -13656,6 +14868,10 @@
           "paragraph": "p-119"
         },
         {
+          "term": "shiprock",
+          "paragraph": "p-121"
+        },
+        {
           "term": "augur",
           "paragraph": "p-132"
         },
@@ -13680,6 +14896,10 @@
           "paragraph": "p-141"
         },
         {
+          "term": "musk",
+          "paragraph": "p-176"
+        },
+        {
           "term": "manteion",
           "paragraph": "p-182"
         },
@@ -13690,6 +14910,10 @@
         {
           "term": "mucor",
           "paragraph": "p-188"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-189"
         },
         {
           "term": "coadjutor",
@@ -14219,6 +15443,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "marble",
+          "paragraph": "p-001"
+        },
+        {
           "term": "oosik",
           "paragraph": "p-002"
         },
@@ -14235,12 +15463,28 @@
           "paragraph": "p-003"
         },
         {
+          "term": "silk",
+          "paragraph": "p-003"
+        },
+        {
           "term": "ayuntamiento",
           "paragraph": "p-003"
         },
         {
+          "term": "horn",
+          "paragraph": "p-005"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-009"
+        },
+        {
           "term": "juzgado",
           "paragraph": "p-015"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-018"
         },
         {
           "term": "talus",
@@ -14279,6 +15523,10 @@
           "paragraph": "p-073"
         },
         {
+          "term": "musk",
+          "paragraph": "p-073"
+        },
+        {
           "term": "loris",
           "paragraph": "p-079"
         },
@@ -14291,6 +15539,10 @@
           "paragraph": "p-079"
         },
         {
+          "term": "calde",
+          "paragraph": "p-084"
+        },
+        {
           "term": "augur",
           "paragraph": "p-091"
         },
@@ -14301,6 +15553,14 @@
         {
           "term": "remora",
           "paragraph": "p-108"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-111"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-114"
         },
         {
           "term": "schola",
@@ -14355,7 +15615,15 @@
           "paragraph": "p-299"
         },
         {
+          "term": "pike",
+          "paragraph": "p-304"
+        },
+        {
           "term": "teasel",
+          "paragraph": "p-317"
+        },
+        {
+          "term": "nettle",
           "paragraph": "p-317"
         },
         {
@@ -14418,6 +15686,14 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "calde",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "alameda",
           "paragraph": "p-001"
         },
@@ -14440,6 +15716,10 @@
         {
           "term": "loris",
           "paragraph": "p-006"
+        },
+        {
+          "term": "raddled",
+          "paragraph": "p-009"
         },
         {
           "term": "augur",
@@ -14468,6 +15748,14 @@
         {
           "term": "maytera",
           "paragraph": "p-014"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-014"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-015"
         }
       ],
       "words": 740,
@@ -14822,6 +16110,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "mint",
+          "paragraph": "p-001"
+        },
+        {
           "term": "patera",
           "paragraph": "p-002"
         },
@@ -14844,6 +16136,14 @@
         {
           "term": "schola",
           "paragraph": "p-014"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-018"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-021"
         },
         {
           "term": "oosik",
@@ -14874,6 +16174,10 @@
           "paragraph": "p-050"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-062"
+        },
+        {
           "term": "prothonotary",
           "paragraph": "p-073"
         },
@@ -14887,6 +16191,10 @@
         },
         {
           "term": "pas",
+          "paragraph": "p-101"
+        },
+        {
+          "term": "marble",
           "paragraph": "p-101"
         },
         {
@@ -14904,6 +16212,10 @@
         {
           "term": "augur",
           "paragraph": "p-121"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-122"
         },
         {
           "term": "oreb",
@@ -14944,6 +16256,10 @@
         {
           "term": "sibyl",
           "paragraph": "p-254"
+        },
+        {
+          "term": "pike",
+          "paragraph": "p-267"
         },
         {
           "term": "auk",
@@ -15283,8 +16599,16 @@
           "paragraph": "p-003"
         },
         {
+          "term": "silk",
+          "paragraph": "p-004"
+        },
+        {
           "term": "oreb",
           "paragraph": "p-005"
+        },
+        {
+          "term": "musk",
+          "paragraph": "p-010"
         },
         {
           "term": "orpine",
@@ -15307,8 +16631,16 @@
           "paragraph": "p-018"
         },
         {
+          "term": "calde",
+          "paragraph": "p-041"
+        },
+        {
           "term": "juzgado",
           "paragraph": "p-046"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-049"
         },
         {
           "term": "incus",
@@ -15316,6 +16648,10 @@
         },
         {
           "term": "maytera",
+          "paragraph": "p-074"
+        },
+        {
+          "term": "marble",
           "paragraph": "p-074"
         },
         {
@@ -15367,6 +16703,10 @@
           "paragraph": "p-136"
         },
         {
+          "term": "mint",
+          "paragraph": "p-137"
+        },
+        {
           "term": "quetzal",
           "paragraph": "p-139"
         },
@@ -15391,11 +16731,19 @@
           "paragraph": "p-197"
         },
         {
+          "term": "pike",
+          "paragraph": "p-197"
+        },
+        {
           "term": "marl",
           "paragraph": "p-200"
         },
         {
           "term": "talus",
+          "paragraph": "p-211"
+        },
+        {
+          "term": "whorl",
           "paragraph": "p-211"
         },
         {
@@ -15413,6 +16761,10 @@
         {
           "term": "xiphias",
           "paragraph": "p-244"
+        },
+        {
+          "term": "horn",
+          "paragraph": "p-260"
         }
       ],
       "words": 8423,
@@ -15588,12 +16940,24 @@
           "paragraph": "p-001"
         },
         {
+          "term": "calde",
+          "paragraph": "p-003"
+        },
+        {
           "term": "kypris",
           "paragraph": "p-004"
         },
         {
+          "term": "mint",
+          "paragraph": "p-005"
+        },
+        {
           "term": "scleroderma",
           "paragraph": "p-007"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-009"
         },
         {
           "term": "manteion",
@@ -15636,6 +17000,10 @@
           "paragraph": "p-032"
         },
         {
+          "term": "shiprock",
+          "paragraph": "p-032"
+        },
+        {
           "term": "alambrera",
           "paragraph": "p-032"
         },
@@ -15648,8 +17016,16 @@
           "paragraph": "p-034"
         },
         {
+          "term": "hyacinth",
+          "paragraph": "p-036"
+        },
+        {
           "term": "scylla",
           "paragraph": "p-057"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-064"
         },
         {
           "term": "prolocutor",
@@ -15829,6 +17205,14 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "calde",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
           "term": "quetzal",
           "paragraph": "p-001"
         },
@@ -15838,6 +17222,10 @@
         },
         {
           "term": "maytera",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "mint",
           "paragraph": "p-001"
         },
         {
@@ -15855,6 +17243,18 @@
         {
           "term": "alameda",
           "paragraph": "p-007"
+        },
+        {
+          "term": "horn",
+          "paragraph": "p-008"
+        },
+        {
+          "term": "raddled",
+          "paragraph": "p-010"
+        },
+        {
+          "term": "limna",
+          "paragraph": "p-010"
         },
         {
           "term": "juzgado",
@@ -15881,8 +17281,20 @@
           "paragraph": "p-011"
         },
         {
+          "term": "pike",
+          "paragraph": "p-011"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-015"
+        },
+        {
           "term": "pas",
           "paragraph": "p-015"
+        },
+        {
+          "term": "nettle",
+          "paragraph": "p-020"
         },
         {
           "term": "baculus",
@@ -15909,8 +17321,20 @@
           "paragraph": "p-076"
         },
         {
+          "term": "marble",
+          "paragraph": "p-116"
+        },
+        {
           "term": "manteion",
           "paragraph": "p-116"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-116"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-123"
         },
         {
           "term": "remora",
@@ -16100,7 +17524,19 @@
           "paragraph": "p-049"
         },
         {
+          "term": "marble",
+          "paragraph": "p-049"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-050"
+        },
+        {
           "term": "oosik",
+          "paragraph": "p-051"
+        },
+        {
+          "term": "whorl",
           "paragraph": "p-051"
         },
         {
@@ -16109,6 +17545,10 @@
         },
         {
           "term": "xiphias",
+          "paragraph": "p-060"
+        },
+        {
+          "term": "horn",
           "paragraph": "p-060"
         },
         {
@@ -16121,6 +17561,10 @@
         },
         {
           "term": "oreb",
+          "paragraph": "p-071"
+        },
+        {
+          "term": "calde",
           "paragraph": "p-071"
         },
         {
@@ -16582,6 +18026,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "mint",
+          "paragraph": "p-002"
+        },
+        {
           "term": "remora",
           "paragraph": "p-002"
         },
@@ -16596,6 +18044,14 @@
         {
           "term": "patera",
           "paragraph": "p-013"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-015"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-015"
         },
         {
           "term": "augur",
@@ -16658,6 +18114,10 @@
           "paragraph": "p-088"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-092"
+        },
+        {
           "term": "chrasmologic",
           "paragraph": "p-110"
         },
@@ -16676,6 +18136,10 @@
         {
           "term": "viron",
           "paragraph": "p-139"
+        },
+        {
+          "term": "shiprock",
+          "paragraph": "p-143"
         },
         {
           "term": "cenoby",
@@ -16752,6 +18216,14 @@
         {
           "term": "prog",
           "paragraph": "p-321"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-331"
+        },
+        {
+          "term": "marble",
+          "paragraph": "p-331"
         },
         {
           "term": "desmid",
@@ -17105,12 +18577,32 @@
           "paragraph": "p-003"
         },
         {
+          "term": "marble",
+          "paragraph": "p-003"
+        },
+        {
           "term": "mucor",
           "paragraph": "p-003"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-004"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-004"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-005"
+        },
+        {
           "term": "patera",
           "paragraph": "p-011"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-014"
         },
         {
           "term": "ayuntamiento",
@@ -17125,12 +18617,20 @@
           "paragraph": "p-039"
         },
         {
+          "term": "limna",
+          "paragraph": "p-042"
+        },
+        {
           "term": "marl",
           "paragraph": "p-052"
         },
         {
           "term": "viron",
           "paragraph": "p-061"
+        },
+        {
+          "term": "musk",
+          "paragraph": "p-098"
         },
         {
           "term": "alambrera",
@@ -17146,6 +18646,10 @@
         },
         {
           "term": "azoth",
+          "paragraph": "p-158"
+        },
+        {
+          "term": "hyacinth",
           "paragraph": "p-158"
         },
         {
@@ -17515,6 +19019,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "mint",
+          "paragraph": "p-001"
+        },
+        {
           "term": "hyrax",
           "paragraph": "p-001"
         },
@@ -17543,6 +19051,10 @@
           "paragraph": "p-019"
         },
         {
+          "term": "calde",
+          "paragraph": "p-020"
+        },
+        {
           "term": "prog",
           "paragraph": "p-029"
         },
@@ -17553,6 +19065,10 @@
         {
           "term": "pas",
           "paragraph": "p-039"
+        },
+        {
+          "term": "shiprock",
+          "paragraph": "p-044"
         },
         {
           "term": "potto",
@@ -17567,6 +19083,10 @@
           "paragraph": "p-048"
         },
         {
+          "term": "silk",
+          "paragraph": "p-048"
+        },
+        {
           "term": "echidna",
           "paragraph": "p-069"
         },
@@ -17575,8 +19095,16 @@
           "paragraph": "p-072"
         },
         {
+          "term": "rose",
+          "paragraph": "p-076"
+        },
+        {
           "term": "dimber",
           "paragraph": "p-081"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-085"
         },
         {
           "term": "cubit",
@@ -17952,6 +19480,10 @@
           "paragraph": "p-005"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-009"
+        },
+        {
           "term": "pas",
           "paragraph": "p-010"
         },
@@ -18004,6 +19536,14 @@
           "paragraph": "p-029"
         },
         {
+          "term": "raddled",
+          "paragraph": "p-031"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-032"
+        },
+        {
           "term": "dimber",
           "paragraph": "p-035"
         },
@@ -18020,6 +19560,10 @@
           "paragraph": "p-040"
         },
         {
+          "term": "marble",
+          "paragraph": "p-042"
+        },
+        {
           "term": "fisc",
           "paragraph": "p-043"
         },
@@ -18032,6 +19576,10 @@
           "paragraph": "p-046"
         },
         {
+          "term": "calde",
+          "paragraph": "p-049"
+        },
+        {
           "term": "trivigaunte",
           "paragraph": "p-058"
         },
@@ -18042,6 +19590,14 @@
         {
           "term": "juzgado",
           "paragraph": "p-086"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-088"
+        },
+        {
+          "term": "horn",
+          "paragraph": "p-092"
         },
         {
           "term": "schola",
@@ -18062,6 +19618,10 @@
         {
           "term": "xiphias",
           "paragraph": "p-122"
+        },
+        {
+          "term": "nettle",
+          "paragraph": "p-126"
         },
         {
           "term": "loris",
@@ -18104,8 +19664,16 @@
           "paragraph": "p-218"
         },
         {
+          "term": "hyacinth",
+          "paragraph": "p-232"
+        },
+        {
           "term": "azoth",
           "paragraph": "p-232"
+        },
+        {
+          "term": "limna",
+          "paragraph": "p-261"
         }
       ],
       "words": 8132,
@@ -18439,6 +20007,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "mint",
+          "paragraph": "p-001"
+        },
+        {
           "term": "manteion",
           "paragraph": "p-001"
         },
@@ -18465,6 +20037,18 @@
         {
           "term": "patera",
           "paragraph": "p-013"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-019"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-023"
+        },
+        {
+          "term": "shiprock",
+          "paragraph": "p-029"
         },
         {
           "term": "talus",
@@ -18507,6 +20091,10 @@
           "paragraph": "p-104"
         },
         {
+          "term": "silk",
+          "paragraph": "p-109"
+        },
+        {
           "term": "mucor",
           "paragraph": "p-109"
         },
@@ -18517,6 +20105,10 @@
         {
           "term": "chenille",
           "paragraph": "p-114"
+        },
+        {
+          "term": "marble",
+          "paragraph": "p-115"
         },
         {
           "term": "xiphias",
@@ -18541,6 +20133,10 @@
         {
           "term": "cenoby",
           "paragraph": "p-164"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-178"
         },
         {
           "term": "trivigaunte",
@@ -19027,6 +20623,14 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "calde",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-002"
+        },
+        {
           "term": "xiphias",
           "paragraph": "p-002"
         },
@@ -19035,8 +20639,16 @@
           "paragraph": "p-003"
         },
         {
+          "term": "mint",
+          "paragraph": "p-005"
+        },
+        {
           "term": "augur",
           "paragraph": "p-007"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-008"
         },
         {
           "term": "mucor",
@@ -19055,7 +20667,15 @@
           "paragraph": "p-020"
         },
         {
+          "term": "horn",
+          "paragraph": "p-023"
+        },
+        {
           "term": "maytera",
+          "paragraph": "p-028"
+        },
+        {
+          "term": "marble",
           "paragraph": "p-028"
         },
         {
@@ -19119,6 +20739,10 @@
           "paragraph": "p-117"
         },
         {
+          "term": "rose",
+          "paragraph": "p-131"
+        },
+        {
           "term": "sibyl",
           "paragraph": "p-132"
         },
@@ -19137,6 +20761,10 @@
         {
           "term": "cenoby",
           "paragraph": "p-134"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-137"
         },
         {
           "term": "ayuntamiento",
@@ -19217,6 +20845,10 @@
         {
           "term": "betel",
           "paragraph": "p-419"
+        },
+        {
+          "term": "pike",
+          "paragraph": "p-421"
         },
         {
           "term": "molybdenum",
@@ -19663,11 +21295,35 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-002"
+        },
+        {
           "term": "thelxiepeia",
           "paragraph": "p-004"
         },
         {
+          "term": "horn",
+          "paragraph": "p-006"
+        },
+        {
+          "term": "nettle",
+          "paragraph": "p-006"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-006"
+        },
+        {
           "term": "patera",
+          "paragraph": "p-007"
+        },
+        {
+          "term": "pike",
           "paragraph": "p-007"
         },
         {
@@ -19692,6 +21348,10 @@
         },
         {
           "term": "maytera",
+          "paragraph": "p-016"
+        },
+        {
+          "term": "mint",
           "paragraph": "p-016"
         },
         {
@@ -19733,6 +21393,10 @@
         {
           "term": "tartaros",
           "paragraph": "p-110"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-121"
         },
         {
           "term": "mear",
@@ -19781,6 +21445,10 @@
         {
           "term": "prog",
           "paragraph": "p-250"
+        },
+        {
+          "term": "shiprock",
+          "paragraph": "p-251"
         },
         {
           "term": "urbs",
@@ -20100,6 +21768,10 @@
           "paragraph": "p-002"
         },
         {
+          "term": "silk",
+          "paragraph": "p-002"
+        },
+        {
           "term": "trivigaunte",
           "paragraph": "p-002"
         },
@@ -20124,7 +21796,15 @@
           "paragraph": "p-006"
         },
         {
+          "term": "hyacinth",
+          "paragraph": "p-008"
+        },
+        {
           "term": "maytera",
+          "paragraph": "p-008"
+        },
+        {
+          "term": "mint",
           "paragraph": "p-008"
         },
         {
@@ -20144,6 +21824,10 @@
           "paragraph": "p-016"
         },
         {
+          "term": "calde",
+          "paragraph": "p-019"
+        },
+        {
           "term": "viron",
           "paragraph": "p-034"
         },
@@ -20152,12 +21836,24 @@
           "paragraph": "p-038"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-040"
+        },
+        {
           "term": "chenille",
           "paragraph": "p-044"
         },
         {
           "term": "patera",
           "paragraph": "p-045"
+        },
+        {
+          "term": "nettle",
+          "paragraph": "p-045"
+        },
+        {
+          "term": "marble",
+          "paragraph": "p-065"
         },
         {
           "term": "ayuntamiento",
@@ -20210,6 +21906,18 @@
         {
           "term": "jerboa",
           "paragraph": "p-182"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-198"
+        },
+        {
+          "term": "horn",
+          "paragraph": "p-222"
+        },
+        {
+          "term": "pike",
+          "paragraph": "p-223"
         }
       ],
       "words": 8551,
@@ -20783,8 +22491,28 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "horn",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "nettle",
+          "paragraph": "p-003"
+        },
+        {
           "term": "trivigaunte",
           "paragraph": "p-008"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-010"
         },
         {
           "term": "patera",
@@ -20803,8 +22531,16 @@
           "paragraph": "p-018"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-018"
+        },
+        {
           "term": "manteion",
           "paragraph": "p-019"
+        },
+        {
+          "term": "musk",
+          "paragraph": "p-020"
         },
         {
           "term": "augur",
@@ -20816,6 +22552,10 @@
         },
         {
           "term": "maytera",
+          "paragraph": "p-023"
+        },
+        {
+          "term": "mint",
           "paragraph": "p-023"
         },
         {
@@ -20839,6 +22579,14 @@
           "paragraph": "p-032"
         },
         {
+          "term": "marble",
+          "paragraph": "p-034"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-034"
+        },
+        {
           "term": "chenille",
           "paragraph": "p-042"
         },
@@ -20860,6 +22608,10 @@
         },
         {
           "term": "schola",
+          "paragraph": "p-077"
+        },
+        {
+          "term": "pike",
           "paragraph": "p-077"
         },
         {
@@ -20913,6 +22665,10 @@
         {
           "term": "kypris",
           "paragraph": "p-291"
+        },
+        {
+          "term": "limna",
+          "paragraph": "p-294"
         },
         {
           "term": "azoth",
@@ -21336,6 +23092,10 @@
           "paragraph": "p-006"
         },
         {
+          "term": "calde",
+          "paragraph": "p-007"
+        },
+        {
           "term": "incus",
           "paragraph": "p-011"
         },
@@ -21352,12 +23112,24 @@
           "paragraph": "p-017"
         },
         {
+          "term": "marble",
+          "paragraph": "p-017"
+        },
+        {
           "term": "patera",
           "paragraph": "p-017"
         },
         {
+          "term": "silk",
+          "paragraph": "p-018"
+        },
+        {
           "term": "trivigaunte",
           "paragraph": "p-022"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-024"
         },
         {
           "term": "oosik",
@@ -21384,8 +23156,16 @@
           "paragraph": "p-074"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-080"
+        },
+        {
           "term": "molpe",
           "paragraph": "p-081"
+        },
+        {
+          "term": "nettle",
+          "paragraph": "p-098"
         },
         {
           "term": "pas",
@@ -21402,6 +23182,14 @@
         {
           "term": "mucor",
           "paragraph": "p-112"
+        },
+        {
+          "term": "horn",
+          "paragraph": "p-115"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-115"
         },
         {
           "term": "viron",
@@ -21438,6 +23226,10 @@
         {
           "term": "schola",
           "paragraph": "p-174"
+        },
+        {
+          "term": "pike",
+          "paragraph": "p-178"
         },
         {
           "term": "palustria",
@@ -21845,16 +23637,48 @@
           "paragraph": "p-001"
         },
         {
+          "term": "nettle",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "horn",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-001"
+        },
+        {
           "term": "auk",
           "paragraph": "p-002"
+        },
+        {
+          "term": "silk",
+          "paragraph": "p-003"
         },
         {
           "term": "maytera",
           "paragraph": "p-004"
         },
         {
+          "term": "marble",
+          "paragraph": "p-004"
+        },
+        {
+          "term": "mint",
+          "paragraph": "p-004"
+        },
+        {
           "term": "chenille",
           "paragraph": "p-006"
+        },
+        {
+          "term": "hyacinth",
+          "paragraph": "p-007"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-008"
         },
         {
           "term": "aer",
@@ -21915,6 +23739,14 @@
         {
           "term": "orilla",
           "paragraph": "p-147"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-158"
+        },
+        {
+          "term": "villus",
+          "paragraph": "p-169"
         },
         {
           "term": "sibyl",
@@ -22084,6 +23916,14 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "silk",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "nettle",
+          "paragraph": "p-001"
+        },
+        {
           "term": "viron",
           "paragraph": "p-003"
         },
@@ -22092,7 +23932,19 @@
           "paragraph": "p-003"
         },
         {
+          "term": "calde",
+          "paragraph": "p-003"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-003"
+        },
+        {
           "term": "maytera",
+          "paragraph": "p-005"
+        },
+        {
+          "term": "marble",
           "paragraph": "p-005"
         },
         {
@@ -22104,6 +23956,14 @@
           "paragraph": "p-005"
         },
         {
+          "term": "mint",
+          "paragraph": "p-005"
+        },
+        {
+          "term": "rose",
+          "paragraph": "p-005"
+        },
+        {
           "term": "auk",
           "paragraph": "p-006"
         },
@@ -22112,11 +23972,23 @@
           "paragraph": "p-006"
         },
         {
+          "term": "hyacinth",
+          "paragraph": "p-008"
+        },
+        {
           "term": "sibyl",
           "paragraph": "p-009"
         },
         {
+          "term": "inhumi",
+          "paragraph": "p-010"
+        },
+        {
           "term": "manteion",
+          "paragraph": "p-011"
+        },
+        {
+          "term": "musk",
           "paragraph": "p-011"
         },
         {
@@ -22156,6 +24028,10 @@
           "paragraph": "p-021"
         },
         {
+          "term": "shiprock",
+          "paragraph": "p-040"
+        },
+        {
           "term": "bufe",
           "paragraph": "p-046"
         },
@@ -22182,6 +24058,10 @@
         {
           "term": "coadjutor",
           "paragraph": "p-089"
+        },
+        {
+          "term": "horn",
+          "paragraph": "p-093"
         }
       ],
       "words": 5244,
@@ -22215,6 +24095,26 @@
         {
           "term": "aureate",
           "paragraph": "p-002"
+        },
+        {
+          "term": "sinew",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "nettle",
+          "paragraph": "p-005"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-008"
+        },
+        {
+          "term": "horn",
+          "paragraph": "p-010"
+        },
+        {
+          "term": "calde",
+          "paragraph": "p-010"
         }
       ],
       "words": 315,
@@ -22586,7 +24486,7 @@
   ],
   "totalWords": 462155,
   "defaultChapter": "nightside-01",
-  "glossaryCount": 151,
+  "glossaryCount": 169,
   "correctionCount": 7,
-  "editionVersion": 7
+  "editionVersion": 8
 }

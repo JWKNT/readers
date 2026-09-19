@@ -3091,11 +3091,11 @@
     "id": "baldanders",
     "term": "Baldanders",
     "aliases": [],
-    "note": "A shape-shifting creature in German literary tradition, appearing in Grimmelshausen’s Simplicissimus. Its name means roughly “soon different.”",
+    "note": "Wolfe said that he borrowed Baldanders from Borges’s The Book of Imaginary Beings. The figure belongs to a German literary tradition of transformation; the name suggests being different again soon. This author-confirmed borrowing does not make the fictional character identical to the earlier creature.",
     "sources": [
       {
-        "url": "https://en.wikipedia.org/wiki/Baldanders",
-        "label": "Baldanders"
+        "url": "https://gwern.net/doc/fiction/gene-wolfe/1988-11-mccaffery-onencompassingtheentireuniverseaninterviewwithgenewolfe.html",
+        "label": "Gene Wolfe · interview with Larry McCaffery"
       }
     ],
     "short": "A shape-shifter in German literary tradition.",
@@ -9017,6 +9017,92 @@
       "chapter": "sword-13",
       "paragraph": "p-019",
       "index": 80
+    }
+  },
+  {
+    "id": "raddled",
+    "term": "raddled",
+    "short": "Worn or haggard in appearance.",
+    "note": "Looking worn down, exhausted, or damaged, especially in the face. It describes an appearance rather than a particular illness.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/raddled",
+        "label": "Word meaning · Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "raddled"
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "claw-24",
+      "paragraph": "p-209",
+      "index": 59
+    }
+  },
+  {
+    "id": "ascian",
+    "term": "Ascian",
+    "short": "An old word meaning shadowless.",
+    "note": "Historically, an ascian is an inhabitant of a tropical region where the overhead sun can leave no shadow at noon. Wolfe uses Ascian as a people-name. It is not a misspelling of Asian.",
+    "sources": [
+      {
+        "url": "https://www.wordnik.com/words/ascian",
+        "label": "Reference"
+      }
+    ],
+    "aliases": [
+      "Ascian",
+      "Ascians"
+    ],
+    "occurrences": 153,
+    "first": {
+      "chapter": "shadow-03",
+      "paragraph": "p-044",
+      "index": 2
+    }
+  },
+  {
+    "id": "vodalus",
+    "term": "Vodalus",
+    "short": "A personal name, not an invented word.",
+    "note": "Wolfe explicitly included Vodalus among the genuine, though uncommon, men’s names he used. That confirms the name’s prior existence, not a unique historical namesake or an interpretation of the character.",
+    "sources": [
+      {
+        "url": "https://gwern.net/doc/fiction/gene-wolfe/1988-11-mccaffery-onencompassingtheentireuniverseaninterviewwithgenewolfe.html",
+        "label": "Reference"
+      }
+    ],
+    "aliases": [
+      "Vodalus"
+    ],
+    "occurrences": 250,
+    "first": {
+      "chapter": "shadow-01",
+      "paragraph": "p-043",
+      "index": 0
+    }
+  },
+  {
+    "id": "alzabo",
+    "term": "alzabo",
+    "short": "A predatory creature of the story.",
+    "note": "A fictional predatory animal. Its first mention concerns scavenging a carcass. This contextual identification intentionally leaves its later-described abilities unexplained.",
+    "sources": [
+      {
+        "url": "https://jehlp.net/readers/book-of-the-new-sun/#shadow-35",
+        "label": "Reference"
+      }
+    ],
+    "aliases": [
+      "alzabo",
+      "alzabos"
+    ],
+    "occurrences": 62,
+    "first": {
+      "chapter": "shadow-35",
+      "paragraph": "p-008",
+      "index": 34
     }
   }
 ]

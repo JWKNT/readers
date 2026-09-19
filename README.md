@@ -39,8 +39,7 @@ contains search and brief vocabulary notes. Hover an underlined word or its
 marginal label for the full definition and source. Keyboard focus also opens it;
 touch devices use a tap. Escape closes an open definition or dialog.
 
-On narrow screens, Contents and Search move to the lower edge. The three book
-links are in Contents. Search defaults to the current chapter; its scope can be
+On narrow screens, Contents and Search move to the lower edge. Search defaults to the current chapter; its scope can be
 expanded explicitly. Search and first-appearance annotations are independent for
 each of the three series.
 
@@ -86,3 +85,10 @@ The unlinked `NOTES.md` records accepted typography decisions and annotation
 research. It is plain Markdown, not an editorial section or an audit application.
 Tentative references say “Possibly” in the definition itself. Short marginal glosses
 remain separate from the full hover text. All earlier paragraph addresses are kept.
+
+## Version 8
+
+Expanded annotation coverage and corrected contextual glosses are documented in
+`NOTES.md`. The individual readers retain chapter navigation and progress without
+links to the other series. Verify the edition with `python3 tools/validate.py`;
+add `--baseline 4dac1a4` to check preservation of the original chapter text.

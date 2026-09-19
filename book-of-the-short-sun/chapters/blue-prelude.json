@@ -7,7 +7,7 @@
   "label": "",
   "kind": "prelude",
   "index": 0,
-  "html": "<blockquote><p class=\"quoted-prose\" data-block=\"p-001\" id=\"p-001\">To Every Town:<br/></p><p class=\"quoted-prose\" data-block=\"p-002\" id=\"p-002\">Like you we left friends and family and the light of the Long Sun for this new whorl we share with you. We would greet our brothers at home if we could.</p><p class=\"quoted-prose\" data-block=\"p-003\" id=\"p-003\">We have long wished to do this. Is it not so for you?</p><p class=\"quoted-prose\" data-block=\"p-004\" id=\"p-004\">He-hold-fire, a man of our town, has labored many seasons where our lander lifts high its head above our trees. The gray man speaks to He-hold-fire and to us, and it is his word that he will fly once again.</p><p class=\"quoted-prose\" data-block=\"p-005\" id=\"p-005\">Soon he will rise upon fire and fly like the eagle.</p><p class=\"quoted-prose\" data-block=\"p-006\" id=\"p-006\">We might clasp it to our bellies. That is not the way of hunters, and there are many beds of hide. Send a man to come with us. Send a woman, if it is your custom.</p><p class=\"quoted-prose\" data-block=\"p-007\" id=\"p-007\">One alone from each town of this new whorl, whether he or she.</p><p class=\"quoted-prose\" data-block=\"p-008\" id=\"p-008\">With us the one you send will return to our old home among the stars.</p><p class=\"quoted-prose\" data-block=\"p-009\" id=\"p-009\">Send soon. Send one only. We will not delay.</p><p class=\"quoted-prose\" data-block=\"p-010\" id=\"p-010\">Speak our word to others.</p><p class=\"letter-closing\" data-block=\"p-011\" id=\"p-011\">The Men Of<br/>\n    PAJAROCU</p></blockquote>",
+  "html": "<blockquote><p class=\"quoted-prose\" data-block=\"p-001\" id=\"p-001\">To Every Town:<br/></p><p class=\"quoted-prose\" data-block=\"p-002\" id=\"p-002\">Like you we left friends and family and the light of the Long Sun for this new <span class=\"word\" data-first=\"true\" data-local-first=\"true\" data-term=\"whorl\">whorl</span> we share with you. We would greet our brothers at home if we could.</p><p class=\"quoted-prose\" data-block=\"p-003\" id=\"p-003\">We have long wished to do this. Is it not so for you?</p><p class=\"quoted-prose\" data-block=\"p-004\" id=\"p-004\">He-hold-fire, a man of our town, has labored many seasons where our lander lifts high its head above our trees. The gray man speaks to He-hold-fire and to us, and it is his word that he will fly once again.</p><p class=\"quoted-prose\" data-block=\"p-005\" id=\"p-005\">Soon he will rise upon fire and fly like the eagle.</p><p class=\"quoted-prose\" data-block=\"p-006\" id=\"p-006\">We might clasp it to our bellies. That is not the way of hunters, and there are many beds of hide. Send a man to come with us. Send a woman, if it is your custom.</p><p class=\"quoted-prose\" data-block=\"p-007\" id=\"p-007\">One alone from each town of this new <span class=\"word\" data-first=\"false\" data-local-first=\"false\" data-term=\"whorl\">whorl</span>, whether he or she.</p><p class=\"quoted-prose\" data-block=\"p-008\" id=\"p-008\">With us the one you send will return to our old home among the stars.</p><p class=\"quoted-prose\" data-block=\"p-009\" id=\"p-009\">Send soon. Send one only. We will not delay.</p><p class=\"quoted-prose\" data-block=\"p-010\" id=\"p-010\">Speak our word to others.</p><p class=\"letter-closing\" data-block=\"p-011\" id=\"p-011\">The Men Of<br/>\n    PAJAROCU</p></blockquote>",
   "layout": "prose",
   "blocks": [
     "p-001",
@@ -23,7 +23,12 @@
     "p-011"
   ],
   "sections": [],
-  "noteAnchors": [],
+  "noteAnchors": [
+    {
+      "term": "whorl",
+      "paragraph": "p-002"
+    }
+  ],
   "words": 181,
   "startWords": 0
 }

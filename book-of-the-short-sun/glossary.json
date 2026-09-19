@@ -800,12 +800,16 @@
   {
     "id": "patera",
     "term": "Patera",
-    "short": "“Father,” as a form of address.",
-    "note": "Patera is the form used when directly addressing a father in modern Greek. Pateras also serves as a title for a priest or monk.",
+    "short": "A priest’s title; compare Greek “father.”",
+    "note": "A title used for priests in the story. Compare modern Greek patera, the form used in addressing a father, and pateras, also used for a priest. This is a linguistic comparison, not evidence that the characters are speaking modern Greek.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/πατέρας",
         "label": "Wiktionary"
+      },
+      {
+        "url": "https://jehlp.net/readers/book-of-the-short-sun/#blue-01/p-021",
+        "label": "Book passage · contextual usage"
       }
     ],
     "aliases": [
@@ -822,12 +826,16 @@
   {
     "id": "maytera",
     "term": "Maytera",
-    "short": "Greek “mother.”",
-    "note": "A rendering of Greek mitera, meaning mother. The same form is used when directly addressing one’s mother.",
+    "short": "A religious title; compare Greek “mother.”",
+    "note": "A title used for the women serving the manteion. Compare Greek mētēra/mitera, mother. Maytera is the book’s spelling, not a standard transliteration; the resemblance should not be treated as a fully documented derivation.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/μητέρα",
         "label": "Wiktionary"
+      },
+      {
+        "url": "https://jehlp.net/readers/book-of-the-short-sun/#blue-01/p-217",
+        "label": "Book passage · contextual usage"
       }
     ],
     "aliases": [
@@ -888,12 +896,16 @@
   {
     "id": "azoth",
     "term": "azoth",
-    "short": "Mercury in alchemical terminology.",
-    "note": "An alchemical name for mercury, regarded as a fundamental principle of metals. Paracelsian writing also used azoth for a universal remedy.",
+    "short": "A weapon here; an old alchemical word.",
+    "note": "In this story, an azoth is a weapon, not a quantity of mercury. Historically azoth names alchemical mercury or a universal remedy. The historical senses explain the borrowed word, not the fictional device’s mechanism.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/azoth",
         "label": "Merriam-Webster"
+      },
+      {
+        "url": "https://jehlp.net/readers/book-of-the-short-sun/#blue-01/p-263",
+        "label": "Book passage · contextual usage"
       }
     ],
     "aliases": [
@@ -1145,12 +1157,20 @@
   {
     "id": "talus",
     "term": "talus",
-    "short": "Talos, the bronze guardian of Crete.",
-    "note": "Talos is the bronze man of Greek legend who patrols Crete and drives off intruders. In the story of the Argonauts, Medea helps overcome him. Talus is an alternative spelling.",
+    "short": "A powerful machine; a mythic echo.",
+    "note": "In the story, a talus is a large, powerful machine. The name recalls Talos, the bronze guardian of Crete in Greek myth, but the story’s machine should not be confused with that mythological individual. Ordinary English talus also has anatomical and geological meanings.",
     "sources": [
       {
         "url": "https://www.theoi.com/Gigante/GiganteTalos.html",
         "label": "Greek text and classical references"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/talus",
+        "label": "Merriam-Webster · other senses"
+      },
+      {
+        "url": "https://jehlp.net/readers/book-of-the-short-sun/#blue-02/p-013",
+        "label": "Book passage · contextual usage"
       }
     ],
     "aliases": [
@@ -1189,11 +1209,15 @@
     "id": "chenille",
     "term": "Chenille",
     "short": "A shrub with long, red flower tassels.",
-    "note": "The chenille plant, Acalypha hispida, bears hanging, densely packed tassels of tiny flowers. Their soft, furry appearance gives it the name red-hot cat’s tail.",
+    "note": "The chenille plant, Acalypha hispida, bears hanging, densely packed tassels of tiny flowers. Their soft, furry appearance gives it the name red-hot cat’s tail. Chenille also names a fuzzy yarn or fabric, from French for caterpillar. The botanical gloss does not exhaust the word’s meanings.",
     "sources": [
       {
         "url": "https://plants.ces.ncsu.edu/plants/acalypha-hispida/",
         "label": "North Carolina State Extension"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chenille",
+        "label": "Merriam-Webster · textile meaning"
       }
     ],
     "aliases": [
@@ -2052,8 +2076,8 @@
   {
     "id": "azijin",
     "term": "Azijin",
-    "short": "Dutch azijn: vinegar.",
-    "note": "Azijn is the Dutch word for vinegar, a sour liquid produced through acetic fermentation.",
+    "short": "Possibly Dutch azijn: vinegar.",
+    "note": "Possibly a variant of Dutch azijn, vinegar. Azijin is the spelling of the name in this text; it is not the standard Dutch spelling and is retained rather than silently corrected.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/azijn#Dutch",
@@ -2068,7 +2092,8 @@
       "chapter": "return-03",
       "paragraph": "p-002",
       "index": 46
-    }
+    },
+    "possible": true
   },
   {
     "id": "orpine",
@@ -3994,6 +4019,350 @@
       "chapter": "green-02",
       "paragraph": "p-010",
       "index": 19
+    }
+  },
+  {
+    "id": "silk",
+    "term": "Silk",
+    "short": "Silkworm fiber; also a personal name.",
+    "note": "Silk is the fine fiber spun by silkworms and used to make cloth. It is an animal product, not itself an animal. The word also has botanical uses, including the threadlike parts of an ear of corn; those meanings do not establish a hidden identity for the character.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/silk",
+        "label": "Word meaning · Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Silk"
+    ],
+    "occurrences": 677,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-013",
+      "index": 1
+    }
+  },
+  {
+    "id": "horn",
+    "term": "Horn",
+    "short": "An animal’s horn; also a personal name.",
+    "note": "An animal’s projecting horn, or the hard material from which it is formed. A cattle horn has a bony core covered with keratin. The name belongs to the vocabulary of animal parts and products, not just animal species.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/horn",
+        "label": "Word meaning · Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Horn"
+    ],
+    "occurrences": 367,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-007",
+      "index": 1
+    }
+  },
+  {
+    "id": "nettle",
+    "term": "Nettle",
+    "short": "A plant with stinging hairs.",
+    "note": "Nettles, especially plants of the genus Urtica, bear hairs that can sting the skin. The verb nettle means to irritate or provoke; that ordinary sense is distinct from identifying the character’s role.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/nettle",
+        "label": "Word meaning · Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Nettle"
+    ],
+    "occurrences": 239,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-033",
+      "index": 1
+    }
+  },
+  {
+    "id": "hyacinth",
+    "term": "Hyacinth",
+    "short": "A fragrant flowering bulb.",
+    "note": "The familiar garden hyacinth, Hyacinthus orientalis, grows from a bulb and carries clusters of scented flowers. The ancient plant name had a less certain botanical reference; the word has also been used for gemstones. The flower meaning is relevant to the plant-name pattern here.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hyacinth",
+        "label": "Word meaning · Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Hyacinth"
+    ],
+    "occurrences": 62,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-263",
+      "index": 1
+    }
+  },
+  {
+    "id": "marble",
+    "term": "Marble",
+    "short": "A polishable metamorphic rock.",
+    "note": "Marble is limestone altered by heat and pressure into crystalline rock, widely used for sculpture and buildings. The personal name draws on a material word; it does not mean that the character is literally made of marble.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/marble",
+        "label": "Word meaning · Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Marble"
+    ],
+    "occurrences": 68,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-217",
+      "index": 1
+    }
+  },
+  {
+    "id": "pike",
+    "term": "Pike",
+    "short": "A predatory freshwater fish.",
+    "note": "Pike names a long-bodied freshwater fish with conspicuous teeth. The same English spelling also denotes a long thrusting weapon. The fish sense fits the animal vocabulary of these personal names; a weapon-only gloss would miss it.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pike",
+        "label": "Word meaning · Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Pike"
+    ],
+    "occurrences": 11,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-236",
+      "index": 1
+    }
+  },
+  {
+    "id": "musk",
+    "term": "Musk",
+    "short": "An animal scent used in perfumery.",
+    "note": "Musk originally denotes a strongly scented secretion obtained from the male musk deer. It also names similar scents and their substitutes. As a personal name it can therefore refer to an animal product, rather than to a species.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/musk",
+        "label": "Word meaning · Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Musk"
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "return-01",
+      "paragraph": "p-042",
+      "index": 44
+    }
+  },
+  {
+    "id": "mint",
+    "term": "Mint",
+    "short": "An aromatic herb.",
+    "note": "Mint names aromatic herbs, especially of the genus Mentha. This botanical meaning fits the personal name; the unrelated word for a place that makes coins is a different sense.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mint",
+        "label": "Word meaning · Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Mint"
+    ],
+    "occurrences": 105,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-236",
+      "index": 1
+    }
+  },
+  {
+    "id": "rose",
+    "term": "Rose",
+    "short": "A flowering shrub; a plant name.",
+    "note": "A rose is a shrub of the genus Rosa, or its flower. The plant word is used here as a personal name. Its presence does not identify the character with a particular rose species or establish a particular religious symbol.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/rose",
+        "label": "Word meaning · Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Rose"
+    ],
+    "occurrences": 15,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-236",
+      "index": 1
+    }
+  },
+  {
+    "id": "sinew",
+    "term": "Sinew",
+    "short": "A tendon; figuratively, strength.",
+    "note": "Sinew is an old word for a tendon, the tough tissue joining muscle to bone. It also suggests bodily strength. As a name, it belongs with words for animal parts and materials.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sinew",
+        "label": "Word meaning · Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "Sinew"
+    ],
+    "occurrences": 270,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-025",
+      "index": 1
+    }
+  },
+  {
+    "id": "quire",
+    "term": "quire",
+    "short": "A counted gathering of paper.",
+    "note": "A quantity of paper, traditionally twenty-four sheets and in some usages twenty-five. The word’s history also involves sheets folded together. It does not specify a universal number of written pages.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/quire",
+        "label": "Word meaning · Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "quire",
+      "quires"
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-009",
+      "index": 1
+    }
+  },
+  {
+    "id": "limna",
+    "term": "Limna",
+    "short": "A lake-name, possibly from Greek.",
+    "note": "Lake Limna is a named lake in the story. Possibly the name echoes Greek limnē, a lake or pool. The Greek meaning is documented; its use as Wolfe’s intended derivation remains an inference.",
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/lemma/14816/",
+        "label": "Reference"
+      }
+    ],
+    "aliases": [
+      "Limna"
+    ],
+    "occurrences": 15,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-030",
+      "index": 1
+    }
+  },
+  {
+    "id": "calde",
+    "term": "Caldé",
+    "short": "A civic ruler’s title.",
+    "note": "The title of Viron’s civic ruler. Possibly related to Spanish alcalde, a mayor or chief municipal magistrate, ultimately from Arabic al-qāḍī, the judge. That comparison explains a likely linguistic background, not identical powers or institutions. ",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/alcalde",
+        "label": "Reference"
+      }
+    ],
+    "aliases": [
+      "Caldé",
+      "caldé",
+      "Caldés",
+      "caldés"
+    ],
+    "occurrences": 160,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-060",
+      "index": 1
+    }
+  },
+  {
+    "id": "whorl",
+    "term": "whorl",
+    "short": "A world; also a spiral or ring.",
+    "note": "In these books, whorl is used for a world. In ordinary English it means a spiral, coil, or arrangement of parts around an axis. The fictional use and the dictionary meaning are distinct; the note does not explain the world’s hidden history.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/whorl",
+        "label": "Reference"
+      }
+    ],
+    "aliases": [
+      "whorl",
+      "whorls",
+      "Whorl",
+      "Whorls"
+    ],
+    "occurrences": 525,
+    "first": {
+      "chapter": "blue-prelude",
+      "paragraph": "p-002",
+      "index": 0
+    }
+  },
+  {
+    "id": "shiprock",
+    "term": "shiprock",
+    "short": "A building material in the story.",
+    "note": "The story’s name for a hard building material, used in blocks and walls. This is a contextual gloss: no specific chemical composition or real geological rock is implied.",
+    "sources": [
+      {
+        "url": "https://us.macmillan.com/books/9780312872915/litanyofthelongsun/",
+        "label": "Reference"
+      }
+    ],
+    "aliases": [
+      "shiprock"
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-237",
+      "index": 1
+    }
+  },
+  {
+    "id": "inhumi",
+    "term": "inhumi",
+    "short": "Plural of inhumu.",
+    "note": "Inhumi is the plural form; one is an inhumu. These are beings of the fictional setting. This note identifies the word forms without revealing their origins, abilities, or individual identities.",
+    "sources": [
+      {
+        "url": "https://jehlp.net/readers/book-of-the-short-sun/#blue-01",
+        "label": "Reference"
+      }
+    ],
+    "aliases": [
+      "inhumi",
+      "inhumu"
+    ],
+    "occurrences": 345,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-157",
+      "index": 1
     }
   }
 ]
