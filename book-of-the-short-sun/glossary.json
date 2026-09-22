@@ -970,9 +970,11 @@
     ],
     "aliases": [
       "prolocutor",
-      "prolocutors"
+      "prolocutors",
+      "Proloctor"
     ],
-    "occurrences": 44,
+    "occurrences": 45,
+    "possible": false,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-131",
@@ -1297,9 +1299,11 @@
       }
     ],
     "aliases": [
-      "Gelada"
+      "Gelada",
+      "Galada"
     ],
-    "occurrences": 3,
+    "occurrences": 5,
+    "possible": false,
     "first": {
       "chapter": "blue-09",
       "paragraph": "p-077",
@@ -1507,9 +1511,11 @@
       }
     ],
     "aliases": [
-      "Inclito"
+      "Inclito",
+      "Inclitor"
     ],
-    "occurrences": 280,
+    "occurrences": 281,
+    "possible": false,
     "first": {
       "chapter": "green-prelude",
       "paragraph": "p-008",
@@ -1780,9 +1786,11 @@
       }
     ],
     "aliases": [
-      "Soldo"
+      "Soldo",
+      "Saldo"
     ],
-    "occurrences": 61,
+    "occurrences": 62,
+    "possible": false,
     "first": {
       "chapter": "green-01",
       "paragraph": "p-128",
@@ -2322,18 +2330,19 @@
   {
     "id": "mucor",
     "term": "Mucor",
-    "short": "A genus of molds.",
-    "note": "Mucor comprises molds that produce spores in rounded or cylindrical spore cases. The Latin name means mold.",
+    "short": "A genus of molds with rounded spore cases.",
+    "note": "Mucor is a genus of molds that form fluffy colonies and produce spores in rounded spore cases at the tips of upright stalks.",
     "sources": [
       {
-        "url": "https://www.merriam-webster.com/medical/mucor",
-        "label": "Merriam-Webster"
+        "label": "Adelaide University: Mycology Online",
+        "url": "https://mycology.adelaide.edu.au/fungal-descriptions-and-antifungal-susceptibility/mucoromycota-pin-moulds/mucor"
       }
     ],
     "aliases": [
       "Mucor"
     ],
     "occurrences": 119,
+    "possible": false,
     "first": {
       "chapter": "blue-03",
       "paragraph": "p-076",
@@ -3088,9 +3097,11 @@
         "label": "Treccani · gioioso"
       }
     ],
-    "aliases": [],
+    "aliases": [
+      "Gioiosio"
+    ],
     "possible": false,
-    "occurrences": 4,
+    "occurrences": 5,
     "first": {
       "chapter": "green-03",
       "paragraph": "p-034",
@@ -3108,9 +3119,11 @@
         "label": "Treccani · adatto"
       }
     ],
-    "aliases": [],
+    "aliases": [
+      "Adatto"
+    ],
     "possible": false,
-    "occurrences": 11,
+    "occurrences": 12,
     "first": {
       "chapter": "green-16",
       "paragraph": "p-063",
@@ -4082,12 +4095,16 @@
   {
     "id": "hyacinth",
     "term": "Hyacinth",
-    "short": "A fragrant flowering bulb.",
-    "note": "A bulbous plant bearing clusters of fragrant flowers, especially Hyacinthus orientalis. Hyacinth is also an old gemstone name.",
+    "short": "A fragrant bulb; also a name with a Greek flower myth.",
+    "note": "A fragrant bulbous plant, especially Hyacinthus orientalis; also an old gemstone name. In Greek myth, Apollo’s beloved Hyacinthus died after a discus struck him, and a flower grew from his blood.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/hyacinth",
         "label": "Word meaning · Merriam-Webster"
+      },
+      {
+        "label": "Ovid, Metamorphoses 10.162–219",
+        "url": "https://www.theoi.com/Text/OvidMetamorphoses10.html"
       }
     ],
     "aliases": [
@@ -4170,12 +4187,16 @@
   {
     "id": "mint",
     "term": "Mint",
-    "short": "An aromatic herb.",
-    "note": "An aromatic herb of the genus Mentha, including peppermint and spearmint.",
+    "short": "An aromatic herb with a Greek transformation myth.",
+    "note": "An aromatic herb of the genus Mentha, including peppermint and spearmint. In Greek myth, the nymph Menthe was transformed by Persephone into fragrant mint.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/mint",
         "label": "Word meaning · Merriam-Webster"
+      },
+      {
+        "label": "Ovid, Metamorphoses 10.728–731",
+        "url": "https://www.theoi.com/Text/OvidMetamorphoses10.html"
       }
     ],
     "aliases": [
@@ -4573,7 +4594,8 @@
     "id": "sfido",
     "term": "Sfido",
     "aliases": [
-      "Sfido"
+      "Sfido",
+      "Sifido"
     ],
     "short": "Possibly Italian: I challenge.",
     "note": "Possibly Italian sfido, I challenge or I defy, from the verb sfidare.",
@@ -4584,7 +4606,7 @@
       }
     ],
     "possible": true,
-    "occurrences": 111,
+    "occurrences": 112,
     "first": {
       "chapter": "green-12",
       "paragraph": "p-040",
@@ -5369,7 +5391,8 @@
     "term": "Advocaat",
     "aliases": [
       "Advocaat",
-      "advocaat"
+      "advocaat",
+      "Advocast"
     ],
     "short": "Dutch: an advocate or lawyer.",
     "note": "Dutch advocaat means an advocate or lawyer, someone who gives legal advice or represents a party in court.",
@@ -5380,10 +5403,10 @@
         "url": "https://dictionary.cambridge.org/dictionary/dutch-english/advocaat"
       }
     ],
-    "occurrences": 4,
+    "occurrences": 5,
     "first": {
       "chapter": "return-11",
-      "paragraph": "p-022",
+      "paragraph": "p-018",
       "index": 54
     }
   },
@@ -5938,10 +5961,14 @@
       "Sweetbay",
       "Sweet Bay"
     ],
-    "short": "Bay laurel, an evergreen tree with aromatic leaves.",
-    "note": "Sweet bay, or bay laurel, is Laurus nobilis, an evergreen tree with aromatic leaves used in cooking.",
+    "short": "A fragrant-flowered magnolia; also bay laurel.",
+    "note": "Sweetbay commonly names Magnolia virginiana, a North American magnolia with fragrant creamy-white flowers. Sweet bay is also a name for Laurus nobilis, the aromatic bay laurel.",
     "possible": false,
     "sources": [
+      {
+        "label": "North Carolina State University Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/magnolia-virginiana/"
+      },
       {
         "label": "Royal Horticultural Society",
         "url": "https://www.rhs.org.uk/plants/bay-tree/growing-guide"
@@ -6050,10 +6077,14 @@
     "aliases": [
       "Heleno"
     ],
-    "short": "Possibly the Esperanto form of Helen.",
-    "note": "Possibly Heleno, the Esperanto form of Helen, a name of Greek origin.",
+    "short": "Possibly Esperanto: a Hellene, or Helen.",
+    "note": "Possibly Esperanto heleno, a Hellene or Greek. Heleno is also used as the Esperanto form of the given name Helen.",
     "possible": true,
     "sources": [
+      {
+        "label": "Catalan Esperanto Association: Esperanto–Catalan Dictionary",
+        "url": "https://www.esperanto.cat/wp-content/uploads/2022/09/vortaro.pdf"
+      },
       {
         "label": "Majstro Multilingual Dictionary",
         "url": "https://www.majstro.com/dictionaries/English-Greek/Helen"
@@ -6623,6 +6654,1357 @@
       "chapter": "blue-10",
       "paragraph": "p-121",
       "index": 10
+    }
+  },
+  {
+    "id": "darjan",
+    "term": "Darjan",
+    "aliases": [
+      "Darjan"
+    ],
+    "short": "Hindi: a dozen.",
+    "note": "Hindi darjan means a dozen: a group or quantity of twelve.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Collins Hindi–English Dictionary",
+        "url": "https://www.collinsdictionary.com/dictionary/hindi-english/दर्जन"
+      }
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "blue-12",
+      "paragraph": "p-110",
+      "index": 12
+    }
+  },
+  {
+    "id": "rajya-mantri",
+    "term": "Rajya Mantri",
+    "aliases": [
+      "Rajya Mantri"
+    ],
+    "short": "Hindi: minister of state.",
+    "note": "Hindi rājya mantrī means minister of state. Rājya means a state or kingdom, and mantrī a minister or counsellor.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Government of India: official ministerial titles",
+        "url": "https://cabsec.nic.in/writereaddata/changeinportfolio/english/1_Upload_2797.pdf"
+      },
+      {
+        "label": "Collins: rājya",
+        "url": "https://www.collinsdictionary.com/dictionary/hindi-english/राज्य"
+      },
+      {
+        "label": "Collins: mantrī",
+        "url": "https://www.collinsdictionary.com/dictionary/hindi-english/मंत्री"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-010",
+      "index": 1
+    }
+  },
+  {
+    "id": "kilhari",
+    "term": "Kilhari",
+    "aliases": [
+      "Kilhari"
+    ],
+    "short": "Possibly a traditional name for a cattle herder.",
+    "note": "Possibly Kilhari, a name recorded for professional cattle herders in western India. Historical gazetteers associate these herders with breeding oxen.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Maharashtra State Gazetteers: Nashik",
+        "url": "https://www.gazetteers.maharashtra.gov.in/cultural.maharashtra.gov.in/english/gazetteer/Nashik%20District/pro_animals.html"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-10",
+      "paragraph": "p-003",
+      "index": 10
+    }
+  },
+  {
+    "id": "roti",
+    "term": "Roti",
+    "aliases": [
+      "Roti"
+    ],
+    "short": "Hindi: bread, especially an unleavened flatbread.",
+    "note": "Hindi roṭī means bread, especially an unleavened flatbread. The word is also used in English for Indian and Caribbean flatbreads.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Collins English Dictionary",
+        "url": "https://www.collinsdictionary.com/dictionary/english/roti"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-11",
+      "paragraph": "p-102",
+      "index": 11
+    }
+  },
+  {
+    "id": "ram",
+    "term": "Ram",
+    "aliases": [
+      "Ram"
+    ],
+    "short": "Possibly Rama, hero of the Ramayana and an incarnation of Vishnu.",
+    "note": "Possibly Ram or Rama, the hero of the Ramayana and an incarnation of Vishnu in Hindu tradition. Sita is his wife; the epic recounts her abduction and rescue.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2019/sita-and-rama-ramayana-indian-painting"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "blue-10",
+      "paragraph": "p-009",
+      "index": 10
+    }
+  },
+  {
+    "id": "mura",
+    "term": "Mura",
+    "aliases": [
+      "Mura"
+    ],
+    "short": "Japanese: a village.",
+    "note": "Japanese mura means a village or hamlet. It is also a term for a rural administrative community.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Dictionary.com",
+        "url": "https://www.dictionary.com/browse/mura"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-04",
+      "paragraph": "p-213",
+      "index": 4
+    }
+  },
+  {
+    "id": "schreiner",
+    "term": "Schreiner",
+    "aliases": [
+      "Schreiner"
+    ],
+    "short": "German: a joiner or cabinetmaker.",
+    "note": "German Schreiner means a joiner or cabinetmaker: a craftsperson who makes furniture and other fitted woodwork. It is especially common in southern and western German-speaking regions.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Duden",
+        "url": "https://www.duden.de/rechtschreibung/Schreiner"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "green-13",
+      "paragraph": "p-008",
+      "index": 30
+    }
+  },
+  {
+    "id": "flosser",
+    "term": "Flosser",
+    "aliases": [
+      "Flosser"
+    ],
+    "short": "Possibly German Flößer: a raftman.",
+    "note": "Possibly German Flößer, a raftman: someone who guides a raft, traditionally transporting timber down a river.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Duden",
+        "url": "https://www.duden.de/rechtschreibung/Floeszer"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-13",
+      "paragraph": "p-054",
+      "index": 30
+    }
+  },
+  {
+    "id": "dusra-agast",
+    "term": "Dusra Agast",
+    "aliases": [
+      "Dusra Agast"
+    ],
+    "short": "Hindi: the second of August.",
+    "note": "Hindi dūsrā means second or other; agast is August. Together the words give the date second of August.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Collins Hindi–English Dictionary",
+        "url": "https://www.collinsdictionary.com/us/dictionary/hindi-english/दूसरा"
+      },
+      {
+        "label": "University of Texas: First Year Hindi",
+        "url": "https://utw11087.utweb.utexas.edu/wp-content/uploads/sites/8/assets/First_Year_Hindi_Course-Part_2.pdf"
+      },
+      {
+        "label": "Collins: August",
+        "url": "https://www.collinsdictionary.com/us/english-language-learning/august"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-10",
+      "paragraph": "p-224",
+      "index": 10
+    }
+  },
+  {
+    "id": "merfrow",
+    "term": "Merfrow",
+    "aliases": [
+      "Merfrow"
+    ],
+    "short": "Possibly Dutch mevrouw: madam or Mrs.",
+    "note": "Possibly Dutch mevrouw, a polite title or form of address for a woman, corresponding to Mrs., Ms., or madam.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Cambridge University Press: Dutch grammar",
+        "url": "https://assets.cambridge.org/97805216/42538/sample/9780521642538ws.pdf"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "blue-06",
+      "paragraph": "p-181",
+      "index": 6
+    }
+  },
+  {
+    "id": "rimo",
+    "term": "Rimo",
+    "aliases": [
+      "Rimo"
+    ],
+    "short": "Possibly Italian rimo: I rhyme.",
+    "note": "Possibly Italian rimo, I rhyme or compose verse, from the verb rimare.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/rimare/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-20",
+      "paragraph": "p-032",
+      "index": 37
+    }
+  },
+  {
+    "id": "cantoro",
+    "term": "Cantoro",
+    "aliases": [
+      "Cantoro"
+    ],
+    "short": "Possibly Italian cantore: a singer or chorister.",
+    "note": "Possibly Italian cantore, a singer, especially a chorister or church singer. The word comes from Latin cantor and can also describe a poet.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/cantore/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-14",
+      "paragraph": "p-174",
+      "index": 31
+    }
+  },
+  {
+    "id": "badour",
+    "term": "Badour",
+    "aliases": [
+      "Badour"
+    ],
+    "short": "Possibly Badoura, a princess of the Arabian Nights.",
+    "note": "Possibly Princess Badoura of the Arabian Nights, a princess of China whose adventures are intertwined with those of Prince Camaralzaman.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Laurence Housman, Princess Badoura (1913)",
+        "url": "https://www.gutenberg.org/cache/epub/51219/pg51219-images.html"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "green-23",
+      "paragraph": "p-035",
+      "index": 40
+    }
+  },
+  {
+    "id": "choora",
+    "term": "Choora",
+    "aliases": [
+      "Choora",
+      "choora"
+    ],
+    "short": "A straight dagger from the Khyber region.",
+    "note": "A choora is a straight, single-edged dagger associated with the Khyber region and nearby Pashtun communities. Museum examples have pointed steel blades and shaped horn grips.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/31612"
+      }
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "blue-12",
+      "paragraph": "p-017",
+      "index": 12
+    }
+  },
+  {
+    "id": "tentie",
+    "term": "tentie",
+    "aliases": [
+      "tentie",
+      "Tentie"
+    ],
+    "short": "Scots: watchful or careful.",
+    "note": "Scots tentie means watchful, attentive, or careful. It is related to tent, heed or attention, as in take tent, take care.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Dictionaries of the Scots Language",
+        "url": "https://www.dsl.ac.uk/entry/snd/tent_n3_v1_adj2"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "return-16",
+      "paragraph": "p-151",
+      "index": 59
+    }
+  },
+  {
+    "id": "skany",
+    "term": "Skany",
+    "aliases": [
+      "Skany"
+    ],
+    "short": "Possibly Cocopa skany: to break a long object into pieces.",
+    "note": "Possibly Cocopa skany, to break a long object into several pieces. Cocopa is a Yuman language spoken in the lower Colorado River region.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "James M. Crawford, Cocopa Dictionary",
+        "url": "https://books.google.com/books?id=km67EAAAQBAJ&pg=PA246"
+      },
+      {
+        "label": "University of British Columbia: Cocopa Dictionary",
+        "url": "https://knowledgebase.arts.ubc.ca/cocopa-dictionary/"
+      }
+    ],
+    "occurrences": 8,
+    "first": {
+      "chapter": "blue-06",
+      "paragraph": "p-001",
+      "index": 6
+    }
+  },
+  {
+    "id": "seanettle",
+    "term": "Seanettle",
+    "aliases": [
+      "Seanettle"
+    ],
+    "short": "A stinging jellyfish of the genus Chrysaora.",
+    "note": "Sea nettles are jellyfish of the genus Chrysaora. Their bells trail long tentacles armed with stinging cells that capture small marine animals.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Aquarium of the Pacific",
+        "url": "https://www.aquariumofpacific.org/onlinelearningcenter/species/pacific_sea_nettle"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-13",
+      "paragraph": "p-196",
+      "index": 56
+    }
+  },
+  {
+    "id": "firebrat",
+    "term": "Firebrat",
+    "aliases": [
+      "Firebrat"
+    ],
+    "short": "A heat-loving, wingless insect related to silverfish.",
+    "note": "A firebrat, Thermobia domestica, is a small wingless insect related to silverfish. It thrives in hot places and feeds on starches and other organic material.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "University of Maryland Extension",
+        "url": "https://extension.umd.edu/resource/silverfish-and-firebrats"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-006",
+      "index": 45
+    }
+  },
+  {
+    "id": "smew",
+    "term": "Smew",
+    "aliases": [
+      "Smew"
+    ],
+    "short": "A small Eurasian diving duck.",
+    "note": "A smew is a small diving duck, Mergellus albellus, of northern Eurasia. Males are mainly white with black markings; females have reddish-brown heads.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Royal Society for the Protection of Birds",
+        "url": "https://www.rspb.org.uk/birds-and-wildlife/smew"
+      },
+      {
+        "label": "British Trust for Ornithology",
+        "url": "https://www.bto.org/learn/about-birds/birdfacts/smew"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-15",
+      "paragraph": "p-008",
+      "index": 15
+    }
+  },
+  {
+    "id": "hawkowl",
+    "term": "Hawkowl",
+    "aliases": [
+      "Hawkowl"
+    ],
+    "short": "A northern owl that often hunts by day.",
+    "note": "The northern hawk owl, Surnia ulula, is a long-tailed owl of northern forests. It hunts largely by day and has a hawk-like silhouette and flight.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Cornell Lab of Ornithology",
+        "url": "https://www.allaboutbirds.org/guide/Northern_Hawk_Owl/overview"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-283",
+      "index": 45
+    }
+  },
+  {
+    "id": "spirea",
+    "term": "Spirea",
+    "aliases": [
+      "Spirea"
+    ],
+    "short": "A flowering shrub of the genus Spiraea.",
+    "note": "Spireas are deciduous shrubs of the genus Spiraea, in the rose family. Their small flowers grow in conspicuous clusters, often white or pink. The genus name comes from Greek speira, a wreath.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "North Carolina State University Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/spiraea/common-name/spirea/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-04",
+      "paragraph": "p-301",
+      "index": 47
+    }
+  },
+  {
+    "id": "verbena",
+    "term": "Verbena",
+    "aliases": [
+      "Verbena"
+    ],
+    "short": "A flowering plant also called vervain.",
+    "note": "Verbena is a genus of flowering plants also called vervains. Their small flowers usually have five lobes and grow in spikes or clusters; many species are cultivated as ornamentals.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/18816/verbena-officinalis/details"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-04",
+      "paragraph": "p-301",
+      "index": 47
+    }
+  },
+  {
+    "id": "myrtle",
+    "term": "Myrtle",
+    "aliases": [
+      "Myrtle"
+    ],
+    "short": "An aromatic evergreen shrub with white flowers.",
+    "note": "Common myrtle, Myrtus communis, is an evergreen shrub with aromatic leaves, white flowers, and dark berries. It is native to the Mediterranean region and southwestern Asia.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "North Carolina State University Extension",
+        "url": "https://plants.ces.ncsu.edu/plants/myrtus-communis/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-04",
+      "paragraph": "p-303",
+      "index": 47
+    }
+  },
+  {
+    "id": "honeysuckle",
+    "term": "Honeysuckle",
+    "aliases": [
+      "Honeysuckle",
+      "honeysuckle"
+    ],
+    "short": "A flowering shrub or vine of the genus Lonicera.",
+    "note": "Honeysuckles are shrubs or twining climbers of the genus Lonicera. Their tubular or two-lipped flowers are often fragrant and are followed by berries.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/68665/lonicera-fragrantissima/details"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "return-03",
+      "paragraph": "p-023",
+      "index": 46
+    }
+  },
+  {
+    "id": "tomcod",
+    "term": "Tomcod",
+    "aliases": [
+      "Tomcod"
+    ],
+    "short": "A small codlike coastal fish.",
+    "note": "A tomcod is a small codlike fish. The Atlantic tomcod, Microgadus tomcod, lives in coastal waters and estuaries of eastern North America and moves into fresh or brackish water to spawn in winter.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Maine Department of Marine Resources",
+        "url": "https://www.maine.gov/dmr/fisheries/sea-run-fisheries/sea-run-species/tomcod"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-17",
+      "paragraph": "p-321",
+      "index": 60
+    }
+  },
+  {
+    "id": "brathair",
+    "term": "brathair",
+    "aliases": [
+      "brathair",
+      "Brathair"
+    ],
+    "short": "Scottish Gaelic: brother.",
+    "note": "Scottish Gaelic bràthair means brother.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "LearnGaelic",
+        "url": "https://www.learngaelic.scot/sol/episodes/ep.jsp?clip=1&prog=14"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-04",
+      "paragraph": "p-209",
+      "index": 47
+    }
+  },
+  {
+    "id": "seadh",
+    "term": "Seadh",
+    "aliases": [
+      "Seadh",
+      "seadh"
+    ],
+    "short": "Scottish Gaelic: yes or indeed.",
+    "note": "Scottish Gaelic seadh expresses agreement or acknowledgement: yes, indeed, or uh-huh.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Am Faclair Beag",
+        "url": "https://www.faclair.com/?txtSearch=seagh"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-08",
+      "paragraph": "p-297",
+      "index": 51
+    }
+  },
+  {
+    "id": "wight",
+    "term": "Wight",
+    "aliases": [
+      "Wight"
+    ],
+    "short": "An old word for a person; also brave or stalwart.",
+    "note": "A wight is an old word for a living being, especially a person. A separate archaic adjective, wight, means brave or stalwart.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/wight"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "green-13",
+      "paragraph": "p-199",
+      "index": 30
+    }
+  },
+  {
+    "id": "hephaestus",
+    "term": "Hephaestus",
+    "aliases": [
+      "Hephaestus"
+    ],
+    "short": "The Greek god of fire and metalworking.",
+    "note": "Hephaestus is the Greek god of fire and metalworking, the divine smith who fashions weapons and wondrous objects for gods and heroes. His Roman counterpart is Vulcan.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Classical texts collected by Theoi",
+        "url": "https://www.theoi.com/Olympios/Hephaistos.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-05",
+      "paragraph": "p-113",
+      "index": 5
+    }
+  },
+  {
+    "id": "carabao",
+    "term": "carabao",
+    "aliases": [
+      "carabao",
+      "Carabao",
+      "carabaos"
+    ],
+    "short": "A water buffalo.",
+    "note": "A carabao is a water buffalo. The name entered English through Philippine Spanish from a Visayan word, karabáw.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/carabao"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-15",
+      "paragraph": "p-032",
+      "index": 15
+    }
+  },
+  {
+    "id": "bombazine",
+    "term": "bombazine",
+    "aliases": [
+      "bombazine",
+      "Bombazine"
+    ],
+    "short": "A twilled fabric traditionally made of silk and worsted wool.",
+    "note": "Bombazine is a twill fabric traditionally woven with silk threads lengthwise and worsted wool crosswise. The name also denotes a black silk twill.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/bombazine"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-171",
+      "index": 45
+    }
+  },
+  {
+    "id": "fashed",
+    "term": "fashed",
+    "aliases": [
+      "fashed",
+      "Fashed"
+    ],
+    "short": "Scots: troubled, bothered, or worried.",
+    "note": "Scots fashed means troubled, bothered, or worried, from the verb fash. Fash entered Scots from French fâcher, to annoy or vex.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Dictionaries of the Scots Language",
+        "url": "https://dsl.ac.uk/entry/snd/fash"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-06",
+      "paragraph": "p-221",
+      "index": 49
+    }
+  },
+  {
+    "id": "ghaists",
+    "term": "ghaists",
+    "aliases": [
+      "ghaists",
+      "Ghaists",
+      "ghaist"
+    ],
+    "short": "Scots: ghosts.",
+    "note": "Scots ghaists means ghosts; the singular is ghaist.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Dictionaries of the Scots Language",
+        "url": "https://dsl.ac.uk/entry/snd/ghaist"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "return-08",
+      "paragraph": "p-073",
+      "index": 51
+    }
+  },
+  {
+    "id": "muckle",
+    "term": "muckle",
+    "aliases": [
+      "muckle",
+      "Muckle"
+    ],
+    "short": "Scots: much, large, or great.",
+    "note": "Scots muckle means much or a great deal, and also large or great in size.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Dictionaries of the Scots Language",
+        "url": "https://dsl.ac.uk/entry/snd/muckle"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-293",
+      "index": 45
+    }
+  },
+  {
+    "id": "fient",
+    "term": "Fient",
+    "aliases": [
+      "Fient",
+      "fient"
+    ],
+    "short": "Scots: the Devil; also an emphatic exclamation or denial.",
+    "note": "Scots fient is a form of fiend, especially the Devil. It is used in exclamations and emphatic denials, much like the devil! or not a bit.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Dictionaries of the Scots Language",
+        "url": "https://dsl.ac.uk/entry/snd/fient"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-14",
+      "paragraph": "p-340",
+      "index": 57
+    }
+  },
+  {
+    "id": "braw",
+    "term": "braw",
+    "aliases": [
+      "braw",
+      "Braw"
+    ],
+    "short": "Scots: fine, splendid, or handsome.",
+    "note": "Scots braw means fine, splendid, or handsome. It can describe an impressive place, a well-dressed person, or someone strong and good-looking.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Dictionaries of the Scots Language",
+        "url": "https://dsl.ac.uk/entry/snd/braw"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "return-14",
+      "paragraph": "p-076",
+      "index": 57
+    }
+  },
+  {
+    "id": "rais-man",
+    "term": "rais-man",
+    "aliases": [
+      "rais-man",
+      "Rais-man"
+    ],
+    "short": "Possibly Arabic raʾīs: a chief, leader, or captain.",
+    "note": "Possibly Arabic raʾīs, a chief, leader, or captain, from raʾs, head. The title has also passed into several other languages.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/rais"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "green-24",
+      "paragraph": "p-050",
+      "index": 41
+    }
+  },
+  {
+    "id": "coracle",
+    "term": "coracle",
+    "aliases": [
+      "coracle",
+      "Coracle",
+      "coracles"
+    ],
+    "short": "A small skin- or fabric-covered boat.",
+    "note": "A coracle is a small, lightweight boat made from a framework covered with hide or waterproof fabric. The word comes from Welsh corwgl.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/coracle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-027",
+      "index": 1
+    }
+  },
+  {
+    "id": "cresset",
+    "term": "cresset",
+    "aliases": [
+      "cresset",
+      "cressets",
+      "Cresset",
+      "Cressets"
+    ],
+    "short": "A metal vessel holding a lighted fire.",
+    "note": "A cresset is a metal cup or basket that holds burning fuel for illumination, mounted on a pole or hung like a lantern.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/cresset"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-23",
+      "paragraph": "p-002",
+      "index": 40
+    }
+  },
+  {
+    "id": "pannikin",
+    "term": "pannikin",
+    "aliases": [
+      "pannikin",
+      "pannikins",
+      "Pannikin"
+    ],
+    "short": "A small pan or drinking cup.",
+    "note": "A pannikin is a small pan or drinking cup, especially in British usage. Its name is a diminutive of pan.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/pannikin"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "return-04",
+      "paragraph": "p-072",
+      "index": 47
+    }
+  },
+  {
+    "id": "ratlines",
+    "term": "ratlines",
+    "aliases": [
+      "ratlines",
+      "ratline",
+      "Ratlines"
+    ],
+    "short": "Rope steps used to climb a ship’s rigging.",
+    "note": "Ratlines are the short ropes stretched across a sailing ship’s shrouds, forming ladder-like footholds for climbing the rigging.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/ratline"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-17",
+      "paragraph": "p-246",
+      "index": 60
+    }
+  },
+  {
+    "id": "crenels",
+    "term": "crenels",
+    "aliases": [
+      "crenels",
+      "crenel",
+      "Crenels"
+    ],
+    "short": "The gaps between a battlement’s raised sections.",
+    "note": "Crenels are the gaps between the raised sections of a battlement. The raised sections are called merlons.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/crenel"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-06",
+      "paragraph": "p-223",
+      "index": 49
+    }
+  },
+  {
+    "id": "gaff-topsail",
+    "term": "gaff-topsail",
+    "aliases": [
+      "gaff-topsail",
+      "gaff-topsails",
+      "Gaff-topsail"
+    ],
+    "short": "A usually triangular sail set above a gaff.",
+    "note": "A gaff-topsail is a sail, usually triangular, set above the gaff of a fore-and-aft-rigged vessel. Its lower edge extends along the gaff.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/gaff-topsail"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-05",
+      "paragraph": "p-062",
+      "index": 5
+    }
+  },
+  {
+    "id": "virescent",
+    "term": "virescent",
+    "aliases": [
+      "virescent",
+      "Virescent"
+    ],
+    "short": "Greenish or becoming green.",
+    "note": "Virescent means greenish or becoming green. It comes from Latin virescere, to grow green.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/virescent"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-23",
+      "paragraph": "p-002",
+      "index": 40
+    }
+  },
+  {
+    "id": "tenebrious",
+    "term": "tenebrious",
+    "aliases": [
+      "tenebrious",
+      "Tenebrious"
+    ],
+    "short": "Dark, murky, or gloomy.",
+    "note": "Tenebrious means dark, murky, or gloomy. It is a form of tenebrous, ultimately from Latin tenebrae, darkness.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/tenebrious"
+      },
+      {
+        "label": "Merriam-Webster: tenebrous",
+        "url": "https://www.merriam-webster.com/dictionary/tenebrous"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-01",
+      "paragraph": "p-057",
+      "index": 44
+    }
+  },
+  {
+    "id": "auspicatory",
+    "term": "auspicatory",
+    "aliases": [
+      "auspicatory",
+      "Auspicatory"
+    ],
+    "short": "Relating to auspices or omens.",
+    "note": "Auspicatory means relating to auspices or omens: signs interpreted as indications of what is to come.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "The Century Dictionary via Wordnik",
+        "url": "https://www.wordnik.com/words/auspicatory"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-10",
+      "paragraph": "p-062",
+      "index": 53
+    }
+  },
+  {
+    "id": "tallow",
+    "term": "Tallow",
+    "aliases": [
+      "Tallow"
+    ],
+    "short": "Rendered animal fat used for candles and soap.",
+    "note": "Tallow is rendered animal fat, especially from cattle or sheep. It solidifies when cool and has long been used for candles, soap, and lubricants.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/tallow"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-174",
+      "index": 45
+    }
+  },
+  {
+    "id": "ray",
+    "term": "Ray",
+    "aliases": [
+      "Ray"
+    ],
+    "short": "A flattened fish related to skates and stingrays.",
+    "note": "A ray is a cartilaginous fish with a flattened body and broad pectoral fins joined to the head. The group includes skates and stingrays.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/ray"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-10",
+      "paragraph": "p-219",
+      "index": 53
+    }
+  },
+  {
+    "id": "warren",
+    "term": "Warren",
+    "aliases": [
+      "Warren"
+    ],
+    "short": "A rabbit breeding ground or small-game preserve.",
+    "note": "A warren is a place where rabbits live or breed. Historically it could also be a legally protected area for keeping and hunting small game.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/warren"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-13",
+      "paragraph": "p-199",
+      "index": 30
+    }
+  },
+  {
+    "id": "loganstone",
+    "term": "Loganstone",
+    "aliases": [
+      "Loganstone"
+    ],
+    "short": "A delicately balanced rock that can be made to sway.",
+    "note": "A logan stone is a large rock balanced so delicately on its base that a small force can make it sway. It is also called a rocking stone.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Collins English Dictionary",
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/rocking-stone"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-14",
+      "paragraph": "p-155",
+      "index": 31
+    }
+  },
+  {
+    "id": "lann",
+    "term": "Lann",
+    "aliases": [
+      "Lann"
+    ],
+    "short": "Possibly Gaelic: a blade; also an enclosure or church.",
+    "note": "Possibly Gaelic lann, a blade or sword. A separate word of the same form denotes an enclosure or building and, in older usage, a church.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Am Faclair Beag and Dwelly’s Gaelic Dictionary",
+        "url": "https://www.faclair.com/?txtSearch=lann"
+      },
+      {
+        "label": "Ó Dónaill, Foclóir Gaeilge–Béarla",
+        "url": "https://www.teanglann.ie/ga/fgb/lann"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-06",
+      "paragraph": "p-219",
+      "index": 49
+    }
+  },
+  {
+    "id": "legume",
+    "term": "Legume",
+    "aliases": [
+      "Legume"
+    ],
+    "short": "A plant of the pea family, or its pod.",
+    "note": "A legume is a plant of the pea family, Fabaceae, such as a bean, lentil, or clover. The word also names its seed-bearing pod, which typically opens along two seams.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/legume"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-20",
+      "paragraph": "p-037",
+      "index": 63
+    }
+  },
+  {
+    "id": "lily",
+    "term": "Lily",
+    "aliases": [
+      "Lily"
+    ],
+    "short": "A bulbous flowering plant of the genus Lilium.",
+    "note": "A lily is a bulbous flowering plant of the genus Lilium. Its showy flowers may be trumpet-shaped or have strongly recurved petals; many are fragrant.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/lilies"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-13",
+      "paragraph": "p-196",
+      "index": 56
+    }
+  },
+  {
+    "id": "familiare",
+    "term": "familiare",
+    "aliases": [
+      "familiare",
+      "Familiare",
+      "Familiares",
+      "familiares"
+    ],
+    "short": "Possibly a familiar spirit, a supernatural attendant.",
+    "note": "Possibly Latin familiaris, intimate or belonging to a household. A familiar spirit, in European folklore, is a supernatural attendant, often imagined in animal form.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Louis Ha, Chinese University of Hong Kong Latin course",
+        "url": "https://www.cultus.hk/Latin_vocab/adject3/familiaris.html"
+      },
+      {
+        "label": "Merriam-Webster: familiar",
+        "url": "https://www.merriam-webster.com/dictionary/familiar"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "green-01",
+      "paragraph": "p-112",
+      "index": 18
+    }
+  },
+  {
+    "id": "dulcimer",
+    "term": "dulcimer",
+    "aliases": [
+      "dulcimer",
+      "dulcimers"
+    ],
+    "short": "A stringed instrument with a resonating soundboard.",
+    "note": "A stringed instrument whose strings stretch across a resonating soundboard. A hammered dulcimer is struck with small hammers; an Appalachian dulcimer is plucked or strummed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dulcimer",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-05",
+      "paragraph": "p-088",
+      "index": 5
+    }
+  },
+  {
+    "id": "magnesia",
+    "term": "Magnesia",
+    "aliases": [
+      "Magnesia"
+    ],
+    "short": "Magnesium oxide, a white heat-resistant compound.",
+    "note": "Magnesium oxide, MgO, a white compound used in heat-resistant materials, cements, and insulation.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · magnesia",
+        "url": "https://www.merriam-webster.com/dictionary/magnesia"
+      },
+      {
+        "label": "Merriam-Webster · magnesium oxide",
+        "url": "https://www.merriam-webster.com/dictionary/magnesium%20oxide"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-217",
+      "index": 1
+    }
+  },
+  {
+    "id": "cant",
+    "term": "cant",
+    "aliases": [
+      "cant"
+    ],
+    "short": "A group’s private vocabulary; also insincere talk.",
+    "note": "The specialized speech of thieves, beggars, or another social group, often intended to be opaque to outsiders. Cant can also mean affected or insincere talk.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · cant",
+        "url": "https://www.merriam-webster.com/dictionary/cant"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-14",
+      "paragraph": "p-249",
+      "index": 57
+    }
+  },
+  {
+    "id": "gelt",
+    "term": "gelt",
+    "aliases": [
+      "gelt"
+    ],
+    "short": "Money; from German, Dutch, and Yiddish forms.",
+    "note": "A colloquial word for money, related to German and Dutch geld and Yiddish gelt.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · gelt",
+        "url": "https://www.merriam-webster.com/dictionary/gelt"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-047",
+      "index": 1
     }
   }
 ]

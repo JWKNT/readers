@@ -12905,5 +12905,3391 @@
       "paragraph": "p-018",
       "index": 94
     }
+  },
+  {
+    "id": "emilian",
+    "term": "Emilian",
+    "aliases": [
+      "Emilian"
+    ],
+    "short": "Possibly Aemilian, a name borne by several saints.",
+    "note": "Possibly Aemilian, also spelled Emilian, a name borne by several Christian saints. They include a Spanish hermit remembered as San Millán and a bishop of Cyzicus who opposed iconoclasm.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n27/mode/2up?q=Emilian"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "citadel-08",
+      "paragraph": "p-049",
+      "index": 114
+    }
+  },
+  {
+    "id": "trason",
+    "term": "Trason",
+    "aliases": [
+      "Trason"
+    ],
+    "short": "Possibly Saint Trason, a Roman martyr.",
+    "note": "Possibly Saint Trason, a Roman Christian remembered for helping imprisoned believers during Diocletian’s persecution. He was subsequently executed with his companions.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n282/mode/2up?q=Trason"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "citadel-37",
+      "paragraph": "p-028",
+      "index": 143
+    }
+  },
+  {
+    "id": "kyrin",
+    "term": "Kyrin",
+    "aliases": [
+      "Kyrin"
+    ],
+    "short": "Possibly Saint Kyrin, also called Boniface.",
+    "note": "Possibly Saint Kyrin, also called Kyrstin or Boniface, an early medieval bishop associated with Ross in Scotland.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n183/mode/2up?q=Kyrin"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "urth-30",
+      "paragraph": "p-058",
+      "index": 175
+    }
+  },
+  {
+    "id": "timon",
+    "term": "Timon",
+    "aliases": [
+      "Timon"
+    ],
+    "short": "Possibly Timon, one of the seven chosen in Acts.",
+    "note": "Possibly Timon, named in Acts 6:5 among the seven men chosen to oversee the community’s charitable distribution. Christian tradition counts them as the first deacons.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n281/mode/2up?q=Timon"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-05",
+      "paragraph": "p-007",
+      "index": 4
+    }
+  },
+  {
+    "id": "canog",
+    "term": "Canog",
+    "aliases": [
+      "Canog"
+    ],
+    "short": "Possibly Saint Cynog, son of Brychan of Brycheiniog.",
+    "note": "Possibly Saint Cynog, or Canog, a Welsh saint traditionally regarded as a son of Brychan of Brycheiniog. His name is preserved in the place-name Merthyr Cynog.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n79/mode/2up?q=Canog"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "urth-37",
+      "paragraph": "p-048",
+      "index": 182
+    }
+  },
+  {
+    "id": "caesidius",
+    "term": "Caesidius",
+    "aliases": [
+      "Caesidius"
+    ],
+    "short": "Possibly Saint Caesidius, a martyr near Lake Fucino.",
+    "note": "Possibly Saint Caesidius, a priest traditionally commemorated among Christians killed near Lake Fucino in central Italy during the Roman persecutions.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n76/mode/2up?q=Caesidius"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "urth-46",
+      "paragraph": "p-062",
+      "index": 191
+    }
+  },
+  {
+    "id": "sulpicius",
+    "term": "Sulpicius",
+    "aliases": [
+      "Sulpicius"
+    ],
+    "short": "Possibly Sulpicius, the name of saints of Bourges.",
+    "note": "Possibly Sulpicius, a name borne by several Christian saints, including two early bishops of Bourges. The later bishop, Sulpicius the Pious, is the namesake of Saint-Sulpice in Paris.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n271/mode/2up?q=Sulpicius"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-06",
+      "paragraph": "p-043",
+      "index": 5
+    }
+  },
+  {
+    "id": "pelagia",
+    "term": "Pelagia",
+    "aliases": [
+      "Pelagia"
+    ],
+    "short": "Possibly Saint Pelagia, a martyr of Antioch.",
+    "note": "Possibly Saint Pelagia of Antioch, a young Christian martyr praised by Ambrose and John Chrysostom. She is distinct from the penitent of the same name also associated with Antioch.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n235/mode/2up?q=Pelagia"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-44",
+      "paragraph": "p-022",
+      "index": 189
+    }
+  },
+  {
+    "id": "olaguer",
+    "term": "Olaguer",
+    "aliases": [
+      "Olaguer"
+    ],
+    "short": "Possibly Saint Olegarius, bishop of Barcelona and Tarragona.",
+    "note": "Possibly Saint Olegarius, also called Ollegarius or Olaguer, an Augustinian canon who became bishop of Barcelona and archbishop of Tarragona in the twelfth century.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n227/mode/2up?q=Olaguer"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-35",
+      "paragraph": "p-065",
+      "index": 141
+    }
+  },
+  {
+    "id": "nympha",
+    "term": "Nympha",
+    "aliases": [
+      "Nympha"
+    ],
+    "short": "Possibly Saint Nympha, remembered with Tryphon and Respicius.",
+    "note": "Possibly Saint Nympha, an early Christian saint whose relics were venerated in Rome. Her commemoration became associated with those of Tryphon and Respicius; little reliable biography survives.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n283/mode/2up?q=Nympha"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-15",
+      "paragraph": "p-010",
+      "index": 50
+    }
+  },
+  {
+    "id": "mineas",
+    "term": "Mineas",
+    "aliases": [
+      "Mineas"
+    ],
+    "short": "Possibly Saint Minias, the martyr honored at San Miniato.",
+    "note": "Possibly Saint Minias, or Miniato, a Christian martyr honored at Florence. His traditional life places his death in the persecution under Decius in the third century.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n218/mode/2up?q=Mineas"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-13",
+      "paragraph": "p-042",
+      "index": 48
+    }
+  },
+  {
+    "id": "midan",
+    "term": "Midan",
+    "aliases": [
+      "Midan"
+    ],
+    "short": "Possibly Saint Nidan, an early Welsh saint.",
+    "note": "Possibly Saint Nidan, also called Midan, an early saint associated with Anglesey in Wales. Reliable details of his life are scarce.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n217/mode/2up?q=Midan"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-01",
+      "paragraph": "p-009",
+      "index": 107
+    }
+  },
+  {
+    "id": "mesmin",
+    "term": "Mesmin",
+    "aliases": [
+      "Mesmin"
+    ],
+    "short": "Possibly Saint Memorius, a deacon of Troyes.",
+    "note": "Possibly Saint Memorius, also called Mesmin or Nemorius, a deacon of Troyes. Tradition says he and his companions were killed during Attila’s invasion of Gaul.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n222/mode/2up?q=Mesmin"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-02",
+      "paragraph": "p-009",
+      "index": 37
+    }
+  },
+  {
+    "id": "mennas",
+    "term": "Mennas",
+    "aliases": [
+      "Mennas"
+    ],
+    "short": "Possibly Saint Menas, the Egyptian soldier-martyr.",
+    "note": "Possibly Saint Menas, also spelled Mennas, an Egyptian soldier commemorated as a martyr under Diocletian.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n216/mode/2up?q=Mennas"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-03",
+      "paragraph": "p-008",
+      "index": 2
+    }
+  },
+  {
+    "id": "lelia",
+    "term": "Lelia",
+    "aliases": [
+      "Lelia"
+    ],
+    "short": "Possibly Saint Lelia, an Irish saint of Munster.",
+    "note": "Possibly Saint Lelia, an early Irish saint associated with the regions of Limerick and Kerry. Her memory survives in local dedications, although her biography is largely lost.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n185/mode/2up?q=Lelia"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-16",
+      "paragraph": "p-066",
+      "index": 51
+    }
+  },
+  {
+    "id": "kyneburga",
+    "term": "Kyneburga",
+    "aliases": [
+      "Kyneburga"
+    ],
+    "short": "Possibly Saint Cyneburh, a Mercian princess and abbess.",
+    "note": "Possibly Saint Cyneburh, also called Kyneburga, a daughter of King Penda of Mercia. She is traditionally associated with a religious community at Castor near Peterborough.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n183/mode/2up?q=Kyneburga"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-24",
+      "paragraph": "p-078",
+      "index": 59
+    }
+  },
+  {
+    "id": "ivo",
+    "term": "Ivo",
+    "aliases": [
+      "Ivo"
+    ],
+    "short": "Possibly Saint Ivo, namesake of St Ives in Cambridgeshire.",
+    "note": "Possibly Saint Ivo, a saint traditionally described as a Persian bishop who settled in England. His relics were enshrined at Ramsey Abbey, and St Ives in Cambridgeshire bears his name.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n166/mode/2up?q=Ivo"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-24",
+      "paragraph": "p-121",
+      "index": 59
+    }
+  },
+  {
+    "id": "gwinoc",
+    "term": "Gwinoc",
+    "aliases": [
+      "Gwinoc"
+    ],
+    "short": "Possibly Saint Gwinoc, a Welsh monk associated with poetry.",
+    "note": "Possibly Saint Gwinoc, a Welsh monastic saint traditionally associated with early Welsh poetry.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n44/mode/2up?q=Gwinoc"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-06",
+      "paragraph": "p-081",
+      "index": 5
+    }
+  },
+  {
+    "id": "blaithmaic",
+    "term": "Blaithmaic",
+    "aliases": [
+      "Blaithmaic"
+    ],
+    "short": "Possibly Saint Blathmac, an abbot killed at Iona.",
+    "note": "Possibly Saint Blathmac, also called Blaithmaic, an Irish abbot killed by Viking raiders at Iona in the ninth century. Walahfrid Strabo commemorated him in a Latin poem.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n70/mode/2up?q=Blaithmaic"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-06",
+      "paragraph": "p-081",
+      "index": 5
+    }
+  },
+  {
+    "id": "bega",
+    "term": "Bega",
+    "aliases": [
+      "Bega"
+    ],
+    "short": "Possibly Saint Bega, namesake of St Bees.",
+    "note": "Possibly Saint Bega, also called Bee, an early saint traditionally said to have come from Ireland to Cumberland. St Bees and St Bees Head preserve her name.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n64/mode/2up?q=Bega"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-07",
+      "paragraph": "p-005",
+      "index": 113
+    }
+  },
+  {
+    "id": "aphrodisius",
+    "term": "Aphrodisius",
+    "aliases": [
+      "Aphrodisius"
+    ],
+    "short": "Possibly Saint Aphrodisius, a martyr of North Africa.",
+    "note": "Possibly Saint Aphrodisius, commemorated with Peter among the Christians persecuted by the Arian Vandals in North Africa. The surviving records leave his dates and identity uncertain.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n237/mode/2up?q=Aphrodisius"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-02",
+      "paragraph": "p-017",
+      "index": 108
+    }
+  },
+  {
+    "id": "zambdas",
+    "term": "Zambdas",
+    "aliases": [
+      "Zambdas"
+    ],
+    "short": "Possibly Saint Zambdas, an early bishop of Jerusalem.",
+    "note": "Possibly Saint Zambdas, a bishop of Jerusalem around the beginning of the fourth century.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n295/mode/2up?q=Zambdas"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "sword-28",
+      "paragraph": "p-025",
+      "index": 95
+    }
+  },
+  {
+    "id": "herais",
+    "term": "Herais",
+    "aliases": [
+      "Herais"
+    ],
+    "short": "Possibly Saint Irais, an Egyptian martyr.",
+    "note": "Possibly Saint Irais, also called Herais or Rhais, an Egyptian Christian martyr. Her traditional life describes her voluntarily joining prisoners being taken by boat to execution.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n164/mode/2up?q=Herais"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-14",
+      "paragraph": "p-038",
+      "index": 81
+    }
+  },
+  {
+    "id": "vodalus",
+    "term": "Vodalus",
+    "aliases": [
+      "Vodalus"
+    ],
+    "short": "Possibly Saint Vodalus, an early medieval hermit.",
+    "note": "Possibly Saint Vodalus, also called Vodoaldus or Voel, an Irish or Scottish monk remembered as a missionary in Gaul and a hermit near Soissons.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Catholic Church in Norway · Saint Vodalus",
+        "url": "https://www.katolsk.no/biografier/historisk/vodalus"
+      }
+    ],
+    "occurrences": 250,
+    "first": {
+      "chapter": "shadow-01",
+      "paragraph": "p-043",
+      "index": 0
+    }
+  },
+  {
+    "id": "sancha",
+    "term": "Sancha",
+    "aliases": [
+      "Sancha"
+    ],
+    "short": "Possibly Blessed Sancha, a Portuguese princess and nun.",
+    "note": "Possibly Blessed Sancha, a daughter of King Sancho I of Portugal who adopted a monastic life at Alenquer and later retired to the monastery of Celas near Coimbra.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Portuguese National Liturgy Office · June 20",
+        "url": "https://www.liturgia.pt/lh/pdf/0906Jun.pdf"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "claw-15",
+      "paragraph": "p-010",
+      "index": 50
+    }
+  },
+  {
+    "id": "mafalda",
+    "term": "Mafalda",
+    "aliases": [
+      "Mafalda"
+    ],
+    "short": "Possibly Blessed Mafalda, a Portuguese princess and Cistercian.",
+    "note": "Possibly Blessed Mafalda, a daughter of King Sancho I of Portugal. After an annulled marriage to the king of Castile, she became a Cistercian at Arouca.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Portuguese National Liturgy Office · June 20",
+        "url": "https://www.liturgia.pt/lh/pdf/0906Jun.pdf"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-32",
+      "paragraph": "p-048",
+      "index": 177
+    }
+  },
+  {
+    "id": "gerbold",
+    "term": "Gerbold",
+    "aliases": [
+      "Gerbold"
+    ],
+    "short": "Possibly Saint Gerbold, bishop of Bayeux.",
+    "note": "Possibly Saint Gerbold, also called Gerbaud, a bishop of Bayeux in the late seventh century. Tradition connects him with the foundation of Livry Abbey in Normandy.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "French Bishops’ Conference · Saint Gerbold",
+        "url": "https://nominis.cef.fr/contenus/saint/9487/Saint-Gerbold.html"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-06",
+      "paragraph": "p-043",
+      "index": 5
+    }
+  },
+  {
+    "id": "quartillosa",
+    "term": "Quartillosa",
+    "aliases": [
+      "Quartillosa"
+    ],
+    "short": "Possibly Quartillosa, a Christian martyr of Carthage.",
+    "note": "Possibly Quartillosa, a Christian woman commemorated among the third-century martyrs of Carthage, together with her husband and son.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "French Bishops’ Conference · Martyrs of Carthage",
+        "url": "https://nominis.cef.fr/contenus/saint/11308/Saint-Libosus.html"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-05",
+      "paragraph": "p-041",
+      "index": 4
+    }
+  },
+  {
+    "id": "josepha",
+    "term": "Josepha",
+    "aliases": [
+      "Josepha"
+    ],
+    "short": "Possibly Blessed Josepha Maria of Benigànim.",
+    "note": "Possibly Blessed Josepha Maria of Benigànim, born Inés Albiñana, a seventeenth-century Discalced Augustinian nun in eastern Spain.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "French Bishops’ Conference · Inés Albiñana",
+        "url": "https://nominis.cef.fr/contenus/saint/5268/Bienheureuse-Agn%C3%A8s-Albinana.html"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-10",
+      "paragraph": "p-033",
+      "index": 9
+    }
+  },
+  {
+    "id": "einhildis",
+    "term": "Einhildis",
+    "aliases": [
+      "Einhildis"
+    ],
+    "short": "Possibly Saint Einhildis of Niedermünster.",
+    "note": "Possibly Saint Einhildis, also called Einhild, an eighth-century religious woman associated with Niedermünster in Alsace.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Catholic Church in Norway · Gundelinda of Niedermünster",
+        "url": "https://www.katolsk.no/biografier/historisk/gunnieder"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "sword-12",
+      "paragraph": "p-002",
+      "index": 79
+    }
+  },
+  {
+    "id": "petronax",
+    "term": "Petronax",
+    "aliases": [
+      "Petronax"
+    ],
+    "short": "Possibly Saint Petronax, restorer of Monte Cassino.",
+    "note": "Possibly Saint Petronax, an eighth-century Benedictine abbot who restored Monte Cassino after its destruction and became known as its second founder.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "French Bishops’ Conference · Saint Petronax",
+        "url": "https://nominis.cef.fr/contenus/saint/1107/Saint-P%C3%A9tronax.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-14",
+      "paragraph": "p-060",
+      "index": 13
+    }
+  },
+  {
+    "id": "guibert",
+    "term": "Guibert",
+    "aliases": [
+      "Guibert"
+    ],
+    "short": "Possibly Saint Guibert, founder of Gembloux Abbey.",
+    "note": "Possibly Saint Guibert, a tenth-century founder of the Benedictine abbey at Gembloux, in present-day Belgium. He later lived as a monk at Gorze.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "French Bishops’ Conference · Guibert of Gembloux",
+        "url": "https://nominis.cef.fr/contenus/saint/1205/Saint-Guibert-de-Gembloux.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-16",
+      "paragraph": "p-026",
+      "index": 51
+    }
+  },
+  {
+    "id": "eigil",
+    "term": "Eigil",
+    "aliases": [
+      "Eigil"
+    ],
+    "short": "Possibly Eigil, abbot of Fulda and biographer of Saint Sturm.",
+    "note": "Possibly Eigil of Fulda, a ninth-century Benedictine abbot and author of a life of Saint Sturm, Fulda’s founder.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Deutsche Biographie · Eigil of Fulda",
+        "url": "https://www.deutsche-biographie.de/gnd118688359.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-03",
+      "paragraph": "p-008",
+      "index": 2
+    }
+  },
+  {
+    "id": "grimkeld",
+    "term": "Grimkeld",
+    "aliases": [
+      "Grimkeld"
+    ],
+    "short": "Possibly Saint Grimkeld, one of the Crowland martyrs.",
+    "note": "Possibly Saint Grimkeld, one of the monks remembered among the martyrs of Crowland Abbey, traditionally killed during a ninth-century Viking raid.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Catholic Church in Norway · Theodore and the Crowland martyrs",
+        "url": "https://www.katolsk.no/biografier/historisk/tcroylan"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "urth-24",
+      "paragraph": "p-015",
+      "index": 169
+    }
+  },
+  {
+    "id": "gracia",
+    "term": "Gracia",
+    "aliases": [
+      "Gracia"
+    ],
+    "short": "Possibly Saint Gracia, one of the martyrs of Alzira.",
+    "note": "Possibly Saint Gracia, one of three sibling martyrs honored at Alzira in Spain, alongside Bernard and Maria.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "City of Alzira · Cultural heritage inventory",
+        "url": "https://www.alzira.es/wp-content/uploads/2011/06/2-ANEXO-7-1-1-FICHAS-RECURSOS-CULTURALES.pdf"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-09",
+      "paragraph": "p-017",
+      "index": 8
+    }
+  },
+  {
+    "id": "lybe",
+    "term": "Lybe",
+    "aliases": [
+      "Lybe"
+    ],
+    "short": "Possibly Saint Lybe, a martyr of Palmyra.",
+    "note": "Possibly Saint Lybe, a Christian martyr traditionally commemorated at Palmyra with Eutropia and Leonis during the Roman persecutions.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Catholic Online · Saint Lybe",
+        "url": "https://www.catholic.org/saints/saint.php?saint_id=4372"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-24",
+      "paragraph": "p-079",
+      "index": 59
+    }
+  },
+  {
+    "id": "lollian",
+    "term": "Lollian",
+    "aliases": [
+      "Lollian"
+    ],
+    "short": "Possibly Saint Lollian, one of the Seven Martyrs of Samosata.",
+    "note": "Possibly Saint Lollian, one of the Seven Martyrs of Samosata commemorated in Syriac Christian tradition. Their collective life survives in Syriac manuscripts.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Syriaca.org · Seven Martyrs of Samosata",
+        "url": "https://syriaca.org/work/320"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-16",
+      "paragraph": "p-026",
+      "index": 51
+    }
+  },
+  {
+    "id": "anian",
+    "term": "Anian",
+    "aliases": [
+      "Anian"
+    ],
+    "short": "Possibly Saint Anian, the saint commemorated at Saint-Chinian.",
+    "note": "Possibly Saint Anian, the saint to whom the medieval abbey at Saint-Chinian in southern France was dedicated.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Diocese of Montpellier · Saint-Chinian abbey",
+        "url": "https://www.patrimoinereligieux34.catholique.fr/ancienne-abbaye-benedictine/114-fiche-ancienne-abbaye-benedictine-saint-chinian"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-33",
+      "paragraph": "p-040",
+      "index": 178
+    }
+  },
+  {
+    "id": "branwallader",
+    "term": "Branwallader",
+    "aliases": [
+      "Branwallader"
+    ],
+    "short": "Possibly Saint Branwalader, also called Brélade.",
+    "note": "Possibly Saint Branwalader, also called Branwallader or Brélade, an early Celtic saint associated with Cornwall and the Channel Islands. St Brélade on Jersey preserves his name.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Catholic Church in Norway · Saint Branwalader",
+        "url": "https://www.katolsk.no/biografier/historisk/branwala"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-05",
+      "paragraph": "p-043",
+      "index": 4
+    }
+  },
+  {
+    "id": "egino",
+    "term": "Egino",
+    "aliases": [
+      "Egino"
+    ],
+    "short": "Possibly Egino of Chur, a twelfth-century bishop.",
+    "note": "Possibly Egino of Chur, a twelfth-century bishop in what is now Switzerland, associated with Emperor Frederick Barbarossa.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Historical Dictionary of Switzerland · Egino",
+        "url": "https://hls-dhs-dss.ch/de/articles/012579/2000-10-30/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-07",
+      "paragraph": "p-027",
+      "index": 6
+    }
+  },
+  {
+    "id": "ia",
+    "term": "Ia",
+    "aliases": [
+      "Ia"
+    ],
+    "short": "Possibly Saint Ia, a martyr of Persia.",
+    "note": "Possibly Saint Ia, a Christian woman venerated as a martyr of the Persian persecutions under Shapur II in the fourth century.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Orthodox Church in America · Saint Ia",
+        "url": "https://www.oca.org/saints/lives/2018/09/11/102579-martyr-ia-and-9000-martyrs-with-her-of-persia"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-07",
+      "paragraph": "p-004",
+      "index": 42
+    }
+  },
+  {
+    "id": "tanco",
+    "term": "Tanco",
+    "aliases": [
+      "Tanco"
+    ],
+    "short": "Possibly Saint Tanco, traditionally a bishop of Verden.",
+    "note": "Possibly Saint Tanco, also called Tancho, an early saint traditionally counted among the bishops of Verden in Germany. His surviving life is largely legendary.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Catholic Church in Norway · Saint Tanco",
+        "url": "https://www.katolsk.no/biografier/historisk/tanco"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-35",
+      "paragraph": "p-043",
+      "index": 180
+    }
+  },
+  {
+    "id": "alcmund",
+    "term": "Alcmund",
+    "aliases": [
+      "Alcmund"
+    ],
+    "short": "Possibly Saint Alchmund, a Northumbrian prince and martyr.",
+    "note": "Possibly Saint Alchmund, also spelled Alcmund, a Northumbrian prince venerated as a martyr after his death around 800. His shrine became an important religious site at Derby.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n34/mode/2up?q=Alcmund"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-11",
+      "paragraph": "p-017",
+      "index": 46
+    }
+  },
+  {
+    "id": "gaudentius",
+    "term": "Gaudentius",
+    "aliases": [
+      "Gaudentius"
+    ],
+    "short": "Possibly Saint Gaudentius, bishop of Brescia.",
+    "note": "Possibly Saint Gaudentius of Brescia, an early Christian bishop and preacher ordained by Ambrose of Milan. A collection of his sermons survives.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "French Bishops’ Conference · Gaudentius of Brescia",
+        "url": "https://nominis.cef.fr/contenus/saint/2079/Saint-Gaudence.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-39",
+      "paragraph": "p-047",
+      "index": 184
+    }
+  },
+  {
+    "id": "pinian",
+    "term": "Pinian",
+    "aliases": [
+      "Pinian"
+    ],
+    "short": "Possibly Pinianus, a late Roman Christian ascetic.",
+    "note": "Possibly Pinianus, a late Roman Christian ascetic and husband of Melania the Younger, known for renouncing his fortune. Augustine’s letters describe attempts to persuade him to become a priest at Hippo.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Augustine · Letter 126",
+        "url": "https://www.newadvent.org/fathers/1102126.htm"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "urth-31",
+      "paragraph": "p-040",
+      "index": 176
+    }
+  },
+  {
+    "id": "ash",
+    "term": "Ash",
+    "aliases": [
+      "Ash"
+    ],
+    "short": "Possibly Askr, the first man in Norse mythology.",
+    "note": "Possibly Askr, whose name means ash tree, the first man in Norse mythology. In the Prose Edda, the gods shape him and the first woman, Embla, from trees found beside the sea.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Prose Edda · Gylfaginning IX",
+        "url": "https://sacred-texts.com/neu/pre/pre04.htm"
+      }
+    ],
+    "occurrences": 38,
+    "first": {
+      "chapter": "citadel-16",
+      "paragraph": "p-006",
+      "index": 122
+    }
+  },
+  {
+    "id": "phoenix",
+    "term": "Phoenix",
+    "aliases": [
+      "Phoenix"
+    ],
+    "short": "Possibly the phoenix, the bird of renewal.",
+    "note": "Possibly the phoenix, a fabulous bird in Greek and Roman accounts whose death produces a new phoenix. Its long life and association with the sun made it an enduring emblem of renewal.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Classical accounts of the phoenix · Theoi",
+        "url": "https://www.theoi.com/Thaumasios/Phoinix.html"
+      }
+    ],
+    "occurrences": 15,
+    "first": {
+      "chapter": "claw-05",
+      "paragraph": "p-033",
+      "index": 40
+    }
+  },
+  {
+    "id": "hesperus",
+    "term": "Hesperus",
+    "aliases": [
+      "Hesperus"
+    ],
+    "short": "Possibly Hesperos, the evening star personified.",
+    "note": "Possibly Hesperos, the Greek personification of the evening star: the planet Venus seen after sunset. Eosphoros or Phosphoros names its morning appearance.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Classical sources on Hesperos and Eosphoros · Theoi",
+        "url": "https://www.theoi.com/Titan/AsterEosphoros.html"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "claw-17",
+      "paragraph": "p-043",
+      "index": 52
+    }
+  },
+  {
+    "id": "gea",
+    "term": "Gea",
+    "aliases": [
+      "Gea"
+    ],
+    "short": "Possibly Gaia, the Greek personification of Earth.",
+    "note": "Possibly Gaia, also spelled Gaea or Gea, the Greek personification of Earth. In Hesiod’s Theogony she is a primordial deity and the mother of Ouranos and the Titans.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Hesiod and other classical sources on Gaia · Theoi",
+        "url": "https://www.theoi.com/Protogenos/Gaia.html"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "claw-24",
+      "paragraph": "p-085",
+      "index": 59
+    }
+  },
+  {
+    "id": "erinys",
+    "term": "Erinys",
+    "aliases": [
+      "Erinys"
+    ],
+    "short": "Possibly an Erinys, one of the Greek Furies.",
+    "note": "Possibly an Erinys, singular of Erinyes: the Greek avenging goddesses often called Furies in English. They punish grave offenses, especially bloodshed within a family and violations of sworn obligations.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Classical sources on the Erinyes · Theoi",
+        "url": "https://www.theoi.com/Khthonios/Erinyes.html"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "claw-24",
+      "paragraph": "p-106",
+      "index": 59
+    }
+  },
+  {
+    "id": "moira",
+    "term": "Moira",
+    "aliases": [
+      "Moira"
+    ],
+    "short": "Possibly Greek moira, an allotted share or fate.",
+    "note": "Possibly Greek moira, an allotted share and, by extension, a person’s fate. The Moirai personify destiny, usually as three goddesses who spin, measure, and cut the thread of life.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Classical sources on the Moirai · Theoi",
+        "url": "https://www.theoi.com/Daimon/Moirai.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-14",
+      "paragraph": "p-014",
+      "index": 13
+    }
+  },
+  {
+    "id": "paeon",
+    "term": "Paeon",
+    "aliases": [
+      "Paeon"
+    ],
+    "short": "Possibly Paeon, the physician of the Greek gods.",
+    "note": "Possibly Paeon, the physician of the gods in Greek epic. Related forms of the name also serve as titles of Apollo in his role as healer.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Liddell–Scott–Jones · Paiān",
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Alsj-n76532/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-25",
+      "paragraph": "p-049",
+      "index": 131
+    }
+  },
+  {
+    "id": "phlegethon",
+    "term": "Phlegethon",
+    "aliases": [
+      "Phlegethon"
+    ],
+    "short": "Possibly Phlegethon, a fiery river of the Greek underworld.",
+    "note": "Possibly Phlegethon, also called Pyriphlegethon, a river of fire in Greek accounts of the underworld. Its name is connected with burning.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Classical sources on Pyriphlegethon · Theoi",
+        "url": "https://www.theoi.com/Khthonios/PotamosPyriphlegethon.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-23",
+      "paragraph": "p-005",
+      "index": 22
+    }
+  },
+  {
+    "id": "danaides",
+    "term": "Danaides",
+    "aliases": [
+      "Danaides"
+    ],
+    "short": "Possibly the fifty daughters of Danaus.",
+    "note": "Possibly the Danaides, the fifty daughters of Danaus in Greek mythology. All but Hypermnestra killed their husbands on their wedding night; she spared Lynceus.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Aeschylus · Suppliant Women, introduction",
+        "url": "https://www.theoi.com/Text/AeschylusSuppliants.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-02",
+      "paragraph": "p-026",
+      "index": 147
+    }
+  },
+  {
+    "id": "abraxas",
+    "term": "Abraxas",
+    "aliases": [
+      "Abraxas"
+    ],
+    "short": "Possibly Abraxas, a mystical name linked with Gnosticism.",
+    "note": "Possibly Abraxas, also written Abrasax, a mystical name associated with Basilidian Gnosticism. Its Greek letter values total 365, the number of heavens in an ancient account of that teaching.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Pseudo-Tertullian · Against All Heresies 1",
+        "url": "https://www.newadvent.org/fathers/0319.htm"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-31",
+      "paragraph": "p-042",
+      "index": 66
+    }
+  },
+  {
+    "id": "adonai",
+    "term": "Adonai",
+    "aliases": [
+      "Adonai"
+    ],
+    "short": "Possibly Adonai, a Hebrew divine title meaning “my Lord.”",
+    "note": "Possibly Adonai, a Hebrew title of God conventionally translated “my Lord” or “Lord.” It names God as lord of the world.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Maimonides · Foundations of the Torah 6",
+        "url": "https://www.chabad.org/library/article_cdo/aid/904982/jewish/Yesodei-haTorah-Chapter-6.htm"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-38",
+      "paragraph": "p-010",
+      "index": 105
+    }
+  },
+  {
+    "id": "apeiron",
+    "term": "Apeiron",
+    "aliases": [
+      "Apeiron"
+    ],
+    "short": "Possibly the apeiron, Anaximander’s boundless first principle.",
+    "note": "Possibly the apeiron, the boundless or indefinite source of things in the philosophy of Anaximander. It is an inexhaustible origin from which the world’s contrasting elements emerge.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy · Presocratic Philosophy",
+        "url": "https://plato.stanford.edu/archives/spr2014/entries/presocratics/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-19",
+      "paragraph": "p-004",
+      "index": 125
+    }
+  },
+  {
+    "id": "arioch",
+    "term": "Arioch",
+    "aliases": [
+      "Arioch"
+    ],
+    "short": "Possibly Arioch, a royal officer in the Book of Daniel.",
+    "note": "Possibly Arioch, the chief of Nebuchadnezzar’s guard in Daniel 2. Charged with killing Babylon’s wise men, he instead brings Daniel before the king to interpret the royal dream.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Book of Daniel 2 · USCCB",
+        "url": "https://bible.usccb.org/bible/daniel/2"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-01",
+      "paragraph": "p-002",
+      "index": 107
+    }
+  },
+  {
+    "id": "nod",
+    "term": "Nod",
+    "aliases": [
+      "Nod"
+    ],
+    "short": "Possibly the land of Nod, Cain’s place of exile.",
+    "note": "Possibly the land of Nod in Genesis 4:16, where Cain settles east of Eden after his exile. The name echoes a Hebrew word for wandering.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Book of Genesis 4 · USCCB",
+        "url": "https://bible.usccb.org/bible/genesis/4"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "claw-24",
+      "paragraph": "p-315",
+      "index": 59
+    }
+  },
+  {
+    "id": "paraclete",
+    "term": "Paraclete",
+    "aliases": [
+      "Paraclete"
+    ],
+    "short": "Possibly the Paraclete, the advocate or helper.",
+    "note": "Possibly the Paraclete, from Greek paraklētos, an advocate or someone called to another’s aid. In the Gospel of John the title is applied to the Holy Spirit.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "John Paul II · The Holy Spirit as Paraclete",
+        "url": "https://www.vatican.va/content/john-paul-ii/en/audiences/1989/documents/hf_jp-ii_aud_19890524.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-24",
+      "paragraph": "p-086",
+      "index": 59
+    }
+  },
+  {
+    "id": "camoena",
+    "term": "Camoena",
+    "aliases": [
+      "Camoena"
+    ],
+    "short": "Possibly Camena, a Roman name for a Muse.",
+    "note": "Possibly Camena, also written Camoena, a Roman name for a Muse. The Camenae were associated with song and with a sacred grove outside Rome.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Lewis and Short · Camena",
+        "url": "https://alatius.com/ls/index.php?l=Camena"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-33",
+      "paragraph": "p-038",
+      "index": 100
+    }
+  },
+  {
+    "id": "jurupari",
+    "term": "Jurupari",
+    "aliases": [
+      "Jurupari"
+    ],
+    "short": "Possibly Yuruparí, an ancestral being in Amazonian traditions.",
+    "note": "Possibly Yuruparí, also written Jurupari, an ancestral being in traditions of the northwest Amazon. Among communities of Colombia’s Pirá Paraná River, he is described as an anaconda who lived as a person and is represented by sacred trumpets.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "UNESCO · Traditional knowledge of the jaguar shamans of Yuruparí",
+        "url": "https://ich.unesco.org/en/Decisions/6.COM/13.9"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-29",
+      "paragraph": "p-048",
+      "index": 28
+    }
+  },
+  {
+    "id": "gandharvas",
+    "term": "Gandharvas",
+    "aliases": [
+      "Gandharvas"
+    ],
+    "short": "Possibly gandharvas, celestial musicians of Indian tradition.",
+    "note": "Possibly gandharvas, celestial musicians in Indian religious traditions. They are often represented in sculpture and painting as heavenly attendants making music.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Metropolitan Museum of Art · Celestial Musician (Gandharva)",
+        "url": "https://www.metmuseum.org/art/collection/search/38142"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-15",
+      "paragraph": "p-016",
+      "index": 160
+    }
+  },
+  {
+    "id": "sefiroth",
+    "term": "Sefiroth",
+    "aliases": [
+      "Sefiroth"
+    ],
+    "short": "Possibly the sefirot, ten divine attributes in Kabbalah.",
+    "note": "Possibly the sefirot, ten attributes or emanations through which the divine is expressed in Kabbalah. They include wisdom, understanding, loving-kindness, strength, and beauty.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Chabad · The Sefirot",
+        "url": "https://www.chabad.org/library/article_cdo/aid/361885/jewish/The-Sefirot.htm"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-39",
+      "paragraph": "p-061",
+      "index": 184
+    }
+  },
+  {
+    "id": "savitar",
+    "term": "Savitar",
+    "aliases": [
+      "Savitar"
+    ],
+    "short": "Possibly Savitar, a solar deity of the Rigveda.",
+    "note": "Possibly Savitar, a Vedic deity associated with the sun’s animating power. Rigvedic hymns describe him traveling in a golden chariot, bringing light and setting living beings to rest.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Rigveda 1.35 · Savitar",
+        "url": "https://sacred-texts.com/hin/rigveda/rv01035.htm"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-35",
+      "paragraph": "p-057",
+      "index": 141
+    }
+  },
+  {
+    "id": "surya",
+    "term": "Surya",
+    "aliases": [
+      "Surya"
+    ],
+    "short": "Possibly Surya, the Hindu sun god.",
+    "note": "Possibly Surya, the Hindu sun god, praised in the Rigveda and represented in religious art as a source of light. Lotus flowers are among his characteristic attributes.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Metropolitan Museum of Art · Surya",
+        "url": "https://www.metmuseum.org/art/collection/search/75359"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-35",
+      "paragraph": "p-057",
+      "index": 141
+    }
+  },
+  {
+    "id": "caitanya",
+    "term": "Caitanya",
+    "aliases": [
+      "Caitanya"
+    ],
+    "short": "Possibly Sanskrit caitanya, consciousness or spirit.",
+    "note": "Possibly Sanskrit caitanya, meaning consciousness, intelligence, or spirit. In philosophical usage it can denote the universal consciousness or soul.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Sanskrit dictionaries · Caitanya",
+        "url": "https://kosha.sanskrit.today/word/sa/caitanya"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-02",
+      "paragraph": "p-017",
+      "index": 108
+    }
+  },
+  {
+    "id": "fauna",
+    "term": "Fauna",
+    "aliases": [
+      "Fauna"
+    ],
+    "short": "Possibly Fauna, the Roman goddess associated with Bona Dea.",
+    "note": "Possibly Fauna, an ancient Roman goddess identified with Bona Dea, the “Good Goddess.” Her worship included rites reserved for women.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Platner and Ashby · Bona Dea Subsaxana",
+        "url": "https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP%2A/Bona_Dea_Subsaxana.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-33",
+      "paragraph": "p-006",
+      "index": 178
+    }
+  },
+  {
+    "id": "venant",
+    "term": "Venant",
+    "aliases": [
+      "Venant"
+    ],
+    "short": "Possibly Venant, a traditional name associated with Regulus.",
+    "note": "Possibly Venant, a star-name associated with Regulus in Leo in historical accounts of Persian astronomy. Regulus is one of the stars grouped as the four royal stars or guardians of the sky.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Royal Astronomical Society of Canada · World Asterisms Project",
+        "url": "https://www.rasc.ca/sites/default/files/World%20Asterisms%20Project%20Handbook%20V%202024.4.pdf"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "urth-22",
+      "paragraph": "p-068",
+      "index": 167
+    }
+  },
+  {
+    "id": "barbara",
+    "term": "Barbara",
+    "aliases": [
+      "Barbara"
+    ],
+    "short": "Possibly Saint Barbara, the patron saint of artillery.",
+    "note": "Possibly Saint Barbara, a Christian martyr traditionally invoked by artillerymen and workers in other dangerous occupations. Reliable details of her life are scarce.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n60/mode/2up?q=Barbara"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-11",
+      "paragraph": "p-003",
+      "index": 10
+    }
+  },
+  {
+    "id": "oringa",
+    "term": "Oringa",
+    "aliases": [
+      "Oringa"
+    ],
+    "short": "Possibly Blessed Oringa, a medieval Tuscan religious woman.",
+    "note": "Possibly Blessed Oringa, a medieval Tuscan woman venerated for a life of religious devotion and humble domestic service.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n228/mode/2up?q=Oringa"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-41",
+      "paragraph": "p-011",
+      "index": 186
+    }
+  },
+  {
+    "id": "maxentius",
+    "term": "Maxentius",
+    "aliases": [
+      "Maxentius"
+    ],
+    "short": "Possibly Maxentius, the Roman emperor in Catherine’s legend.",
+    "note": "Possibly the Roman emperor Maxentius, who appears in the medieval legend of Saint Catherine of Alexandria as the ruler who orders her imprisonment and execution.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Metropolitan Museum of Art · Saint Catherine of Alexandria",
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Late_Medieval_Sculpture_The_Metropolitan_Museum_of_Art_Bulletin_v_64_no_4_Spring_2007.pdf"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "shadow-11",
+      "paragraph": "p-012",
+      "index": 10
+    }
+  },
+  {
+    "id": "makar",
+    "term": "Makar",
+    "aliases": [
+      "Makar"
+    ],
+    "short": "Possibly Saint Macarius the Great, an Egyptian monastic founder.",
+    "note": "Possibly Saint Macarius the Great, also called Abu Makar, an Egyptian desert ascetic associated with early monastic life. His relics are venerated at the monastery bearing his name in Wadi El-Natrun.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "ICCROM · Wadi El-Natrun and the monastery of Saint Macarius",
+        "url": "https://archives.iccrom.org/oggetti/40786-wadi-el-natrun-mra-egy-nat-005"
+      },
+      {
+        "label": "Monastery of Saint Macarius · Church and relics",
+        "url": "https://stmacariusmonastery.org/macarius-church/?lang=en"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-01",
+      "paragraph": "p-026",
+      "index": 107
+    }
+  },
+  {
+    "id": "helios",
+    "term": "Helios",
+    "aliases": [
+      "Helios"
+    ],
+    "short": "Possibly Helios, the Greek sun god.",
+    "note": "Possibly Helios, the Greek personification of the sun, traditionally pictured driving a radiant chariot across the sky.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Homeric and other classical sources on Helios · Theoi",
+        "url": "https://www.theoi.com/Titan/Helios.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-35",
+      "paragraph": "p-057",
+      "index": 141
+    }
+  },
+  {
+    "id": "hyperion",
+    "term": "Hyperion",
+    "aliases": [
+      "Hyperion"
+    ],
+    "short": "Possibly Hyperion, the Titan associated with heavenly light.",
+    "note": "Possibly Hyperion, a Greek Titan and, in Hesiod, the father of Helios the sun, Selene the moon, and Eos the dawn. Ancient poets also use Hyperion as a name for the sun itself.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Classical sources on Helios and Hyperion · Theoi",
+        "url": "https://www.theoi.com/Titan/Helios.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-35",
+      "paragraph": "p-057",
+      "index": 141
+    }
+  },
+  {
+    "id": "sirius",
+    "term": "Sirius",
+    "aliases": [
+      "Sirius"
+    ],
+    "short": "The Dog Star, the brightest star in Earth’s night sky.",
+    "note": "Sirius, the Dog Star in Canis Major, is the brightest star in Earth’s night sky. It is a binary system: the brilliant Sirius A has a faint white-dwarf companion, Sirius B.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "NASA · Sirius, the brightest star in the night",
+        "url": "https://science.nasa.gov/image-article/apod-1996-september-02-sirius-the-brightest-star-in-the-night/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-17",
+      "paragraph": "p-043",
+      "index": 52
+    }
+  },
+  {
+    "id": "goslin",
+    "term": "Goslin",
+    "aliases": [
+      "Goslin"
+    ],
+    "short": "Possibly Saint Goscelinus, abbot of San Solutore.",
+    "note": "Possibly Saint Goscelinus, also called Goslin or Gozzelinus, a Benedictine abbot of San Solutore near Turin in northern Italy.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Catholic Church in Norway · Goscelinus of Turin",
+        "url": "https://www.katolsk.no/biografier/historisk/gtorino"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-12",
+      "paragraph": "p-066",
+      "index": 118
+    }
+  },
+  {
+    "id": "pelagic",
+    "term": "pelagic",
+    "aliases": [
+      "pelagic"
+    ],
+    "short": "Of the open ocean.",
+    "note": "Relating to the open ocean, especially waters away from the shore.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "shadow-10",
+      "paragraph": "p-014",
+      "index": 9
+    }
+  },
+  {
+    "id": "reechy",
+    "term": "Reechy",
+    "aliases": [
+      "Reechy"
+    ],
+    "short": "Foul-smelling or blackened by smoke.",
+    "note": "An archaic adjective meaning foul-smelling, rancid, or blackened by smoke. It belongs to the same word family as reek.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/reechy",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "urth-36",
+      "paragraph": "p-020",
+      "index": 181
+    }
+  },
+  {
+    "id": "thalassic",
+    "term": "thalassic",
+    "aliases": [
+      "thalassic"
+    ],
+    "short": "Of the sea, especially an inland sea.",
+    "note": "Relating to the sea, particularly an inland sea and the lands around it; from Greek thalassa, sea.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/thalassic",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-42",
+      "paragraph": "p-062",
+      "index": 187
+    }
+  },
+  {
+    "id": "taffrail",
+    "term": "taffrail",
+    "aliases": [
+      "taffrail"
+    ],
+    "short": "The rail around a ship’s stern.",
+    "note": "A rail around the stern of a ship; also the upper part of a wooden ship’s stern.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/taffrail",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-27",
+      "paragraph": "p-056",
+      "index": 172
+    }
+  },
+  {
+    "id": "pyx",
+    "term": "pyx",
+    "aliases": [
+      "pyx"
+    ],
+    "short": "A small container for consecrated bread.",
+    "note": "A vessel for keeping the consecrated bread of the Eucharist. The word also names a box holding sample coins for tests of their metal and weight.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pyx",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-38",
+      "paragraph": "p-019",
+      "index": 105
+    }
+  },
+  {
+    "id": "isochronon",
+    "term": "isochronon",
+    "aliases": [
+      "isochronon"
+    ],
+    "short": "A clock designed for precise timekeeping.",
+    "note": "An older term for a clock designed to maintain exceptionally accurate time.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-34",
+      "paragraph": "p-009",
+      "index": 101
+    }
+  },
+  {
+    "id": "casern",
+    "term": "casern",
+    "aliases": [
+      "casern",
+      "caserns"
+    ],
+    "short": "A barracks or soldiers’ lodging.",
+    "note": "A barracks or building that lodges soldiers in a garrison; from French caserne.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-16",
+      "paragraph": "p-041",
+      "index": 15
+    }
+  },
+  {
+    "id": "cariole",
+    "term": "cariole",
+    "aliases": [
+      "cariole",
+      "carioles"
+    ],
+    "short": "A light carriage.",
+    "note": "A small, light carriage, commonly drawn by one horse; the term has also been used for a covered cart.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-01",
+      "paragraph": "p-002",
+      "index": 36
+    }
+  },
+  {
+    "id": "camarilla",
+    "term": "camarilla",
+    "aliases": [
+      "camarilla"
+    ],
+    "short": "A ruler’s private circle of advisers.",
+    "note": "A small, private group of advisers influencing a ruler; by extension, a secretive political clique. The Spanish word originally means a small room.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-25",
+      "paragraph": "p-048",
+      "index": 24
+    }
+  },
+  {
+    "id": "amadou",
+    "term": "amadou",
+    "aliases": [
+      "amadou"
+    ],
+    "short": "Tinder prepared from tree-growing fungi.",
+    "note": "A soft, spongy material prepared from certain fungi growing on trees and used as tinder.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-36",
+      "paragraph": "p-029",
+      "index": 142
+    }
+  },
+  {
+    "id": "agnation",
+    "term": "agnation",
+    "aliases": [
+      "agnation"
+    ],
+    "short": "Kinship traced through the male line.",
+    "note": "In older legal usage, descent or kinship reckoned through an uninterrupted male line.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-42",
+      "paragraph": "p-051",
+      "index": 187
+    }
+  },
+  {
+    "id": "velleity",
+    "term": "Velleity",
+    "aliases": [
+      "Velleity"
+    ],
+    "short": "A wish too weak to become action.",
+    "note": "A faint wish or inclination that does not develop into a decision or an effort to act. From Latin velle, to wish or will.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/velleity",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-23",
+      "paragraph": "p-033",
+      "index": 22
+    }
+  },
+  {
+    "id": "pyrexia",
+    "term": "Pyrexia",
+    "aliases": [
+      "Pyrexia"
+    ],
+    "short": "Fever.",
+    "note": "A medical term for fever, an abnormally elevated body temperature.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-02",
+      "paragraph": "p-011",
+      "index": 37
+    }
+  },
+  {
+    "id": "hypostasis",
+    "term": "hypostasis",
+    "aliases": [
+      "hypostasis",
+      "hypostases"
+    ],
+    "short": "An underlying reality or distinct divine person.",
+    "note": "The underlying substance or reality of something. In Christian theology, a distinct person of the Trinity; the plural is hypostases.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-06",
+      "paragraph": "p-108",
+      "index": 5
+    }
+  },
+  {
+    "id": "capote",
+    "term": "capote",
+    "aliases": [
+      "capote",
+      "capotes"
+    ],
+    "short": "A long cloak, often hooded.",
+    "note": "A long cloak or overcoat, especially one fitted with a hood.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-16",
+      "paragraph": "p-051",
+      "index": 15
+    }
+  },
+  {
+    "id": "loggia",
+    "term": "loggia",
+    "aliases": [
+      "loggia",
+      "loggias"
+    ],
+    "short": "A roofed gallery open on one or more sides.",
+    "note": "A covered gallery forming part of a building, open to the air along one or more sides.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "urth-41",
+      "paragraph": "p-022",
+      "index": 186
+    }
+  },
+  {
+    "id": "cornet",
+    "term": "cornet",
+    "aliases": [
+      "cornet",
+      "cornets"
+    ],
+    "short": "A cavalry standard-bearer; also a brass instrument.",
+    "note": "Historically, a junior cavalry officer who carried the troop’s standard, or the standard itself. Cornet also names a trumpet-like musical instrument.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "claw-13",
+      "paragraph": "p-042",
+      "index": 48
+    }
+  },
+  {
+    "id": "heliotrope",
+    "term": "heliotrope",
+    "aliases": [
+      "heliotrope",
+      "heliotropes"
+    ],
+    "short": "A fragrant flower; also a purple color or bloodstone.",
+    "note": "A plant of the genus Heliotropium, especially a cultivated kind with fragrant flowers. The word also names a grayish-purple color and the gemstone bloodstone.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "claw-22",
+      "paragraph": "p-009",
+      "index": 57
+    }
+  },
+  {
+    "id": "cerise",
+    "term": "cerise",
+    "aliases": [
+      "cerise"
+    ],
+    "short": "A vivid cherry-red color.",
+    "note": "A bright red resembling ripe cherries; from the French word for cherry.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "shadow-27",
+      "paragraph": "p-015",
+      "index": 26
+    }
+  },
+  {
+    "id": "peregrine",
+    "term": "peregrine",
+    "aliases": [
+      "peregrine",
+      "peregrines"
+    ],
+    "short": "A swift falcon; also wandering or foreign.",
+    "note": "A peregrine falcon, Falco peregrinus, a widely distributed bird of prey. As an adjective, peregrine means wandering or coming from abroad.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "sword-28",
+      "paragraph": "p-053",
+      "index": 95
+    }
+  },
+  {
+    "id": "vicu-a",
+    "term": "vicuña",
+    "aliases": [
+      "vicuña",
+      "vicuna",
+      "vicunas",
+      "vicuñas"
+    ],
+    "short": "A small Andean relative of the llama.",
+    "note": "A slender South American camelid native to the high Andes, prized for its very fine wool.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-17",
+      "paragraph": "p-003",
+      "index": 16
+    }
+  },
+  {
+    "id": "skewbald",
+    "term": "skewbald",
+    "aliases": [
+      "skewbald"
+    ],
+    "short": "White and another color besides black.",
+    "note": "Of a horse’s coat, marked in patches of white and a color other than black, commonly brown or chestnut.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-02",
+      "paragraph": "p-013",
+      "index": 69
+    }
+  },
+  {
+    "id": "sateen",
+    "term": "sateen",
+    "aliases": [
+      "sateen"
+    ],
+    "short": "A smooth, glossy fabric.",
+    "note": "A fabric, commonly cotton, woven to have a smooth lustrous surface resembling satin.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-12",
+      "paragraph": "p-005",
+      "index": 11
+    }
+  },
+  {
+    "id": "quadrille",
+    "term": "quadrille",
+    "aliases": [
+      "quadrille",
+      "quadrilles"
+    ],
+    "short": "A four-player card game; also a square dance.",
+    "note": "A card game for four players using a forty-card pack. The same word names a dance for four couples arranged in a square, and its accompanying music.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-07",
+      "paragraph": "p-078",
+      "index": 6
+    }
+  },
+  {
+    "id": "pentadactyl",
+    "term": "pentadactyl",
+    "aliases": [
+      "pentadactyl"
+    ],
+    "short": "Having five fingers or toes.",
+    "note": "Having five digits on a hand or foot; from Greek words for five and finger.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-21",
+      "paragraph": "p-016",
+      "index": 127
+    }
+  },
+  {
+    "id": "palatinate",
+    "term": "palatinate",
+    "aliases": [
+      "palatinate",
+      "palatinates"
+    ],
+    "short": "A territory governed by a palatine.",
+    "note": "A territory under a count palatine or another lord possessing powers normally reserved for a sovereign.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-18",
+      "paragraph": "p-017",
+      "index": 17
+    }
+  },
+  {
+    "id": "parterre",
+    "term": "parterre",
+    "aliases": [
+      "parterre",
+      "par-terre",
+      "parterres"
+    ],
+    "short": "An ornamental arrangement of garden beds.",
+    "note": "A formal arrangement of garden beds, often divided by paths and laid out in decorative patterns.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-16",
+      "paragraph": "p-040",
+      "index": 15
+    }
+  },
+  {
+    "id": "nocturne",
+    "term": "nocturne",
+    "aliases": [
+      "nocturne",
+      "nocturnes"
+    ],
+    "short": "A musical night-piece.",
+    "note": "A musical composition suggesting night, often lyrical and reflective; from French nocturne, nocturnal.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-10",
+      "paragraph": "p-012",
+      "index": 116
+    }
+  },
+  {
+    "id": "maniple",
+    "term": "maniple",
+    "aliases": [
+      "maniple",
+      "maniples"
+    ],
+    "short": "A Roman military unit; also a priest’s vestment.",
+    "note": "A subdivision of a Roman legion. The word also names a narrow ceremonial band worn over a priest’s left forearm. Latin manipulus originally means a handful.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-16",
+      "paragraph": "p-003",
+      "index": 122
+    }
+  },
+  {
+    "id": "hellebore",
+    "term": "hellebore",
+    "aliases": [
+      "hellebore",
+      "hellebores"
+    ],
+    "short": "A flowering plant, often poisonous.",
+    "note": "A plant of the genus Helleborus, including the winter-flowering Christmas rose. The name is also applied to certain unrelated poisonous plants of the genus Veratrum.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-33",
+      "paragraph": "p-003",
+      "index": 100
+    }
+  },
+  {
+    "id": "gravid",
+    "term": "gravid",
+    "aliases": [
+      "gravid"
+    ],
+    "short": "Pregnant; figuratively full or heavy with meaning.",
+    "note": "Pregnant or carrying eggs; figuratively full, teeming, or laden with meaning. The word comes from Latin gravidus, related to gravis, heavy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gravid",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-23",
+      "paragraph": "p-016",
+      "index": 168
+    }
+  },
+  {
+    "id": "fibula",
+    "term": "fibula",
+    "aliases": [
+      "fibula",
+      "fibulae"
+    ],
+    "short": "A fastening brooch; also the outer lower-leg bone.",
+    "note": "A pin or brooch used to fasten clothing. In anatomy, the fibula is the slender outer bone of the lower leg.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-19",
+      "paragraph": "p-008",
+      "index": 18
+    }
+  },
+  {
+    "id": "espalier",
+    "term": "espalier",
+    "aliases": [
+      "espalier",
+      "espaliers"
+    ],
+    "short": "A tree trained flat against a support.",
+    "note": "A tree or shrub trained to grow flat against a wall or framework; also the supporting framework.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-21",
+      "paragraph": "p-051",
+      "index": 56
+    }
+  },
+  {
+    "id": "eschatology",
+    "term": "eschatology",
+    "aliases": [
+      "eschatology"
+    ],
+    "short": "Religious teaching about last things.",
+    "note": "The branch of theology concerned with death, judgment, resurrection, and the ultimate destiny of humanity or the world.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-49",
+      "paragraph": "p-007",
+      "index": 194
+    }
+  },
+  {
+    "id": "equerry",
+    "term": "equerry",
+    "aliases": [
+      "equerry",
+      "equerries"
+    ],
+    "short": "An officer responsible for a noble household’s horses.",
+    "note": "An officer of a royal or noble household traditionally responsible for its horses and stables.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-25",
+      "paragraph": "p-007",
+      "index": 170
+    }
+  },
+  {
+    "id": "dulcimer",
+    "term": "dulcimer",
+    "aliases": [
+      "dulcimer",
+      "dulcimers"
+    ],
+    "short": "A stringed instrument with a resonating soundboard.",
+    "note": "A stringed instrument whose strings stretch across a resonating soundboard. A hammered dulcimer is struck with small hammers; an Appalachian dulcimer is plucked or strummed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dulcimer",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-19",
+      "paragraph": "p-008",
+      "index": 18
+    }
+  },
+  {
+    "id": "dryad",
+    "term": "dryad",
+    "aliases": [
+      "dryad",
+      "dryads"
+    ],
+    "short": "A tree or woodland nymph.",
+    "note": "A female spirit of trees or woodland in Greek mythology.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-10",
+      "paragraph": "p-060",
+      "index": 45
+    }
+  },
+  {
+    "id": "condottiere",
+    "term": "condottiere",
+    "aliases": [
+      "condottiere",
+      "condottieri"
+    ],
+    "short": "An Italian mercenary commander.",
+    "note": "A leader who hired out a company of soldiers in medieval or Renaissance Italy; plural condottieri.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-19",
+      "paragraph": "p-028",
+      "index": 125
+    }
+  },
+  {
+    "id": "comfit",
+    "term": "comfit",
+    "aliases": [
+      "comfit",
+      "comfits"
+    ],
+    "short": "A sweet made by coating fruit or seeds in sugar.",
+    "note": "A piece of fruit, a seed, a nut, or another small edible item preserved or coated in sugar.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-18",
+      "paragraph": "p-026",
+      "index": 17
+    }
+  },
+  {
+    "id": "cohort",
+    "term": "cohort",
+    "aliases": [
+      "cohort",
+      "cohorts"
+    ],
+    "short": "A subdivision of a Roman legion.",
+    "note": "A major unit within a Roman legion, conventionally one of ten; more generally, an organized company or band.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "citadel-35",
+      "paragraph": "p-063",
+      "index": 141
+    }
+  },
+  {
+    "id": "citron",
+    "term": "citron",
+    "aliases": [
+      "citron",
+      "citrons"
+    ],
+    "short": "A thick-rinded citrus fruit.",
+    "note": "A large aromatic citrus fruit, Citrus medica, whose thick rind is often candied; also the tree bearing it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-16",
+      "paragraph": "p-040",
+      "index": 15
+    }
+  },
+  {
+    "id": "chandler",
+    "term": "chandler",
+    "aliases": [
+      "chandler",
+      "chandlers"
+    ],
+    "short": "A candle-maker or dealer in supplies.",
+    "note": "A maker or seller of candles. With a qualifying word, a dealer in other provisions, as in ship chandler.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-35",
+      "paragraph": "p-010",
+      "index": 34
+    }
+  },
+  {
+    "id": "celeriac",
+    "term": "celeriac",
+    "aliases": [
+      "celeriac"
+    ],
+    "short": "Celery grown for its swollen edible base.",
+    "note": "A form of celery cultivated for its rounded, swollen base, eaten as a root vegetable.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-05",
+      "paragraph": "p-001",
+      "index": 150
+    }
+  },
+  {
+    "id": "cantle",
+    "term": "cantle",
+    "aliases": [
+      "cantle",
+      "cantles"
+    ],
+    "short": "The raised rear part of a saddle.",
+    "note": "The upward-curving rear part of a saddle, opposite the pommel; an older general meaning is a piece or portion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-35",
+      "paragraph": "p-049",
+      "index": 34
+    }
+  },
+  {
+    "id": "burgess",
+    "term": "burgess",
+    "aliases": [
+      "burgess",
+      "burgesses"
+    ],
+    "short": "A citizen or representative of a borough.",
+    "note": "A citizen or freeman of a borough; also, historically, its representative in a legislative assembly.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-02",
+      "paragraph": "p-018",
+      "index": 1
+    }
+  },
+  {
+    "id": "belvedere",
+    "term": "belvedere",
+    "aliases": [
+      "belvedere",
+      "belvederes"
+    ],
+    "short": "A building or gallery designed for a view.",
+    "note": "A small structure, tower, or open part of a building placed to command a broad or attractive view.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-11",
+      "paragraph": "p-064",
+      "index": 46
+    }
+  },
+  {
+    "id": "atelier",
+    "term": "atelier",
+    "aliases": [
+      "atelier",
+      "ateliers"
+    ],
+    "short": "An artist’s studio or workshop.",
+    "note": "French for a workshop or studio, especially one used by an artist or craftsperson.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-26",
+      "paragraph": "p-011",
+      "index": 132
+    }
+  },
+  {
+    "id": "theologoumenon",
+    "term": "Theologoumenon",
+    "aliases": [
+      "Theologoumenon"
+    ],
+    "short": "A theological opinion outside established doctrine.",
+    "note": "A theological assertion offered as an opinion rather than as an authoritative doctrine or revealed truth.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/theologoumenon",
+        "label": "Collins English Dictionary"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "claw-10",
+      "paragraph": "p-035",
+      "index": 45
+    }
+  },
+  {
+    "id": "numen",
+    "term": "Numen",
+    "aliases": [
+      "Numen"
+    ],
+    "short": "A divine presence or power.",
+    "note": "A divine presence or spiritual power associated with a place, thing, or natural phenomenon. Latin numen can mean a divine will or command, originally a nod of assent.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/numen",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-21",
+      "paragraph": "p-011",
+      "index": 20
+    }
+  },
+  {
+    "id": "ylem",
+    "term": "Ylem",
+    "aliases": [
+      "Ylem"
+    ],
+    "short": "The primordial matter of cosmological theories.",
+    "note": "A name for the original substance from which matter and the elements were thought to develop, ultimately related to Greek hylē, matter.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ylem",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-27",
+      "paragraph": "p-016",
+      "index": 94
+    }
+  },
+  {
+    "id": "urbis",
+    "term": "Urbis",
+    "aliases": [
+      "Urbis"
+    ],
+    "short": "Possibly Latin: of a city.",
+    "note": "Possibly Latin urbis, the genitive of urbs: of a city or walled town.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n49895/",
+        "label": "Lewis and Short · Perseus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-33",
+      "paragraph": "p-019",
+      "index": 178
+    }
+  },
+  {
+    "id": "serenus",
+    "term": "Serenus",
+    "aliases": [
+      "Serenus"
+    ],
+    "short": "Latin: clear, tranquil, or serene.",
+    "note": "Latin serenus means clear or cloudless, and figuratively calm, cheerful, or serene.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0060%3Aentry%3Dserenus",
+        "label": "Lewis · Elementary Latin Dictionary"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-01",
+      "paragraph": "p-030",
+      "index": 146
+    }
+  },
+  {
+    "id": "pascua",
+    "term": "Pascua",
+    "aliases": [
+      "Pascua"
+    ],
+    "short": "Possibly Latin: pastures.",
+    "note": "Possibly Latin pascua, the plural of pascuum, a pasture or grazing ground.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.mobot.org/mobot/latindict/keyDetail.aspx?keyWord=pascuum",
+        "label": "Missouri Botanical Garden · Botanical Latin"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-13",
+      "paragraph": "p-003",
+      "index": 119
+    }
+  },
+  {
+    "id": "fors",
+    "term": "Fors",
+    "aliases": [
+      "Fors"
+    ],
+    "short": "Latin: chance or luck.",
+    "note": "Latin fors means chance, luck, or accident; it is related to fortuna, fortune.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n18623/",
+        "label": "Lewis and Short · Perseus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-15",
+      "paragraph": "p-012",
+      "index": 50
+    }
+  },
+  {
+    "id": "xenagie",
+    "term": "xenagie",
+    "aliases": [
+      "xenagie"
+    ],
+    "short": "An ancient Greek military formation.",
+    "note": "French xénagie is an older name for a syntagma, a formation in the Greek phalanx. Its roots are Greek xenos, foreigner or foreign soldier, and agein, to lead.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.littre.org/definition/x%C3%A9nagie",
+        "label": "Littré · Dictionnaire de la langue française"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "shadow-27",
+      "paragraph": "p-001",
+      "index": 26
+    }
+  },
+  {
+    "id": "braquemar",
+    "term": "braquemar",
+    "aliases": [
+      "braquemar"
+    ],
+    "short": "Possibly braquemart, a broad short sword.",
+    "note": "Possibly French braquemart or braquemard, a short sword with a broad, heavy blade.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.cnrtl.fr/definition/braquemart",
+        "label": "CNRTL · Trésor de la langue française"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-28",
+      "paragraph": "p-018",
+      "index": 27
+    }
+  },
+  {
+    "id": "lux-dei-vitae-viam-monstrat",
+    "term": "Lux dei vitae viam monstrat",
+    "aliases": [
+      "Lux dei vitae viam monstrat"
+    ],
+    "short": "Latin: God’s light shows the way of life.",
+    "note": "Latin for God’s light shows the way of life. This sundial motto is recorded on an 1891 dial at the Santa Barbara Mission in California.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://digital.library.upenn.edu/women/gatty/sundials/321.html",
+        "label": "Gatty · The Book of Sun-dials (1900)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-04",
+      "paragraph": "p-038",
+      "index": 3
+    }
+  },
+  {
+    "id": "felicibus-brevis-miseris-hora-longa",
+    "term": "Felicibus brevis, miseris hora longa",
+    "aliases": [
+      "Felicibus brevis, miseris hora longa"
+    ],
+    "short": "Latin: the hour is short for the happy, long for the unhappy.",
+    "note": "A Latin sundial motto meaning that an hour is short for the happy and long for the miserable.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dizionario-italiano.it/dizionario-italiano-brocardi.php?browse=2474",
+        "label": "Olivetti · Latin sayings"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-04",
+      "paragraph": "p-038",
+      "index": 3
+    }
+  },
+  {
+    "id": "aspice-ut-aspiciar",
+    "term": "Aspice ut aspiciar",
+    "aliases": [
+      "Aspice ut aspiciar"
+    ],
+    "short": "Latin: look upon me so that I may be seen.",
+    "note": "Latin for look upon me so that I may be seen. It appears on the sundial emblem associated with Louise de Vaudémont, queen of France.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Historic_devices%2C_badges%2C_and_war-cries_%28IA_cu31924029796939%29.pdf",
+        "label": "Bury Palliser · Historic Devices, Badges, and War-cries (1870)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-04",
+      "paragraph": "p-038",
+      "index": 3
+    }
+  },
+  {
+    "id": "hieros",
+    "term": "Hieros",
+    "aliases": [
+      "Hieros"
+    ],
+    "short": "Greek: sacred or holy.",
+    "note": "Greek hieros means sacred, holy, or consecrated to a deity.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.billmounce.com/greek-dictionary/hieros",
+        "label": "Mounce · Greek New Testament Dictionary"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "urth-21",
+      "paragraph": "p-012",
+      "index": 166
+    }
+  },
+  {
+    "id": "incusus",
+    "term": "Incusus",
+    "aliases": [
+      "Incusus"
+    ],
+    "short": "Latin: hammered or forged.",
+    "note": "Latin incusus is a form of incudere, to forge or shape by hammering. It can describe metal worked with a hammer or a stone dressed for a mill.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.latinlexicon.org/definition.php?p1=2027995&p2=i",
+        "label": "Lewis and Short · Latin Lexicon"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-24",
+      "paragraph": "p-154",
+      "index": 59
+    }
+  },
+  {
+    "id": "hypogeon",
+    "term": "Hypogeon",
+    "aliases": [
+      "Hypogeon"
+    ],
+    "short": "Possibly hypogeum, an underground chamber.",
+    "note": "Possibly hypogeum, the underground part of an ancient building or a subterranean burial chamber.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hypogeum",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-18",
+      "paragraph": "p-004",
+      "index": 17
+    }
+  },
+  {
+    "id": "quasar",
+    "term": "Quasar",
+    "aliases": [
+      "Quasar"
+    ],
+    "short": "An exceptionally luminous galactic nucleus.",
+    "note": "An extremely bright galactic nucleus powered by matter falling toward a supermassive black hole. The surrounding heated material can outshine the rest of its galaxy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-quasars/",
+        "label": "NASA · Hubble Quasars"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-30",
+      "paragraph": "p-007",
+      "index": 29
+    }
+  },
+  {
+    "id": "catodon",
+    "term": "Catodon",
+    "aliases": [
+      "Catodon"
+    ],
+    "short": "A scientific name associated with the sperm whale.",
+    "note": "Catodon occurs in the scientific name Physeter catodon, used for the sperm whale. Its Greek elements mean lower and tooth, referring to the teeth of the lower jaw.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://animaldiversity.org/accounts/Physeter_catodon/",
+        "label": "University of Michigan · Animal Diversity Web"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-43",
+      "paragraph": "p-043",
+      "index": 188
+    }
+  },
+  {
+    "id": "murene",
+    "term": "Murene",
+    "aliases": [
+      "Murene"
+    ],
+    "short": "Possibly French murène, a moray eel.",
+    "note": "Possibly French murène, a moray eel; the word comes from Latin muraena. Morays are elongated predatory marine fish.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.cnrtl.fr/definition/mur%C3%A8ne",
+        "label": "CNRTL · Trésor de la langue française"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-32",
+      "paragraph": "p-032",
+      "index": 99
+    }
+  },
+  {
+    "id": "zelezo",
+    "term": "Zelezo",
+    "aliases": [
+      "Zelezo"
+    ],
+    "short": "Possibly Czech železo: iron.",
+    "note": "Possibly Czech železo, meaning iron, the metal.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://m.dict.cc/czech-english/%C5%BEelezo.html",
+        "label": "dict.cc · Czech–English Dictionary"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-04",
+      "paragraph": "p-051",
+      "index": 149
+    }
+  },
+  {
+    "id": "hierro",
+    "term": "Hierro",
+    "aliases": [
+      "Hierro"
+    ],
+    "short": "Spanish: iron.",
+    "note": "Spanish hierro means iron, the metal; it descends from Latin ferrum.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dle.rae.es/hierro",
+        "label": "Real Academia Española · Diccionario de la lengua española"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-08",
+      "paragraph": "p-033",
+      "index": 153
+    }
+  },
+  {
+    "id": "hadid",
+    "term": "Hadid",
+    "aliases": [
+      "Hadid"
+    ],
+    "short": "Arabic: iron.",
+    "note": "Arabic ḥadīd means iron, the metal.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.lisaanmasry.org/online/word.php?cn=3&id=5378",
+        "label": "Lisaan Masry · Arabic Dictionary"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-08",
+      "paragraph": "p-033",
+      "index": 153
+    }
+  },
+  {
+    "id": "conexa",
+    "term": "Conexa",
+    "aliases": [
+      "Conexa"
+    ],
+    "short": "Possibly Latin: joined or connected.",
+    "note": "Possibly Latin conexa, a feminine form meaning joined, bound together, or connected, from conectere.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n10062/",
+        "label": "Lewis and Short · Perseus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-10",
+      "paragraph": "p-032",
+      "index": 116
+    }
+  },
+  {
+    "id": "theoanthropos",
+    "term": "Theoanthropos",
+    "aliases": [
+      "Theoanthropos"
+    ],
+    "short": "Possibly Greek theanthropos: god-man.",
+    "note": "Possibly Greek theanthropos, god-man, combining theos, god, and anthropos, human being. The related adjective theanthropic means both divine and human.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://ahdictionary.com/word/search.html?q=Theanthropic",
+        "label": "American Heritage Dictionary"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-21",
+      "paragraph": "p-012",
+      "index": 20
+    }
+  },
+  {
+    "id": "rose-the-graced",
+    "term": "Rose the Graced",
+    "aliases": [
+      "Rose the Graced",
+      "Rose the Chaste"
+    ],
+    "short": "Possibly Fair Rosamund and her punning epitaph.",
+    "note": "Possibly Rosamund Clifford, the mistress of Henry II of England. A traditional epitaph contrasts Latin rosa mundi, rose of the world, with rosa munda, a pure rose. Brewer translates the contrast as Rose the graced and Rose the chaste.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://words.fromoldbooks.org/Brewer-DictionaryOfPhraseAndFable/r/rosamond.html",
+        "label": "Brewer · Dictionary of Phrase and Fable (1895)"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-10",
+      "paragraph": "p-035",
+      "index": 9
+    }
+  },
+  {
+    "id": "whorl",
+    "term": "whorl",
+    "short": "A spiral, coil, or ring.",
+    "note": "A spiral or coil; also an arrangement of leaves, petals, or other parts in a ring around an axis.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/whorl",
+        "label": "Reference"
+      }
+    ],
+    "aliases": [
+      "whorl",
+      "whorls",
+      "Whorl",
+      "Whorls"
+    ],
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-15",
+      "paragraph": "p-055",
+      "index": 14
+    }
+  },
+  {
+    "id": "hanger",
+    "term": "hanger",
+    "aliases": [
+      "hanger",
+      "hangers"
+    ],
+    "short": "A short sword, formerly carried by sailors.",
+    "note": "A short sword worn at the side, historically used by sailors.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · hanger",
+        "url": "https://www.merriam-webster.com/dictionary/hanger"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-07",
+      "paragraph": "p-036",
+      "index": 42
+    }
+  },
+  {
+    "id": "jakes",
+    "term": "jakes",
+    "aliases": [
+      "jakes"
+    ],
+    "short": "An old word for a privy or toilet.",
+    "note": "An old English name for a privy or latrine.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)",
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-12",
+      "paragraph": "p-076",
+      "index": 118
+    }
+  },
+  {
+    "id": "virescent",
+    "term": "virescent",
+    "aliases": [
+      "virescent",
+      "Virescent"
+    ],
+    "short": "Greenish or becoming green.",
+    "note": "Virescent means greenish or becoming green. It comes from Latin virescere, to grow green.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/virescent"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-45",
+      "paragraph": "p-040",
+      "index": 190
+    }
   }
 ]

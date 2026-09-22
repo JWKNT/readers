@@ -100,3 +100,11 @@ existing entries, for 1,175 notes across the three readers. The margins explain
 external meanings and possible namesakes, with “Possibly” in both short and full
 notes where the connection is tentative. Research decisions and validation are
 recorded in `NOTES-V10.md`. Original prose and paragraph addresses are preserved.
+
+## Version 11
+
+A further external-reference sweep adds 268 series-specific notes and revises 19
+existing entries, bringing the total to 1,443. It expands saints, names, language
+roots, historical vocabulary, and other externally attested references. Tentative
+connections begin “Possibly”; prose and paragraph addresses are preserved.
+[NOTES-V11.md](NOTES-V11.md) records the research and validation.

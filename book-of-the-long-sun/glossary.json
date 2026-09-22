@@ -734,9 +734,11 @@
     ],
     "aliases": [
       "prolocutor",
-      "prolocutors"
+      "prolocutors",
+      "Proloctor"
     ],
     "occurrences": 95,
+    "possible": false,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-149",
@@ -1293,9 +1295,11 @@
       }
     ],
     "aliases": [
-      "Gelada"
+      "Gelada",
+      "Galada"
     ],
     "occurrences": 32,
+    "possible": false,
     "first": {
       "chapter": "calde-03",
       "paragraph": "p-342",
@@ -2063,18 +2067,19 @@
   {
     "id": "mucor",
     "term": "Mucor",
-    "short": "A genus of molds.",
-    "note": "Mucor comprises molds that produce spores in rounded or cylindrical spore cases. The Latin name means mold.",
+    "short": "A genus of molds with rounded spore cases.",
+    "note": "Mucor is a genus of molds that form fluffy colonies and produce spores in rounded spore cases at the tips of upright stalks.",
     "sources": [
       {
-        "url": "https://www.merriam-webster.com/medical/mucor",
-        "label": "Merriam-Webster"
+        "label": "Adelaide University: Mycology Online",
+        "url": "https://mycology.adelaide.edu.au/fungal-descriptions-and-antifungal-susceptibility/mucoromycota-pin-moulds/mucor"
       }
     ],
     "aliases": [
       "Mucor"
     ],
     "occurrences": 198,
+    "possible": false,
     "first": {
       "chapter": "nightside-05",
       "paragraph": "p-056",
@@ -3102,12 +3107,16 @@
   {
     "id": "asphodella",
     "term": "Asphodella",
-    "short": "Possibly asphodel, a flowering plant.",
-    "note": "Possibly asphodel, a plant of the genus Asphodelus with tall spikes of lily-like flowers.",
+    "short": "Possibly asphodel, a flower associated with the Greek underworld.",
+    "note": "Possibly asphodel, a plant of the genus Asphodelus with tall spikes of pale flowers. In Homer’s Odyssey, the spirits of the dead inhabit a meadow of asphodel.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/asphodel",
         "label": "Merriam-Webster · asphodel"
+      },
+      {
+        "label": "Homer, Odyssey 24.1–14",
+        "url": "https://www.theoi.com/Text/HomerOdyssey24.html"
       }
     ],
     "aliases": [],
@@ -3314,12 +3323,16 @@
   {
     "id": "hyacinth",
     "term": "Hyacinth",
-    "short": "A fragrant flowering bulb.",
-    "note": "A bulbous plant bearing clusters of fragrant flowers, especially Hyacinthus orientalis. Hyacinth is also an old gemstone name.",
+    "short": "A fragrant bulb; also a name with a Greek flower myth.",
+    "note": "A fragrant bulbous plant, especially Hyacinthus orientalis; also an old gemstone name. In Greek myth, Apollo’s beloved Hyacinthus died after a discus struck him, and a flower grew from his blood.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/hyacinth",
         "label": "Word meaning · Merriam-Webster"
+      },
+      {
+        "label": "Ovid, Metamorphoses 10.162–219",
+        "url": "https://www.theoi.com/Text/OvidMetamorphoses10.html"
       }
     ],
     "aliases": [
@@ -3402,12 +3415,16 @@
   {
     "id": "mint",
     "term": "Mint",
-    "short": "An aromatic herb.",
-    "note": "An aromatic herb of the genus Mentha, including peppermint and spearmint.",
+    "short": "An aromatic herb with a Greek transformation myth.",
+    "note": "An aromatic herb of the genus Mentha, including peppermint and spearmint. In Greek myth, the nymph Menthe was transformed by Persephone into fragrant mint.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/mint",
         "label": "Word meaning · Merriam-Webster"
+      },
+      {
+        "label": "Ovid, Metamorphoses 10.728–731",
+        "url": "https://www.theoi.com/Text/OvidMetamorphoses10.html"
       }
     ],
     "aliases": [
@@ -5646,6 +5663,1339 @@
       "chapter": "exodus-16",
       "paragraph": "p-256",
       "index": 52
+    }
+  },
+  {
+    "id": "sigada",
+    "term": "Sigada",
+    "aliases": [
+      "Sigada"
+    ],
+    "short": "Possibly Arabic sajjāda, a prayer rug.",
+    "note": "Possibly Arabic sajjāda, a rug or mat used for prostration during Muslim prayer. The related verb sajada means to prostrate oneself.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Platts and Rekhta dictionaries · sajjāda",
+        "url": "https://www.rekhta.org/urdudictionary?keyword=sajjaada"
+      },
+      {
+        "label": "Rekhta Dictionary · sajda",
+        "url": "https://www.rekhtadictionary.com/meaning-of-sajda"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "exodus-02",
+      "paragraph": "p-178",
+      "index": 38
+    }
+  },
+  {
+    "id": "silah",
+    "term": "Silah",
+    "aliases": [
+      "Silah"
+    ],
+    "short": "Possibly Arabic silāḥ, a weapon or arms.",
+    "note": "Possibly Arabic silāḥ, a weapon, arms, or military equipment; its plural is asliḥa.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Rekhta Dictionary · silāḥ",
+        "url": "https://rekhtadictionary.com/meaning-of-silaah"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-04",
+      "paragraph": "p-061",
+      "index": 40
+    }
+  },
+  {
+    "id": "ganymedia",
+    "term": "Ganymedia",
+    "aliases": [
+      "Ganymedia"
+    ],
+    "short": "Possibly Ganymeda, an ancient name for Hebe.",
+    "note": "Possibly Ganymeda, the name under which the Greek goddess Hebe was worshipped at Phlius. Hebe was cupbearer to the gods and wife of Heracles.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Pausanias, Description of Greece 2.13.3",
+        "url": "https://www.theoi.com/Text/Pausanias2A.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-06",
+      "paragraph": "p-031",
+      "index": 5
+    }
+  },
+  {
+    "id": "hymenocallis",
+    "term": "Hymenocallis",
+    "aliases": [
+      "Hymenocallis"
+    ],
+    "short": "The spider-lily genus; Greek for beautiful membrane.",
+    "note": "A genus of bulbous American plants in the amaryllis family, commonly called spider lilies. The name combines Greek hymēn, membrane, and kalos, beautiful, referring to the flower’s central cup.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "NC State Extension · Hymenocallis",
+        "url": "https://plants.ces.ncsu.edu/plants/hymenocallis/common-name/peruvian-daffodil/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-07",
+      "paragraph": "p-231",
+      "index": 19
+    }
+  },
+  {
+    "id": "magnesia",
+    "term": "Magnesia",
+    "aliases": [
+      "Magnesia"
+    ],
+    "short": "Magnesium oxide, a white heat-resistant compound.",
+    "note": "Magnesium oxide, MgO, a white compound used in heat-resistant materials, cements, and insulation.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · magnesia",
+        "url": "https://www.merriam-webster.com/dictionary/magnesia"
+      },
+      {
+        "label": "Merriam-Webster · magnesium oxide",
+        "url": "https://www.merriam-webster.com/dictionary/magnesium%20oxide"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "exodus-16",
+      "paragraph": "p-195",
+      "index": 52
+    }
+  },
+  {
+    "id": "ur",
+    "term": "Ur",
+    "aliases": [
+      "Ur"
+    ],
+    "short": "Possibly Ur, the ancient Sumerian city.",
+    "note": "Possibly Ur, a Sumerian city in southern Mesopotamia, in present-day Iraq. Its principal deity was the moon god Nanna.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Penn Museum · Ur and Its Treasures",
+        "url": "https://www.penn.museum/sites/expedition/ur-and-its-treasures/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-06",
+      "paragraph": "p-308",
+      "index": 18
+    }
+  },
+  {
+    "id": "gayfeather",
+    "term": "Gayfeather",
+    "aliases": [
+      "Gayfeather"
+    ],
+    "short": "Liatris, also called blazing-star.",
+    "note": "A common name for Liatris, or blazing-star: North American plants of the daisy family, often bearing dense clusters of purple flowers.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "NC State Extension · Liatris scariosa",
+        "url": "https://plants.ces.ncsu.edu/plants/liatris-scariosa/"
+      },
+      {
+        "label": "NC State Extension · Liatris spicata",
+        "url": "https://plants.ces.ncsu.edu/plants/liatris-spicata/common-name/dense-button-snakeroot/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-193",
+      "index": 28
+    }
+  },
+  {
+    "id": "macaque",
+    "term": "Macaque",
+    "aliases": [
+      "Macaque"
+    ],
+    "short": "A monkey of the genus Macaca.",
+    "note": "A monkey of the genus Macaca, a chiefly Asian group with sturdy bodies and tails ranging from long to almost absent.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · macaque",
+        "url": "https://www.merriam-webster.com/dictionary/macaque"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-193",
+      "index": 28
+    }
+  },
+  {
+    "id": "marten",
+    "term": "Marten",
+    "aliases": [
+      "Marten"
+    ],
+    "short": "A slender woodland mammal of the weasel family.",
+    "note": "A carnivorous mammal of the genus Martes, with a slender body and thick fur. Martens inhabit northern forests and are agile tree climbers.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · marten",
+        "url": "https://www.merriam-webster.com/dictionary/marten"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-09",
+      "paragraph": "p-004",
+      "index": 8
+    }
+  },
+  {
+    "id": "femur",
+    "term": "Femur",
+    "aliases": [
+      "Femur"
+    ],
+    "short": "The thighbone; Latin femur means thigh.",
+    "note": "The thighbone, extending from hip to knee; femur is Latin for thigh. In insect anatomy the same word names a major segment of the leg.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · femur",
+        "url": "https://www.merriam-webster.com/dictionary/femur"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-06",
+      "paragraph": "p-025",
+      "index": 31
+    }
+  },
+  {
+    "id": "gecko",
+    "term": "Gecko",
+    "aliases": [
+      "Gecko"
+    ],
+    "short": "A small lizard, usually active at night.",
+    "note": "A small, chiefly tropical lizard. Many geckos hunt insects at night.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · gecko",
+        "url": "https://www.merriam-webster.com/dictionary/gecko"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "calde-05",
+      "paragraph": "p-421",
+      "index": 30
+    }
+  },
+  {
+    "id": "bream",
+    "term": "Bream",
+    "aliases": [
+      "Bream"
+    ],
+    "short": "A name for several kinds of freshwater and marine fish.",
+    "note": "The European bream, Abramis brama, is a deep-bodied freshwater fish of the carp family. Bream also names sea breams and certain freshwater sunfishes.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · bream",
+        "url": "https://www.merriam-webster.com/dictionary/bream"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "calde-02",
+      "paragraph": "p-070",
+      "index": 27
+    }
+  },
+  {
+    "id": "rook",
+    "term": "Rook",
+    "aliases": [
+      "Rook"
+    ],
+    "short": "Corvus frugilegus, a crow that nests in colonies.",
+    "note": "An Old World crow, Corvus frugilegus, which commonly builds nests in large groups in trees.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · rook",
+        "url": "https://www.merriam-webster.com/dictionary/rook"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "calde-09",
+      "paragraph": "p-265",
+      "index": 34
+    }
+  },
+  {
+    "id": "holly",
+    "term": "Holly",
+    "aliases": [
+      "Holly"
+    ],
+    "short": "An Ilex shrub or tree, often with red berries.",
+    "note": "A shrub or tree of the genus Ilex. Familiar hollies have evergreen leaves with prickly margins and bright red berries.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · holly",
+        "url": "https://www.merriam-webster.com/dictionary/holly"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-193",
+      "index": 28
+    }
+  },
+  {
+    "id": "aloe",
+    "term": "Aloe",
+    "aliases": [
+      "Aloe"
+    ],
+    "short": "A succulent plant with thick, fleshy leaves.",
+    "note": "A plant of the genus Aloe, a chiefly African group of succulents with rosettes of thick leaves and spikes or clusters of tubular flowers.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · aloe",
+        "url": "https://www.merriam-webster.com/dictionary/aloe"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-193",
+      "index": 28
+    }
+  },
+  {
+    "id": "flax",
+    "term": "Flax",
+    "aliases": [
+      "Flax"
+    ],
+    "short": "Linum, the plant that supplies linen fibre and linseed.",
+    "note": "A plant of the genus Linum. Common flax, Linum usitatissimum, has blue flowers and is grown for its stem fibres and oil-bearing seeds.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · flax",
+        "url": "https://www.merriam-webster.com/dictionary/flax"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-12",
+      "paragraph": "p-006",
+      "index": 24
+    }
+  },
+  {
+    "id": "ishsh",
+    "term": "’ishsh",
+    "aliases": [
+      "’ishsh"
+    ],
+    "short": "Possibly Arabic ʿishsh, a nest.",
+    "note": "Possibly Arabic ʿishsh, a nest, especially a bird’s nest.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "H. F. S. Amery, English–Arabic Vocabulary (1905) · nest",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/English-Arabic_vocabulary_for_the_use_of_officials_in_the_Anglo-Egyptian_Sudan_%281905%29.pdf"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-14",
+      "paragraph": "p-126",
+      "index": 50
+    }
+  },
+  {
+    "id": "betifham-arabi",
+    "term": "Betifham ’arabi",
+    "aliases": [
+      "Betifham ’arabi"
+    ],
+    "short": "Arabic: Do you understand Arabic?",
+    "note": "An Arabic question meaning Do you understand Arabic? The verb is a colloquial form of fahima, to understand; ʿarabī means Arabic.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Defense Language Institute · Saudi Arabic Headstart, Module I Lesson 2",
+        "url": "https://yojik.eu/languages/DLI/Arabic-Saudi/Headstart-Texts/DLI%20Saudi%20Arabic%20Headstart.pdf"
+      },
+      {
+        "label": "Open Linguistics · colloquial Arabic bi-tifham ʿarabi",
+        "url": "https://d-nb.info/1341268055/34"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-05",
+      "paragraph": "p-037",
+      "index": 41
+    }
+  },
+  {
+    "id": "jefe",
+    "term": "jefe",
+    "aliases": [
+      "jefe",
+      "Jefe"
+    ],
+    "short": "Spanish for chief or boss.",
+    "note": "Spanish for a chief, leader, or person in command. The word comes through French chef.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Real Academia Española · jefe",
+        "url": "https://dle.rae.es/jefe"
+      }
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-085",
+      "index": 0
+    }
+  },
+  {
+    "id": "abram",
+    "term": "abram",
+    "aliases": [
+      "abram",
+      "Abram"
+    ],
+    "short": "Old cant for mad or insane.",
+    "note": "An old cant adjective meaning mad or insane. An Abram-man was a wandering beggar who pretended to be mentally ill to obtain alms.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Farmer and Henley, Slang and Its Analogues · Abraham-man",
+        "url": "https://www.horntip.com/html/books_%26_MSS/1890s/1890-1909_slang_and_its_analogues_%28HCs%29/1909_vol_1_%28revised%29/1909_slang_and_its_analogues_vol_1_revised.pdf"
+      },
+      {
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)",
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html"
+      }
+    ],
+    "occurrences": 20,
+    "first": {
+      "chapter": "nightside-11",
+      "paragraph": "p-090",
+      "index": 10
+    }
+  },
+  {
+    "id": "bing",
+    "term": "bing",
+    "aliases": [
+      "bing",
+      "Bing"
+    ],
+    "short": "Old cant: to go or depart.",
+    "note": "A verb in historical thieves’ cant meaning to go or leave; bing avast meant to go away.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)",
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-12",
+      "paragraph": "p-402",
+      "index": 48
+    }
+  },
+  {
+    "id": "cant",
+    "term": "cant",
+    "aliases": [
+      "cant"
+    ],
+    "short": "A group’s private vocabulary; also insincere talk.",
+    "note": "The specialized speech of thieves, beggars, or another social group, often intended to be opaque to outsiders. Cant can also mean affected or insincere talk.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · cant",
+        "url": "https://www.merriam-webster.com/dictionary/cant"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-056",
+      "index": 1
+    }
+  },
+  {
+    "id": "cully",
+    "term": "cully",
+    "aliases": [
+      "cully",
+      "cullys",
+      "cullies"
+    ],
+    "short": "A fool or easily deceived person.",
+    "note": "An old cant word for a fool or dupe, especially someone readily cheated out of money. Related cull and cully also serve as familiar terms for a man or fellow.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)",
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html"
+      }
+    ],
+    "occurrences": 25,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-038",
+      "index": 1
+    }
+  },
+  {
+    "id": "dell",
+    "term": "dell",
+    "aliases": [
+      "dell",
+      "dells"
+    ],
+    "short": "Old cant for a young woman.",
+    "note": "A historical cant term for a girl or young woman, especially among itinerant or criminal communities; it could also refer to a prostitute.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)",
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html"
+      }
+    ],
+    "occurrences": 19,
+    "first": {
+      "chapter": "nightside-11",
+      "paragraph": "p-088",
+      "index": 10
+    }
+  },
+  {
+    "id": "doss",
+    "term": "doss",
+    "aliases": [
+      "doss",
+      "dosses"
+    ],
+    "short": "A rough bed; to sleep or bed down.",
+    "note": "British slang for a makeshift bed or lodging, and a verb meaning to sleep or settle down for the night.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · doss",
+        "url": "https://www.merriam-webster.com/dictionary/doss"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "exodus-02",
+      "paragraph": "p-084",
+      "index": 38
+    }
+  },
+  {
+    "id": "gammon",
+    "term": "gammon",
+    "aliases": [
+      "gammon"
+    ],
+    "short": "Old slang for chatter, humbug, or deceptive talk.",
+    "note": "An old slang word for talk or chatter, especially nonsense or deception; as a verb, to fool someone or pretend.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · gammon",
+        "url": "https://www.merriam-webster.com/dictionary/gammon"
+      },
+      {
+        "label": "Green’s Dictionary of Slang · gammon",
+        "url": "https://greensdictofslang.com/entry/5wwmkti"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "lake-05",
+      "paragraph": "p-164",
+      "index": 17
+    }
+  },
+  {
+    "id": "hanger",
+    "term": "hanger",
+    "aliases": [
+      "hanger",
+      "hangers"
+    ],
+    "short": "A short sword, formerly carried by sailors.",
+    "note": "A short sword worn at the side, historically used by sailors.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · hanger",
+        "url": "https://www.merriam-webster.com/dictionary/hanger"
+      }
+    ],
+    "occurrences": 31,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-055",
+      "index": 2
+    }
+  },
+  {
+    "id": "hog-grubber",
+    "term": "hog grubber",
+    "aliases": [
+      "hog grubber"
+    ],
+    "short": "Old slang for a miserly person.",
+    "note": "A contemptuous historical term for a stingy, mean-spirited person.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)",
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-283",
+      "index": 42
+    }
+  },
+  {
+    "id": "jakes",
+    "term": "jakes",
+    "aliases": [
+      "jakes"
+    ],
+    "short": "An old word for a privy or toilet.",
+    "note": "An old English name for a privy or latrine.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)",
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-08",
+      "paragraph": "p-024",
+      "index": 44
+    }
+  },
+  {
+    "id": "kate",
+    "term": "kate",
+    "aliases": [
+      "kate"
+    ],
+    "short": "A lock-pick or false key in thieves’ cant.",
+    "note": "A historical thieves’ term for a picklock: a tool or false key used to open a lock without its proper key.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)",
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "exodus-12",
+      "paragraph": "p-396",
+      "index": 48
+    }
+  },
+  {
+    "id": "ken",
+    "term": "ken",
+    "aliases": [
+      "ken"
+    ],
+    "short": "A house or lodging in old thieves’ cant.",
+    "note": "An old cant word for a house, particularly a lodging or meeting place used by thieves and other itinerant people.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)",
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "lake-05",
+      "paragraph": "p-220",
+      "index": 17
+    }
+  },
+  {
+    "id": "lushes",
+    "term": "lushes",
+    "aliases": [
+      "lushes"
+    ],
+    "short": "Drinks alcohol, in old slang.",
+    "note": "The verb lush means to drink alcohol. Historical slang also used lush as a noun for strong beer.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)",
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-283",
+      "index": 42
+    }
+  },
+  {
+    "id": "go-the-nose",
+    "term": "go the nose",
+    "aliases": [
+      "go the nose"
+    ],
+    "short": "To act as an informer.",
+    "note": "To inform on someone or give evidence against accomplices. In old criminal cant, a nose was an informer.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)",
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-189",
+      "index": 2
+    }
+  },
+  {
+    "id": "padken",
+    "term": "padken",
+    "aliases": [
+      "padken"
+    ],
+    "short": "Possibly padding-ken, a lodging-house used by thieves.",
+    "note": "Possibly a shortened form of padding-ken, a low lodging-house frequented by thieves. Ken was cant for a house, and pad could mean to travel on foot or rob on the road.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Chambers’s Twentieth Century Dictionary · pad",
+        "url": "https://readingroo.ms/3/8/6/9/38699/38699-h/38699-h.htm"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-360",
+      "index": 42
+    }
+  },
+  {
+    "id": "plonk",
+    "term": "plonk",
+    "aliases": [
+      "plonk"
+    ],
+    "short": "Cheap or poor-quality wine.",
+    "note": "A colloquial term for cheap, inferior wine, especially in British and Australian English.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · plonk",
+        "url": "https://www.merriam-webster.com/dictionary/plonk"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-321",
+      "index": 42
+    }
+  },
+  {
+    "id": "putt",
+    "term": "putt",
+    "aliases": [
+      "putt",
+      "putts"
+    ],
+    "short": "Possibly putz, a Yiddish-derived insult for a fool.",
+    "note": "Possibly putz, an English insult borrowed from Yiddish for a foolish, ineffectual, or objectionable person; it is also a vulgar term for the penis.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Merriam-Webster · putz",
+        "url": "https://www.merriam-webster.com/dictionary/putz"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-102",
+      "index": 0
+    }
+  },
+  {
+    "id": "pure-quill",
+    "term": "pure quill",
+    "aliases": [
+      "pure quill"
+    ],
+    "short": "The genuine article; something of the best quality.",
+    "note": "An older colloquial phrase for the real thing, or a person or object of exceptional quality.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Farmer and Henley, Slang and Its Analogues · pure quill",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Farmer_-_Slang_and_its_analogues_past_and_present_-_Volume_5.pdf"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "exodus-11",
+      "paragraph": "p-147",
+      "index": 47
+    }
+  },
+  {
+    "id": "scavy",
+    "term": "scavy",
+    "aliases": [
+      "scavy"
+    ],
+    "short": "Possibly scavey: knowledge, sense, or understanding.",
+    "note": "Possibly scavey, an older spelling related to savvy: knowledge or practical understanding, also used as a verb meaning to know.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)",
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html"
+      },
+      {
+        "label": "Merriam-Webster · savvy",
+        "url": "https://www.merriam-webster.com/dictionary/savvy"
+      }
+    ],
+    "occurrences": 11,
+    "first": {
+      "chapter": "nightside-04",
+      "paragraph": "p-072",
+      "index": 3
+    }
+  },
+  {
+    "id": "scut",
+    "term": "scut",
+    "aliases": [
+      "scut"
+    ],
+    "short": "A short upright tail, as on a rabbit or hare.",
+    "note": "The short tail of a rabbit, hare, or similar animal.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · scut",
+        "url": "https://www.merriam-webster.com/dictionary/scut"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-04",
+      "paragraph": "p-212",
+      "index": 16
+    }
+  },
+  {
+    "id": "snaffle",
+    "term": "snaffle",
+    "aliases": [
+      "snaffle"
+    ],
+    "short": "To obtain by stealth or irregular means.",
+    "note": "An informal verb meaning to seize, pilfer, or acquire something by devious means.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · snaffle",
+        "url": "https://www.merriam-webster.com/dictionary/snaffle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-03",
+      "paragraph": "p-187",
+      "index": 15
+    }
+  },
+  {
+    "id": "snoodge",
+    "term": "snoodge",
+    "aliases": [
+      "snoodge"
+    ],
+    "short": "Old cant: to snooze or sleep.",
+    "note": "A historical variant of snooze, meaning to sleep.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)",
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-04",
+      "paragraph": "p-070",
+      "index": 3
+    }
+  },
+  {
+    "id": "sojer",
+    "term": "sojer",
+    "aliases": [
+      "sojer",
+      "sojers"
+    ],
+    "short": "A dialect spelling of soldier.",
+    "note": "A colloquial spelling of soldier, also found as sodger or soger in Scots and regional English.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Scottish National Dictionary · sodger",
+        "url": "https://www.dsl.ac.uk/entry/snd00082630"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "calde-02",
+      "paragraph": "p-201",
+      "index": 27
+    }
+  },
+  {
+    "id": "twig",
+    "term": "twig",
+    "aliases": [
+      "twig",
+      "twigged",
+      "twigging"
+    ],
+    "short": "To notice, recognize, or understand.",
+    "note": "An informal verb meaning to observe or catch on to something. Historical cant used twig for noticing a person or seeing through a situation.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)",
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html"
+      },
+      {
+        "label": "Merriam-Webster · twig",
+        "url": "https://www.merriam-webster.com/dictionary/twig"
+      }
+    ],
+    "occurrences": 11,
+    "first": {
+      "chapter": "lake-05",
+      "paragraph": "p-131",
+      "index": 17
+    }
+  },
+  {
+    "id": "chit",
+    "term": "chit",
+    "aliases": [
+      "chit"
+    ],
+    "short": "A dismissive word for a child or young woman.",
+    "note": "An old term for a child, or an impudent young woman; it descends from Middle English chitte, a kitten or cub.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · chit",
+        "url": "https://www.merriam-webster.com/dictionary/chit"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-11",
+      "paragraph": "p-027",
+      "index": 10
+    }
+  },
+  {
+    "id": "gelt",
+    "term": "gelt",
+    "aliases": [
+      "gelt"
+    ],
+    "short": "Money; from German, Dutch, and Yiddish forms.",
+    "note": "A colloquial word for money, related to German and Dutch geld and Yiddish gelt.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster · gelt",
+        "url": "https://www.merriam-webster.com/dictionary/gelt"
+      }
+    ],
+    "occurrences": 17,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-049",
+      "index": 1
+    }
+  },
+  {
+    "id": "peery",
+    "term": "peery",
+    "aliases": [
+      "peery"
+    ],
+    "short": "Watchful, suspicious, or inquisitive.",
+    "note": "An old cant adjective for being suspicious, observant, or alert to possible danger.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)",
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-279",
+      "index": 42
+    }
+  },
+  {
+    "id": "lily",
+    "term": "lily",
+    "aliases": [
+      "lily",
+      "Lily"
+    ],
+    "short": "A flowering bulb; also pure or unsullied.",
+    "note": "A name for various flowering plants, especially Lilium, with its scaly bulbs and conspicuous flowers. As an adjective, lily can mean pure or unsullied, as in the phrase lily truth.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Dictionary.com · lily",
+        "url": "https://www.dictionary.com/browse/lily"
+      }
+    ],
+    "occurrences": 45,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-107",
+      "index": 0
+    }
+  },
+  {
+    "id": "cits",
+    "term": "cits",
+    "aliases": [
+      "cits"
+    ],
+    "short": "An old term for citizens or townspeople.",
+    "note": "A plural of cit, an old shortened form of citizen, particularly a resident of London.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)",
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-05",
+      "paragraph": "p-220",
+      "index": 17
+    }
+  },
+  {
+    "id": "cornet",
+    "term": "cornet",
+    "aliases": [
+      "cornet",
+      "cornets"
+    ],
+    "short": "A cavalry standard-bearer; also a brass instrument.",
+    "note": "Historically, a junior cavalry officer who carried the troop’s standard, or the standard itself. Cornet also names a trumpet-like musical instrument.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 8,
+    "first": {
+      "chapter": "calde-06",
+      "paragraph": "p-358",
+      "index": 31
+    }
+  },
+  {
+    "id": "peregrine",
+    "term": "peregrine",
+    "aliases": [
+      "peregrine",
+      "peregrines"
+    ],
+    "short": "A swift falcon; also wandering or foreign.",
+    "note": "A peregrine falcon, Falco peregrinus, a widely distributed bird of prey. As an adjective, peregrine means wandering or coming from abroad.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-07",
+      "paragraph": "p-246",
+      "index": 6
+    }
+  },
+  {
+    "id": "gravid",
+    "term": "gravid",
+    "aliases": [
+      "gravid"
+    ],
+    "short": "Pregnant; figuratively full or heavy with meaning.",
+    "note": "Pregnant or carrying eggs; figuratively full, teeming, or laden with meaning. The word comes from Latin gravidus, related to gravis, heavy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gravid",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-11",
+      "paragraph": "p-114",
+      "index": 10
+    }
+  },
+  {
+    "id": "citron",
+    "term": "citron",
+    "aliases": [
+      "citron",
+      "citrons"
+    ],
+    "short": "A thick-rinded citrus fruit.",
+    "note": "A large aromatic citrus fruit, Citrus medica, whose thick rind is often candied; also the tree bearing it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-002",
+      "index": 1
+    }
+  },
+  {
+    "id": "bombazine",
+    "term": "bombazine",
+    "aliases": [
+      "bombazine",
+      "Bombazine"
+    ],
+    "short": "A twilled fabric traditionally made of silk and worsted wool.",
+    "note": "Bombazine is a twill fabric traditionally woven with silk threads lengthwise and worsted wool crosswise. The name also denotes a black silk twill.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/bombazine"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "lake-05",
+      "paragraph": "p-048",
+      "index": 17
+    }
+  },
+  {
+    "id": "coracle",
+    "term": "coracle",
+    "aliases": [
+      "coracle",
+      "Coracle",
+      "coracles"
+    ],
+    "short": "A small skin- or fabric-covered boat.",
+    "note": "A coracle is a small, lightweight boat made from a framework covered with hide or waterproof fabric. The word comes from Welsh corwgl.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/coracle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-afterward",
+      "paragraph": "p-007",
+      "index": 54
+    }
+  },
+  {
+    "id": "cresset",
+    "term": "cresset",
+    "aliases": [
+      "cresset",
+      "cressets",
+      "Cresset",
+      "Cressets"
+    ],
+    "short": "A metal vessel holding a lighted fire.",
+    "note": "A cresset is a metal cup or basket that holds burning fuel for illumination, mounted on a pole or hung like a lantern.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/cresset"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-010",
+      "index": 1
+    }
+  },
+  {
+    "id": "crenels",
+    "term": "crenels",
+    "aliases": [
+      "crenels",
+      "crenel",
+      "Crenels"
+    ],
+    "short": "The gaps between a battlement’s raised sections.",
+    "note": "Crenels are the gaps between the raised sections of a battlement. The raised sections are called merlons.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/crenel"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "nightside-05",
+      "paragraph": "p-010",
+      "index": 4
+    }
+  },
+  {
+    "id": "virescent",
+    "term": "virescent",
+    "aliases": [
+      "virescent",
+      "Virescent"
+    ],
+    "short": "Greenish or becoming green.",
+    "note": "Virescent means greenish or becoming green. It comes from Latin virescere, to grow green.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/virescent"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-01",
+      "paragraph": "p-214",
+      "index": 26
+    }
+  },
+  {
+    "id": "loganstone",
+    "term": "Loganstone",
+    "aliases": [
+      "Loganstone"
+    ],
+    "short": "A delicately balanced rock that can be made to sway.",
+    "note": "A logan stone is a large rock balanced so delicately on its base that a small force can make it sway. It is also called a rocking stone.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Collins English Dictionary",
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/rocking-stone"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-10",
+      "paragraph": "p-137",
+      "index": 22
     }
   }
 ]

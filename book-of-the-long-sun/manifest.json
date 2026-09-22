@@ -343,12 +343,24 @@
           "paragraph": "p-070"
         },
         {
+          "term": "jefe",
+          "paragraph": "p-085"
+        },
+        {
           "term": "cull",
           "paragraph": "p-090"
         },
         {
+          "term": "putt",
+          "paragraph": "p-102"
+        },
+        {
           "term": "grison",
           "paragraph": "p-102"
+        },
+        {
+          "term": "lily",
+          "paragraph": "p-107"
         },
         {
           "term": "prolocutor",
@@ -564,6 +576,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "citron",
+          "paragraph": "p-002"
+        },
+        {
           "term": "pampa",
           "paragraph": "p-003"
         },
@@ -620,6 +636,10 @@
           "paragraph": "p-009"
         },
         {
+          "term": "cresset",
+          "paragraph": "p-010"
+        },
+        {
           "term": "ayuntamiento",
           "paragraph": "p-014"
         },
@@ -636,6 +656,10 @@
           "paragraph": "p-021"
         },
         {
+          "term": "cully",
+          "paragraph": "p-038"
+        },
+        {
           "term": "chough",
           "paragraph": "p-042"
         },
@@ -648,11 +672,19 @@
           "paragraph": "p-047"
         },
         {
+          "term": "gelt",
+          "paragraph": "p-049"
+        },
+        {
           "term": "prolocutor",
           "paragraph": "p-052"
         },
         {
           "term": "cull",
+          "paragraph": "p-056"
+        },
+        {
+          "term": "cant",
           "paragraph": "p-056"
         },
         {
@@ -1101,6 +1133,10 @@
           "paragraph": "p-052"
         },
         {
+          "term": "hanger",
+          "paragraph": "p-055"
+        },
+        {
           "term": "augur",
           "paragraph": "p-065"
         },
@@ -1149,6 +1185,10 @@
           "paragraph": "p-123"
         },
         {
+          "term": "cully",
+          "paragraph": "p-135"
+        },
+        {
           "term": "scylla",
           "paragraph": "p-136"
         },
@@ -1173,12 +1213,20 @@
           "paragraph": "p-184"
         },
         {
+          "term": "go-the-nose",
+          "paragraph": "p-189"
+        },
+        {
           "term": "kalan",
           "paragraph": "p-197"
         },
         {
           "term": "gurnard",
           "paragraph": "p-197"
+        },
+        {
+          "term": "lily",
+          "paragraph": "p-199"
         },
         {
           "term": "chenille",
@@ -1419,6 +1467,10 @@
           "paragraph": "p-002"
         },
         {
+          "term": "lily",
+          "paragraph": "p-002"
+        },
+        {
           "term": "augur",
           "paragraph": "p-005"
         },
@@ -1467,8 +1519,24 @@
           "paragraph": "p-070"
         },
         {
+          "term": "snoodge",
+          "paragraph": "p-070"
+        },
+        {
           "term": "fussock",
           "paragraph": "p-070"
+        },
+        {
+          "term": "scavy",
+          "paragraph": "p-072"
+        },
+        {
+          "term": "hanger",
+          "paragraph": "p-074"
+        },
+        {
+          "term": "cant",
+          "paragraph": "p-078"
         },
         {
           "term": "scylla",
@@ -1718,6 +1786,10 @@
         },
         {
           "term": "merlon",
+          "paragraph": "p-010"
+        },
+        {
+          "term": "crenels",
           "paragraph": "p-010"
         },
         {
@@ -2152,6 +2224,10 @@
           "paragraph": "p-031"
         },
         {
+          "term": "ganymedia",
+          "paragraph": "p-031"
+        },
+        {
           "term": "catamitus",
           "paragraph": "p-031"
         },
@@ -2572,6 +2648,10 @@
           "paragraph": "p-121"
         },
         {
+          "term": "lily",
+          "paragraph": "p-125"
+        },
+        {
           "term": "dimber",
           "paragraph": "p-126"
         },
@@ -2600,6 +2680,10 @@
           "paragraph": "p-191"
         },
         {
+          "term": "gelt",
+          "paragraph": "p-210"
+        },
+        {
           "term": "alambrera",
           "paragraph": "p-225"
         },
@@ -2618,6 +2702,10 @@
         {
           "term": "sere",
           "paragraph": "p-236"
+        },
+        {
+          "term": "peregrine",
+          "paragraph": "p-246"
         }
       ],
       "words": 8328,
@@ -3237,8 +3325,16 @@
           "paragraph": "p-002"
         },
         {
+          "term": "marten",
+          "paragraph": "p-004"
+        },
+        {
           "term": "pike",
           "paragraph": "p-022"
+        },
+        {
+          "term": "jefe",
+          "paragraph": "p-028"
         },
         {
           "term": "phaea",
@@ -3742,6 +3838,10 @@
           "paragraph": "p-089"
         },
         {
+          "term": "cully",
+          "paragraph": "p-089"
+        },
+        {
           "term": "chenille",
           "paragraph": "p-093"
         },
@@ -3782,8 +3882,16 @@
           "paragraph": "p-149"
         },
         {
+          "term": "jefe",
+          "paragraph": "p-156"
+        },
+        {
           "term": "sellaria",
           "paragraph": "p-160"
+        },
+        {
+          "term": "lily",
+          "paragraph": "p-179"
         },
         {
           "term": "pike",
@@ -4039,8 +4147,16 @@
           "paragraph": "p-024"
         },
         {
+          "term": "lily",
+          "paragraph": "p-025"
+        },
+        {
           "term": "patera",
           "paragraph": "p-026"
+        },
+        {
+          "term": "chit",
+          "paragraph": "p-027"
         },
         {
           "term": "sphigx",
@@ -4061,6 +4177,14 @@
         {
           "term": "cull",
           "paragraph": "p-085"
+        },
+        {
+          "term": "dell",
+          "paragraph": "p-088"
+        },
+        {
+          "term": "abram",
+          "paragraph": "p-090"
         },
         {
           "term": "hierax",
@@ -4093,6 +4217,10 @@
         {
           "term": "teasel",
           "paragraph": "p-112"
+        },
+        {
+          "term": "gravid",
+          "paragraph": "p-114"
         },
         {
           "term": "campion",
@@ -4500,6 +4628,10 @@
         {
           "term": "tartaros",
           "paragraph": "p-161"
+        },
+        {
+          "term": "lily",
+          "paragraph": "p-163"
         }
       ],
       "words": 6428,
@@ -4749,6 +4881,10 @@
         {
           "term": "xiphias",
           "paragraph": "p-067"
+        },
+        {
+          "term": "hanger",
+          "paragraph": "p-087"
         },
         {
           "term": "orpine",
@@ -5082,6 +5218,10 @@
         {
           "term": "auk",
           "paragraph": "p-041"
+        },
+        {
+          "term": "hanger",
+          "paragraph": "p-043"
         },
         {
           "term": "teasel",
@@ -5796,6 +5936,10 @@
           "paragraph": "p-112"
         },
         {
+          "term": "putt",
+          "paragraph": "p-125"
+        },
+        {
           "term": "dimber",
           "paragraph": "p-140"
         },
@@ -5830,6 +5974,22 @@
         {
           "term": "fisc",
           "paragraph": "p-187"
+        },
+        {
+          "term": "snaffle",
+          "paragraph": "p-187"
+        },
+        {
+          "term": "lily",
+          "paragraph": "p-189"
+        },
+        {
+          "term": "cully",
+          "paragraph": "p-189"
+        },
+        {
+          "term": "dell",
+          "paragraph": "p-189"
         }
       ],
       "words": 7253,
@@ -6214,6 +6374,10 @@
           "paragraph": "p-069"
         },
         {
+          "term": "cant",
+          "paragraph": "p-069"
+        },
+        {
           "term": "kypris",
           "paragraph": "p-087"
         },
@@ -6250,6 +6414,10 @@
           "paragraph": "p-140"
         },
         {
+          "term": "putt",
+          "paragraph": "p-154"
+        },
+        {
           "term": "cubit",
           "paragraph": "p-158"
         },
@@ -6266,6 +6434,10 @@
           "paragraph": "p-205"
         },
         {
+          "term": "scut",
+          "paragraph": "p-212"
+        },
+        {
           "term": "aquila",
           "paragraph": "p-223"
         },
@@ -6276,6 +6448,10 @@
         {
           "term": "tessellated",
           "paragraph": "p-244"
+        },
+        {
+          "term": "lily",
+          "paragraph": "p-245"
         },
         {
           "term": "lemur",
@@ -6653,6 +6829,10 @@
           "paragraph": "p-035"
         },
         {
+          "term": "bombazine",
+          "paragraph": "p-048"
+        },
+        {
           "term": "cenoby",
           "paragraph": "p-048"
         },
@@ -6681,6 +6861,14 @@
           "paragraph": "p-131"
         },
         {
+          "term": "twig",
+          "paragraph": "p-131"
+        },
+        {
+          "term": "scavy",
+          "paragraph": "p-131"
+        },
+        {
           "term": "hackum",
           "paragraph": "p-132"
         },
@@ -6689,12 +6877,28 @@
           "paragraph": "p-134"
         },
         {
+          "term": "dell",
+          "paragraph": "p-147"
+        },
+        {
           "term": "juzgado",
           "paragraph": "p-147"
         },
         {
           "term": "viron",
           "paragraph": "p-159"
+        },
+        {
+          "term": "gammon",
+          "paragraph": "p-164"
+        },
+        {
+          "term": "abram",
+          "paragraph": "p-176"
+        },
+        {
+          "term": "hanger",
+          "paragraph": "p-177"
         },
         {
           "term": "mort",
@@ -6729,12 +6933,28 @@
           "paragraph": "p-217"
         },
         {
+          "term": "lily",
+          "paragraph": "p-218"
+        },
+        {
           "term": "dilly",
           "paragraph": "p-218"
         },
         {
+          "term": "cits",
+          "paragraph": "p-220"
+        },
+        {
+          "term": "ken",
+          "paragraph": "p-220"
+        },
+        {
           "term": "simuliid",
           "paragraph": "p-223"
+        },
+        {
+          "term": "cully",
+          "paragraph": "p-224"
         },
         {
           "term": "gulo",
@@ -7181,6 +7401,10 @@
           "paragraph": "p-036"
         },
         {
+          "term": "cully",
+          "paragraph": "p-068"
+        },
+        {
           "term": "dreoilin",
           "paragraph": "p-071"
         },
@@ -7287,6 +7511,10 @@
         {
           "term": "schola",
           "paragraph": "p-295"
+        },
+        {
+          "term": "ur",
+          "paragraph": "p-308"
         },
         {
           "term": "urbs",
@@ -7621,6 +7849,10 @@
           "paragraph": "p-028"
         },
         {
+          "term": "hanger",
+          "paragraph": "p-034"
+        },
+        {
           "term": "augur",
           "paragraph": "p-039"
         },
@@ -7739,6 +7971,10 @@
         {
           "term": "hierax",
           "paragraph": "p-225"
+        },
+        {
+          "term": "hymenocallis",
+          "paragraph": "p-231"
         }
       ],
       "words": 6386,
@@ -8029,6 +8265,10 @@
         {
           "term": "dimber",
           "paragraph": "p-024"
+        },
+        {
+          "term": "lily",
+          "paragraph": "p-026"
         },
         {
           "term": "hackum",
@@ -8751,6 +8991,10 @@
           "paragraph": "p-032"
         },
         {
+          "term": "cully",
+          "paragraph": "p-035"
+        },
+        {
           "term": "dimber",
           "paragraph": "p-035"
         },
@@ -8853,6 +9097,10 @@
         {
           "term": "schola",
           "paragraph": "p-127"
+        },
+        {
+          "term": "loganstone",
+          "paragraph": "p-137"
         },
         {
           "term": "azoth",
@@ -9136,6 +9384,10 @@
         {
           "term": "oreb",
           "paragraph": "p-023"
+        },
+        {
+          "term": "gammon",
+          "paragraph": "p-024"
         },
         {
           "term": "patera",
@@ -9624,6 +9876,10 @@
           "paragraph": "p-006"
         },
         {
+          "term": "flax",
+          "paragraph": "p-006"
+        },
+        {
           "term": "orpine",
           "paragraph": "p-006"
         },
@@ -10109,6 +10365,10 @@
         {
           "term": "ayuntamiento",
           "paragraph": "p-034"
+        },
+        {
+          "term": "hanger",
+          "paragraph": "p-054"
         },
         {
           "term": "auk",
@@ -10613,6 +10873,10 @@
           "paragraph": "p-165"
         },
         {
+          "term": "hanger",
+          "paragraph": "p-167"
+        },
+        {
           "term": "scup",
           "paragraph": "p-172"
         },
@@ -10633,12 +10897,20 @@
           "paragraph": "p-214"
         },
         {
+          "term": "virescent",
+          "paragraph": "p-214"
+        },
+        {
           "term": "chough",
           "paragraph": "p-216"
         },
         {
           "term": "dimber",
           "paragraph": "p-224"
+        },
+        {
+          "term": "lily",
+          "paragraph": "p-242"
         }
       ],
       "words": 6706,
@@ -11107,6 +11379,14 @@
           "paragraph": "p-067"
         },
         {
+          "term": "bream",
+          "paragraph": "p-070"
+        },
+        {
+          "term": "bombazine",
+          "paragraph": "p-071"
+        },
+        {
           "term": "pike",
           "paragraph": "p-075"
         },
@@ -11155,6 +11435,10 @@
           "paragraph": "p-156"
         },
         {
+          "term": "jefe",
+          "paragraph": "p-160"
+        },
+        {
           "term": "whorl",
           "paragraph": "p-164"
         },
@@ -11163,8 +11447,20 @@
           "paragraph": "p-180"
         },
         {
+          "term": "sojer",
+          "paragraph": "p-201"
+        },
+        {
           "term": "orchid",
           "paragraph": "p-213"
+        },
+        {
+          "term": "abram",
+          "paragraph": "p-236"
+        },
+        {
+          "term": "hanger",
+          "paragraph": "p-236"
         },
         {
           "term": "hammerstone",
@@ -11833,6 +12129,10 @@
           "paragraph": "p-023"
         },
         {
+          "term": "cully",
+          "paragraph": "p-027"
+        },
+        {
           "term": "whorl",
           "paragraph": "p-029"
         },
@@ -11869,6 +12169,10 @@
           "paragraph": "p-086"
         },
         {
+          "term": "lily",
+          "paragraph": "p-087"
+        },
+        {
           "term": "molpe",
           "paragraph": "p-088"
         },
@@ -11901,12 +12205,20 @@
           "paragraph": "p-114"
         },
         {
+          "term": "dell",
+          "paragraph": "p-114"
+        },
+        {
           "term": "limna",
           "paragraph": "p-120"
         },
         {
           "term": "manteion",
           "paragraph": "p-120"
+        },
+        {
+          "term": "gelt",
+          "paragraph": "p-122"
         },
         {
           "term": "bandeau",
@@ -11919,6 +12231,10 @@
         {
           "term": "automaton",
           "paragraph": "p-149"
+        },
+        {
+          "term": "hanger",
+          "paragraph": "p-152"
         },
         {
           "term": "bustard",
@@ -11949,7 +12265,15 @@
           "paragraph": "p-185"
         },
         {
+          "term": "gayfeather",
+          "paragraph": "p-193"
+        },
+        {
           "term": "cavy",
+          "paragraph": "p-193"
+        },
+        {
+          "term": "aloe",
           "paragraph": "p-193"
         },
         {
@@ -11965,6 +12289,10 @@
           "paragraph": "p-193"
         },
         {
+          "term": "holly",
+          "paragraph": "p-193"
+        },
+        {
           "term": "hart",
           "paragraph": "p-193"
         },
@@ -11974,6 +12302,10 @@
         },
         {
           "term": "aster",
+          "paragraph": "p-193"
+        },
+        {
+          "term": "macaque",
           "paragraph": "p-193"
         },
         {
@@ -12025,6 +12357,10 @@
           "paragraph": "p-266"
         },
         {
+          "term": "sojer",
+          "paragraph": "p-272"
+        },
+        {
           "term": "chough",
           "paragraph": "p-295"
         },
@@ -12045,12 +12381,24 @@
           "paragraph": "p-340"
         },
         {
+          "term": "ken",
+          "paragraph": "p-340"
+        },
+        {
           "term": "gelada",
+          "paragraph": "p-342"
+        },
+        {
+          "term": "twig",
           "paragraph": "p-342"
         },
         {
           "term": "mort",
           "paragraph": "p-354"
+        },
+        {
+          "term": "abram",
+          "paragraph": "p-356"
         },
         {
           "term": "bufe",
@@ -13272,6 +13620,10 @@
           "paragraph": "p-004"
         },
         {
+          "term": "bream",
+          "paragraph": "p-004"
+        },
+        {
           "term": "silk",
           "paragraph": "p-004"
         },
@@ -13468,6 +13820,10 @@
           "paragraph": "p-230"
         },
         {
+          "term": "bombazine",
+          "paragraph": "p-240"
+        },
+        {
           "term": "orilla",
           "paragraph": "p-250"
         },
@@ -13482,6 +13838,10 @@
         {
           "term": "phaea",
           "paragraph": "p-262"
+        },
+        {
+          "term": "hanger",
+          "paragraph": "p-265"
         },
         {
           "term": "sphigx",
@@ -13522,6 +13882,10 @@
         {
           "term": "potto",
           "paragraph": "p-378"
+        },
+        {
+          "term": "gecko",
+          "paragraph": "p-421"
         },
         {
           "term": "ermine",
@@ -13992,6 +14356,10 @@
           "paragraph": "p-025"
         },
         {
+          "term": "femur",
+          "paragraph": "p-025"
+        },
+        {
           "term": "schola",
           "paragraph": "p-025"
         },
@@ -14028,8 +14396,20 @@
           "paragraph": "p-052"
         },
         {
+          "term": "abram",
+          "paragraph": "p-065"
+        },
+        {
+          "term": "lily",
+          "paragraph": "p-065"
+        },
+        {
           "term": "theodidact",
           "paragraph": "p-068"
+        },
+        {
+          "term": "twig",
+          "paragraph": "p-080"
         },
         {
           "term": "phaea",
@@ -14062,6 +14442,10 @@
         {
           "term": "cull",
           "paragraph": "p-147"
+        },
+        {
+          "term": "hanger",
+          "paragraph": "p-153"
         },
         {
           "term": "pas",
@@ -14170,6 +14554,10 @@
         {
           "term": "lemur",
           "paragraph": "p-352"
+        },
+        {
+          "term": "cornet",
+          "paragraph": "p-358"
         },
         {
           "term": "mattak",
@@ -14537,6 +14925,10 @@
           "paragraph": "p-045"
         },
         {
+          "term": "gecko",
+          "paragraph": "p-045"
+        },
+        {
           "term": "auk",
           "paragraph": "p-054"
         },
@@ -14561,12 +14953,20 @@
           "paragraph": "p-058"
         },
         {
+          "term": "gelt",
+          "paragraph": "p-062"
+        },
+        {
           "term": "kypris",
           "paragraph": "p-064"
         },
         {
           "term": "scylla",
           "paragraph": "p-064"
+        },
+        {
+          "term": "lily",
+          "paragraph": "p-065"
         },
         {
           "term": "urus",
@@ -14671,6 +15071,14 @@
         {
           "term": "coadjutor",
           "paragraph": "p-238"
+        },
+        {
+          "term": "abram",
+          "paragraph": "p-266"
+        },
+        {
+          "term": "putt",
+          "paragraph": "p-266"
         }
       ],
       "words": 7963,
@@ -15002,6 +15410,10 @@
           "paragraph": "p-056"
         },
         {
+          "term": "hanger",
+          "paragraph": "p-059"
+        },
+        {
           "term": "patera",
           "paragraph": "p-059"
         },
@@ -15110,8 +15522,16 @@
           "paragraph": "p-148"
         },
         {
+          "term": "gecko",
+          "paragraph": "p-158"
+        },
+        {
           "term": "mucor",
           "paragraph": "p-168"
+        },
+        {
+          "term": "abram",
+          "paragraph": "p-169"
         },
         {
           "term": "loris",
@@ -15568,6 +15988,10 @@
           "paragraph": "p-115"
         },
         {
+          "term": "hanger",
+          "paragraph": "p-117"
+        },
+        {
           "term": "incus",
           "paragraph": "p-119"
         },
@@ -15658,6 +16082,10 @@
         {
           "term": "fisc",
           "paragraph": "p-260"
+        },
+        {
+          "term": "rook",
+          "paragraph": "p-265"
         },
         {
           "term": "bison",
@@ -16275,8 +16703,16 @@
           "paragraph": "p-084"
         },
         {
+          "term": "lily",
+          "paragraph": "p-086"
+        },
+        {
           "term": "augur",
           "paragraph": "p-091"
+        },
+        {
+          "term": "gelt",
+          "paragraph": "p-092"
         },
         {
           "term": "xiphias",
@@ -17050,6 +17486,10 @@
           "paragraph": "p-254"
         },
         {
+          "term": "jefe",
+          "paragraph": "p-265"
+        },
+        {
           "term": "pike",
           "paragraph": "p-267"
         },
@@ -17427,6 +17867,10 @@
           "paragraph": "p-018"
         },
         {
+          "term": "dell",
+          "paragraph": "p-021"
+        },
+        {
           "term": "calde",
           "paragraph": "p-041"
         },
@@ -17453,6 +17897,14 @@
         {
           "term": "cull",
           "paragraph": "p-082"
+        },
+        {
+          "term": "doss",
+          "paragraph": "p-084"
+        },
+        {
+          "term": "lily",
+          "paragraph": "p-095"
         },
         {
           "term": "dimber",
@@ -17531,6 +17983,10 @@
           "paragraph": "p-141"
         },
         {
+          "term": "cully",
+          "paragraph": "p-145"
+        },
+        {
           "term": "remora",
           "paragraph": "p-146"
         },
@@ -17545,6 +18001,10 @@
         {
           "term": "ermine",
           "paragraph": "p-171"
+        },
+        {
+          "term": "sigada",
+          "paragraph": "p-178"
         },
         {
           "term": "willet",
@@ -17824,6 +18284,10 @@
           "paragraph": "p-014"
         },
         {
+          "term": "lily",
+          "paragraph": "p-017"
+        },
+        {
           "term": "dimber",
           "paragraph": "p-017"
         },
@@ -17840,12 +18304,28 @@
           "paragraph": "p-019"
         },
         {
+          "term": "gelt",
+          "paragraph": "p-019"
+        },
+        {
           "term": "shrike",
           "paragraph": "p-021"
         },
         {
           "term": "cull",
           "paragraph": "p-027"
+        },
+        {
+          "term": "dell",
+          "paragraph": "p-029"
+        },
+        {
+          "term": "cully",
+          "paragraph": "p-029"
+        },
+        {
+          "term": "abram",
+          "paragraph": "p-031"
         },
         {
           "term": "augur",
@@ -17884,8 +18364,16 @@
           "paragraph": "p-057"
         },
         {
+          "term": "hanger",
+          "paragraph": "p-064"
+        },
+        {
           "term": "whorl",
           "paragraph": "p-064"
+        },
+        {
+          "term": "scavy",
+          "paragraph": "p-077"
         },
         {
           "term": "prolocutor",
@@ -18189,6 +18677,10 @@
           "paragraph": "p-032"
         },
         {
+          "term": "silah",
+          "paragraph": "p-061"
+        },
+        {
           "term": "ayuntamiento",
           "paragraph": "p-074"
         },
@@ -18400,6 +18892,10 @@
           "paragraph": "p-037"
         },
         {
+          "term": "betifham-arabi",
+          "paragraph": "p-037"
+        },
+        {
           "term": "sirka",
           "paragraph": "p-039"
         },
@@ -18490,6 +18986,10 @@
         {
           "term": "pas",
           "paragraph": "p-099"
+        },
+        {
+          "term": "lily",
+          "paragraph": "p-109"
         },
         {
           "term": "chough",
@@ -18974,6 +19474,10 @@
           "paragraph": "p-019"
         },
         {
+          "term": "rook",
+          "paragraph": "p-032"
+        },
+        {
           "term": "pas",
           "paragraph": "p-039"
         },
@@ -19098,6 +19602,14 @@
           "paragraph": "p-161"
         },
         {
+          "term": "scavy",
+          "paragraph": "p-174"
+        },
+        {
+          "term": "abram",
+          "paragraph": "p-201"
+        },
+        {
           "term": "alambrera",
           "paragraph": "p-219"
         },
@@ -19118,6 +19630,10 @@
           "paragraph": "p-262"
         },
         {
+          "term": "lily",
+          "paragraph": "p-272"
+        },
+        {
           "term": "titi",
           "paragraph": "p-275"
         },
@@ -19130,8 +19646,24 @@
           "paragraph": "p-279"
         },
         {
+          "term": "peery",
+          "paragraph": "p-279"
+        },
+        {
           "term": "foyst",
           "paragraph": "p-279"
+        },
+        {
+          "term": "hog-grubber",
+          "paragraph": "p-283"
+        },
+        {
+          "term": "lushes",
+          "paragraph": "p-283"
+        },
+        {
+          "term": "ken",
+          "paragraph": "p-285"
         },
         {
           "term": "lumb",
@@ -19140,6 +19672,14 @@
         {
           "term": "lowre",
           "paragraph": "p-285"
+        },
+        {
+          "term": "gelt",
+          "paragraph": "p-288"
+        },
+        {
+          "term": "twig",
+          "paragraph": "p-294"
         },
         {
           "term": "dimber",
@@ -19158,7 +19698,15 @@
           "paragraph": "p-309"
         },
         {
+          "term": "putt",
+          "paragraph": "p-319"
+        },
+        {
           "term": "prog",
+          "paragraph": "p-321"
+        },
+        {
+          "term": "plonk",
           "paragraph": "p-321"
         },
         {
@@ -19170,7 +19718,15 @@
           "paragraph": "p-331"
         },
         {
+          "term": "cant",
+          "paragraph": "p-341"
+        },
+        {
           "term": "desmid",
+          "paragraph": "p-360"
+        },
+        {
+          "term": "padken",
           "paragraph": "p-360"
         },
         {
@@ -19179,6 +19735,10 @@
         },
         {
           "term": "hyrax",
+          "paragraph": "p-383"
+        },
+        {
+          "term": "cully",
           "paragraph": "p-383"
         }
       ],
@@ -20019,6 +20579,10 @@
           "paragraph": "p-020"
         },
         {
+          "term": "jakes",
+          "paragraph": "p-024"
+        },
+        {
           "term": "prog",
           "paragraph": "p-029"
         },
@@ -20049,6 +20613,10 @@
         {
           "term": "silk",
           "paragraph": "p-048"
+        },
+        {
+          "term": "putt",
+          "paragraph": "p-053"
         },
         {
           "term": "phaea",
@@ -20103,6 +20671,10 @@
           "paragraph": "p-100"
         },
         {
+          "term": "twig",
+          "paragraph": "p-101"
+        },
+        {
           "term": "cull",
           "paragraph": "p-111"
         },
@@ -20131,12 +20703,28 @@
           "paragraph": "p-194"
         },
         {
+          "term": "lily",
+          "paragraph": "p-233"
+        },
+        {
           "term": "manteion",
           "paragraph": "p-243"
         },
         {
           "term": "titi",
           "paragraph": "p-248"
+        },
+        {
+          "term": "abram",
+          "paragraph": "p-270"
+        },
+        {
+          "term": "gelt",
+          "paragraph": "p-272"
+        },
+        {
+          "term": "cully",
+          "paragraph": "p-284"
         },
         {
           "term": "schist",
@@ -20508,6 +21096,10 @@
           "paragraph": "p-015"
         },
         {
+          "term": "twig",
+          "paragraph": "p-016"
+        },
+        {
           "term": "gipon",
           "paragraph": "p-016"
         },
@@ -20600,6 +21192,14 @@
           "paragraph": "p-092"
         },
         {
+          "term": "jefe",
+          "paragraph": "p-095"
+        },
+        {
+          "term": "snoodge",
+          "paragraph": "p-095"
+        },
+        {
           "term": "schola",
           "paragraph": "p-098"
         },
@@ -20670,6 +21270,10 @@
         {
           "term": "ermine",
           "paragraph": "p-208"
+        },
+        {
+          "term": "cornet",
+          "paragraph": "p-213"
         },
         {
           "term": "quetzal",
@@ -21071,6 +21675,10 @@
           "paragraph": "p-007"
         },
         {
+          "term": "abram",
+          "paragraph": "p-007"
+        },
+        {
           "term": "augur",
           "paragraph": "p-011"
         },
@@ -21085,6 +21693,10 @@
         {
           "term": "whorl",
           "paragraph": "p-019"
+        },
+        {
+          "term": "jefe",
+          "paragraph": "p-022"
         },
         {
           "term": "calde",
@@ -21811,7 +22423,15 @@
           "paragraph": "p-063"
         },
         {
+          "term": "dell",
+          "paragraph": "p-068"
+        },
+        {
           "term": "orchid",
+          "paragraph": "p-070"
+        },
+        {
+          "term": "gelt",
           "paragraph": "p-070"
         },
         {
@@ -21907,6 +22527,10 @@
           "paragraph": "p-146"
         },
         {
+          "term": "pure-quill",
+          "paragraph": "p-147"
+        },
+        {
           "term": "kingcup",
           "paragraph": "p-147"
         },
@@ -21921,6 +22545,10 @@
         {
           "term": "eland",
           "paragraph": "p-151"
+        },
+        {
+          "term": "cully",
+          "paragraph": "p-158"
         },
         {
           "term": "coadjutor",
@@ -21975,6 +22603,10 @@
           "paragraph": "p-305"
         },
         {
+          "term": "lily",
+          "paragraph": "p-307"
+        },
+        {
           "term": "potto",
           "paragraph": "p-315"
         },
@@ -21995,7 +22627,23 @@
           "paragraph": "p-315"
         },
         {
+          "term": "jefe",
+          "paragraph": "p-317"
+        },
+        {
+          "term": "scavy",
+          "paragraph": "p-317"
+        },
+        {
+          "term": "twig",
+          "paragraph": "p-317"
+        },
+        {
           "term": "mort",
+          "paragraph": "p-359"
+        },
+        {
+          "term": "doss",
           "paragraph": "p-359"
         },
         {
@@ -22591,6 +23239,10 @@
           "paragraph": "p-038"
         },
         {
+          "term": "hanger",
+          "paragraph": "p-040"
+        },
+        {
           "term": "sibyl",
           "paragraph": "p-045"
         },
@@ -22675,6 +23327,10 @@
           "paragraph": "p-194"
         },
         {
+          "term": "pure-quill",
+          "paragraph": "p-198"
+        },
+        {
           "term": "gib",
           "paragraph": "p-200"
         },
@@ -22689,6 +23345,10 @@
         {
           "term": "mucor",
           "paragraph": "p-207"
+        },
+        {
+          "term": "cully",
+          "paragraph": "p-208"
         },
         {
           "term": "ayuntamiento",
@@ -22707,6 +23367,14 @@
           "paragraph": "p-250"
         },
         {
+          "term": "gelt",
+          "paragraph": "p-263"
+        },
+        {
+          "term": "twig",
+          "paragraph": "p-265"
+        },
+        {
           "term": "urbs",
           "paragraph": "p-282"
         },
@@ -22723,8 +23391,20 @@
           "paragraph": "p-317"
         },
         {
+          "term": "scavy",
+          "paragraph": "p-349"
+        },
+        {
           "term": "viron",
           "paragraph": "p-360"
+        },
+        {
+          "term": "kate",
+          "paragraph": "p-396"
+        },
+        {
+          "term": "bing",
+          "paragraph": "p-402"
         }
       ],
       "words": 10602,
@@ -23150,6 +23830,10 @@
         {
           "term": "coadjutor",
           "paragraph": "p-082"
+        },
+        {
+          "term": "cully",
+          "paragraph": "p-096"
         },
         {
           "term": "prothonotary",
@@ -24003,6 +24687,10 @@
           "paragraph": "p-125"
         },
         {
+          "term": "ishsh",
+          "paragraph": "p-126"
+        },
+        {
           "term": "feist",
           "paragraph": "p-133"
         },
@@ -24055,6 +24743,10 @@
           "paragraph": "p-253"
         },
         {
+          "term": "abram",
+          "paragraph": "p-253"
+        },
+        {
           "term": "tartaros",
           "paragraph": "p-260"
         },
@@ -24089,6 +24781,10 @@
         {
           "term": "xiphias",
           "paragraph": "p-327"
+        },
+        {
+          "term": "cully",
+          "paragraph": "p-365"
         },
         {
           "term": "hadale",
@@ -24564,6 +25260,14 @@
           "paragraph": "p-019"
         },
         {
+          "term": "dell",
+          "paragraph": "p-020"
+        },
+        {
+          "term": "jefe",
+          "paragraph": "p-020"
+        },
+        {
           "term": "trivigaunte",
           "paragraph": "p-022"
         },
@@ -24588,6 +25292,10 @@
           "paragraph": "p-051"
         },
         {
+          "term": "lily",
+          "paragraph": "p-055"
+        },
+        {
           "term": "manteion",
           "paragraph": "p-067"
         },
@@ -24602,6 +25310,10 @@
         {
           "term": "moly",
           "paragraph": "p-074"
+        },
+        {
+          "term": "chit",
+          "paragraph": "p-076"
         },
         {
           "term": "whorl",
@@ -25245,12 +25957,20 @@
           "paragraph": "p-181"
         },
         {
+          "term": "lily",
+          "paragraph": "p-184"
+        },
+        {
           "term": "hierax",
           "paragraph": "p-184"
         },
         {
           "term": "palatine",
           "paragraph": "p-190"
+        },
+        {
+          "term": "magnesia",
+          "paragraph": "p-195"
         },
         {
           "term": "mucor",
@@ -25326,6 +26046,10 @@
         },
         {
           "term": "kerria",
+          "paragraph": "p-338"
+        },
+        {
+          "term": "holly",
           "paragraph": "p-338"
         },
         {
@@ -25488,6 +26212,10 @@
           "paragraph": "p-005"
         },
         {
+          "term": "magnesia",
+          "paragraph": "p-005"
+        },
+        {
           "term": "palaestra",
           "paragraph": "p-005"
         },
@@ -25600,6 +26328,10 @@
           "paragraph": "p-069"
         },
         {
+          "term": "macaque",
+          "paragraph": "p-073"
+        },
+        {
           "term": "ayuntamiento",
           "paragraph": "p-075"
         },
@@ -25655,6 +26387,10 @@
         {
           "term": "nettle",
           "paragraph": "p-005"
+        },
+        {
+          "term": "coracle",
+          "paragraph": "p-007"
         },
         {
           "term": "whorl",
@@ -26038,7 +26774,7 @@
   ],
   "totalWords": 462155,
   "defaultChapter": "nightside-01",
-  "glossaryCount": 260,
+  "glossaryCount": 318,
   "correctionCount": 7,
-  "editionVersion": 10
+  "editionVersion": 11
 }

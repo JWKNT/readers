@@ -174,6 +174,10 @@
           "paragraph": "p-037"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-043"
+        },
+        {
           "term": "exultant",
           "paragraph": "p-045"
         },
@@ -352,8 +356,16 @@
           "paragraph": "p-017"
         },
         {
+          "term": "burgess",
+          "paragraph": "p-018"
+        },
+        {
           "term": "nenuphar",
           "paragraph": "p-019"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-020"
         },
         {
           "term": "malrubius",
@@ -427,6 +439,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "vodalus",
+          "paragraph": "p-001"
+        },
+        {
           "term": "refectory",
           "paragraph": "p-001"
         },
@@ -456,6 +472,14 @@
         },
         {
           "term": "odo",
+          "paragraph": "p-008"
+        },
+        {
+          "term": "mennas",
+          "paragraph": "p-008"
+        },
+        {
+          "term": "eigil",
           "paragraph": "p-008"
         },
         {
@@ -686,6 +710,18 @@
           "paragraph": "p-030"
         },
         {
+          "term": "lux-dei-vitae-viam-monstrat",
+          "paragraph": "p-038"
+        },
+        {
+          "term": "felicibus-brevis-miseris-hora-longa",
+          "paragraph": "p-038"
+        },
+        {
+          "term": "aspice-ut-aspiciar",
+          "paragraph": "p-038"
+        },
+        {
           "term": "autarch",
           "paragraph": "p-040"
         },
@@ -808,8 +844,16 @@
           "paragraph": "p-005"
         },
         {
+          "term": "timon",
+          "paragraph": "p-007"
+        },
+        {
           "term": "necropolis",
           "paragraph": "p-012"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-013"
         },
         {
           "term": "armiger",
@@ -846,6 +890,14 @@
         {
           "term": "fechin",
           "paragraph": "p-041"
+        },
+        {
+          "term": "quartillosa",
+          "paragraph": "p-041"
+        },
+        {
+          "term": "branwallader",
+          "paragraph": "p-043"
         },
         {
           "term": "autarch",
@@ -1033,7 +1085,15 @@
           "paragraph": "p-036"
         },
         {
+          "term": "gerbold",
+          "paragraph": "p-043"
+        },
+        {
           "term": "autarch",
+          "paragraph": "p-043"
+        },
+        {
+          "term": "sulpicius",
           "paragraph": "p-043"
         },
         {
@@ -1050,6 +1110,14 @@
         },
         {
           "term": "cordwain",
+          "paragraph": "p-081"
+        },
+        {
+          "term": "gwinoc",
+          "paragraph": "p-081"
+        },
+        {
+          "term": "blaithmaic",
           "paragraph": "p-081"
         },
         {
@@ -1082,6 +1150,10 @@
         },
         {
           "term": "pantocrator",
+          "paragraph": "p-108"
+        },
+        {
+          "term": "hypostasis",
           "paragraph": "p-108"
         }
       ],
@@ -1236,6 +1308,10 @@
           "paragraph": "p-010"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-013"
+        },
+        {
           "term": "necropolis",
           "paragraph": "p-013"
         },
@@ -1245,6 +1321,10 @@
         },
         {
           "term": "starost",
+          "paragraph": "p-027"
+        },
+        {
+          "term": "egino",
           "paragraph": "p-027"
         },
         {
@@ -1266,6 +1346,10 @@
         {
           "term": "armiger",
           "paragraph": "p-074"
+        },
+        {
+          "term": "quadrille",
+          "paragraph": "p-078"
         },
         {
           "term": "khaibit",
@@ -1613,6 +1697,10 @@
           "paragraph": "p-008"
         },
         {
+          "term": "gracia",
+          "paragraph": "p-017"
+        },
+        {
           "term": "thecla",
           "paragraph": "p-020"
         },
@@ -1627,6 +1715,10 @@
         {
           "term": "destrier",
           "paragraph": "p-026"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-028"
         },
         {
           "term": "paphian",
@@ -1785,6 +1877,14 @@
           "paragraph": "p-014"
         },
         {
+          "term": "pelagic",
+          "paragraph": "p-014"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-018"
+        },
+        {
           "term": "exultant",
           "paragraph": "p-019"
         },
@@ -1797,8 +1897,16 @@
           "paragraph": "p-033"
         },
         {
+          "term": "josepha",
+          "paragraph": "p-033"
+        },
+        {
           "term": "nigrescent",
           "paragraph": "p-034"
+        },
+        {
+          "term": "rose-the-graced",
+          "paragraph": "p-035"
         },
         {
           "term": "kafila",
@@ -1891,6 +1999,10 @@
           "paragraph": "p-003"
         },
         {
+          "term": "barbara",
+          "paragraph": "p-003"
+        },
+        {
           "term": "katharine",
           "paragraph": "p-004"
         },
@@ -1917,6 +2029,10 @@
         {
           "term": "rebec",
           "paragraph": "p-011"
+        },
+        {
+          "term": "maxentius",
+          "paragraph": "p-012"
         },
         {
           "term": "fuligin",
@@ -2092,6 +2208,10 @@
           "paragraph": "p-004"
         },
         {
+          "term": "sateen",
+          "paragraph": "p-005"
+        },
+        {
           "term": "optimate",
           "paragraph": "p-005"
         },
@@ -2137,6 +2257,10 @@
         },
         {
           "term": "abaia",
+          "paragraph": "p-088"
+        },
+        {
+          "term": "vodalus",
           "paragraph": "p-088"
         }
       ],
@@ -2225,6 +2349,10 @@
         },
         {
           "term": "malrubius",
+          "paragraph": "p-003"
+        },
+        {
+          "term": "vodalus",
           "paragraph": "p-003"
         },
         {
@@ -2411,6 +2539,10 @@
           "paragraph": "p-014"
         },
         {
+          "term": "moira",
+          "paragraph": "p-014"
+        },
+        {
           "term": "sabretache",
           "paragraph": "p-015"
         },
@@ -2481,6 +2613,10 @@
         {
           "term": "talarican",
           "paragraph": "p-049"
+        },
+        {
+          "term": "petronax",
+          "paragraph": "p-060"
         },
         {
           "term": "ascian",
@@ -2661,6 +2797,10 @@
           "paragraph": "p-054"
         },
         {
+          "term": "whorl",
+          "paragraph": "p-055"
+        },
+        {
           "term": "talos",
           "paragraph": "p-062"
         },
@@ -2837,11 +2977,23 @@
           "paragraph": "p-040"
         },
         {
+          "term": "parterre",
+          "paragraph": "p-040"
+        },
+        {
+          "term": "citron",
+          "paragraph": "p-040"
+        },
+        {
           "term": "sardonyx",
           "paragraph": "p-041"
         },
         {
           "term": "lansquenet",
+          "paragraph": "p-041"
+        },
+        {
+          "term": "casern",
           "paragraph": "p-041"
         },
         {
@@ -2898,6 +3050,10 @@
         },
         {
           "term": "jelab",
+          "paragraph": "p-051"
+        },
+        {
+          "term": "capote",
           "paragraph": "p-051"
         }
       ],
@@ -2980,6 +3136,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "vicu-a",
+          "paragraph": "p-003"
+        },
+        {
           "term": "vesture",
           "paragraph": "p-003"
         },
@@ -3010,6 +3170,10 @@
         {
           "term": "monomachy",
           "paragraph": "p-031"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-033"
         },
         {
           "term": "necropolis",
@@ -3172,6 +3336,10 @@
           "paragraph": "p-004"
         },
         {
+          "term": "hypogeon",
+          "paragraph": "p-004"
+        },
+        {
           "term": "avern",
           "paragraph": "p-004"
         },
@@ -3216,6 +3384,10 @@
           "paragraph": "p-015"
         },
         {
+          "term": "palatinate",
+          "paragraph": "p-017"
+        },
+        {
           "term": "sieur",
           "paragraph": "p-019"
         },
@@ -3241,6 +3413,10 @@
         },
         {
           "term": "pilaster",
+          "paragraph": "p-026"
+        },
+        {
+          "term": "comfit",
           "paragraph": "p-026"
         },
         {
@@ -3381,7 +3557,15 @@
           "paragraph": "p-003"
         },
         {
+          "term": "dulcimer",
+          "paragraph": "p-008"
+        },
+        {
           "term": "fuligin",
+          "paragraph": "p-008"
+        },
+        {
+          "term": "fibula",
           "paragraph": "p-008"
         },
         {
@@ -3707,6 +3891,14 @@
           "paragraph": "p-010"
         },
         {
+          "term": "numen",
+          "paragraph": "p-011"
+        },
+        {
+          "term": "theoanthropos",
+          "paragraph": "p-012"
+        },
+        {
           "term": "tokoloshe",
           "paragraph": "p-023"
         },
@@ -3954,6 +4146,10 @@
           "paragraph": "p-003"
         },
         {
+          "term": "phlegethon",
+          "paragraph": "p-005"
+        },
+        {
           "term": "severian",
           "paragraph": "p-008"
         },
@@ -3975,6 +4171,10 @@
         },
         {
           "term": "argosy",
+          "paragraph": "p-033"
+        },
+        {
+          "term": "velleity",
           "paragraph": "p-033"
         },
         {
@@ -4135,6 +4335,10 @@
         {
           "term": "septentrion",
           "paragraph": "p-029"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-038"
         },
         {
           "term": "thecla",
@@ -4325,6 +4529,10 @@
           "paragraph": "p-036"
         },
         {
+          "term": "camarilla",
+          "paragraph": "p-048"
+        },
+        {
           "term": "pagne",
           "paragraph": "p-049"
         },
@@ -4339,6 +4547,10 @@
         {
           "term": "thecla",
           "paragraph": "p-052"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-056"
         },
         {
           "term": "chrisos",
@@ -4609,6 +4821,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "xenagie",
+          "paragraph": "p-001"
+        },
+        {
           "term": "dimarchi",
           "paragraph": "p-001"
         },
@@ -4622,6 +4838,10 @@
         },
         {
           "term": "gamboge",
+          "paragraph": "p-015"
+        },
+        {
+          "term": "cerise",
           "paragraph": "p-015"
         },
         {
@@ -4813,6 +5033,10 @@
           "paragraph": "p-007"
         },
         {
+          "term": "xenagie",
+          "paragraph": "p-008"
+        },
+        {
           "term": "carnifex",
           "paragraph": "p-008"
         },
@@ -4831,6 +5055,10 @@
         {
           "term": "agia",
           "paragraph": "p-016"
+        },
+        {
+          "term": "braquemar",
+          "paragraph": "p-018"
         },
         {
           "term": "balustrade",
@@ -4949,6 +5177,10 @@
           "paragraph": "p-008"
         },
         {
+          "term": "xenagie",
+          "paragraph": "p-011"
+        },
+        {
           "term": "oubliette",
           "paragraph": "p-012"
         },
@@ -5023,6 +5255,10 @@
         {
           "term": "thrax",
           "paragraph": "p-041"
+        },
+        {
+          "term": "jurupari",
+          "paragraph": "p-048"
         }
       ],
       "words": 2584,
@@ -5092,6 +5328,10 @@
         {
           "term": "asimi",
           "paragraph": "p-005"
+        },
+        {
+          "term": "quasar",
+          "paragraph": "p-007"
         },
         {
           "term": "doxie",
@@ -5858,6 +6098,10 @@
           "paragraph": "p-008"
         },
         {
+          "term": "chandler",
+          "paragraph": "p-010"
+        },
+        {
           "term": "sarcophagus",
           "paragraph": "p-010"
         },
@@ -5900,6 +6144,10 @@
         {
           "term": "merychip",
           "paragraph": "p-048"
+        },
+        {
+          "term": "cantle",
+          "paragraph": "p-049"
         },
         {
           "term": "teratornis",
@@ -6071,6 +6319,10 @@
           "paragraph": "p-002"
         },
         {
+          "term": "cariole",
+          "paragraph": "p-002"
+        },
+        {
           "term": "destrier",
           "paragraph": "p-003"
         },
@@ -6177,6 +6429,10 @@
         {
           "term": "autarch",
           "paragraph": "p-030"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-033"
         }
       ],
       "words": 2454,
@@ -6242,6 +6498,10 @@
           "paragraph": "p-002"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-004"
+        },
+        {
           "term": "alcalde",
           "paragraph": "p-006"
         },
@@ -6258,8 +6518,16 @@
           "paragraph": "p-008"
         },
         {
+          "term": "mesmin",
+          "paragraph": "p-009"
+        },
+        {
           "term": "sebald",
           "paragraph": "p-009"
+        },
+        {
+          "term": "pyrexia",
+          "paragraph": "p-011"
         },
         {
           "term": "drotte",
@@ -6768,6 +7036,10 @@
           "paragraph": "p-002"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-002"
+        },
+        {
           "term": "palaemon",
           "paragraph": "p-009"
         },
@@ -6806,6 +7078,10 @@
         {
           "term": "gyoll",
           "paragraph": "p-032"
+        },
+        {
+          "term": "phoenix",
+          "paragraph": "p-033"
         },
         {
           "term": "thecla",
@@ -7038,6 +7314,10 @@
           "paragraph": "p-003"
         },
         {
+          "term": "ia",
+          "paragraph": "p-004"
+        },
+        {
           "term": "armiger",
           "paragraph": "p-004"
         },
@@ -7064,6 +7344,10 @@
         {
           "term": "thecla",
           "paragraph": "p-034"
+        },
+        {
+          "term": "hanger",
+          "paragraph": "p-036"
         },
         {
           "term": "athame",
@@ -7342,6 +7626,10 @@
           "paragraph": "p-002"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-004"
+        },
+        {
           "term": "barnoch",
           "paragraph": "p-007"
         },
@@ -7491,6 +7779,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "vodalus",
+          "paragraph": "p-001"
+        },
+        {
           "term": "thecla",
           "paragraph": "p-002"
         },
@@ -7539,6 +7831,10 @@
           "paragraph": "p-033"
         },
         {
+          "term": "theologoumenon",
+          "paragraph": "p-035"
+        },
+        {
           "term": "jonas",
           "paragraph": "p-037"
         },
@@ -7569,6 +7865,10 @@
         {
           "term": "palaemon",
           "paragraph": "p-058"
+        },
+        {
+          "term": "dryad",
+          "paragraph": "p-060"
         },
         {
           "term": "exultant",
@@ -7664,6 +7964,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "vodalus",
+          "paragraph": "p-001"
+        },
+        {
           "term": "jonas",
           "paragraph": "p-002"
         },
@@ -7700,6 +8004,10 @@
           "paragraph": "p-014"
         },
         {
+          "term": "alcmund",
+          "paragraph": "p-017"
+        },
+        {
           "term": "salver",
           "paragraph": "p-025"
         },
@@ -7721,6 +8029,10 @@
         },
         {
           "term": "thiasus",
+          "paragraph": "p-048"
+        },
+        {
+          "term": "pelagic",
           "paragraph": "p-048"
         },
         {
@@ -7765,6 +8077,10 @@
         },
         {
           "term": "acis",
+          "paragraph": "p-064"
+        },
+        {
+          "term": "belvedere",
           "paragraph": "p-064"
         },
         {
@@ -7857,6 +8173,10 @@
         {
           "term": "severian",
           "paragraph": "p-004"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-007"
         },
         {
           "term": "dorcas",
@@ -8035,6 +8355,14 @@
           "paragraph": "p-040"
         },
         {
+          "term": "cornet",
+          "paragraph": "p-042"
+        },
+        {
+          "term": "mineas",
+          "paragraph": "p-042"
+        },
+        {
           "term": "severian",
           "paragraph": "p-043"
         },
@@ -8053,6 +8381,10 @@
         {
           "term": "cubit",
           "paragraph": "p-057"
+        },
+        {
+          "term": "josepha",
+          "paragraph": "p-060"
         },
         {
           "term": "chatelaine",
@@ -8338,12 +8670,24 @@
           "paragraph": "p-010"
         },
         {
+          "term": "nympha",
+          "paragraph": "p-010"
+        },
+        {
           "term": "philomath",
           "paragraph": "p-010"
         },
         {
           "term": "phocas",
           "paragraph": "p-010"
+        },
+        {
+          "term": "sancha",
+          "paragraph": "p-010"
+        },
+        {
+          "term": "fors",
+          "paragraph": "p-012"
         },
         {
           "term": "armiger",
@@ -8363,6 +8707,10 @@
         },
         {
           "term": "talos",
+          "paragraph": "p-026"
+        },
+        {
+          "term": "vodalus",
           "paragraph": "p-026"
         },
         {
@@ -8501,6 +8849,14 @@
           "paragraph": "p-018"
         },
         {
+          "term": "guibert",
+          "paragraph": "p-026"
+        },
+        {
+          "term": "lollian",
+          "paragraph": "p-026"
+        },
+        {
           "term": "severian",
           "paragraph": "p-027"
         },
@@ -8538,6 +8894,10 @@
         },
         {
           "term": "chatelaine",
+          "paragraph": "p-066"
+        },
+        {
+          "term": "lelia",
           "paragraph": "p-066"
         },
         {
@@ -8691,6 +9051,14 @@
         },
         {
           "term": "carronade",
+          "paragraph": "p-043"
+        },
+        {
+          "term": "hesperus",
+          "paragraph": "p-043"
+        },
+        {
+          "term": "sirius",
           "paragraph": "p-043"
         },
         {
@@ -8981,6 +9349,10 @@
           "paragraph": "p-006"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-006"
+        },
+        {
           "term": "hastarii",
           "paragraph": "p-007"
         },
@@ -9216,6 +9588,10 @@
           "paragraph": "p-053"
         },
         {
+          "term": "pelagic",
+          "paragraph": "p-055"
+        },
+        {
           "term": "argosy",
           "paragraph": "p-055"
         }
@@ -9297,6 +9673,10 @@
         },
         {
           "term": "thecla",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "vodalus",
           "paragraph": "p-001"
         },
         {
@@ -9386,6 +9766,10 @@
         {
           "term": "chrisos",
           "paragraph": "p-047"
+        },
+        {
+          "term": "espalier",
+          "paragraph": "p-051"
         }
       ],
       "words": 2692,
@@ -9515,6 +9899,10 @@
         {
           "term": "thiasus",
           "paragraph": "p-007"
+        },
+        {
+          "term": "heliotrope",
+          "paragraph": "p-009"
         },
         {
           "term": "jolenta",
@@ -10096,16 +10484,44 @@
           "paragraph": "p-062"
         },
         {
+          "term": "capote",
+          "paragraph": "p-069"
+        },
+        {
           "term": "solange",
           "paragraph": "p-078"
+        },
+        {
+          "term": "kyneburga",
+          "paragraph": "p-078"
+        },
+        {
+          "term": "lybe",
+          "paragraph": "p-079"
+        },
+        {
+          "term": "gea",
+          "paragraph": "p-085"
         },
         {
           "term": "demiurge",
           "paragraph": "p-086"
         },
         {
+          "term": "paraclete",
+          "paragraph": "p-086"
+        },
+        {
+          "term": "erinys",
+          "paragraph": "p-106"
+        },
+        {
           "term": "chrisos",
           "paragraph": "p-116"
+        },
+        {
+          "term": "ivo",
+          "paragraph": "p-121"
         },
         {
           "term": "chiliarch",
@@ -10114,6 +10530,10 @@
         {
           "term": "inire",
           "paragraph": "p-139"
+        },
+        {
+          "term": "incusus",
+          "paragraph": "p-154"
         },
         {
           "term": "ushas",
@@ -10138,6 +10558,10 @@
         {
           "term": "sotto-voce",
           "paragraph": "p-308"
+        },
+        {
+          "term": "nod",
+          "paragraph": "p-315"
         },
         {
           "term": "clepsydra",
@@ -10212,6 +10636,10 @@
         {
           "term": "autarch",
           "paragraph": "p-001"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-003"
         },
         {
           "term": "petasos",
@@ -10772,6 +11200,10 @@
           "paragraph": "p-027"
         },
         {
+          "term": "cerise",
+          "paragraph": "p-030"
+        },
+        {
           "term": "autarch",
           "paragraph": "p-035"
         },
@@ -10809,6 +11241,10 @@
         },
         {
           "term": "agia",
+          "paragraph": "p-053"
+        },
+        {
+          "term": "vodalus",
           "paragraph": "p-053"
         },
         {
@@ -11302,6 +11738,14 @@
           "paragraph": "p-042"
         },
         {
+          "term": "abraxas",
+          "paragraph": "p-042"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-051"
+        },
+        {
           "term": "thecla",
           "paragraph": "p-051"
         },
@@ -11416,6 +11860,10 @@
         },
         {
           "term": "thea",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "vodalus",
           "paragraph": "p-002"
         },
         {
@@ -11809,6 +12257,10 @@
           "paragraph": "p-009"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-010"
+        },
+        {
           "term": "exultant",
           "paragraph": "p-010"
         },
@@ -11827,6 +12279,10 @@
         {
           "term": "huanaco",
           "paragraph": "p-010"
+        },
+        {
+          "term": "skewbald",
+          "paragraph": "p-013"
         },
         {
           "term": "palaemon",
@@ -12515,6 +12971,10 @@
           "paragraph": "p-009"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-009"
+        },
+        {
           "term": "chiliad",
           "paragraph": "p-011"
         },
@@ -12891,6 +13351,10 @@
           "paragraph": "p-004"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-004"
+        },
+        {
           "term": "jurmin",
           "paragraph": "p-009"
         },
@@ -13259,6 +13723,10 @@
           "paragraph": "p-070"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-072"
+        },
+        {
           "term": "cyriaca",
           "paragraph": "p-072"
         },
@@ -13347,6 +13815,10 @@
           "paragraph": "p-002"
         },
         {
+          "term": "einhildis",
+          "paragraph": "p-002"
+        },
+        {
           "term": "orithyia",
           "paragraph": "p-002"
         },
@@ -13384,6 +13856,10 @@
         },
         {
           "term": "archon",
+          "paragraph": "p-012"
+        },
+        {
+          "term": "phoenix",
           "paragraph": "p-012"
         },
         {
@@ -13730,6 +14206,10 @@
         {
           "term": "dimarchi",
           "paragraph": "p-037"
+        },
+        {
+          "term": "herais",
+          "paragraph": "p-038"
         },
         {
           "term": "pelerine",
@@ -15067,6 +15547,10 @@
           "paragraph": "p-028"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-028"
+        },
+        {
           "term": "jonas",
           "paragraph": "p-028"
         },
@@ -15248,6 +15732,10 @@
         {
           "term": "cubit",
           "paragraph": "p-038"
+        },
+        {
+          "term": "palatinate",
+          "paragraph": "p-040"
         },
         {
           "term": "chiliad",
@@ -15502,6 +15990,10 @@
           "paragraph": "p-015"
         },
         {
+          "term": "ylem",
+          "paragraph": "p-016"
+        },
+        {
           "term": "theophany",
           "paragraph": "p-018"
         },
@@ -15615,6 +16107,10 @@
           "paragraph": "p-009"
         },
         {
+          "term": "burgess",
+          "paragraph": "p-009"
+        },
+        {
           "term": "jacal",
           "paragraph": "p-009"
         },
@@ -15651,6 +16147,10 @@
           "paragraph": "p-011"
         },
         {
+          "term": "theologoumenon",
+          "paragraph": "p-011"
+        },
+        {
           "term": "gyve",
           "paragraph": "p-014"
         },
@@ -15661,6 +16161,10 @@
         {
           "term": "autochthon",
           "paragraph": "p-022"
+        },
+        {
+          "term": "zambdas",
+          "paragraph": "p-025"
         },
         {
           "term": "pia",
@@ -15684,6 +16188,10 @@
         },
         {
           "term": "avern",
+          "paragraph": "p-053"
+        },
+        {
+          "term": "peregrine",
           "paragraph": "p-053"
         }
       ],
@@ -15737,6 +16245,10 @@
         },
         {
           "term": "thecla",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "vodalus",
           "paragraph": "p-002"
         },
         {
@@ -16075,6 +16587,10 @@
           "paragraph": "p-040"
         },
         {
+          "term": "phoenix",
+          "paragraph": "p-040"
+        },
+        {
           "term": "increate",
           "paragraph": "p-041"
         }
@@ -16207,6 +16723,10 @@
           "paragraph": "p-028"
         },
         {
+          "term": "murene",
+          "paragraph": "p-032"
+        },
+        {
           "term": "baldanders",
           "paragraph": "p-032"
         },
@@ -16310,6 +16830,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "hellebore",
+          "paragraph": "p-003"
+        },
+        {
           "term": "oubliette",
           "paragraph": "p-004"
         },
@@ -16364,6 +16888,10 @@
         {
           "term": "sieur",
           "paragraph": "p-033"
+        },
+        {
+          "term": "camoena",
+          "paragraph": "p-038"
         },
         {
           "term": "autarch",
@@ -16471,6 +16999,10 @@
           "paragraph": "p-009"
         },
         {
+          "term": "isochronon",
+          "paragraph": "p-009"
+        },
+        {
           "term": "severian",
           "paragraph": "p-009"
         },
@@ -16513,6 +17045,10 @@
         {
           "term": "undine",
           "paragraph": "p-040"
+        },
+        {
+          "term": "phoenix",
+          "paragraph": "p-050"
         },
         {
           "term": "palaemon",
@@ -16635,6 +17171,10 @@
           "paragraph": "p-023"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-026"
+        },
+        {
           "term": "necropolis",
           "paragraph": "p-026"
         },
@@ -16649,6 +17189,10 @@
         {
           "term": "praetorian",
           "paragraph": "p-027"
+        },
+        {
+          "term": "cerise",
+          "paragraph": "p-028"
         },
         {
           "term": "catamite",
@@ -16872,7 +17416,15 @@
           "paragraph": "p-010"
         },
         {
+          "term": "adonai",
+          "paragraph": "p-010"
+        },
+        {
           "term": "lipsanotheca",
+          "paragraph": "p-019"
+        },
+        {
+          "term": "pyx",
           "paragraph": "p-019"
         },
         {
@@ -17048,6 +17600,10 @@
           "paragraph": "p-002"
         },
         {
+          "term": "arioch",
+          "paragraph": "p-002"
+        },
+        {
           "term": "hetman",
           "paragraph": "p-004"
         },
@@ -17066,6 +17622,10 @@
         {
           "term": "destrier",
           "paragraph": "p-008"
+        },
+        {
+          "term": "midan",
+          "paragraph": "p-009"
         },
         {
           "term": "thecla",
@@ -17128,6 +17688,10 @@
           "paragraph": "p-023"
         },
         {
+          "term": "makar",
+          "paragraph": "p-026"
+        },
+        {
           "term": "ascian",
           "paragraph": "p-026"
         },
@@ -17181,6 +17745,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "vodalus",
+          "paragraph": "p-002"
+        },
+        {
           "term": "falchion",
           "paragraph": "p-004"
         },
@@ -17213,6 +17781,10 @@
           "paragraph": "p-011"
         },
         {
+          "term": "erinys",
+          "paragraph": "p-011"
+        },
+        {
           "term": "hethor",
           "paragraph": "p-012"
         },
@@ -17234,6 +17806,14 @@
         },
         {
           "term": "nessus",
+          "paragraph": "p-017"
+        },
+        {
+          "term": "caitanya",
+          "paragraph": "p-017"
+        },
+        {
+          "term": "aphrodisius",
           "paragraph": "p-017"
         },
         {
@@ -17518,6 +18098,10 @@
         {
           "term": "bosun",
           "paragraph": "p-035"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-037"
         },
         {
           "term": "hunna",
@@ -17910,6 +18494,10 @@
           "paragraph": "p-002"
         },
         {
+          "term": "bega",
+          "paragraph": "p-005"
+        },
+        {
           "term": "erebus",
           "paragraph": "p-009"
         },
@@ -18069,6 +18657,10 @@
         {
           "term": "epopt",
           "paragraph": "p-042"
+        },
+        {
+          "term": "emilian",
+          "paragraph": "p-049"
         },
         {
           "term": "thecla",
@@ -18308,6 +18900,10 @@
           "paragraph": "p-011"
         },
         {
+          "term": "nocturne",
+          "paragraph": "p-012"
+        },
+        {
           "term": "sanguinary",
           "paragraph": "p-015"
         },
@@ -18334,6 +18930,10 @@
         {
           "term": "armiger",
           "paragraph": "p-031"
+        },
+        {
+          "term": "conexa",
+          "paragraph": "p-032"
         },
         {
           "term": "epicharis",
@@ -18370,6 +18970,10 @@
         {
           "term": "miles",
           "paragraph": "p-059"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-063"
         },
         {
           "term": "dorcas",
@@ -18659,6 +19263,14 @@
           "paragraph": "p-066"
         },
         {
+          "term": "goslin",
+          "paragraph": "p-066"
+        },
+        {
+          "term": "jakes",
+          "paragraph": "p-076"
+        },
+        {
           "term": "abdiesus",
           "paragraph": "p-084"
         },
@@ -18762,8 +19374,16 @@
           "paragraph": "p-003"
         },
         {
+          "term": "pascua",
+          "paragraph": "p-003"
+        },
+        {
           "term": "merychip",
           "paragraph": "p-003"
+        },
+        {
+          "term": "peregrine",
+          "paragraph": "p-004"
         },
         {
           "term": "arras",
@@ -18886,12 +19506,20 @@
           "paragraph": "p-009"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-009"
+        },
+        {
           "term": "autarch",
           "paragraph": "p-009"
         },
         {
           "term": "typhon",
           "paragraph": "p-009"
+        },
+        {
+          "term": "theologoumenon",
+          "paragraph": "p-011"
         },
         {
           "term": "pampa",
@@ -19147,6 +19775,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "maniple",
+          "paragraph": "p-003"
+        },
+        {
           "term": "hierodule",
           "paragraph": "p-004"
         },
@@ -19183,6 +19815,10 @@
           "paragraph": "p-005"
         },
         {
+          "term": "ash",
+          "paragraph": "p-006"
+        },
+        {
           "term": "mannea",
           "paragraph": "p-013"
         },
@@ -19201,6 +19837,10 @@
         {
           "term": "autarch",
           "paragraph": "p-025"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-037"
         },
         {
           "term": "erebus",
@@ -19317,6 +19957,10 @@
         },
         {
           "term": "thrax",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "ash",
           "paragraph": "p-001"
         },
         {
@@ -19449,6 +20093,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "ash",
+          "paragraph": "p-001"
+        },
+        {
           "term": "palaemon",
           "paragraph": "p-001"
         },
@@ -19530,6 +20178,10 @@
         },
         {
           "term": "ibar",
+          "paragraph": "p-016"
+        },
+        {
+          "term": "xenagie",
           "paragraph": "p-016"
         },
         {
@@ -19660,6 +20312,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "ash",
+          "paragraph": "p-001"
+        },
+        {
           "term": "lictor",
           "paragraph": "p-001"
         },
@@ -19689,6 +20345,10 @@
         },
         {
           "term": "thecla",
+          "paragraph": "p-004"
+        },
+        {
+          "term": "apeiron",
           "paragraph": "p-004"
         },
         {
@@ -19728,8 +20388,16 @@
           "paragraph": "p-016"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-023"
+        },
+        {
           "term": "saltus",
           "paragraph": "p-023"
+        },
+        {
+          "term": "condottiere",
+          "paragraph": "p-028"
         },
         {
           "term": "guasacht",
@@ -19856,6 +20524,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "vodalus",
+          "paragraph": "p-001"
+        },
+        {
           "term": "necropolis",
           "paragraph": "p-001"
         },
@@ -19918,6 +20590,10 @@
         {
           "term": "baldanders",
           "paragraph": "p-066"
+        },
+        {
+          "term": "cornet",
+          "paragraph": "p-074"
         },
         {
           "term": "erblon",
@@ -20070,6 +20746,10 @@
           "paragraph": "p-015"
         },
         {
+          "term": "pentadactyl",
+          "paragraph": "p-016"
+        },
+        {
           "term": "nessus",
           "paragraph": "p-021"
         },
@@ -20084,6 +20764,10 @@
         {
           "term": "agilus",
           "paragraph": "p-025"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-029"
         }
       ],
       "words": 1820,
@@ -20179,6 +20863,10 @@
         {
           "term": "peltast",
           "paragraph": "p-005"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-007"
         },
         {
           "term": "necropolis",
@@ -20376,6 +21064,10 @@
           "paragraph": "p-015"
         },
         {
+          "term": "pelagic",
+          "paragraph": "p-016"
+        },
+        {
           "term": "argosy",
           "paragraph": "p-016"
         },
@@ -20546,6 +21238,10 @@
         },
         {
           "term": "dorcas",
+          "paragraph": "p-021"
+        },
+        {
+          "term": "vodalus",
           "paragraph": "p-021"
         },
         {
@@ -20758,6 +21454,10 @@
           "paragraph": "p-029"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-031"
+        },
+        {
           "term": "nessus",
           "paragraph": "p-033"
         },
@@ -20780,6 +21480,10 @@
         {
           "term": "pharmacon",
           "paragraph": "p-047"
+        },
+        {
+          "term": "paeon",
+          "paragraph": "p-049"
         },
         {
           "term": "destrier",
@@ -20820,6 +21524,10 @@
         {
           "term": "archon",
           "paragraph": "p-068"
+        },
+        {
+          "term": "heliotrope",
+          "paragraph": "p-070"
         },
         {
           "term": "baldanders",
@@ -20885,6 +21593,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "vodalus",
+          "paragraph": "p-003"
+        },
+        {
           "term": "thea",
           "paragraph": "p-003"
         },
@@ -20899,6 +21611,10 @@
         {
           "term": "lucivee",
           "paragraph": "p-010"
+        },
+        {
+          "term": "atelier",
+          "paragraph": "p-011"
         },
         {
           "term": "gyoll",
@@ -21036,6 +21752,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "vodalus",
+          "paragraph": "p-004"
+        },
+        {
           "term": "thea",
           "paragraph": "p-004"
         },
@@ -21138,6 +21858,10 @@
         {
           "term": "matachin",
           "paragraph": "p-004"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-005"
         },
         {
           "term": "ascian",
@@ -21252,6 +21976,10 @@
           "paragraph": "p-002"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-003"
+        },
+        {
           "term": "palanquin",
           "paragraph": "p-004"
         },
@@ -21302,6 +22030,10 @@
         {
           "term": "agia",
           "paragraph": "p-043"
+        },
+        {
+          "term": "phoenix",
+          "paragraph": "p-044"
         },
         {
           "term": "thecla",
@@ -21388,6 +22120,10 @@
         {
           "term": "ascian",
           "paragraph": "p-013"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-014"
         },
         {
           "term": "hethor",
@@ -21591,6 +22327,10 @@
           "paragraph": "p-028"
         },
         {
+          "term": "phoenix",
+          "paragraph": "p-031"
+        },
+        {
           "term": "ymar",
           "paragraph": "p-033"
         },
@@ -21601,6 +22341,10 @@
         {
           "term": "erebus",
           "paragraph": "p-039"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-045"
         },
         {
           "term": "severian",
@@ -21732,6 +22476,10 @@
         {
           "term": "samru",
           "paragraph": "p-004"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-005"
         },
         {
           "term": "cubit",
@@ -21886,6 +22634,10 @@
         },
         {
           "term": "lune",
+          "paragraph": "p-010"
+        },
+        {
+          "term": "vodalus",
           "paragraph": "p-010"
         },
         {
@@ -22313,11 +23065,31 @@
           "paragraph": "p-057"
         },
         {
+          "term": "helios",
+          "paragraph": "p-057"
+        },
+        {
+          "term": "hyperion",
+          "paragraph": "p-057"
+        },
+        {
+          "term": "surya",
+          "paragraph": "p-057"
+        },
+        {
+          "term": "savitar",
+          "paragraph": "p-057"
+        },
+        {
           "term": "agia",
           "paragraph": "p-059"
         },
         {
           "term": "exultant",
+          "paragraph": "p-060"
+        },
+        {
+          "term": "vodalus",
           "paragraph": "p-060"
         },
         {
@@ -22345,11 +23117,19 @@
           "paragraph": "p-062"
         },
         {
+          "term": "cohort",
+          "paragraph": "p-063"
+        },
+        {
           "term": "abaia",
           "paragraph": "p-065"
         },
         {
           "term": "hormisdas",
+          "paragraph": "p-065"
+        },
+        {
+          "term": "olaguer",
           "paragraph": "p-065"
         }
       ],
@@ -22439,6 +23219,10 @@
           "paragraph": "p-006"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-006"
+        },
+        {
           "term": "chamberlain",
           "paragraph": "p-011"
         },
@@ -22477,6 +23261,10 @@
         {
           "term": "gurloes",
           "paragraph": "p-027"
+        },
+        {
+          "term": "amadou",
+          "paragraph": "p-029"
         },
         {
           "term": "dorcas",
@@ -22692,6 +23480,10 @@
           "paragraph": "p-027"
         },
         {
+          "term": "trason",
+          "paragraph": "p-028"
+        },
+        {
           "term": "pandour",
           "paragraph": "p-029"
         },
@@ -22758,6 +23550,10 @@
         {
           "term": "eremite",
           "paragraph": "p-092"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-093"
         }
       ],
       "words": 4234,
@@ -22813,6 +23609,10 @@
         },
         {
           "term": "severian",
+          "paragraph": "p-005"
+        },
+        {
+          "term": "phoenix",
           "paragraph": "p-005"
         },
         {
@@ -22951,6 +23751,10 @@
           "paragraph": "p-006"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-006"
+        },
+        {
           "term": "ouen",
           "paragraph": "p-006"
         },
@@ -23067,6 +23871,10 @@
           "paragraph": "p-009"
         },
         {
+          "term": "citron",
+          "paragraph": "p-009"
+        },
+        {
           "term": "armiger",
           "paragraph": "p-012"
         },
@@ -23105,6 +23913,10 @@
         {
           "term": "ultan",
           "paragraph": "p-028"
+        },
+        {
+          "term": "serenus",
+          "paragraph": "p-030"
         },
         {
           "term": "mystes",
@@ -23236,6 +24048,10 @@
         {
           "term": "exultant",
           "paragraph": "p-018"
+        },
+        {
+          "term": "danaides",
+          "paragraph": "p-026"
         },
         {
           "term": "caliver",
@@ -23536,6 +24352,10 @@
           "paragraph": "p-026"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-026"
+        },
+        {
           "term": "cacogen",
           "paragraph": "p-030"
         },
@@ -23562,6 +24382,10 @@
         {
           "term": "sidero",
           "paragraph": "p-043"
+        },
+        {
+          "term": "zelezo",
+          "paragraph": "p-051"
         },
         {
           "term": "lochage",
@@ -23652,6 +24476,10 @@
       ],
       "sections": [],
       "noteAnchors": [
+        {
+          "term": "celeriac",
+          "paragraph": "p-001"
+        },
         {
           "term": "autarch",
           "paragraph": "p-002"
@@ -23795,6 +24623,10 @@
         {
           "term": "uhlan",
           "paragraph": "p-002"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-003"
         },
         {
           "term": "nessus",
@@ -24006,6 +24838,10 @@
           "paragraph": "p-046"
         },
         {
+          "term": "pelagic",
+          "paragraph": "p-046"
+        },
+        {
           "term": "abaia",
           "paragraph": "p-065"
         },
@@ -24028,6 +24864,10 @@
         {
           "term": "hierogrammate",
           "paragraph": "p-096"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-100"
         }
       ],
       "words": 2712,
@@ -24170,6 +25010,14 @@
         {
           "term": "jonas",
           "paragraph": "p-018"
+        },
+        {
+          "term": "hadid",
+          "paragraph": "p-033"
+        },
+        {
+          "term": "hierro",
+          "paragraph": "p-033"
         },
         {
           "term": "mystes",
@@ -24907,6 +25755,10 @@
           "paragraph": "p-007"
         },
         {
+          "term": "ash",
+          "paragraph": "p-015"
+        },
+        {
           "term": "orithyia",
           "paragraph": "p-017"
         },
@@ -25068,12 +25920,20 @@
           "paragraph": "p-012"
         },
         {
+          "term": "hesperus",
+          "paragraph": "p-012"
+        },
+        {
           "term": "hierodule",
           "paragraph": "p-013"
         },
         {
           "term": "idas",
           "paragraph": "p-013"
+        },
+        {
+          "term": "gandharvas",
+          "paragraph": "p-016"
         },
         {
           "term": "astern",
@@ -25485,6 +26345,10 @@
         {
           "term": "apheta",
           "paragraph": "p-019"
+        },
+        {
+          "term": "phoenix",
+          "paragraph": "p-020"
         },
         {
           "term": "carnelian",
@@ -25923,6 +26787,10 @@
         {
           "term": "agia",
           "paragraph": "p-081"
+        },
+        {
+          "term": "whorl",
+          "paragraph": "p-109"
         }
       ],
       "words": 3080,
@@ -26040,6 +26908,10 @@
           "paragraph": "p-008"
         },
         {
+          "term": "hieros",
+          "paragraph": "p-012"
+        },
+        {
           "term": "sough",
           "paragraph": "p-015"
         },
@@ -26125,6 +26997,10 @@
         },
         {
           "term": "pelerine",
+          "paragraph": "p-046"
+        },
+        {
+          "term": "ash",
           "paragraph": "p-046"
         },
         {
@@ -26287,7 +27163,15 @@
           "paragraph": "p-052"
         },
         {
+          "term": "venant",
+          "paragraph": "p-068"
+        },
+        {
           "term": "rudesind",
+          "paragraph": "p-072"
+        },
+        {
+          "term": "hieros",
           "paragraph": "p-072"
         }
       ],
@@ -26368,6 +27252,10 @@
           "paragraph": "p-012"
         },
         {
+          "term": "gravid",
+          "paragraph": "p-016"
+        },
+        {
           "term": "tzadkiel",
           "paragraph": "p-021"
         },
@@ -26378,6 +27266,10 @@
         {
           "term": "xebec",
           "paragraph": "p-037"
+        },
+        {
+          "term": "phoenix",
+          "paragraph": "p-042"
         },
         {
           "term": "roche",
@@ -26492,8 +27384,16 @@
           "paragraph": "p-007"
         },
         {
+          "term": "phoenix",
+          "paragraph": "p-008"
+        },
+        {
           "term": "severian",
           "paragraph": "p-014"
+        },
+        {
+          "term": "grimkeld",
+          "paragraph": "p-015"
         },
         {
           "term": "ophicleide",
@@ -26590,6 +27490,10 @@
         },
         {
           "term": "clerestory",
+          "paragraph": "p-007"
+        },
+        {
+          "term": "equerry",
           "paragraph": "p-007"
         },
         {
@@ -26923,6 +27827,10 @@
           "paragraph": "p-010"
         },
         {
+          "term": "ash",
+          "paragraph": "p-022"
+        },
+        {
           "term": "coryphaeus",
           "paragraph": "p-036"
         },
@@ -26933,6 +27841,10 @@
         {
           "term": "halyard",
           "paragraph": "p-038"
+        },
+        {
+          "term": "taffrail",
+          "paragraph": "p-056"
         }
       ],
       "words": 2289,
@@ -27433,6 +28345,10 @@
           "paragraph": "p-056"
         },
         {
+          "term": "kyrin",
+          "paragraph": "p-058"
+        },
+        {
           "term": "vespers",
           "paragraph": "p-062"
         },
@@ -27579,6 +28495,10 @@
           "paragraph": "p-036"
         },
         {
+          "term": "pinian",
+          "paragraph": "p-040"
+        },
+        {
           "term": "autarch",
           "paragraph": "p-043"
         }
@@ -27705,6 +28625,10 @@
         {
           "term": "xebec",
           "paragraph": "p-047"
+        },
+        {
+          "term": "mafalda",
+          "paragraph": "p-048"
         },
         {
           "term": "autochthon",
@@ -27845,11 +28769,19 @@
           "paragraph": "p-003"
         },
         {
+          "term": "fauna",
+          "paragraph": "p-006"
+        },
+        {
           "term": "increate",
           "paragraph": "p-009"
         },
         {
           "term": "pestis",
+          "paragraph": "p-019"
+        },
+        {
+          "term": "urbis",
           "paragraph": "p-019"
         },
         {
@@ -27883,6 +28815,10 @@
         {
           "term": "optimate",
           "paragraph": "p-033"
+        },
+        {
+          "term": "anian",
+          "paragraph": "p-040"
         },
         {
           "term": "ceallach",
@@ -28009,6 +28945,10 @@
         },
         {
           "term": "nessus",
+          "paragraph": "p-003"
+        },
+        {
+          "term": "phoenix",
           "paragraph": "p-003"
         },
         {
@@ -28204,6 +29144,10 @@
           "paragraph": "p-014"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-014"
+        },
+        {
           "term": "gyoll",
           "paragraph": "p-016"
         },
@@ -28238,6 +29182,10 @@
         {
           "term": "tzadkiel",
           "paragraph": "p-038"
+        },
+        {
+          "term": "tanco",
+          "paragraph": "p-043"
         }
       ],
       "words": 2145,
@@ -28335,6 +29283,10 @@
         {
           "term": "sieur",
           "paragraph": "p-008"
+        },
+        {
+          "term": "reechy",
+          "paragraph": "p-020"
         },
         {
           "term": "matachin",
@@ -28527,6 +29479,10 @@
           "paragraph": "p-044"
         },
         {
+          "term": "canog",
+          "paragraph": "p-048"
+        },
+        {
           "term": "phrontiserion",
           "paragraph": "p-050"
         },
@@ -28651,12 +29607,20 @@
           "paragraph": "p-008"
         },
         {
+          "term": "reechy",
+          "paragraph": "p-013"
+        },
+        {
           "term": "ymar",
           "paragraph": "p-018"
         },
         {
           "term": "hierogrammate",
           "paragraph": "p-020"
+        },
+        {
+          "term": "phoenix",
+          "paragraph": "p-026"
         },
         {
           "term": "epopt",
@@ -28858,8 +29822,16 @@
           "paragraph": "p-044"
         },
         {
+          "term": "gaudentius",
+          "paragraph": "p-047"
+        },
+        {
           "term": "tzadkiel",
           "paragraph": "p-048"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-053"
         },
         {
           "term": "praetorian",
@@ -28868,6 +29840,10 @@
         {
           "term": "severian",
           "paragraph": "p-060"
+        },
+        {
+          "term": "sefiroth",
+          "paragraph": "p-061"
         }
       ],
       "words": 2736,
@@ -29142,12 +30118,20 @@
           "paragraph": "p-009"
         },
         {
+          "term": "nod",
+          "paragraph": "p-009"
+        },
+        {
           "term": "briah",
           "paragraph": "p-009"
         },
         {
           "term": "typhon",
           "paragraph": "p-010"
+        },
+        {
+          "term": "oringa",
+          "paragraph": "p-011"
         },
         {
           "term": "sere",
@@ -29164,6 +30148,10 @@
         {
           "term": "zama",
           "paragraph": "p-017"
+        },
+        {
+          "term": "loggia",
+          "paragraph": "p-022"
         },
         {
           "term": "praetorian",
@@ -29288,6 +30276,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "phoenix",
+          "paragraph": "p-001"
+        },
+        {
           "term": "arras",
           "paragraph": "p-002"
         },
@@ -29344,8 +30336,16 @@
           "paragraph": "p-033"
         },
         {
+          "term": "agnation",
+          "paragraph": "p-051"
+        },
+        {
           "term": "sieur",
           "paragraph": "p-056"
+        },
+        {
+          "term": "thalassic",
+          "paragraph": "p-062"
         },
         {
           "term": "cacogen",
@@ -29469,6 +30469,10 @@
           "paragraph": "p-005"
         },
         {
+          "term": "phoenix",
+          "paragraph": "p-005"
+        },
+        {
           "term": "autarch",
           "paragraph": "p-006"
         },
@@ -29519,6 +30523,10 @@
         {
           "term": "juturna",
           "paragraph": "p-039"
+        },
+        {
+          "term": "catodon",
+          "paragraph": "p-043"
         },
         {
           "term": "famulimus",
@@ -29758,6 +30766,10 @@
           "paragraph": "p-022"
         },
         {
+          "term": "pelagia",
+          "paragraph": "p-022"
+        },
+        {
           "term": "soubrette",
           "paragraph": "p-022"
         },
@@ -29788,6 +30800,10 @@
         {
           "term": "carnifex",
           "paragraph": "p-040"
+        },
+        {
+          "term": "cohort",
+          "paragraph": "p-042"
         },
         {
           "term": "hastarii",
@@ -29866,6 +30882,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-001"
+        },
+        {
           "term": "baluchither",
           "paragraph": "p-001"
         },
@@ -29936,6 +30956,10 @@
         {
           "term": "chatelaine",
           "paragraph": "p-028"
+        },
+        {
+          "term": "virescent",
+          "paragraph": "p-040"
         },
         {
           "term": "lune",
@@ -30063,6 +31087,10 @@
           "paragraph": "p-015"
         },
         {
+          "term": "timon",
+          "paragraph": "p-015"
+        },
+        {
           "term": "eata",
           "paragraph": "p-016"
         },
@@ -30085,6 +31113,10 @@
         {
           "term": "gurloes",
           "paragraph": "p-023"
+        },
+        {
+          "term": "vodalus",
+          "paragraph": "p-026"
         },
         {
           "term": "algedonic",
@@ -30152,6 +31184,10 @@
         },
         {
           "term": "dux",
+          "paragraph": "p-062"
+        },
+        {
+          "term": "caesidius",
           "paragraph": "p-062"
         },
         {
@@ -30578,6 +31614,10 @@
         },
         {
           "term": "talos",
+          "paragraph": "p-007"
+        },
+        {
+          "term": "eschatology",
           "paragraph": "p-007"
         },
         {
@@ -31067,6 +32107,10 @@
           "paragraph": "p-006"
         },
         {
+          "term": "vodalus",
+          "paragraph": "p-006"
+        },
+        {
           "term": "ascian",
           "paragraph": "p-006"
         },
@@ -31167,8 +32211,8 @@
   ],
   "totalWords": 510474,
   "defaultChapter": "shadow-01",
-  "glossaryCount": 608,
+  "glossaryCount": 760,
   "correctionCount": 41,
   "cover": "cover.jpeg",
-  "editionVersion": 10
+  "editionVersion": 11
 }

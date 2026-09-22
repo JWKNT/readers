@@ -359,6 +359,10 @@
           "paragraph": "p-009"
         },
         {
+          "term": "rajya-mantri",
+          "paragraph": "p-010"
+        },
+        {
           "term": "silk",
           "paragraph": "p-013"
         },
@@ -391,6 +395,10 @@
           "paragraph": "p-025"
         },
         {
+          "term": "coracle",
+          "paragraph": "p-027"
+        },
+        {
           "term": "dorp",
           "paragraph": "p-030"
         },
@@ -421,6 +429,10 @@
         {
           "term": "coadjutor",
           "paragraph": "p-040"
+        },
+        {
+          "term": "gelt",
+          "paragraph": "p-047"
         },
         {
           "term": "calde",
@@ -492,6 +504,10 @@
         },
         {
           "term": "marble",
+          "paragraph": "p-217"
+        },
+        {
+          "term": "magnesia",
           "paragraph": "p-217"
         },
         {
@@ -1677,6 +1693,10 @@
         {
           "term": "beled",
           "paragraph": "p-196"
+        },
+        {
+          "term": "mura",
+          "paragraph": "p-213"
         }
       ],
       "words": 10020,
@@ -1942,6 +1962,10 @@
           "paragraph": "p-050"
         },
         {
+          "term": "gaff-topsail",
+          "paragraph": "p-062"
+        },
+        {
           "term": "quetzal",
           "paragraph": "p-069"
         },
@@ -1958,6 +1982,10 @@
           "paragraph": "p-088"
         },
         {
+          "term": "dulcimer",
+          "paragraph": "p-088"
+        },
+        {
           "term": "pas",
           "paragraph": "p-099"
         },
@@ -1968,6 +1996,10 @@
         {
           "term": "calde",
           "paragraph": "p-108"
+        },
+        {
+          "term": "hephaestus",
+          "paragraph": "p-113"
         },
         {
           "term": "gadwall",
@@ -2190,6 +2222,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "skany",
+          "paragraph": "p-001"
+        },
+        {
           "term": "silk",
           "paragraph": "p-001"
         },
@@ -2312,6 +2348,10 @@
         {
           "term": "dorp",
           "paragraph": "p-178"
+        },
+        {
+          "term": "merfrow",
+          "paragraph": "p-181"
         },
         {
           "term": "krait",
@@ -2604,6 +2644,10 @@
         {
           "term": "coadjutor",
           "paragraph": "p-108"
+        },
+        {
+          "term": "rajya-mantri",
+          "paragraph": "p-111"
         },
         {
           "term": "alubukhara",
@@ -3480,8 +3524,16 @@
           "paragraph": "p-001"
         },
         {
+          "term": "kilhari",
+          "paragraph": "p-003"
+        },
+        {
           "term": "hari-mau",
           "paragraph": "p-003"
+        },
+        {
+          "term": "ram",
+          "paragraph": "p-009"
         },
         {
           "term": "viron",
@@ -3548,6 +3600,10 @@
           "paragraph": "p-162"
         },
         {
+          "term": "skany",
+          "paragraph": "p-164"
+        },
+        {
           "term": "sinew",
           "paragraph": "p-164"
         },
@@ -3573,6 +3629,10 @@
         },
         {
           "term": "gaon",
+          "paragraph": "p-224"
+        },
+        {
+          "term": "dusra-agast",
           "paragraph": "p-224"
         },
         {
@@ -3910,6 +3970,14 @@
           "paragraph": "p-102"
         },
         {
+          "term": "ram",
+          "paragraph": "p-102"
+        },
+        {
+          "term": "roti",
+          "paragraph": "p-102"
+        },
+        {
           "term": "rajan",
           "paragraph": "p-105"
         },
@@ -4210,6 +4278,10 @@
           "paragraph": "p-011"
         },
         {
+          "term": "choora",
+          "paragraph": "p-017"
+        },
+        {
           "term": "pajarocu",
           "paragraph": "p-018"
         },
@@ -4270,6 +4342,10 @@
           "paragraph": "p-066"
         },
         {
+          "term": "rajya-mantri",
+          "paragraph": "p-067"
+        },
+        {
           "term": "wijzer",
           "paragraph": "p-069"
         },
@@ -4295,6 +4371,10 @@
         },
         {
           "term": "molpe",
+          "paragraph": "p-110"
+        },
+        {
+          "term": "darjan",
           "paragraph": "p-110"
         },
         {
@@ -5050,6 +5130,10 @@
           "paragraph": "p-026"
         },
         {
+          "term": "rajya-mantri",
+          "paragraph": "p-029"
+        },
+        {
           "term": "wijzer",
           "paragraph": "p-031"
         },
@@ -5087,6 +5171,10 @@
         },
         {
           "term": "azoth",
+          "paragraph": "p-045"
+        },
+        {
+          "term": "choora",
           "paragraph": "p-045"
         },
         {
@@ -5271,6 +5359,10 @@
           "paragraph": "p-006"
         },
         {
+          "term": "smew",
+          "paragraph": "p-008"
+        },
+        {
           "term": "silk",
           "paragraph": "p-010"
         },
@@ -5292,6 +5384,10 @@
         },
         {
           "term": "augur",
+          "paragraph": "p-019"
+        },
+        {
+          "term": "choora",
           "paragraph": "p-019"
         },
         {
@@ -5321,6 +5417,10 @@
         {
           "term": "han",
           "paragraph": "p-028"
+        },
+        {
+          "term": "carabao",
+          "paragraph": "p-032"
         },
         {
           "term": "strik",
@@ -5487,6 +5587,10 @@
         {
           "term": "viron",
           "paragraph": "p-012"
+        },
+        {
+          "term": "choora",
+          "paragraph": "p-014"
         },
         {
           "term": "azoth",
@@ -5965,6 +6069,10 @@
           "paragraph": "p-109"
         },
         {
+          "term": "familiare",
+          "paragraph": "p-112"
+        },
+        {
           "term": "hyacinth",
           "paragraph": "p-117"
         },
@@ -6401,6 +6509,10 @@
           "paragraph": "p-023"
         },
         {
+          "term": "familiare",
+          "paragraph": "p-026"
+        },
+        {
           "term": "incanto",
           "paragraph": "p-028"
         },
@@ -6601,6 +6713,10 @@
         },
         {
           "term": "auk",
+          "paragraph": "p-039"
+        },
+        {
+          "term": "gelada",
           "paragraph": "p-039"
         },
         {
@@ -7287,6 +7403,10 @@
           "paragraph": "p-011"
         },
         {
+          "term": "inclito",
+          "paragraph": "p-011"
+        },
+        {
           "term": "blanko",
           "paragraph": "p-012"
         },
@@ -7317,10 +7437,6 @@
         {
           "term": "soldo",
           "paragraph": "p-076"
-        },
-        {
-          "term": "inclito",
-          "paragraph": "p-078"
         },
         {
           "term": "palaestra",
@@ -9223,6 +9339,10 @@
           "paragraph": "p-005"
         },
         {
+          "term": "schreiner",
+          "paragraph": "p-008"
+        },
+        {
           "term": "patera",
           "paragraph": "p-018"
         },
@@ -9257,6 +9377,10 @@
         {
           "term": "nettle",
           "paragraph": "p-030"
+        },
+        {
+          "term": "flosser",
+          "paragraph": "p-054"
         },
         {
           "term": "krait",
@@ -9349,6 +9473,14 @@
         {
           "term": "karabin",
           "paragraph": "p-196"
+        },
+        {
+          "term": "warren",
+          "paragraph": "p-199"
+        },
+        {
+          "term": "wight",
+          "paragraph": "p-199"
         },
         {
           "term": "trivigaunte",
@@ -9674,6 +9806,10 @@
           "paragraph": "p-154"
         },
         {
+          "term": "loganstone",
+          "paragraph": "p-155"
+        },
+        {
           "term": "lune",
           "paragraph": "p-155"
         },
@@ -9688,6 +9824,10 @@
         {
           "term": "corpo",
           "paragraph": "p-163"
+        },
+        {
+          "term": "cantoro",
+          "paragraph": "p-174"
         },
         {
           "term": "ugolo",
@@ -11550,6 +11690,10 @@
           "paragraph": "p-027"
         },
         {
+          "term": "rimo",
+          "paragraph": "p-032"
+        },
+        {
           "term": "mora",
           "paragraph": "p-037"
         },
@@ -12535,6 +12679,14 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "cresset",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "virescent",
+          "paragraph": "p-002"
+        },
+        {
           "term": "jahlee",
           "paragraph": "p-009"
         },
@@ -12549,6 +12701,10 @@
         {
           "term": "whorl",
           "paragraph": "p-031"
+        },
+        {
+          "term": "badour",
+          "paragraph": "p-035"
         },
         {
           "term": "mora",
@@ -13005,6 +13161,10 @@
         {
           "term": "sinew",
           "paragraph": "p-046"
+        },
+        {
+          "term": "rais-man",
+          "paragraph": "p-050"
         },
         {
           "term": "maliki",
@@ -13763,6 +13923,10 @@
           "paragraph": "p-053"
         },
         {
+          "term": "tenebrious",
+          "paragraph": "p-057"
+        },
+        {
           "term": "fava",
           "paragraph": "p-070"
         },
@@ -14245,6 +14409,10 @@
       "sections": [],
       "noteAnchors": [
         {
+          "term": "firebrat",
+          "paragraph": "p-006"
+        },
+        {
           "term": "horn",
           "paragraph": "p-011"
         },
@@ -14345,12 +14513,20 @@
           "paragraph": "p-171"
         },
         {
+          "term": "bombazine",
+          "paragraph": "p-171"
+        },
+        {
           "term": "azoth",
           "paragraph": "p-171"
         },
         {
           "term": "nettle",
           "paragraph": "p-173"
+        },
+        {
+          "term": "tallow",
+          "paragraph": "p-174"
         },
         {
           "term": "oreb",
@@ -14381,8 +14557,16 @@
           "paragraph": "p-277"
         },
         {
+          "term": "hawkowl",
+          "paragraph": "p-283"
+        },
+        {
           "term": "gib",
           "paragraph": "p-283"
+        },
+        {
+          "term": "muckle",
+          "paragraph": "p-293"
         },
         {
           "term": "remora",
@@ -14631,6 +14815,10 @@
         },
         {
           "term": "fava",
+          "paragraph": "p-023"
+        },
+        {
+          "term": "honeysuckle",
           "paragraph": "p-023"
         },
         {
@@ -15059,6 +15247,10 @@
           "paragraph": "p-068"
         },
         {
+          "term": "pannikin",
+          "paragraph": "p-072"
+        },
+        {
           "term": "mort",
           "paragraph": "p-093"
         },
@@ -15131,6 +15323,10 @@
           "paragraph": "p-196"
         },
         {
+          "term": "brathair",
+          "paragraph": "p-209"
+        },
+        {
           "term": "pajarocu",
           "paragraph": "p-224"
         },
@@ -15161,6 +15357,18 @@
         {
           "term": "merl",
           "paragraph": "p-288"
+        },
+        {
+          "term": "spirea",
+          "paragraph": "p-301"
+        },
+        {
+          "term": "verbena",
+          "paragraph": "p-301"
+        },
+        {
+          "term": "myrtle",
+          "paragraph": "p-303"
         }
       ],
       "words": 9018,
@@ -15527,6 +15735,10 @@
         {
           "term": "tartaros",
           "paragraph": "p-124"
+        },
+        {
+          "term": "merfrow",
+          "paragraph": "p-125"
         },
         {
           "term": "cijfer",
@@ -16187,6 +16399,18 @@
         {
           "term": "prolocutor",
           "paragraph": "p-207"
+        },
+        {
+          "term": "lann",
+          "paragraph": "p-219"
+        },
+        {
+          "term": "fashed",
+          "paragraph": "p-221"
+        },
+        {
+          "term": "crenels",
+          "paragraph": "p-223"
         },
         {
           "term": "merlon",
@@ -16990,6 +17214,10 @@
           "paragraph": "p-068"
         },
         {
+          "term": "ghaists",
+          "paragraph": "p-073"
+        },
+        {
           "term": "augur",
           "paragraph": "p-086"
         },
@@ -17084,6 +17312,10 @@
         {
           "term": "chenille",
           "paragraph": "p-280"
+        },
+        {
+          "term": "seadh",
+          "paragraph": "p-297"
         },
         {
           "term": "refulgent",
@@ -17906,6 +18138,10 @@
           "paragraph": "p-009"
         },
         {
+          "term": "muckle",
+          "paragraph": "p-024"
+        },
+        {
           "term": "sphigx",
           "paragraph": "p-026"
         },
@@ -17940,6 +18176,10 @@
         {
           "term": "patera",
           "paragraph": "p-053"
+        },
+        {
+          "term": "auspicatory",
+          "paragraph": "p-062"
         },
         {
           "term": "carven",
@@ -17994,6 +18234,10 @@
           "paragraph": "p-197"
         },
         {
+          "term": "ray",
+          "paragraph": "p-219"
+        },
+        {
           "term": "ermine",
           "paragraph": "p-254"
         },
@@ -18012,6 +18256,10 @@
         {
           "term": "rose",
           "paragraph": "p-266"
+        },
+        {
+          "term": "bombazine",
+          "paragraph": "p-267"
         },
         {
           "term": "mucor",
@@ -18404,12 +18652,12 @@
           "paragraph": "p-017"
         },
         {
-          "term": "taal",
-          "paragraph": "p-020"
+          "term": "advocaat",
+          "paragraph": "p-018"
         },
         {
-          "term": "advocaat",
-          "paragraph": "p-022"
+          "term": "taal",
+          "paragraph": "p-020"
         },
         {
           "term": "nat",
@@ -18916,6 +19164,10 @@
           "paragraph": "p-244"
         },
         {
+          "term": "fashed",
+          "paragraph": "p-245"
+        },
+        {
           "term": "nabeanntan",
           "paragraph": "p-249"
         },
@@ -19346,6 +19598,14 @@
         {
           "term": "cugino",
           "paragraph": "p-169"
+        },
+        {
+          "term": "lily",
+          "paragraph": "p-196"
+        },
+        {
+          "term": "seanettle",
+          "paragraph": "p-196"
         },
         {
           "term": "mizzen",
@@ -19799,6 +20059,10 @@
           "paragraph": "p-005"
         },
         {
+          "term": "muckle",
+          "paragraph": "p-007"
+        },
+        {
           "term": "viron",
           "paragraph": "p-014"
         },
@@ -19839,6 +20103,10 @@
           "paragraph": "p-063"
         },
         {
+          "term": "braw",
+          "paragraph": "p-076"
+        },
+        {
           "term": "tansy",
           "paragraph": "p-080"
         },
@@ -19857,6 +20125,14 @@
         {
           "term": "phaea",
           "paragraph": "p-101"
+        },
+        {
+          "term": "honeysuckle",
+          "paragraph": "p-106"
+        },
+        {
+          "term": "ghaists",
+          "paragraph": "p-117"
         },
         {
           "term": "mucor",
@@ -19895,6 +20171,10 @@
           "paragraph": "p-209"
         },
         {
+          "term": "cant",
+          "paragraph": "p-249"
+        },
+        {
           "term": "ermine",
           "paragraph": "p-258"
         },
@@ -19917,6 +20197,10 @@
         {
           "term": "olivine",
           "paragraph": "p-329"
+        },
+        {
+          "term": "fient",
+          "paragraph": "p-340"
         },
         {
           "term": "hyacinth",
@@ -20178,6 +20462,10 @@
         {
           "term": "whorl",
           "paragraph": "p-066"
+        },
+        {
+          "term": "bombazine",
+          "paragraph": "p-083"
         },
         {
           "term": "abaia",
@@ -20662,6 +20950,10 @@
         {
           "term": "gaon",
           "paragraph": "p-148"
+        },
+        {
+          "term": "tentie",
+          "paragraph": "p-151"
         },
         {
           "term": "ermine",
@@ -21273,6 +21565,10 @@
           "paragraph": "p-246"
         },
         {
+          "term": "ratlines",
+          "paragraph": "p-246"
+        },
+        {
           "term": "jerboa",
           "paragraph": "p-260"
         },
@@ -21299,6 +21595,10 @@
         {
           "term": "hus",
           "paragraph": "p-307"
+        },
+        {
+          "term": "tomcod",
+          "paragraph": "p-321"
         },
         {
           "term": "auk",
@@ -21515,6 +21815,10 @@
           "paragraph": "p-011"
         },
         {
+          "term": "braw",
+          "paragraph": "p-016"
+        },
+        {
           "term": "hari-mau",
           "paragraph": "p-025"
         },
@@ -21583,6 +21887,10 @@
           "paragraph": "p-108"
         },
         {
+          "term": "roti",
+          "paragraph": "p-108"
+        },
+        {
           "term": "limna",
           "paragraph": "p-128"
         },
@@ -21617,6 +21925,10 @@
         {
           "term": "prothonotary",
           "paragraph": "p-162"
+        },
+        {
+          "term": "rajya-mantri",
+          "paragraph": "p-166"
         }
       ],
       "words": 4332,
@@ -22101,6 +22413,10 @@
           "paragraph": "p-035"
         },
         {
+          "term": "legume",
+          "paragraph": "p-037"
+        },
+        {
           "term": "horn",
           "paragraph": "p-039"
         },
@@ -22225,6 +22541,10 @@
         {
           "term": "remora",
           "paragraph": "p-003"
+        },
+        {
+          "term": "seanettle",
+          "paragraph": "p-004"
         },
         {
           "term": "vadsig",
@@ -22673,7 +22993,7 @@
   ],
   "totalWords": 401962,
   "defaultChapter": "blue-prelude",
-  "glossaryCount": 307,
+  "glossaryCount": 365,
   "correctionCount": 16,
-  "editionVersion": 10
+  "editionVersion": 11
 }
