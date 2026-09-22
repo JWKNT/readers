@@ -9,12 +9,19 @@
   const clamp = (n,a,b) => Math.max(a,Math.min(b,n));
   const debounce = (f,delay) => {let t;return (...args)=>{clearTimeout(t);t=setTimeout(()=>f(...args),delay);};};
   const sourceWording = new URLSearchParams(location.search).get('wording')==='source';
+  const edition = new URL(document.currentScript?.src || location.href).searchParams.get('v');
   const desktop = matchMedia('(min-width:920px)');
   let anchor=null, showTimer=null, closeTimer=null, ignoreFocus=null, scrollFrame=null, searchSequence=0;
   const popup=$('#word-popup');
   let marginItems=[], marginFrame=null;
   const svgNS='http://www.w3.org/2000/svg';
-  async function getJSON(path) {const r=await fetch(path,{credentials:'same-origin'});if(!r.ok)throw new Error(`${path}: HTTP ${r.status}`);return r.json();}
+  async function getJSON(path) {
+    const url = new URL(path, location.href);
+    if(edition)url.searchParams.set('edition',edition);
+    const r=await fetch(url,{credentials:'same-origin'});
+    if(!r.ok)throw new Error(`${path}: HTTP ${r.status}`);
+    return r.json();
+  }
   function route() {try {const [chapter,paragraph]=decodeURIComponent(location.hash.slice(1)).split('/');return {chapter,paragraph};} catch {return {};}}
   function chapter(id) {return state.manifest?.chapters.find(c=>c.id===id);}
   function closeDialogs() {$$('dialog[open]').forEach(d=>d.close());}

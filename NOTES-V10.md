@@ -27,7 +27,7 @@ There are 1,175 series-specific notes, with 318 additions and 41 revisions to ex
 
 `python3 tools/validate.py --baseline 4dac1a4` checks chapter text preservation, paragraph IDs, annotation and first-appearance counts, manifest/library agreement, JSON/plain-HTML agreement, local links, static source targets and tooltips, external-source presence, and uncertainty qualifiers. `git diff --check` checks whitespace.
 
-First-occurrence paragraphs were reviewed for every addition across the three readers. Browser checks covered the new Katharine and Siyuf popups at desktop size, Pajarocu at 390px without horizontal overflow, source links, Escape dismissal, and theme switching. No browser console errors were observed. The reading layout and runtime are unchanged.
+First-occurrence paragraphs were reviewed for every addition across the three readers. Browser checks covered the new Katharine and Siyuf popups at desktop size, Pajarocu at 390px without horizontal overflow, source links, Escape dismissal, and theme switching. No browser console errors were observed. The reading layout is unchanged. Live verification caught a cached glossary in a returning browser session; JSON requests now use the reader script’s version as an edition query, keeping the manifest, glossary, chapters, and search index on the same release. Browser verification also checks the corrected live Drotte note after this cache fix.
 
 ## Added references
 
