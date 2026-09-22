@@ -1,4 +1,4 @@
-Current annotation policy and research: [version 9](NOTES-V9.md). This file records earlier passes; their in-book glosses are superseded.
+Current annotation policy and research: [version 10](NOTES-V10.md). This file records earlier passes; their in-book glosses are superseded.
 
 # Text and annotation decisions — version 7
 

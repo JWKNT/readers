@@ -559,12 +559,12 @@
       "Pateras"
     ],
     "occurrences": 1619,
+    "possible": true,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-001",
       "index": 0
-    },
-    "possible": true
+    }
   },
   {
     "id": "maytera",
@@ -582,12 +582,12 @@
       "Mayteras"
     ],
     "occurrences": 1439,
+    "possible": true,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-001",
       "index": 0
-    },
-    "possible": true
+    }
   },
   {
     "id": "augur",
@@ -670,12 +670,12 @@
       "azoths"
     ],
     "occurrences": 145,
+    "possible": false,
     "first": {
       "chapter": "nightside-06",
       "paragraph": "p-142",
       "index": 5
-    },
-    "possible": false
+    }
   },
   {
     "id": "cenoby",
@@ -1017,12 +1017,12 @@
       "taluses"
     ],
     "occurrences": 209,
+    "possible": true,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-157",
       "index": 0
-    },
-    "possible": true
+    }
   },
   {
     "id": "sciathan",
@@ -1127,12 +1127,12 @@
       "Chenille"
     ],
     "occurrences": 611,
+    "possible": false,
     "first": {
       "chapter": "nightside-03",
       "paragraph": "p-213",
       "index": 2
-    },
-    "possible": false
+    }
   },
   {
     "id": "addax",
@@ -2845,12 +2845,12 @@
   {
     "id": "chrasmologic",
     "term": "Chrasmologic",
-    "short": "Possibly: concerned with oracles.",
-    "note": "Possibly formed from Greek chrēsmos, an oracle or prophetic response, with a suffix concerned with speech or discourse. “Oracular writings” is therefore a plausible reading; the exact formation remains uncertain.",
+    "short": "Possibly Greek chrēsmos, an oracle or prophetic response.",
+    "note": "Possibly Greek chrēsmos, an oracle or prophetic response, often delivered in verse.",
     "sources": [
       {
-        "url": "https://en.wiktionary.org/wiki/%CF%87%CF%81%CE%B7%CF%83%CE%BC%CF%8C%CF%82#Ancient_Greek",
-        "label": "Wiktionary · χρησμός"
+        "label": "Bailly Greek–French Dictionary: χρησμός",
+        "url": "https://bailly.app/chr%C3%AAsmos"
       }
     ],
     "aliases": [
@@ -2869,8 +2869,8 @@
   {
     "id": "dimber",
     "term": "dimber",
-    "short": "Fine, attractive, or pleasing.",
-    "note": "Old cant for pretty or fine; “dimber hands” can accordingly mean fine or capable hands.",
+    "short": "Old cant for pretty or fine.",
+    "note": "Old cant for pretty, fine, or attractive.",
     "sources": [
       {
         "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
@@ -3238,12 +3238,12 @@
       "Silk"
     ],
     "occurrences": 3511,
+    "possible": false,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-001",
       "index": 0
-    },
-    "possible": false
+    }
   },
   {
     "id": "horn",
@@ -3260,12 +3260,12 @@
       "Horn"
     ],
     "occurrences": 295,
+    "possible": false,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-001",
       "index": 0
-    },
-    "possible": false
+    }
   },
   {
     "id": "villus",
@@ -3282,12 +3282,12 @@
       "Villus"
     ],
     "occurrences": 42,
+    "possible": false,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-019",
       "index": 0
-    },
-    "possible": false
+    }
   },
   {
     "id": "nettle",
@@ -3304,12 +3304,12 @@
       "Nettle"
     ],
     "occurrences": 127,
+    "possible": false,
     "first": {
       "chapter": "lake-01",
       "paragraph": "p-117",
       "index": 13
-    },
-    "possible": false
+    }
   },
   {
     "id": "hyacinth",
@@ -3326,12 +3326,12 @@
       "Hyacinth"
     ],
     "occurrences": 406,
+    "possible": false,
     "first": {
       "chapter": "nightside-06",
       "paragraph": "p-194",
       "index": 5
-    },
-    "possible": false
+    }
   },
   {
     "id": "marble",
@@ -3348,12 +3348,12 @@
       "Marble"
     ],
     "occurrences": 491,
+    "possible": false,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-001",
       "index": 0
-    },
-    "possible": false
+    }
   },
   {
     "id": "pike",
@@ -3370,12 +3370,12 @@
       "Pike"
     ],
     "occurrences": 96,
+    "possible": false,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-003",
       "index": 0
-    },
-    "possible": false
+    }
   },
   {
     "id": "musk",
@@ -3392,12 +3392,12 @@
       "Musk"
     ],
     "occurrences": 306,
+    "possible": false,
     "first": {
       "chapter": "nightside-03",
       "paragraph": "p-269",
       "index": 2
-    },
-    "possible": false
+    }
   },
   {
     "id": "mint",
@@ -3414,12 +3414,12 @@
       "Mint"
     ],
     "occurrences": 580,
+    "possible": false,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-007",
       "index": 0
-    },
-    "possible": false
+    }
   },
   {
     "id": "rose",
@@ -3436,12 +3436,12 @@
       "Rose"
     ],
     "occurrences": 152,
+    "possible": false,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-001",
       "index": 0
-    },
-    "possible": false
+    }
   },
   {
     "id": "sinew",
@@ -3458,12 +3458,12 @@
       "Sinew"
     ],
     "occurrences": 2,
+    "possible": false,
     "first": {
       "chapter": "exodus-afterward",
       "paragraph": "p-002",
       "index": 54
-    },
-    "possible": false
+    }
   },
   {
     "id": "paean",
@@ -3523,12 +3523,12 @@
       "Limna"
     ],
     "occurrences": 90,
+    "possible": true,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-007",
       "index": 0
-    },
-    "possible": true
+    }
   },
   {
     "id": "calde",
@@ -3548,12 +3548,12 @@
       "caldés"
     ],
     "occurrences": 772,
+    "possible": true,
     "first": {
       "chapter": "nightside-03",
       "paragraph": "p-123",
       "index": 2
-    },
-    "possible": true
+    }
   },
   {
     "id": "whorl",
@@ -3573,12 +3573,12 @@
       "Whorls"
     ],
     "occurrences": 232,
+    "possible": false,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-008",
       "index": 0
-    },
-    "possible": false
+    }
   },
   {
     "id": "hammerstone",
@@ -3908,6 +3908,1744 @@
       "chapter": "nightside-02",
       "paragraph": "p-009",
       "index": 1
+    }
+  },
+  {
+    "id": "mamelta",
+    "term": "Mamelta",
+    "aliases": [
+      "Mamelta"
+    ],
+    "short": "Possibly Saint Mamelta, a Persian martyr.",
+    "note": "Possibly Saint Mamelta, also called Memelchtha, a fourth-century Persian martyr. Christian tradition describes a priestess of Artemis who converted to Christianity and was stoned.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Orthodox Church in America: Memelchtha",
+        "url": "https://www.oca.org/saints/lives/2012/10/05/102881-martyr-memelchtha-of-persia"
+      }
+    ],
+    "occurrences": 75,
+    "first": {
+      "chapter": "lake-09",
+      "paragraph": "p-206",
+      "index": 21
+    }
+  },
+  {
+    "id": "siyuf",
+    "term": "Siyuf",
+    "aliases": [
+      "Siyuf"
+    ],
+    "short": "Possibly Arabic siyūf, swords.",
+    "note": "Possibly Arabic siyūf, swords, a dialectal plural of sayf or sēf, a sword.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Willmore, The Spoken Arabic of Egypt (Birzeit University)",
+        "url": "https://fada.birzeit.edu/jspui/bitstream/20.500.11889/4947/1/spokenarabicofeg00willuoft.pdf"
+      }
+    ],
+    "occurrences": 205,
+    "first": {
+      "chapter": "calde-epilogue",
+      "paragraph": "p-004",
+      "index": 36
+    }
+  },
+  {
+    "id": "saba",
+    "term": "Saba",
+    "aliases": [
+      "Saba"
+    ],
+    "short": "Possibly Arabic ṣabā, the east wind.",
+    "note": "Possibly Arabic ṣabā, the east wind; in Arabic and Urdu literary usage, a gentle morning breeze.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Rekhta Dictionary: ṣabā",
+        "url": "https://www.rekhtadictionary.com/meaning-of-sabaa"
+      }
+    ],
+    "occurrences": 190,
+    "first": {
+      "chapter": "calde-10",
+      "paragraph": "p-002",
+      "index": 35
+    }
+  },
+  {
+    "id": "sirka",
+    "term": "Sirka",
+    "aliases": [
+      "Sirka"
+    ],
+    "short": "Possibly Persian and Urdu sirka, vinegar.",
+    "note": "Possibly sirka, vinegar, a Persian word also used in Urdu and Hindi.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Rekhta Dictionary: sirka",
+        "url": "https://www.rekhtadictionary.com/meaning-of-sirka"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "exodus-05",
+      "paragraph": "p-039",
+      "index": 41
+    }
+  },
+  {
+    "id": "abanja",
+    "term": "Abanja",
+    "aliases": [
+      "Abanja"
+    ],
+    "short": "Possibly Arabic banj, an anesthetic.",
+    "note": "Possibly Arabic banj, an anesthetic or narcotic; the word also names henbane, a plant historically used for its intoxicating effects.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Hans Wehr, A Dictionary of Modern Written Arabic",
+        "url": "https://kutub.nur.nu/Arabic-Language/Hans-Wehr.pdf"
+      }
+    ],
+    "occurrences": 74,
+    "first": {
+      "chapter": "exodus-09",
+      "paragraph": "p-247",
+      "index": 45
+    }
+  },
+  {
+    "id": "hadale",
+    "term": "Hadale",
+    "aliases": [
+      "Hadale"
+    ],
+    "short": "Possibly Arabic hadīl, a dove’s cooing.",
+    "note": "Possibly Arabic hadīl, the cooing of a dove. The word is also used as a personal name.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Suzanne Pinckney Stetkevych, The Cooing of the Dove and the Cawing of the Crow",
+        "url": "https://brill.com/display/book/9789004499287/BP000005.xml?language=en"
+      }
+    ],
+    "occurrences": 38,
+    "first": {
+      "chapter": "exodus-09",
+      "paragraph": "p-221",
+      "index": 45
+    }
+  },
+  {
+    "id": "hossaan",
+    "term": "Hossaan",
+    "aliases": [
+      "Hossaan"
+    ],
+    "short": "Possibly Arabic ḥiṣān, a horse or stallion.",
+    "note": "Possibly Arabic ḥiṣān, a horse or stallion.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Reverso English–Arabic Dictionary",
+        "url": "https://dictionary.reverso.net/english-arabic/horse"
+      }
+    ],
+    "occurrences": 64,
+    "first": {
+      "chapter": "exodus-02",
+      "paragraph": "p-160",
+      "index": 38
+    }
+  },
+  {
+    "id": "matar",
+    "term": "Matar",
+    "aliases": [
+      "Matar"
+    ],
+    "short": "Possibly Arabic maṭar, rain.",
+    "note": "Possibly Arabic maṭar, rain. Its plural is amṭār.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Lisaan Masry Arabic Dictionary: matar",
+        "url": "https://www.lisaanmasry.org/online/word.php?cn=3&id=7775&ui="
+      }
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "exodus-14",
+      "paragraph": "p-380",
+      "index": 50
+    }
+  },
+  {
+    "id": "lijam",
+    "term": "Lijam",
+    "aliases": [
+      "Lijam",
+      "Ljam"
+    ],
+    "short": "Possibly Arabic lijām, a bridle.",
+    "note": "Possibly Arabic lijām, a bridle or rein; the word is also used in Urdu.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "SOAS: The Provenance of Arabic Loan-words in Hausa",
+        "url": "https://eprints.soas.ac.uk/28940/1/10673184.pdf"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "exodus-14",
+      "paragraph": "p-481",
+      "index": 50
+    }
+  },
+  {
+    "id": "gleacaiocht",
+    "term": "gleacaiocht",
+    "aliases": [
+      "gleacaiocht",
+      "Gleacaiocht"
+    ],
+    "short": "Irish gleacaíocht: wrestling, fighting, or gymnastics.",
+    "note": "Irish gleacaíocht means wrestling or fighting; it also denotes gymnastics, acrobatics, or trickery.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Ó Dónaill, Foclóir Gaeilge–Béarla",
+        "url": "https://www.teanglann.ie/en/fgb/gleaca%C3%ADocht"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "exodus-12",
+      "paragraph": "p-137",
+      "index": 48
+    }
+  },
+  {
+    "id": "achates",
+    "term": "achates",
+    "aliases": [
+      "achates",
+      "Achates"
+    ],
+    "short": "A faithful companion, from Virgil’s Achates.",
+    "note": "Achates is Aeneas’s trusted companion in Virgil’s Aeneid; his name became a term for a loyal friend.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/achates"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-07",
+      "paragraph": "p-041",
+      "index": 19
+    }
+  },
+  {
+    "id": "lemur",
+    "term": "Lemur",
+    "aliases": [
+      "Lemur"
+    ],
+    "short": "A Madagascan primate; its name derives from Latin spirits of the dead.",
+    "note": "A primate of Madagascar and nearby islands. Its zoological name derives from Latin lemures, spirits of the dead, originally applied by Linnaeus to animals that wandered at night.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/lemur"
+      }
+    ],
+    "occurrences": 164,
+    "first": {
+      "chapter": "nightside-09",
+      "paragraph": "p-250",
+      "index": 8
+    }
+  },
+  {
+    "id": "ermine",
+    "term": "Ermine",
+    "aliases": [
+      "Ermine"
+    ],
+    "short": "A stoat, especially in its white winter coat.",
+    "note": "A stoat or related weasel whose fur turns white in winter while the tail-tip stays black; also its fur, traditionally used to trim ceremonial robes.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/ermine"
+      }
+    ],
+    "occurrences": 48,
+    "first": {
+      "chapter": "nightside-04",
+      "paragraph": "p-070",
+      "index": 3
+    }
+  },
+  {
+    "id": "titi",
+    "term": "Titi",
+    "aliases": [
+      "Titi"
+    ],
+    "short": "A small South American monkey; also a name for certain trees.",
+    "note": "A small, thick-furred South American monkey with a tail that does not grasp. The same spelling also names trees of the southeastern United States, including Cliftonia monophylla.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/titi"
+      }
+    ],
+    "occurrences": 15,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-275",
+      "index": 42
+    }
+  },
+  {
+    "id": "mattak",
+    "term": "Mattak",
+    "aliases": [
+      "Mattak"
+    ],
+    "short": "Whale skin and attached blubber eaten in Greenland.",
+    "note": "A Greenlandic food made from whale skin with its attached layer of blubber.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Visit Greenland: Greenlandic gastronomy",
+        "url": "https://visitgreenland.com/activities/greenlandic-gastronomy-a-taste-of-greenland/"
+      }
+    ],
+    "occurrences": 8,
+    "first": {
+      "chapter": "calde-06",
+      "paragraph": "p-358",
+      "index": 31
+    }
+  },
+  {
+    "id": "yapok",
+    "term": "Yapok",
+    "aliases": [
+      "Yapok"
+    ],
+    "short": "A water opossum of South America.",
+    "note": "The aquatic opossum Chironectes minimus. Its name comes from the Oyapock River in northern South America.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/yapok"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "calde-05",
+      "paragraph": "p-022",
+      "index": 30
+    }
+  },
+  {
+    "id": "gurnard",
+    "term": "Gurnard",
+    "aliases": [
+      "Gurnard"
+    ],
+    "short": "A sea robin; the name is related to grunting.",
+    "note": "A sea robin, a marine fish. The name comes through French from a verb meaning to grunt.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/gurnard"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-197",
+      "index": 2
+    }
+  },
+  {
+    "id": "brocket",
+    "term": "Brocket",
+    "aliases": [
+      "Brocket"
+    ],
+    "short": "A small deer with unbranched antlers.",
+    "note": "Any of several small Central and South American deer with simple, unbranched antlers. The older English word also names a young male red deer.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/brocket"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-09",
+      "paragraph": "p-267",
+      "index": 34
+    }
+  },
+  {
+    "id": "caddis",
+    "term": "Caddis",
+    "aliases": [
+      "Caddis"
+    ],
+    "short": "A caddisfly or its aquatic larva.",
+    "note": "A caddisfly or caddisworm. Caddis is also an old term for worsted yarn or the woven binding used for garters.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/caddis"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-06",
+      "paragraph": "p-076",
+      "index": 5
+    }
+  },
+  {
+    "id": "bongo",
+    "term": "Bongo",
+    "aliases": [
+      "Bongo"
+    ],
+    "short": "An African forest antelope with white stripes.",
+    "note": "A large African antelope, Tragelaphus eurycerus, with a reddish chestnut coat crossed by narrow white stripes.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/bongo"
+      }
+    ],
+    "occurrences": 8,
+    "first": {
+      "chapter": "exodus-11",
+      "paragraph": "p-147",
+      "index": 47
+    }
+  },
+  {
+    "id": "loach",
+    "term": "Loach",
+    "aliases": [
+      "Loach"
+    ],
+    "short": "A small freshwater fish related to carp.",
+    "note": "A small freshwater fish of the Old World, belonging to a group closely related to the carps.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/loach"
+      }
+    ],
+    "occurrences": 13,
+    "first": {
+      "chapter": "nightside-10",
+      "paragraph": "p-143",
+      "index": 9
+    }
+  },
+  {
+    "id": "liana",
+    "term": "Liana",
+    "aliases": [
+      "Liana"
+    ],
+    "short": "A woody climbing vine of tropical forests.",
+    "note": "A climbing vine, usually woody, rooted in the soil and growing up other plants; especially characteristic of tropical rainforests.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/liana"
+      }
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "calde-06",
+      "paragraph": "p-296",
+      "index": 31
+    }
+  },
+  {
+    "id": "kingcup",
+    "term": "Kingcup",
+    "aliases": [
+      "Kingcup"
+    ],
+    "short": "A name for marsh marigold and related buttercups.",
+    "note": "A common name for plants of the buttercup family, especially the marsh marigold.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/kingcup"
+      }
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "calde-05",
+      "paragraph": "p-021",
+      "index": 30
+    }
+  },
+  {
+    "id": "arolla",
+    "term": "Arolla",
+    "aliases": [
+      "Arolla"
+    ],
+    "short": "The Swiss stone pine.",
+    "note": "The Swiss pine, also called arolla pine. The name comes from the French dialect of the canton of Valais in Switzerland.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/arolla"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-05",
+      "paragraph": "p-195",
+      "index": 17
+    }
+  },
+  {
+    "id": "feist",
+    "term": "Feist",
+    "aliases": [
+      "Feist"
+    ],
+    "short": "A dialect word for a small dog.",
+    "note": "A dialect word for a small dog, also spelled fice or fyce.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/feist"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "exodus-14",
+      "paragraph": "p-133",
+      "index": 50
+    }
+  },
+  {
+    "id": "marmot",
+    "term": "Marmot",
+    "aliases": [
+      "Marmot"
+    ],
+    "short": "A large burrowing rodent of the squirrel family.",
+    "note": "A stout, short-legged rodent of the genus Marmota, in the squirrel family. Marmots live in burrows and hibernate through winter.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/marmot"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-05",
+      "paragraph": "p-023",
+      "index": 30
+    }
+  },
+  {
+    "id": "scup",
+    "term": "Scup",
+    "aliases": [
+      "Scup"
+    ],
+    "short": "An Atlantic porgy with a Narragansett-derived name.",
+    "note": "Stenotomus chrysops, a porgy found along the Atlantic coast of North America. The English name is shortened from a Narragansett word.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/scup"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "calde-01",
+      "paragraph": "p-172",
+      "index": 26
+    }
+  },
+  {
+    "id": "skink",
+    "term": "Skink",
+    "aliases": [
+      "Skink"
+    ],
+    "short": "A usually small lizard of the family Scincidae.",
+    "note": "A lizard of the family Scincidae, typically small and insect-eating with an elongated body.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/skink"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "calde-06",
+      "paragraph": "p-173",
+      "index": 31
+    }
+  },
+  {
+    "id": "civet",
+    "term": "Civet",
+    "aliases": [
+      "Civet"
+    ],
+    "short": "A slender carnivorous mammal; also its musky secretion.",
+    "note": "An Old World carnivorous mammal of the family Viverridae. Civet also names a strong-smelling glandular secretion formerly used in perfume.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/civet"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "calde-02",
+      "paragraph": "p-357",
+      "index": 27
+    }
+  },
+  {
+    "id": "nizam",
+    "term": "Nizam",
+    "aliases": [
+      "Nizam"
+    ],
+    "short": "An Ottoman regular soldier; also the title of Hyderabad’s rulers.",
+    "note": "A term for regular Ottoman troops or a soldier in that army, from Arabic niẓām, order or organization. Nizam was also the title of the rulers of Hyderabad.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gw.uni-jena.de/phifakmedia/93797/rocchi-ottoman-turkish-loanwords-in-egyptian-and-syro-lebanese-palestinian-arabic.pdf?nonactive=1&suffix=pdf",
+        "label": "Luciano Rocchi · Ottoman-Turkish Loanwords"
+      },
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/nizam"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-14",
+      "paragraph": "p-156",
+      "index": 50
+    }
+  },
+  {
+    "id": "moly",
+    "term": "Moly",
+    "aliases": [
+      "Moly"
+    ],
+    "short": "Possibly the magical herb in the Odyssey.",
+    "note": "Possibly the magical herb Hermes gives Odysseus against Circe’s enchantments in the Odyssey. Homer describes a black root and white flowers.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/moly"
+      },
+      {
+        "label": "Homer, Odyssey 10, collected at Theoi",
+        "url": "https://www.theoi.com/Titan/Kirke.html"
+      }
+    ],
+    "occurrences": 40,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-023",
+      "index": 28
+    }
+  },
+  {
+    "id": "catachrest",
+    "term": "catachrest",
+    "aliases": [
+      "catachrest",
+      "catachrests"
+    ],
+    "short": "Possibly catachresis, an unusual or improper use of a word.",
+    "note": "Possibly catachresis: using a word in an improper or strained way, or making a deliberately incongruous figure of speech. The Greek root katachrēsis means misuse.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/catachresis"
+      }
+    ],
+    "occurrences": 20,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-021",
+      "index": 1
+    }
+  },
+  {
+    "id": "sard",
+    "term": "Sard",
+    "aliases": [
+      "Sard"
+    ],
+    "short": "A brownish red variety of chalcedony.",
+    "note": "A brownish red variety of chalcedony, sometimes classed as a kind of carnelian.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/sard"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "calde-05",
+      "paragraph": "p-225",
+      "index": 30
+    }
+  },
+  {
+    "id": "catamitus",
+    "term": "Catamitus",
+    "aliases": [
+      "Catamitus"
+    ],
+    "short": "The Latin form of Ganymede.",
+    "note": "Catamitus is a Latin form of Ganymede, the beautiful youth of Greek mythology, transmitted through Etruscan Catmite. It is the origin of the English word catamite.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/catamite"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-06",
+      "paragraph": "p-031",
+      "index": 5
+    }
+  },
+  {
+    "id": "bandeau",
+    "term": "bandeau",
+    "aliases": [
+      "bandeau",
+      "bandeaux",
+      "bandeaus"
+    ],
+    "short": "A band worn around the head or across the breasts.",
+    "note": "A narrow band of cloth worn around the hair or, as a garment, around the breasts. French bandeau is a diminutive of bande, band.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/bandeau"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-126",
+      "index": 28
+    }
+  },
+  {
+    "id": "aster",
+    "term": "Aster",
+    "aliases": [
+      "Aster"
+    ],
+    "short": "A flowering plant whose name is Greek for star.",
+    "note": "A plant of Aster or related genera, bearing flower heads with radiating petals. The name comes from Greek astēr, star.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/aster"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-193",
+      "index": 28
+    }
+  },
+  {
+    "id": "cassava",
+    "term": "Cassava",
+    "aliases": [
+      "Cassava"
+    ],
+    "short": "Manioc, a tropical crop grown for its starchy roots.",
+    "note": "Manihot esculenta, a tropical plant cultivated for its starch-rich roots; also called manioc or yuca.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/cassava"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "calde-04",
+      "paragraph": "p-006",
+      "index": 29
+    }
+  },
+  {
+    "id": "kerria",
+    "term": "Kerria",
+    "aliases": [
+      "Kerria"
+    ],
+    "short": "An Asian flowering shrub named for William Kerr.",
+    "note": "Kerria japonica, an Asian shrub of the rose family with yellow flowers. The genus is named for the gardener William Kerr.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/kerria"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-16",
+      "paragraph": "p-338",
+      "index": 52
+    }
+  },
+  {
+    "id": "elodia",
+    "term": "Elodia",
+    "aliases": [
+      "Elodia"
+    ],
+    "short": "Possibly Elodea, a genus of aquatic plants.",
+    "note": "Possibly Elodea, a genus of submerged aquatic plants. Its name derives from Greek helōdēs, marshy.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/elodea"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-484",
+      "index": 28
+    }
+  },
+  {
+    "id": "bittersweet",
+    "term": "Bittersweet",
+    "aliases": [
+      "Bittersweet"
+    ],
+    "short": "A name for woody vines, including a poisonous nightshade.",
+    "note": "A common name for several climbing plants, including Solanum dulcamara, the poisonous bittersweet nightshade, and Celastrus scandens, American bittersweet.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/bittersweet"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "lake-10",
+      "paragraph": "p-054",
+      "index": 22
+    }
+  },
+  {
+    "id": "orchid",
+    "term": "Orchid",
+    "aliases": [
+      "Orchid"
+    ],
+    "short": "A flowering plant of the family Orchidaceae.",
+    "note": "A plant of the family Orchidaceae. Orchid flowers typically have three petals, with one enlarged into a distinctive lip.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/orchid"
+      }
+    ],
+    "occurrences": 272,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-217",
+      "index": 2
+    }
+  },
+  {
+    "id": "slate",
+    "term": "Slate",
+    "aliases": [
+      "Slate"
+    ],
+    "short": "A fine-grained metamorphic rock that splits into sheets.",
+    "note": "A dense, fine-grained rock formed when sediments such as shale are altered by pressure. Its cleavage allows it to split into thin plates.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/slate"
+      }
+    ],
+    "occurrences": 43,
+    "first": {
+      "chapter": "exodus-10",
+      "paragraph": "p-014",
+      "index": 46
+    }
+  },
+  {
+    "id": "karbaj",
+    "term": "karbaj",
+    "aliases": [
+      "karbaj",
+      "karbajs"
+    ],
+    "short": "Possibly kurbash, a hide whip.",
+    "note": "Possibly kurbash, also spelled kourbash, a whip made of hide and used for punishment. The English word comes from Turkish kırbaç.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/kurbash"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "exodus-02",
+      "paragraph": "p-247",
+      "index": 38
+    }
+  },
+  {
+    "id": "ah-lah",
+    "term": "Ah Lah",
+    "aliases": [
+      "Ah Lah"
+    ],
+    "short": "Possibly Allah, the Arabic name for God.",
+    "note": "Possibly Allah, the Arabic name for God.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/Allah"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "calde-01",
+      "paragraph": "p-044",
+      "index": 26
+    }
+  },
+  {
+    "id": "vulpes",
+    "term": "Vulpes",
+    "aliases": [
+      "Vulpes"
+    ],
+    "short": "Latin for a fox.",
+    "note": "Latin vulpes means a fox; figuratively, cunning or craftiness.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Lewis and Short Latin Dictionary, Perseus",
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n51431/"
+      }
+    ],
+    "occurrences": 11,
+    "first": {
+      "chapter": "lake-06",
+      "paragraph": "p-099",
+      "index": 18
+    }
+  },
+  {
+    "id": "aquila",
+    "term": "Aquila",
+    "aliases": [
+      "Aquila",
+      "Aquilla"
+    ],
+    "short": "Latin for an eagle, also a Roman legion’s standard.",
+    "note": "Latin aquila means an eagle. It also names the eagle-shaped standard of a Roman legion and the constellation of the Eagle.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Lewis and Short Latin Dictionary, Perseus",
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n3282/"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "lake-04",
+      "paragraph": "p-223",
+      "index": 16
+    }
+  },
+  {
+    "id": "thetis",
+    "term": "Thetis",
+    "aliases": [
+      "Thetis"
+    ],
+    "short": "A Greek sea goddess and the mother of Achilles.",
+    "note": "A Nereid, or sea nymph, in Greek mythology. With the mortal Peleus she is the mother of Achilles.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Homer and other ancient sources collected at Theoi",
+        "url": "https://www.theoi.com/Pontios/NereisThetis.html"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-014",
+      "index": 28
+    }
+  },
+  {
+    "id": "fulmar",
+    "term": "Fulmar",
+    "aliases": [
+      "Fulmar"
+    ],
+    "short": "A cold-water seabird related to petrels.",
+    "note": "A seabird of the genus Fulmarus, related to petrels. Northern and southern species inhabit the colder seas of their respective hemispheres.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/fulmar"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "lake-10",
+      "paragraph": "p-054",
+      "index": 22
+    }
+  },
+  {
+    "id": "goldcrest",
+    "term": "Goldcrest",
+    "aliases": [
+      "Goldcrest"
+    ],
+    "short": "A tiny kinglet with a bright yellow crown.",
+    "note": "Regulus regulus, a very small Eurasian bird with a yellow crown patch bordered by black.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/goldcrest"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-028",
+      "index": 0
+    }
+  },
+  {
+    "id": "shrike",
+    "term": "Shrike",
+    "aliases": [
+      "Shrike"
+    ],
+    "short": "A predatory songbird that often impales its prey.",
+    "note": "A bird of the family Laniidae, with a hooked bill. Shrikes often fasten captured insects or other prey onto thorns.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/shrike"
+      }
+    ],
+    "occurrences": 11,
+    "first": {
+      "chapter": "exodus-03",
+      "paragraph": "p-021",
+      "index": 39
+    }
+  },
+  {
+    "id": "pard",
+    "term": "Pard",
+    "aliases": [
+      "Pard"
+    ],
+    "short": "An old word for a leopard.",
+    "note": "An old word for a leopard, from Latin pardus and Greek pardos. A separate dialect word pard means a partner or friend.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/pard"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-08",
+      "paragraph": "p-178",
+      "index": 7
+    }
+  },
+  {
+    "id": "eft",
+    "term": "Eft",
+    "aliases": [
+      "Eft"
+    ],
+    "short": "A newt, especially in its land-dwelling stage.",
+    "note": "An old English name for a newt, especially the juvenile phase that lives on land before returning to water.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/eft"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "calde-06",
+      "paragraph": "p-331",
+      "index": 31
+    }
+  },
+  {
+    "id": "hart",
+    "term": "Hart",
+    "aliases": [
+      "Hart"
+    ],
+    "short": "A mature male red deer.",
+    "note": "A male red deer, especially one older than five years. The word descends from a Germanic expression for a horned animal.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/hart"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-193",
+      "index": 28
+    }
+  },
+  {
+    "id": "serval",
+    "term": "Serval",
+    "aliases": [
+      "Serval"
+    ],
+    "short": "An African wildcat with long legs and large ears.",
+    "note": "Leptailurus serval, an African cat with very long legs, large ears, and black spots on a tawny coat.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/serval"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "exodus-10",
+      "paragraph": "p-188",
+      "index": 46
+    }
+  },
+  {
+    "id": "bison",
+    "term": "Bison",
+    "aliases": [
+      "Bison"
+    ],
+    "short": "Large wild cattle with a shoulder hump.",
+    "note": "Large wild cattle of the genus Bison, with heavy forequarters, a shoulder hump, and a shaggy coat. Living species are native to North America and Europe.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/bison"
+      }
+    ],
+    "occurrences": 145,
+    "first": {
+      "chapter": "calde-04",
+      "paragraph": "p-176",
+      "index": 29
+    }
+  },
+  {
+    "id": "mandrill",
+    "term": "Mandrill",
+    "aliases": [
+      "Mandrill"
+    ],
+    "short": "A large African monkey with a brightly colored muzzle.",
+    "note": "Mandrillus sphinx, a large monkey of central Africa. Adult males have striking blue ridges and a red stripe along the muzzle.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/mandrill"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-482",
+      "index": 28
+    }
+  },
+  {
+    "id": "bellflower",
+    "term": "Bellflower",
+    "aliases": [
+      "Bellflower"
+    ],
+    "short": "A flowering plant of the genus Campanula.",
+    "note": "A plant of the genus Campanula, named for its bell-shaped flowers.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/bellflower"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-05",
+      "paragraph": "p-195",
+      "index": 17
+    }
+  },
+  {
+    "id": "dahlia",
+    "term": "Dahlia",
+    "aliases": [
+      "Dahlia"
+    ],
+    "short": "A flowering plant named for the botanist Anders Dahl.",
+    "note": "A plant of the genus Dahlia, in the daisy family, with tuberous roots and showy flower heads. The genus is named for the Swedish botanist Anders Dahl.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/dahlia"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "lake-11",
+      "paragraph": "p-062",
+      "index": 23
+    }
+  },
+  {
+    "id": "chamomile",
+    "term": "Chamomile",
+    "aliases": [
+      "Chamomile"
+    ],
+    "short": "An aromatic plant of the daisy family.",
+    "note": "A name for aromatic, daisy-like plants, especially Chamaemelum nobile and Matricaria chamomilla. Their dried flowers are used to make herbal tea.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/chamomile"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-07",
+      "paragraph": "p-028",
+      "index": 43
+    }
+  },
+  {
+    "id": "mockorange",
+    "term": "Mockorange",
+    "aliases": [
+      "Mockorange"
+    ],
+    "short": "A name for shrubs of the genus Philadelphus.",
+    "note": "A common name for Philadelphus shrubs, which bear showy white flowers. The name is also applied to several unrelated plants.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/mock%20orange"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "calde-05",
+      "paragraph": "p-326",
+      "index": 30
+    }
+  },
+  {
+    "id": "narthex",
+    "term": "narthex",
+    "aliases": [
+      "narthex"
+    ],
+    "short": "The entrance vestibule of a church.",
+    "note": "A vestibule or porch at the entrance of a church, leading into the nave.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/narthex"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-02",
+      "paragraph": "p-018",
+      "index": 27
+    }
+  },
+  {
+    "id": "yataghan",
+    "term": "yataghan",
+    "aliases": [
+      "yataghan"
+    ],
+    "short": "A Turkish sword with a curved blade and no handguard.",
+    "note": "A long knife or short saber, usually with a curved cutting edge and no handguard; from Turkish yatağan.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/yataghan"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-06",
+      "paragraph": "p-136",
+      "index": 31
+    }
+  },
+  {
+    "id": "skiagraph",
+    "term": "skiagraph",
+    "aliases": [
+      "skiagraph"
+    ],
+    "short": "A shadow-picture, especially a radiograph.",
+    "note": "A shadowlike image, especially an X-ray photograph. Its Greek roots are skia, shadow, and graphein, to draw or describe.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Webster’s New International Dictionary (1924)",
+        "url": "https://truthbook.com/urantia-book-viewer-core/1924-Websters-Dictionary-Edition/LETTER-S.pdf"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-02",
+      "paragraph": "p-001",
+      "index": 14
+    }
+  },
+  {
+    "id": "kalan",
+    "term": "Kalan",
+    "aliases": [
+      "Kalan"
+    ],
+    "short": "A name for the sea otter.",
+    "note": "A name for the sea otter, Enhydra lutris, also used in Russian and German.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "IUCN: Otters, An Action Plan for their Conservation",
+        "url": "https://portals.iucn.org/library/efiles/documents/1990-009.pdf"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-197",
+      "index": 2
+    }
+  },
+  {
+    "id": "pricklythrift",
+    "term": "Pricklythrift",
+    "aliases": [
+      "Pricklythrift"
+    ],
+    "short": "A cushion-forming plant with pointed leaves.",
+    "note": "A common name for Acantholimon plants, including A. glumaceum, which forms low cushions of stiff, pointed leaves and bears small pink flowers.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Colorado Springs Utilities: Prickly thrift",
+        "url": "https://www.csu.org/water-wise-plants/prickly-thrift"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-12",
+      "paragraph": "p-006",
+      "index": 24
+    }
+  },
+  {
+    "id": "moorgrass",
+    "term": "Moorgrass",
+    "aliases": [
+      "Moorgrass"
+    ],
+    "short": "Possibly moor-grass, a tufted grass with purple flower clusters.",
+    "note": "Possibly moor-grass, especially Molinia caerulea, a tufted perennial grass with narrow leaves and purplish flower clusters.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Royal Horticultural Society: Molinia caerulea",
+        "url": "https://www.rhs.org.uk/plants/11169/molinia-caerulea/details"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "nightside-10",
+      "paragraph": "p-145",
+      "index": 9
+    }
+  },
+  {
+    "id": "aquifolia",
+    "term": "Aquifolia",
+    "aliases": [
+      "Aquifolia"
+    ],
+    "short": "Possibly Oregon grapeholly, Mahonia aquifolium.",
+    "note": "Possibly Mahonia aquifolium, Oregon grapeholly: an evergreen shrub of the Pacific Northwest, with yellow flowers and grape-like fruits.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Cornell University: Mahonia aquifolium",
+        "url": "https://woodyplants.cals.cornell.edu/plant/150"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-171",
+      "index": 0
+    }
+  },
+  {
+    "id": "nemesis",
+    "term": "Nemesis",
+    "aliases": [
+      "Nemesis"
+    ],
+    "short": "The Greek goddess of retribution.",
+    "note": "The Greek goddess of retributive justice. Her name also became an English word for a bringer of vengeance or an implacable opponent.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/nemesis"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-05",
+      "paragraph": "p-124",
+      "index": 30
+    }
+  },
+  {
+    "id": "exmoor",
+    "term": "Exmoor",
+    "aliases": [
+      "Exmoor"
+    ],
+    "short": "Possibly the Exmoor pony, a native British breed.",
+    "note": "Possibly the Exmoor pony, a native British breed whose herds graze the open moorland of Exmoor. It develops a thick protective winter coat.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Exmoor National Park: Exmoor ponies",
+        "url": "https://www.exmoor-nationalpark.gov.uk/nature-and-landscape/our-habitats-and-wildlife/exmoor-ponies"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "lake-12",
+      "paragraph": "p-006",
+      "index": 24
+    }
+  },
+  {
+    "id": "rimah",
+    "term": "Rimah",
+    "aliases": [
+      "Rimah"
+    ],
+    "short": "Possibly Arabic rimāḥ, spears.",
+    "note": "Possibly Arabic rimāḥ, spears, the plural of rumḥ. The word is also used in Urdu.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Rekhta Dictionary: rimāḥ",
+        "url": "https://www.rekhtadictionary.com/meaning-of-rimaah"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "exodus-14",
+      "paragraph": "p-452",
+      "index": 50
+    }
+  },
+  {
+    "id": "boraz",
+    "term": "Boraz",
+    "aliases": [
+      "Boraz"
+    ],
+    "short": "Possibly Arabic burāz, excrement.",
+    "note": "Possibly Arabic burāz, excrement or feces.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Lingualism: Lebanese Arabic vocabulary",
+        "url": "https://resources.lingualism.com/levantine-arabic/the-human-body-and-describing-people-2/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-11",
+      "paragraph": "p-214",
+      "index": 47
+    }
+  },
+  {
+    "id": "marhaba",
+    "term": "marhaba",
+    "aliases": [
+      "marhaba",
+      "Marhaba"
+    ],
+    "short": "An Arabic greeting meaning welcome.",
+    "note": "Arabic marḥabā, welcome or hail; also used as an exclamation of approval.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Rekhta Dictionary: marḥabā",
+        "url": "https://www.rekhtadictionary.com/meaning-of-marhabaa"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-05",
+      "paragraph": "p-037",
+      "index": 41
+    }
+  },
+  {
+    "id": "sellaria",
+    "term": "sellaria",
+    "aliases": [
+      "sellaria"
+    ],
+    "short": "Latin for a sitting room furnished with seats.",
+    "note": "Latin sellaria, a room furnished with seats or couches: a sitting room or drawing room. It derives from sella, a seat.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Lewis and Short: sellaria",
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=sellae"
+      }
+    ],
+    "occurrences": 43,
+    "first": {
+      "chapter": "nightside-09",
+      "paragraph": "p-038",
+      "index": 8
+    }
+  },
+  {
+    "id": "ausculator",
+    "term": "ausculator",
+    "aliases": [
+      "ausculator"
+    ],
+    "short": "Possibly Latin auscultator, a listener.",
+    "note": "Possibly Latin auscultator, a listener or one who heeds, from auscultare, to listen.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Latin is Simple: auscultator",
+        "url": "https://www.latin-is-simple.com/en/vocabulary/noun/3002/"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-10",
+      "paragraph": "p-073",
+      "index": 9
+    }
+  },
+  {
+    "id": "sedes",
+    "term": "Sedes",
+    "aliases": [
+      "Sedes"
+    ],
+    "short": "Latin for a seat, throne, or dwelling place.",
+    "note": "Latin sedes means a seat, bench, or throne; by extension, an abode, residence, or temple.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Lewis and Short Latin Dictionary, Perseus",
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n43306/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-06",
+      "paragraph": "p-308",
+      "index": 18
+    }
+  },
+  {
+    "id": "hackum",
+    "term": "Hackum",
+    "aliases": [
+      "Hackum",
+      "hackum"
+    ],
+    "short": "Old cant for a bullying fighter or bravo.",
+    "note": "An old cant word for a swaggering fighter, bully, or knife-wielding bravo; also called Captain Hackum.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Grose, Dictionary of the Vulgar Tongue (1811)",
+        "url": "https://vulgar.pangyre.org/h/"
+      },
+      {
+        "label": "Farmer, Slang and its Analogues",
+        "url": "https://en.wikisource.org/wiki/Page%3AFarmer_-_Slang_and_its_analogues_past_and_present_-_Volume_3.pdf/250"
+      }
+    ],
+    "occurrences": 39,
+    "first": {
+      "chapter": "lake-05",
+      "paragraph": "p-132",
+      "index": 17
+    }
+  },
+  {
+    "id": "calotte",
+    "term": "calotte",
+    "aliases": [
+      "calotte",
+      "calottes"
+    ],
+    "note": "A low, rounded dome with a shallow, cap-shaped profile.",
+    "sources": [
+      {
+        "label": "Dome · saucer dome",
+        "url": "https://en.wikipedia.org/wiki/Dome#Saucer_dome"
+      }
+    ],
+    "short": "A shallow, cap-shaped dome.",
+    "occurrences": 6,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-109",
+      "index": 2
+    }
+  },
+  {
+    "id": "clarion",
+    "term": "clarion",
+    "aliases": [
+      "clarion",
+      "clarions"
+    ],
+    "note": "A medieval trumpet with a piercing tone. As an adjective, clear, loud, and ringing, like a trumpet’s call.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/clarion",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A shrill trumpet; also clear and ringing.",
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-16",
+      "paragraph": "p-256",
+      "index": 52
     }
   }
 ]

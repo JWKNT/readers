@@ -92,3 +92,11 @@ Expanded annotation coverage and corrected contextual glosses are documented in
 `NOTES.md`. The individual readers retain chapter navigation and progress without
 links to the other series. Verify the edition with `python3 tools/validate.py`;
 add `--baseline 4dac1a4` to check preservation of the original chapter text.
+
+## Version 10
+
+The external-reference re-audit adds 318 series-specific notes and revises 35
+existing entries, for 1,175 notes across the three readers. The margins explain
+external meanings and possible namesakes, with “Possibly” in both short and full
+notes where the connection is tentative. Research decisions and validation are
+recorded in `NOTES-V10.md`. Original prose and paragraph addresses are preserved.

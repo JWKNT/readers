@@ -813,12 +813,12 @@
       "Pateras"
     ],
     "occurrences": 246,
+    "possible": true,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-021",
       "index": 1
-    },
-    "possible": true
+    }
   },
   {
     "id": "maytera",
@@ -836,12 +836,12 @@
       "Mayteras"
     ],
     "occurrences": 166,
+    "possible": true,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-217",
       "index": 1
-    },
-    "possible": true
+    }
   },
   {
     "id": "augur",
@@ -903,12 +903,12 @@
       "azoths"
     ],
     "occurrences": 41,
+    "possible": false,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-263",
       "index": 1
-    },
-    "possible": false
+    }
   },
   {
     "id": "cenoby",
@@ -1165,12 +1165,12 @@
       "taluses"
     ],
     "occurrences": 6,
+    "possible": true,
     "first": {
       "chapter": "blue-02",
       "paragraph": "p-013",
       "index": 2
-    },
-    "possible": true
+    }
   },
   {
     "id": "sciathan",
@@ -1212,12 +1212,12 @@
       "Chenille"
     ],
     "occurrences": 29,
+    "possible": false,
     "first": {
       "chapter": "blue-02",
       "paragraph": "p-005",
       "index": 2
-    },
-    "possible": false
+    }
   },
   {
     "id": "addax",
@@ -1495,8 +1495,8 @@
   {
     "id": "inclito",
     "term": "Inclito",
-    "short": "Italian “illustrious” or “glorious.”",
-    "note": "Italian inclito means illustrious, renowned, or glorious. It continues Latin inclitus, a word for someone celebrated in what is heard or told about them. It is elevated literary language, not an everyday job title.",
+    "short": "Italian: illustrious or renowned.",
+    "note": "Italian inclito means renowned, illustrious, or glorious. It is a literary adjective descended from Latin inclutus.",
     "sources": [
       {
         "url": "https://www.treccani.it/vocabolario/inclito/",
@@ -1601,7 +1601,7 @@
     "id": "eschar",
     "term": "Eschar",
     "short": "A dry crust of dead tissue.",
-    "note": "An eschar is a crust of dead tissue left by a burn or other injury. The word concerns the damaged tissue itself, not an ordinary mark left after a wound has healed. It comes through Latin from Greek eschara.",
+    "note": "An eschar is a crust of dead tissue left by a burn or other injury. The word comes through Latin from Greek eschara.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/eschar",
@@ -1622,7 +1622,7 @@
     "id": "olivine",
     "term": "Olivine",
     "short": "A greenish magnesium–iron silicate.",
-    "note": "Olivine is a group of magnesium–iron silicate minerals, commonly olive-green. Transparent material of gem quality is called peridot. The name describes the mineral’s characteristic color, not a connection to the olive tree itself.",
+    "note": "Olivine is a group of magnesium–iron silicate minerals, commonly olive-green. Transparent material of gem quality is called peridot.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/olivine",
@@ -2077,12 +2077,12 @@
       "Azijin"
     ],
     "occurrences": 44,
+    "possible": true,
     "first": {
       "chapter": "return-03",
       "paragraph": "p-002",
       "index": 46
-    },
-    "possible": true
+    }
   },
   {
     "id": "orpine",
@@ -2737,8 +2737,8 @@
   {
     "id": "cijfer",
     "term": "Cijfer",
-    "short": "Dutch: a numeral or figure.",
-    "note": "Dutch cijfer means a numeral or figure, and can also mean a numerical grade. It shares its history with cipher. “Digit” here means a written number, not a finger or toe.",
+    "short": "Dutch: a numeral, digit, or school grade.",
+    "note": "Dutch cijfer means a numeral or digit; it can also mean a mark or grade awarded for schoolwork.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/cijfer#Dutch",
@@ -2758,7 +2758,7 @@
     "id": "vadsig",
     "term": "Vadsig",
     "short": "Dutch: sluggish or indolent.",
-    "note": "Dutch vadsig describes sluggishness, indolence, or flabbiness. It is an adjective rather than the name of an animal or plant.",
+    "note": "Dutch vadsig means sluggish, indolent, or flabby.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/vadsig#Dutch",
@@ -2858,7 +2858,7 @@
     "id": "nat",
     "term": "Nat",
     "short": "Dutch: wet.",
-    "note": "Dutch nat means wet. As a noun, it can also denote moisture or liquid; the name is an ordinary Dutch word, not a shortened animal name.",
+    "note": "Dutch nat means wet. As a noun, it can also mean moisture or liquid.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/nat#Dutch",
@@ -2917,8 +2917,8 @@
   {
     "id": "aanvagen",
     "term": "Aanvagen",
-    "short": "Possibly Dutch: to sweep.",
-    "note": "Possibly a variant of Dutch aanvegen, to sweep up or sweep a place clean. The spelling differs from the usual Dutch infinitive, so this is a proposed connection rather than an exact dictionary form.",
+    "short": "Possibly Dutch aanvegen: to sweep up.",
+    "note": "Possibly Dutch aanvegen, to sweep up or sweep a place clean.",
     "sources": [
       {
         "url": "https://www.woorden.org/woord/aanvegen",
@@ -3297,8 +3297,8 @@
   {
     "id": "affito",
     "term": "Affito",
-    "short": "Possibly Italian: rent or hire.",
-    "note": "Possibly Italian affitto, rent, lease, or hire. The usual Italian spelling has a double t; Affito is retained as a name rather than silently regularized.",
+    "short": "Possibly Italian affitto: rent, lease, or hire.",
+    "note": "Possibly Italian affitto, rent, lease, or hire.",
     "sources": [
       {
         "url": "https://www.treccani.it/vocabolario/affitto/",
@@ -3870,12 +3870,12 @@
   {
     "id": "chrasmologic",
     "term": "Chrasmologic",
-    "short": "Possibly: concerned with oracles.",
-    "note": "Possibly formed from Greek chrēsmos, an oracle or prophetic response, with a suffix concerned with speech or discourse. “Oracular writings” is therefore a plausible reading; the exact formation remains uncertain.",
+    "short": "Possibly Greek chrēsmos, an oracle or prophetic response.",
+    "note": "Possibly Greek chrēsmos, an oracle or prophetic response, often delivered in verse.",
     "sources": [
       {
-        "url": "https://en.wiktionary.org/wiki/%CF%87%CF%81%CE%B7%CF%83%CE%BC%CF%8C%CF%82#Ancient_Greek",
-        "label": "Wiktionary · χρησμός"
+        "label": "Bailly Greek–French Dictionary: χρησμός",
+        "url": "https://bailly.app/chr%C3%AAsmos"
       }
     ],
     "aliases": [
@@ -4025,12 +4025,12 @@
       "Silk"
     ],
     "occurrences": 677,
+    "possible": false,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-013",
       "index": 1
-    },
-    "possible": false
+    }
   },
   {
     "id": "horn",
@@ -4047,12 +4047,12 @@
       "Horn"
     ],
     "occurrences": 367,
+    "possible": false,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-007",
       "index": 1
-    },
-    "possible": false
+    }
   },
   {
     "id": "nettle",
@@ -4069,12 +4069,12 @@
       "Nettle"
     ],
     "occurrences": 239,
+    "possible": false,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-033",
       "index": 1
-    },
-    "possible": false
+    }
   },
   {
     "id": "hyacinth",
@@ -4091,12 +4091,12 @@
       "Hyacinth"
     ],
     "occurrences": 62,
+    "possible": false,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-263",
       "index": 1
-    },
-    "possible": false
+    }
   },
   {
     "id": "marble",
@@ -4113,12 +4113,12 @@
       "Marble"
     ],
     "occurrences": 68,
+    "possible": false,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-217",
       "index": 1
-    },
-    "possible": false
+    }
   },
   {
     "id": "pike",
@@ -4135,12 +4135,12 @@
       "Pike"
     ],
     "occurrences": 11,
+    "possible": false,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-236",
       "index": 1
-    },
-    "possible": false
+    }
   },
   {
     "id": "musk",
@@ -4157,12 +4157,12 @@
       "Musk"
     ],
     "occurrences": 6,
+    "possible": false,
     "first": {
       "chapter": "return-01",
       "paragraph": "p-042",
       "index": 44
-    },
-    "possible": false
+    }
   },
   {
     "id": "mint",
@@ -4179,12 +4179,12 @@
       "Mint"
     ],
     "occurrences": 105,
+    "possible": false,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-236",
       "index": 1
-    },
-    "possible": false
+    }
   },
   {
     "id": "rose",
@@ -4201,12 +4201,12 @@
       "Rose"
     ],
     "occurrences": 15,
+    "possible": false,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-236",
       "index": 1
-    },
-    "possible": false
+    }
   },
   {
     "id": "sinew",
@@ -4223,12 +4223,12 @@
       "Sinew"
     ],
     "occurrences": 270,
+    "possible": false,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-025",
       "index": 1
-    },
-    "possible": false
+    }
   },
   {
     "id": "quire",
@@ -4267,12 +4267,12 @@
       "Limna"
     ],
     "occurrences": 15,
+    "possible": true,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-030",
       "index": 1
-    },
-    "possible": true
+    }
   },
   {
     "id": "calde",
@@ -4292,12 +4292,12 @@
       "caldés"
     ],
     "occurrences": 160,
+    "possible": true,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-060",
       "index": 1
-    },
-    "possible": true
+    }
   },
   {
     "id": "whorl",
@@ -4317,12 +4317,12 @@
       "Whorls"
     ],
     "occurrences": 525,
+    "possible": false,
     "first": {
       "chapter": "blue-prelude",
       "paragraph": "p-002",
       "index": 0
-    },
-    "possible": false
+    }
   },
   {
     "id": "hammerstone",
@@ -4696,6 +4696,1930 @@
       "chapter": "green-prelude",
       "paragraph": "p-003",
       "index": 17
+    }
+  },
+  {
+    "id": "bello",
+    "term": "Bello",
+    "aliases": [
+      "Bello"
+    ],
+    "short": "Italian: beautiful or handsome.",
+    "note": "Italian bello means beautiful or handsome; its feminine form is bella.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/bello/"
+      }
+    ],
+    "occurrences": 11,
+    "first": {
+      "chapter": "green-12",
+      "paragraph": "p-007",
+      "index": 29
+    }
+  },
+  {
+    "id": "vivo",
+    "term": "Vivo",
+    "aliases": [
+      "Vivo"
+    ],
+    "short": "Italian: alive, lively, or vivid.",
+    "note": "Italian vivo means alive or living. It also describes something lively, vivid, or intense.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/vivo/"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "green-12",
+      "paragraph": "p-007",
+      "index": 29
+    }
+  },
+  {
+    "id": "turco",
+    "term": "Turco",
+    "aliases": [
+      "Turco"
+    ],
+    "short": "Italian: Turkish, or a Turk.",
+    "note": "Italian turco means Turkish; as a noun, a Turk or the Turkish language.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/turco1/"
+      }
+    ],
+    "occurrences": 16,
+    "first": {
+      "chapter": "green-03",
+      "paragraph": "p-002",
+      "index": 20
+    }
+  },
+  {
+    "id": "zitta",
+    "term": "Zitta",
+    "aliases": [
+      "Zitta"
+    ],
+    "short": "Italian: silent or quiet.",
+    "note": "Italian zitta is the feminine form of zitto, silent or quiet. It can be used as an instruction to keep quiet.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/zitto/"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "green-01",
+      "paragraph": "p-206",
+      "index": 18
+    }
+  },
+  {
+    "id": "marzo",
+    "term": "Marzo",
+    "aliases": [
+      "Marzo"
+    ],
+    "short": "Italian: March, the month.",
+    "note": "Italian marzo means March, the month. Its name comes from Latin Martius, associated with Mars.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/marzo/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-14",
+      "paragraph": "p-119",
+      "index": 31
+    }
+  },
+  {
+    "id": "corpo",
+    "term": "Corpo",
+    "aliases": [
+      "Corpo"
+    ],
+    "short": "Italian: a body or organized group.",
+    "note": "Italian corpo means a body, and by extension an organized group or corporate body.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/corpo/"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "green-01",
+      "paragraph": "p-167",
+      "index": 18
+    }
+  },
+  {
+    "id": "uscita",
+    "term": "Uscita",
+    "aliases": [
+      "Uscita"
+    ],
+    "short": "Italian: an exit or departure.",
+    "note": "Italian uscita means an exit, departure, or outing; it is related to uscire, to go out.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/uscita/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-16",
+      "paragraph": "p-073",
+      "index": 33
+    }
+  },
+  {
+    "id": "urbanita",
+    "term": "Urbanita",
+    "aliases": [
+      "Urbanita"
+    ],
+    "short": "Possibly Italian urbanità: civility or refined manners.",
+    "note": "Possibly Italian urbanità, courtesy, civility, or refinement of manners. The word descends from Latin urbanitas, originally the cultivated manners associated with city life.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/urbanita/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-15",
+      "paragraph": "p-136",
+      "index": 32
+    }
+  },
+  {
+    "id": "solenno",
+    "term": "Solenno",
+    "aliases": [
+      "Solenno"
+    ],
+    "short": "Possibly Italian solenne: solemn or stately.",
+    "note": "Possibly Italian solenne, solemn, ceremonial, or stately; something marked by seriousness and dignity.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/solenne/"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "green-03",
+      "paragraph": "p-034",
+      "index": 20
+    }
+  },
+  {
+    "id": "salica",
+    "term": "Salica",
+    "aliases": [
+      "Salica"
+    ],
+    "short": "Possibly Salic: relating to the laws of the Salian Franks.",
+    "note": "Possibly Italian salica, the feminine form of salico, Salic. The Lex Salica was the law code of the Salian Franks; one provision excluded women from inheriting certain land.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/salico/"
+      }
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "green-02",
+      "paragraph": "p-038",
+      "index": 19
+    }
+  },
+  {
+    "id": "ugolo",
+    "term": "Ugolo",
+    "aliases": [
+      "Ugolo"
+    ],
+    "short": "Possibly Italian ugola: the uvula.",
+    "note": "Possibly Italian ugola, the uvula: the small fleshy projection hanging from the soft palate at the back of the mouth. Its Latin ancestor uvula means little grape.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/ugola/"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "green-14",
+      "paragraph": "p-184",
+      "index": 31
+    }
+  },
+  {
+    "id": "bruna",
+    "term": "Bruna",
+    "aliases": [
+      "Bruna"
+    ],
+    "short": "Italian: dark or brown.",
+    "note": "Italian bruna is the feminine form of bruno, dark or brown, especially of hair or complexion.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/bruno/"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "green-11",
+      "paragraph": "p-050",
+      "index": 28
+    }
+  },
+  {
+    "id": "atteno",
+    "term": "Atteno",
+    "aliases": [
+      "Atteno"
+    ],
+    "short": "Possibly Italian attento: attentive or careful.",
+    "note": "Possibly Italian attento, attentive, careful, or alert. As an exclamation, attento! means watch out.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/attento/"
+      }
+    ],
+    "occurrences": 17,
+    "first": {
+      "chapter": "green-01",
+      "paragraph": "p-046",
+      "index": 18
+    }
+  },
+  {
+    "id": "mysire",
+    "term": "Mysire",
+    "aliases": [
+      "Mysire",
+      "mysire"
+    ],
+    "short": "Anglo-Norman: my lord.",
+    "note": "An attested Anglo-Norman spelling of munsire or messire, a respectful title meaning my lord. The related modern French form is monsieur.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Anglo-Norman Dictionary",
+        "url": "https://anglo-norman.net/entry/misire"
+      }
+    ],
+    "occurrences": 256,
+    "first": {
+      "chapter": "return-03",
+      "paragraph": "p-019",
+      "index": 46
+    }
+  },
+  {
+    "id": "rechtor",
+    "term": "Rechtor",
+    "aliases": [
+      "Rechtor"
+    ],
+    "short": "Possibly Dutch rechter: a judge.",
+    "note": "Possibly Dutch rechter, a judge: someone who hears cases and delivers judgments. It is formed from recht, law or justice.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Instituut voor de Nederlandse Taal",
+        "url": "https://anw.ivdnt.org/article/rechter"
+      }
+    ],
+    "occurrences": 47,
+    "first": {
+      "chapter": "return-07",
+      "paragraph": "p-046",
+      "index": 50
+    }
+  },
+  {
+    "id": "ziek",
+    "term": "Ziek",
+    "aliases": [
+      "Ziek"
+    ],
+    "short": "Dutch: sick or ill.",
+    "note": "Dutch ziek means sick or ill.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Cambridge Dictionary",
+        "url": "https://dictionary.cambridge.org/dictionary/dutch-english/ziek"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "return-01",
+      "paragraph": "p-198",
+      "index": 44
+    }
+  },
+  {
+    "id": "legaro",
+    "term": "Legaro",
+    "aliases": [
+      "Legaro"
+    ],
+    "short": "Possibly Italian legare: to bind or tie.",
+    "note": "Possibly an old Italian form of legare, to bind, tie, or fasten. The verb also describes bonds of marriage, friendship, and obligation.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/legare1/"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "green-17",
+      "paragraph": "p-247",
+      "index": 34
+    }
+  },
+  {
+    "id": "chaku",
+    "term": "Chaku",
+    "aliases": [
+      "Chaku"
+    ],
+    "short": "Hindi: a knife.",
+    "note": "Hindi cākū means a knife, a cutting tool or weapon with a blade attached to a handle.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Collins Hindi–English Dictionary",
+        "url": "https://www.collinsdictionary.com/us/dictionary/hindi-english/चाकू"
+      }
+    ],
+    "occurrences": 17,
+    "first": {
+      "chapter": "green-11",
+      "paragraph": "p-108",
+      "index": 28
+    }
+  },
+  {
+    "id": "somvar",
+    "term": "Somvar",
+    "aliases": [
+      "Somvar"
+    ],
+    "short": "Hindi: Monday.",
+    "note": "Hindi somvār means Monday.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Collins Hindi–English Dictionary",
+        "url": "https://www.collinsdictionary.com/dictionary/hindi-english/सोमवार"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-081",
+      "index": 1
+    }
+  },
+  {
+    "id": "nauvan",
+    "term": "Nauvan",
+    "aliases": [
+      "Nauvan"
+    ],
+    "short": "Hindi: ninth.",
+    "note": "Hindi nauvā̃ means ninth, the ordinal number following eighth.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Collins Hindi–English Dictionary",
+        "url": "https://www.collinsdictionary.com/dictionary/hindi-english/नौवाँ"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-081",
+      "index": 1
+    }
+  },
+  {
+    "id": "bala",
+    "term": "Bala",
+    "aliases": [
+      "Bala"
+    ],
+    "short": "Possibly Hindi bālā: a girl or young woman.",
+    "note": "Possibly Hindi bālā, a girl or young woman.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Hindwi Dictionary",
+        "url": "https://www.hindwi.org/hindi-dictionary/meaning-of-baalaa"
+      }
+    ],
+    "occurrences": 36,
+    "first": {
+      "chapter": "green-24",
+      "paragraph": "p-109",
+      "index": 41
+    }
+  },
+  {
+    "id": "shauk",
+    "term": "Shauk",
+    "aliases": [
+      "Shauk"
+    ],
+    "short": "Possibly shauq: desire or enthusiasm.",
+    "note": "Possibly Hindi and Urdu shauq, desire, enthusiasm, or a strong interest in something. The word is borrowed from Arabic.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Rekhta Dictionary",
+        "url": "https://www.rekhtadictionary.com/meaning-of-shauq"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "green-24",
+      "paragraph": "p-115",
+      "index": 41
+    }
+  },
+  {
+    "id": "bahar",
+    "term": "Bahar",
+    "aliases": [
+      "Bahar"
+    ],
+    "short": "Possibly Persian bahār: springtime or flourishing beauty.",
+    "note": "Possibly Persian bahār, also used in Urdu, meaning springtime, flourishing beauty, or splendor.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Rekhta Dictionary",
+        "url": "https://www.rekhtadictionary.com/meaning-of-bahaar?lang=ur"
+      }
+    ],
+    "occurrences": 12,
+    "first": {
+      "chapter": "blue-12",
+      "paragraph": "p-034",
+      "index": 12
+    }
+  },
+  {
+    "id": "thody",
+    "term": "Thody",
+    "aliases": [
+      "Thody"
+    ],
+    "short": "Possibly Hindi thoṛī: a little or scanty.",
+    "note": "Possibly Hindi thoṛī, a feminine form meaning a little, scanty, or few.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Rekhta / Platts Dictionary",
+        "url": "https://www.rekhta.org/urdudictionary?keyword=tho.dii"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "green-11",
+      "paragraph": "p-118",
+      "index": 28
+    }
+  },
+  {
+    "id": "nadar",
+    "term": "Nadar",
+    "aliases": [
+      "Nadar"
+    ],
+    "short": "Possibly nādār: poor or without possessions.",
+    "note": "Possibly Persian and Urdu nādār, poor or without possessions.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Rekhta Dictionary",
+        "url": "https://www.rekhtadictionary.com/meaning-of-naadaar"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-24",
+      "paragraph": "p-290",
+      "index": 41
+    }
+  },
+  {
+    "id": "maliki",
+    "term": "Maliki",
+    "aliases": [
+      "Maliki",
+      "maliki"
+    ],
+    "short": "Possibly Swahili maliki: a ruler or sovereign.",
+    "note": "Possibly Swahili maliki, a king, ruler, or sovereign, from Arabic. The related malkia means a queen.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "A. C. Madan, Swahili–English Dictionary",
+        "url": "https://www.maktaba.org/download/file/1589/Swahili-english_dictionary_Arthur_cornwallis_madan.pdf"
+      }
+    ],
+    "occurrences": 60,
+    "first": {
+      "chapter": "green-24",
+      "paragraph": "p-052",
+      "index": 41
+    }
+  },
+  {
+    "id": "ushujaa",
+    "term": "Ushujaa",
+    "aliases": [
+      "Ushujaa"
+    ],
+    "short": "Swahili: courage or heroism.",
+    "note": "Swahili ushujaa means bravery, courage, or heroism. It is related to shujaa, a hero or courageous person.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "A. C. Madan, Swahili–English Dictionary",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Swahili-English_dictionary_%28IA_swahilienglishdi00madarich%29.pdf"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-08",
+      "paragraph": "p-009",
+      "index": 25
+    }
+  },
+  {
+    "id": "tuz",
+    "term": "Tuz",
+    "aliases": [
+      "Tuz"
+    ],
+    "short": "Turkish: salt.",
+    "note": "Turkish tuz means salt.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Cambridge Dictionary",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english-turkish/salt"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-16",
+      "paragraph": "p-022",
+      "index": 16
+    }
+  },
+  {
+    "id": "miralaly",
+    "term": "miralaly",
+    "aliases": [
+      "miralaly",
+      "miralay"
+    ],
+    "short": "Possibly Ottoman Turkish miralay: colonel.",
+    "note": "Possibly Ottoman Turkish miralay, a colonel or commander of a regiment.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Redhouse Turkish and English Lexicon",
+        "url": "https://kelime.com/kelime/miralay/63335e36101dea5b8e1bdbd2-63335e36bafb252dfda5ecda/os"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-24",
+      "paragraph": "p-035",
+      "index": 41
+    }
+  },
+  {
+    "id": "yksin",
+    "term": "Yksin",
+    "aliases": [
+      "Yksin"
+    ],
+    "short": "Finnish: alone.",
+    "note": "Finnish yksin means alone or by oneself.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Suomi Sanakirja",
+        "url": "https://www.suomisanakirja.fi/yksin"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-14",
+      "paragraph": "p-088",
+      "index": 14
+    }
+  },
+  {
+    "id": "advocaat",
+    "term": "Advocaat",
+    "aliases": [
+      "Advocaat",
+      "advocaat"
+    ],
+    "short": "Dutch: an advocate or lawyer.",
+    "note": "Dutch advocaat means an advocate or lawyer, someone who gives legal advice or represents a party in court.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Cambridge Dictionary",
+        "url": "https://dictionary.cambridge.org/dictionary/dutch-english/advocaat"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "return-11",
+      "paragraph": "p-022",
+      "index": 54
+    }
+  },
+  {
+    "id": "sellaria",
+    "term": "sellaria",
+    "aliases": [
+      "sellaria",
+      "sellarias"
+    ],
+    "short": "Latin: a sitting room.",
+    "note": "Latin sellaria means a sitting room or a room furnished with seats. It is formed from sella, a chair or seat.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Lewis and Short, Latin Dictionary",
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=sellae"
+      }
+    ],
+    "occurrences": 12,
+    "first": {
+      "chapter": "blue-11",
+      "paragraph": "p-130",
+      "index": 11
+    }
+  },
+  {
+    "id": "pajarocu",
+    "term": "Pajarocu",
+    "aliases": [
+      "Pajarocu"
+    ],
+    "short": "Possibly the pájaro Cú, a bird of Mexican folklore.",
+    "note": "Possibly the pájaro Cú of Mexican folklore, a bird given borrowed feathers by other birds. In versions of the tale, its disappearance explains why the owl calls for it at night and the roadrunner searches for it.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Core Knowledge: Birds Through the Seasons",
+        "url": "https://www.coreknowledge.org/wp-content/uploads/2016/11/Birds-Through-the-Seasons.pdf"
+      },
+      {
+        "label": "Universidad Veracruzana: El pájaro cu",
+        "url": "https://diccionariover.uv.mx/egvadmin/bin/view/enciclopedia/P%C3%A1jaro%20Cu%2C%20El"
+      }
+    ],
+    "occurrences": 109,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-215",
+      "index": 1
+    }
+  },
+  {
+    "id": "flannan",
+    "term": "Flannan",
+    "aliases": [
+      "Flannan"
+    ],
+    "short": "Possibly Saint Flannan of Killaloe.",
+    "note": "Possibly Saint Flannan, a seventh-century Irish churchman associated with Killaloe. Later traditions remember him as its abbot and bishop; the cathedral there bears his name.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Clare County Library",
+        "url": "https://www.clarelibrary.ie/eolas/coclare/people/saint_flannan.htm"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "return-04",
+      "paragraph": "p-094",
+      "index": 47
+    }
+  },
+  {
+    "id": "morphia",
+    "term": "Morphia",
+    "aliases": [
+      "Morphia"
+    ],
+    "short": "Possibly Morpheus, the shaper of human figures in dreams.",
+    "note": "Possibly Morpheus, the dream spirit in Ovid’s Metamorphoses who can imitate human appearance, movement, and speech. He is a son of Sleep.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Ovid, Metamorphoses 11",
+        "url": "https://www.theoi.com/Text/OvidMetamorphoses11.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-01",
+      "paragraph": "p-030",
+      "index": 44
+    }
+  },
+  {
+    "id": "teras",
+    "term": "Teras",
+    "aliases": [
+      "Teras"
+    ],
+    "short": "Possibly Malay teras: heartwood or an essential core.",
+    "note": "Possibly Malay teras, heartwood, the hard inner part of a tree trunk. Figuratively it means a core, foundation, or essential part.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Dewan Bahasa dan Pustaka",
+        "url": "https://prpm.dbp.gov.my/Cari1?d=72508&keyword=teras"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "green-15",
+      "paragraph": "p-002",
+      "index": 32
+    }
+  },
+  {
+    "id": "torda",
+    "term": "Torda",
+    "aliases": [
+      "Torda"
+    ],
+    "short": "Possibly Swedish torda: a razorbill.",
+    "note": "Possibly Swedish torda, an old name for the razorbill, Alca torda. This black-and-white seabird is a member of the auk family.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "A. F. Dalin, Dictionary of the Swedish Language",
+        "url": "https://runeberg.org/ordboksv/2/0560.html"
+      },
+      {
+        "label": "NCBI Taxonomy: Alca torda",
+        "url": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=28689"
+      }
+    ],
+    "occurrences": 61,
+    "first": {
+      "chapter": "green-prelude",
+      "paragraph": "p-007",
+      "index": 17
+    }
+  },
+  {
+    "id": "han",
+    "term": "Han",
+    "aliases": [
+      "Han"
+    ],
+    "short": "Possibly the Han dynasty of China.",
+    "note": "Possibly the Han dynasty of China, traditionally dated 206 BCE–220 CE. It is divided into Western and Eastern Han, separated by the brief Xin dynasty.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/TOAH/hd/hand/hd_hand.htm"
+      }
+    ],
+    "occurrences": 41,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-015",
+      "index": 1
+    }
+  },
+  {
+    "id": "qarya",
+    "term": "Qarya",
+    "aliases": [
+      "Qarya"
+    ],
+    "short": "Arabic: a village.",
+    "note": "Arabic qarya means a village; its plural is qura.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Lisaan Masry Arabic Dictionary",
+        "url": "https://www.lisaanmasry.org/online/word.php?cn=2&id=10353&ui="
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "green-24",
+      "paragraph": "p-028",
+      "index": 41
+    }
+  },
+  {
+    "id": "vent",
+    "term": "Vent",
+    "aliases": [
+      "Vent"
+    ],
+    "short": "Dutch: a fellow or chap.",
+    "note": "Dutch vent is an informal word for a man, fellow, or chap. Its tone can be dismissive.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "P. Weiland, Dutch Dictionary",
+        "url": "https://www.dbnl.org/tekst/weil004nede14_01/weil004nede14_01_2557.php"
+      }
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "return-09",
+      "paragraph": "p-170",
+      "index": 52
+    }
+  },
+  {
+    "id": "versregal",
+    "term": "Versregal",
+    "aliases": [
+      "Versregal"
+    ],
+    "short": "Possibly Dutch versregel: a line of poetry.",
+    "note": "Possibly Dutch versregel, a line of verse or poetry.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Uitmuntend Dutch–German Dictionary",
+        "url": "https://uitmuntend.de/woordenboek/versregel"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-07",
+      "paragraph": "p-108",
+      "index": 50
+    }
+  },
+  {
+    "id": "kandij",
+    "term": "kandij",
+    "aliases": [
+      "kandij"
+    ],
+    "short": "Dutch: rock candy or crystallized sugar.",
+    "note": "Dutch kandij means crystallized sugar or rock candy. It comes through French candi from Arabic qandī, associated with sugar cane.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Instituut voor de Nederlandse Taal",
+        "url": "https://www.ensie.nl/etymologisch-woordenboek/kandij"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-09",
+      "paragraph": "p-048",
+      "index": 52
+    }
+  },
+  {
+    "id": "volanta",
+    "term": "Volanta",
+    "aliases": [
+      "Volanta"
+    ],
+    "short": "Possibly Italian volante: a steering wheel.",
+    "note": "Possibly Italian volante, a steering wheel or handwheel. The related adjective volante means flying.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Treccani",
+        "url": "https://www.treccani.it/vocabolario/volante2/"
+      },
+      {
+        "label": "Treccani: volante (adjective)",
+        "url": "https://www.treccani.it/vocabolario/volante1/"
+      }
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "green-15",
+      "paragraph": "p-087",
+      "index": 32
+    }
+  },
+  {
+    "id": "comus",
+    "term": "Comus",
+    "aliases": [
+      "Comus"
+    ],
+    "short": "Greek personification of revelry and merrymaking.",
+    "note": "Comus, or Komos, is the ancient Greek personification of revelry and merrymaking. Philostratus describes him as a drowsy youth attending a drinking party.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Philostratus, Imagines 1.2",
+        "url": "https://www.theoi.com/Georgikos/SatyrosKomos.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-19",
+      "paragraph": "p-018",
+      "index": 36
+    }
+  },
+  {
+    "id": "alpaca",
+    "term": "Alpaca",
+    "aliases": [
+      "Alpaca"
+    ],
+    "short": "An Andean camel relative bred for its soft fleece.",
+    "note": "An alpaca is a South American relative of the camel, domesticated in the Andes for its soft fleece. The two main fleece types are huacaya and suri.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Smithsonian National Zoo",
+        "url": "https://nationalzoo.si.edu/animals/alpaca"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-277",
+      "index": 45
+    }
+  },
+  {
+    "id": "amberjack",
+    "term": "Amberjack",
+    "aliases": [
+      "Amberjack"
+    ],
+    "short": "A large marine fish of the jack family.",
+    "note": "Amberjacks are large marine fishes of the jack family. The greater amberjack, Seriola dumerili, has a silvery body with an amber stripe along its side.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "NOAA Fisheries",
+        "url": "https://www.fisheries.noaa.gov/species/greater-amberjack"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-173",
+      "index": 1
+    }
+  },
+  {
+    "id": "antbear",
+    "term": "Antbear",
+    "aliases": [
+      "Antbear"
+    ],
+    "short": "Another name for a giant anteater or an aardvark.",
+    "note": "Antbear is another name for the giant anteater of Central and South America. It is also used for the aardvark of Africa.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Collins English Dictionary",
+        "url": "https://www.collinsdictionary.com/dictionary/english/ant-bear"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-277",
+      "index": 45
+    }
+  },
+  {
+    "id": "judastree",
+    "term": "Judastree",
+    "aliases": [
+      "Judastree",
+      "Judas-tree",
+      "Judas tree"
+    ],
+    "short": "A small tree with pink flowers and heart-shaped leaves.",
+    "note": "The Judas tree, Cercis siliquastrum, is a small deciduous tree native to southern Europe and western Asia. It bears clusters of rosy-pink, pea-shaped flowers on older wood and has heart-shaped leaves.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/24283/cercis-siliquastrum/details"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "green-24",
+      "paragraph": "p-125",
+      "index": 41
+    }
+  },
+  {
+    "id": "m-to",
+    "term": "M’to",
+    "aliases": [
+      "M’to",
+      "M'to"
+    ],
+    "short": "Possibly Swahili mto: a river.",
+    "note": "Possibly Swahili mto, a river or stream. Its plural is mito.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "MobiTUKI Swahili–English Dictionary",
+        "url": "https://swahili-dictionary.com/swahili-english/mto_mto"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-16",
+      "paragraph": "p-299",
+      "index": 59
+    }
+  },
+  {
+    "id": "beled",
+    "term": "Beled",
+    "aliases": [
+      "Beled"
+    ],
+    "short": "Possibly Arabic balad: a town or country.",
+    "note": "Possibly Arabic balad, a town, settlement, district, or country. Its plural is bilād.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "John Richardson, Persian, Arabic, and English Dictionary",
+        "url": "https://www.qdl.qa/en/archive/81055/vdc_100085185904.0x0000c2"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "blue-04",
+      "paragraph": "p-196",
+      "index": 4
+    }
+  },
+  {
+    "id": "zeehra",
+    "term": "Zeehra",
+    "aliases": [
+      "Zeehra"
+    ],
+    "short": "Possibly Arabic zahrāʾ: bright or radiant.",
+    "note": "Possibly Arabic zahrāʾ, shining, bright, or radiant, also used as a woman’s name.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Rekhta / Platts Dictionary",
+        "url": "https://www.rekhta.org/urdudictionary?keyword=zahraa"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-13",
+      "paragraph": "p-103",
+      "index": 13
+    }
+  },
+  {
+    "id": "cilinia",
+    "term": "Cilinia",
+    "aliases": [
+      "Cilinia"
+    ],
+    "short": "Possibly Saint Cilinia, mother of Remigius of Reims.",
+    "note": "Possibly Saint Cilinia, also called Celinia or Céline, a fifth-century woman of Gaul remembered as the mother of Saint Remigius of Reims.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "The Catholic Church in Norway",
+        "url": "https://www.katolsk.no/biografier/historisk/celilaon"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "return-17",
+      "paragraph": "p-365",
+      "index": 60
+    }
+  },
+  {
+    "id": "tigridia",
+    "term": "Tigridia",
+    "aliases": [
+      "Tigridia"
+    ],
+    "short": "Possibly Saint Tigridia, abbess of Oña.",
+    "note": "Possibly Saint Tigridia, the first abbess of San Salvador at Oña in northern Spain in the early eleventh century. She was a daughter of the monastery’s founders, Count Sancho García and Urraca.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Archdiocese of Burgos",
+        "url": "https://www.archiburgos.es/2016/11/22/tras-mas-de-un-siglo-vuelve-la-fiesta-de-santa-tigridia-a-ona/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-19",
+      "paragraph": "p-118",
+      "index": 62
+    }
+  },
+  {
+    "id": "oxlip",
+    "term": "Oxlip",
+    "aliases": [
+      "Oxlip"
+    ],
+    "short": "A primrose relative with pale yellow flower clusters.",
+    "note": "The oxlip, Primula elatior, is a primrose relative with clusters of pale yellow flowers carried above a rosette of leaves.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/13747/primula-elatior-pr/details"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-12",
+      "paragraph": "p-183",
+      "index": 55
+    }
+  },
+  {
+    "id": "cowslip",
+    "term": "Cowslip",
+    "aliases": [
+      "Cowslip"
+    ],
+    "short": "A spring wildflower with drooping yellow flowers.",
+    "note": "The cowslip, Primula veris, is a spring wildflower with drooping clusters of yellow, cup-shaped flowers. It grows in grassy places, including meadows and open woodland.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/plants/wild-flowers/cowslip/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-17",
+      "paragraph": "p-025",
+      "index": 60
+    }
+  },
+  {
+    "id": "sweetbay",
+    "term": "Sweetbay",
+    "aliases": [
+      "Sweetbay",
+      "Sweet Bay"
+    ],
+    "short": "Bay laurel, an evergreen tree with aromatic leaves.",
+    "note": "Sweet bay, or bay laurel, is Laurus nobilis, an evergreen tree with aromatic leaves used in cooking.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/plants/bay-tree/growing-guide"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-20",
+      "paragraph": "p-031",
+      "index": 63
+    }
+  },
+  {
+    "id": "madrone",
+    "term": "Madrone",
+    "aliases": [
+      "Madrone"
+    ],
+    "short": "An evergreen Arbutus tree with peeling bark.",
+    "note": "A madrone is an evergreen tree of the genus Arbutus. Pacific madrone, Arbutus menziesii, is native to western North America and has reddish-brown bark that peels away from the trunk.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "USDA Forest Service",
+        "url": "https://research.fs.usda.gov/silvics/pacific-madrone"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-20",
+      "paragraph": "p-031",
+      "index": 63
+    }
+  },
+  {
+    "id": "gadwall",
+    "term": "Gadwall",
+    "aliases": [
+      "Gadwall"
+    ],
+    "short": "A dabbling duck with a white wing patch.",
+    "note": "The gadwall, Mareca strepera, is a dabbling duck. Males have finely patterned gray-brown plumage; both sexes show a white patch in the wing.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Cornell Lab of Ornithology",
+        "url": "https://www.allaboutbirds.org/guide/Gadwall/overview"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-263",
+      "index": 1
+    }
+  },
+  {
+    "id": "grig",
+    "term": "Grig",
+    "aliases": [
+      "Grig"
+    ],
+    "short": "An old word for a cricket or a merry person.",
+    "note": "Grig is an old or dialect word for a cricket or grasshopper. It can also mean a lively, cheerful person, as in the phrase merry as a grig.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Dictionary.com / Random House",
+        "url": "https://www.dictionary.com/browse/grig"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-13",
+      "paragraph": "p-158",
+      "index": 30
+    }
+  },
+  {
+    "id": "sealily",
+    "term": "Sealily",
+    "aliases": [
+      "Sealily",
+      "sea lily",
+      "sea lilies"
+    ],
+    "short": "A stalked crinoid, a marine animal with feathery arms.",
+    "note": "A sea lily is a stalked crinoid, a marine animal related to sea stars. Its branching, featherlike arms collect food particles from the water.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Smithsonian Ocean",
+        "url": "https://ocean.si.edu/through-time/sea-lilies"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-233",
+      "index": 1
+    }
+  },
+  {
+    "id": "heleno",
+    "term": "Heleno",
+    "aliases": [
+      "Heleno"
+    ],
+    "short": "Possibly the Esperanto form of Helen.",
+    "note": "Possibly Heleno, the Esperanto form of Helen, a name of Greek origin.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Majstro Multilingual Dictionary",
+        "url": "https://www.majstro.com/dictionaries/English-Greek/Helen"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "green-02",
+      "paragraph": "p-090",
+      "index": 19
+    }
+  },
+  {
+    "id": "poliso",
+    "term": "Poliso",
+    "aliases": [
+      "Poliso"
+    ],
+    "short": "Possibly Greek polis: a city-state.",
+    "note": "Possibly Greek polis, a city or city-state: a political community formed around an urban center and its surrounding territory.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Thomas R. Martin, Overview of Classical Greek History",
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0009%3Achapter%3D5%3Asection%3D1"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-02",
+      "paragraph": "p-109",
+      "index": 19
+    }
+  },
+  {
+    "id": "urbasecundus",
+    "term": "Urbasecundus",
+    "aliases": [
+      "Urbasecundus"
+    ],
+    "short": "Possibly Latin urbs and secundus: second city.",
+    "note": "Possibly a formation from Latin urbs, city, and secundus, second, suggesting second city.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Lewis and Short, Latin Dictionary",
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=secundus"
+      },
+      {
+        "label": "Lewis and Short: urbs",
+        "url": "https://www.alatius.com/ls/index.php?met=up&ord=urbs"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-02",
+      "paragraph": "p-012",
+      "index": 2
+    }
+  },
+  {
+    "id": "aspis",
+    "term": "Aspis",
+    "aliases": [
+      "Aspis"
+    ],
+    "short": "Greek: a round shield; also an asp.",
+    "note": "Greek aspis means a round shield. The same word was also used for the asp, an Egyptian venomous snake.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Liddell and Scott, Greek Lexicon",
+        "url": "https://atlas.perseus.tufts.edu/lemma/15794/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-09",
+      "paragraph": "p-157",
+      "index": 26
+    }
+  },
+  {
+    "id": "karn",
+    "term": "Karn",
+    "aliases": [
+      "Karn"
+    ],
+    "short": "Possibly Sanskrit karṇa: an ear; also the epic hero Karna.",
+    "note": "Possibly Sanskrit karṇa, an ear. Karna is also the name of Kunti’s son in the Mahābhārata.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monier-Williams, Sanskrit–English Dictionary",
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/MWScanpdf/mw0256-karkakhaNDa.pdf"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "green-24",
+      "paragraph": "p-115",
+      "index": 41
+    }
+  },
+  {
+    "id": "merryn",
+    "term": "Merryn",
+    "aliases": [
+      "Merryn"
+    ],
+    "short": "Possibly Saint Merinus or Merryn, an Irish monastic saint.",
+    "note": "Possibly Saint Merinus, also called Merryn or Meadhran, an Irish monastic saint remembered as a disciple of Comgall of Bangor and venerated in Ireland and Scotland.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate, The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n216/mode/2up?q=Merryn"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "return-13",
+      "paragraph": "p-094",
+      "index": 56
+    }
+  },
+  {
+    "id": "mizzen",
+    "term": "mizzen",
+    "aliases": [
+      "mizzen",
+      "mizzens"
+    ],
+    "note": "A mast behind the mainmast, or a fore-and-aft sail carried on that mast; also an adjective for its rigging.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mizzen",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A mast behind the mainmast, or its sail.",
+    "occurrences": 4,
+    "first": {
+      "chapter": "return-13",
+      "paragraph": "p-203",
+      "index": 56
+    }
+  },
+  {
+    "id": "abaia",
+    "term": "Abaia",
+    "aliases": [
+      "Abaia"
+    ],
+    "short": "Possibly Abaia, a great magical eel in Melanesian tradition.",
+    "note": "Possibly Abaia, a magical eel in a Melanesian flood tale. When people catch fish from its lake, it sends a deluge in retaliation.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Roland B. Dixon · Oceanic Mythology (1916)",
+        "url": "https://www.globalgreyebooks.com/online-ebooks/roland-b-dixon_oceanic-mythology_complete-text.html"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-15",
+      "paragraph": "p-097",
+      "index": 58
+    }
+  },
+  {
+    "id": "samru",
+    "term": "Samru",
+    "aliases": [
+      "Samru"
+    ],
+    "short": "Possibly the Simurgh, a mythical bird of Iranian tradition.",
+    "note": "Possibly the Simurgh, or Sēnmurw, the great mythical bird of Iranian tradition. In Persian epic the bird protects Zal and later aids his son Rostam.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Encyclopaedia Iranica · Simurgh",
+        "url": "https://www.iranicaonline.org/articles/simorg/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-17",
+      "paragraph": "p-191",
+      "index": 60
+    }
+  },
+  {
+    "id": "narthex",
+    "term": "narthex",
+    "aliases": [
+      "narthex"
+    ],
+    "short": "The entrance vestibule of a church.",
+    "note": "A vestibule or porch at the entrance of a church, leading into the nave.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/narthex"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-16",
+      "paragraph": "p-084",
+      "index": 59
+    }
+  },
+  {
+    "id": "balneum",
+    "term": "balneum",
+    "short": "Latin: a bath or bathing room.",
+    "note": "Latin balneum means a bath, bathing place, or bathing room. The word was borrowed from Greek balaneion and is the ancestor of English terms beginning balneo-, concerned with baths.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/balneum#Latin",
+        "label": "Wiktionary · balneum"
+      }
+    ],
+    "aliases": [
+      "balneum",
+      "balnea"
+    ],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-18",
+      "paragraph": "p-005",
+      "index": 61
+    }
+  },
+  {
+    "id": "dimber",
+    "term": "dimber",
+    "short": "Old cant for pretty or fine.",
+    "note": "Old cant for pretty, fine, or attractive.",
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/5402/pg5402-images.html",
+        "label": "Grose · Dictionary of the Vulgar Tongue (1811)"
+      }
+    ],
+    "aliases": [
+      "dimber"
+    ],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-18",
+      "paragraph": "p-046",
+      "index": 61
+    }
+  },
+  {
+    "id": "mamelta",
+    "term": "Mamelta",
+    "aliases": [
+      "Mamelta"
+    ],
+    "short": "Possibly Saint Mamelta, a Persian martyr.",
+    "note": "Possibly Saint Mamelta, also called Memelchtha, a fourth-century Persian martyr. Christian tradition describes a priestess of Artemis who converted to Christianity and was stoned.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Orthodox Church in America: Memelchtha",
+        "url": "https://www.oca.org/saints/lives/2012/10/05/102881-martyr-memelchtha-of-persia"
+      }
+    ],
+    "occurrences": 8,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-260",
+      "index": 1
+    }
+  },
+  {
+    "id": "siyuf",
+    "term": "Siyuf",
+    "aliases": [
+      "Siyuf"
+    ],
+    "short": "Possibly Arabic siyūf, swords.",
+    "note": "Possibly Arabic siyūf, swords, a dialectal plural of sayf or sēf, a sword.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Willmore, The Spoken Arabic of Egypt (Birzeit University)",
+        "url": "https://fada.birzeit.edu/jspui/bitstream/20.500.11889/4947/1/spokenarabicofeg00willuoft.pdf"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "blue-02",
+      "paragraph": "p-102",
+      "index": 2
+    }
+  },
+  {
+    "id": "saba",
+    "term": "Saba",
+    "aliases": [
+      "Saba"
+    ],
+    "short": "Possibly Arabic ṣabā, the east wind.",
+    "note": "Possibly Arabic ṣabā, the east wind; in Arabic and Urdu literary usage, a gentle morning breeze.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Rekhta Dictionary: ṣabā",
+        "url": "https://www.rekhtadictionary.com/meaning-of-sabaa"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-182",
+      "index": 1
+    }
+  },
+  {
+    "id": "abanja",
+    "term": "Abanja",
+    "aliases": [
+      "Abanja"
+    ],
+    "short": "Possibly Arabic banj, an anesthetic.",
+    "note": "Possibly Arabic banj, an anesthetic or narcotic; the word also names henbane, a plant historically used for its intoxicating effects.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Hans Wehr, A Dictionary of Modern Written Arabic",
+        "url": "https://kutub.nur.nu/Arabic-Language/Hans-Wehr.pdf"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "green-25",
+      "paragraph": "p-048",
+      "index": 42
+    }
+  },
+  {
+    "id": "lemur",
+    "term": "Lemur",
+    "aliases": [
+      "Lemur"
+    ],
+    "short": "A Madagascan primate; its name derives from Latin spirits of the dead.",
+    "note": "A primate of Madagascar and nearby islands. Its zoological name derives from Latin lemures, spirits of the dead, originally applied by Linnaeus to animals that wandered at night.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/lemur"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "return-09",
+      "paragraph": "p-060",
+      "index": 52
+    }
+  },
+  {
+    "id": "ermine",
+    "term": "Ermine",
+    "aliases": [
+      "Ermine"
+    ],
+    "short": "A stoat, especially in its white winter coat.",
+    "note": "A stoat or related weasel whose fur turns white in winter while the tail-tip stays black; also its fur, traditionally used to trim ceremonial robes.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/ermine"
+      }
+    ],
+    "occurrences": 20,
+    "first": {
+      "chapter": "blue-03",
+      "paragraph": "p-057",
+      "index": 3
+    }
+  },
+  {
+    "id": "mattak",
+    "term": "Mattak",
+    "aliases": [
+      "Mattak"
+    ],
+    "short": "Whale skin and attached blubber eaten in Greenland.",
+    "note": "A Greenlandic food made from whale skin with its attached layer of blubber.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Visit Greenland: Greenlandic gastronomy",
+        "url": "https://visitgreenland.com/activities/greenlandic-gastronomy-a-taste-of-greenland/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-17",
+      "paragraph": "p-217",
+      "index": 34
+    }
+  },
+  {
+    "id": "moly",
+    "term": "Moly",
+    "aliases": [
+      "Moly"
+    ],
+    "short": "Possibly the magical herb in the Odyssey.",
+    "note": "Possibly the magical herb Hermes gives Odysseus against Circe’s enchantments in the Odyssey. Homer describes a black root and white flowers.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/moly"
+      },
+      {
+        "label": "Homer, Odyssey 10, collected at Theoi",
+        "url": "https://www.theoi.com/Titan/Kirke.html"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-254",
+      "index": 1
+    }
+  },
+  {
+    "id": "aster",
+    "term": "Aster",
+    "aliases": [
+      "Aster"
+    ],
+    "short": "A flowering plant whose name is Greek for star.",
+    "note": "A plant of Aster or related genera, bearing flower heads with radiating petals. The name comes from Greek astēr, star.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/aster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-01",
+      "paragraph": "p-023",
+      "index": 44
+    }
+  },
+  {
+    "id": "orchid",
+    "term": "Orchid",
+    "aliases": [
+      "Orchid"
+    ],
+    "short": "A flowering plant of the family Orchidaceae.",
+    "note": "A plant of the family Orchidaceae. Orchid flowers typically have three petals, with one enlarged into a distinctive lip.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/orchid"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-05",
+      "paragraph": "p-025",
+      "index": 5
+    }
+  },
+  {
+    "id": "vulpes",
+    "term": "Vulpes",
+    "aliases": [
+      "Vulpes"
+    ],
+    "short": "Latin for a fox.",
+    "note": "Latin vulpes means a fox; figuratively, cunning or craftiness.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Lewis and Short Latin Dictionary, Perseus",
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n51431/"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-082",
+      "index": 1
+    }
+  },
+  {
+    "id": "shrike",
+    "term": "Shrike",
+    "aliases": [
+      "Shrike"
+    ],
+    "short": "A predatory songbird that often impales its prey.",
+    "note": "A bird of the family Laniidae, with a hooked bill. Shrikes often fasten captured insects or other prey onto thorns.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/shrike"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-236",
+      "index": 1
+    }
+  },
+  {
+    "id": "bison",
+    "term": "Bison",
+    "aliases": [
+      "Bison"
+    ],
+    "short": "Large wild cattle with a shoulder hump.",
+    "note": "Large wild cattle of the genus Bison, with heavy forequarters, a shoulder hump, and a shaggy coat. Living species are native to North America and Europe.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Merriam-Webster",
+        "url": "https://www.merriam-webster.com/dictionary/bison"
+      }
+    ],
+    "occurrences": 94,
+    "first": {
+      "chapter": "return-10",
+      "paragraph": "p-005",
+      "index": 53
+    }
+  },
+  {
+    "id": "moorgrass",
+    "term": "Moorgrass",
+    "aliases": [
+      "Moorgrass"
+    ],
+    "short": "Possibly moor-grass, a tufted grass with purple flower clusters.",
+    "note": "Possibly moor-grass, especially Molinia caerulea, a tufted perennial grass with narrow leaves and purplish flower clusters.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Royal Horticultural Society: Molinia caerulea",
+        "url": "https://www.rhs.org.uk/plants/11169/molinia-caerulea/details"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-10",
+      "paragraph": "p-121",
+      "index": 10
     }
   }
 ]

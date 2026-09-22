@@ -1951,7 +1951,9 @@
   {
     "id": "nacre",
     "term": "nacre",
-    "aliases": [],
+    "aliases": [
+      "nacreous"
+    ],
     "note": "Mother-of-pearl: the iridescent inner lining of certain mollusk shells.",
     "sources": [
       {
@@ -1960,7 +1962,7 @@
       }
     ],
     "short": "Mother-of-pearl.",
-    "occurrences": 1,
+    "occurrences": 2,
     "first": {
       "chapter": "sword-35",
       "paragraph": "p-001",
@@ -2069,7 +2071,10 @@
   {
     "id": "coruscant",
     "term": "coruscant",
-    "aliases": [],
+    "aliases": [
+      "coruscate",
+      "coruscating"
+    ],
     "note": "Flashing or sparkling with light.",
     "sources": [
       {
@@ -2078,11 +2083,11 @@
       }
     ],
     "short": "Flashing or sparkling.",
-    "occurrences": 1,
+    "occurrences": 2,
     "first": {
-      "chapter": "citadel-25",
-      "paragraph": "p-001",
-      "index": 131
+      "chapter": "shadow-04",
+      "paragraph": "p-002",
+      "index": 3
     }
   },
   {
@@ -2131,7 +2136,10 @@
     "id": "lazaretto",
     "term": "lazaretto",
     "aliases": [
-      "lazarettos"
+      "lazarettos",
+      "lazaret",
+      "lazarets",
+      "lazarette"
     ],
     "note": "A place used to isolate people or goods under quarantine; historically also a hospital for certain contagious diseases.",
     "sources": [
@@ -2141,11 +2149,11 @@
       }
     ],
     "short": "A quarantine station or isolation hospital.",
-    "occurrences": 1,
+    "occurrences": 26,
     "first": {
-      "chapter": "urth-51",
-      "paragraph": "p-006",
-      "index": 196
+      "chapter": "shadow-16",
+      "paragraph": "p-040",
+      "index": 15
     }
   },
   {
@@ -2282,14 +2290,14 @@
     "aliases": [
       "clarions"
     ],
-    "note": "A clear-sounding trumpet; by extension, a ringing call or summons.",
+    "note": "A medieval trumpet with a piercing tone. As an adjective, clear, loud, and ringing, like a trumpet’s call.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/clarion",
         "label": "Merriam-Webster"
       }
     ],
-    "short": "A clear-sounding trumpet or ringing call.",
+    "short": "A shrill trumpet; also clear and ringing.",
     "occurrences": 3,
     "first": {
       "chapter": "shadow-01",
@@ -3015,15 +3023,16 @@
     "id": "dorcas",
     "term": "Dorcas",
     "aliases": [],
-    "note": "A Christian disciple at Joppa described in Acts 9, also called Tabitha. She was known for charity and for making clothes for widows. Both names mean “gazelle.”",
+    "note": "Possibly Dorcas or Tabitha, a Christian disciple at Joppa in Acts 9, remembered for charity and making clothes for widows. Both names mean gazelle.",
     "sources": [
       {
         "url": "https://www.biblegateway.com/passage/?search=Acts%209%3A36-42&version=KJV",
         "label": "Acts 9:36–42"
       }
     ],
-    "short": "Tabitha, the charitable disciple described in Acts.",
+    "short": "Possibly Tabitha, the charitable disciple in Acts.",
     "occurrences": 430,
+    "possible": true,
     "first": {
       "chapter": "shadow-23",
       "paragraph": "p-018",
@@ -3100,12 +3109,12 @@
     ],
     "short": "A shape-shifter in German literary tradition.",
     "occurrences": 246,
+    "possible": false,
     "first": {
       "chapter": "shadow-15",
       "paragraph": "p-025",
       "index": 14
-    },
-    "possible": false
+    }
   },
   {
     "id": "juturna",
@@ -5556,7 +5565,9 @@
     "id": "thaumaturgist",
     "term": "thaumaturgist",
     "aliases": [
-      "thaumaturgists"
+      "thaumaturgists",
+      "thaumaturge",
+      "thaumaturges"
     ],
     "note": "A worker of miracles or wonders.",
     "sources": [
@@ -5566,11 +5577,11 @@
       }
     ],
     "short": "A worker of wonders or miracles.",
-    "occurrences": 3,
+    "occurrences": 4,
     "first": {
-      "chapter": "citadel-27",
-      "paragraph": "p-025",
-      "index": 133
+      "chapter": "shadow-16",
+      "paragraph": "p-020",
+      "index": 15
     }
   },
   {
@@ -5663,14 +5674,14 @@
     "aliases": [
       "mizzens"
     ],
-    "note": "A sail carried on the mast behind the mainmast.",
+    "note": "A mast behind the mainmast, or a fore-and-aft sail carried on that mast; also an adjective for its rigging.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/mizzen",
         "label": "Merriam-Webster"
       }
     ],
-    "short": "The sail on the mizzenmast.",
+    "short": "A mast behind the mainmast, or its sail.",
     "occurrences": 3,
     "first": {
       "chapter": "urth-33",
@@ -7203,15 +7214,16 @@
     "id": "burgundofara",
     "term": "Burgundofara",
     "aliases": [],
-    "note": "Saint Fara, a seventh-century Frankish abbess who founded the monastery of Faremoutiers and became its first abbess.",
+    "note": "Possibly Saint Fara, a seventh-century Frankish abbess who founded the monastery of Faremoutiers.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Burgundofara",
         "label": "Burgundofara"
       }
     ],
-    "short": "Saint Fara, founder of Faremoutiers.",
+    "short": "Possibly Saint Fara, founder of Faremoutiers.",
     "occurrences": 102,
+    "possible": true,
     "first": {
       "chapter": "urth-02",
       "paragraph": "p-035",
@@ -7222,15 +7234,16 @@
     "id": "eata",
     "term": "Eata",
     "aliases": [],
-    "note": "A seventh-century Northumbrian monk and bishop, a pupil of Aidan. He led the monastery at Melrose and served as bishop of Lindisfarne and Hexham. He died in 686.",
+    "note": "Possibly Saint Eata, a seventh-century Northumbrian monk, pupil of Aidan, abbot of Melrose, and bishop of Lindisfarne and Hexham.",
     "sources": [
       {
         "url": "https://www.newadvent.org/cathen/05240c.htm",
         "label": "Catholic Encyclopedia: St. Eata"
       }
     ],
-    "short": "A seventh-century Northumbrian monk and bishop.",
+    "short": "Possibly Saint Eata, a Northumbrian bishop.",
     "occurrences": 53,
+    "possible": true,
     "first": {
       "chapter": "shadow-01",
       "paragraph": "p-003",
@@ -7241,15 +7254,16 @@
     "id": "gurloes",
     "term": "Gurloes",
     "aliases": [],
-    "note": "Gurloës, also called Urlo, was the first abbot of Sainte-Croix at Quimperlé in Brittany. He died in 1057; his tomb became a focus of local veneration.",
+    "note": "Possibly Saint Gurloës, also called Urlo, the first abbot of Sainte-Croix at Quimperlé in Brittany. He died in 1057.",
     "sources": [
       {
         "url": "https://fr.wikipedia.org/wiki/Saint_Gurlo%C3%ABs",
         "label": "Saint Gurloës"
       }
     ],
-    "short": "The first abbot of Sainte-Croix at Quimperlé.",
+    "short": "Possibly Saint Gurloës, the abbot of Quimperlé.",
     "occurrences": 115,
+    "possible": true,
     "first": {
       "chapter": "shadow-01",
       "paragraph": "p-004",
@@ -7260,15 +7274,16 @@
     "id": "ymar",
     "term": "Ymar",
     "aliases": [],
-    "note": "A monk of Reculver in Kent, remembered as a martyr killed by Danish raiders. His relics were later venerated at St John’s church in Margate.",
+    "note": "Possibly Saint Ymar, a monk of Reculver in Kent remembered as a martyr killed by Danish raiders. His relics were venerated at Margate.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Ymar",
         "label": "Ymar of Reculver"
       }
     ],
-    "short": "A monk of Reculver venerated as a martyr.",
+    "short": "Possibly Saint Ymar, a monk of Reculver.",
     "occurrences": 26,
+    "possible": true,
     "first": {
       "chapter": "shadow-02",
       "paragraph": "p-006",
@@ -7279,15 +7294,16 @@
     "id": "rudesind",
     "term": "Rudesind",
     "aliases": [],
-    "note": "Rudesind, also called Rosendo (907–977), was a Galician bishop and abbot. He founded the monastery of Celanova in 936.",
+    "note": "Possibly Saint Rudesind or Rosendo, a tenth-century Galician bishop and abbot who founded the monastery of Celanova.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Rudesind",
         "label": "Rudesind of Celanova"
       }
     ],
-    "short": "Rosendo, the Galician founder of Celanova.",
+    "short": "Possibly Saint Rosendo, founder of Celanova.",
     "occurrences": 15,
+    "possible": true,
     "first": {
       "chapter": "shadow-05",
       "paragraph": "p-039",
@@ -7298,15 +7314,16 @@
     "id": "hildegrin",
     "term": "Hildegrin",
     "aliases": [],
-    "note": "A form of Hildegrim, an early medieval bishop of Châlons and abbot of Werden. He was the younger brother of the missionary Ludger and died in 827.",
+    "note": "Possibly Saint Hildegrim, an early medieval bishop of Châlons and abbot of Werden, the younger brother of the missionary Ludger.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Hildegrim_of_Ch%C3%A2lons",
         "label": "Hildegrim of Châlons"
       }
     ],
-    "short": "Hildegrim, bishop of Châlons and abbot of Werden.",
+    "short": "Possibly Saint Hildegrim, bishop of Châlons.",
     "occurrences": 65,
+    "possible": true,
     "first": {
       "chapter": "shadow-23",
       "paragraph": "p-041",
@@ -7317,15 +7334,16 @@
     "id": "agilus",
     "term": "Agilus",
     "aliases": [],
-    "note": "A seventh-century Frankish monk and missionary. After missionary work in Bavaria, he became the first abbot of Rebais, near Paris.",
+    "note": "Possibly Saint Agilus, a seventh-century Frankish monk and missionary who became the first abbot of Rebais, near Paris.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Agilus",
         "label": "Agilus of Rebais"
       }
     ],
-    "short": "A Frankish monk and first abbot of Rebais.",
+    "short": "Possibly Saint Agilus, first abbot of Rebais.",
     "occurrences": 44,
+    "possible": true,
     "first": {
       "chapter": "shadow-18",
       "paragraph": "p-002",
@@ -7336,15 +7354,16 @@
     "id": "trudo",
     "term": "Trudo",
     "aliases": [],
-    "note": "A seventh-century saint who founded the monastery from which the Belgian town of Sint-Truiden grew. He is traditionally called the Apostle of Hesbaye.",
+    "note": "Possibly Saint Trudo, a seventh-century religious founder whose monastery gave rise to Sint-Truiden in Belgium. He is traditionally called the Apostle of Hesbaye.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Trudo",
         "label": "Trudo"
       }
     ],
-    "short": "The saint whose monastery became Sint-Truiden.",
+    "short": "Possibly Saint Trudo, founder of Sint-Truiden.",
     "occurrences": 11,
+    "possible": true,
     "first": {
       "chapter": "shadow-25",
       "paragraph": "p-084",
@@ -7355,15 +7374,16 @@
     "id": "pega",
     "term": "Pega",
     "aliases": [],
-    "note": "An Anglo-Saxon anchoress and the sister of Saint Guthlac. She lived near present-day Peakirk, whose name means “Pega’s church.” The early Life of Guthlac describes her taking charge of his burial.",
+    "note": "Possibly Saint Pega, an Anglo-Saxon anchoress and sister of Saint Guthlac. She is associated with Peakirk, whose name means Pega’s church.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Pega",
         "label": "Pega"
       }
     ],
-    "short": "An Anglo-Saxon anchoress, sister of Guthlac.",
+    "short": "Possibly Saint Pega, an Anglo-Saxon anchoress.",
     "occurrences": 25,
+    "possible": true,
     "first": {
       "chapter": "urth-44",
       "paragraph": "p-022",
@@ -7374,7 +7394,7 @@
     "id": "anskar",
     "term": "Anskar",
     "aliases": [],
-    "note": "Anskar, more often spelled Ansgar, was a ninth-century monk and missionary to Denmark and Sweden, and archbishop of Hamburg-Bremen. His pupil Rimbert recorded his life and visions.",
+    "note": "Possibly Saint Anskar or Ansgar, a ninth-century missionary to Denmark and Sweden and archbishop of Hamburg-Bremen.",
     "sources": [
       {
         "url": "https://sourcebooks.fordham.edu/basis/anskar.asp",
@@ -7385,8 +7405,9 @@
         "label": "Ansgar"
       }
     ],
-    "short": "Ansgar, a missionary to Denmark and Sweden.",
+    "short": "Possibly Saint Ansgar, a Scandinavian missionary.",
     "occurrences": 17,
+    "possible": true,
     "first": {
       "chapter": "citadel-07",
       "paragraph": "p-002",
@@ -7397,15 +7418,16 @@
     "id": "declan",
     "term": "Declan",
     "aliases": [],
-    "note": "An early Irish saint associated with the Déisi people and the foundation of Ardmore in County Waterford. His medieval Life presents him as one of the missionaries who preceded Patrick.",
+    "note": "Possibly Saint Declan, an Irish saint associated with the Déisi and Ardmore in County Waterford. His medieval Life places his mission before Patrick’s.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Decl%C3%A1n_of_Ardmore",
         "label": "Declán of Ardmore"
       }
     ],
-    "short": "An Irish saint associated with Ardmore.",
+    "short": "Possibly Saint Declan, associated with Ardmore.",
     "occurrences": 30,
+    "possible": true,
     "first": {
       "chapter": "urth-29",
       "paragraph": "p-034",
@@ -7416,15 +7438,16 @@
     "id": "odilo",
     "term": "Odilo",
     "aliases": [],
-    "note": "A Benedictine abbot of Cluny who died in 1049. He established an annual commemoration of the faithful departed in Cluniac monasteries, an observance that developed into All Souls’ Day.",
+    "note": "Possibly Saint Odilo, an abbot of Cluny who established an annual commemoration of the faithful departed, an observance that developed into All Souls’ Day.",
     "sources": [
       {
         "url": "https://en.wikipedia.org/wiki/Odilo_of_Cluny",
         "label": "Odilo of Cluny"
       }
     ],
-    "short": "An abbot of Cluny associated with All Souls’ Day.",
+    "short": "Possibly Saint Odilo, the abbot of Cluny.",
     "occurrences": 43,
+    "possible": true,
     "first": {
       "chapter": "claw-19",
       "paragraph": "p-011",
@@ -7993,12 +8016,12 @@
   {
     "id": "arctother",
     "term": "arctother",
-    "short": "Possibly a giant short-faced bear.",
-    "note": "Possibly a giant short-faced bear, such as Arctodus simus, an enormous bear of Ice Age North America. Some individuals could stand more than eleven feet high on their hind legs. The resemblance suggests a kind of prehistoric bear, not a securely identified species.",
+    "short": "Possibly an extinct short-faced bear.",
+    "note": "Possibly an extinct short-faced bear, such as Arctodus simus, a large bear of Ice Age North America.",
     "sources": [
       {
-        "url": "https://mnh.uiowa.edu/giant-short-faced-bear",
-        "label": "University of Iowa Museum · giant short-faced bear"
+        "url": "https://tarpits.org/research-collections/tar-pits-collections/mammal-collections",
+        "label": "La Brea Tar Pits · mammal collections"
       }
     ],
     "aliases": [
@@ -8062,7 +8085,7 @@
     "id": "capulus",
     "term": "Capulus",
     "short": "Possibly Latin: a sword’s hilt.",
-    "note": "Possibly Latin capulus, the handle or hilt of a sword. A separate use of the same word denotes a bier or coffin. The blade-related sense is the likelier starting point, but the spelling alone cannot exclude the funerary association.",
+    "note": "Possibly Latin capulus, the handle or hilt of a sword. The same word can also mean a bier or coffin.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/capulus#Latin",
@@ -8304,7 +8327,7 @@
     "id": "inire",
     "term": "Inire",
     "short": "Latin: to enter or begin.",
-    "note": "Latin inīre, the infinitive of ineo: to go into, enter upon, or begin. In compounds and phrases it can describe entering a place, undertaking a course of action, or forming an agreement. The word is an action, not a fixed title or a single mythological name.",
+    "note": "Latin inīre, the infinitive of ineo: to enter, begin, undertake, or form an agreement.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/ineo#Latin",
@@ -8470,7 +8493,7 @@
     "id": "terminus-est",
     "term": "Terminus Est",
     "short": "Latin: it is the end or boundary.",
-    "note": "Latin: “it is the end,” or “this is the boundary.” Terminus is a limit, boundary, or end; est means “is.” Terminus was also the Roman god of boundary markers. The short inscription allows both the literal limit and the more final sense of an ending.",
+    "note": "Latin: it is the end, or this is the boundary. Terminus means a limit, boundary, or end; est means is. Terminus was also the Roman god of boundary markers.",
     "sources": [
       {
         "url": "https://en.wiktionary.org/wiki/terminus#Latin",
@@ -9018,12 +9041,12 @@
       "Ascians"
     ],
     "occurrences": 153,
+    "possible": false,
     "first": {
       "chapter": "shadow-03",
       "paragraph": "p-044",
       "index": 2
-    },
-    "possible": false
+    }
   },
   {
     "id": "septentrion",
@@ -9271,15 +9294,17 @@
   {
     "id": "barbatus",
     "term": "Barbatus",
-    "aliases": [
-      "Barbatus"
-    ],
-    "short": "Possibly a bishop of Benevento.",
-    "note": "Possibly Saint Barbatus, the seventh-century bishop of Benevento who attended the Roman council of 680.",
+    "aliases": [],
+    "short": "Possibly Latin “bearded,” recalling Fortuna Barbata.",
+    "note": "Possibly Latin barbatus, “bearded.” In The City of God, Augustine discusses Fortuna Barbata, the deity who gives young men their beards, and proposes Barbatus as a masculine name for her.",
     "sources": [
       {
-        "url": "https://pbe.kcl.ac.uk/data/D16/F33.htm",
-        "label": "External reference"
+        "label": "Lewis & Short · barbatus",
+        "url": "https://cld.bbaw.de/lemma/lat/barbatus"
+      },
+      {
+        "label": "Augustine · The City of God, Book IV",
+        "url": "https://www.newadvent.org/fathers/120104.htm"
       }
     ],
     "possible": true,
@@ -9464,6 +9489,3418 @@
       "chapter": "urth-02",
       "paragraph": "p-038",
       "index": 147
+    }
+  },
+  {
+    "id": "abdiesus",
+    "term": "Abdiesus",
+    "aliases": [
+      "Abdiesus"
+    ],
+    "short": "Possibly Saint Abdiesus, a Persian Christian martyr.",
+    "note": "Possibly Saint Abdiesus, also called Hebedjesus. A deacon remembered among the Christians killed during Shapur II’s persecution in fourth-century Persia.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n23/mode/2up?q=Abdiesus"
+      }
+    ],
+    "occurrences": 22,
+    "first": {
+      "chapter": "shadow-13",
+      "paragraph": "p-024",
+      "index": 12
+    }
+  },
+  {
+    "id": "herena",
+    "term": "Herena",
+    "aliases": [
+      "Herena"
+    ],
+    "short": "Possibly Saint Herena, an African martyr.",
+    "note": "Possibly Saint Herena. Named with Donatus, Justus, and other African martyrs traditionally associated with the persecution of Decius.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n107/mode/2up?q=Herena"
+      }
+    ],
+    "occurrences": 34,
+    "first": {
+      "chapter": "urth-28",
+      "paragraph": "p-037",
+      "index": 173
+    }
+  },
+  {
+    "id": "guasacht",
+    "term": "Guasacht",
+    "aliases": [
+      "Guasacht"
+    ],
+    "short": "Possibly Saint Guasacht, an early Irish bishop.",
+    "note": "Possibly Saint Guasacht of Granard. Irish tradition makes him a son of Patrick’s former enslaver and a convert whom Patrick appointed bishop at Granard.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n152/mode/2up?q=Guasacht"
+      }
+    ],
+    "occurrences": 44,
+    "first": {
+      "chapter": "citadel-19",
+      "paragraph": "p-028",
+      "index": 125
+    }
+  },
+  {
+    "id": "pia",
+    "term": "Pia",
+    "aliases": [
+      "Pia"
+    ],
+    "short": "Possibly Saint Pia, an early African martyr.",
+    "note": "Possibly Saint Pia. One of a group of African Christians remembered with Paul and Gerontius. Little biographical information survives.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n232/mode/2up?q=Pia"
+      }
+    ],
+    "occurrences": 30,
+    "first": {
+      "chapter": "sword-28",
+      "paragraph": "p-027",
+      "index": 95
+    }
+  },
+  {
+    "id": "zama",
+    "term": "Zama",
+    "aliases": [
+      "Zama"
+    ],
+    "short": "Possibly Saint Zama, an early bishop of Bologna.",
+    "note": "Possibly Saint Zama, also called Zamas. Traditionally the first recorded bishop of Bologna, assigned to the third century.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n295/mode/2up?q=Zama"
+      }
+    ],
+    "occurrences": 28,
+    "first": {
+      "chapter": "urth-31",
+      "paragraph": "p-036",
+      "index": 176
+    }
+  },
+  {
+    "id": "becan",
+    "term": "Becan",
+    "aliases": [
+      "Becan"
+    ],
+    "short": "Possibly Becan, an early Irish monastic name.",
+    "note": "Possibly one of the early Irish saints named Becan. One founded a monastery at Kilbeggan; another is remembered as a hermit near Cork. Both belong to sixth-century Irish religious tradition.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n64/mode/2up?q=Becan"
+      }
+    ],
+    "occurrences": 16,
+    "first": {
+      "chapter": "sword-14",
+      "paragraph": "p-044",
+      "index": 81
+    }
+  },
+  {
+    "id": "barnoch",
+    "term": "Barnoch",
+    "aliases": [
+      "Barnoch"
+    ],
+    "short": "Possibly Saint Barrog, the hermit associated with Barry Island.",
+    "note": "Possibly Saint Barrog, also called Barruc or Barnoch. A Welsh hermit traditionally linked to Saint Cadoc and to Barry Island off Glamorgan.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n61/mode/2up?q=Barnoch"
+      }
+    ],
+    "occurrences": 23,
+    "first": {
+      "chapter": "claw-01",
+      "paragraph": "p-015",
+      "index": 36
+    }
+  },
+  {
+    "id": "cyby",
+    "term": "Cyby",
+    "aliases": [
+      "Cyby"
+    ],
+    "short": "Possibly Saint Cybi, associated with Holyhead.",
+    "note": "Possibly Saint Cybi, also called Cuby or Cyby. An early British church founder whose foundations are remembered in Cornwall and Wales, especially the monastery at Holyhead.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n94/mode/2up?q=Cyby"
+      }
+    ],
+    "occurrences": 27,
+    "first": {
+      "chapter": "shadow-06",
+      "paragraph": "p-016",
+      "index": 5
+    }
+  },
+  {
+    "id": "piaton",
+    "term": "Piaton",
+    "aliases": [
+      "Piaton"
+    ],
+    "short": "Possibly Saint Piaton, missionary and martyr at Tournai.",
+    "note": "Possibly Saint Piaton, or Piat. An early Christian missionary traditionally associated with Tournai and Chartres, commemorated as a martyr of the Roman persecutions.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n242/mode/2up?q=Piaton"
+      }
+    ],
+    "occurrences": 17,
+    "first": {
+      "chapter": "sword-25",
+      "paragraph": "p-010",
+      "index": 92
+    }
+  },
+  {
+    "id": "llibio",
+    "term": "Llibio",
+    "aliases": [
+      "Llibio"
+    ],
+    "short": "Possibly Saint Llibio, remembered in Anglesey.",
+    "note": "Possibly Saint Llibio, also spelled Libio. An early Welsh saint whose name survives in Llanllibio on Anglesey.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n188/mode/2up?q=Llibio"
+      }
+    ],
+    "occurrences": 13,
+    "first": {
+      "chapter": "sword-31",
+      "paragraph": "p-004",
+      "index": 98
+    }
+  },
+  {
+    "id": "ouen",
+    "term": "Ouen",
+    "aliases": [
+      "Ouen"
+    ],
+    "short": "Possibly Saint Ouen, seventh-century bishop of Rouen.",
+    "note": "Possibly Saint Ouen, also called Audoenus or Audoin. A Frankish court official who became bishop of Rouen and a close associate of Saint Eligius.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n56/mode/2up?q=Ouen"
+      }
+    ],
+    "occurrences": 13,
+    "first": {
+      "chapter": "shadow-26",
+      "paragraph": "p-029",
+      "index": 25
+    }
+  },
+  {
+    "id": "eskil",
+    "term": "Eskil",
+    "aliases": [
+      "Eskil"
+    ],
+    "short": "Possibly Saint Eskil, a missionary to Sweden.",
+    "note": "Possibly Saint Eskil. A missionary bishop associated with Saint Sigfrid, remembered as a martyr in eleventh-century Sweden.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n118/mode/2up?q=Eskil"
+      }
+    ],
+    "occurrences": 11,
+    "first": {
+      "chapter": "urth-35",
+      "paragraph": "p-019",
+      "index": 180
+    }
+  },
+  {
+    "id": "lomer",
+    "term": "Lomer",
+    "aliases": [
+      "Lomer"
+    ],
+    "short": "Possibly Saint Lomer, a sixth-century French abbot.",
+    "note": "Possibly Saint Lomer, also called Launomar or Laudomarus. An abbot associated with the region of Chartres, remembered in monastic tradition for miracles.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n189/mode/2up?q=Lomer"
+      }
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "claw-15",
+      "paragraph": "p-003",
+      "index": 50
+    }
+  },
+  {
+    "id": "eusebia",
+    "term": "Eusebia",
+    "aliases": [
+      "Eusebia"
+    ],
+    "short": "Possibly Saint Eusebia, a martyr remembered at Bergamo.",
+    "note": "Possibly Saint Eusebia of Bergamo. A Christian martyr of Lombard tradition, associated with Saint Domnio and the persecutions under Maximian.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n122/mode/2up?q=Eusebia"
+      }
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "claw-01",
+      "paragraph": "p-002",
+      "index": 36
+    }
+  },
+  {
+    "id": "severa",
+    "term": "Severa",
+    "aliases": [
+      "Severa"
+    ],
+    "short": "Possibly Saint Severa, an abbess at Trier.",
+    "note": "Possibly Saint Severa of Trier. Traditionally the sister of Bishop Modoald and abbess of a convent founded by him at Trier.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n264/mode/2up?q=Severa"
+      }
+    ],
+    "occurrences": 12,
+    "first": {
+      "chapter": "sword-14",
+      "paragraph": "p-018",
+      "index": 81
+    }
+  },
+  {
+    "id": "thais",
+    "term": "Thais",
+    "aliases": [
+      "Thais"
+    ],
+    "short": "Possibly Saint Thaïs, an Egyptian penitent.",
+    "note": "Possibly Saint Thaïs of Egyptian monastic legend. Tradition describes a courtesan converted by Paphnutius who spent years in seclusion and penitence.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n274/mode/2up?q=Thais"
+      }
+    ],
+    "occurrences": 12,
+    "first": {
+      "chapter": "urth-44",
+      "paragraph": "p-027",
+      "index": 189
+    }
+  },
+  {
+    "id": "merryn",
+    "term": "Merryn",
+    "aliases": [
+      "Merryn"
+    ],
+    "short": "Possibly Saint Merinus or Merryn, an Irish monastic saint.",
+    "note": "Possibly Saint Merinus, also called Merryn or Meadhran. Remembered as a disciple of Comgall of Bangor and venerated in Ireland and Scotland. Several similar saint names have become entangled in later tradition.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n216/mode/2up?q=Merryn"
+      }
+    ],
+    "occurrences": 20,
+    "first": {
+      "chapter": "claw-30",
+      "paragraph": "p-031",
+      "index": 65
+    }
+  },
+  {
+    "id": "stachys",
+    "term": "Stachys",
+    "aliases": [
+      "Stachys"
+    ],
+    "short": "Possibly Stachys, named in Paul’s Epistle to the Romans.",
+    "note": "Possibly Saint Stachys. Paul sends greetings to Stachys in Romans 16:9. Later church tradition makes him the first bishop of Byzantium.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n270/mode/2up?q=Stachys"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "claw-01",
+      "paragraph": "p-001",
+      "index": 36
+    }
+  },
+  {
+    "id": "jader",
+    "term": "Jader",
+    "aliases": [
+      "Jader"
+    ],
+    "short": "Possibly Saint Jader, an African bishop sent to the mines.",
+    "note": "Possibly Saint Jader. Named among the African bishops condemned to forced labor during the persecution of Valerian. Cyprian wrote a letter of encouragement to this group.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n222/mode/2up?q=Jader"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "sword-03",
+      "paragraph": "p-030",
+      "index": 70
+    }
+  },
+  {
+    "id": "chuniald",
+    "term": "Chuniald",
+    "aliases": [
+      "Chuniald"
+    ],
+    "short": "Possibly Saint Chuniald, a companion of Rupert of Salzburg.",
+    "note": "Possibly Saint Chuniald. An early medieval missionary associated with Rupert’s work in southern Germany and the Salzburg region.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n86/mode/2up?q=Chuniald"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "claw-10",
+      "paragraph": "p-046",
+      "index": 45
+    }
+  },
+  {
+    "id": "jurmin",
+    "term": "Jurmin",
+    "aliases": [
+      "Jurmin"
+    ],
+    "short": "Possibly Saint Jurmin, an East Anglian prince.",
+    "note": "Possibly Saint Jurmin. An early English prince venerated as a saint; his relics were kept at Bury St Edmunds. The details of his life are uncertain.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n180/mode/2up?q=Jurmin"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "sword-09",
+      "paragraph": "p-009",
+      "index": 76
+    }
+  },
+  {
+    "id": "nennoc",
+    "term": "Nennoc",
+    "aliases": [
+      "Nennoc"
+    ],
+    "short": "Possibly Saint Nennoc, an abbess of Brittany.",
+    "note": "Possibly Saint Nennoc, also called Ninnoc. A saint of British origin traditionally credited with founding and governing religious communities in Armorica, now Brittany.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n222/mode/2up?q=Nennoc"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "citadel-07",
+      "paragraph": "p-021",
+      "index": 113
+    }
+  },
+  {
+    "id": "modan",
+    "term": "Modan",
+    "aliases": [
+      "Modan"
+    ],
+    "short": "Possibly Saint Modan, a Scottish monastic saint.",
+    "note": "Possibly Saint Modan. A Scottish abbot associated with preaching around Stirling and Falkirk and with a later hermit’s life near Dumbarton.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n218/mode/2up?q=Modan"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "urth-11",
+      "paragraph": "p-034",
+      "index": 156
+    }
+  },
+  {
+    "id": "leocadia",
+    "term": "Leocadia",
+    "aliases": [
+      "Leocadia"
+    ],
+    "short": "Possibly Saint Leocadia, a martyr of Toledo.",
+    "note": "Possibly Saint Leocadia of Toledo. A Spanish martyr traditionally dated to Diocletian’s persecution, honored as a patron saint of Toledo.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n187/mode/2up?q=Leocadia"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "claw-15",
+      "paragraph": "p-010",
+      "index": 50
+    }
+  },
+  {
+    "id": "marcellina",
+    "term": "Marcellina",
+    "aliases": [
+      "Marcellina"
+    ],
+    "short": "Possibly Saint Marcellina, sister of Ambrose of Milan.",
+    "note": "Possibly Saint Marcellina. A fourth-century consecrated virgin. Her brother Ambrose addressed letters and religious writings to her.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n199/mode/2up?q=Marcellina"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "shadow-12",
+      "paragraph": "p-020",
+      "index": 11
+    }
+  },
+  {
+    "id": "talarican",
+    "term": "Talarican",
+    "aliases": [
+      "Talarican"
+    ],
+    "short": "Possibly Saint Talarican, a missionary bishop in Scotland.",
+    "note": "Possibly Saint Talarican, also called Tarkin. A saint associated especially with Aberdeenshire. Traditions about his origins and dates differ.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n273/mode/2up?q=Talarican"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-14",
+      "paragraph": "p-049",
+      "index": 13
+    }
+  },
+  {
+    "id": "werenfrid",
+    "term": "Werenfrid",
+    "aliases": [
+      "Werenfrid"
+    ],
+    "short": "Possibly Saint Werenfrid, a missionary among the Frisians.",
+    "note": "Possibly Saint Werenfrid. An English missionary associated with Willibrord’s work in the Netherlands and with the district around Arnhem.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n292/mode/2up?q=Werenfrid"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-33",
+      "paragraph": "p-011",
+      "index": 32
+    }
+  },
+  {
+    "id": "manahen",
+    "term": "Manahen",
+    "aliases": [
+      "Manahen"
+    ],
+    "short": "Possibly Manahen, a prophet and teacher at Antioch.",
+    "note": "Possibly Manahen, or Manaen, of the Acts of the Apostles. Acts 13:1 names him among the church’s prophets and teachers and says he was brought up with Herod the tetrarch.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n198/mode/2up?q=Manahen"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "claw-29",
+      "paragraph": "p-026",
+      "index": 64
+    }
+  },
+  {
+    "id": "barbea",
+    "term": "Barbea",
+    "aliases": [
+      "Barbea"
+    ],
+    "short": "Possibly Saint Barbea, a martyr of Edessa.",
+    "note": "Possibly Saint Barbea. A Christian woman of Syrian tradition, commemorated as a martyr at Edessa.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n60/mode/2up?q=Barbea"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-09",
+      "paragraph": "p-008",
+      "index": 8
+    }
+  },
+  {
+    "id": "ibar",
+    "term": "Ibar",
+    "aliases": [
+      "Ibar"
+    ],
+    "short": "Possibly Saint Ibar, an early Irish missionary.",
+    "note": "Possibly Saint Ibar, also called Iberius. A saint associated with evangelizing Leinster and Meath. His relationship to Patrick varies among the surviving traditions.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n162/mode/2up?q=Ibar"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-18",
+      "paragraph": "p-016",
+      "index": 124
+    }
+  },
+  {
+    "id": "lactan",
+    "term": "Lactan",
+    "aliases": [
+      "Lactan"
+    ],
+    "short": "Possibly Saint Lactan, an Irish monastic founder.",
+    "note": "Possibly Saint Lactan, also called Lachtin or Lactinus. An Irish abbot associated with Comgall of Bangor and the monastery at Freshford in County Kilkenny.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n183/mode/2up?q=Lactan"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-19",
+      "paragraph": "p-038",
+      "index": 125
+    }
+  },
+  {
+    "id": "loman",
+    "term": "Loman",
+    "aliases": [
+      "Loman"
+    ],
+    "short": "Possibly Saint Loman, bishop of Trim.",
+    "note": "Possibly Saint Loman of Trim. Traditionally an early bishop of Trim in County Meath and a kinsman of Patrick.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n189/mode/2up?q=Loman"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-06",
+      "paragraph": "p-094",
+      "index": 5
+    }
+  },
+  {
+    "id": "maruthas",
+    "term": "Maruthas",
+    "aliases": [
+      "Maruthas"
+    ],
+    "short": "Possibly Saint Maruthas, a bishop active in Persian Christianity.",
+    "note": "Possibly Saint Maruthas. A Mesopotamian bishop and church diplomat remembered for aiding Christians in Persia and restoring churches after persecution.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n206/mode/2up?q=Maruthas"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-13",
+      "paragraph": "p-037",
+      "index": 12
+    }
+  },
+  {
+    "id": "nilammon",
+    "term": "Nilammon",
+    "aliases": [
+      "Nilammon"
+    ],
+    "short": "Possibly Saint Nilammon, an Egyptian recluse.",
+    "note": "Possibly Saint Nilammon. In his traditional life he refuses election as bishop and dies while praying before the appointment can be imposed on him.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n225/mode/2up?q=Nilammon"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-05",
+      "paragraph": "p-045",
+      "index": 4
+    }
+  },
+  {
+    "id": "sebald",
+    "term": "Sebald",
+    "aliases": [
+      "Sebald"
+    ],
+    "short": "Possibly Saint Sebald, a hermit honored at Nuremberg.",
+    "note": "Possibly Saint Sebald, or Sebaldus. A missionary hermit whose shrine is in the Nuremberg church that bears his name. His biography is largely legendary.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n261/mode/2up?q=Sebald"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-02",
+      "paragraph": "p-009",
+      "index": 37
+    }
+  },
+  {
+    "id": "solange",
+    "term": "Solange",
+    "aliases": [
+      "Solange"
+    ],
+    "short": "Possibly Saint Solange, a French shepherdess and martyr.",
+    "note": "Possibly Saint Solange of Bourges. A shepherdess in the region of Bourges. Her legend says she was killed after resisting a nobleman’s sexual assault.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n269/mode/2up?q=Solange"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-24",
+      "paragraph": "p-078",
+      "index": 59
+    }
+  },
+  {
+    "id": "cinnia",
+    "term": "Cinnia",
+    "aliases": [
+      "Cinnia"
+    ],
+    "short": "Possibly Saint Cinnia, an Irish princess and nun.",
+    "note": "Possibly Saint Cinnia. Irish tradition makes her a princess of Ulster converted by Patrick who entered a religious community.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n86/mode/2up?q=Cinnia"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-29",
+      "paragraph": "p-005",
+      "index": 174
+    }
+  },
+  {
+    "id": "ceallach",
+    "term": "Ceallach",
+    "aliases": [
+      "Ceallach"
+    ],
+    "short": "Possibly Saint Ceallach, an early bishop of Killala.",
+    "note": "Possibly Saint Ceallach, also called Kellach. A saint associated with the monastery of Clonmacnoise, the bishopric of Killala, and a later life as a hermit.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n83/mode/2up?q=Ceallach"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-33",
+      "paragraph": "p-040",
+      "index": 178
+    }
+  },
+  {
+    "id": "abban",
+    "term": "Abban",
+    "aliases": [
+      "Abban"
+    ],
+    "short": "Possibly Abban, the name of early Irish abbots.",
+    "note": "Possibly one of the Irish saints called Abban. Irish tradition remembers both an Abban associated with Kill-Abban in Leinster and another credited with founding monasteries in southern Ireland.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n23/mode/2up?q=Abban"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-25",
+      "paragraph": "p-014",
+      "index": 24
+    }
+  },
+  {
+    "id": "hadrian",
+    "term": "Hadrian",
+    "aliases": [
+      "Hadrian"
+    ],
+    "short": "Possibly Saint Hadrian, a soldier-martyr of Nicomedia.",
+    "note": "Possibly Saint Hadrian, also called Adrian, of Nicomedia. Christian tradition describes an imperial officer who converted after witnessing the endurance of prisoners and was himself tortured and executed.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n153/mode/2up?q=Hadrian"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-11",
+      "paragraph": "p-003",
+      "index": 10
+    }
+  },
+  {
+    "id": "fausta",
+    "term": "Fausta",
+    "aliases": [
+      "Fausta"
+    ],
+    "short": "Possibly Saint Fausta, a young martyr of Cyzicus.",
+    "note": "Possibly Saint Fausta of Cyzicus. A girl commemorated in Christian tradition with Evilasius, who is said to have converted after seeing her endure torture.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n128/mode/2up?q=Fausta"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-07",
+      "paragraph": "p-009",
+      "index": 113
+    }
+  },
+  {
+    "id": "eusignius",
+    "term": "Eusignius",
+    "aliases": [
+      "Eusignius"
+    ],
+    "short": "Possibly Saint Eusignius, a veteran soldier and martyr.",
+    "note": "Possibly Saint Eusignius of Antioch. Tradition describes a very old soldier executed under Julian after refusing pagan worship.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n123/mode/2up?q=Eusignius"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-03",
+      "paragraph": "p-020",
+      "index": 2
+    }
+  },
+  {
+    "id": "epicharis",
+    "term": "Epicharis",
+    "aliases": [
+      "Epicharis"
+    ],
+    "short": "Possibly Saint Epicharis, an early Christian martyr.",
+    "note": "Possibly Saint Epicharis. Commemorated as a woman killed during Diocletian’s persecution; traditions disagree over whether the location was Rome or Constantinople.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n116/mode/2up?q=Epicharis"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-10",
+      "paragraph": "p-032",
+      "index": 116
+    }
+  },
+  {
+    "id": "decuman",
+    "term": "Decuman",
+    "aliases": [
+      "Decuman"
+    ],
+    "short": "Possibly Saint Decuman, a Welsh hermit in Somerset.",
+    "note": "Possibly Saint Decuman. A saint associated with Watchet in Somerset, traditionally said to have been murdered while living as a hermit.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n100/mode/2up?q=Decuman"
+      }
+    ],
+    "occurrences": 22,
+    "first": {
+      "chapter": "sword-21",
+      "paragraph": "p-024",
+      "index": 88
+    }
+  },
+  {
+    "id": "bregwyn",
+    "term": "Bregwyn",
+    "aliases": [
+      "Bregwyn"
+    ],
+    "short": "Possibly Saint Bregwin, an archbishop of Canterbury.",
+    "note": "Possibly Saint Bregwin. An eighth-century archbishop of Canterbury whose life was later written by the historian Eadmer.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n73/mode/2up?q=Bregwyn"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "urth-29",
+      "paragraph": "p-005",
+      "index": 174
+    }
+  },
+  {
+    "id": "winnoc",
+    "term": "Winnoc",
+    "aliases": [
+      "Winnoc"
+    ],
+    "short": "Possibly Saint Winnoc, an abbot honored in Flanders.",
+    "note": "Possibly Saint Winnoc, also spelled Winoc. An early medieval abbot associated with Saint Bertin’s community near Saint-Omer.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n294/mode/2up?q=Winnoc"
+      }
+    ],
+    "occurrences": 8,
+    "first": {
+      "chapter": "citadel-12",
+      "paragraph": "p-001",
+      "index": 118
+    }
+  },
+  {
+    "id": "abundantius",
+    "term": "Abundantius",
+    "aliases": [
+      "Abundantius"
+    ],
+    "short": "Possibly Saint Abundantius, a deacon-martyr of Rome.",
+    "note": "Possibly Saint Abundantius. Traditionally commemorated with the priest Abundius and the Christians Marcian and John as victims of Roman persecution.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n24/mode/2up?q=Abundantius"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "sword-21",
+      "paragraph": "p-016",
+      "index": 88
+    }
+  },
+  {
+    "id": "chad",
+    "term": "Chad",
+    "aliases": [
+      "Chad"
+    ],
+    "short": "Possibly Saint Chad, a seventh-century English bishop.",
+    "note": "Possibly Saint Chad, also called Ceadda. A Northumbrian churchman who became bishop of the Mercians and established his episcopal seat at Lichfield.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n84/mode/2up?q=Chad"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-01",
+      "paragraph": "p-001",
+      "index": 36
+    }
+  },
+  {
+    "id": "gildas",
+    "term": "Gildas",
+    "aliases": [
+      "Gildas"
+    ],
+    "short": "Possibly Gildas, author of On the Ruin of Britain.",
+    "note": "Possibly Saint Gildas the Wise. A sixth-century British cleric whose Latin work rebukes rulers and clergy and describes the troubles of post-Roman Britain.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n147/mode/2up?q=Gildas"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-11",
+      "paragraph": "p-008",
+      "index": 10
+    }
+  },
+  {
+    "id": "odo",
+    "term": "Odo",
+    "aliases": [
+      "Odo"
+    ],
+    "short": "Possibly Saint Odo, a reforming abbot of Cluny.",
+    "note": "Possibly Saint Odo of Cluny. A tenth-century Benedictine abbot who helped spread the Cluniac movement for reform of monastic life.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n226/mode/2up?q=Odo"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-03",
+      "paragraph": "p-008",
+      "index": 2
+    }
+  },
+  {
+    "id": "jovinian",
+    "term": "Jovinian",
+    "aliases": [
+      "Jovinian"
+    ],
+    "short": "Possibly Saint Jovinian, a Christian lector and martyr.",
+    "note": "Possibly Saint Jovinian of Auxerre. A missionary companion of Peregrinus of Auxerre, remembered for scriptural learning and martyrdom in Gaul.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n176/mode/2up?q=Jovinian"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-29",
+      "paragraph": "p-024",
+      "index": 28
+    }
+  },
+  {
+    "id": "hormisdas",
+    "term": "Hormisdas",
+    "aliases": [
+      "Hormisdas"
+    ],
+    "short": "Possibly Pope Hormisdas, who reconciled Rome and Constantinople.",
+    "note": "Possibly Pope Saint Hormisdas. Pope from 514 to 523, remembered for ending the Acacian schism between the churches of Rome and Constantinople.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n160/mode/2up?q=Hormisdas"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-35",
+      "paragraph": "p-065",
+      "index": 141
+    }
+  },
+  {
+    "id": "mamas",
+    "term": "Mamas",
+    "aliases": [
+      "Mamas"
+    ],
+    "short": "Possibly Saint Mamas, a martyr honored in Cappadocia.",
+    "note": "Possibly Saint Mamas, also called Mammas. An early Christian martyr associated with Caesarea in Cappadocia. His traditional lives differ substantially.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n197/mode/2up?q=Mamas"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-26",
+      "paragraph": "p-017",
+      "index": 132
+    }
+  },
+  {
+    "id": "phocas",
+    "term": "Phocas",
+    "aliases": [
+      "Phocas"
+    ],
+    "short": "Possibly Saint Phocas, a bishop-martyr of Sinope.",
+    "note": "Possibly Saint Phocas of Sinope. A saint traditionally identified as a bishop of Sinope on the Black Sea, executed during the reign of Trajan.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n241/mode/2up?q=Phocas"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-15",
+      "paragraph": "p-010",
+      "index": 50
+    }
+  },
+  {
+    "id": "mannea",
+    "term": "Mannea",
+    "aliases": [
+      "Mannea"
+    ],
+    "short": "Possibly Saint Mannea, remembered with her family.",
+    "note": "Possibly Saint Mannea, a Christian martyr commemorated with her husband Marcellinus and their children.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Roman Martyrology · Mannea",
+        "url": "https://lapide.org/baronius_caesar/De_Martyrologio_Romano.html"
+      }
+    ],
+    "occurrences": 22,
+    "first": {
+      "chapter": "citadel-14",
+      "paragraph": "p-030",
+      "index": 120
+    }
+  },
+  {
+    "id": "thea",
+    "term": "Thea",
+    "aliases": [
+      "Thea"
+    ],
+    "short": "Possibly Saint Thea, a martyr of Gaza.",
+    "note": "Possibly Saint Thea, commemorated with Meuris as a Christian martyr of Gaza. The surviving traditions about these two women are uncertain.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "French Bishops’ Conference · Thea and Meuris",
+        "url": "https://nominis.cef.fr/contenus/saint/9902/Saintes-Th%C3%A9a-et-Meuris.html"
+      }
+    ],
+    "occurrences": 41,
+    "first": {
+      "chapter": "shadow-01",
+      "paragraph": "p-049",
+      "index": 0
+    }
+  },
+  {
+    "id": "gundulf",
+    "term": "Gundulf",
+    "aliases": [
+      "Gundulf"
+    ],
+    "short": "Possibly a Germanic name formed from “battle” and “wolf.”",
+    "note": "Possibly the medieval name Gundulf, formed from Germanic elements meaning “battle” and “wolf.” It was borne by several early medieval saints.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Dictionary of Medieval Names · Gundulf",
+        "url": "https://dmnes.org/name/Gundulf"
+      }
+    ],
+    "occurrences": 16,
+    "first": {
+      "chapter": "citadel-07",
+      "paragraph": "p-002",
+      "index": 113
+    }
+  },
+  {
+    "id": "erblon",
+    "term": "Erblon",
+    "aliases": [
+      "Erblon"
+    ],
+    "short": "Possibly Saint Hermeland, also known as Herbland.",
+    "note": "Possibly Saint Hermeland, also called Herbland, a Benedictine abbot who founded a monastery on the island of Indre near Nantes. His name survives in Saint-Erblon.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Pays de la Loire heritage inventory · Saint Hermeland",
+        "url": "https://gertrude.paysdelaloire.fr/dossier/IM53008252"
+      }
+    ],
+    "occurrences": 17,
+    "first": {
+      "chapter": "citadel-19",
+      "paragraph": "p-028",
+      "index": 125
+    }
+  },
+  {
+    "id": "domnina",
+    "term": "Domnina",
+    "aliases": [
+      "Domnina"
+    ],
+    "short": "Possibly Saint Domnina of Syria, a fifth-century ascetic.",
+    "note": "Possibly Saint Domnina the Younger of Syria, an ascetic described by Theodoret of Cyrrhus. She lived in a small shelter and devoted herself to prayer, austerity, and care for others.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Orthodox Church in America · Domnina of Syria",
+        "url": "https://www.oca.org/saints/lives/2009/03/01/100632-saint-domnina-the-younger-of-syria"
+      }
+    ],
+    "occurrences": 14,
+    "first": {
+      "chapter": "shadow-20",
+      "paragraph": "p-025",
+      "index": 19
+    }
+  },
+  {
+    "id": "ava",
+    "term": "Ava",
+    "aliases": [
+      "Ava"
+    ],
+    "short": "Possibly Saint Ava, a nun of Denain.",
+    "note": "Possibly Saint Ava, a ninth-century saint venerated at Denain in northern France. Tradition says she entered the monastery after being healed of blindness.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "French Bishops’ Conference · Ava",
+        "url": "https://nominis.cef.fr/contenus/saint/2156/Sainte-Ava.html"
+      }
+    ],
+    "occurrences": 13,
+    "first": {
+      "chapter": "citadel-10",
+      "paragraph": "p-052",
+      "index": 116
+    }
+  },
+  {
+    "id": "hunna",
+    "term": "Hunna",
+    "aliases": [
+      "Hunna"
+    ],
+    "short": "Possibly Saint Hunna, remembered for washing for the poor.",
+    "note": "Possibly Saint Hunna, an Alsatian noblewoman remembered for serving poor neighbors, especially by washing their clothes. She is a patron saint of laundresses.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Catholic Online · Hunna",
+        "url": "https://www.catholic.org/saints/saint.php?saint_id=3823"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "citadel-04",
+      "paragraph": "p-037",
+      "index": 110
+    }
+  },
+  {
+    "id": "racho",
+    "term": "Racho",
+    "aliases": [
+      "Racho"
+    ],
+    "short": "Possibly Saint Racho, a bishop of Autun.",
+    "note": "Possibly Saint Racho, also called Ragnobert, a seventh-century bishop of Autun in France.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Catholic Online · Racho",
+        "url": "https://www.catholic.org/saints/saint.php?saint_id=4549"
+      }
+    ],
+    "occurrences": 8,
+    "first": {
+      "chapter": "shadow-05",
+      "paragraph": "p-020",
+      "index": 4
+    }
+  },
+  {
+    "id": "beuzec",
+    "term": "Beuzec",
+    "aliases": [
+      "Beuzec"
+    ],
+    "short": "Possibly Budoc, a Breton saint whose name survives as Beuzec.",
+    "note": "Possibly Saint Budoc, an early Breton saint. The Breton place-name Beuzec preserves his name; the church at Beuzec-Cap-Sizun is dedicated to him.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Fondation du patrimoine · Saint-Budoc at Beuzec",
+        "url": "https://www.fondation-patrimoine.org/les-projets/eglise-saint-budoc-a-beuzec-cap-sizun/100540"
+      }
+    ],
+    "occurrences": 12,
+    "first": {
+      "chapter": "claw-13",
+      "paragraph": "p-043",
+      "index": 48
+    }
+  },
+  {
+    "id": "mamillian",
+    "term": "Mamillian",
+    "aliases": [
+      "Mamillian"
+    ],
+    "short": "Possibly Saint Mamillian, a bishop of Palermo.",
+    "note": "Possibly Saint Mamillian, or Mamiliano, an early bishop of Palermo. Tradition associates him with exile in Tuscany during the Vandal period.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Orthodox hagiography · Mamillian of Palermo",
+        "url": "https://drjohnhutchisonhall.com/saints-pre-schism-rome/15-september/"
+      }
+    ],
+    "occurrences": 8,
+    "first": {
+      "chapter": "citadel-23",
+      "paragraph": "p-013",
+      "index": 129
+    }
+  },
+  {
+    "id": "mesrop",
+    "term": "Mesrop",
+    "aliases": [
+      "Mesrop"
+    ],
+    "short": "Possibly Mesrop Mashtots, creator of the Armenian alphabet.",
+    "note": "Possibly Saint Mesrop Mashtots, a fifth-century Armenian monk who devised the Armenian alphabet around 405. His work enabled a major movement of translation and literary production in Armenian.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Encyclopaedia Iranica · Mesrop Mashtots",
+        "url": "https://www.iranicaonline.org/articles/mesrop-mastoc%CA%BF/"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "citadel-19",
+      "paragraph": "p-038",
+      "index": 125
+    }
+  },
+  {
+    "id": "katharine",
+    "term": "Katharine",
+    "aliases": [
+      "Katharine",
+      "Catherine"
+    ],
+    "short": "Possibly Saint Catherine of Alexandria, associated with the wheel.",
+    "note": "Possibly Saint Catherine of Alexandria, a Christian martyr of legend. A spiked wheel and a sword are her familiar attributes, recalling the torture and execution in her traditional life.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Metropolitan Museum of Art · Catherine of Alexandria",
+        "url": "https://www.metmuseum.org/art/collection/search/468353"
+      }
+    ],
+    "occurrences": 17,
+    "first": {
+      "chapter": "shadow-04",
+      "paragraph": "p-004",
+      "index": 3
+    }
+  },
+  {
+    "id": "hermas",
+    "term": "Hermas",
+    "aliases": [
+      "Hermas"
+    ],
+    "short": "Possibly Hermas, author of The Shepherd.",
+    "note": "Possibly Hermas, the early Christian author traditionally credited with The Shepherd, a work of visions, commands, and allegorical parables. This author is generally distinguished from the Hermas named in Romans 16:14.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "The Shepherd of Hermas · translated text",
+        "url": "https://www.newadvent.org/fathers/0201.htm"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-06",
+      "paragraph": "p-094",
+      "index": 5
+    }
+  },
+  {
+    "id": "famulimus",
+    "term": "Famulimus",
+    "aliases": [
+      "Famulimus"
+    ],
+    "short": "Possibly from Latin famulus: a servant or attendant.",
+    "note": "Possibly related to Latin famulus, “servant” or “slave,” also the source of English famulus, a close attendant or assistant.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Wiktionary · famulus",
+        "url": "https://en.wiktionary.org/wiki/famulus#Latin"
+      }
+    ],
+    "occurrences": 71,
+    "first": {
+      "chapter": "sword-33",
+      "paragraph": "p-017",
+      "index": 100
+    }
+  },
+  {
+    "id": "famulorum",
+    "term": "Famulorum",
+    "aliases": [
+      "Famulorum"
+    ],
+    "short": "Possibly Latin: “of the servants.”",
+    "note": "Possibly Latin famulorum, “of the servants,” the genitive plural of famulus, a servant or slave.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Wiktionary · famulus",
+        "url": "https://en.wiktionary.org/wiki/famulus#Latin"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-40",
+      "paragraph": "p-016",
+      "index": 185
+    }
+  },
+  {
+    "id": "gurgustii",
+    "term": "Gurgustii",
+    "aliases": [
+      "Gurgustii"
+    ],
+    "short": "Possibly from Latin gurgustium: a hut or hovel.",
+    "note": "Possibly from Latin gurgustium, a small hut, hovel, or dark cramped dwelling. Gurgustii is a genitive form, “of a hovel.”",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Wiktionary · gurgustium",
+        "url": "https://en.wiktionary.org/wiki/gurgustium#Latin"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "urth-29",
+      "paragraph": "p-021",
+      "index": 174
+    }
+  },
+  {
+    "id": "vici",
+    "term": "Vici",
+    "aliases": [
+      "Vici"
+    ],
+    "short": "Possibly Latin vici: villages or neighborhoods.",
+    "note": "Possibly Latin vici, the plural of vicus, a village or a neighborhood of a town.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Lewis & Short · vicus",
+        "url": "https://cld.bbaw.de/lemma/lat/vicus"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "urth-29",
+      "paragraph": "p-005",
+      "index": 174
+    }
+  },
+  {
+    "id": "liti",
+    "term": "Liti",
+    "aliases": [
+      "Liti"
+    ],
+    "short": "Possibly from Latin litus: a shore or beach.",
+    "note": "Possibly from Latin litus, a seashore, beach, or landing place.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Lewis & Short · litus",
+        "url": "https://cld.bbaw.de/lemma/lat/litus"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "urth-28",
+      "paragraph": "p-014",
+      "index": 173
+    }
+  },
+  {
+    "id": "os",
+    "term": "Os",
+    "aliases": [
+      "Os"
+    ],
+    "short": "Possibly Latin os: a mouth or opening.",
+    "note": "Possibly Latin os, “mouth,” extended to an opening or entrance.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Lewis & Short · os",
+        "url": "https://cld.bbaw.de/lemma/lat/os"
+      }
+    ],
+    "occurrences": 13,
+    "first": {
+      "chapter": "urth-29",
+      "paragraph": "p-042",
+      "index": 174
+    }
+  },
+  {
+    "id": "fluminis",
+    "term": "Fluminis",
+    "aliases": [
+      "Fluminis"
+    ],
+    "short": "Possibly Latin: “of a river.”",
+    "note": "Possibly Latin fluminis, “of a river” or “of a stream,” from flumen.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Lewis & Short · flumen",
+        "url": "https://cld.bbaw.de/lemma/lat/flumen"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-30",
+      "paragraph": "p-016",
+      "index": 175
+    }
+  },
+  {
+    "id": "noctua",
+    "term": "Noctua",
+    "aliases": [
+      "Noctua"
+    ],
+    "short": "Possibly Latin noctua: an owl.",
+    "note": "Possibly Latin noctua, an owl, particularly a night owl; the bird was associated with Minerva.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Lewis & Short · noctua",
+        "url": "https://cld.bbaw.de/lemma/lat/noctua"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "claw-17",
+      "paragraph": "p-026",
+      "index": 52
+    }
+  },
+  {
+    "id": "quiesco",
+    "term": "Quiesco",
+    "aliases": [
+      "Quiesco"
+    ],
+    "short": "Possibly Latin quiesco: “I rest” or “I am still.”",
+    "note": "Possibly Latin quiesco, “I rest,” “I sleep,” or “I keep still.”",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Lewis & Short · quiesco",
+        "url": "https://cld.bbaw.de/lemma/lat/quiesco"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "claw-13",
+      "paragraph": "p-046",
+      "index": 48
+    }
+  },
+  {
+    "id": "pestis",
+    "term": "Pestis",
+    "aliases": [
+      "Pestis"
+    ],
+    "short": "Possibly Latin pestis: plague, ruin, or destruction.",
+    "note": "Possibly Latin pestis, a plague or deadly disease; more broadly, a destructive calamity or a source of ruin.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Lewis & Short · pestis",
+        "url": "https://cld.bbaw.de/lemma/lat/pestis"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-33",
+      "paragraph": "p-019",
+      "index": 178
+    }
+  },
+  {
+    "id": "carina",
+    "term": "Carina",
+    "aliases": [
+      "Carina"
+    ],
+    "short": "Possibly Latin carina: a ship’s keel.",
+    "note": "Possibly Latin carina, the keel of a ship, also used poetically for the whole vessel.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Lewis & Short · carina",
+        "url": "https://cld.bbaw.de/lemma/lat/carina"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-24",
+      "paragraph": "p-185",
+      "index": 59
+    }
+  },
+  {
+    "id": "silva",
+    "term": "Silva",
+    "aliases": [
+      "Silva"
+    ],
+    "short": "Possibly Latin silva: a wood or forest.",
+    "note": "Possibly Latin silva, a wood, forest, or woodland.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Lewis & Short · silva",
+        "url": "https://cld.bbaw.de/lemma/lat/silva"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-23",
+      "paragraph": "p-003",
+      "index": 129
+    }
+  },
+  {
+    "id": "miles",
+    "term": "Miles",
+    "aliases": [
+      "Miles"
+    ],
+    "short": "Possibly Latin miles: a soldier.",
+    "note": "Possibly Latin miles, a soldier; in medieval Latin the word can also mean a knight.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Wiktionary · miles",
+        "url": "https://en.wiktionary.org/wiki/miles#Latin"
+      }
+    ],
+    "occurrences": 11,
+    "first": {
+      "chapter": "citadel-06",
+      "paragraph": "p-006",
+      "index": 112
+    }
+  },
+  {
+    "id": "domnicellae",
+    "term": "Domnicellae",
+    "aliases": [
+      "Domnicellae"
+    ],
+    "short": "Possibly related to the Latin ancestor of “damsel.”",
+    "note": "Possibly related to domnicella, a reconstructed popular Latin word for a young woman or maiden, behind French demoiselle and English damsel.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Wiktionary · reconstructed domnicella",
+        "url": "https://en.wiktionary.org/wiki/Reconstruction:Latin/domnicella"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "shadow-18",
+      "paragraph": "p-042",
+      "index": 17
+    }
+  },
+  {
+    "id": "avern",
+    "term": "avern",
+    "aliases": [
+      "avern",
+      "averns"
+    ],
+    "short": "Possibly Avernus, the lake associated with an entrance to the underworld.",
+    "note": "Possibly Avernus, a volcanic lake near ancient Cumae in Italy. In Virgil’s Aeneid it is an entrance to the underworld, and its name is explained through a tradition that birds could not fly safely above it.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Virgil · Aeneid, Book VI",
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Aabo%3Aphi%2C0690%2C003%3A6"
+      }
+    ],
+    "occurrences": 63,
+    "first": {
+      "chapter": "shadow-17",
+      "paragraph": "p-028",
+      "index": 16
+    }
+  },
+  {
+    "id": "abaia",
+    "term": "Abaia",
+    "aliases": [
+      "Abaia"
+    ],
+    "short": "Possibly Abaia, a great magical eel in Melanesian tradition.",
+    "note": "Possibly Abaia, a magical eel in a Melanesian flood tale. When people catch fish from its lake, it sends a deluge in retaliation.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Roland B. Dixon · Oceanic Mythology (1916)",
+        "url": "https://www.globalgreyebooks.com/online-ebooks/roland-b-dixon_oceanic-mythology_complete-text.html"
+      }
+    ],
+    "occurrences": 34,
+    "first": {
+      "chapter": "shadow-12",
+      "paragraph": "p-088",
+      "index": 11
+    }
+  },
+  {
+    "id": "samru",
+    "term": "Samru",
+    "aliases": [
+      "Samru"
+    ],
+    "short": "Possibly the Simurgh, a mythical bird of Iranian tradition.",
+    "note": "Possibly the Simurgh, or Sēnmurw, the great mythical bird of Iranian tradition. In Persian epic the bird protects Zal and later aids his son Rostam.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Encyclopaedia Iranica · Simurgh",
+        "url": "https://www.iranicaonline.org/articles/simorg/"
+      }
+    ],
+    "occurrences": 16,
+    "first": {
+      "chapter": "claw-06",
+      "paragraph": "p-009",
+      "index": 41
+    }
+  },
+  {
+    "id": "orithyia",
+    "term": "Orithyia",
+    "aliases": [
+      "Orithyia"
+    ],
+    "short": "Possibly Oreithyia, the Athenian princess carried off by the north wind.",
+    "note": "Possibly Oreithyia, or Orithyia, daughter of the Athenian king Erechtheus. Greek myth tells how Boreas, the north wind, carried her away to become his wife.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Theoi · Oreithyia and classical passages",
+        "url": "https://www.theoi.com/Nymphe/NympheOreithyia1.html"
+      }
+    ],
+    "occurrences": 13,
+    "first": {
+      "chapter": "sword-11",
+      "paragraph": "p-072",
+      "index": 78
+    }
+  },
+  {
+    "id": "alcyone",
+    "term": "Alcyone",
+    "aliases": [
+      "Alcyone"
+    ],
+    "short": "Possibly Alcyone, transformed with Ceyx into a sea bird.",
+    "note": "Possibly Alcyone, or Halcyone, whose grief for her shipwrecked husband Ceyx ends with both transformed into birds in Ovid’s Metamorphoses. Their nesting season is associated with the calm “halcyon days.”",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Ovid · Metamorphoses, Book XI",
+        "url": "https://www.theoi.com/Text/OvidMetamorphoses11.html"
+      }
+    ],
+    "occurrences": 12,
+    "first": {
+      "chapter": "urth-30",
+      "paragraph": "p-056",
+      "index": 175
+    }
+  },
+  {
+    "id": "ceryx",
+    "term": "Ceryx",
+    "aliases": [
+      "Ceryx"
+    ],
+    "short": "Possibly Keryx, the herald associated with the Eleusinian mysteries.",
+    "note": "Possibly Keryx, or Ceryx, a legendary herald and ancestor of the Athenian priestly family of the Kerykes. One tradition makes him a son of Hermes.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Theoi · Hermes’ family and classical passages",
+        "url": "https://www.theoi.com/Olympios/HermesFamily.html"
+      }
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "urth-30",
+      "paragraph": "p-016",
+      "index": 175
+    }
+  },
+  {
+    "id": "dis",
+    "term": "Dis",
+    "aliases": [
+      "Dis"
+    ],
+    "short": "Possibly Dis, the Roman god of the underworld.",
+    "note": "Possibly Dis, or Dis Pater, a Roman name for the ruler of the underworld, identified with Pluto and the Greek Hades.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Theoi · Hades, Pluto, and Dis",
+        "url": "https://www.theoi.com/Khthonios/Haides.html"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "sword-25",
+      "paragraph": "p-002",
+      "index": 92
+    }
+  },
+  {
+    "id": "skuld",
+    "term": "Skuld",
+    "aliases": [
+      "Skuld"
+    ],
+    "short": "Possibly Skuld, one of the Norse Norns.",
+    "note": "Possibly Skuld, one of the three Norns who determine human lifespans in Norse myth. The Prose Edda also numbers her among the Valkyries who choose the slain.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Snorri Sturluson · Gylfaginning",
+        "url": "https://sacred-texts.com/neu/pre/pre04.htm"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "claw-10",
+      "paragraph": "p-019",
+      "index": 45
+    }
+  },
+  {
+    "id": "cephissus",
+    "term": "Cephissus",
+    "aliases": [
+      "Cephissus"
+    ],
+    "short": "Possibly Cephissus, a Greek river and river-god.",
+    "note": "Possibly Cephissus, or Kephisos, the name of several Greek rivers and their personified river-gods, including the river of Phocis and Boeotia.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Theoi · Cephissus and classical passages",
+        "url": "https://www.theoi.com/Potamos/PotamosKephisos1.html"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "claw-28",
+      "paragraph": "p-008",
+      "index": 63
+    }
+  },
+  {
+    "id": "amaranthine",
+    "term": "amaranthine",
+    "aliases": [
+      "amaranthine"
+    ],
+    "short": "Unfading; also a reddish-purple color.",
+    "note": "Unfading or everlasting; also the reddish-purple color called amaranth. The word is related to Greek amarantos, unfading.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/amaranthine",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "claw-08",
+      "paragraph": "p-051",
+      "index": 43
+    }
+  },
+  {
+    "id": "simar",
+    "term": "simar",
+    "aliases": [
+      "simar"
+    ],
+    "short": "A flowing robe or light shift.",
+    "note": "An old garment name covering a flowing Renaissance gown, a light shift, or a long outer robe.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/simar",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-29",
+      "paragraph": "p-002",
+      "index": 28
+    }
+  },
+  {
+    "id": "lucivee",
+    "term": "lucivee",
+    "aliases": [
+      "lucivee"
+    ],
+    "short": "A regional name for the Canada lynx.",
+    "note": "A New England name for the Canada lynx, adapted from Canadian French loup-cervier.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lucivee",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "citadel-26",
+      "paragraph": "p-010",
+      "index": 132
+    }
+  },
+  {
+    "id": "sanbenito",
+    "term": "sanbenito",
+    "aliases": [
+      "sanbenito"
+    ],
+    "short": "A penitential garment of the Inquisition.",
+    "note": "A garment imposed on penitents and condemned people by the Spanish Inquisition, marked with crosses or images of flames and devils.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sanbenito",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-06",
+      "paragraph": "p-001",
+      "index": 73
+    }
+  },
+  {
+    "id": "paduasoy",
+    "term": "paduasoy",
+    "aliases": [
+      "paduasoy"
+    ],
+    "short": "A ribbed silk fabric.",
+    "note": "A silk fabric woven with a pronounced corded or ribbed texture; also a garment made from it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/paduasoy",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-16",
+      "paragraph": "p-042",
+      "index": 15
+    }
+  },
+  {
+    "id": "rosolio",
+    "term": "rosolio",
+    "aliases": [
+      "rosolio"
+    ],
+    "short": "A sweet, flavored cordial.",
+    "note": "A sweetened spirit flavored with ingredients such as rose petals, orange blossoms, cinnamon, or cloves.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/rosolio",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-04",
+      "paragraph": "p-052",
+      "index": 71
+    }
+  },
+  {
+    "id": "gegenschein",
+    "term": "gegenschein",
+    "aliases": [
+      "gegenschein"
+    ],
+    "short": "A faint glow opposite the Sun.",
+    "note": "A faint patch of light in the night sky opposite the Sun, produced by sunlight scattered back by interplanetary dust. German Gegenschein means counterglow.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gegenschein",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-17",
+      "paragraph": "p-032",
+      "index": 84
+    }
+  },
+  {
+    "id": "coryphaeus",
+    "term": "coryphaeus",
+    "aliases": [
+      "coryphaeus"
+    ],
+    "short": "A chorus leader.",
+    "note": "The leader of a chorus; more generally, the leading figure in a movement or school of thought. From Greek koryphaios, chief or foremost.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/coryphaeus",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "citadel-22",
+      "paragraph": "p-008",
+      "index": 128
+    }
+  },
+  {
+    "id": "palinode",
+    "term": "palinode",
+    "aliases": [
+      "palinode"
+    ],
+    "short": "A poem retracting an earlier poem.",
+    "note": "A poem or song that withdraws a statement made in an earlier work; more broadly, a formal recantation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/palinode",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-31",
+      "paragraph": "p-016",
+      "index": 176
+    }
+  },
+  {
+    "id": "oriflamme",
+    "term": "oriflamme",
+    "aliases": [
+      "oriflamme"
+    ],
+    "short": "A battle banner or rallying symbol.",
+    "note": "Originally the red banner associated with Saint Denis and carried by medieval French kings in battle; later, any banner or ideal that inspires devotion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/oriflamme",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-17",
+      "paragraph": "p-041",
+      "index": 16
+    }
+  },
+  {
+    "id": "saros",
+    "term": "saros",
+    "aliases": [
+      "saros"
+    ],
+    "short": "An ancient 3,600-year period; also an eclipse cycle.",
+    "note": "In ancient Babylonian chronology, a period of 3,600 years. In modern astronomy, a cycle of about 6,585.3 days, or eighteen years, after which similar eclipses recur.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.tertullian.org/rpearse/eusebius_chron/resources/berossos_and_manetho.pdf",
+        "label": "Verbrugghe and Wickersham · Berossos and Manetho"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/saros",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-02",
+      "paragraph": "p-011",
+      "index": 1
+    }
+  },
+  {
+    "id": "narthex",
+    "term": "narthex",
+    "aliases": [
+      "narthex"
+    ],
+    "short": "The entrance area of a church.",
+    "note": "A vestibule or porch at the entrance to a church, leading into its main interior.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/narthex",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-15",
+      "paragraph": "p-003",
+      "index": 121
+    }
+  },
+  {
+    "id": "pursuivant",
+    "term": "pursuivant",
+    "aliases": [
+      "pursuivant"
+    ],
+    "short": "A junior heraldic officer.",
+    "note": "An officer of arms below the rank of herald, performing similar ceremonial and heraldic duties. The word also means a follower or attendant.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pursuivant",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-07",
+      "paragraph": "p-107",
+      "index": 6
+    }
+  },
+  {
+    "id": "palmer",
+    "term": "palmer",
+    "aliases": [
+      "palmer"
+    ],
+    "short": "A pilgrim to the Holy Land.",
+    "note": "A pilgrim who has visited the Holy Land, traditionally wearing crossed palm leaves as a sign of the journey.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/palmer",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-17",
+      "paragraph": "p-053",
+      "index": 16
+    }
+  },
+  {
+    "id": "paphian",
+    "term": "paphian",
+    "aliases": [
+      "paphian"
+    ],
+    "short": "Of Paphos; an old term for a sex worker.",
+    "note": "Belonging to Paphos in Cyprus. In older English, a paphian can mean a female sex worker, and the adjective can describe illicit love.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/paphian",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-09",
+      "paragraph": "p-029",
+      "index": 8
+    }
+  },
+  {
+    "id": "oread",
+    "term": "oread",
+    "aliases": [
+      "oread"
+    ],
+    "short": "A mountain nymph.",
+    "note": "A nymph of hills or mountains in Greek mythology; the name comes from Greek oros, mountain.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/oread",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-30",
+      "paragraph": "p-029",
+      "index": 65
+    }
+  },
+  {
+    "id": "mensal",
+    "term": "mensal",
+    "aliases": [
+      "mensal"
+    ],
+    "short": "Church property supporting a religious household.",
+    "note": "Relating to a table; historically also applied to a church or property whose revenues maintained a bishop’s table or household. From Latin mensa, table.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dsl.ac.uk/entry/snd/mensal",
+        "label": "Dictionaries of the Scots Language"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mensal",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-18",
+      "paragraph": "p-015",
+      "index": 17
+    }
+  },
+  {
+    "id": "midinette",
+    "term": "midinette",
+    "aliases": [
+      "midinette"
+    ],
+    "short": "A Parisian seamstress or shopgirl.",
+    "note": "A traditional French name for a young Parisian seamstress or shop assistant.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/midinette",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-06",
+      "paragraph": "p-001",
+      "index": 73
+    }
+  },
+  {
+    "id": "lazulite",
+    "term": "lazulite",
+    "aliases": [
+      "lazulite"
+    ],
+    "short": "An azure-blue phosphate mineral.",
+    "note": "A blue mineral containing aluminum, magnesium, iron, and phosphate. Its name recalls the color of lapis lazuli.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lazulite",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-01",
+      "paragraph": "p-003",
+      "index": 36
+    }
+  },
+  {
+    "id": "lanugo",
+    "term": "lanugo",
+    "aliases": [
+      "lanugo"
+    ],
+    "short": "Fine, downy body hair.",
+    "note": "A soft, downy covering of hair, especially the hair of a mammalian fetus. Latin lanugo means down and is related to lana, wool.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lanugo",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-31",
+      "paragraph": "p-028",
+      "index": 176
+    }
+  },
+  {
+    "id": "lambrequin",
+    "term": "lambrequin",
+    "aliases": [
+      "lambrequin"
+    ],
+    "short": "A helmet scarf or decorative valance.",
+    "note": "A cloth draped over a helmet; also a short decorative hanging along the top of a window or the edge of a shelf.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lambrequin",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-16",
+      "paragraph": "p-002",
+      "index": 15
+    }
+  },
+  {
+    "id": "hyalite",
+    "term": "hyalite",
+    "aliases": [
+      "hyalite"
+    ],
+    "short": "A glasslike form of opal.",
+    "note": "A usually colorless variety of opal with a glasslike appearance, sometimes cloudy or whitish.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hyalite",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-33",
+      "paragraph": "p-003",
+      "index": 178
+    }
+  },
+  {
+    "id": "heteroclite",
+    "term": "heteroclite",
+    "aliases": [
+      "heteroclite"
+    ],
+    "short": "Irregular or unconventional.",
+    "note": "Departing from customary forms or rules. In grammar, a heteroclite is a word with irregular inflection.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/heteroclite",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-48",
+      "paragraph": "p-004",
+      "index": 193
+    }
+  },
+  {
+    "id": "hexaemeron",
+    "term": "hexaemeron",
+    "aliases": [
+      "hexaemeron"
+    ],
+    "short": "The six days of Creation.",
+    "note": "The six days of Creation in Genesis; from Greek words meaning six and day.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hexaemeron",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-08",
+      "paragraph": "p-035",
+      "index": 43
+    }
+  },
+  {
+    "id": "gamboge",
+    "term": "gamboge",
+    "aliases": [
+      "gamboge"
+    ],
+    "short": "A yellow pigment from tree resin.",
+    "note": "A resin obtained from Garcinia trees of Southeast Asia and used as a yellow pigment; also the strong yellow color itself.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gamboge",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-27",
+      "paragraph": "p-015",
+      "index": 26
+    }
+  },
+  {
+    "id": "archimage",
+    "term": "archimage",
+    "aliases": [
+      "archimage"
+    ],
+    "short": "A great magician.",
+    "note": "An eminent magician or enchanter; from Greek elements meaning chief and magus.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/archimage",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-19",
+      "paragraph": "p-072",
+      "index": 18
+    }
+  },
+  {
+    "id": "aubade",
+    "term": "aubade",
+    "aliases": [
+      "aubade"
+    ],
+    "short": "A dawn song or poem.",
+    "note": "A poem or musical piece associated with daybreak, particularly a song of lovers separating at dawn.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/aubade",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-05",
+      "paragraph": "p-044",
+      "index": 72
+    }
+  },
+  {
+    "id": "barghest",
+    "term": "barghest",
+    "aliases": [
+      "barghest"
+    ],
+    "short": "An ominous spectral dog or goblin.",
+    "note": "A ghost or goblin in English folklore, often appearing as a large dog and regarded as an omen of misfortune.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/barghest",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-07",
+      "paragraph": "p-038",
+      "index": 74
+    }
+  },
+  {
+    "id": "beryl",
+    "term": "beryl",
+    "aliases": [
+      "beryl"
+    ],
+    "short": "The mineral of emerald and aquamarine.",
+    "note": "A hard mineral composed of beryllium aluminum silicate. Its colored varieties include emerald, aquamarine, heliodor, and morganite.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/beryl",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-14",
+      "paragraph": "p-005",
+      "index": 81
+    }
+  },
+  {
+    "id": "chatoyant",
+    "term": "chatoyant",
+    "aliases": [
+      "chatoyant"
+    ],
+    "short": "Shimmering like a cat’s eye.",
+    "note": "Showing a shifting, luminous band as the surface turns, especially in a gemstone; from French chatoyer, to shine like a cat’s eyes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chatoyant",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-09",
+      "paragraph": "p-032",
+      "index": 76
+    }
+  },
+  {
+    "id": "cordwain",
+    "term": "cordwain",
+    "aliases": [
+      "cordwain"
+    ],
+    "short": "Cordovan leather.",
+    "note": "An old English name for cordovan leather, with a word history running through French to Spanish cordobán.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cordwain",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-06",
+      "paragraph": "p-081",
+      "index": 5
+    }
+  },
+  {
+    "id": "dux",
+    "term": "dux",
+    "aliases": [
+      "dux"
+    ],
+    "short": "Latin: a leader or commander.",
+    "note": "Latin dux means leader. In the later Roman Empire it became a title for a provincial military commander.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dux",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-46",
+      "paragraph": "p-062",
+      "index": 191
+    }
+  },
+  {
+    "id": "fearnought",
+    "term": "fearnought",
+    "aliases": [
+      "fearnought"
+    ],
+    "short": "A thick, shaggy woolen cloth.",
+    "note": "A heavy woolen fabric with a rough surface, used for protective outer clothing; also a garment made from it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/fearnought",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-23",
+      "paragraph": "p-062",
+      "index": 22
+    }
+  },
+  {
+    "id": "lansquenet",
+    "term": "lansquenet",
+    "aliases": [
+      "lansquenet"
+    ],
+    "short": "A German mercenary foot soldier.",
+    "note": "A German infantry mercenary of the fifteenth to seventeenth centuries; from German Landsknecht. The word also names an old card game.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lansquenet",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-16",
+      "paragraph": "p-041",
+      "index": 15
+    }
+  },
+  {
+    "id": "monstrance",
+    "term": "monstrance",
+    "aliases": [
+      "monstrance"
+    ],
+    "short": "A vessel displaying the Eucharist.",
+    "note": "A vessel designed to display the consecrated Eucharistic host for veneration. The name is related to Latin monstrare, to show.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/monstrance",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-26",
+      "paragraph": "p-018",
+      "index": 93
+    }
+  },
+  {
+    "id": "noctilucent",
+    "term": "noctilucent",
+    "aliases": [
+      "noctilucent"
+    ],
+    "short": "Glowing or visible at night.",
+    "note": "Shining or becoming visible at night; also used for organisms that produce light.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/noctilucent",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-06",
+      "paragraph": "p-016",
+      "index": 41
+    }
+  },
+  {
+    "id": "perischii",
+    "term": "perischii",
+    "aliases": [
+      "perischii",
+      "periscii"
+    ],
+    "short": "People whose shadows turn all around them.",
+    "note": "An old geographical term, also spelled periscii, for people within a polar circle whose shadows sweep around them during the continuous daylight of summer.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/periscii",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-05",
+      "paragraph": "p-026",
+      "index": 72
+    }
+  },
+  {
+    "id": "mandragora",
+    "term": "mandragora",
+    "aliases": [
+      "mandragora"
+    ],
+    "short": "Mandrake, a plant of magical folklore.",
+    "note": "Mandrake: a Mediterranean plant of the nightshade family whose forked root can resemble a human figure and was traditionally credited with magical powers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mandrake",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "citadel-35",
+      "paragraph": "p-003",
+      "index": 141
+    }
+  },
+  {
+    "id": "hypethral",
+    "term": "hypethral",
+    "aliases": [
+      "hypethral",
+      "hypaethral"
+    ],
+    "short": "Open to the sky.",
+    "note": "Hypaethral: having a central space open to the sky, especially a temple with an uncovered interior.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hypaethral",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-19",
+      "paragraph": "p-037",
+      "index": 54
+    }
+  },
+  {
+    "id": "burginot",
+    "term": "burginot",
+    "aliases": [
+      "burginot"
+    ],
+    "short": "Possibly burgonet, a Renaissance helmet.",
+    "note": "Possibly burgonet, a close-fitting helmet with cheek guards used in the sixteenth century.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/burgonet",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-35",
+      "paragraph": "p-002",
+      "index": 34
+    }
+  },
+  {
+    "id": "haubergeon",
+    "term": "haubergeon",
+    "aliases": [
+      "haubergeon"
+    ],
+    "short": "A short medieval coat of mail.",
+    "note": "A coat of mail generally shorter than a hauberk; also spelled habergeon.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/habergeon",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-19",
+      "paragraph": "p-007",
+      "index": 125
+    }
+  },
+  {
+    "id": "chrisos",
+    "term": "chrisos",
+    "aliases": [
+      "chrisos"
+    ],
+    "short": "Possibly Greek chrysos: gold.",
+    "note": "Possibly Greek chrysos (χρυσός), gold, also used collectively for objects made from gold.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Alsj-n114972/",
+        "label": "Liddell–Scott–Jones Greek lexicon · Perseus"
+      }
+    ],
+    "occurrences": 41,
+    "first": {
+      "chapter": "shadow-03",
+      "paragraph": "p-023",
+      "index": 2
+    }
+  },
+  {
+    "id": "aes",
+    "term": "aes",
+    "aliases": [
+      "aes"
+    ],
+    "short": "Latin: copper, bronze, or money.",
+    "note": "Latin aes means copper or bronze and, by extension, objects made from those metals, including money.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n1359/",
+        "label": "Lewis and Short Latin dictionary · Perseus"
+      }
+    ],
+    "occurrences": 17,
+    "first": {
+      "chapter": "shadow-16",
+      "paragraph": "p-042",
+      "index": 15
+    }
+  },
+  {
+    "id": "dimarchi",
+    "term": "dimarchi",
+    "aliases": [
+      "dimarchi"
+    ],
+    "short": "Possibly dimachae: cavalry fighting on foot.",
+    "note": "Possibly dimachae, Macedonian troops trained to fight both on horseback and as infantry.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.mediterranees.net/civilisation/Rich/Articles/Armee_romaine/Armee/Dimachae.html",
+        "label": "Anthony Rich · Dictionary of Greek and Roman Antiquities"
+      }
+    ],
+    "occurrences": 23,
+    "first": {
+      "chapter": "shadow-03",
+      "paragraph": "p-042",
+      "index": 2
+    }
+  },
+  {
+    "id": "vingtner",
+    "term": "vingtner",
+    "aliases": [
+      "vingtner",
+      "vingtners"
+    ],
+    "short": "Possibly vintenar: leader of twenty soldiers.",
+    "note": "Possibly vintenar, a medieval English officer commanding a vintaine, a unit nominally of twenty soldiers whose actual strength varied.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://livrepository.liverpool.ac.uk/3173890/1/692831.pdf",
+        "label": "University of Liverpool · study of medieval military levies"
+      }
+    ],
+    "occurrences": 13,
+    "first": {
+      "chapter": "claw-01",
+      "paragraph": "p-019",
+      "index": 36
+    }
+  },
+  {
+    "id": "thiasus",
+    "term": "thiasus",
+    "aliases": [
+      "thiasus",
+      "thiasi"
+    ],
+    "short": "A religious company in ancient Greece.",
+    "note": "A company or association gathered for religious celebration in ancient Greece, particularly the singing and dancing associated with Dionysus.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/tiaso/",
+        "label": "Treccani · tiaso"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "claw-11",
+      "paragraph": "p-048",
+      "index": 46
+    }
+  },
+  {
+    "id": "graisle",
+    "term": "graisle",
+    "aliases": [
+      "graisle",
+      "graisles"
+    ],
+    "short": "An old French battle trumpet.",
+    "note": "An Old French and Anglo-Norman word for a horn or trumpet used to give signals in battle.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://anglo-norman.net/entry/greille_1",
+        "label": "Anglo-Norman Dictionary · greille"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "shadow-27",
+      "paragraph": "p-029",
+      "index": 26
+    }
+  },
+  {
+    "id": "teratornis",
+    "term": "teratornis",
+    "aliases": [
+      "teratornis"
+    ],
+    "short": "An extinct giant soaring bird.",
+    "note": "Teratornis is a genus of large extinct birds. Teratornis merriami, found at La Brea, resembled a condor and exceeded the California condor in size.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://tarpits.org/stories/meet-teratorn-largest-bird-found-la-brea-tar-pits",
+        "label": "Natural History Museum of Los Angeles County · La Brea Tar Pits"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "shadow-35",
+      "paragraph": "p-053",
+      "index": 34
+    }
+  },
+  {
+    "id": "jelab",
+    "term": "jelab",
+    "aliases": [
+      "jelab",
+      "jelabs"
+    ],
+    "short": "A North African hooded robe.",
+    "note": "An older form of djellaba, a loose outer robe with a hood, associated especially with North Africa.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/djellaba",
+        "label": "Collins English Dictionary · djellaba"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "shadow-16",
+      "paragraph": "p-051",
+      "index": 15
+    }
+  },
+  {
+    "id": "schiavoni",
+    "term": "schiavoni",
+    "aliases": [
+      "schiavoni"
+    ],
+    "short": "Adriatic Slavs; Venetian mercenary troops.",
+    "note": "An old Italian name for the Slavic peoples of the eastern Adriatic, also used for Slav soldiers serving the Republic of Venice.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/schiavone/",
+        "label": "Treccani · schiavone"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "citadel-19",
+      "paragraph": "p-010",
+      "index": 125
+    }
+  },
+  {
+    "id": "batardeau",
+    "term": "batardeau",
+    "aliases": [
+      "batardeau"
+    ],
+    "short": "A small auxiliary knife.",
+    "note": "French bâtardeau: a small knife or dagger carried in the sheath of a larger dagger or sword.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cnrtl.fr/definition/b%C3%A2tardeaux",
+        "label": "CNRTL · bâtardeau"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "urth-41",
+      "paragraph": "p-013",
+      "index": 186
+    }
+  },
+  {
+    "id": "atrox",
+    "term": "atrox",
+    "aliases": [
+      "atrox",
+      "atroxes"
+    ],
+    "short": "Possibly Panthera atrox, the American lion.",
+    "note": "Possibly Panthera atrox, the extinct American lion, a large Ice Age cat. Latin atrox means fierce or frightful.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://tarpits.org/stories/meet-biggest-big-cat-tar-pits-american-lion",
+        "label": "Natural History Museum of Los Angeles County · La Brea Tar Pits"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "shadow-25",
+      "paragraph": "p-036",
+      "index": 24
+    }
+  },
+  {
+    "id": "khaibit",
+    "term": "khaibit",
+    "aliases": [
+      "khaibit",
+      "khaibits"
+    ],
+    "short": "An Egyptian term for the shadow.",
+    "note": "An older Egyptological transcription for a person’s shadow, treated as a constituent of the person in ancient Egyptian religious accounts.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://sacred-texts.com/egy/ebod/ebodintr.htm",
+        "label": "E. A. Wallis Budge · introduction to the Book of the Dead"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "shadow-07",
+      "paragraph": "p-080",
+      "index": 6
+    }
+  },
+  {
+    "id": "phrontiserion",
+    "term": "phrontiserion",
+    "aliases": [
+      "phrontiserion"
+    ],
+    "short": "Possibly phrontisterion: a place for thought.",
+    "note": "Possibly Greek phrontisterion, a place for thinking or study; Aristophanes uses the name for Socrates’ school in The Clouds.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://assets.cambridge.org/97805211/72561/excerpt/9780521172561_excerpt.pdf",
+        "label": "Cambridge University Press · Aristophanes, Clouds"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-37",
+      "paragraph": "p-050",
+      "index": 182
+    }
+  },
+  {
+    "id": "notule",
+    "term": "notule",
+    "aliases": [
+      "notule",
+      "notules"
+    ],
+    "short": "Possibly the noctule bat; also French for a brief note.",
+    "note": "Possibly noctule, the common name of Nyctalus noctula, a large bat with long, narrow wings. French notule also means a short note or annotation, from Latin notula, little mark.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.bats.org.uk/about-bats/what-are-bats/uk-bats/noctule",
+        "label": "Bat Conservation Trust"
+      },
+      {
+        "url": "https://www.cnrtl.fr/definition/notule",
+        "label": "CNRTL · notule"
+      }
+    ],
+    "occurrences": 18,
+    "first": {
+      "chapter": "claw-13",
+      "paragraph": "p-018",
+      "index": 48
+    }
+  },
+  {
+    "id": "nigrescent",
+    "term": "nigrescent",
+    "aliases": [
+      "nigrescent"
+    ],
+    "short": "Darkening or tending toward black.",
+    "note": "Becoming black, blackish, or approaching black in color; from Latin nigrescere, to grow black.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://webstersdictionary1828.com/Dictionary/nigrescent",
+        "label": "Noah Webster · American Dictionary of the English Language (1828)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-10",
+      "paragraph": "p-034",
+      "index": 9
+    }
+  },
+  {
+    "id": "vates",
+    "term": "vates",
+    "aliases": [
+      "vates"
+    ],
+    "short": "Latin: a seer, prophet, or poet.",
+    "note": "Latin vates means a prophet or seer; it also denotes a poet, linking poetry with inspired utterance.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://alatius.com/ls/index.php?l=vates",
+        "label": "Lewis and Short · vates"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-35",
+      "paragraph": "p-021",
+      "index": 180
+    }
+  },
+  {
+    "id": "harena",
+    "term": "harena",
+    "aliases": [
+      "harena"
+    ],
+    "short": "Latin: sand or an arena.",
+    "note": "Latin harena means sand, and also the sand-covered place of combat in an amphitheater, the source of English arena.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://alatius.com/ls/index.php?l=harena",
+        "label": "Lewis and Short · harena"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "sword-01",
+      "paragraph": "p-024",
+      "index": 68
+    }
+  },
+  {
+    "id": "spado",
+    "term": "spado",
+    "aliases": [
+      "spado",
+      "spadones"
+    ],
+    "short": "Latin: a eunuch.",
+    "note": "A Latin word for a eunuch or, more broadly, someone regarded as incapable of procreation. It also described unfruitful plants.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://alatius.com/ls/index.php?l=spado",
+        "label": "Lewis and Short · spado"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-13",
+      "paragraph": "p-050",
+      "index": 158
+    }
+  },
+  {
+    "id": "fulgurator",
+    "term": "fulgurator",
+    "aliases": [
+      "fulgurator"
+    ],
+    "short": "An interpreter of lightning omens.",
+    "note": "A priest who interpreted omens from lightning in ancient Rome; Latin fulgurator can also mean one who hurls lightning.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://alatius.com/ls/index.php?l=fulguratorem",
+        "label": "Lewis and Short · fulgurator"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-07",
+      "paragraph": "p-066",
+      "index": 6
+    }
+  },
+  {
+    "id": "fuscina",
+    "term": "fuscina",
+    "aliases": [
+      "fuscina"
+    ],
+    "short": "Latin: a trident.",
+    "note": "A three-pronged spear or trident, associated with Neptune and used by the net-fighting gladiators called retiarii.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://archli.com/dictionary/lewis-short-latin-dictionary/fuscina-150145",
+        "label": "Lewis and Short · fuscina"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "edition-part0152",
+      "paragraph": "p-002",
+      "index": 145
+    }
+  },
+  {
+    "id": "hastarii",
+    "term": "hastarii",
+    "aliases": [
+      "hastarii",
+      "hastarus"
+    ],
+    "short": "Possibly Latin hasta: spear or lance.",
+    "note": "Possibly Latin hasta, a spear or lance. The word also served as a symbol of military and magisterial authority.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Lewis and Short · hasta",
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n20273/"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "claw-14",
+      "paragraph": "p-027",
+      "index": 49
+    }
+  },
+  {
+    "id": "scylla",
+    "term": "Scylla",
+    "short": "A many-headed sea monster of Greek myth.",
+    "note": "A monster inhabiting the rocks opposite Charybdis. In Homer’s Odyssey she has six heads on long necks and snatches sailors from vessels passing her cave.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Pontios/Skylla.html",
+        "label": "Greek text and classical references"
+      }
+    ],
+    "aliases": [
+      "Scylla"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-04",
+      "paragraph": "p-030",
+      "index": 39
+    }
+  },
+  {
+    "id": "theophany",
+    "term": "theophany",
+    "short": "A visible appearance of a deity.",
+    "note": "A manifestation in which a god becomes visible. The word comes through Greek theophaneia, combining the divine with the idea of appearing.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/theophany",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "theophany",
+      "theophanies"
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-27",
+      "paragraph": "p-018",
+      "index": 94
     }
   }
 ]
