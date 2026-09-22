@@ -8,11 +8,11 @@ Lexicon Urthus and Gate of Horn, Book of Silk supplied research leads. Accepted 
 
 | Series | Before | Added | Existing entries revised | After |
 |---|---:|---:|---:|---:|
-| New Sun | 454 | 154 | 24 | 608 |
+| New Sun | 454 | 154 | 27 | 608 |
 | Long Sun | 182 | 78 | 2 | 260 |
-| Short Sun | 221 | 86 | 9 | 307 |
+| Short Sun | 221 | 86 | 12 | 307 |
 
-There are 1,175 series-specific notes, with 318 additions and 35 revisions to existing entries. A reference appearing in multiple series is counted separately in each. Revised entries include definition corrections, uncertainty wording, and a few missed inflection/spelling aliases. All 324 chapters retain their reading text and paragraph addresses.
+There are 1,175 series-specific notes, with 318 additions and 41 revisions to existing entries. A reference appearing in multiple series is counted separately in each. Revised entries include definition corrections, uncertainty wording, and a few missed inflection/spelling aliases. All 324 chapters retain their reading text and paragraph addresses.
 
 ## Editorial checks
 
@@ -190,7 +190,7 @@ These are first locations within each series. The first linked source is listed 
 - **Scylla** — A many-headed sea monster of Greek myth. First: `claw-04/p-030`. [Source](https://www.theoi.com/Pontios/Skylla.html).
 - **theophany** — A visible appearance of a deity. First: `sword-27/p-018`. [Source](https://www.merriam-webster.com/dictionary/theophany).
 
-Revised existing entries: nacre, coruscant, lazaretto, clarion, dorcas, thaumaturgist, mizzen, burgundofara, eata, gurloes, ymar, rudesind, hildegrin, agilus, trudo, pega, anskar, declan, odilo, arctother, capulus, inire, terminus-est, barbatus.
+Revised existing entries: thecla, nacre, coruscant, lazaretto, clarion, dorcas, thaumaturgist, mizzen, burgundofara, eata, gurloes, ymar, rudesind, hildegrin, agilus, trudo, pega, anskar, declan, odilo, drotte, hethor, arctother, capulus, inire, terminus-est, barbatus.
 
 ### Long Sun
 
@@ -364,4 +364,4 @@ Revised existing entries: chrasmologic, dimber.
 - **Bison** — Large wild cattle with a shoulder hump. First: `return-10/p-005`. [Source](https://www.merriam-webster.com/dictionary/bison).
 - **Moorgrass** — Possibly moor-grass, a tufted grass with purple flower clusters. First: `blue-10/p-121`. [Source](https://www.rhs.org.uk/plants/11169/molinia-caerulea/details).
 
-Revised existing entries: inclito, eschar, olivine, cijfer, vadsig, nat, aanvagen, affito, chrasmologic.
+Revised existing entries: eata, gurloes, drotte, inclito, eschar, olivine, cijfer, vadsig, nat, aanvagen, affito, chrasmologic.

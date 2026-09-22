@@ -3,15 +3,16 @@
     "id": "thecla",
     "term": "Thecla",
     "aliases": [],
-    "note": "Thecla is an early Christian saint celebrated in the Acts of Paul and Thecla. In that narrative, she listens to Paul from a window in Iconium, rejects her arranged marriage, and bribes her way into prison to hear him teach.\n\nThe legend tells of a storm extinguishing her execution fire and a lioness defending her in the arena. She later baptizes herself, receives Paul’s commission to teach, and lives at Seleucia. These are episodes of the saint’s traditional life, not independently established biography.",
+    "note": "Possibly Saint Thecla, celebrated in the early Christian Acts of Paul and Thecla. Her legend describes her conversion at Iconium, rescue from execution by fire and wild beasts, and later teaching at Seleucia.",
     "sources": [
       {
         "url": "https://www.newadvent.org/fathers/0816.htm",
         "label": "Acts of Paul and Thecla · translated text"
       }
     ],
-    "short": "An early Christian saint and follower of Paul.",
+    "short": "Possibly Saint Thecla, a follower of Paul in Christian legend.",
     "occurrences": 335,
+    "possible": true,
     "first": {
       "chapter": "shadow-06",
       "paragraph": "p-071",
@@ -7915,15 +7916,16 @@
     "id": "drotte",
     "term": "Drotte",
     "aliases": [],
-    "note": "Droctoveus, a sixth-century monk and abbot of the Paris monastery later called Saint-Germain-des-Prés. A pupil of Germanus, he is traditionally said to have died around 580.",
+    "note": "Possibly Saint Droctoveus, a sixth-century monk and abbot of the Paris monastery later called Saint-Germain-des-Prés. A pupil of Germanus, he is traditionally said to have died around 580.",
     "sources": [
       {
         "url": "https://www.ecatholic2000.com/butler/vol3/march47.shtml",
         "label": "Butler: St. Droctovæus"
       }
     ],
-    "short": "Droctoveus, a sixth-century abbot in Paris.",
+    "short": "Possibly Droctoveus, a sixth-century abbot in Paris.",
     "occurrences": 84,
+    "possible": true,
     "first": {
       "chapter": "shadow-01",
       "paragraph": "p-002",
@@ -7934,15 +7936,16 @@
     "id": "hethor",
     "term": "Hethor",
     "aliases": [],
-    "note": "Ethor, a monk and priest of Chertsey Abbey in Surrey, venerated with Abbot Beocca among the community’s martyrs. Tradition places their deaths during Danish raids around 870.",
+    "note": "Possibly Saint Ethor, a monk and priest of Chertsey Abbey in Surrey, venerated with Abbot Beocca among the community’s martyrs. Tradition places their deaths during Danish raids around 870.",
     "sources": [
       {
         "url": "https://www.katolsk.no/biografier/historisk/chertsey",
         "label": "Catholic Church in Norway: the Chertsey martyrs"
       }
     ],
-    "short": "Ethor, a monk-priest and martyr of Chertsey.",
+    "short": "Possibly Ethor, a monk-priest and martyr of Chertsey.",
     "occurrences": 71,
+    "possible": true,
     "first": {
       "chapter": "shadow-35",
       "paragraph": "p-005",

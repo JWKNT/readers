@@ -95,7 +95,7 @@ add `--baseline 4dac1a4` to check preservation of the original chapter text.
 
 ## Version 10
 
-The external-reference re-audit adds 318 series-specific notes and revises 35
+The external-reference re-audit adds 318 series-specific notes and revises 41
 existing entries, for 1,175 notes across the three readers. The margins explain
 external meanings and possible namesakes, with “Possibly” in both short and full
 notes where the connection is tentative. Research decisions and validation are

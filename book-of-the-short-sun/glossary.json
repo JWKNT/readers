@@ -612,15 +612,16 @@
     "aliases": [
       "Eata"
     ],
-    "note": "A seventh-century Northumbrian monk and bishop, a pupil of Aidan. He led the monastery at Melrose and served as bishop of Lindisfarne and Hexham. He died in 686.",
+    "note": "Possibly Saint Eata, a seventh-century Northumbrian monk, pupil of Aidan, abbot of Melrose, and bishop of Lindisfarne and Hexham.",
     "sources": [
       {
         "url": "https://www.newadvent.org/cathen/05240c.htm",
         "label": "Catholic Encyclopedia: St. Eata"
       }
     ],
-    "short": "A seventh-century Northumbrian monk and bishop.",
+    "short": "Possibly Saint Eata, a Northumbrian bishop.",
     "occurrences": 3,
+    "possible": true,
     "first": {
       "chapter": "return-13",
       "paragraph": "p-022",
@@ -633,15 +634,16 @@
     "aliases": [
       "Gurloes"
     ],
-    "note": "Gurloës, also called Urlo, was the first abbot of Sainte-Croix at Quimperlé in Brittany. He died in 1057; his tomb became a focus of local veneration.",
+    "note": "Possibly Saint Gurloës, also called Urlo, the first abbot of Sainte-Croix at Quimperlé in Brittany. He died in 1057.",
     "sources": [
       {
         "url": "https://fr.wikipedia.org/wiki/Saint_Gurlo%C3%ABs",
         "label": "Saint Gurloës"
       }
     ],
-    "short": "The first abbot of Sainte-Croix at Quimperlé.",
+    "short": "Possibly Saint Gurloës, the abbot of Quimperlé.",
     "occurrences": 2,
+    "possible": true,
     "first": {
       "chapter": "return-13",
       "paragraph": "p-038",
@@ -738,15 +740,16 @@
     "aliases": [
       "Drotte"
     ],
-    "note": "Droctoveus, a sixth-century monk and abbot of the Paris monastery later called Saint-Germain-des-Prés. A pupil of Germanus, he is traditionally said to have died around 580.",
+    "note": "Possibly Saint Droctoveus, a sixth-century monk and abbot of the Paris monastery later called Saint-Germain-des-Prés. A pupil of Germanus, he is traditionally said to have died around 580.",
     "sources": [
       {
         "url": "https://www.ecatholic2000.com/butler/vol3/march47.shtml",
         "label": "Butler: St. Droctovæus"
       }
     ],
-    "short": "Droctoveus, a sixth-century abbot in Paris.",
+    "short": "Possibly Droctoveus, a sixth-century abbot in Paris.",
     "occurrences": 3,
+    "possible": true,
     "first": {
       "chapter": "return-13",
       "paragraph": "p-022",
