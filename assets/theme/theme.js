@@ -6,6 +6,7 @@
   const media = window.matchMedia("(prefers-color-scheme: dark)");
   const root = document.documentElement;
   let followsSystem = true;
+  let homeFocusBound = false;
 
   function savedTheme() {
     try {
@@ -81,6 +82,26 @@
     document.body.append(dock);
   }
 
+  function keepFocusedControlClear(event) {
+    const target = event.target;
+    if (!target?.closest || target.closest(".site-home-dock, dialog[open], [aria-modal='true']")) return;
+    window.requestAnimationFrame(() => {
+      if (document.activeElement !== target) return;
+      const dock = document.querySelector(".site-home-dock");
+      if (!dock) return;
+      const edge = dock.getBoundingClientRect();
+      // Readers' integrated mobile dock uses display:contents, so its own
+      // toolbar/focus handling owns clearance instead of this edge control.
+      if (!edge.height || !edge.width) return;
+      const box = target.getBoundingClientRect();
+      const intersects = box.right > edge.left && box.left < edge.right &&
+        box.bottom > edge.top && box.top < edge.bottom;
+      if (!intersects) return;
+      const shift = Math.min(box.bottom - edge.top + 8, Math.max(0, box.top - 8));
+      if (shift > 0) window.scrollBy({ top: shift, behavior: "instant" });
+    });
+  }
+
   const stored = savedTheme();
   followsSystem = !stored;
   applyTheme(stored || (media.matches ? "dark" : "light"));
@@ -88,6 +109,10 @@
   function setup() {
     createControl();
     createHomeControl();
+    if (!homeFocusBound) {
+      document.addEventListener("focusin", keepFocusedControlClear);
+      homeFocusBound = true;
+    }
     updateControls(root.dataset.theme);
     document.querySelectorAll("[data-theme-toggle]").forEach((button) => {
       if (button.dataset.themeBound) return;

@@ -12,6 +12,7 @@ HOME = ('<nav class="site-home-dock" aria-label="Site"><a class="site-home" '
         'href="https://jehlp.net/" aria-label="Home · jehlp.net" '
         'title="Home · jehlp.net"><span aria-hidden="true">⌂</span></a></nav>')
 THEME_VERSION = 'theme-20260930-home2'
+THEME_SCRIPT_VERSION = 'theme-20260930-home3'
 
 
 class HomeNavigation(unittest.TestCase):
@@ -29,9 +30,11 @@ class HomeNavigation(unittest.TestCase):
         for page in ROOT.rglob('*.html'):
             source = page.read_text()
             with self.subTest(page=str(page.relative_to(ROOT))):
-                refs = re.findall(r'assets/theme/(?:base\.css|theme\.js)([^"\s>]*)', source)
+                refs = re.findall(r'assets/theme/(base\.css|theme\.js)([^"\s>]*)', source)
                 self.assertTrue(refs)
-                self.assertTrue(all(ref == '?v=' + THEME_VERSION for ref in refs))
+                for asset, ref in refs:
+                    version = THEME_VERSION if asset == 'base.css' else THEME_SCRIPT_VERSION
+                    self.assertEqual('?v=' + version, ref)
                 if 'assets/reader.js' in source:
                     self.assertIn('assets/reader.js?v=reader-20260930-home', source)
 
@@ -42,7 +45,7 @@ class HomeNavigation(unittest.TestCase):
             self.assertEqual(1, source.count(HOME))
             self.assertRegex(source, r'<body\b[^>]*>' + re.escape(HOME))
             self.assertIn('assets/theme/base.css?v=' + THEME_VERSION, source)
-            self.assertIn('assets/theme/theme.js?v=' + THEME_VERSION, source)
+            self.assertIn('assets/theme/theme.js?v=' + THEME_SCRIPT_VERSION, source)
 
     def test_redirect_generator_keeps_native_home(self):
         source = (ROOT / 'tools/series_readers.py').read_text()
@@ -53,7 +56,7 @@ class HomeNavigation(unittest.TestCase):
     def test_numeric_edition_rebuilds_preserve_named_chrome_keys(self):
         source = (ROOT / 'book-of-the-short-sun/index.html').read_text()
         rebuilt = re.sub(r'\?v=\d+', '?v=99', source)
-        for asset, version in [('theme/base.css', THEME_VERSION), ('theme/theme.js', THEME_VERSION),
+        for asset, version in [('theme/base.css', THEME_VERSION), ('theme/theme.js', THEME_SCRIPT_VERSION),
                                ('reader.css', 'layout-20260930-home'), ('reader.js', 'reader-20260930-home')]:
             self.assertIn('assets/' + asset + '?v=' + version, rebuilt)
         self.assertIn('assets/initials/initials.css?v=99', rebuilt)

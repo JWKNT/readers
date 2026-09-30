@@ -12,7 +12,9 @@ standalone fixed corner. Other narrow pages give Home a shallow bottom strip
 so it does not sit over the end of a text line or field. The toolbar is enabled only after reader JavaScript
 wires it, leaving the standalone native Home visible without JavaScript. There
 is no second Home or extra toolbar. Appearance controls still scroll with the
-page.
+page. Focused controls that intersect the standalone Home dock are scrolled
+clear; open dialogs and the integrated mobile toolbar are left to their existing
+focus handling.
 
 The catalog/static export/redirect generators retain the native markup. The
 shared theme, reader stylesheet and reader script have named cache versions,
