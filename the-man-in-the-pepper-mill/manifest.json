@@ -12,7 +12,7 @@
   ],
   "totalWords": 5852,
   "defaultChapter": "story",
-  "glossaryCount": 11,
+  "glossaryCount": 17,
   "correctionCount": 0,
   "editionVersion": 17,
   "chapters": [
@@ -267,12 +267,24 @@
       "headingHtml": "The Man in the Pepper Mill",
       "noteAnchors": [
         {
+          "term": "sash",
+          "paragraph": "p-028"
+        },
+        {
           "term": "red-power-ranger",
           "paragraph": "p-035"
         },
         {
           "term": "stegosaurus",
           "paragraph": "p-047"
+        },
+        {
+          "term": "ahab-whale-leg",
+          "paragraph": "p-094"
+        },
+        {
+          "term": "yo-ho-ho",
+          "paragraph": "p-094"
         },
         {
           "term": "jim-hawkins",
@@ -283,15 +295,15 @@
           "paragraph": "p-095"
         },
         {
+          "term": "antipersonnel",
+          "paragraph": "p-164"
+        },
+        {
           "term": "sotto-voce",
           "paragraph": "p-193"
         },
         {
           "term": "spider-man",
-          "paragraph": "p-219"
-        },
-        {
-          "term": "luke-skywalker",
           "paragraph": "p-219"
         },
         {
@@ -303,8 +315,20 @@
           "paragraph": "p-220"
         },
         {
+          "term": "saurian",
+          "paragraph": "p-223"
+        },
+        {
+          "term": "sheetrock",
+          "paragraph": "p-227"
+        },
+        {
           "term": "velveteen-rabbit",
           "paragraph": "p-228"
+        },
+        {
+          "term": "mules",
+          "paragraph": "p-230"
         },
         {
           "term": "batman-and-robin",

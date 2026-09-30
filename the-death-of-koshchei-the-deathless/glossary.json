@@ -374,6 +374,10 @@
       {
         "url": "https://www.gutenberg.org/files/540/540-h/540-h.htm",
         "label": "Andrew Lang · The Red Fairy Book"
+      },
+      {
+        "url": "https://www.gutenberg.org/files/16981/16981-h/16981-h.htm",
+        "label": "Arthur Ransome · Old Peter’s Russian Tales, “Baba Yaga”"
       }
     ],
     "occurrences": 13,
@@ -492,8 +496,12 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://gramota.ru/meta/ryabchik",
-        "label": "Gramota · рябчик"
+        "url": "https://en.wiktionary.org/wiki/рябчик",
+        "label": "Wiktionary · рябчик"
+      },
+      {
+        "url": "https://ebird.org/species/hazgro1",
+        "label": "Cornell Lab of Ornithology · Hazel Grouse"
       }
     ],
     "occurrences": 2,
@@ -532,8 +540,8 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0258%3Abook%3D9%3Achapter%3D11",
-        "label": "Diogenes Laertius · Lives IX.72"
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_IX",
+        "label": "Diogenes Laertius · Lives IX.72, translated by R. D. Hicks"
       }
     ],
     "occurrences": 1,
@@ -844,6 +852,278 @@
     "first": {
       "chapter": "story",
       "paragraph": "p-038",
+      "index": 0
+    }
+  },
+  {
+    "id": "men-at-arms",
+    "term": "men-at-arms",
+    "aliases": [],
+    "short": "Heavily armed soldiers, usually mounted.",
+    "note": "A man-at-arms is a soldier, especially one equipped with heavy armor and fighting on horseback.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/man-at-arms",
+        "label": "Merriam-Webster: man-at-arms"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-008",
+      "index": 0
+    }
+  },
+  {
+    "id": "charger",
+    "term": "charger",
+    "aliases": [],
+    "short": "A horse ridden in battle or on parade.",
+    "note": "A cavalry or warhorse; the term also applies to a horse used for ceremonial military display.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/charger",
+        "label": "Merriam-Webster: charger"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-009",
+      "index": 0
+    }
+  },
+  {
+    "id": "saddlebow",
+    "term": "saddlebow",
+    "aliases": [],
+    "short": "The raised front arch of a saddle.",
+    "note": "The arched structure at the front of a riding saddle, including the pieces that form it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/saddlebow",
+        "label": "Merriam-Webster: saddlebow"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-012",
+      "index": 0
+    }
+  },
+  {
+    "id": "blue-funk",
+    "term": "blue funk",
+    "aliases": [],
+    "short": "A spell of deep gloom or dejection.",
+    "note": "An informal expression for a deeply dispirited mood. Blue has long been used for melancholy; funk can also refer to fear or loss of nerve.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dictionaryblog.cambridge.org/2011/10/10/blue-talk/",
+        "label": "Cambridge Dictionary: Blue Talk"
+      },
+      {
+        "url": "https://www.dictionary.com/browse/blue-funk",
+        "label": "Dictionary.com: blue funk"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-013",
+      "index": 0
+    }
+  },
+  {
+    "id": "mettlesome",
+    "term": "mettlesome",
+    "aliases": [],
+    "short": "Spirited or courageous.",
+    "note": "Full of mettle: vigor, courage, or readiness to face difficulty. It is unrelated in meaning to meddlesome, which means interfering in others’ affairs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mettlesome",
+        "label": "Merriam-Webster: mettlesome"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/meddlesome",
+        "label": "Merriam-Webster: meddlesome"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-030",
+      "index": 0
+    }
+  },
+  {
+    "id": "hawking",
+    "term": "hawking",
+    "aliases": [],
+    "short": "Hunting with trained birds of prey.",
+    "note": "The practice of falconry: using a trained hawk or falcon to pursue other birds or game.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hawk",
+        "label": "Merriam-Webster: hawk"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-041",
+      "index": 0
+    }
+  },
+  {
+    "id": "master-of-horse",
+    "term": "master of horse",
+    "aliases": [],
+    "short": "An officer responsible for a ruler’s horses.",
+    "note": "A royal household office concerned with horses, stables, and related attendants and equipment. Comparable positions existed at several European courts.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Master_of_the_Horse",
+        "label": "Encyclopædia Britannica (1911): Master of the Horse"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-042",
+      "index": 0
+    }
+  },
+  {
+    "id": "vendava",
+    "term": "Vendava",
+    "aliases": [],
+    "short": "Possibly the Venta River of Lithuania and Latvia.",
+    "note": "Possibly the Venta, also called Windau or Windawa, which flows through Lithuania and western Latvia into the Baltic at Ventspils. The spelling Vendava is not attested in these sources.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://mapcarta.com/13254308",
+        "label": "Mapcarta / GeoNames: Venta River"
+      },
+      {
+        "url": "https://www.meteo.lv/fs/CKFinderJava/userfiles/files/REPORT_WP2.pdf",
+        "label": "Latvian Environment, Geology and Meteorology Centre: Venta basin, p. 22"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-043",
+      "index": 0
+    }
+  },
+  {
+    "id": "mace",
+    "term": "mace",
+    "aliases": [],
+    "short": "A heavy club used as a weapon.",
+    "note": "A club or staff with a heavy head, often studded or spiked; medieval versions were used against armor.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mace",
+        "label": "Merriam-Webster: mace"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-043",
+      "index": 0
+    }
+  },
+  {
+    "id": "pomerania",
+    "term": "Pomerania",
+    "aliases": [],
+    "short": "A historical region on the southern Baltic coast.",
+    "note": "A Baltic coastal region now divided between northwestern Poland and northeastern Germany. Its territories were ruled at different times by Slavic dynasties, the Holy Roman Empire, Sweden, and Prussia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ahdictionary.com/word/search.html?q=Pomerania",
+        "label": "American Heritage Dictionary: Pomerania"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-048",
+      "index": 0
+    }
+  },
+  {
+    "id": "serfs",
+    "term": "serfs",
+    "aliases": [],
+    "short": "Unfree peasants bound to an estate.",
+    "note": "Members of a dependent agricultural class tied to the land and subject to its owner’s authority.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/serf",
+        "label": "Merriam-Webster: serf"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-056",
+      "index": 0
+    }
+  },
+  {
+    "id": "tack",
+    "term": "tack room",
+    "aliases": [],
+    "short": "A room for storing riding equipment.",
+    "note": "Tack means the equipment used with a riding horse, especially saddles, bridles, and harness.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tack",
+        "label": "Merriam-Webster: tack"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-069",
+      "index": 0
+    }
+  },
+  {
+    "id": "vassal",
+    "term": "vassal",
+    "aliases": [],
+    "short": "A feudal dependent owing loyalty to a lord.",
+    "note": "A person who has pledged allegiance and service to a feudal lord in return for protection, often holding land from that lord.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/vassal",
+        "label": "Merriam-Webster: vassal"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-073",
       "index": 0
     }
   }

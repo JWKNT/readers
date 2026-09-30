@@ -12,7 +12,7 @@
   ],
   "totalWords": 4992,
   "defaultChapter": "story",
-  "glossaryCount": 16,
+  "glossaryCount": 26,
   "correctionCount": 0,
   "editionVersion": 17,
   "chapters": [
@@ -213,6 +213,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "parti-colored",
+          "paragraph": "p-010"
+        },
+        {
           "term": "kirtle",
           "paragraph": "p-010"
         },
@@ -233,12 +237,20 @@
           "paragraph": "p-015"
         },
         {
+          "term": "downs",
+          "paragraph": "p-017"
+        },
+        {
           "term": "byre",
           "paragraph": "p-023"
         },
         {
           "term": "sunwise",
           "paragraph": "p-023"
+        },
+        {
+          "term": "iron-fairy-charm",
+          "paragraph": "p-026"
         },
         {
           "term": "black-letter",
@@ -249,12 +261,32 @@
           "paragraph": "p-030"
         },
         {
+          "term": "redcap",
+          "paragraph": "p-030"
+        },
+        {
           "term": "cauld-lad",
           "paragraph": "p-041"
         },
         {
+          "term": "declivity",
+          "paragraph": "p-054"
+        },
+        {
           "term": "aureole",
           "paragraph": "p-063"
+        },
+        {
+          "term": "surety",
+          "paragraph": "p-064"
+        },
+        {
+          "term": "febrile",
+          "paragraph": "p-065"
+        },
+        {
+          "term": "charger",
+          "paragraph": "p-108"
         },
         {
           "term": "cresset",
@@ -269,8 +301,16 @@
           "paragraph": "p-124"
         },
         {
+          "term": "camisole",
+          "paragraph": "p-132"
+        },
+        {
           "term": "schloss",
           "paragraph": "p-146"
+        },
+        {
+          "term": "pallet",
+          "paragraph": "p-173"
         }
       ],
       "words": 4992,

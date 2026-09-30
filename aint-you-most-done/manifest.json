@@ -12,7 +12,7 @@
   ],
   "totalWords": 8668,
   "defaultChapter": "story",
-  "glossaryCount": 20,
+  "glossaryCount": 29,
   "correctionCount": 0,
   "editionVersion": 17,
   "chapters": [
@@ -352,6 +352,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "clipper",
+          "paragraph": "p-006"
+        },
+        {
           "term": "bulgine-run",
           "paragraph": "p-006"
         },
@@ -372,8 +376,16 @@
           "paragraph": "p-013"
         },
         {
+          "term": "oscilloscope",
+          "paragraph": "p-021"
+        },
+        {
           "term": "winnie-the-pooh",
           "paragraph": "p-044"
+        },
+        {
+          "term": "one-dime-blues",
+          "paragraph": "p-102"
         },
         {
           "term": "good-mornin-blues",
@@ -408,8 +420,28 @@
           "paragraph": "p-140"
         },
         {
+          "term": "fuselage",
+          "paragraph": "p-163"
+        },
+        {
+          "term": "lyre",
+          "paragraph": "p-178"
+        },
+        {
           "term": "the-minstrel-boy",
           "paragraph": "p-190"
+        },
+        {
+          "term": "mandolin",
+          "paragraph": "p-196"
+        },
+        {
+          "term": "pedal-harp",
+          "paragraph": "p-196"
+        },
+        {
+          "term": "harmonics",
+          "paragraph": "p-197"
         },
         {
           "term": "my-gentle-harp",
@@ -422,6 +454,10 @@
         {
           "term": "mock-turtle",
           "paragraph": "p-276"
+        },
+        {
+          "term": "extemporizing",
+          "paragraph": "p-290"
         },
         {
           "term": "casey-jones",

@@ -64,12 +64,12 @@
     "term": "The oracles are dumb",
     "aliases": [],
     "short": "A line from Milton’s Nativity ode.",
-    "note": "John Milton’s On the Morning of Christ’s Nativity, stanza XIX, imagines the pagan oracles falling silent at Christ’s birth. The following lines name Apollo and Delphi.",
+    "note": "John Milton’s On the Morning of Christ’s Nativity, stanza XIX (lines 173–180), imagines pagan oracles falling silent at Christ’s birth. The quotation here differs at line 179, which begins “No nightly trance or breathed spell” in the standard text.",
     "possible": false,
     "sources": [
       {
-        "url": "https://milton.host.dartmouth.edu/reading_room/nativity/text.shtml",
-        "label": "Dartmouth: Milton, On the Morning of Christ’s Nativity"
+        "url": "https://rpo.library.utoronto.ca/content/morning-christs-nativity",
+        "label": "University of Toronto · Milton, On the Morning of Christ’s Nativity"
       }
     ],
     "occurrences": 1,
@@ -268,8 +268,8 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://bible.usccb.org/bible/deuteronomy/12",
-        "label": "USCCB: Deuteronomy 12:23"
+        "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A23&version=KJV",
+        "label": "King James Bible · Deuteronomy 12:23"
       }
     ],
     "occurrences": 1,
@@ -316,6 +316,210 @@
     "first": {
       "chapter": "story",
       "paragraph": "p-146",
+      "index": 0
+    }
+  },
+  {
+    "id": "parti-colored",
+    "term": "parti-colored",
+    "aliases": [],
+    "short": "Colored differently in separate patches.",
+    "note": "Variegated: having distinct areas or pieces of different colors.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/parti-colored",
+        "label": "Dictionary.com: parti-colored"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-010",
+      "index": 0
+    }
+  },
+  {
+    "id": "downs",
+    "term": "downs",
+    "aliases": [],
+    "short": "Open, rolling uplands.",
+    "note": "Usually treeless stretches of gently undulating high ground, often grassy and used for grazing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/down",
+        "label": "Merriam-Webster: down"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-017",
+      "index": 0
+    }
+  },
+  {
+    "id": "iron-fairy-charm",
+    "term": "iron will keep us out",
+    "aliases": [],
+    "short": "Iron traditionally protects against fairies.",
+    "note": "In Welsh folklore, fairies cannot endure iron. A Manx tale describes open scissors placed beside an infant to prevent fairies from taking it and leaving a changeling.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/9368/pg9368-images.html",
+        "label": "William Elliot Griffis: Welsh Fairy Tales, Why the Fairies Dislike Iron"
+      },
+      {
+        "url": "https://deriv.nls.uk/dcn23/7921/79212491.23.pdf",
+        "label": "A. W. Moore: The Folk-Lore of the Isle of Man, p. 45"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-026",
+      "index": 0
+    }
+  },
+  {
+    "id": "redcap",
+    "term": "red cap",
+    "aliases": [],
+    "short": "Possibly the blood-stained cap of a Border goblin.",
+    "note": "Possibly the redcap of Anglo-Scottish Border folklore, a malevolent goblin haunting ruined strongholds. William Henderson describes it staining its cap with the blood of travelers it kills.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/Page:Notes_on_the_folk-lore_of_the_northern_counties_of_England_and_the_borders.djvu/275",
+        "label": "William Henderson: Notes on the Folk-Lore of the Northern Counties, p. 253"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-030",
+      "index": 0
+    }
+  },
+  {
+    "id": "declivity",
+    "term": "declivity",
+    "aliases": [],
+    "short": "A downward slope.",
+    "note": "A descending stretch of ground, or the downward inclination of a surface.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/declivity",
+        "label": "Merriam-Webster: declivity"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-054",
+      "index": 0
+    }
+  },
+  {
+    "id": "surety",
+    "term": "surety",
+    "aliases": [],
+    "short": "A pledge guaranteeing another’s conduct.",
+    "note": "A guarantee that an undertaking will be fulfilled. The term can also name a person who accepts responsibility if someone else fails in a duty.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/surety",
+        "label": "Merriam-Webster: surety"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-064",
+      "index": 0
+    }
+  },
+  {
+    "id": "febrile",
+    "term": "febrile",
+    "aliases": [],
+    "short": "Feverish or caused by fever.",
+    "note": "Relating to or marked by fever; from Latin febris, fever.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/febrile",
+        "label": "Merriam-Webster: febrile"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-065",
+      "index": 0
+    }
+  },
+  {
+    "id": "charger",
+    "term": "charger",
+    "aliases": [],
+    "short": "A horse ridden in battle or on parade.",
+    "note": "A cavalry or warhorse; the term also applies to a horse used for ceremonial military display.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/charger",
+        "label": "Merriam-Webster: charger"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-108",
+      "index": 0
+    }
+  },
+  {
+    "id": "camisole",
+    "term": "camisole",
+    "aliases": [],
+    "short": "A short, sleeveless garment or undergarment.",
+    "note": "A light garment covering the upper body, often worn beneath other clothing. The word comes through French from a term for a shirt.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/camisole",
+        "label": "Merriam-Webster: camisole"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-132",
+      "index": 0
+    }
+  },
+  {
+    "id": "pallet",
+    "term": "pallet",
+    "aliases": [],
+    "short": "A simple mattress or makeshift bed.",
+    "note": "Originally a straw-filled mattress; also a small, hard, or temporary sleeping place.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pallet",
+        "label": "Merriam-Webster: pallet"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-173",
       "index": 0
     }
   }

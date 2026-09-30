@@ -18,7 +18,7 @@
   ],
   "totalWords": 6092,
   "defaultChapter": "story",
-  "glossaryCount": 42,
+  "glossaryCount": 55,
   "correctionCount": 0,
   "editionVersion": 17,
   "chapters": [
@@ -135,6 +135,14 @@
           "paragraph": "p-008"
         },
         {
+          "term": "men-at-arms",
+          "paragraph": "p-008"
+        },
+        {
+          "term": "charger",
+          "paragraph": "p-009"
+        },
+        {
           "term": "saint-michael",
           "paragraph": "p-011"
         },
@@ -155,7 +163,15 @@
           "paragraph": "p-012"
         },
         {
+          "term": "saddlebow",
+          "paragraph": "p-012"
+        },
+        {
           "term": "hungarian-raven",
+          "paragraph": "p-013"
+        },
+        {
+          "term": "blue-funk",
           "paragraph": "p-013"
         },
         {
@@ -199,6 +215,10 @@
           "paragraph": "p-029"
         },
         {
+          "term": "mettlesome",
+          "paragraph": "p-030"
+        },
+        {
           "term": "koshchei",
           "paragraph": "p-031"
         },
@@ -223,8 +243,24 @@
           "paragraph": "p-040"
         },
         {
+          "term": "hawking",
+          "paragraph": "p-041"
+        },
+        {
           "term": "sobriquet",
           "paragraph": "p-041"
+        },
+        {
+          "term": "master-of-horse",
+          "paragraph": "p-042"
+        },
+        {
+          "term": "vendava",
+          "paragraph": "p-043"
+        },
+        {
+          "term": "mace",
+          "paragraph": "p-043"
         },
         {
           "term": "dacha",
@@ -247,11 +283,19 @@
           "paragraph": "p-048"
         },
         {
+          "term": "pomerania",
+          "paragraph": "p-048"
+        },
+        {
           "term": "baba-yaga",
           "paragraph": "p-054"
         },
         {
           "term": "boyar",
+          "paragraph": "p-056"
+        },
+        {
+          "term": "serfs",
           "paragraph": "p-056"
         },
         {
@@ -275,7 +319,15 @@
           "paragraph": "p-062"
         },
         {
+          "term": "tack",
+          "paragraph": "p-069"
+        },
+        {
           "term": "aachen",
+          "paragraph": "p-073"
+        },
+        {
+          "term": "vassal",
           "paragraph": "p-073"
         },
         {

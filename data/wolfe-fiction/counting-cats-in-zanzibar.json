@@ -276,7 +276,7 @@
     "aliases": [
       "Prometheus"
     ],
-    "short": "Fire given to humanity by the Titan Prometheus.",
+    "short": "The myth of Prometheus bringing fire to humanity.",
     "note": "Prometheus steals fire for mortals in Greek myth. In Shakespeare’s Love’s Labor’s Lost, act 4, scene 3, Berowne praises women’s eyes as a source of that inspiring fire and of learning.",
     "possible": false,
     "sources": [
@@ -320,5 +320,35 @@
       }
     ],
     "evidence": "OEBPS/e9781429982498_c03.html source paragraph 221: y.” He licked his forefinger and turned pages. “Here we go. It may be you wait your time, Beast, till I write my last bad rhyme, Beast—quit the sunlight, cut the rhyming, drop the glass"
+  },
+  {
+    "id": "polyglot",
+    "term": "polyglot",
+    "aliases": [],
+    "short": "Speaking several languages.",
+    "note": "Able to speak or use several languages; also used of a group or text containing several languages.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/polyglot",
+        "label": "Dictionary.com: polyglot"
+      }
+    ],
+    "evidence": "story/p-041: ink underdrawers, so I’m aflame with passion.” How many of these polyglot sailors would it take to throw him overboard, and what would they want for it? How much alumin"
+  },
+  {
+    "id": "kamarku",
+    "term": "kamarku",
+    "aliases": [],
+    "short": "Malay: my room or cabin.",
+    "note": "Kamar means a room or cabin; the possessive ending -ku means my.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.sabrizain.org/malaya/library/malaymanual.pdf",
+        "label": "A Malay Manual: vocabulary and possessive pronouns"
+      }
+    ],
+    "evidence": "story/p-179:  “Malam ini,” she told them. (“This night.”) “Sewaktu kami pergi kamarku.”"
   }
 ]

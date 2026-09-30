@@ -23,8 +23,8 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-classical-literature/technical-writing/73435F8BCD398A76A99ABC954B1DDA63",
-        "label": "Cambridge History of Classical Literature: Technical writing"
+        "url": "https://press.umich.edu/Books/P/Pomponius-Mela-s-Description-of-the-World",
+        "label": "University of Michigan Press · Pomponius Mela’s Description of the World"
       }
     ],
     "evidence": "e9781429982498_c11.html source paragraph 4 (title included): ce more passable, he was informed that his business with Calpurnius Siculus and Pomponius Mela was now ended, for the time being at least. His fellows urged him strongly to steal what books he could from the library in order"
@@ -68,8 +68,8 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://www.oregonlegislature.gov/bills_laws/Archive/2013ors186.pdf",
-        "label": "Oregon Legislature: ORS 186.040"
+        "url": "https://sos.oregon.gov/blue-book/explore/Pages/almanac-h-m.aspx",
+        "label": "Oregon Secretary of State · State motto"
       }
     ],
     "evidence": "e9781429982498_c11.html source paragraph 5 (title included): er’s clerk; and a draper’s clerk he remained for something in excess of a year. Alis volat propriis."
@@ -203,8 +203,12 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://www.nobelprize.org/prizes/literature/1954/hemingway/biographical/",
-        "label": "Nobel Prize: Ernest Hemingway"
+        "url": "https://archives-manuscripts.dartmouth.edu/agents/people/4884",
+        "label": "Dartmouth Libraries · Ernest Hemingway"
+      },
+      {
+        "url": "https://www.biography.com/authors-writers/ernest-hemingway",
+        "label": "Biography.com · Ernest Hemingway"
       }
     ],
     "evidence": "e9781429982498_c11.html source paragraph 131 (title included): English Composition. “They’ve got you reading Hemingway of course. And—let’s see—Kipling, Parker, Thurber, Crowley … no modern writers. My, my, W. H. Hudson. Do you like him?”"
@@ -218,8 +222,8 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://www.nobelprize.org/prizes/literature/1907/kipling/biographical/",
-        "label": "Nobel Prize: Rudyard Kipling"
+        "url": "https://www.kiplingsociety.co.uk/kip_life.htm",
+        "label": "The Kipling Society · Rudyard Kipling 1865–1936"
       }
     ],
     "evidence": "e9781429982498_c11.html source paragraph 131 (title included): nglish Composition. “They’ve got you reading Hemingway of course. And—let’s see—Kipling, Parker, Thurber, Crowley … no modern writers. My, my, W. H. Hudson. Do you like him?”"
@@ -370,8 +374,16 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=pax",
-        "label": "Lewis and Short Latin Dictionary: pax"
+        "url": "https://alatius.com/ls/index.php?met=up&ord=pax",
+        "label": "Lewis & Short · pax"
+      },
+      {
+        "url": "https://alatius.com/ls/index.php?l=bellum",
+        "label": "Lewis & Short · bellum"
+      },
+      {
+        "url": "https://alatius.com/ls/index.php?met=up&ord=in",
+        "label": "Lewis & Short · in"
       }
     ],
     "evidence": "e9781429982498_c11.html source paragraph 191 (title included): ng was thus painless, Enan reflected, he would have been less timid as a child. Pax in bello."
@@ -385,8 +397,8 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://www.gutenberg.org/ebooks/32242",
-        "label": "Nathaniel Hawthorne: A Wonder Book for Girls & Boys"
+        "url": "https://www.gutenberg.org/files/32242/32242-h/32242-h.htm",
+        "label": "Nathaniel Hawthorne · A Wonder-Book for Girls and Boys"
       }
     ],
     "evidence": "e9781429982498_c11.html source paragraph 198 (title included): ist, Wade. It’s Hudson’s, too. And one that I chose for you myself, Hawthorne’s Wonder Book. Take them, will you? I don’t want to get them dirty.”"
@@ -646,6 +658,10 @@
       {
         "url": "https://www.theoi.com/Olympios/Ares.html",
         "label": "Theoi: Ares and Roman Mars"
+      },
+      {
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Florus/Epitome/1A*.html",
+        "label": "Florus · Epitome I.1, Romulus and Remus"
       }
     ],
     "evidence": "e9781429982498_c11.html source paragraph 292 (title included): he gave him the courage”—of what animal, do you suppose? Had it been Neptune or Mars, they would have given him the courage of a bull or a lion; but Athena gives him the courage of the most fearless in attack of al"
@@ -669,13 +685,13 @@
     "id": "croesus",
     "term": "Croesus",
     "aliases": [],
-    "short": "The wealthy king of Lydia defeated by Cyrus.",
-    "note": "Croesus ruled Lydia in the sixth century BCE. His celebrated wealth and his fall to Cyrus of Persia made his name proverbial; Herodotus recounts the oracles surrounding his defeat.",
+    "short": "Lydia’s wealthy king, told that even gods cannot escape fate.",
+    "note": "Croesus, the famously wealthy sixth-century-BCE king of Lydia, was defeated by Cyrus of Persia. In Herodotus, Histories 1.91, the Delphic priestess explains that even a god cannot evade destiny: Apollo could delay Croesus’s fall, but could not prevent it.",
     "possible": false,
     "sources": [
       {
-        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Hdt.+1.91",
-        "label": "Herodotus: Histories 1.91"
+        "url": "https://www.thelatinlibrary.com/historians/herod/herodotus2.html",
+        "label": "Herodotus · Histories I.91"
       }
     ],
     "evidence": "e9781429982498_c11.html source paragraph 301 (title included): an and every man, at the mercy of Fate. What was it Apollo had confided to King Croesus? “Even the gods … Not even the gods … .”"
@@ -769,5 +785,311 @@
       }
     ],
     "evidence": "e9781429982498_c11.html source paragraph 321 (title included): Placidaque ibi demum morte quievit. “At last he found rest in peaceful death.” For we are ever most at peace where we are most sorely needed."
+  },
+  {
+    "id": "largess",
+    "term": "largess",
+    "aliases": [],
+    "short": "Generous gifts or financial support.",
+    "note": "Also spelled largesse: liberal giving, especially money to people with fewer resources, or the gifts themselves.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/largess",
+        "label": "Merriam-Webster: largess"
+      }
+    ],
+    "evidence": "story/p-001: niversity at the close of his third year. It had been due only to the largess of a gentleman of his neighborhood, a certain Dr. Foxxe, that it had been possible for him to attend at all; "
+  },
+  {
+    "id": "matriculate",
+    "term": "matriculate",
+    "aliases": [],
+    "short": "To enroll formally at a college or university.",
+    "note": "To enter a college or university as a registered student. The word comes from a Latin term for a roll or register.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/matriculate",
+        "label": "Merriam-Webster: matriculate"
+      }
+    ],
+    "evidence": "story/p-009: rd nothing of you here, but I trust you are doing well. Ollie did not matriculate but will be back next term, or so he says. Jo is married now. I doubt you know him."
+  },
+  {
+    "id": "stoker",
+    "term": "stoker",
+    "aliases": [],
+    "short": "A worker who tends and fuels a furnace.",
+    "note": "Someone employed to keep a furnace or boiler fire supplied with fuel, including the fires of steam-powered transport.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/stoker",
+        "label": "Merriam-Webster: stoker"
+      }
+    ],
+    "evidence": "story/p-017: The tobacconist around the corner had in his youth been a stoker of coaches, and Enan seized the earliest opportunity to question him regarding Granville."
+  },
+  {
+    "id": "habited",
+    "term": "habited",
+    "aliases": [],
+    "short": "Dressed or clothed.",
+    "note": "A literary use of habit as a verb, from the older sense of habit meaning clothing or costume.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/habited",
+        "label": "Merriam-Webster: habited"
+      }
+    ],
+    "evidence": "story/p-025: ise, and little troupes of its pupils went from door to door at dusk, habited as witches, tunnel men, and ghouls, the letter arrived."
+  },
+  {
+    "id": "tussocks",
+    "term": "tussocks",
+    "aliases": [],
+    "short": "Tufts of grass or firm clumps in marshland.",
+    "note": "Dense clumps of grass or sedge; also raised patches of marshy ground held together by plant roots.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tussock",
+        "label": "Merriam-Webster: tussock"
+      }
+    ],
+    "evidence": "story/p-050: rtile bottomlands around it to marsh, among whose myriad shallows and tussocks the bewildered river lost its way. Isolated though this sunset town was, and decayed as Enan felt it must cer"
+  },
+  {
+    "id": "ewer",
+    "term": "ewer",
+    "aliases": [],
+    "short": "A water jug or pitcher.",
+    "note": "A vase-shaped vessel for holding and pouring water or other liquids.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ewer",
+        "label": "Merriam-Webster: ewer"
+      }
+    ],
+    "evidence": "story/p-060: in, the window was dark, his throat aflame. His groping hands found a ewer beside his bed; he drank from it, and was as before. Nobis cum semel occidit brevis lux, nox est perpetua una"
+  },
+  {
+    "id": "sloop-of-war",
+    "term": "sloop of war",
+    "aliases": [],
+    "short": "A small warship with a single gun deck.",
+    "note": "A relatively small naval vessel carrying its guns on one deck.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sloop%20of%20war",
+        "label": "Merriam-Webster: sloop of war"
+      }
+    ],
+    "evidence": "story/p-065: pair. Here a fresh wind greeted him; upon it, sailing like some swift sloop of war, rode a peregrine falcon. It passed him at eye level, perhaps twenty feet away, and he succumbed to the urge "
+  },
+  {
+    "id": "corsair",
+    "term": "corsair",
+    "aliases": [],
+    "short": "A pirate or privateer.",
+    "note": "A sea raider, especially one associated historically with the Barbary Coast of North Africa.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/corsair",
+        "label": "Merriam-Webster: corsair"
+      }
+    ],
+    "evidence": "story/p-068: rd the ridgeline. An irregular clump of wilting feathers recalled the corsair falcon. Melting snow slumped in the shadow of a dormer. A second turret sprang into view, and a third. Chimne"
+  },
+  {
+    "id": "garret",
+    "term": "garret",
+    "aliases": [],
+    "short": "An attic room directly beneath the roof.",
+    "note": "A room or unfinished living space in the uppermost part of a house, immediately under its roof.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/garret",
+        "label": "Merriam-Webster: garret"
+      }
+    ],
+    "evidence": "story/p-071:  house by another door? He wandered aimlessly until he stood before a garret window and peered into a bare room in which a pale maiden in black sat weeping before a second window. When h"
+  },
+  {
+    "id": "sash",
+    "term": "sash",
+    "aliases": [],
+    "short": "The frame holding a window’s panes.",
+    "note": "The glazed framework of a window, especially a movable section that slides up or down.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sash",
+        "label": "Merriam-Webster: sash"
+      }
+    ],
+    "evidence": "story/p-071: g before a second window. When he tapped on the glass, she lifted the sash for him."
+  },
+  {
+    "id": "euphemism",
+    "term": "Euphemism",
+    "aliases": [
+      "Euphemism’s"
+    ],
+    "short": "A mild expression substituted for an unpleasant one.",
+    "note": "The use of a gentler or less offensive expression in place of a blunt or taboo one. Its Greek roots mean auspicious or fair-sounding speech; the word does not derive from Eumenides.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/euphemism",
+        "label": "Merriam-Webster: euphemism"
+      }
+    ],
+    "evidence": "story/p-155: “Very good.” Enan smiled. “Euphemism?”"
+  },
+  {
+    "id": "stanch",
+    "term": "stanch",
+    "aliases": [],
+    "short": "To stop a flow, especially bleeding.",
+    "note": "To check the flow of blood or another liquid. Staunch is an alternative spelling of the verb.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/stanch",
+        "label": "Merriam-Webster: stanch"
+      }
+    ],
+    "evidence": "story/p-191:  They found him sitting up, two books beside him, trying to stanch the gush of blood from his nose with his shirt."
+  },
+  {
+    "id": "neoclassical",
+    "term": "neoclassical",
+    "aliases": [],
+    "short": "Reviving the art and architecture of Greece and Rome.",
+    "note": "Neoclassicism renewed interest in ancient Greek and Roman forms, becoming a major European design movement in the eighteenth century.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.vam.ac.uk/collections/neoclassicism",
+        "label": "Victoria and Albert Museum: Neoclassicism"
+      }
+    ],
+    "evidence": "story/p-225: The first and eldest was neoclassical. “This is a house for gods,” she said, “though the gods will never dwell in such houses again. Men live in su"
+  },
+  {
+    "id": "tudor",
+    "term": "Tudor",
+    "aliases": [],
+    "short": "An English-derived architectural style.",
+    "note": "Tudor-style buildings draw on late-medieval and early-modern English architecture. Later revivals commonly use steep gables, prominent chimneys, and ornamental half-timbering.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.phmc.state.pa.us/Portal/Communities/Architecture/styles/tudor-revival.html",
+        "label": "Pennsylvania Historical and Museum Commission: Tudor Revival"
+      }
+    ],
+    "evidence": "story/p-238: eely’s bride picked up the knife and handed it to Enan. “This side is Tudor, as I was on the point of telling you. Do you see the window high up that shows a faint, blue light? That is "
+  },
+  {
+    "id": "neo-victorian",
+    "term": "neo-Victorian",
+    "aliases": [],
+    "short": "Reviving Victorian styles or attitudes.",
+    "note": "Resembling or reviving the culture of the Victorian period. The term can apply to architecture as well as manners, values, and literature.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cambridge.org/core/journals/victorian-literature-and-culture/article/neovictorian/1829F905748664A68E501882EED4DFF9",
+        "label": "Cambridge University Press: Neo-Victorian"
+      }
+    ],
+    "evidence": "story/p-242: ose who renamed this street, at the height of the siege. This face is neo-Victorian, as is your world. If you look closely, you can see the bullet holes.”"
+  },
+  {
+    "id": "calf-binding",
+    "term": "calf",
+    "aliases": [],
+    "short": "Calfskin leather used for bookbinding.",
+    "note": "Leather made from the hide of a young cow. In descriptions of books, calf identifies the material of the binding.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/calf",
+        "label": "Merriam-Webster: calf"
+      }
+    ],
+    "evidence": "story/p-285: rthed was Augustine’s Confessions, brass-fitted and bound in decaying calf, with Latin and English on facing pages—the spoil of some pillaged seminary. He hid it after Modesty’s first "
+  },
+  {
+    "id": "importunities",
+    "term": "importunities",
+    "aliases": [],
+    "short": "Insistent requests or unwelcome attentions.",
+    "note": "Requests or demands pressed persistently enough to become troublesome.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/importunate",
+        "label": "Merriam-Webster: importunate"
+      }
+    ],
+    "evidence": "story/p-286: ed it might be impolite to ask it at all. No doubt she had feared his importunities."
+  },
+  {
+    "id": "fair-copy",
+    "term": "fair copy",
+    "aliases": [],
+    "short": "A clean, carefully transcribed copy.",
+    "note": "An exact or corrected copy of a written work, made without the alterations and untidiness of a working draft.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/fair-copy",
+        "label": "Dictionary.com: fair copy"
+      }
+    ],
+    "evidence": "story/p-290: ogether; yet what he read so enchanted him that he resolved to make a fair copy at the earliest opportunity. Headmaster Seely had been generous in the provision of paper; those sheets, Enan"
+  },
+  {
+    "id": "courage-of-a-fly",
+    "term": "courage of a fly",
+    "aliases": [],
+    "short": "Athena’s gift to Menelaus in Homer’s Iliad.",
+    "note": "Ruskin’s The Queen of the Air, section 34, discusses Iliad 17.567–572. Athena strengthens Menelaus with the persistence of a biting fly that keeps returning however often it is driven away.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/12641/12641-h/12641-h.htm",
+        "label": "John Ruskin: The Queen of the Air, §34"
+      },
+      {
+        "url": "https://www.theoi.com/Text/HomerIliad17.html",
+        "label": "Homer: Iliad 17.567–572, translated by A. T. Murray"
+      }
+    ],
+    "evidence": "story/p-291: d very small it is, but wholly incapable of terror,—she gives him the courage of a fly."
+  },
+  {
+    "id": "darkling",
+    "term": "darkling",
+    "aliases": [],
+    "short": "Dark or taking place in darkness.",
+    "note": "A literary adjective for something darkened or occurring in the dark; as an adverb it means in darkness.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/darkling",
+        "label": "Merriam-Webster: darkling"
+      }
+    ],
+    "evidence": "story/p-313: He opened the door upon a darkling landscape. Sullen fires smoldered far off, and a dead man in bronze armor lay almost at his feet. Dark bowmen"
   }
 ]

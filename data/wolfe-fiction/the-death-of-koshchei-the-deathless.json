@@ -284,6 +284,10 @@
       {
         "url": "https://www.gutenberg.org/files/540/540-h/540-h.htm",
         "label": "Andrew Lang · The Red Fairy Book"
+      },
+      {
+        "url": "https://www.gutenberg.org/files/16981/16981-h/16981-h.htm",
+        "label": "Arthur Ransome · Old Peter’s Russian Tales, “Baba Yaga”"
       }
     ],
     "evidence": "OEBPS/e9781429982498_c04.html source paragraph 53: ’s a wonder I did not end up in your London. Do you know of Baba Yaga?; OEBPS/e9781429982498_c04.html source paragraph 54: , though we call it now by the polite name of folklore. By “Baba Yaga” I intend the Grand Duchess, that terrible old woman. We never call her Baba Yaga to her "
@@ -372,8 +376,12 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://gramota.ru/meta/ryabchik",
-        "label": "Gramota · рябчик"
+        "url": "https://en.wiktionary.org/wiki/рябчик",
+        "label": "Wiktionary · рябчик"
+      },
+      {
+        "url": "https://ebird.org/species/hazgro1",
+        "label": "Cornell Lab of Ornithology · Hazel Grouse"
       }
     ],
     "evidence": "OEBPS/e9781429982498_c04.html source paragraph 59: ngs by comparison—than old Baba Yaga. Once we came across a ryabchik and her brood, the chicks just big enough to eat. I had my bow, and I told Baba Yaga I’d "
@@ -402,8 +410,8 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0258%3Abook%3D9%3Achapter%3D11",
-        "label": "Diogenes Laertius · Lives IX.72"
+        "url": "https://en.wikisource.org/wiki/Lives_of_the_Eminent_Philosophers/Book_IX",
+        "label": "Diogenes Laertius · Lives IX.72, translated by R. D. Hicks"
       }
     ],
     "evidence": "OEBPS/e9781429982498_c04.html source paragraph 45: Truth, it is said, makes her home at the bottom of a well. Her sister Peace is still less hospitable, flying fastest from those who pursue her with"
@@ -636,5 +644,212 @@
       }
     ],
     "evidence": "OEBPS/e9781429982498_c04.html source paragraph 37: art. There, in a year or two, he received a letter from the Holy Roman Emperor inquiring about the countess, his wife, and stating very firmly that if she was dead the "
+  },
+  {
+    "id": "men-at-arms",
+    "term": "men-at-arms",
+    "aliases": [],
+    "short": "Heavily armed soldiers, usually mounted.",
+    "note": "A man-at-arms is a soldier, especially one equipped with heavy armor and fighting on horseback.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/man-at-arms",
+        "label": "Merriam-Webster: man-at-arms"
+      }
+    ],
+    "evidence": "story/p-008: d another on his helm, and a couple of hundred of the most villainous men-at-arms the land has ever seen at his heels. I never met the graf, but I know the type and I’m sure you do, too. A Pr"
+  },
+  {
+    "id": "charger",
+    "term": "charger",
+    "aliases": [],
+    "short": "A horse ridden in battle or on parade.",
+    "note": "A cavalry or warhorse; the term also applies to a horse used for ceremonial military display.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/charger",
+        "label": "Merriam-Webster: charger"
+      }
+    ],
+    "evidence": "story/p-009: This lean, scarred, and arrogant party sprang from his charger, landed at my poor father’s feet like a thunderbolt, and shouted, “Hail, Prince Ivan! Before I came as a gues"
+  },
+  {
+    "id": "saddlebow",
+    "term": "saddlebow",
+    "aliases": [],
+    "short": "The raised front arch of a saddle.",
+    "note": "The arched structure at the front of a riding saddle, including the pieces that form it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/saddlebow",
+        "label": "Merriam-Webster: saddlebow"
+      }
+    ],
+    "evidence": "story/p-012: y unfortunate Aunt Olga slung, figuratively at least, over the king’s saddlebow."
+  },
+  {
+    "id": "blue-funk",
+    "term": "blue funk",
+    "aliases": [],
+    "short": "A spell of deep gloom or dejection.",
+    "note": "An informal expression for a deeply dispirited mood. Blue has long been used for melancholy; funk can also refer to fear or loss of nerve.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dictionaryblog.cambridge.org/2011/10/10/blue-talk/",
+        "label": "Cambridge Dictionary: Blue Talk"
+      },
+      {
+        "url": "https://www.dictionary.com/browse/blue-funk",
+        "label": "Dictionary.com: blue funk"
+      }
+    ],
+    "evidence": "story/p-013: thers-in-law. The whole thing threw my poor father, Prince Ivan, in a blue funk that lasted for a couple of years. He was, exactly as I am, a man exceedingly fond of his family; and between"
+  },
+  {
+    "id": "mettlesome",
+    "term": "mettlesome",
+    "aliases": [],
+    "short": "Spirited or courageous.",
+    "note": "Full of mettle: vigor, courage, or readiness to face difficulty. It is unrelated in meaning to meddlesome, which means interfering in others’ affairs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mettlesome",
+        "label": "Merriam-Webster: mettlesome"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/meddlesome",
+        "label": "Merriam-Webster: meddlesome"
+      }
+    ],
+    "evidence": "story/p-030: ewhat deaf fairy who had been asked to render him and his descendants mettlesome, made us meddlesome instead."
+  },
+  {
+    "id": "hawking",
+    "term": "hawking",
+    "aliases": [],
+    "short": "Hunting with trained birds of prey.",
+    "note": "The practice of falconry: using a trained hawk or falcon to pursue other birds or game.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hawk",
+        "label": "Merriam-Webster: hawk"
+      }
+    ],
+    "evidence": "story/p-041: sts, fetes, tournaments, and so on, with some very decent hunting and hawking thrown in; but it was not to last. The Prussian knights my father had brought considered my aunt Marya—that i"
+  },
+  {
+    "id": "master-of-horse",
+    "term": "master of horse",
+    "aliases": [],
+    "short": "An officer responsible for a ruler’s horses.",
+    "note": "A royal household office concerned with horses, stables, and related attendants and equipment. Comparable positions existed at several European courts.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Master_of_the_Horse",
+        "label": "Encyclopædia Britannica (1911): Master of the Horse"
+      }
+    ],
+    "evidence": "story/p-042: ired whether they might be overtaken, to which his horse—actually his master of horse, presumably—is supposed to have replied, “It is possible to sow wheat, wait till it grows up, to reap it and "
+  },
+  {
+    "id": "vendava",
+    "term": "Vendava",
+    "aliases": [],
+    "short": "Possibly the Venta River of Lithuania and Latvia.",
+    "note": "Possibly the Venta, also called Windau or Windawa, which flows through Lithuania and western Latvia into the Baltic at Ventspils. The spelling Vendava is not attested in these sources.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://mapcarta.com/13254308",
+        "label": "Mapcarta / GeoNames: Venta River"
+      },
+      {
+        "url": "https://www.meteo.lv/fs/CKFinderJava/userfiles/files/REPORT_WP2.pdf",
+        "label": "Latvian Environment, Geology and Meteorology Centre: Venta basin, p. 22"
+      }
+    ],
+    "evidence": "story/p-043: singly, they were overtaken by Koshchei’s army at the crossing of the Vendava, where a slam-bang fight ensued. My father, as I’ve told you, was by no means a warlike man; but faced with t"
+  },
+  {
+    "id": "mace",
+    "term": "mace",
+    "aliases": [],
+    "short": "A heavy club used as a weapon.",
+    "note": "A club or staff with a heavy head, often studded or spiked; medieval versions were used against armor.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mace",
+        "label": "Merriam-Webster: mace"
+      }
+    ],
+    "evidence": "story/p-043: t resource. Taking his stand before the baggage train, with sword and mace he beat off charge after charge. Koshchei and his Balts had recaptured my mother, however, and returned with "
+  },
+  {
+    "id": "pomerania",
+    "term": "Pomerania",
+    "aliases": [],
+    "short": "A historical region on the southern Baltic coast.",
+    "note": "A Baltic coastal region now divided between northwestern Poland and northeastern Germany. Its territories were ruled at different times by Slavic dynasties, the Holy Roman Empire, Sweden, and Prussia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ahdictionary.com/word/search.html?q=Pomerania",
+        "label": "American Heritage Dictionary: Pomerania"
+      }
+    ],
+    "evidence": "story/p-048: borrow armor and accompanied him in the guise of a knight banneret of Pomerania. My father ought never have permitted it; but you, conversant with our character as you are by this time, wil"
+  },
+  {
+    "id": "serfs",
+    "term": "serfs",
+    "aliases": [],
+    "short": "Unfree peasants bound to an estate.",
+    "note": "Members of a dependent agricultural class tied to the land and subject to its owner’s authority.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/serf",
+        "label": "Merriam-Webster: serf"
+      }
+    ],
+    "evidence": "story/p-056: re. She welcomed me with old-fashioned boyar courtesy—turning out her serfs to cheer, and the rest of it—and told me, as people had been telling me all my life, that I was spit and imag"
+  },
+  {
+    "id": "tack",
+    "term": "tack room",
+    "aliases": [],
+    "short": "A room for storing riding equipment.",
+    "note": "Tack means the equipment used with a riding horse, especially saddles, bridles, and harness.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tack",
+        "label": "Merriam-Webster: tack"
+      }
+    ],
+    "evidence": "story/p-069: at, and where the horses were stabled, and how I could break into the tack room and all the rest of it, every night before I slept."
+  },
+  {
+    "id": "vassal",
+    "term": "vassal",
+    "aliases": [],
+    "short": "A feudal dependent owing loyalty to a lord.",
+    "note": "A person who has pledged allegiance and service to a feudal lord in return for protection, often holding land from that lord.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/vassal",
+        "label": "Merriam-Webster: vassal"
+      }
+    ],
+    "evidence": "story/p-073: e them all, as did several others—a part of the Empire, and himself a vassal of the Emperor. The very trifling price he asked was that Falkonstein be declared to have passed to him by ma"
   }
 ]

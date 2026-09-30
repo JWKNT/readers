@@ -105,5 +105,84 @@
       }
     ],
     "evidence": "OEBPS/e9781429982498_c05.html source paragraph 51: en they came here. Folks say they went to some world called Biladmaser. Only some say Barrmaser, so I guess nobody really knows, or somebody heard somebody else"
+  },
+  {
+    "id": "longhorns",
+    "term": "longhorns",
+    "aliases": [],
+    "short": "Texas cattle noted for their long horns.",
+    "note": "Texas Longhorn cattle descend from cattle brought to North America by Spanish settlers. The hardy breed became important to the ranching economy of the American Southwest.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://breeds.okstate.edu/cattle/texas-longhorn-cattle",
+        "label": "Oklahoma State University: Texas Longhorn cattle"
+      },
+      {
+        "url": "https://www.nps.gov/pisp/learn/photosmultimedia/longhorns.htm",
+        "label": "National Park Service: Longhorns"
+      }
+    ],
+    "evidence": "story/p-009: ta Gertrudis, which is what his mom was, so there’s Indian cattle and longhorns back there. I’m little, and gray like you see except for this mark on my back."
+  },
+  {
+    "id": "donkey-cross",
+    "term": "mark on my back",
+    "aliases": [],
+    "short": "Possibly the cross-shaped marking of a donkey.",
+    "note": "Possibly the cross-shaped marking on a donkey’s back. Christian folk tradition explains the mark by the donkey’s carrying Jesus into Jerusalem.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/77830/pg77830-images.html",
+        "label": "F. Edward Hulme: Natural History, Lore and Legend, pp. 184–186"
+      }
+    ],
+    "evidence": "story/p-009: nghorns back there. I’m little, and gray like you see except for this mark on my back."
+  },
+  {
+    "id": "christmas-animal-speech",
+    "term": "only tonight",
+    "aliases": [],
+    "short": "Possibly the Christmas legend of speaking animals.",
+    "note": "Possibly an echo of the folk belief that animals gain human speech at midnight on Christmas Eve and speak about Christ’s birth.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://engines.egr.uh.edu/episode/770",
+        "label": "University of Houston: Christmas, 1992"
+      }
+    ],
+    "evidence": "story/p-049: n’t talk. So I say tonight we do, and Bully chimes in for me and says only tonight, but they better not talk themselves if they know what he means. So that’s how we got to be sort of famous."
+  },
+  {
+    "id": "nativity-shepherds",
+    "term": "sheepherders",
+    "aliases": [],
+    "short": "Possibly the shepherds visiting the newborn Jesus.",
+    "note": "Possibly an echo of Luke 2:8–20: shepherds keeping night watch hear an angel announce Christ’s birth, then visit Mary, Joseph, and the child lying in a manger.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Luke+2%3A8-20&version=KJV",
+        "label": "Luke 2:8–20, King James Version"
+      }
+    ],
+    "evidence": "story/p-050: Right there’s where we got lucky, too, because it’s when the sheepherders came. There’s a couple horses right beside this place Bully and me rent, and I guess somebody’d come in and g"
+  },
+  {
+    "id": "nativity-magi",
+    "term": "three teachers",
+    "aliases": [],
+    "short": "Possibly the Magi who bring gifts to the Christ child.",
+    "note": "Possibly an echo of the learned visitors in Matthew 2:1–12. The Magi follow a star and offer gold, frankincense, and myrrh; Matthew names three gifts but does not state how many Magi there were.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/matthew/2",
+        "label": "Matthew 2:1–12, United States Conference of Catholic Bishops"
+      }
+    ],
+    "evidence": "story/p-051: ow, for a week or so, and the Beautiful Ones never did catch on. Then three teachers from the new school came by—I guess three was all they had back then. They’d been passing the hat for this co"
   }
 ]

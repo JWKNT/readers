@@ -12,7 +12,7 @@
   ],
   "totalWords": 8601,
   "defaultChapter": "story",
-  "glossaryCount": 7,
+  "glossaryCount": 11,
   "correctionCount": 0,
   "editionVersion": 17,
   "chapters": [
@@ -381,6 +381,10 @@
       "headingHtml": "Bluesberry Jam",
       "noteAnchors": [
         {
+          "term": "scooch",
+          "paragraph": "p-002"
+        },
+        {
           "term": "slatternly",
           "paragraph": "p-031"
         },
@@ -391,6 +395,10 @@
         {
           "term": "gainsay",
           "paragraph": "p-101"
+        },
+        {
+          "term": "leaf-springs",
+          "paragraph": "p-132"
         },
         {
           "term": "educe",
@@ -407,6 +415,14 @@
         {
           "term": "my-gentle-harp",
           "paragraph": "p-319"
+        },
+        {
+          "term": "varashield",
+          "paragraph": "p-331"
+        },
+        {
+          "term": "raveled",
+          "paragraph": "p-341"
         }
       ],
       "words": 8601,

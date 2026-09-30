@@ -103,5 +103,67 @@
       }
     ],
     "evidence": "OEBPS/e9781429982498_c01.html source paragraph 319: “My gentle harp, once more I waken The sweetness of thy slumbering strain, In tears our last farewell was"
+  },
+  {
+    "id": "scooch",
+    "term": "scooch",
+    "aliases": [
+      "scooching"
+    ],
+    "short": "To shift or slide a short distance.",
+    "note": "An informal verb meaning to move a little way, especially by sliding or shuffling one’s body.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/scooch",
+        "label": "Dictionary.com: scooch"
+      }
+    ],
+    "evidence": "story/p-002: ng you, like anybody would. What you did (this was the best) was scooch up on the hood and lean back with your back up against the windshield so the songchopper, the "
+  },
+  {
+    "id": "leaf-springs",
+    "term": "leaf springs",
+    "aliases": [],
+    "short": "Flat metal strips used in vehicle suspension.",
+    "note": "A leaf spring consists of a flexible metal strip or a stack of strips fastened together to support a vehicle and absorb road shocks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/leaf-spring",
+        "label": "Dictionary.com: leaf-spring"
+      }
+    ],
+    "evidence": "story/p-132:  out with the children frowned, fingering knives ground from the leaf springs, and reached back into their cars for tire irons they thrust into their belts or slapped again"
+  },
+  {
+    "id": "raveled",
+    "term": "raveled",
+    "aliases": [],
+    "short": "Unraveled into loose threads.",
+    "note": "Ravel can mean to undo a knitted or woven fabric into separate threads; it can also mean to entangle those threads.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/ravel",
+        "label": "Dictionary.com: ravel"
+      }
+    ],
+    "evidence": "story/p-341: f cars and vans and trucks looped and swirled like the yarn of a raveled sweater, trucks and vans and cars hanging in the air, an impossible creation that appeared to "
+  },
+  {
+    "id": "varashield",
+    "term": "varashield",
+    "aliases": [],
+    "short": "An adjustable wind deflector mounted on a truck’s roof.",
+    "note": "Varashield is a proprietary truck-mounted shield that redirects airflow to improve the vehicle’s aerodynamics. Its angle can be adjusted to suit the trailer’s height.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://cdn.cranemarket.com/specifications/peterbilt-trucks-spec-2d2ab1.pdf",
+        "label": "Peterbilt operator’s manual: Varashield, pp. 39–40"
+      }
+    ],
+    "evidence": "story/p-331:  hood without much trouble; but the high cab was surmounted by a varashield nearly as tall as itself, which was bound to prove difficult. Standing at one side of the hood"
   }
 ]

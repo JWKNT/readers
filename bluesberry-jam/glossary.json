@@ -138,5 +138,87 @@
       "paragraph": "p-319",
       "index": 0
     }
+  },
+  {
+    "id": "scooch",
+    "term": "scooch",
+    "aliases": [
+      "scooching"
+    ],
+    "short": "To shift or slide a short distance.",
+    "note": "An informal verb meaning to move a little way, especially by sliding or shuffling one’s body.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/scooch",
+        "label": "Dictionary.com: scooch"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-002",
+      "index": 0
+    }
+  },
+  {
+    "id": "leaf-springs",
+    "term": "leaf springs",
+    "aliases": [],
+    "short": "Flat metal strips used in vehicle suspension.",
+    "note": "A leaf spring consists of a flexible metal strip or a stack of strips fastened together to support a vehicle and absorb road shocks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/leaf-spring",
+        "label": "Dictionary.com: leaf-spring"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-132",
+      "index": 0
+    }
+  },
+  {
+    "id": "raveled",
+    "term": "raveled",
+    "aliases": [],
+    "short": "Unraveled into loose threads.",
+    "note": "Ravel can mean to undo a knitted or woven fabric into separate threads; it can also mean to entangle those threads.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/ravel",
+        "label": "Dictionary.com: ravel"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-341",
+      "index": 0
+    }
+  },
+  {
+    "id": "varashield",
+    "term": "varashield",
+    "aliases": [],
+    "short": "An adjustable wind deflector mounted on a truck’s roof.",
+    "note": "Varashield is a proprietary truck-mounted shield that redirects airflow to improve the vehicle’s aerodynamics. Its angle can be adjusted to suit the trailer’s height.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://cdn.cranemarket.com/specifications/peterbilt-trucks-spec-2d2ab1.pdf",
+        "label": "Peterbilt operator’s manual: Varashield, pp. 39–40"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-331",
+      "index": 0
+    }
   }
 ]

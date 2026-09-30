@@ -49,12 +49,12 @@
     "term": "The oracles are dumb",
     "aliases": [],
     "short": "A line from Milton’s Nativity ode.",
-    "note": "John Milton’s On the Morning of Christ’s Nativity, stanza XIX, imagines the pagan oracles falling silent at Christ’s birth. The following lines name Apollo and Delphi.",
+    "note": "John Milton’s On the Morning of Christ’s Nativity, stanza XIX (lines 173–180), imagines pagan oracles falling silent at Christ’s birth. The quotation here differs at line 179, which begins “No nightly trance or breathed spell” in the standard text.",
     "possible": false,
     "sources": [
       {
-        "url": "https://milton.host.dartmouth.edu/reading_room/nativity/text.shtml",
-        "label": "Dartmouth: Milton, On the Morning of Christ’s Nativity"
+        "url": "https://rpo.library.utoronto.ca/content/morning-christs-nativity",
+        "label": "University of Toronto · Milton, On the Morning of Christ’s Nativity"
       }
     ],
     "evidence": "e9781429982498_c08.html source paragraph 16 (title included): The oracles are dumb, No voice or hideous hum Runs through the archèd roof in words deceiving: Apollo from his shrine Can no more divine With hollow s"
@@ -203,8 +203,8 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://bible.usccb.org/bible/deuteronomy/12",
-        "label": "USCCB: Deuteronomy 12:23"
+        "url": "https://www.biblegateway.com/passage/?search=Deuteronomy+12%3A23&version=KJV",
+        "label": "King James Bible · Deuteronomy 12:23"
       }
     ],
     "evidence": "e9781429982498_c08.html source paragraph 123 (title included): ody rose from the bloodsoaked sheet, bright as morning and white as alabaster. “For the blood is the life,” she said."
@@ -238,5 +238,159 @@
       }
     ],
     "evidence": "e9781429982498_c08.html source paragraph 147 (title included): na the caretaker’s wife went to the window. “Johann! It’s the carriage from the schloss.”"
+  },
+  {
+    "id": "parti-colored",
+    "term": "parti-colored",
+    "aliases": [],
+    "short": "Colored differently in separate patches.",
+    "note": "Variegated: having distinct areas or pieces of different colors.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/parti-colored",
+        "label": "Dictionary.com: parti-colored"
+      }
+    ],
+    "evidence": "story/p-010:  as they feasted in clothing furnished by their meat: the dead wife’s parti-colored kirtle (fouled now by groundwater and the ichors of decay) beneath her husband’s rotted coat."
+  },
+  {
+    "id": "downs",
+    "term": "downs",
+    "aliases": [],
+    "short": "Open, rolling uplands.",
+    "note": "Usually treeless stretches of gently undulating high ground, often grassy and used for grazing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/down",
+        "label": "Merriam-Webster: down"
+      }
+    ],
+    "evidence": "story/p-017: ies’ worthless whine Can fright no folk of mine When o’er the haunted downs we come a-thieving, Our night-long dance and sprightly call Shall tire the pop-eyed beast from out the stall."
+  },
+  {
+    "id": "iron-fairy-charm",
+    "term": "iron will keep us out",
+    "aliases": [],
+    "short": "Iron traditionally protects against fairies.",
+    "note": "In Welsh folklore, fairies cannot endure iron. A Manx tale describes open scissors placed beside an infant to prevent fairies from taking it and leaving a changeling.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/9368/pg9368-images.html",
+        "label": "William Elliot Griffis: Welsh Fairy Tales, Why the Fairies Dislike Iron"
+      },
+      {
+        "url": "https://deriv.nls.uk/dcn23/7921/79212491.23.pdf",
+        "label": "A. W. Moore: The Folk-Lore of the Isle of Man, p. 45"
+      }
+    ],
+    "evidence": "story/p-026: “Tell them iron will keep us out,” he whispered, knowing it was what Beeetheeeor would want him to say. “Call to them.”"
+  },
+  {
+    "id": "redcap",
+    "term": "red cap",
+    "aliases": [],
+    "short": "Possibly the blood-stained cap of a Border goblin.",
+    "note": "Possibly the redcap of Anglo-Scottish Border folklore, a malevolent goblin haunting ruined strongholds. William Henderson describes it staining its cap with the blood of travelers it kills.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/Page:Notes_on_the_folk-lore_of_the_northern_counties_of_England_and_the_borders.djvu/275",
+        "label": "William Henderson: Notes on the Folk-Lore of the Northern Counties, p. 253"
+      }
+    ],
+    "evidence": "story/p-030:  tattered old black-letter Bible in one hand. “An ouph, Maria? With a red cap?”"
+  },
+  {
+    "id": "declivity",
+    "term": "declivity",
+    "aliases": [],
+    "short": "A downward slope.",
+    "note": "A descending stretch of ground, or the downward inclination of a surface.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/declivity",
+        "label": "Merriam-Webster: declivity"
+      }
+    ],
+    "evidence": "story/p-054:  a black carriage racing across the plain, dropping from sight into a declivity, reappearing at the crest of the hill on the opposite side, and rattling across the Roman bridge over the fro"
+  },
+  {
+    "id": "surety",
+    "term": "surety",
+    "aliases": [],
+    "short": "A pledge guaranteeing another’s conduct.",
+    "note": "A guarantee that an undertaking will be fulfilled. The term can also name a person who accepts responsibility if someone else fails in a duty.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/surety",
+        "label": "Merriam-Webster: surety"
+      }
+    ],
+    "evidence": "story/p-064: raised her face and her hands, her eyes black with tears. “My head in surety for all he does. Have mercy on your slave, Your Highness! Just one summer more?”"
+  },
+  {
+    "id": "febrile",
+    "term": "febrile",
+    "aliases": [],
+    "short": "Feverish or caused by fever.",
+    "note": "Relating to or marked by fever; from Latin febris, fever.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/febrile",
+        "label": "Merriam-Webster: febrile"
+      }
+    ],
+    "evidence": "story/p-065: gown. Still on his knees, he put his arm about her waist and felt her febrile heat."
+  },
+  {
+    "id": "charger",
+    "term": "charger",
+    "aliases": [],
+    "short": "A horse ridden in battle or on parade.",
+    "note": "A cavalry or warhorse; the term also applies to a horse used for ceremonial military display.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/charger",
+        "label": "Merriam-Webster: charger"
+      }
+    ],
+    "evidence": "story/p-108: r crag and pretended that he was its owner, a great lord—with a white charger—with medals on his chest—with a sword and a fur cloak. His wife would ride in a carriage like this, and he, s"
+  },
+  {
+    "id": "camisole",
+    "term": "camisole",
+    "aliases": [],
+    "short": "A short, sleeveless garment or undergarment.",
+    "note": "A light garment covering the upper body, often worn beneath other clothing. The word comes through French from a term for a shirt.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/camisole",
+        "label": "Merriam-Webster: camisole"
+      }
+    ],
+    "evidence": "story/p-132: on me, man-child.” For a few seconds that seemed eternity to him, her camisole wrapped her marvelous, living hair like a turban. Raising her arms, she pirouetted before him. “I was old whe"
+  },
+  {
+    "id": "pallet",
+    "term": "pallet",
+    "aliases": [],
+    "short": "A simple mattress or makeshift bed.",
+    "note": "Originally a straw-filled mattress; also a small, hard, or temporary sleeping place.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pallet",
+        "label": "Merriam-Webster: pallet"
+      }
+    ],
+    "evidence": "story/p-173: Once he dreamt that he rose from his pallet by the hearth, and opening the shutter saw Eeesheeea, Beeetheeeor, and others dancing in the churchyard. Eees"
   }
 ]

@@ -178,5 +178,35 @@
       }
     ],
     "evidence": "OEBPS/e9781429982498_c07.html source paragraph 32: “Rook to rook’s four,” the Devil declared in a voice of steel."
+  },
+  {
+    "id": "tender",
+    "term": "tender",
+    "aliases": [],
+    "short": "A vessel that supplies or supports other ships.",
+    "note": "In nautical usage, a ship attending other vessels, for example by delivering provisions, fuel, or logistical support.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tender",
+        "label": "Merriam-Webster: tender"
+      }
+    ],
+    "evidence": "story/p-079: al nodded, his expression still showing traces of shock. “A tender is on its way to refuel you, Captain. It also carries water and rations, if you need them.”"
+  },
+  {
+    "id": "attenuated",
+    "term": "attenuated",
+    "aliases": [],
+    "short": "Diminished in strength or intensity.",
+    "note": "Made weaker or reduced in force. The verb is often used in technical contexts for the weakening of a signal or other physical effect.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/attenuate",
+        "label": "Merriam-Webster: attenuate"
+      }
+    ],
+    "evidence": "story/p-253: for this broadcast to reach Earth, and by then it will have attenuated to nothing and the human race will have died out or evolved into something else. I know all that. B"
   }
 ]

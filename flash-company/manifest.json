@@ -12,7 +12,7 @@
   ],
   "totalWords": 3532,
   "defaultChapter": "story",
-  "glossaryCount": 12,
+  "glossaryCount": 19,
   "correctionCount": 0,
   "editionVersion": 17,
   "chapters": [
@@ -140,6 +140,10 @@
       "headingHtml": "<span class=\"word\" data-term=\"flash-company-song\" data-first=\"true\" data-local-first=\"true\">Flash Company</span>",
       "noteAnchors": [
         {
+          "term": "bawdy-house",
+          "paragraph": "p-001"
+        },
+        {
           "term": "isca",
           "paragraph": "p-011"
         },
@@ -150,6 +154,10 @@
         {
           "term": "jack-monroe",
           "paragraph": "p-019"
+        },
+        {
+          "term": "piano-action",
+          "paragraph": "p-022"
         },
         {
           "term": "aeolian-harp",
@@ -172,20 +180,40 @@
           "paragraph": "p-024"
         },
         {
+          "term": "reel",
+          "paragraph": "p-025"
+        },
+        {
+          "term": "rowing-shell",
+          "paragraph": "p-032"
+        },
+        {
           "term": "oh-susanna",
           "paragraph": "p-034"
+        },
+        {
+          "term": "mushmelon",
+          "paragraph": "p-039"
+        },
+        {
+          "term": "grits",
+          "paragraph": "p-039"
+        },
+        {
+          "term": "sawmill-gravy",
+          "paragraph": "p-039"
         },
         {
           "term": "etudes",
           "paragraph": "p-043"
         },
         {
-          "term": "pan",
-          "paragraph": "p-054"
-        },
-        {
           "term": "flash-company-song",
           "paragraph": "p-096"
+        },
+        {
+          "term": "soundboard",
+          "paragraph": "p-099"
         }
       ],
       "words": 3532,

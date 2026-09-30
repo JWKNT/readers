@@ -361,7 +361,7 @@
     "aliases": [
       "Prometheus"
     ],
-    "short": "Fire given to humanity by the Titan Prometheus.",
+    "short": "The myth of Prometheus bringing fire to humanity.",
     "note": "Prometheus steals fire for mortals in Greek myth. In Shakespeare’s Love’s Labor’s Lost, act 4, scene 3, Berowne praises women’s eyes as a source of that inspiring fire and of learning.",
     "possible": false,
     "sources": [
@@ -418,6 +418,46 @@
     "first": {
       "chapter": "story",
       "paragraph": "p-221",
+      "index": 0
+    }
+  },
+  {
+    "id": "polyglot",
+    "term": "polyglot",
+    "aliases": [],
+    "short": "Speaking several languages.",
+    "note": "Able to speak or use several languages; also used of a group or text containing several languages.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/polyglot",
+        "label": "Dictionary.com: polyglot"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-041",
+      "index": 0
+    }
+  },
+  {
+    "id": "kamarku",
+    "term": "kamarku",
+    "aliases": [],
+    "short": "Malay: my room or cabin.",
+    "note": "Kamar means a room or cabin; the possessive ending -ku means my.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.sabrizain.org/malaya/library/malaymanual.pdf",
+        "label": "A Malay Manual: vocabulary and possessive pronouns"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-179",
       "index": 0
     }
   }

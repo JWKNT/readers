@@ -12,7 +12,7 @@
   ],
   "totalWords": 6448,
   "defaultChapter": "story",
-  "glossaryCount": 12,
+  "glossaryCount": 14,
   "correctionCount": 0,
   "editionVersion": 17,
   "chapters": [
@@ -316,6 +316,10 @@
           "paragraph": "p-054"
         },
         {
+          "term": "tender",
+          "paragraph": "p-079"
+        },
+        {
           "term": "fischer",
           "paragraph": "p-084"
         },
@@ -342,6 +346,10 @@
         {
           "term": "arabic-numerals",
           "paragraph": "p-198"
+        },
+        {
+          "term": "attenuated",
+          "paragraph": "p-253"
         }
       ],
       "words": 6448,

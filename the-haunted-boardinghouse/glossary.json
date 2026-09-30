@@ -28,8 +28,8 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-classical-literature/technical-writing/73435F8BCD398A76A99ABC954B1DDA63",
-        "label": "Cambridge History of Classical Literature: Technical writing"
+        "url": "https://press.umich.edu/Books/P/Pomponius-Mela-s-Description-of-the-World",
+        "label": "University of Michigan Press · Pomponius Mela’s Description of the World"
       }
     ],
     "occurrences": 1,
@@ -88,8 +88,8 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://www.oregonlegislature.gov/bills_laws/Archive/2013ors186.pdf",
-        "label": "Oregon Legislature: ORS 186.040"
+        "url": "https://sos.oregon.gov/blue-book/explore/Pages/almanac-h-m.aspx",
+        "label": "Oregon Secretary of State · State motto"
       }
     ],
     "occurrences": 1,
@@ -268,8 +268,12 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://www.nobelprize.org/prizes/literature/1954/hemingway/biographical/",
-        "label": "Nobel Prize: Ernest Hemingway"
+        "url": "https://archives-manuscripts.dartmouth.edu/agents/people/4884",
+        "label": "Dartmouth Libraries · Ernest Hemingway"
+      },
+      {
+        "url": "https://www.biography.com/authors-writers/ernest-hemingway",
+        "label": "Biography.com · Ernest Hemingway"
       }
     ],
     "occurrences": 1,
@@ -288,8 +292,8 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://www.nobelprize.org/prizes/literature/1907/kipling/biographical/",
-        "label": "Nobel Prize: Rudyard Kipling"
+        "url": "https://www.kiplingsociety.co.uk/kip_life.htm",
+        "label": "The Kipling Society · Rudyard Kipling 1865–1936"
       }
     ],
     "occurrences": 1,
@@ -490,8 +494,16 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=pax",
-        "label": "Lewis and Short Latin Dictionary: pax"
+        "url": "https://alatius.com/ls/index.php?met=up&ord=pax",
+        "label": "Lewis & Short · pax"
+      },
+      {
+        "url": "https://alatius.com/ls/index.php?l=bellum",
+        "label": "Lewis & Short · bellum"
+      },
+      {
+        "url": "https://alatius.com/ls/index.php?met=up&ord=in",
+        "label": "Lewis & Short · in"
       }
     ],
     "occurrences": 1,
@@ -510,8 +522,8 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://www.gutenberg.org/ebooks/32242",
-        "label": "Nathaniel Hawthorne: A Wonder Book for Girls & Boys"
+        "url": "https://www.gutenberg.org/files/32242/32242-h/32242-h.htm",
+        "label": "Nathaniel Hawthorne · A Wonder-Book for Girls and Boys"
       }
     ],
     "occurrences": 1,
@@ -856,6 +868,10 @@
       {
         "url": "https://www.theoi.com/Olympios/Ares.html",
         "label": "Theoi: Ares and Roman Mars"
+      },
+      {
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Florus/Epitome/1A*.html",
+        "label": "Florus · Epitome I.1, Romulus and Remus"
       }
     ],
     "occurrences": 1,
@@ -889,13 +905,13 @@
     "id": "croesus",
     "term": "Croesus",
     "aliases": [],
-    "short": "The wealthy king of Lydia defeated by Cyrus.",
-    "note": "Croesus ruled Lydia in the sixth century BCE. His celebrated wealth and his fall to Cyrus of Persia made his name proverbial; Herodotus recounts the oracles surrounding his defeat.",
+    "short": "Lydia’s wealthy king, told that even gods cannot escape fate.",
+    "note": "Croesus, the famously wealthy sixth-century-BCE king of Lydia, was defeated by Cyrus of Persia. In Herodotus, Histories 1.91, the Delphic priestess explains that even a god cannot evade destiny: Apollo could delay Croesus’s fall, but could not prevent it.",
     "possible": false,
     "sources": [
       {
-        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Hdt.+1.91",
-        "label": "Herodotus: Histories 1.91"
+        "url": "https://www.thelatinlibrary.com/historians/herod/herodotus2.html",
+        "label": "Herodotus · Histories I.91"
       }
     ],
     "occurrences": 1,
@@ -1022,6 +1038,412 @@
     "first": {
       "chapter": "story",
       "paragraph": "p-320",
+      "index": 0
+    }
+  },
+  {
+    "id": "largess",
+    "term": "largess",
+    "aliases": [],
+    "short": "Generous gifts or financial support.",
+    "note": "Also spelled largesse: liberal giving, especially money to people with fewer resources, or the gifts themselves.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/largess",
+        "label": "Merriam-Webster: largess"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-001",
+      "index": 0
+    }
+  },
+  {
+    "id": "matriculate",
+    "term": "matriculate",
+    "aliases": [],
+    "short": "To enroll formally at a college or university.",
+    "note": "To enter a college or university as a registered student. The word comes from a Latin term for a roll or register.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/matriculate",
+        "label": "Merriam-Webster: matriculate"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-009",
+      "index": 0
+    }
+  },
+  {
+    "id": "stoker",
+    "term": "stoker",
+    "aliases": [],
+    "short": "A worker who tends and fuels a furnace.",
+    "note": "Someone employed to keep a furnace or boiler fire supplied with fuel, including the fires of steam-powered transport.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/stoker",
+        "label": "Merriam-Webster: stoker"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-017",
+      "index": 0
+    }
+  },
+  {
+    "id": "habited",
+    "term": "habited",
+    "aliases": [],
+    "short": "Dressed or clothed.",
+    "note": "A literary use of habit as a verb, from the older sense of habit meaning clothing or costume.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/habited",
+        "label": "Merriam-Webster: habited"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-025",
+      "index": 0
+    }
+  },
+  {
+    "id": "tussocks",
+    "term": "tussocks",
+    "aliases": [],
+    "short": "Tufts of grass or firm clumps in marshland.",
+    "note": "Dense clumps of grass or sedge; also raised patches of marshy ground held together by plant roots.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tussock",
+        "label": "Merriam-Webster: tussock"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-050",
+      "index": 0
+    }
+  },
+  {
+    "id": "ewer",
+    "term": "ewer",
+    "aliases": [],
+    "short": "A water jug or pitcher.",
+    "note": "A vase-shaped vessel for holding and pouring water or other liquids.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ewer",
+        "label": "Merriam-Webster: ewer"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-060",
+      "index": 0
+    }
+  },
+  {
+    "id": "sloop-of-war",
+    "term": "sloop of war",
+    "aliases": [],
+    "short": "A small warship with a single gun deck.",
+    "note": "A relatively small naval vessel carrying its guns on one deck.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sloop%20of%20war",
+        "label": "Merriam-Webster: sloop of war"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-065",
+      "index": 0
+    }
+  },
+  {
+    "id": "corsair",
+    "term": "corsair",
+    "aliases": [],
+    "short": "A pirate or privateer.",
+    "note": "A sea raider, especially one associated historically with the Barbary Coast of North Africa.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/corsair",
+        "label": "Merriam-Webster: corsair"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-068",
+      "index": 0
+    }
+  },
+  {
+    "id": "garret",
+    "term": "garret",
+    "aliases": [],
+    "short": "An attic room directly beneath the roof.",
+    "note": "A room or unfinished living space in the uppermost part of a house, immediately under its roof.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/garret",
+        "label": "Merriam-Webster: garret"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-071",
+      "index": 0
+    }
+  },
+  {
+    "id": "sash",
+    "term": "sash",
+    "aliases": [],
+    "short": "The frame holding a window’s panes.",
+    "note": "The glazed framework of a window, especially a movable section that slides up or down.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sash",
+        "label": "Merriam-Webster: sash"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-071",
+      "index": 0
+    }
+  },
+  {
+    "id": "euphemism",
+    "term": "Euphemism",
+    "aliases": [
+      "Euphemism’s"
+    ],
+    "short": "A mild expression substituted for an unpleasant one.",
+    "note": "The use of a gentler or less offensive expression in place of a blunt or taboo one. Its Greek roots mean auspicious or fair-sounding speech; the word does not derive from Eumenides.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/euphemism",
+        "label": "Merriam-Webster: euphemism"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-155",
+      "index": 0
+    }
+  },
+  {
+    "id": "stanch",
+    "term": "stanch",
+    "aliases": [],
+    "short": "To stop a flow, especially bleeding.",
+    "note": "To check the flow of blood or another liquid. Staunch is an alternative spelling of the verb.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/stanch",
+        "label": "Merriam-Webster: stanch"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-191",
+      "index": 0
+    }
+  },
+  {
+    "id": "neoclassical",
+    "term": "neoclassical",
+    "aliases": [],
+    "short": "Reviving the art and architecture of Greece and Rome.",
+    "note": "Neoclassicism renewed interest in ancient Greek and Roman forms, becoming a major European design movement in the eighteenth century.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.vam.ac.uk/collections/neoclassicism",
+        "label": "Victoria and Albert Museum: Neoclassicism"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-225",
+      "index": 0
+    }
+  },
+  {
+    "id": "tudor",
+    "term": "Tudor",
+    "aliases": [],
+    "short": "An English-derived architectural style.",
+    "note": "Tudor-style buildings draw on late-medieval and early-modern English architecture. Later revivals commonly use steep gables, prominent chimneys, and ornamental half-timbering.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.phmc.state.pa.us/Portal/Communities/Architecture/styles/tudor-revival.html",
+        "label": "Pennsylvania Historical and Museum Commission: Tudor Revival"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-238",
+      "index": 0
+    }
+  },
+  {
+    "id": "neo-victorian",
+    "term": "neo-Victorian",
+    "aliases": [],
+    "short": "Reviving Victorian styles or attitudes.",
+    "note": "Resembling or reviving the culture of the Victorian period. The term can apply to architecture as well as manners, values, and literature.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cambridge.org/core/journals/victorian-literature-and-culture/article/neovictorian/1829F905748664A68E501882EED4DFF9",
+        "label": "Cambridge University Press: Neo-Victorian"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-242",
+      "index": 0
+    }
+  },
+  {
+    "id": "calf-binding",
+    "term": "calf",
+    "aliases": [],
+    "short": "Calfskin leather used for bookbinding.",
+    "note": "Leather made from the hide of a young cow. In descriptions of books, calf identifies the material of the binding.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/calf",
+        "label": "Merriam-Webster: calf"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-285",
+      "index": 0
+    }
+  },
+  {
+    "id": "importunities",
+    "term": "importunities",
+    "aliases": [],
+    "short": "Insistent requests or unwelcome attentions.",
+    "note": "Requests or demands pressed persistently enough to become troublesome.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/importunate",
+        "label": "Merriam-Webster: importunate"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-286",
+      "index": 0
+    }
+  },
+  {
+    "id": "fair-copy",
+    "term": "fair copy",
+    "aliases": [],
+    "short": "A clean, carefully transcribed copy.",
+    "note": "An exact or corrected copy of a written work, made without the alterations and untidiness of a working draft.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/fair-copy",
+        "label": "Dictionary.com: fair copy"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-290",
+      "index": 0
+    }
+  },
+  {
+    "id": "courage-of-a-fly",
+    "term": "courage of a fly",
+    "aliases": [],
+    "short": "Athena’s gift to Menelaus in Homer’s Iliad.",
+    "note": "Ruskin’s The Queen of the Air, section 34, discusses Iliad 17.567–572. Athena strengthens Menelaus with the persistence of a biting fly that keeps returning however often it is driven away.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/12641/12641-h/12641-h.htm",
+        "label": "John Ruskin: The Queen of the Air, §34"
+      },
+      {
+        "url": "https://www.theoi.com/Text/HomerIliad17.html",
+        "label": "Homer: Iliad 17.567–572, translated by A. T. Murray"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-291",
+      "index": 0
+    }
+  },
+  {
+    "id": "darkling",
+    "term": "darkling",
+    "aliases": [],
+    "short": "Dark or taking place in darkness.",
+    "note": "A literary adjective for something darkened or occurring in the dark; as an adverb it means in darkness.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/darkling",
+        "label": "Merriam-Webster: darkling"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-313",
       "index": 0
     }
   }

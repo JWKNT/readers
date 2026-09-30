@@ -118,5 +118,50 @@
       }
     ],
     "evidence": "e9781429982498_c12.html source paragraph 63 (title included): Again and again I find myself drawn to the window; clouds gravid with snow hang low over the city, hiding every star but one."
+  },
+  {
+    "id": "polychrome",
+    "term": "polychrome",
+    "aliases": [],
+    "short": "Having or displaying several colors.",
+    "note": "Made, painted, or decorated in more than one color; multicolored.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/polychrome",
+        "label": "Merriam-Webster: polychrome"
+      }
+    ],
+    "evidence": "story/p-043: t, flashing in the sunshine. Minute fish with wide wings of polychrome gauze that were in fact their pectoral fins leaped from the freezing water to catch flying seeds th"
+  },
+  {
+    "id": "pectoral-fins",
+    "term": "pectoral fins",
+    "aliases": [],
+    "short": "The paired fins corresponding to an animal’s forelimbs.",
+    "note": "A fish’s pectoral fins are the pair anatomically corresponding to the front limbs of a four-footed animal.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pectoral%20fin",
+        "label": "Merriam-Webster: pectoral fin"
+      }
+    ],
+    "evidence": "story/p-043: with wide wings of polychrome gauze that were in fact their pectoral fins leaped from the freezing water to catch flying seeds that seemed to know and fear them, darting thi"
+  },
+  {
+    "id": "flyleaf",
+    "term": "flyleaf",
+    "aliases": [],
+    "short": "A free endpaper at the front or back of a book.",
+    "note": "A leaf forming part of a book’s endpapers but not pasted down to the inside of the cover.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/flyleaf",
+        "label": "Merriam-Webster: flyleaf"
+      }
+    ],
+    "evidence": "story/p-063: hat I had believed to be the back of the front board to the flyleaf. When I opened the book, the false back was thus pulled away, revealing a black endpaper upon which"
   }
 ]

@@ -106,13 +106,13 @@
     "id": "red-power-ranger",
     "term": "Red Power Ranger",
     "aliases": [],
-    "short": "The red-suited hero of the Power Rangers team.",
-    "note": "The original red-suited member of the television team in Mighty Morphin Power Rangers is Jason Lee Scott. Power Rangers combines martial-arts heroes with giant robotic vehicles.",
+    "short": "A red-suited superhero in the Power Rangers franchise.",
+    "note": "The Red Ranger is a red-suited member of the Power Rangers, a television franchise about teams of costumed superheroes. The original series was Mighty Morphin Power Rangers.",
     "possible": false,
     "sources": [
       {
-        "url": "https://consumercare.hasbro.com/en-nz/product/power-rangers-retro-morphin-red-ranger-jason-fliphead-action-figure-inspired-by-mighty-morphin-toy-kids-ages-4-and-up/D023F6AF-1221-45D7-9FDF-382065D10DF9EC1",
-        "label": "Hasbro: Mighty Morphin Red Ranger Jason"
+        "url": "https://consumercare.hasbro.com/en-us/product/power-rangers-lightning-collection-mighty-morphin-red-ranger-premium-collector-helmet-for-display-roleplay-cosplay/A53F1E48-E6EC-4514-A483-CC23EA47C9EA",
+        "label": "Hasbro · Mighty Morphin Power Rangers"
       }
     ],
     "occurrences": 2,
@@ -133,26 +133,10 @@
       {
         "url": "https://www.marvel.com/characters/spider-man-peter-parker/in-comics",
         "label": "Marvel: Spider-Man"
-      }
-    ],
-    "occurrences": 1,
-    "first": {
-      "chapter": "story",
-      "paragraph": "p-219",
-      "index": 0
-    }
-  },
-  {
-    "id": "luke-skywalker",
-    "term": "Luke Skywalker",
-    "aliases": [],
-    "short": "A central hero of the original Star Wars films.",
-    "note": "Luke Skywalker is the young hero who trains as a Jedi and joins the Rebel Alliance in the original Star Wars film trilogy.",
-    "possible": false,
-    "sources": [
+      },
       {
-        "url": "https://www.starwars.com/databank/luke-skywalker",
-        "label": "Star Wars Databank: Luke Skywalker"
+        "url": "https://en.wikipedia.org/wiki/Spider-Man",
+        "label": "Wikipedia · Spider-Man"
       }
     ],
     "occurrences": 1,
@@ -173,6 +157,10 @@
       {
         "url": "https://www.akc.org/dog-breeds/scottish-terrier/",
         "label": "American Kennel Club: Scottish Terrier"
+      },
+      {
+        "url": "https://images.akc.org/pdf/breeds/standards/ScottishTerrier.pdf",
+        "label": "American Kennel Club · Scottish Terrier breed standard"
       }
     ],
     "occurrences": 1,
@@ -193,6 +181,10 @@
       {
         "url": "https://www.akc.org/dog-breeds/west-highland-white-terrier/",
         "label": "American Kennel Club: West Highland White Terrier"
+      },
+      {
+        "url": "https://images.akc.org/pdf/breeds/standards/WestHighlandWhiteTerrier.pdf",
+        "label": "American Kennel Club · West Highland White Terrier breed standard"
       }
     ],
     "occurrences": 1,
@@ -219,6 +211,146 @@
     "first": {
       "chapter": "story",
       "paragraph": "p-233",
+      "index": 0
+    }
+  },
+  {
+    "id": "sash",
+    "term": "sash",
+    "aliases": [],
+    "short": "The frame holding a window’s panes.",
+    "note": "The glazed framework of a window, especially a movable section that slides up or down.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sash",
+        "label": "Merriam-Webster: sash"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-028",
+      "index": 0
+    }
+  },
+  {
+    "id": "ahab-whale-leg",
+    "term": "Bit off by a whale",
+    "aliases": [],
+    "short": "Possibly a reference to Captain Ahab’s lost leg.",
+    "note": "Possibly an allusion to Herman Melville’s Moby-Dick (1851). Captain Ahab loses a leg to the white whale and pursues it aboard the Pequod.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/2701/2701-h/2701-h.htm",
+        "label": "Herman Melville: Moby-Dick, chapters 36 and 41"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-094",
+      "index": 0
+    }
+  },
+  {
+    "id": "yo-ho-ho",
+    "term": "yo-ho-ho",
+    "aliases": [],
+    "short": "The pirate-song refrain in Treasure Island.",
+    "note": "Robert Louis Stevenson’s Treasure Island repeatedly uses this refrain in the song about fifteen men on a dead man’s chest, sung by the old seaman Billy Bones.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/120/120-h/120-h.htm",
+        "label": "Robert Louis Stevenson: Treasure Island, chapter 1"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-094",
+      "index": 0
+    }
+  },
+  {
+    "id": "antipersonnel",
+    "term": "antipersonnel",
+    "aliases": [],
+    "short": "Designed to injure people.",
+    "note": "A military term for weapons intended to cause human casualties rather than primarily destroy vehicles or equipment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/antipersonnel",
+        "label": "Dictionary.com: antipersonnel"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-164",
+      "index": 0
+    }
+  },
+  {
+    "id": "saurian",
+    "term": "saurian",
+    "aliases": [],
+    "short": "A lizard or lizardlike reptile.",
+    "note": "A term for reptiles of the lizard group, used more broadly in older classifications for crocodiles and extinct forms such as dinosaurs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/saurian",
+        "label": "Merriam-Webster: saurian"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-223",
+      "index": 0
+    }
+  },
+  {
+    "id": "sheetrock",
+    "term": "Sheetrock",
+    "aliases": [],
+    "short": "A brand of gypsum wallboard or drywall.",
+    "note": "USG’s trade name for manufactured gypsum-board panels used as a dry lining for interior walls and ceilings.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/sheetrock-gypsum-panels-regular-submittal-WB1473.pdf",
+        "label": "USG: Sheetrock Brand Gypsum Panels"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-227",
+      "index": 0
+    }
+  },
+  {
+    "id": "mules",
+    "term": "mules",
+    "aliases": [],
+    "short": "Backless shoes or slippers.",
+    "note": "Shoes without an enclosed heel or a strap behind the heel. The footwear name is distinct from mule meaning a horse–donkey hybrid.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mule",
+        "label": "Merriam-Webster: mule"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-230",
       "index": 0
     }
   }

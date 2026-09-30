@@ -293,17 +293,17 @@
     "id": "danny-kaye",
     "term": "Danny Kaye",
     "aliases": [],
-    "short": "American actor, singer, dancer, and comedian.",
-    "note": "Danny Kaye (1911–1987), born David Daniel Kaminsky, was an American entertainer known for physical comedy, rapid verbal routines, and musical performances.",
+    "short": "American entertainer and star of The Secret Life of Walter Mitty.",
+    "note": "Danny Kaye (1911–1987) was an American actor, singer, dancer, and comedian. In The Secret Life of Walter Mitty (1947), his daydreaming hero imagines himself an injured airman who has set his own broken bone.",
     "possible": false,
     "sources": [
       {
-        "url": "https://www.loc.gov/exhibits/danny-kaye-and-sylvia-fine/danny-kaye-onstage.html",
-        "label": "Library of Congress: Danny Kaye onstage"
+        "url": "https://catalog.afi.com/Film/25341-THE-SECRET-LIFE-OF-WALTER-MITTY",
+        "label": "American Film Institute: The Secret Life of Walter Mitty (1947)"
       },
       {
-        "url": "https://findingaids.loc.gov/repositories/15/resources/1303",
-        "label": "Library of Congress: Danny Kaye and Sylvia Fine collection"
+        "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=the-secret-life-of-walter-mitty-1947",
+        "label": "The Secret Life of Walter Mitty (1947): dialogue transcript"
       }
     ],
     "evidence": "e9781429982498_c14.html / story p-391: odded, savoring the moment. It’s nothing, sir. I set the bone myself. Danny Kaye in some old movie. He cleared his throat, careful to keep his face impassive. “I’m going to have to take this off, and my undershirt and pants, too. Probably my shorts. Maybe you "
@@ -572,21 +572,6 @@
     "evidence": "e9781429982498_c14.html / story p-768: sualizing Brook’s contorted, untenanted face. Brook would never go to Purdue now, never utilize his father’s contacts at NASA. Brook was dead, and all the dreams (so many dreams) had died with him. Was it Brook or the dreams he mourned?"
   },
   {
-    "id": "nasa",
-    "term": "NASA",
-    "aliases": [],
-    "short": "The U.S. National Aeronautics and Space Administration.",
-    "note": "The United States’ civilian agency for aeronautics research, space science, and space exploration.",
-    "possible": false,
-    "sources": [
-      {
-        "url": "https://www.nasa.gov/about/",
-        "label": "NASA: About"
-      }
-    ],
-    "evidence": "e9781429982498_c14.html / story p-768:  would never go to Purdue now, never utilize his father’s contacts at NASA. Brook was dead, and all the dreams (so many dreams) had died with him. Was it Brook or the dreams he mourned?"
-  },
-  {
     "id": "tamar",
     "term": "Tamar",
     "aliases": [],
@@ -762,5 +747,306 @@
       }
     ],
     "evidence": "e9781429982498_c14.html / story p-915:  reappear later or earlier at the same spot on Earth’s surface, as if Copernicus had never lived. In reality, Earth was moving in the solar system, the solar system in the galaxy, and the galaxy itself in the universe. One would have to travel through space as"
+  },
+  {
+    "id": "hemlock",
+    "term": "hemlocks",
+    "aliases": [
+      "hemlock"
+    ],
+    "short": "Evergreen coniferous trees of the genus Tsuga.",
+    "note": "Evergreen trees of the pine family, belonging to the genus Tsuga. They are distinct from the poisonous herbs also called hemlock.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hemlock",
+        "label": "Merriam-Webster: hemlock"
+      }
+    ],
+    "evidence": "story/p-053: es had changed; their limbs drooped like the boughs of hemlocks, springing up like snares when he touched them, and throwing snow in his face. No bird sa"
+  },
+  {
+    "id": "fieldstone",
+    "term": "fieldstone",
+    "aliases": [],
+    "short": "Naturally occurring surface stone used in building.",
+    "note": "Stone gathered from fields or the ground surface, rather than quarried, and used for construction.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/fieldstone",
+        "label": "Merriam-Webster: fieldstone"
+      }
+    ],
+    "evidence": "story/p-028: ick his fingers and fall asleep in front of the little fieldstone fireplace in his cabin."
+  },
+  {
+    "id": "swarthy",
+    "term": "swarthy",
+    "aliases": [],
+    "short": "Dark in complexion.",
+    "note": "Having a dark skin tone or complexion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/swarthy",
+        "label": "Merriam-Webster: swarthy"
+      }
+    ],
+    "evidence": "story/p-039: ’ father. Now he did. Al Sibberling had given them his swarthy good looks and flung them away. He, Emery Bainbridge, had picked them up like discarded d"
+  },
+  {
+    "id": "hove-into-view",
+    "term": "hove into view",
+    "aliases": [],
+    "short": "Came into sight.",
+    "note": "Hove is a past tense of heave; to heave into view is to approach and become visible.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/heave%20into%20view",
+        "label": "Merriam-Webster: heave into view"
+      }
+    ],
+    "evidence": "story/p-074: Jan’s big black Lincoln hove into view, roared down the gentle foothill slope on which his cabin stood, and skidded to a stop. D"
+  },
+  {
+    "id": "party-line",
+    "term": "party line",
+    "aliases": [],
+    "short": "A telephone circuit shared by multiple subscribers.",
+    "note": "A single telephone line connecting two or more subscribers to the exchange.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/party%20line",
+        "label": "Merriam-Webster: party line"
+      }
+    ],
+    "evidence": "story/p-152: ng in the background, as if there were crickets on the party line."
+  },
+  {
+    "id": "half-cock",
+    "term": "half-cock",
+    "aliases": [],
+    "short": "An intermediate, non-firing position of a gun’s hammer.",
+    "note": "A position in which a firearm’s hammer is held partway back by a mechanism intended to prevent it from firing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/half-cock",
+        "label": "Collins English Dictionary: half-cock"
+      }
+    ],
+    "evidence": "story/p-239: “That rifle doesn’t have one, just the half-cock.”"
+  },
+  {
+    "id": "scattergun",
+    "term": "scattergun",
+    "aliases": [],
+    "short": "A shotgun.",
+    "note": "An informal name for a shotgun.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/scattergun",
+        "label": "Merriam-Webster: scattergun"
+      }
+    ],
+    "evidence": "story/p-529: ok decided. “Pumps or semis. You want the rifle or the scattergun, Dad?”"
+  },
+  {
+    "id": "locust-wood",
+    "term": "locust",
+    "aliases": [],
+    "short": "The wood of a locust tree.",
+    "note": "Locust is a name for several trees in the legume family and for their wood. Black locust heartwood is especially durable and is traditionally used for fence posts.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/locust",
+        "label": "Merriam-Webster: locust"
+      },
+      {
+        "url": "https://research.fs.usda.gov/treesearch/42884",
+        "label": "U.S. Forest Service: Fence Posts for Southern Farms"
+      }
+    ],
+    "evidence": "story/p-599: is gloved hands found the wire, then the almost-buried locust post, which he used to pull himself up, breaching the snow like some fantastic, red-plaid"
+  },
+  {
+    "id": "cyanide-gun",
+    "term": "Cyanide gun",
+    "aliases": [],
+    "short": "A bait-triggered poison ejector used against predators.",
+    "note": "A predator-control device that ejects sodium cyanide when an animal pulls at its bait. Devices of this kind have been used against coyotes and other canids.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.epa.gov/newsreleases/statement-epa-administrator-wheeler-m-44-predator-control-devices",
+        "label": "U.S. EPA: M-44 predator-control devices"
+      },
+      {
+        "url": "https://www.aphis.usda.gov/sites/default/files/ok-2017-predator-ea.pdf#page=182",
+        "label": "USDA APHIS: Oklahoma predator management assessment, Appendix B"
+      }
+    ],
+    "evidence": "story/p-602: e got back behind the wheel and put the jeep in gear. “Cyanide gun.”"
+  },
+  {
+    "id": "mesquite",
+    "term": "mesquite",
+    "aliases": [],
+    "short": "A thorny tree or shrub of dry American regions.",
+    "note": "A spiny tree or shrub of the legume family, common in the southwestern United States and producing pods eaten by livestock.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mesquite",
+        "label": "Merriam-Webster: mesquite"
+      }
+    ],
+    "evidence": "story/p-632: “Well, this jay was up on a mesquite, with a jackrabbit sleeping in the shade. The jay spotted a coyote stalking the jackrabbi"
+  },
+  {
+    "id": "bier",
+    "term": "bier",
+    "aliases": [],
+    "short": "A stand for a dead body or coffin.",
+    "note": "A framework or stand on which a corpse or coffin rests before burial.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bier",
+        "label": "Merriam-Webster: bier"
+      }
+    ],
+    "evidence": "story/p-664: where firewood had been that autumn, contrived a rough bier from half a dozen sticks. Satisfied with the effect, he built a larger bier of the same k"
+  },
+  {
+    "id": "hasp",
+    "term": "hasp",
+    "aliases": [],
+    "short": "A hinged fastening secured with a pin or padlock.",
+    "note": "A door or lid fastener, usually a hinged metal strap whose slot fits over a loop that can take a padlock.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hasp",
+        "label": "Merriam-Webster: hasp"
+      }
+    ],
+    "evidence": "story/p-722: ack. Drifted snow had risen nearly to the level of the hasp and padlock that secured the door. Positioning his feet as firmly as he could in snowshoe"
+  },
+  {
+    "id": "carbine",
+    "term": "carbine",
+    "aliases": [],
+    "short": "A short-barreled, lightweight rifle.",
+    "note": "A rifle with a comparatively short barrel and low weight.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carbine",
+        "label": "Merriam-Webster: carbine"
+      }
+    ],
+    "evidence": "story/p-727: shotgun, a sixteen-gauge pump, and a sleek scoped Sako carbine; there were shot shells of both sizes and three boxes of cartridges for the carbine in on"
+  },
+  {
+    "id": "canted",
+    "term": "canted",
+    "aliases": [],
+    "short": "Tilted or sloping to one side.",
+    "note": "Set at an angle, or leaning away from an upright or level position.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cant",
+        "label": "Merriam-Webster: cant"
+      }
+    ],
+    "evidence": "story/p-730: of pine on the lakeshore, he had as good a view of the canted structure that Aileen had called a ziggurat as the gray daylight and blowing snow permitt"
+  },
+  {
+    "id": "dogged-shut",
+    "term": "dogged shut",
+    "aliases": [],
+    "short": "Secured with a mechanical catch.",
+    "note": "To dog a hatch or door is to fasten it with a dog: a catch or clamp that holds it in place.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dog",
+        "label": "Merriam-Webster: dog"
+      }
+    ],
+    "evidence": "story/p-736: er edge was no more than an inch above the ice. It was dogged shut with a simple latch large enough that he manipulated it easily with his gloved left hand."
+  },
+  {
+    "id": "airlock",
+    "term": "airlock",
+    "aliases": [],
+    "short": "A chamber with two airtight doors.",
+    "note": "An intermediate chamber allowing passage between spaces with different air pressures or conditions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/air%20lock",
+        "label": "Merriam-Webster: air lock"
+      }
+    ],
+    "evidence": "story/p-739: g in the hatchway of what he decided must surely be an airlock, he unlaced his boots and tugged them off, crude snowshoes and all, then tied his bootlac"
+  },
+  {
+    "id": "parabola",
+    "term": "parabolas",
+    "aliases": [
+      "parabola"
+    ],
+    "short": "Symmetrical, open curves with a bowl-like shape.",
+    "note": "A parabola is the curve whose points are equally distant from a fixed point, called the focus, and a fixed straight line.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/parabola",
+        "label": "Merriam-Webster: parabola"
+      }
+    ],
+    "evidence": "story/p-748: ing smooth jaws whose curving inner surfaces suggested parabolas; the smaller object snapped open, revealing a convoluted diagram too large to have been c"
+  },
+  {
+    "id": "wichita-lineman",
+    "term": "wires down south",
+    "aliases": [],
+    "short": "A reference to Jimmy Webb’s song “Wichita Lineman.”",
+    "note": "“Wichita Lineman,” written by Jimmy Webb and famously recorded by Glen Campbell, includes a lineman’s concern that snow will overload a southern stretch of wires.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.jimmywebb.com/lyrics",
+        "label": "Jimmy Webb: official lyrics, Wichita Lineman"
+      },
+      {
+        "url": "https://www.glencampbell.com/about/",
+        "label": "Glen Campbell: official biography"
+      }
+    ],
+    "evidence": "story/p-777: How did the old song go? Something about wires down south that wouldn’t stand the strain if it snowed. These wires, his wires, the ones that the co"
+  },
+  {
+    "id": "conflagration",
+    "term": "conflagration",
+    "aliases": [],
+    "short": "An intense blaze.",
+    "note": "A fire, especially a large or destructive one.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/conflagration",
+        "label": "Merriam-Webster: conflagration"
+      }
+    ],
+    "evidence": "story/p-794: The tiny tongue of yellow flame grew to a conflagration in a second or two. There was a metallic clank before something black crashed down into t"
   }
 ]

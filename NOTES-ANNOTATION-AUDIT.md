@@ -177,3 +177,28 @@ correction marker and paragraph address; it does not bridge arbitrary emphasis,
 links, original notes or initials, and does not split a repair. Five regression
 cases cover insertions, deletions, protected spans, partial repairs and repeated
 matches. Full validation and strict 57-file text/repair comparisons passed.
+
+## Strange Travelers arrivals
+
+The thirteen newly imported stories were reviewed in full paragraph order, with
+external vocabulary and reference candidates checked against independent sources.
+This pass adds 102 notes across twelve stories; *One-Two-Three for Me* deliberately
+receives none, because its remaining unusual language is invented or explained by
+the narrative. Nineteen existing entries receive contextual wording or source
+improvements. Three low-value notes are removed sparingly: the generic NASA
+acronym, Luke Skywalker in a passing toy list, and Pan where adjacent prose already
+explains the deity. Familiar references that identify a specific work remain.
+
+Useful additions include the piano mechanism sense of “action,” the real truck
+Varashield, the song behind the “Wichita Lineman” paraphrase, the nautical tender,
+and the Homeric passage behind Ruskin’s “courage of a fly.” Tentative folkloric
+connections remain explicitly “Possibly.” The Milton quotation variation is
+noted without changing the story or guessing who introduced it.
+
+The 96,580 words, stable paragraph addresses, and reversible transcription repairs
+are exactly preserved against `5d8eb4f`. Optional source material is unchanged.
+The targeted rebuild is idempotent, all 20 unit tests pass, and the full reader
+validator passes. `data/annotation-audit-strange-travelers.json` records every
+story’s outcome and first location, including the no-addition story. The 102
+new entries cite 110 distinct source URLs. This systematic review does not claim
+to exhaust every possible literary allusion.

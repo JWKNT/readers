@@ -158,5 +158,65 @@
       "paragraph": "p-065",
       "index": 0
     }
+  },
+  {
+    "id": "polychrome",
+    "term": "polychrome",
+    "aliases": [],
+    "short": "Having or displaying several colors.",
+    "note": "Made, painted, or decorated in more than one color; multicolored.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/polychrome",
+        "label": "Merriam-Webster: polychrome"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-043",
+      "index": 0
+    }
+  },
+  {
+    "id": "pectoral-fins",
+    "term": "pectoral fins",
+    "aliases": [],
+    "short": "The paired fins corresponding to an animal’s forelimbs.",
+    "note": "A fish’s pectoral fins are the pair anatomically corresponding to the front limbs of a four-footed animal.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pectoral%20fin",
+        "label": "Merriam-Webster: pectoral fin"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-043",
+      "index": 0
+    }
+  },
+  {
+    "id": "flyleaf",
+    "term": "flyleaf",
+    "aliases": [],
+    "short": "A free endpaper at the front or back of a book.",
+    "note": "A leaf forming part of a book’s endpapers but not pasted down to the inside of the cover.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/flyleaf",
+        "label": "Merriam-Webster: flyleaf"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-063",
+      "index": 0
+    }
   }
 ]

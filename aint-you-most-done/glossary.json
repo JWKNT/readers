@@ -415,5 +415,191 @@
       "paragraph": "p-310",
       "index": 0
     }
+  },
+  {
+    "id": "clipper",
+    "term": "clipper",
+    "aliases": [],
+    "short": "A sailing ship built for speed.",
+    "note": "A fast sailing ship, especially the slender, heavily canvassed merchant ships of the nineteenth century.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/clipper",
+        "label": "Dictionary.com: clipper"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-006",
+      "index": 0
+    }
+  },
+  {
+    "id": "oscilloscope",
+    "term": "oscilloscope",
+    "aliases": [],
+    "short": "An instrument that displays changing electrical signals.",
+    "note": "An electronic instrument that graphs a signal’s changing amplitude against time, making rapid variations visible on a screen.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/oscilloscope",
+        "label": "Dictionary.com: oscilloscope"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-021",
+      "index": 0
+    }
+  },
+  {
+    "id": "lyre",
+    "term": "lyre",
+    "aliases": [],
+    "short": "A plucked instrument with strings stretched from a crossbar.",
+    "note": "A stringed instrument with two arms supporting a crossbar above a soundbox. Ancient Greek lyres accompanied songs and recitations.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/lyre",
+        "label": "Dictionary.com: lyre"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-178",
+      "index": 0
+    }
+  },
+  {
+    "id": "mandolin",
+    "term": "mandolin",
+    "aliases": [],
+    "short": "A small plucked instrument of the lute family.",
+    "note": "A fretted stringed instrument usually having four pairs of strings tuned in fifths and played with a pick.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/mandolin",
+        "label": "Dictionary.com: mandolin"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-196",
+      "index": 0
+    }
+  },
+  {
+    "id": "harmonics",
+    "term": "harmonics",
+    "aliases": [],
+    "short": "Tones at whole-number multiples of a fundamental frequency.",
+    "note": "A harmonic has a frequency that is a whole-number multiple of a fundamental tone. The higher harmonics are overtones that contribute to a musical sound’s character.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/harmonic",
+        "label": "Dictionary.com: harmonic"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-197",
+      "index": 0
+    }
+  },
+  {
+    "id": "pedal-harp",
+    "term": "pedal harp",
+    "aliases": [],
+    "short": "A harp whose pedals alter the strings’ pitches.",
+    "note": "The modern concert harp normally has forty-seven strings and seven foot pedals. Each pedal alters the pitch of all strings belonging to one note-name.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://philharmonia.co.uk/resources/instruments/harp/",
+        "label": "Philharmonia Orchestra: Harp"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-196",
+      "index": 0
+    }
+  },
+  {
+    "id": "one-dime-blues",
+    "term": "I’m broke and I ain’t got a dime",
+    "aliases": [
+      "Mama don’t treat your daughter mean"
+    ],
+    "short": "A verse from the One Dime Blues tradition.",
+    "note": "These floating blues verses occur in the tradition of One Dime Blues, recorded by Blind Lemon Jefferson in 1927 and subsequently adapted by other singers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://folkways-media.si.edu/docs/folkways/artwork/SFW40105.pdf",
+        "label": "Smithsonian Folkways: Lead Belly, Shout On liner notes"
+      },
+      {
+        "url": "https://folkways-media.si.edu/docs/folkways/artwork/BRI00003.pdf",
+        "label": "Smithsonian Folkways: Virginia Traditions, Karo Street Blues liner notes"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-102",
+      "index": 0
+    }
+  },
+  {
+    "id": "extemporizing",
+    "term": "extemporizing",
+    "aliases": [],
+    "short": "Improvising without advance preparation.",
+    "note": "To compose or perform spontaneously rather than follow something fully prepared beforehand.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/extemporize",
+        "label": "Dictionary.com: extemporize"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-290",
+      "index": 0
+    }
+  },
+  {
+    "id": "fuselage",
+    "term": "fuselage",
+    "aliases": [],
+    "short": "The main body of an aircraft.",
+    "note": "The central body of an aircraft, containing such spaces as the cockpit, passenger compartment, and cargo hold.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/fuselage",
+        "label": "Dictionary.com: fuselage"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-163",
+      "index": 0
+    }
   }
 ]

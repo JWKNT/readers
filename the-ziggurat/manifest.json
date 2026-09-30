@@ -12,7 +12,7 @@
   ],
   "totalWords": 27229,
   "defaultChapter": "story",
-  "glossaryCount": 48,
+  "glossaryCount": 66,
   "correctionCount": 0,
   "editionVersion": 17,
   "chapters": [
@@ -990,12 +990,28 @@
           "paragraph": "p-024"
         },
         {
+          "term": "fieldstone",
+          "paragraph": "p-028"
+        },
+        {
           "term": "yogi-bear",
           "paragraph": "p-030"
         },
         {
+          "term": "swarthy",
+          "paragraph": "p-039"
+        },
+        {
+          "term": "hemlock",
+          "paragraph": "p-053"
+        },
+        {
           "term": "bronco",
           "paragraph": "p-073"
+        },
+        {
+          "term": "hove-into-view",
+          "paragraph": "p-074"
         },
         {
           "term": "pillbox",
@@ -1012,6 +1028,14 @@
         {
           "term": "culver",
           "paragraph": "p-097"
+        },
+        {
+          "term": "party-line",
+          "paragraph": "p-152"
+        },
+        {
+          "term": "half-cock",
+          "paragraph": "p-239"
         },
         {
           "term": "querulous",
@@ -1050,16 +1074,36 @@
           "paragraph": "p-519"
         },
         {
+          "term": "scattergun",
+          "paragraph": "p-529"
+        },
+        {
           "term": "brownies",
           "paragraph": "p-586"
+        },
+        {
+          "term": "locust-wood",
+          "paragraph": "p-599"
+        },
+        {
+          "term": "cyanide-gun",
+          "paragraph": "p-602"
         },
         {
           "term": "taxidermy",
           "paragraph": "p-606"
         },
         {
+          "term": "mesquite",
+          "paragraph": "p-632"
+        },
+        {
           "term": "duofold",
           "paragraph": "p-654"
+        },
+        {
+          "term": "bier",
+          "paragraph": "p-664"
         },
         {
           "term": "whan-that-aprille",
@@ -1070,12 +1114,36 @@
           "paragraph": "p-702"
         },
         {
+          "term": "hasp",
+          "paragraph": "p-722"
+        },
+        {
           "term": "sako",
           "paragraph": "p-727"
         },
         {
+          "term": "carbine",
+          "paragraph": "p-727"
+        },
+        {
+          "term": "canted",
+          "paragraph": "p-730"
+        },
+        {
+          "term": "dogged-shut",
+          "paragraph": "p-736"
+        },
+        {
+          "term": "airlock",
+          "paragraph": "p-739"
+        },
+        {
           "term": "fey",
           "paragraph": "p-745"
+        },
+        {
+          "term": "parabola",
+          "paragraph": "p-748"
         },
         {
           "term": "radiation",
@@ -1102,8 +1170,12 @@
           "paragraph": "p-768"
         },
         {
-          "term": "nasa",
-          "paragraph": "p-768"
+          "term": "wichita-lineman",
+          "paragraph": "p-777"
+        },
+        {
+          "term": "conflagration",
+          "paragraph": "p-794"
         },
         {
           "term": "tamar",

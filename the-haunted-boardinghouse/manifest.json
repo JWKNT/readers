@@ -12,7 +12,7 @@
   ],
   "totalWords": 9319,
   "defaultChapter": "story",
-  "glossaryCount": 51,
+  "glossaryCount": 71,
   "correctionCount": 0,
   "editionVersion": 17,
   "chapters": [
@@ -353,6 +353,10 @@
       "headingHtml": "The Haunted Boardinghouse",
       "noteAnchors": [
         {
+          "term": "largess",
+          "paragraph": "p-001"
+        },
+        {
           "term": "calpurnius-siculus",
           "paragraph": "p-003"
         },
@@ -381,20 +385,56 @@
           "paragraph": "p-007"
         },
         {
+          "term": "matriculate",
+          "paragraph": "p-009"
+        },
+        {
           "term": "ab-imo-pectore",
           "paragraph": "p-016"
+        },
+        {
+          "term": "stoker",
+          "paragraph": "p-017"
+        },
+        {
+          "term": "habited",
+          "paragraph": "p-025"
         },
         {
           "term": "usus-magister-est",
           "paragraph": "p-026"
         },
         {
+          "term": "tussocks",
+          "paragraph": "p-050"
+        },
+        {
           "term": "philostratus",
           "paragraph": "p-050"
         },
         {
+          "term": "ewer",
+          "paragraph": "p-060"
+        },
+        {
           "term": "nobis-cum-semel-occidit-brevis-lux",
           "paragraph": "p-060"
+        },
+        {
+          "term": "sloop-of-war",
+          "paragraph": "p-065"
+        },
+        {
+          "term": "corsair",
+          "paragraph": "p-068"
+        },
+        {
+          "term": "garret",
+          "paragraph": "p-071"
+        },
+        {
+          "term": "sash",
+          "paragraph": "p-071"
         },
         {
           "term": "prescott",
@@ -433,6 +473,10 @@
           "paragraph": "p-130"
         },
         {
+          "term": "euphemism",
+          "paragraph": "p-155"
+        },
+        {
           "term": "eumenides",
           "paragraph": "p-159"
         },
@@ -451,6 +495,10 @@
         {
           "term": "pax-in-bello",
           "paragraph": "p-190"
+        },
+        {
+          "term": "stanch",
+          "paragraph": "p-191"
         },
         {
           "term": "the-book-of-a-naturalist",
@@ -475,6 +523,18 @@
         {
           "term": "nos-exaequat-victoria-caelo",
           "paragraph": "p-198"
+        },
+        {
+          "term": "neoclassical",
+          "paragraph": "p-225"
+        },
+        {
+          "term": "tudor",
+          "paragraph": "p-238"
+        },
+        {
+          "term": "neo-victorian",
+          "paragraph": "p-242"
         },
         {
           "term": "nullum-est-librum-tam-malum",
@@ -505,6 +565,14 @@
           "paragraph": "p-285"
         },
         {
+          "term": "calf-binding",
+          "paragraph": "p-285"
+        },
+        {
+          "term": "importunities",
+          "paragraph": "p-286"
+        },
+        {
           "term": "notitia-linguarum-est-prima-porta-sapientiae",
           "paragraph": "p-287"
         },
@@ -514,6 +582,10 @@
         },
         {
           "term": "queen-of-the-air",
+          "paragraph": "p-290"
+        },
+        {
+          "term": "fair-copy",
           "paragraph": "p-290"
         },
         {
@@ -529,8 +601,16 @@
           "paragraph": "p-291"
         },
         {
+          "term": "courage-of-a-fly",
+          "paragraph": "p-291"
+        },
+        {
           "term": "croesus",
           "paragraph": "p-300"
+        },
+        {
+          "term": "darkling",
+          "paragraph": "p-313"
         },
         {
           "term": "cannae",

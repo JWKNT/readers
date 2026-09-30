@@ -1,0 +1,1975 @@
+{
+  "date": "2026-09-30",
+  "baseline": "5d8eb4f8c2755522b583ff5cdcfb4e1898528760",
+  "scope": "Thirteen Strange Travelers stories",
+  "method": "Complete narrative paragraph screening and targeted source verification; original notes reviewed in context. This is an annotation audit, not a claim that every possible literary allusion is exhausted. Optional source material excluded.",
+  "summary": {
+    "readers": 13,
+    "added": 102,
+    "existing_notes_updated": 19,
+    "removed_low_value": 3,
+    "distinct_new_source_urls": 110,
+    "words": 96580
+  },
+  "preservation": "Exact visible text, paragraph metadata, words and all reversible correction nodes preserved; reference sections unchanged.",
+  "readers": [
+    {
+      "reader": "to-the-seventh",
+      "before": 12,
+      "added": 2,
+      "updated": [],
+      "removed": [],
+      "after": 14,
+      "sections": [
+        {
+          "id": "story",
+          "kind": "chapter",
+          "words": 6448,
+          "added_notes": [
+            "tender",
+            "attenuated"
+          ]
+        }
+      ],
+      "new_notes": [
+        {
+          "id": "tender",
+          "term": "tender",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-079",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/tender",
+              "label": "Merriam-Webster: tender"
+            }
+          ]
+        },
+        {
+          "id": "attenuated",
+          "term": "attenuated",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-253",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/attenuate",
+              "label": "Merriam-Webster: attenuate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "useful-phrases",
+      "before": 8,
+      "added": 3,
+      "updated": [],
+      "removed": [],
+      "after": 11,
+      "sections": [
+        {
+          "id": "story",
+          "kind": "chapter",
+          "words": 2749,
+          "added_notes": [
+            "polychrome",
+            "pectoral-fins",
+            "flyleaf"
+          ]
+        }
+      ],
+      "new_notes": [
+        {
+          "id": "polychrome",
+          "term": "polychrome",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-043",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/polychrome",
+              "label": "Merriam-Webster: polychrome"
+            }
+          ]
+        },
+        {
+          "id": "pectoral-fins",
+          "term": "pectoral fins",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-043",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/pectoral%20fin",
+              "label": "Merriam-Webster: pectoral fin"
+            }
+          ]
+        },
+        {
+          "id": "flyleaf",
+          "term": "flyleaf",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-063",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/flyleaf",
+              "label": "Merriam-Webster: flyleaf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "aint-you-most-done",
+      "before": 20,
+      "added": 9,
+      "updated": [],
+      "removed": [],
+      "after": 29,
+      "sections": [
+        {
+          "id": "story",
+          "kind": "chapter",
+          "words": 8668,
+          "added_notes": [
+            "clipper",
+            "oscilloscope",
+            "lyre",
+            "mandolin",
+            "harmonics",
+            "pedal-harp",
+            "one-dime-blues",
+            "extemporizing",
+            "fuselage"
+          ]
+        }
+      ],
+      "new_notes": [
+        {
+          "id": "clipper",
+          "term": "clipper",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-006",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/clipper",
+              "label": "Dictionary.com: clipper"
+            }
+          ]
+        },
+        {
+          "id": "oscilloscope",
+          "term": "oscilloscope",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-021",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/oscilloscope",
+              "label": "Dictionary.com: oscilloscope"
+            }
+          ]
+        },
+        {
+          "id": "lyre",
+          "term": "lyre",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-178",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/lyre",
+              "label": "Dictionary.com: lyre"
+            }
+          ]
+        },
+        {
+          "id": "mandolin",
+          "term": "mandolin",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-196",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/mandolin",
+              "label": "Dictionary.com: mandolin"
+            }
+          ]
+        },
+        {
+          "id": "harmonics",
+          "term": "harmonics",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-197",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/harmonic",
+              "label": "Dictionary.com: harmonic"
+            }
+          ]
+        },
+        {
+          "id": "pedal-harp",
+          "term": "pedal harp",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-196",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://philharmonia.co.uk/resources/instruments/harp/",
+              "label": "Philharmonia Orchestra: Harp"
+            }
+          ]
+        },
+        {
+          "id": "one-dime-blues",
+          "term": "I’m broke and I ain’t got a dime",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-102",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://folkways-media.si.edu/docs/folkways/artwork/SFW40105.pdf",
+              "label": "Smithsonian Folkways: Lead Belly, Shout On liner notes"
+            },
+            {
+              "url": "https://folkways-media.si.edu/docs/folkways/artwork/BRI00003.pdf",
+              "label": "Smithsonian Folkways: Virginia Traditions, Karo Street Blues liner notes"
+            }
+          ]
+        },
+        {
+          "id": "extemporizing",
+          "term": "extemporizing",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-290",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/extemporize",
+              "label": "Dictionary.com: extemporize"
+            }
+          ]
+        },
+        {
+          "id": "fuselage",
+          "term": "fuselage",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-163",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/fuselage",
+              "label": "Dictionary.com: fuselage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "bluesberry-jam",
+      "before": 7,
+      "added": 4,
+      "updated": [],
+      "removed": [],
+      "after": 11,
+      "sections": [
+        {
+          "id": "story",
+          "kind": "chapter",
+          "words": 8601,
+          "added_notes": [
+            "scooch",
+            "leaf-springs",
+            "raveled",
+            "varashield"
+          ]
+        }
+      ],
+      "new_notes": [
+        {
+          "id": "scooch",
+          "term": "scooch",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-002",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/scooch",
+              "label": "Dictionary.com: scooch"
+            }
+          ]
+        },
+        {
+          "id": "leaf-springs",
+          "term": "leaf springs",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-132",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/leaf-spring",
+              "label": "Dictionary.com: leaf-spring"
+            }
+          ]
+        },
+        {
+          "id": "raveled",
+          "term": "raveled",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-341",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/ravel",
+              "label": "Dictionary.com: ravel"
+            }
+          ]
+        },
+        {
+          "id": "varashield",
+          "term": "varashield",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-331",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://cdn.cranemarket.com/specifications/peterbilt-trucks-spec-2d2ab1.pdf",
+              "label": "Peterbilt operator’s manual: Varashield, pp. 39–40"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "counting-cats-in-zanzibar",
+      "before": 20,
+      "added": 2,
+      "updated": [
+        "promethean-fire"
+      ],
+      "removed": [],
+      "after": 22,
+      "sections": [
+        {
+          "id": "story",
+          "kind": "chapter",
+          "words": 6086,
+          "added_notes": [
+            "polyglot",
+            "kamarku"
+          ]
+        }
+      ],
+      "new_notes": [
+        {
+          "id": "polyglot",
+          "term": "polyglot",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-041",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/polyglot",
+              "label": "Dictionary.com: polyglot"
+            }
+          ]
+        },
+        {
+          "id": "kamarku",
+          "term": "kamarku",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-179",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.sabrizain.org/malaya/library/malaymanual.pdf",
+              "label": "A Malay Manual: vocabulary and possessive pronouns"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "flash-company",
+      "before": 12,
+      "added": 8,
+      "updated": [],
+      "removed": [
+        "pan"
+      ],
+      "after": 19,
+      "sections": [
+        {
+          "id": "story",
+          "kind": "chapter",
+          "words": 3532,
+          "added_notes": [
+            "bawdy-house",
+            "piano-action",
+            "rowing-shell",
+            "reel",
+            "mushmelon",
+            "sawmill-gravy",
+            "soundboard",
+            "grits"
+          ]
+        }
+      ],
+      "new_notes": [
+        {
+          "id": "bawdy-house",
+          "term": "bawdy-house",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-001",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/bawdyhouse",
+              "label": "Dictionary.com: bawdyhouse"
+            }
+          ]
+        },
+        {
+          "id": "piano-action",
+          "term": "action",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-022",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://hub.yamaha.com/pianos/p-acoustic/how-does-a-piano-work/",
+              "label": "Yamaha: How Does a Piano Work?"
+            }
+          ]
+        },
+        {
+          "id": "rowing-shell",
+          "term": "shell",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-032",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/shell",
+              "label": "Dictionary.com: shell"
+            }
+          ]
+        },
+        {
+          "id": "reel",
+          "term": "reel",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-025",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/reel",
+              "label": "Dictionary.com: reel"
+            }
+          ]
+        },
+        {
+          "id": "mushmelon",
+          "term": "Mushmelon",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-039",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/mushmelon",
+              "label": "Dictionary.com: mushmelon"
+            },
+            {
+              "url": "https://www.dictionary.com/browse/muskmelon",
+              "label": "Dictionary.com: muskmelon"
+            }
+          ]
+        },
+        {
+          "id": "sawmill-gravy",
+          "term": "sawmill gravy",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-039",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.bettycrocker.com/recipes/country-gravy/d5294752-1c56-40a7-aca2-1c87d41f393f",
+              "label": "Betty Crocker: Country Gravy"
+            }
+          ]
+        },
+        {
+          "id": "soundboard",
+          "term": "soundboard",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-099",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://hub.yamaha.com/pianos/p-acoustic/how-does-a-piano-work/",
+              "label": "Yamaha: How Does a Piano Work?"
+            }
+          ]
+        },
+        {
+          "id": "grits",
+          "term": "grits",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-039",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/grits",
+              "label": "Dictionary.com: grits"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "one-two-three-for-me",
+      "before": 1,
+      "added": 0,
+      "updated": [],
+      "removed": [],
+      "after": 1,
+      "sections": [
+        {
+          "id": "story",
+          "kind": "chapter",
+          "words": 2456,
+          "added_notes": []
+        }
+      ],
+      "new_notes": []
+    },
+    {
+      "reader": "the-ziggurat",
+      "before": 48,
+      "added": 19,
+      "updated": [
+        "danny-kaye"
+      ],
+      "removed": [
+        "nasa"
+      ],
+      "after": 66,
+      "sections": [
+        {
+          "id": "story",
+          "kind": "chapter",
+          "words": 27229,
+          "added_notes": [
+            "hemlock",
+            "fieldstone",
+            "swarthy",
+            "hove-into-view",
+            "party-line",
+            "half-cock",
+            "scattergun",
+            "locust-wood",
+            "cyanide-gun",
+            "mesquite",
+            "bier",
+            "hasp",
+            "carbine",
+            "canted",
+            "dogged-shut",
+            "airlock",
+            "parabola",
+            "wichita-lineman",
+            "conflagration"
+          ]
+        }
+      ],
+      "new_notes": [
+        {
+          "id": "hemlock",
+          "term": "hemlocks",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-053",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/hemlock",
+              "label": "Merriam-Webster: hemlock"
+            }
+          ]
+        },
+        {
+          "id": "fieldstone",
+          "term": "fieldstone",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-028",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/fieldstone",
+              "label": "Merriam-Webster: fieldstone"
+            }
+          ]
+        },
+        {
+          "id": "swarthy",
+          "term": "swarthy",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-039",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/swarthy",
+              "label": "Merriam-Webster: swarthy"
+            }
+          ]
+        },
+        {
+          "id": "hove-into-view",
+          "term": "hove into view",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-074",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/heave%20into%20view",
+              "label": "Merriam-Webster: heave into view"
+            }
+          ]
+        },
+        {
+          "id": "party-line",
+          "term": "party line",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-152",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/party%20line",
+              "label": "Merriam-Webster: party line"
+            }
+          ]
+        },
+        {
+          "id": "half-cock",
+          "term": "half-cock",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-239",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.collinsdictionary.com/dictionary/english/half-cock",
+              "label": "Collins English Dictionary: half-cock"
+            }
+          ]
+        },
+        {
+          "id": "scattergun",
+          "term": "scattergun",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-529",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/scattergun",
+              "label": "Merriam-Webster: scattergun"
+            }
+          ]
+        },
+        {
+          "id": "locust-wood",
+          "term": "locust",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-599",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/locust",
+              "label": "Merriam-Webster: locust"
+            },
+            {
+              "url": "https://research.fs.usda.gov/treesearch/42884",
+              "label": "U.S. Forest Service: Fence Posts for Southern Farms"
+            }
+          ]
+        },
+        {
+          "id": "cyanide-gun",
+          "term": "Cyanide gun",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-602",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.epa.gov/newsreleases/statement-epa-administrator-wheeler-m-44-predator-control-devices",
+              "label": "U.S. EPA: M-44 predator-control devices"
+            },
+            {
+              "url": "https://www.aphis.usda.gov/sites/default/files/ok-2017-predator-ea.pdf#page=182",
+              "label": "USDA APHIS: Oklahoma predator management assessment, Appendix B"
+            }
+          ]
+        },
+        {
+          "id": "mesquite",
+          "term": "mesquite",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-632",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/mesquite",
+              "label": "Merriam-Webster: mesquite"
+            }
+          ]
+        },
+        {
+          "id": "bier",
+          "term": "bier",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-664",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/bier",
+              "label": "Merriam-Webster: bier"
+            }
+          ]
+        },
+        {
+          "id": "hasp",
+          "term": "hasp",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-722",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/hasp",
+              "label": "Merriam-Webster: hasp"
+            }
+          ]
+        },
+        {
+          "id": "carbine",
+          "term": "carbine",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-727",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/carbine",
+              "label": "Merriam-Webster: carbine"
+            }
+          ]
+        },
+        {
+          "id": "canted",
+          "term": "canted",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-730",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/cant",
+              "label": "Merriam-Webster: cant"
+            }
+          ]
+        },
+        {
+          "id": "dogged-shut",
+          "term": "dogged shut",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-736",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/dog",
+              "label": "Merriam-Webster: dog"
+            }
+          ]
+        },
+        {
+          "id": "airlock",
+          "term": "airlock",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-739",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/air%20lock",
+              "label": "Merriam-Webster: air lock"
+            }
+          ]
+        },
+        {
+          "id": "parabola",
+          "term": "parabolas",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-748",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/parabola",
+              "label": "Merriam-Webster: parabola"
+            }
+          ]
+        },
+        {
+          "id": "wichita-lineman",
+          "term": "wires down south",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-777",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.jimmywebb.com/lyrics",
+              "label": "Jimmy Webb: official lyrics, Wichita Lineman"
+            },
+            {
+              "url": "https://www.glencampbell.com/about/",
+              "label": "Glen Campbell: official biography"
+            }
+          ]
+        },
+        {
+          "id": "conflagration",
+          "term": "conflagration",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-794",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/conflagration",
+              "label": "Merriam-Webster: conflagration"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "the-death-of-koshchei-the-deathless",
+      "before": 42,
+      "added": 13,
+      "updated": [
+        "baba-yaga",
+        "truth-well",
+        "ryabchik"
+      ],
+      "removed": [],
+      "after": 55,
+      "sections": [
+        {
+          "id": "story",
+          "kind": "chapter",
+          "words": 6092,
+          "added_notes": [
+            "men-at-arms",
+            "charger",
+            "saddlebow",
+            "blue-funk",
+            "mettlesome",
+            "hawking",
+            "master-of-horse",
+            "vendava",
+            "mace",
+            "pomerania",
+            "serfs",
+            "tack",
+            "vassal"
+          ]
+        },
+        {
+          "id": "author-note",
+          "kind": "reference",
+          "words": 25,
+          "added_notes": []
+        }
+      ],
+      "new_notes": [
+        {
+          "id": "men-at-arms",
+          "term": "men-at-arms",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-008",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/man-at-arms",
+              "label": "Merriam-Webster: man-at-arms"
+            }
+          ]
+        },
+        {
+          "id": "charger",
+          "term": "charger",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-009",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/charger",
+              "label": "Merriam-Webster: charger"
+            }
+          ]
+        },
+        {
+          "id": "saddlebow",
+          "term": "saddlebow",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-012",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/saddlebow",
+              "label": "Merriam-Webster: saddlebow"
+            }
+          ]
+        },
+        {
+          "id": "blue-funk",
+          "term": "blue funk",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-013",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://dictionaryblog.cambridge.org/2011/10/10/blue-talk/",
+              "label": "Cambridge Dictionary: Blue Talk"
+            },
+            {
+              "url": "https://www.dictionary.com/browse/blue-funk",
+              "label": "Dictionary.com: blue funk"
+            }
+          ]
+        },
+        {
+          "id": "mettlesome",
+          "term": "mettlesome",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-030",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/mettlesome",
+              "label": "Merriam-Webster: mettlesome"
+            },
+            {
+              "url": "https://www.merriam-webster.com/dictionary/meddlesome",
+              "label": "Merriam-Webster: meddlesome"
+            }
+          ]
+        },
+        {
+          "id": "hawking",
+          "term": "hawking",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-041",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/hawk",
+              "label": "Merriam-Webster: hawk"
+            }
+          ]
+        },
+        {
+          "id": "master-of-horse",
+          "term": "master of horse",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-042",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Master_of_the_Horse",
+              "label": "Encyclopædia Britannica (1911): Master of the Horse"
+            }
+          ]
+        },
+        {
+          "id": "vendava",
+          "term": "Vendava",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-043",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://mapcarta.com/13254308",
+              "label": "Mapcarta / GeoNames: Venta River"
+            },
+            {
+              "url": "https://www.meteo.lv/fs/CKFinderJava/userfiles/files/REPORT_WP2.pdf",
+              "label": "Latvian Environment, Geology and Meteorology Centre: Venta basin, p. 22"
+            }
+          ]
+        },
+        {
+          "id": "mace",
+          "term": "mace",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-043",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/mace",
+              "label": "Merriam-Webster: mace"
+            }
+          ]
+        },
+        {
+          "id": "pomerania",
+          "term": "Pomerania",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-048",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://ahdictionary.com/word/search.html?q=Pomerania",
+              "label": "American Heritage Dictionary: Pomerania"
+            }
+          ]
+        },
+        {
+          "id": "serfs",
+          "term": "serfs",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-056",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/serf",
+              "label": "Merriam-Webster: serf"
+            }
+          ]
+        },
+        {
+          "id": "tack",
+          "term": "tack room",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-069",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/tack",
+              "label": "Merriam-Webster: tack"
+            }
+          ]
+        },
+        {
+          "id": "vassal",
+          "term": "vassal",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-073",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/vassal",
+              "label": "Merriam-Webster: vassal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "the-haunted-boardinghouse",
+      "before": 51,
+      "added": 20,
+      "updated": [
+        "alis-volat-propriis",
+        "wonder-book",
+        "croesus",
+        "mars",
+        "pomponius-mela",
+        "hemingway",
+        "kipling",
+        "pax-in-bello"
+      ],
+      "removed": [],
+      "after": 71,
+      "sections": [
+        {
+          "id": "story",
+          "kind": "chapter",
+          "words": 9319,
+          "added_notes": [
+            "largess",
+            "matriculate",
+            "stoker",
+            "habited",
+            "tussocks",
+            "ewer",
+            "sloop-of-war",
+            "corsair",
+            "garret",
+            "sash",
+            "euphemism",
+            "stanch",
+            "neoclassical",
+            "tudor",
+            "neo-victorian",
+            "calf-binding",
+            "importunities",
+            "fair-copy",
+            "courage-of-a-fly",
+            "darkling"
+          ]
+        }
+      ],
+      "new_notes": [
+        {
+          "id": "largess",
+          "term": "largess",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-001",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/largess",
+              "label": "Merriam-Webster: largess"
+            }
+          ]
+        },
+        {
+          "id": "matriculate",
+          "term": "matriculate",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-009",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/matriculate",
+              "label": "Merriam-Webster: matriculate"
+            }
+          ]
+        },
+        {
+          "id": "stoker",
+          "term": "stoker",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-017",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/stoker",
+              "label": "Merriam-Webster: stoker"
+            }
+          ]
+        },
+        {
+          "id": "habited",
+          "term": "habited",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-025",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/habited",
+              "label": "Merriam-Webster: habited"
+            }
+          ]
+        },
+        {
+          "id": "tussocks",
+          "term": "tussocks",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-050",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/tussock",
+              "label": "Merriam-Webster: tussock"
+            }
+          ]
+        },
+        {
+          "id": "ewer",
+          "term": "ewer",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-060",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/ewer",
+              "label": "Merriam-Webster: ewer"
+            }
+          ]
+        },
+        {
+          "id": "sloop-of-war",
+          "term": "sloop of war",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-065",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/sloop%20of%20war",
+              "label": "Merriam-Webster: sloop of war"
+            }
+          ]
+        },
+        {
+          "id": "corsair",
+          "term": "corsair",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-068",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/corsair",
+              "label": "Merriam-Webster: corsair"
+            }
+          ]
+        },
+        {
+          "id": "garret",
+          "term": "garret",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-071",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/garret",
+              "label": "Merriam-Webster: garret"
+            }
+          ]
+        },
+        {
+          "id": "sash",
+          "term": "sash",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-071",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/sash",
+              "label": "Merriam-Webster: sash"
+            }
+          ]
+        },
+        {
+          "id": "euphemism",
+          "term": "Euphemism",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-155",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/euphemism",
+              "label": "Merriam-Webster: euphemism"
+            }
+          ]
+        },
+        {
+          "id": "stanch",
+          "term": "stanch",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-191",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/stanch",
+              "label": "Merriam-Webster: stanch"
+            }
+          ]
+        },
+        {
+          "id": "neoclassical",
+          "term": "neoclassical",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-225",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.vam.ac.uk/collections/neoclassicism",
+              "label": "Victoria and Albert Museum: Neoclassicism"
+            }
+          ]
+        },
+        {
+          "id": "tudor",
+          "term": "Tudor",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-238",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.phmc.state.pa.us/Portal/Communities/Architecture/styles/tudor-revival.html",
+              "label": "Pennsylvania Historical and Museum Commission: Tudor Revival"
+            }
+          ]
+        },
+        {
+          "id": "neo-victorian",
+          "term": "neo-Victorian",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-242",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.cambridge.org/core/journals/victorian-literature-and-culture/article/neovictorian/1829F905748664A68E501882EED4DFF9",
+              "label": "Cambridge University Press: Neo-Victorian"
+            }
+          ]
+        },
+        {
+          "id": "calf-binding",
+          "term": "calf",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-285",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/calf",
+              "label": "Merriam-Webster: calf"
+            }
+          ]
+        },
+        {
+          "id": "importunities",
+          "term": "importunities",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-286",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/importunate",
+              "label": "Merriam-Webster: importunate"
+            }
+          ]
+        },
+        {
+          "id": "fair-copy",
+          "term": "fair copy",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-290",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/fair-copy",
+              "label": "Dictionary.com: fair copy"
+            }
+          ]
+        },
+        {
+          "id": "courage-of-a-fly",
+          "term": "courage of a fly",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-291",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.gutenberg.org/files/12641/12641-h/12641-h.htm",
+              "label": "John Ruskin: The Queen of the Air, §34"
+            },
+            {
+              "url": "https://www.theoi.com/Text/HomerIliad17.html",
+              "label": "Homer: Iliad 17.567–572, translated by A. T. Murray"
+            }
+          ]
+        },
+        {
+          "id": "darkling",
+          "term": "darkling",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-313",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/darkling",
+              "label": "Merriam-Webster: darkling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "the-man-in-the-pepper-mill",
+      "before": 11,
+      "added": 7,
+      "updated": [
+        "scottie",
+        "west-highland-white",
+        "red-power-ranger",
+        "spider-man"
+      ],
+      "removed": [
+        "luke-skywalker"
+      ],
+      "after": 17,
+      "sections": [
+        {
+          "id": "story",
+          "kind": "chapter",
+          "words": 5852,
+          "added_notes": [
+            "sash",
+            "ahab-whale-leg",
+            "yo-ho-ho",
+            "antipersonnel",
+            "saurian",
+            "sheetrock",
+            "mules"
+          ]
+        }
+      ],
+      "new_notes": [
+        {
+          "id": "sash",
+          "term": "sash",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-028",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/sash",
+              "label": "Merriam-Webster: sash"
+            }
+          ]
+        },
+        {
+          "id": "ahab-whale-leg",
+          "term": "Bit off by a whale",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-094",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.gutenberg.org/files/2701/2701-h/2701-h.htm",
+              "label": "Herman Melville: Moby-Dick, chapters 36 and 41"
+            }
+          ]
+        },
+        {
+          "id": "yo-ho-ho",
+          "term": "yo-ho-ho",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-094",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.gutenberg.org/files/120/120-h/120-h.htm",
+              "label": "Robert Louis Stevenson: Treasure Island, chapter 1"
+            }
+          ]
+        },
+        {
+          "id": "antipersonnel",
+          "term": "antipersonnel",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-164",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/antipersonnel",
+              "label": "Dictionary.com: antipersonnel"
+            }
+          ]
+        },
+        {
+          "id": "saurian",
+          "term": "saurian",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-223",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/saurian",
+              "label": "Merriam-Webster: saurian"
+            }
+          ]
+        },
+        {
+          "id": "sheetrock",
+          "term": "Sheetrock",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-227",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/product_promotional_materials/finished_assets/sheetrock-gypsum-panels-regular-submittal-WB1473.pdf",
+              "label": "USG: Sheetrock Brand Gypsum Panels"
+            }
+          ]
+        },
+        {
+          "id": "mules",
+          "term": "mules",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-230",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/mule",
+              "label": "Merriam-Webster: mule"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "no-planets-strike",
+      "before": 7,
+      "added": 5,
+      "updated": [],
+      "removed": [],
+      "after": 12,
+      "sections": [
+        {
+          "id": "story",
+          "kind": "chapter",
+          "words": 4556,
+          "added_notes": [
+            "longhorns",
+            "donkey-cross",
+            "christmas-animal-speech",
+            "nativity-shepherds",
+            "nativity-magi"
+          ]
+        }
+      ],
+      "new_notes": [
+        {
+          "id": "longhorns",
+          "term": "longhorns",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-009",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://breeds.okstate.edu/cattle/texas-longhorn-cattle",
+              "label": "Oklahoma State University: Texas Longhorn cattle"
+            },
+            {
+              "url": "https://www.nps.gov/pisp/learn/photosmultimedia/longhorns.htm",
+              "label": "National Park Service: Longhorns"
+            }
+          ]
+        },
+        {
+          "id": "donkey-cross",
+          "term": "mark on my back",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-009",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.gutenberg.org/cache/epub/77830/pg77830-images.html",
+              "label": "F. Edward Hulme: Natural History, Lore and Legend, pp. 184–186"
+            }
+          ]
+        },
+        {
+          "id": "christmas-animal-speech",
+          "term": "only tonight",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-049",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://engines.egr.uh.edu/episode/770",
+              "label": "University of Houston: Christmas, 1992"
+            }
+          ]
+        },
+        {
+          "id": "nativity-shepherds",
+          "term": "sheepherders",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-050",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.biblegateway.com/passage/?search=Luke+2%3A8-20&version=KJV",
+              "label": "Luke 2:8–20, King James Version"
+            }
+          ]
+        },
+        {
+          "id": "nativity-magi",
+          "term": "three teachers",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-051",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://bible.usccb.org/bible/matthew/2",
+              "label": "Matthew 2:1–12, United States Conference of Catholic Bishops"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "queen-of-the-night",
+      "before": 16,
+      "added": 10,
+      "updated": [
+        "the-oracles-are-dumb",
+        "for-the-blood-is-the-life"
+      ],
+      "removed": [],
+      "after": 26,
+      "sections": [
+        {
+          "id": "story",
+          "kind": "chapter",
+          "words": 4992,
+          "added_notes": [
+            "parti-colored",
+            "downs",
+            "iron-fairy-charm",
+            "redcap",
+            "declivity",
+            "surety",
+            "febrile",
+            "charger",
+            "camisole",
+            "pallet"
+          ]
+        }
+      ],
+      "new_notes": [
+        {
+          "id": "parti-colored",
+          "term": "parti-colored",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-010",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.dictionary.com/browse/parti-colored",
+              "label": "Dictionary.com: parti-colored"
+            }
+          ]
+        },
+        {
+          "id": "downs",
+          "term": "downs",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-017",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/down",
+              "label": "Merriam-Webster: down"
+            }
+          ]
+        },
+        {
+          "id": "iron-fairy-charm",
+          "term": "iron will keep us out",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-026",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.gutenberg.org/cache/epub/9368/pg9368-images.html",
+              "label": "William Elliot Griffis: Welsh Fairy Tales, Why the Fairies Dislike Iron"
+            },
+            {
+              "url": "https://deriv.nls.uk/dcn23/7921/79212491.23.pdf",
+              "label": "A. W. Moore: The Folk-Lore of the Isle of Man, p. 45"
+            }
+          ]
+        },
+        {
+          "id": "redcap",
+          "term": "red cap",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-030",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://en.wikisource.org/wiki/Page:Notes_on_the_folk-lore_of_the_northern_counties_of_England_and_the_borders.djvu/275",
+              "label": "William Henderson: Notes on the Folk-Lore of the Northern Counties, p. 253"
+            }
+          ]
+        },
+        {
+          "id": "declivity",
+          "term": "declivity",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-054",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/declivity",
+              "label": "Merriam-Webster: declivity"
+            }
+          ]
+        },
+        {
+          "id": "surety",
+          "term": "surety",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-064",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/surety",
+              "label": "Merriam-Webster: surety"
+            }
+          ]
+        },
+        {
+          "id": "febrile",
+          "term": "febrile",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-065",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/febrile",
+              "label": "Merriam-Webster: febrile"
+            }
+          ]
+        },
+        {
+          "id": "charger",
+          "term": "charger",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-108",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/charger",
+              "label": "Merriam-Webster: charger"
+            }
+          ]
+        },
+        {
+          "id": "camisole",
+          "term": "camisole",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-132",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/camisole",
+              "label": "Merriam-Webster: camisole"
+            }
+          ]
+        },
+        {
+          "id": "pallet",
+          "term": "pallet",
+          "first": {
+            "chapter": "story",
+            "paragraph": "p-173",
+            "index": 0
+          },
+          "sources": [
+            {
+              "url": "https://www.merriam-webster.com/dictionary/pallet",
+              "label": "Merriam-Webster: pallet"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

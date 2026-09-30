@@ -12,7 +12,7 @@
   ],
   "totalWords": 6086,
   "defaultChapter": "story",
-  "glossaryCount": 20,
+  "glossaryCount": 22,
   "correctionCount": 0,
   "editionVersion": 17,
   "chapters": [
@@ -310,6 +310,10 @@
           "paragraph": "p-035"
         },
         {
+          "term": "polyglot",
+          "paragraph": "p-041"
+        },
+        {
           "term": "calamari",
           "paragraph": "p-044"
         },
@@ -340,6 +344,10 @@
         {
           "term": "two-mysteries",
           "paragraph": "p-166"
+        },
+        {
+          "term": "kamarku",
+          "paragraph": "p-179"
         },
         {
           "term": "undertakers-horse",

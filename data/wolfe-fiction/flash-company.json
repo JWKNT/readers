@@ -138,21 +138,6 @@
     "evidence": "e9781429982498_c10.html source paragraph 44 (title included): on’t go with the stuff my teacher taught me.” She sat down on the stool. “Those etudes and all that. This here’s a Country-and-Western instrument, for sure.” She patted it as she would a dog. “You goin’ to sell it?”"
   },
   {
-    "id": "pan",
-    "term": "Pan",
-    "aliases": [],
-    "short": "The goat-footed Greek god of shepherds and wild places.",
-    "note": "Pan is a rustic Greek god associated with flocks, shepherds, mountains, and woodland. He is traditionally shown with goat’s horns and legs and plays a set of reed pipes.",
-    "possible": false,
-    "sources": [
-      {
-        "url": "https://www.theoi.com/Georgikos/Pan.html",
-        "label": "Theoi: Pan and ancient sources"
-      }
-    ],
-    "evidence": "e9781429982498_c10.html source paragraph 55 (title included): He laughed. “No, you can’t. It’s Pan observing a wood nymph—at least, I suppose she’s a wood nymph, though I’ve never thought of them as blondes. That’s Pan, with the"
-  },
-  {
     "id": "isca",
     "term": "Isca",
     "aliases": [],
@@ -181,5 +166,129 @@
       }
     ],
     "evidence": "e9781429982498_c10.html source paragraph 25 (title included): e of dislocation, he had found himself astride the heaving topgallant yard of a Nelsonian seventy-four, where the wind had waked a thousand discordant tones in the rigging, from the deep thrum of the forestay to the high-pitched squ"
+  },
+  {
+    "id": "bawdy-house",
+    "term": "bawdy-house",
+    "aliases": [],
+    "short": "An old term for a brothel.",
+    "note": "A house of prostitution; bawdy-house is an older name for a brothel.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/bawdyhouse",
+        "label": "Dictionary.com: bawdyhouse"
+      }
+    ],
+    "evidence": "story/p-001: IT HAD BEEN NEARLY A month since the old bawdy-house piano had begun to repair him. It had found him in the barn in which it had lived in retiremen"
+  },
+  {
+    "id": "piano-action",
+    "term": "action",
+    "aliases": [],
+    "short": "The mechanism connecting piano keys to the hammers.",
+    "note": "A piano’s action is the assembly of levers and other moving parts that makes its hammers strike the strings when the keys are pressed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://hub.yamaha.com/pianos/p-acoustic/how-does-a-piano-work/",
+        "label": "Yamaha: How Does a Piano Work?"
+      }
+    ],
+    "evidence": "story/p-022: , that it should play—still more that it should play itself. Its action was in one place, its massive cast-iron frame (by far the heaviest thing they’d had to move) i"
+  },
+  {
+    "id": "rowing-shell",
+    "term": "shell",
+    "aliases": [],
+    "short": "A long, narrow rowing boat built for racing.",
+    "note": "A lightweight racing boat propelled by one or more rowers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/shell",
+        "label": "Dictionary.com: shell"
+      }
+    ],
+    "evidence": "story/p-032: . Louis or Memphis, where she would disembark and he remain. His shell passed their boat, racing upriver. That was the way life was: you rowed upstream as hard and f"
+  },
+  {
+    "id": "reel",
+    "term": "reel",
+    "aliases": [],
+    "short": "A lively traditional dance.",
+    "note": "A vigorous folk dance associated especially with Scotland, or the music played for it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/reel",
+        "label": "Dictionary.com: reel"
+      }
+    ],
+    "evidence": "story/p-025:  the hand, Twirl her ’round a smidgin, Make her foot us one more reel, Scatter her religion."
+  },
+  {
+    "id": "mushmelon",
+    "term": "Mushmelon",
+    "aliases": [],
+    "short": "Muskmelon, such as a cantaloupe.",
+    "note": "A variant name for muskmelon, the sweet-fleshed melon group that includes cantaloupes and honeydews.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/mushmelon",
+        "label": "Dictionary.com: mushmelon"
+      },
+      {
+        "url": "https://www.dictionary.com/browse/muskmelon",
+        "label": "Dictionary.com: muskmelon"
+      }
+    ],
+    "evidence": "story/p-039: piano. She grinned at him. “That got you up. I figured it would. Mushmelon, sausage, grits and sawmill gravy. Coffee. That all right? Pretty near done.”"
+  },
+  {
+    "id": "sawmill-gravy",
+    "term": "sawmill gravy",
+    "aliases": [],
+    "short": "Southern white gravy made with milk and flour.",
+    "note": "Also called country gravy: a creamy sauce commonly made by thickening milk with flour cooked in meat drippings, and seasoning it with salt and pepper.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.bettycrocker.com/recipes/country-gravy/d5294752-1c56-40a7-aca2-1c87d41f393f",
+        "label": "Betty Crocker: Country Gravy"
+      }
+    ],
+    "evidence": "story/p-039: at got you up. I figured it would. Mushmelon, sausage, grits and sawmill gravy. Coffee. That all right? Pretty near done.”"
+  },
+  {
+    "id": "soundboard",
+    "term": "soundboard",
+    "aliases": [],
+    "short": "The resonating wooden board of a piano.",
+    "note": "A wooden resonating surface that amplifies the vibrations of a piano’s strings and radiates their sound into the surrounding air.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://hub.yamaha.com/pianos/p-acoustic/how-does-a-piano-work/",
+        "label": "Yamaha: How Does a Piano Work?"
+      }
+    ],
+    "evidence": "story/p-099: nd it was in tune, to his ears at least. That growl was from the soundboard he had made, largely by guess, from one-eighth-inch plywood."
+  },
+  {
+    "id": "grits",
+    "term": "grits",
+    "aliases": [],
+    "short": "Coarsely ground corn cooked into a thick porridge.",
+    "note": "A dish made by boiling coarsely ground corn or hominy, especially associated with breakfasts and side dishes in the American South.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/grits",
+        "label": "Dictionary.com: grits"
+      }
+    ],
+    "evidence": "story/p-039: t him. “That got you up. I figured it would. Mushmelon, sausage, grits and sawmill gravy. Coffee. That all right? Pretty near done.”"
   }
 ]

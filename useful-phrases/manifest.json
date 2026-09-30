@@ -12,7 +12,7 @@
   ],
   "totalWords": 2749,
   "defaultChapter": "story",
-  "glossaryCount": 8,
+  "glossaryCount": 11,
   "correctionCount": 0,
   "editionVersion": 17,
   "chapters": [
@@ -141,8 +141,20 @@
           "paragraph": "p-041"
         },
         {
+          "term": "polychrome",
+          "paragraph": "p-043"
+        },
+        {
+          "term": "pectoral-fins",
+          "paragraph": "p-043"
+        },
+        {
           "term": "mucilage",
           "paragraph": "p-061"
+        },
+        {
+          "term": "flyleaf",
+          "paragraph": "p-063"
         },
         {
           "term": "gravid",
