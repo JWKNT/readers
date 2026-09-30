@@ -31,7 +31,7 @@
   ],
   "totalWords": 114223,
   "defaultChapter": "section-06",
-  "glossaryCount": 122,
+  "glossaryCount": 130,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -221,6 +221,10 @@
         {
           "term": "wave-function",
           "paragraph": "p-046"
+        },
+        {
+          "term": "hubbles-law",
+          "paragraph": "p-053"
         },
         {
           "term": "cosmic-microwave-background",
@@ -981,6 +985,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "hemingway",
+          "paragraph": "p-060"
+        },
+        {
           "term": "nanomaterials",
           "paragraph": "p-072"
         },
@@ -1281,6 +1289,10 @@
         {
           "term": "wu-chien-shiung",
           "paragraph": "p-032"
+        },
+        {
+          "term": "bach",
+          "paragraph": "p-034"
         },
         {
           "term": "cosmic-microwave-background",
@@ -1969,6 +1981,14 @@
           "paragraph": "p-026"
         },
         {
+          "term": "very-long-baseline-interferometry",
+          "paragraph": "p-027"
+        },
+        {
+          "term": "euclidean-geometry",
+          "paragraph": "p-061"
+        },
+        {
           "term": "esperanto",
           "paragraph": "p-062"
         },
@@ -2144,6 +2164,10 @@
         {
           "term": "three-body-problem",
           "paragraph": "p-023"
+        },
+        {
+          "term": "leonardo-da-vinci",
+          "paragraph": "p-038"
         },
         {
           "term": "giordano-bruno",
@@ -2720,6 +2744,10 @@
           "paragraph": "p-002"
         },
         {
+          "term": "mozart",
+          "paragraph": "p-004"
+        },
+        {
           "term": "copernicus",
           "paragraph": "p-010"
         },
@@ -2904,6 +2932,10 @@
         {
           "term": "three-body-problem",
           "paragraph": "p-002"
+        },
+        {
+          "term": "turing-award",
+          "paragraph": "p-020"
         },
         {
           "term": "nanomaterials",

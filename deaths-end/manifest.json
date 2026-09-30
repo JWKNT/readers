@@ -55,7 +55,7 @@
   ],
   "totalWords": 221631,
   "defaultChapter": "section-07",
-  "glossaryCount": 109,
+  "glossaryCount": 117,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -303,6 +303,10 @@
           "paragraph": "p-088"
         },
         {
+          "term": "blachernae",
+          "paragraph": "p-095"
+        },
+        {
           "term": "minaret",
           "paragraph": "p-096"
         }
@@ -514,6 +518,10 @@
         "p-111"
       ],
       "noteAnchors": [
+        {
+          "term": "nurhaci",
+          "paragraph": "p-003"
+        },
         {
           "term": "barbitone",
           "paragraph": "p-050"
@@ -1387,6 +1395,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "au",
+          "paragraph": "p-006"
+        },
+        {
           "term": "kuiper-belt",
           "paragraph": "p-006"
         },
@@ -1526,6 +1538,10 @@
         {
           "term": "geosynchronous",
           "paragraph": "p-001"
+        },
+        {
+          "term": "au",
+          "paragraph": "p-035"
         },
         {
           "term": "third-wave",
@@ -1895,6 +1911,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "au",
+          "paragraph": "p-002"
+        },
+        {
           "term": "oort-cloud",
           "paragraph": "p-003"
         },
@@ -2071,6 +2091,10 @@
           "paragraph": "p-003"
         },
         {
+          "term": "au",
+          "paragraph": "p-005"
+        },
+        {
           "term": "klaxons",
           "paragraph": "p-113"
         }
@@ -2173,6 +2197,10 @@
         {
           "term": "kuiper-belt",
           "paragraph": "p-012"
+        },
+        {
+          "term": "au",
+          "paragraph": "p-016"
         }
       ],
       "words": 1204,
@@ -2482,7 +2510,12 @@
         "p-011",
         "p-012"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "au",
+          "paragraph": "p-010"
+        }
+      ],
       "words": 704,
       "startWords": 62958
     },
@@ -2947,6 +2980,10 @@
           "paragraph": "p-013"
         },
         {
+          "term": "au",
+          "paragraph": "p-022"
+        },
+        {
           "term": "neutrino",
           "paragraph": "p-036"
         },
@@ -3216,6 +3253,10 @@
           "paragraph": "p-049"
         },
         {
+          "term": "au",
+          "paragraph": "p-053"
+        },
+        {
           "term": "neutrino",
           "paragraph": "p-063"
         },
@@ -3433,6 +3474,10 @@
         {
           "term": "gravitational-wave",
           "paragraph": "p-014"
+        },
+        {
+          "term": "au",
+          "paragraph": "p-016"
         },
         {
           "term": "photosphere",
@@ -4412,6 +4457,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "au",
+          "paragraph": "p-010"
+        },
+        {
           "term": "kuiper-belt",
           "paragraph": "p-010"
         },
@@ -4425,6 +4474,10 @@
         },
         {
           "term": "ecliptic-plane",
+          "paragraph": "p-014"
+        },
+        {
+          "term": "europa",
           "paragraph": "p-014"
         }
       ],
@@ -4705,7 +4758,7 @@
         },
         {
           "term": "poe-maelstrom",
-          "paragraph": "p-114"
+          "paragraph": "p-117"
         },
         {
           "term": "schwarzschild-radius",
@@ -4747,6 +4800,10 @@
         "p-010"
       ],
       "noteAnchors": [
+        {
+          "term": "au",
+          "paragraph": "p-003"
+        },
         {
           "term": "strong-interaction",
           "paragraph": "p-004"
@@ -4957,7 +5014,12 @@
         "p-006",
         "p-007"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "au",
+          "paragraph": "p-005"
+        }
+      ],
       "words": 505,
       "startWords": 143112
     },
@@ -5028,6 +5090,10 @@
         {
           "term": "mount-emei",
           "paragraph": "p-014"
+        },
+        {
+          "term": "au",
+          "paragraph": "p-017"
         },
         {
           "term": "neutrino",
@@ -5171,6 +5237,10 @@
         {
           "term": "cyclopean",
           "paragraph": "p-009"
+        },
+        {
+          "term": "au",
+          "paragraph": "p-040"
         }
       ],
       "words": 3319,
@@ -5322,6 +5392,10 @@
           "paragraph": "p-049"
         },
         {
+          "term": "europa",
+          "paragraph": "p-073"
+        },
+        {
           "term": "qingming-scroll",
           "paragraph": "p-104"
         }
@@ -5408,6 +5482,10 @@
         {
           "term": "event-horizon",
           "paragraph": "p-032"
+        },
+        {
+          "term": "general-relativity",
+          "paragraph": "p-042"
         },
         {
           "term": "neutrino",
@@ -5561,6 +5639,10 @@
         {
           "term": "lagrangian-point",
           "paragraph": "p-014"
+        },
+        {
+          "term": "au",
+          "paragraph": "p-016"
         },
         {
           "term": "tokamak",
@@ -5918,12 +6000,20 @@
           "paragraph": "p-004"
         },
         {
+          "term": "au",
+          "paragraph": "p-006"
+        },
+        {
           "term": "phalanx",
           "paragraph": "p-017"
         },
         {
           "term": "nuclear-fusion",
           "paragraph": "p-020"
+        },
+        {
+          "term": "europa",
+          "paragraph": "p-034"
         },
         {
           "term": "pinnace",
@@ -6101,6 +6191,10 @@
           "paragraph": "p-006"
         },
         {
+          "term": "charon",
+          "paragraph": "p-045"
+        },
+        {
           "term": "carpe-diem",
           "paragraph": "p-067"
         },
@@ -6111,6 +6205,10 @@
         {
           "term": "rousseau",
           "paragraph": "p-091"
+        },
+        {
+          "term": "cuneiforms",
+          "paragraph": "p-099"
         },
         {
           "term": "great-seal-script",
@@ -6418,6 +6516,10 @@
           "paragraph": "p-042"
         },
         {
+          "term": "au",
+          "paragraph": "p-060"
+        },
+        {
           "term": "kuiper-belt",
           "paragraph": "p-078"
         },
@@ -6430,8 +6532,12 @@
           "paragraph": "p-095"
         },
         {
+          "term": "charon",
+          "paragraph": "p-122"
+        },
+        {
           "term": "starry-night",
-          "paragraph": "p-128"
+          "paragraph": "p-133"
         },
         {
           "term": "oort-cloud",
@@ -6819,6 +6925,10 @@
           "paragraph": "p-004"
         },
         {
+          "term": "au",
+          "paragraph": "p-022"
+        },
+        {
           "term": "gravitational-wave",
           "paragraph": "p-050"
         },
@@ -7119,6 +7229,10 @@
         {
           "term": "charles-misner",
           "paragraph": "p-018"
+        },
+        {
+          "term": "longjing",
+          "paragraph": "p-034"
         },
         {
           "term": "gone-with-wind",

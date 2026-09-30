@@ -182,14 +182,18 @@
     "id": "nones",
     "term": "nones",
     "aliases": [],
-    "note": "The traditional Christian office of prayer around three in the afternoon.",
+    "note": "The office originally appointed for the ninth hour after sunrise, about 3 p.m. The name was also used for midday as the service shifted earlier.",
     "sources": [
       {
-        "label": "None · canonical hour",
-        "url": "https://en.wikipedia.org/wiki/None_(liturgy)"
+        "url": "https://www.etymonline.com/word/nones",
+        "label": "Online Etymology Dictionary: nones"
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Noon",
+        "label": "Encyclopaedia Britannica (1911): Noon"
       }
     ],
-    "short": "A traditional afternoon office of prayer.",
+    "short": "A canonical prayer hour; historically also midday.",
     "possible": false,
     "occurrences": 3,
     "first": {
@@ -837,6 +841,26 @@
     "first": {
       "chapter": "story",
       "paragraph": "p-095",
+      "index": 0
+    }
+  },
+  {
+    "id": "hecatonchires",
+    "term": "hecatonchires",
+    "aliases": [],
+    "short": "The hundred-handed giants of Greek myth.",
+    "note": "Also called Hecatoncheires: three gigantic sons of Earth and Sky, each with a hundred arms and fifty heads, who helped Zeus defeat the Titans.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Titan/Hekatonkheires.html",
+        "label": "Theoi · Hecatoncheires, classical source passages"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-070",
       "index": 0
     }
   }

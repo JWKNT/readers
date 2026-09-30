@@ -2045,5 +2045,601 @@
       "paragraph": "p-400",
       "index": 2
     }
+  },
+  {
+    "id": "narcotherapeutic",
+    "term": "narcotherapeutic",
+    "aliases": [],
+    "short": "Relating to psychiatric treatment assisted by sedative drugs.",
+    "note": "Narcotherapy is a historical psychiatric technique using sedative drugs to produce a relaxed, more communicative state during treatment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://meshb.nlm.nih.gov/record/ui?ui=D009291",
+        "label": "National Library of Medicine: Narcotherapy"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-390",
+      "index": 0
+    }
+  },
+  {
+    "id": "tallow",
+    "term": "tallow",
+    "aliases": [],
+    "short": "Rendered animal fat used in candles and soap.",
+    "note": "Fat obtained chiefly from cattle or sheep and processed for uses including candle-making, soap, and lubrication.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tallow",
+        "label": "Merriam-Webster: tallow"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-259",
+      "index": 2
+    }
+  },
+  {
+    "id": "tenpenny-nails",
+    "term": "tenpenny nails",
+    "aliases": [],
+    "short": "Nails approximately three inches long.",
+    "note": "A tenpenny nail is a nail about three inches (7.6 centimeters) long. The traditional penny designation derives from an older system of pricing nails by the hundred.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tenpenny%20nail",
+        "label": "Merriam-Webster: tenpenny nail"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-879",
+      "index": 2
+    }
+  },
+  {
+    "id": "panpipe",
+    "term": "panpipe",
+    "aliases": [
+      "panpipes"
+    ],
+    "short": "A wind instrument made from a row of graduated pipes.",
+    "note": "An instrument formed from several short pipes of different lengths, joined with their open ends in a row so that the player can blow across them.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/panpipe",
+        "label": "Merriam-Webster: panpipe"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-008",
+      "index": 0
+    }
+  },
+  {
+    "id": "grenadiers",
+    "term": "grenadiers",
+    "aliases": [],
+    "short": "Soldiers originally equipped to throw grenades.",
+    "note": "Members of infantry units originally armed with hand grenades; the designation survived in regiments after that original specialized role changed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/grenadier",
+        "label": "Merriam-Webster: grenadier"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-240",
+      "index": 0
+    }
+  },
+  {
+    "id": "fakir",
+    "term": "fakir",
+    "aliases": [],
+    "short": "A religious ascetic or mendicant.",
+    "note": "From Arabic faqīr, “poor”: a term for a Muslim religious mendicant, also used in English for Hindu ascetics or itinerant wonder-workers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/fakir",
+        "label": "Merriam-Webster: fakir"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-862",
+      "index": 2
+    }
+  },
+  {
+    "id": "caul",
+    "term": "caul",
+    "aliases": [],
+    "short": "A thin covering; also an old term for a hairnet.",
+    "note": "The word can mean a membrane enclosing part of the body. In historical dress, it also names a close-fitting cap or net used to hold the hair.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/caul",
+        "label": "Merriam-Webster: caul"
+      },
+      {
+        "url": "https://data.fitzmuseum.cam.ac.uk/id/terminology/term-77713",
+        "label": "Fitzwilliam Museum: cauls"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "a-story",
+      "paragraph": "p-114",
+      "index": 1
+    }
+  },
+  {
+    "id": "spoor",
+    "term": "spoor",
+    "aliases": [],
+    "short": "The tracks or other traces left by an animal.",
+    "note": "Signs by which an animal can be followed, including footprints, scent, and droppings. The word comes through Afrikaans from Dutch.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/spoor",
+        "label": "Merriam-Webster: spoor"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-208",
+      "index": 2
+    }
+  },
+  {
+    "id": "dray",
+    "term": "dray",
+    "aliases": [],
+    "short": "A cart or wagon for hauling heavy goods.",
+    "note": "A vehicle used to carry goods, often with a low bed and no sides. A dray horse is a horse used to draw such loads.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dray",
+        "label": "Merriam-Webster: dray"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-814",
+      "index": 2
+    }
+  },
+  {
+    "id": "lorn",
+    "term": "lorn",
+    "aliases": [],
+    "short": "Forsaken, lonely, or desolate.",
+    "note": "A literary word related to “forlorn,” used for something abandoned or left in a desolate condition.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lorn",
+        "label": "Merriam-Webster: lorn"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-023",
+      "index": 0
+    }
+  },
+  {
+    "id": "gossamer",
+    "term": "gossamer",
+    "aliases": [],
+    "short": "Extremely light, delicate, or insubstantial.",
+    "note": "Originally the fine strands or film of a spider’s web; also a very light fabric, or anything suggesting its thinness and delicacy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gossamer",
+        "label": "Merriam-Webster: gossamer"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "a-story",
+      "paragraph": "p-406",
+      "index": 1
+    }
+  },
+  {
+    "id": "juno",
+    "term": "Juno",
+    "aliases": [],
+    "short": "The Roman goddess associated with marriage and childbirth.",
+    "note": "The wife of Jupiter and queen of the Roman gods, especially associated with women, marriage, and childbirth.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Juno",
+        "label": "Merriam-Webster: Juno"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-306",
+      "index": 0
+    }
+  },
+  {
+    "id": "darwin",
+    "term": "Darwin",
+    "aliases": [],
+    "short": "Charles Darwin, the naturalist associated with natural selection.",
+    "note": "Darwin’s The Descent of Man, and Selection in Relation to Sex (1871) extended his evolutionary account to human origins and developed his discussion of sexual selection.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.darwinproject.ac.uk/descent",
+        "label": "Darwin Correspondence Project: The Descent of Man"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-821",
+      "index": 2
+    }
+  },
+  {
+    "id": "synapses",
+    "term": "synapses",
+    "aliases": [],
+    "short": "Junctions through which nerve cells communicate.",
+    "note": "A synapse is the junction at which a nerve impulse is conveyed from one neuron to another.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/synapse",
+        "label": "Merriam-Webster: synapse"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-198",
+      "index": 0
+    }
+  },
+  {
+    "id": "endocrine",
+    "term": "endocrine",
+    "aliases": [],
+    "short": "Relating to glands that release hormones into the bloodstream.",
+    "note": "Endocrine glands secrete their products internally, rather than through ducts; their hormones help regulate bodily functions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/endocrine",
+        "label": "Merriam-Webster: endocrine"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-268",
+      "index": 0
+    }
+  },
+  {
+    "id": "coccyx",
+    "term": "coccyx",
+    "aliases": [],
+    "short": "The tailbone at the lower end of the spine.",
+    "note": "A small bone at the base of the spinal column, usually formed from four fused vertebrae.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/coccyx",
+        "label": "Merriam-Webster: coccyx"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-354",
+      "index": 0
+    }
+  },
+  {
+    "id": "parapet",
+    "term": "parapet",
+    "aliases": [
+      "parapets"
+    ],
+    "short": "A low protective wall along an exposed edge.",
+    "note": "A wall or railing at the edge of a roof, platform, or bridge, serving as a barrier or protection.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/parapet",
+        "label": "Merriam-Webster: parapet"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-003",
+      "index": 0
+    }
+  },
+  {
+    "id": "brackish",
+    "term": "brackish",
+    "aliases": [],
+    "short": "Somewhat salty, as where fresh water mixes with seawater.",
+    "note": "Describing water with some salt in it, commonly produced by the mixing of river water and seawater near a coast.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/brackish",
+        "label": "Merriam-Webster: brackish"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-183",
+      "index": 2
+    }
+  },
+  {
+    "id": "viscera",
+    "term": "viscera",
+    "aliases": [],
+    "short": "The internal organs of the body.",
+    "note": "The plural of viscus, especially used collectively for organs within the trunk, such as the heart, liver, and intestines.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/viscus",
+        "label": "Merriam-Webster: viscus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-015",
+      "index": 0
+    }
+  },
+  {
+    "id": "dominicans",
+    "term": "Dominicans",
+    "aliases": [],
+    "short": "Members of the Catholic Order of Preachers.",
+    "note": "The religious order founded by St. Dominic and confirmed by Pope Honorius III in 1216. Its work centers on preaching, supported by study, prayer, and communal life.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.op.org/our-story/",
+        "label": "Order of Preachers: history of the order"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-145",
+      "index": 2
+    }
+  },
+  {
+    "id": "indigene",
+    "term": "indigène",
+    "aliases": [],
+    "short": "French: an Indigenous person or native inhabitant.",
+    "note": "French indigène means native to a country; as a noun, a person indigenous to it. In colonial usage it distinguished the population already present from European settlers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.larousse.fr/dictionnaires/francais/indig%C3%A8ne/42602",
+        "label": "Larousse: indigène"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-115",
+      "index": 2
+    }
+  },
+  {
+    "id": "jasper",
+    "term": "jasper",
+    "aliases": [],
+    "short": "An opaque, fine-grained variety of quartz.",
+    "note": "A form of quartz whose crystals are too small to distinguish with the unaided eye. Jasper occurs in several colors and is used for ornamental objects.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/jasper",
+        "label": "Merriam-Webster: jasper"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-324",
+      "index": 0
+    }
+  },
+  {
+    "id": "agate",
+    "term": "agate",
+    "aliases": [],
+    "short": "A patterned, fine-grained quartz.",
+    "note": "A variety of chalcedony, or finely crystalline quartz, with contrasting colors arranged in bands, cloudy patches, or mosslike patterns.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/agate",
+        "label": "Merriam-Webster: agate"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-324",
+      "index": 0
+    }
+  },
+  {
+    "id": "onyx",
+    "term": "onyx",
+    "aliases": [],
+    "short": "A variety of chalcedony used as an ornamental stone.",
+    "note": "Onyx has parallel layers of contrasting colors. The material commonly called black onyx is black chalcedony, often produced by dyeing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/onyx",
+        "label": "Merriam-Webster: onyx"
+      },
+      {
+        "url": "https://www.gia.edu/doc/Some-Gemological-Challenges-in-Identifying-Black-Opaque-Gem-Materials.pdf",
+        "label": "GIA: identifying black opaque gem materials"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-090",
+      "index": 0
+    }
+  },
+  {
+    "id": "anise",
+    "term": "anise",
+    "aliases": [],
+    "short": "An aromatic herb with a licorice-like scent.",
+    "note": "Anise, Pimpinella anisum, is a plant in the carrot family. Its aromatic seeds are used as a flavoring; their scent resembles licorice.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/anise",
+        "label": "Merriam-Webster: anise"
+      },
+      {
+        "url": "https://hort.extension.wisc.edu/articles/anise-hyssop-agastache-foeniculum/",
+        "label": "University of Wisconsin Extension: anise scent and botanical distinction"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-220",
+      "index": 0
+    }
+  },
+  {
+    "id": "cardamom",
+    "term": "cardamom",
+    "aliases": [],
+    "short": "An aromatic spice from the seeds of a ginger-family plant.",
+    "note": "The fragrant fruit and seeds of Elettaria cardamomum, an Indian plant related to ginger. Its seeds are used as a spice.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cardamom",
+        "label": "Merriam-Webster: cardamom"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-915",
+      "index": 2
+    }
+  },
+  {
+    "id": "melanesia",
+    "term": "Melanesia",
+    "aliases": [],
+    "short": "A Pacific region including New Guinea and nearby island groups.",
+    "note": "The cultural region encompassing New Guinea, the Solomon Islands, Vanuatu, Fiji, and New Caledonia, among other islands. Its peoples have diverse languages and cultural traditions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://australian.museum/learn/cultures/pasifika-collections/melanesian/",
+        "label": "Australian Museum: Melanesian collections"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-217",
+      "index": 2
+    }
+  },
+  {
+    "id": "homeric",
+    "term": "Homeric",
+    "aliases": [],
+    "short": "Relating to the Greek poet Homer, his age, or his poetry.",
+    "note": "An adjective connecting something with Homer, the ancient Greek poet, the period associated with him, or the world of his writings.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Homeric",
+        "label": "Merriam-Webster: Homeric"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-049",
+      "index": 0
+    }
+  },
+  {
+    "id": "sophistry",
+    "term": "sophistry",
+    "aliases": [],
+    "short": "Plausible but misleading or unsound reasoning.",
+    "note": "An argument that appears convincing while depending on deceptive reasoning or a concealed error.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sophistry",
+        "label": "Merriam-Webster: sophistry"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-231",
+      "index": 2
+    }
   }
 ]

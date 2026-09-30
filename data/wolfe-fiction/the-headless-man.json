@@ -43,5 +43,20 @@
       }
     ],
     "evidence": "story/p-011:  apartment door shuts me off from the headstrong, pigheaded dummkopf (love that word) world outside."
+  },
+  {
+    "id": "thalidomide",
+    "term": "thalidomide",
+    "aliases": [],
+    "short": "A drug linked to a major birth-defect tragedy.",
+    "note": "Marketed as a sleeping medicine in the mid-twentieth century, thalidomide caused severe birth defects in thousands of babies after use during pregnancy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.fda.gov/about-fda/histories-product-regulation/promoting-safe-effective-drugs-100-years",
+        "label": "FDA · Promoting Safe and Effective Drugs for 100 Years"
+      }
+    ],
+    "evidence": "story/p-006:  shoulders would be silly, after all. I suppose it was thalidomide or something.) I’m sure you’re wondering how my internal organs are distributed and "
   }
 ]

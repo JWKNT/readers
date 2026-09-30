@@ -37,7 +37,7 @@
   ],
   "totalWords": 186717,
   "defaultChapter": "section-05",
-  "glossaryCount": 94,
+  "glossaryCount": 103,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -181,6 +181,14 @@
         {
           "term": "firmament",
           "paragraph": "p-037"
+        },
+        {
+          "term": "euclidean-geometry",
+          "paragraph": "p-040"
+        },
+        {
+          "term": "euclid",
+          "paragraph": "p-048"
         },
         {
           "term": "gunwale",
@@ -2009,6 +2017,10 @@
           "paragraph": "p-939"
         },
         {
+          "term": "au",
+          "paragraph": "p-983"
+        },
+        {
           "term": "oort-cloud",
           "paragraph": "p-985"
         },
@@ -2051,6 +2063,14 @@
         {
           "term": "foundation",
           "paragraph": "p-1526"
+        },
+        {
+          "term": "europa",
+          "paragraph": "p-1543"
+        },
+        {
+          "term": "ceres",
+          "paragraph": "p-1543"
         },
         {
           "term": "dunhuang",
@@ -2578,7 +2598,23 @@
       ],
       "noteAnchors": [
         {
+          "term": "europa",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "ceres",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "gogol",
+          "paragraph": "p-006"
+        },
+        {
           "term": "kuiper-belt",
+          "paragraph": "p-011"
+        },
+        {
+          "term": "au",
           "paragraph": "p-011"
         },
         {
@@ -2612,6 +2648,10 @@
         {
           "term": "quantum-mechanics",
           "paragraph": "p-269"
+        },
+        {
+          "term": "darwin",
+          "paragraph": "p-316"
         },
         {
           "term": "qin-shi-huang",
@@ -3381,6 +3421,10 @@
         {
           "term": "photosphere",
           "paragraph": "p-283"
+        },
+        {
+          "term": "au",
+          "paragraph": "p-285"
         },
         {
           "term": "simon-bolivar",
@@ -5219,6 +5263,14 @@
           "paragraph": "p-517"
         },
         {
+          "term": "europa",
+          "paragraph": "p-521"
+        },
+        {
+          "term": "au",
+          "paragraph": "p-661"
+        },
+        {
           "term": "oort-cloud",
           "paragraph": "p-670"
         },
@@ -5231,8 +5283,16 @@
           "paragraph": "p-680"
         },
         {
+          "term": "callisto",
+          "paragraph": "p-757"
+        },
+        {
           "term": "genghis-khan",
           "paragraph": "p-789"
+        },
+        {
+          "term": "charon",
+          "paragraph": "p-818"
         },
         {
           "term": "sirius",

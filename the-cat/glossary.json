@@ -238,28 +238,6 @@
     }
   },
   {
-    "id": "exultant",
-    "term": "exultant",
-    "short": "Triumphantly joyful.",
-    "note": "Rejoicing intensely or triumphantly; from Latin exsultare, to leap up or rejoice.",
-    "sources": [
-      {
-        "url": "https://www.merriam-webster.com/dictionary/exultant",
-        "label": "Merriam-Webster · exultant"
-      }
-    ],
-    "aliases": [
-      "exultants"
-    ],
-    "possible": false,
-    "occurrences": 2,
-    "first": {
-      "chapter": "story",
-      "paragraph": "p-008",
-      "index": 0
-    }
-  },
-  {
     "id": "gnome",
     "term": "gnome",
     "short": "An earth spirit; a wizened little figure.",
@@ -724,6 +702,30 @@
     "first": {
       "chapter": "story",
       "paragraph": "p-003",
+      "index": 0
+    }
+  },
+  {
+    "id": "giddypate",
+    "term": "giddypate",
+    "aliases": [],
+    "short": "A frivolous or thoughtless person.",
+    "note": "An older term for a flighty, heedless person; also written giddy-pate or giddy-head.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordnik.com/words/giddy-pate",
+        "label": "The Century Dictionary via Wordnik · giddy-pate"
+      },
+      {
+        "url": "https://www.dictionary.com/browse/giddy",
+        "label": "Dictionary.com · giddy"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-013",
       "index": 0
     }
   }

@@ -4,12 +4,16 @@
     "term": "Father Eddi",
     "aliases": [],
     "short": "The priest in Kipling’s “Eddi’s Service.”",
-    "note": "Eddi is Saint Wilfred’s priest in Rudyard Kipling’s poem “Eddi’s Service” (1910). When no congregation arrives on a stormy Christmas night, he conducts the service for an ox and an ass.",
+    "note": "Eddi is Saint Wilfrid’s priest in Rudyard Kipling’s poem “Eddi’s Service” (1910). When no congregation arrives on a stormy Christmas night, he conducts the service for an ox and an ass.",
     "possible": false,
     "sources": [
       {
-        "url": "https://www.kiplingsociety.co.uk/wp-content/uploads/pdf/KJ358.pdf",
-        "label": "Kipling Society: Eddi’s Service"
+        "url": "https://www.kiplingsociety.co.uk/poem/poems_eddi.htm",
+        "label": "Rudyard Kipling: Eddi’s Service"
+      },
+      {
+        "url": "https://www.kiplingsociety.co.uk/readers-guide/rg_eddi1.htm",
+        "label": "Kipling Society: publication and background notes"
       }
     ],
     "occurrences": 28,
@@ -298,6 +302,34 @@
     "first": {
       "chapter": "story",
       "paragraph": "p-032",
+      "index": 0
+    }
+  },
+  {
+    "id": "yeshua-bar-yoseph",
+    "term": "Yeshua bar-Yoseph",
+    "aliases": [],
+    "short": "Jesus, son of Joseph.",
+    "note": "Yeshua is a Hebrew and Aramaic form of the name rendered Jesus in English; bar-Yoseph means “son of Joseph.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%D7%99%D7%A9%D7%95%D7%A2",
+        "label": "Wiktionary: Hebrew and Aramaic Yeshua"
+      },
+      {
+        "url": "https://biblehub.com/hebrew/1247.htm",
+        "label": "Brown–Driver–Briggs and Strong: Aramaic bar, son"
+      },
+      {
+        "url": "https://biblehub.com/hebrew/3130.htm",
+        "label": "Strong’s Hebrew: Yoseph, Joseph"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-149",
       "index": 0
     }
   }

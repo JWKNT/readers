@@ -18,7 +18,7 @@
   ],
   "totalWords": 78077,
   "defaultChapter": "fifth-head",
-  "glossaryCount": 99,
+  "glossaryCount": 128,
   "correctionCount": 1,
   "editionVersion": 15,
   "chapters": [
@@ -477,12 +477,24 @@
           "paragraph": "p-002"
         },
         {
+          "term": "parapet",
+          "paragraph": "p-003"
+        },
+        {
           "term": "port-mimizon",
           "paragraph": "p-005"
         },
         {
+          "term": "panpipe",
+          "paragraph": "p-008"
+        },
+        {
           "term": "lintel",
           "paragraph": "p-012"
+        },
+        {
+          "term": "viscera",
+          "paragraph": "p-015"
         },
         {
           "term": "saltimbanque",
@@ -494,6 +506,10 @@
         },
         {
           "term": "mile-long-spaceship",
+          "paragraph": "p-023"
+        },
+        {
+          "term": "lorn",
           "paragraph": "p-023"
         },
         {
@@ -529,6 +545,10 @@
           "paragraph": "p-048"
         },
         {
+          "term": "homeric",
+          "paragraph": "p-049"
+        },
+        {
           "term": "etruscans",
           "paragraph": "p-051"
         },
@@ -559,6 +579,10 @@
         {
           "term": "prurience",
           "paragraph": "p-088"
+        },
+        {
+          "term": "onyx",
+          "paragraph": "p-090"
         },
         {
           "term": "david-copperfield",
@@ -617,6 +641,10 @@
           "paragraph": "p-175"
         },
         {
+          "term": "synapses",
+          "paragraph": "p-198"
+        },
+        {
           "term": "phaedria",
           "paragraph": "p-206"
         },
@@ -631,6 +659,10 @@
         {
           "term": "escritoire",
           "paragraph": "p-219"
+        },
+        {
+          "term": "anise",
+          "paragraph": "p-220"
         },
         {
           "term": "ha-ha",
@@ -649,6 +681,10 @@
           "paragraph": "p-230"
         },
         {
+          "term": "grenadiers",
+          "paragraph": "p-240"
+        },
+        {
           "term": "crenelated",
           "paragraph": "p-240"
         },
@@ -665,12 +701,36 @@
           "paragraph": "p-266"
         },
         {
+          "term": "endocrine",
+          "paragraph": "p-268"
+        },
+        {
           "term": "arms-and-the-man",
           "paragraph": "p-306"
         },
         {
+          "term": "juno",
+          "paragraph": "p-306"
+        },
+        {
+          "term": "agate",
+          "paragraph": "p-324"
+        },
+        {
+          "term": "jasper",
+          "paragraph": "p-324"
+        },
+        {
+          "term": "coccyx",
+          "paragraph": "p-354"
+        },
+        {
           "term": "mendelian",
           "paragraph": "p-375"
+        },
+        {
+          "term": "narcotherapeutic",
+          "paragraph": "p-390"
         },
         {
           "term": "outcrossing",
@@ -1282,6 +1342,10 @@
           "paragraph": "p-079"
         },
         {
+          "term": "caul",
+          "paragraph": "p-114"
+        },
+        {
           "term": "aigrettes",
           "paragraph": "p-175"
         },
@@ -1304,6 +1368,10 @@
         {
           "term": "poictesme",
           "paragraph": "p-367"
+        },
+        {
+          "term": "gossamer",
+          "paragraph": "p-406"
         },
         {
           "term": "chaplet",
@@ -2371,12 +2439,28 @@
           "paragraph": "p-105"
         },
         {
+          "term": "indigene",
+          "paragraph": "p-115"
+        },
+        {
+          "term": "dominicans",
+          "paragraph": "p-145"
+        },
+        {
           "term": "tempus",
           "paragraph": "p-148"
         },
         {
           "term": "puttee",
           "paragraph": "p-175"
+        },
+        {
+          "term": "brackish",
+          "paragraph": "p-183"
+        },
+        {
+          "term": "spoor",
+          "paragraph": "p-208"
         },
         {
           "term": "fennec",
@@ -2391,8 +2475,16 @@
           "paragraph": "p-210"
         },
         {
+          "term": "melanesia",
+          "paragraph": "p-217"
+        },
+        {
           "term": "lintel",
           "paragraph": "p-221"
+        },
+        {
+          "term": "sophistry",
+          "paragraph": "p-231"
         },
         {
           "term": "sinecure",
@@ -2401,6 +2493,14 @@
         {
           "term": "cave-canem",
           "paragraph": "p-244"
+        },
+        {
+          "term": "tallow",
+          "paragraph": "p-259"
+        },
+        {
+          "term": "gossamer",
+          "paragraph": "p-311"
         },
         {
           "term": "sainte-croix",
@@ -2487,12 +2587,24 @@
           "paragraph": "p-812"
         },
         {
+          "term": "dray",
+          "paragraph": "p-814"
+        },
+        {
           "term": "colonnades",
           "paragraph": "p-819"
         },
         {
+          "term": "darwin",
+          "paragraph": "p-821"
+        },
+        {
           "term": "laissez-faire",
           "paragraph": "p-831"
+        },
+        {
+          "term": "fakir",
+          "paragraph": "p-862"
         },
         {
           "term": "carding",
@@ -2501,6 +2613,14 @@
         {
           "term": "pewter",
           "paragraph": "p-863"
+        },
+        {
+          "term": "tenpenny-nails",
+          "paragraph": "p-879"
+        },
+        {
+          "term": "cardamom",
+          "paragraph": "p-915"
         },
         {
           "term": "maison-du-chien",

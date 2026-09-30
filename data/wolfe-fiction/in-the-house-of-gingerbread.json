@@ -45,5 +45,20 @@
       }
     ],
     "evidence": "story/p-151: That evening the house played Little Girl. The essence, the ectoplasm, the soul of the child seeped from the cracked old plaster that had absorbed it when new."
+  },
+  {
+    "id": "nicht-wahr",
+    "term": "nicht wahr",
+    "aliases": [],
+    "short": "German: isn’t that so?",
+    "note": "A German tag question asking for agreement: “isn’t that so?” or “isn’t it?”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/nicht-wahr",
+        "label": "Collins · nicht wahr?"
+      }
+    ],
+    "evidence": "story/p-222: , cooking a witch is not quite so easy as you thought, nicht wahr? Henry jerked a cord from the wall. Tina noted with amusement that it was the cord o"
   }
 ]

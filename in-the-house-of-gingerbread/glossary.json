@@ -60,5 +60,25 @@
       "paragraph": "p-151",
       "index": 0
     }
+  },
+  {
+    "id": "nicht-wahr",
+    "term": "nicht wahr",
+    "aliases": [],
+    "short": "German: isn’t that so?",
+    "note": "A German tag question asking for agreement: “isn’t that so?” or “isn’t it?”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/nicht-wahr",
+        "label": "Collins · nicht wahr?"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-222",
+      "index": 0
+    }
   }
 ]

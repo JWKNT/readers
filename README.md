@@ -91,6 +91,9 @@ This annotations-only rebuild uses the committed chapter text, requires no EPUB,
 and leaves original notes, supplementary sections, and source metadata untouched.
 Verify with `python3 tools/validate.py --baseline <previous-commit>` and
 `python3 -m unittest discover -s tools -p "test_rebuild_annotations.py"`.
+The unlinked `data/annotation-audit.json` records the 2026-09-30 audit scope,
+chapter-by-chapter outcomes, and editorial corrections; `NOTES-ANNOTATION-AUDIT.md`
+explains the method and verification.
 
 ## Hosting
 

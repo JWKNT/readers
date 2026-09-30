@@ -178,5 +178,20 @@
       }
     ],
     "evidence": "story/p-018: p-018 Anderson passed a billboard showing the little sternwheeler Apollo 2 and swerved onto the next unmarked road. There were fresh tire tracks in the sno"
+  },
+  {
+    "id": "odysseus-wax",
+    "term": "Odysseus’s wax",
+    "aliases": [],
+    "short": "Wax used to block the Sirens’ song.",
+    "note": "In book 12 of Homer’s Odyssey, Odysseus stops his companions’ ears with wax to protect them from the Sirens; he listens while bound to the mast.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://classics.mit.edu/Homer/odyssey.12.xii.html",
+        "label": "Homer · Odyssey, book 12"
+      }
+    ],
+    "evidence": "story/p-009:  voice, Anderson said aloud, “They sell everything but Odysseus’s wax. But then, I don’t need wax.” He had been thinking of the man-headed bull, Nin, of A"
   }
 ]

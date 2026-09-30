@@ -1,0 +1,4399 @@
+{
+  "schema": 1,
+  "date": "2026-09-30",
+  "baselineCommit": "89b41da",
+  "annotationPreservationBaseline": "337d71bd8746a7632160e2f649d3e979d285296f",
+  "scope": "The 64 non-Solar-Cycle readers present at the audit baseline.",
+  "method": "Full-corpus lexical and named-reference inventories, existing-note comparison, targeted contextual reading, and independently opened external sources. This is not a new line-by-line close reading or a guarantee that every subtle allusion has been identified.",
+  "policy": "External facts and contextual senses only. Preserve original prose, addresses, word counts, footnotes, translator notes, and optional afterwords. No quota-driven additions; uncertain connections begin Possibly in both definitions.",
+  "summary": {
+    "readersReviewed": 64,
+    "narrativeChaptersReviewed": 181,
+    "originalInventoryNarrativeWords": 930940,
+    "narrativeWordsPreserved": 930949,
+    "referenceSectionsUnchanged": 42,
+    "addedNotes": 400,
+    "readersWithAdditions": 63,
+    "distinctNewSourceUrls": 384,
+    "removedMisleadingNotes": 1,
+    "correctedExistingNotes": 7
+  },
+  "editorialCorrections": [
+    {
+      "reader": "the-cat",
+      "noteId": "exultant",
+      "change": "removed",
+      "reason": "The actual occurrences name a fictional social rank; the ordinary adjective definition selected the wrong contextual sense."
+    },
+    {
+      "reader": "our-neighbour-by-david-copperfield",
+      "noteId": "sere",
+      "change": "definition corrected",
+      "reason": "The word describes a person in the passage, so the vegetation-only restriction was removed."
+    },
+    {
+      "reader": "deaths-end",
+      "noteId": "starry-night",
+      "change": "alias removed",
+      "reason": "Van Gogh names the artist in several passages, not invariably The Starry Night. The painting note now matches the title alone."
+    },
+    {
+      "reader": "the-map",
+      "noteId": "nones",
+      "change": "historical senses clarified",
+      "reason": "The dialogue places nones at midday. The revised note records the original ninth-hour office and the historically attested shift toward midday."
+    },
+    {
+      "reader": "and-when-they-appear",
+      "noteId": "father-eddi",
+      "change": "name corrected and sources improved",
+      "reason": "The primary Kipling poem spells Saint Wilfrid with an i. Direct poem and publication-history sources replace an indirect journal source."
+    },
+    {
+      "reader": "the-tale-of-the-rose-and-the-nightingale-and-what-came-of-it",
+      "noteId": "gharib",
+      "change": "short definition broadened",
+      "reason": "The entry also matches Ajib, an antagonist; its brief gloss now identifies both as figures rather than describing both as a hero."
+    },
+    {
+      "reader": "deaths-end",
+      "noteId": "poe-maelstrom",
+      "change": "author aliases removed and source link made direct",
+      "reason": "References to Poe and his works generally are not equivalent to the title A Descent into the Maelstrom; the note now matches the story title alone. The supporting date-archive URL was replaced with the direct story URL at the same museum."
+    },
+    {
+      "reader": "deaths-end",
+      "noteId": "clerical-script",
+      "change": "historical dating refined",
+      "reason": "Clerical script has pre-Han roots and became widely used during the Han; the revised definition reflects both stages."
+    },
+    {
+      "reader": "dark-forest",
+      "noteId": "achondrite",
+      "change": "new-note precision refined",
+      "reason": "The short definition now specifies chondrules rather than rounded mineral grains generically."
+    }
+  ],
+  "readers": [
+    {
+      "id": "the-fifth-head-of-cerberus",
+      "title": "The Fifth Head of Cerberus",
+      "narrativeWords": 78077,
+      "baselineNotes": 58,
+      "addedNotes": 70,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 128,
+      "chapters": [
+        {
+          "id": "fifth-head",
+          "title": "The Fifth Head of Cerberus",
+          "words": 25332,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 41,
+          "currentLocalNotes": 70,
+          "newNoteIds": [
+            "agate",
+            "anise",
+            "areaway",
+            "carmine",
+            "chattels",
+            "coccyx",
+            "contralto",
+            "corinthian",
+            "crenelated",
+            "cybernetics",
+            "endocrine",
+            "grenadiers",
+            "homeric",
+            "jasper",
+            "juno",
+            "lintel",
+            "lorn",
+            "maidenhead",
+            "narcotherapeutic",
+            "onyx",
+            "outcrossing",
+            "pallets",
+            "panpipe",
+            "parapet",
+            "pralines",
+            "prurience",
+            "servitor",
+            "synapses",
+            "viscera"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "a-story",
+          "title": "“A Story,” by John V. Marsch",
+          "words": 18495,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 6,
+          "currentLocalNotes": 13,
+          "newNoteIds": [
+            "acolyte",
+            "aigrettes",
+            "caul",
+            "chaplet",
+            "gobbet",
+            "gossamer",
+            "ungulate"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "vrt",
+          "title": "V. R. T.",
+          "words": 34250,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 21,
+          "currentLocalNotes": 57,
+          "newNoteIds": [
+            "ballisticians",
+            "brackish",
+            "cardamom",
+            "carding",
+            "colonnades",
+            "darwin",
+            "dominicans",
+            "dray",
+            "emolument",
+            "eoliths",
+            "fakir",
+            "garrotte",
+            "gingham",
+            "gossamer",
+            "haberdasher",
+            "heterodox",
+            "indigene",
+            "knapping",
+            "lachrymal",
+            "laissez-faire",
+            "lintel",
+            "litany",
+            "melanesia",
+            "paleolithic",
+            "pewter",
+            "portage",
+            "prophylactic",
+            "puttee",
+            "radiogram",
+            "recognizance",
+            "reveille",
+            "sophistry",
+            "spoor",
+            "tallow",
+            "tenpenny-nails",
+            "tgallant"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "holographs",
+          "reason": "The text immediately explains the three-dimensional image; a handwritten-manuscript gloss would select the wrong sense."
+        },
+        {
+          "candidate": "liana",
+          "reason": "Immediately explained in the prose as a woody vine."
+        },
+        {
+          "candidate": "milliard",
+          "reason": "Immediately explained as a billion."
+        },
+        {
+          "candidate": "withers",
+          "reason": "Verb in the passage, not the anatomical noun."
+        },
+        {
+          "candidate": "rose",
+          "reason": "Verb, not the botanical noun."
+        },
+        {
+          "candidate": "Whistler",
+          "reason": "A fictional child’s name; no independently established painter allusion."
+        },
+        {
+          "candidate": "Armstrong School",
+          "reason": "Fictional institution; no established Neil Armstrong connection."
+        },
+        {
+          "candidate": "dendritic",
+          "reason": "Used in an unusual speculative cultural chronology; ordinary branching definition does not substantiate a prehistoric period."
+        },
+        {
+          "candidate": "OCR artifacts",
+          "reason": "Malformed source tokens are not vocabulary. Annotation edits do not silently repair prose; separately authorized transcription corrections are recorded in the editorial ledger."
+        }
+      ]
+    },
+    {
+      "id": "all-the-hues-of-hell",
+      "title": "All the Hues of Hell",
+      "narrativeWords": 4669,
+      "baselineNotes": 3,
+      "addedNotes": 3,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 6,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "All the Hues of Hell",
+          "words": 4669,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 6,
+          "newNoteIds": [
+            "cinnabar",
+            "ferrules",
+            "gravimeter"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "gravitor, grav beams, holovamp, shadow matter",
+          "reason": "Story-specific technology, not independently established factual definitions."
+        },
+        {
+          "candidate": "Polyaris",
+          "reason": "No unsupported identification with Polaris or etymology of a fictional name."
+        },
+        {
+          "candidate": "Moses, I Am",
+          "reason": "Familiar biblical references; no extended or interpretive gloss forced."
+        }
+      ]
+    },
+    {
+      "id": "and-when-they-appear",
+      "title": "And When They Appear",
+      "narrativeWords": 8457,
+      "baselineNotes": 11,
+      "addedNotes": 5,
+      "removedNoteIds": [],
+      "correctedNoteIds": [
+        "father-eddi"
+      ],
+      "currentNotes": 16,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "And When They Appear",
+          "words": 8457,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 11,
+          "currentLocalNotes": 16,
+          "newNoteIds": [
+            "asgard",
+            "cravat",
+            "exousia",
+            "weihnachtsmann",
+            "yeshua-bar-yoseph"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Greg / Kawi",
+          "status": "unverified",
+          "reason": "No confidently identified external work; do not invent a biography."
+        },
+        {
+          "candidate": "Fridleef",
+          "status": "withheld",
+          "reason": "The embedded Yule legend was not independently verified; existing Frey note already gives established mythology."
+        },
+        {
+          "candidate": "Beauharnais Group / Carker’s Army",
+          "status": "rejected",
+          "reason": "No basis to identify fictional organizations with historical namesakes."
+        }
+      ]
+    },
+    {
+      "id": "bed-and-breakfast",
+      "title": "Bed and Breakfast",
+      "narrativeWords": 8577,
+      "baselineNotes": 8,
+      "addedNotes": 4,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 12,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Bed and Breakfast",
+          "words": 8577,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 8,
+          "currentLocalNotes": 12,
+          "newNoteIds": [
+            "ablutions",
+            "aureole",
+            "percipient",
+            "probity"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Eira",
+          "status": "rejected",
+          "reason": "A fictional personal name; speculative linguistic etymology would add an unsupported connection."
+        },
+        {
+          "candidate": "Dante through Vesuvius",
+          "status": "rejected",
+          "reason": "Narrator labels it rumor; do not validate this as a route in the Divine Comedy."
+        },
+        {
+          "candidate": "Book of Tobit",
+          "status": "covered",
+          "reason": "Existing Raphael note already supplies the relevant book and episode."
+        }
+      ]
+    },
+    {
+      "id": "beech-hill",
+      "title": "Beech Hill",
+      "narrativeWords": 2216,
+      "baselineNotes": 1,
+      "addedNotes": 1,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 2,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Beech Hill",
+          "words": 2216,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 2,
+          "newNoteIds": [
+            "norfolk-jacket"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Esterhazy / Preston Potts",
+          "status": "rejected",
+          "reason": "Fictional identities do not establish particular historical namesakes."
+        },
+        {
+          "candidate": "Walther PPK / Mauser / Beretta / Luger",
+          "status": "not-selected",
+          "reason": "The story already identifies these as pistols; further model identification not necessary for the passage."
+        }
+      ]
+    },
+    {
+      "id": "the-boy-who-hooked-the-sun",
+      "title": "The Boy Who Hooked the Sun",
+      "narrativeWords": 1130,
+      "baselineNotes": 4,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 6,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Boy Who Hooked the Sun",
+          "words": 1130,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 4,
+          "currentLocalNotes": 6,
+          "newNoteIds": [
+            "hellas",
+            "sardonyxes"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Sith",
+          "status": "unverified",
+          "reason": "No reliable identification established; do not import Star Wars or an unsupported deity."
+        },
+        {
+          "candidate": "alexanderites",
+          "status": "unverified",
+          "reason": "Possible unusual spelling of alexandrite; no textual correction or unsupported mineral identity proposed."
+        }
+      ]
+    },
+    {
+      "id": "a-cabin-on-the-coast",
+      "title": "A Cabin on the Coast",
+      "narrativeWords": 4350,
+      "baselineNotes": 4,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 6,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "A Cabin on the Coast",
+          "words": 4350,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 4,
+          "currentLocalNotes": 6,
+          "newNoteIds": [
+            "dais",
+            "jinn"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "twill",
+          "status": "rejected-false-positive",
+          "reason": "The text says ’twill, meaning it will; it is not the fabric."
+        },
+        {
+          "candidate": "Lissy / Daniel / Timothy",
+          "status": "rejected",
+          "reason": "No independently evidenced namesake inference."
+        },
+        {
+          "candidate": "naïads / dryads / Domdaniel / Deeny Shee",
+          "status": "covered",
+          "reason": "Already annotated in the authored glossary."
+        }
+      ]
+    },
+    {
+      "id": "the-cat",
+      "title": "The Cat",
+      "narrativeWords": 2651,
+      "baselineNotes": 24,
+      "addedNotes": 11,
+      "removedNoteIds": [
+        "exultant"
+      ],
+      "correctedNoteIds": [],
+      "currentNotes": 34,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Cat",
+          "words": 2651,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 24,
+          "currentLocalNotes": 34,
+          "newNoteIds": [
+            "choralcelo",
+            "circumfused",
+            "counterpane",
+            "giddypate",
+            "hallowmass",
+            "larva",
+            "lemures",
+            "peri",
+            "pochette",
+            "scullery",
+            "specula"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "culina magna",
+          "reason": "Literal great-kitchen sense already clear from the following kitchen scene; not prioritized."
+        },
+        {
+          "candidate": "pupil",
+          "reason": "The passage already supplies the relevant image-in-the-eye etymological explanation."
+        },
+        {
+          "candidate": "Aude, Appian",
+          "reason": "No new speculative historical namesake notes."
+        }
+      ]
+    },
+    {
+      "id": "the-dark-of-the-june",
+      "title": "The Dark of the June",
+      "narrativeWords": 2185,
+      "baselineNotes": 2,
+      "addedNotes": 1,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 3,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Dark of the June",
+          "words": 2185,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "disincarnate"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "nin, glo-lite, trans-tart, 3V",
+          "reason": "Invented story terminology, with nin explained in the related narrative."
+        },
+        {
+          "candidate": "Saran",
+          "reason": "Recognizable commercial plastic-film name; low incremental value."
+        }
+      ]
+    },
+    {
+      "id": "the-death-of-dr-island",
+      "title": "The Death of Dr. Island",
+      "narrativeWords": 20671,
+      "baselineNotes": 7,
+      "addedNotes": 16,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 23,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Death of Dr. Island",
+          "words": 20671,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 7,
+          "currentLocalNotes": 23,
+          "newNoteIds": [
+            "asphodel",
+            "columniated",
+            "combers",
+            "fraxinella",
+            "harlow-effect",
+            "i-have-desired-to-go",
+            "i-was-watching-satan-fall-as-lightning-from-heaven",
+            "lianas",
+            "palliates",
+            "patrao",
+            "psychodrama",
+            "stridulations",
+            "the-lustre-of-the-long-convolvuluses",
+            "tutelary",
+            "ululant",
+            "zenos-paradox"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Pontic gardens",
+          "status": "rejected",
+          "reason": "Likely fictional or hydroponic shorthand; a Black Sea gloss would be contextually misleading."
+        },
+        {
+          "candidate": "quartanary",
+          "status": "unverified",
+          "reason": "Unclear source spelling and speculative medical sense; retained without annotation."
+        },
+        {
+          "candidate": "Maya",
+          "status": "rejected",
+          "reason": "Personal name alone does not justify a Hindu illusion doctrine."
+        },
+        {
+          "candidate": "Achilles",
+          "status": "covered",
+          "reason": "An astronomical destination in context; existing Trojan Planets note covers the relevant naming tradition, not the Greek hero’s biography."
+        },
+        {
+          "candidate": "Freud",
+          "status": "deferred",
+          "reason": "Externally identifiable, but optional overlap with the already explicit account of psychoanalysis; not added as a duplicate generic biographical margin."
+        }
+      ]
+    },
+    {
+      "id": "the-death-of-hyle",
+      "title": "The Death of Hyle",
+      "narrativeWords": 2270,
+      "baselineNotes": 5,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 7,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Death of Hyle",
+          "words": 2270,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 5,
+          "currentLocalNotes": 7,
+          "newNoteIds": [
+            "tole",
+            "too-solid-flesh"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "elastometer",
+          "reason": "Potential source/typographic confusion with elastomer; no factual correction or invented definition."
+        },
+        {
+          "candidate": "destroy the thing we love",
+          "reason": "Possible Wilde echo, but withheld rather than assert an unverified verbal attribution."
+        },
+        {
+          "candidate": "fernseed",
+          "reason": "Folkloric associations considered, but not needed to understand the immediate comparison."
+        }
+      ]
+    },
+    {
+      "id": "death-of-the-island-doctor",
+      "title": "Death of the Island Doctor",
+      "narrativeWords": 2229,
+      "baselineNotes": 16,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 18,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Death of the Island Doctor",
+          "words": 2229,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 16,
+          "currentLocalNotes": 18,
+          "newNoteIds": [
+            "noblesse-oblige",
+            "thule"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Serendib / Taprobane",
+          "status": "not-selected",
+          "reason": "The same sentence already explicitly identifies these as older names for Sri Lanka."
+        },
+        {
+          "candidate": "Arthur tomb inscription",
+          "status": "covered",
+          "reason": "Existing Avalon annotation explains the medieval grave claim."
+        },
+        {
+          "candidate": "island quotations",
+          "status": "covered",
+          "reason": "Existing notes already identify Thoreau, Thomson, Kazantzakis, and Tennyson."
+        }
+      ]
+    },
+    {
+      "id": "the-detective-of-dreams",
+      "title": "The Detective of Dreams",
+      "narrativeWords": 6933,
+      "baselineNotes": 4,
+      "addedNotes": 6,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 10,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Detective of Dreams",
+          "words": 6933,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 4,
+          "currentLocalNotes": 10,
+          "newNoteIds": [
+            "bordels",
+            "descant",
+            "hauptstrasse",
+            "plainsong",
+            "rathaus",
+            "schloss"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Paulette Renan / Captain Brotte / Joan O’Neil",
+          "status": "unverified",
+          "reason": "No securely identified external allusion; cannot infer from names alone."
+        },
+        {
+          "candidate": "Tiergarten",
+          "status": "deferred",
+          "reason": "Generic zoological garden meaning likely, but no specific city should be inferred."
+        }
+      ]
+    },
+    {
+      "id": "eyebem",
+      "title": "Eyebem",
+      "narrativeWords": 4225,
+      "baselineNotes": 4,
+      "addedNotes": 3,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 7,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Eyebem",
+          "words": 4225,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 4,
+          "currentLocalNotes": 7,
+          "newNoteIds": [
+            "bistable",
+            "hysteresis",
+            "trusses"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "colds-hortness",
+          "reason": "Apparent line-break/OCR form of cold-shortness, and the narrative already explains the brittleness; text unchanged."
+        },
+        {
+          "candidate": "Kivalina, Point Hope",
+          "reason": "Real locations, but added place summaries would largely duplicate travel context."
+        },
+        {
+          "candidate": "Saint Kennedy the Less",
+          "reason": "Fictional sanctification; no unsupported biographical identification."
+        }
+      ]
+    },
+    {
+      "id": "the-eyeflash-miracles",
+      "title": "The Eyeflash Miracles",
+      "narrativeWords": 23757,
+      "baselineNotes": 17,
+      "addedNotes": 3,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 20,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Eyeflash Miracles",
+          "words": 23757,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 17,
+          "currentLocalNotes": 20,
+          "newNoteIds": [
+            "kirlian-auras",
+            "pawl",
+            "the-procurator-of-judea"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Muggly / Nitty / Tibbs",
+          "status": "rejected",
+          "reason": "Fictional names; no unsupported etymologies."
+        },
+        {
+          "candidate": "Clothes Man / Metal Man / Gnome King",
+          "status": "covered",
+          "reason": "Existing Oz annotations already explain these."
+        },
+        {
+          "candidate": "Kirlian claims",
+          "status": "bounded",
+          "reason": "New annotation describes electrical photography and moisture findings, without endorsing paranormal claims."
+        }
+      ]
+    },
+    {
+      "id": "forlesen",
+      "title": "Forlesen",
+      "narrativeWords": 18725,
+      "baselineNotes": 1,
+      "addedNotes": 6,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 7,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Forlesen",
+          "words": 18725,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 7,
+          "newNoteIds": [
+            "blind-tooled",
+            "coatimundi",
+            "cruet",
+            "keypunch",
+            "mimeographed",
+            "oakum"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Forlesen / Forlosen / Ffoulks",
+          "status": "rejected",
+          "reason": "No speculative etymology or fictional biography."
+        },
+        {
+          "candidate": "Bet-Your-Life / Fastpatch",
+          "status": "rejected",
+          "reason": "Fictional game and product; no external invention proposed."
+        },
+        {
+          "candidate": "tiller",
+          "status": "not-selected",
+          "reason": "Common nautical term recoverable from the ship metaphor; oakum is the higher-value omission."
+        }
+      ]
+    },
+    {
+      "id": "from-the-desk-of-gilmer-c-merton",
+      "title": "From the Desk of Gilmer C. Merton",
+      "narrativeWords": 1547,
+      "baselineNotes": 1,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 3,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "From the Desk of Gilmer C. Merton",
+          "words": 1547,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "berry-longear",
+            "oar-scottson-curd"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "sym. hc.",
+          "status": "unverified",
+          "reason": "Likely publishing shorthand, but precise wording is unclear; no guessed expansion."
+        },
+        {
+          "candidate": "Gil Donadil / Steven E. Presley / Hijo",
+          "status": "unverified",
+          "reason": "Possible author/title puns not independently settled; withheld."
+        },
+        {
+          "candidate": "Berry Longear / Oar Scottson Curd",
+          "status": "tentative-proposed",
+          "reason": "Plausible author-name wordplay; both short and full notes explicitly begin Possibly."
+        }
+      ]
+    },
+    {
+      "id": "from-the-notebook-of-dr-stein",
+      "title": "From the Notebook of Dr. Stein",
+      "narrativeWords": 2046,
+      "baselineNotes": 5,
+      "addedNotes": 3,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 8,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "From the Notebook of Dr. Stein",
+          "words": 2046,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 5,
+          "currentLocalNotes": 8,
+          "newNoteIds": [
+            "asymptotically",
+            "dr-huer",
+            "flapper"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "nin, Thag",
+          "reason": "Fictional world terms."
+        },
+        {
+          "candidate": "Cerletti, Bini, alienist, Blutsauger",
+          "reason": "Already annotated; no duplicate notes."
+        },
+        {
+          "candidate": "vibrato, marionette, Dictaphone",
+          "reason": "Lower-priority familiar or contextually explained vocabulary."
+        }
+      ]
+    },
+    {
+      "id": "game-in-the-popes-head",
+      "title": "Game in the Pope’s Head",
+      "narrativeWords": 1847,
+      "baselineNotes": 6,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 8,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Game in the Pope’s Head",
+          "words": 1847,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 6,
+          "currentLocalNotes": 8,
+          "newNoteIds": [
+            "beelzebub",
+            "hansom"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Unlawful evil",
+          "status": "rejected",
+          "reason": "May echo game alignments, but not a standard alignment phrase; no unsupported system attribution."
+        },
+        {
+          "candidate": "Pogo / Gacy / H. H. Holmes / Saucy Jacky",
+          "status": "not-selected",
+          "reason": "The adjacent dialogue explicitly supplies identities; did not add redundant biographies."
+        },
+        {
+          "candidate": "Nasht and Kaman-Thah",
+          "status": "covered",
+          "reason": "Existing Dream-Quest context substantially covers the quoted dream setting."
+        }
+      ]
+    },
+    {
+      "id": "the-god-and-his-man",
+      "title": "The God and His Man",
+      "narrativeWords": 2205,
+      "baselineNotes": 3,
+      "addedNotes": 1,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 4,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The God and His Man",
+          "words": 2205,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 4,
+          "newNoteIds": [
+            "tarnung"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Isid Iooo IoooE",
+          "status": "rejected",
+          "reason": "Fictional divine name; no invented real-world etymology."
+        },
+        {
+          "candidate": "Urth",
+          "status": "rejected",
+          "reason": "No cross-series plot/world identity asserted from spelling alone."
+        }
+      ]
+    },
+    {
+      "id": "has-anybody-seen-junie-moon",
+      "title": "Has Anybody Seen Junie Moon?",
+      "narrativeWords": 6338,
+      "baselineNotes": 4,
+      "addedNotes": 1,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 5,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Has Anybody Seen Junie Moon?",
+          "words": 6338,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 4,
+          "currentLocalNotes": 5,
+          "newNoteIds": [
+            "sidereal"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "One Mug",
+          "status": "unverified",
+          "reason": "Plausible Einstein wordplay, but no verified lexical chain added."
+        },
+        {
+          "candidate": "antimatter / antiprotons / positrons",
+          "status": "not-selected",
+          "reason": "Dialogue already explains their elementary relationship; no validation of fictional antigravity physics."
+        },
+        {
+          "candidate": "Gawain / Galahad / Lancelot",
+          "status": "not-selected",
+          "reason": "The paragraph already explicitly explains that these are Arthur’s knights; no plot analogies supplied."
+        }
+      ]
+    },
+    {
+      "id": "the-headless-man",
+      "title": "The Headless Man",
+      "narrativeWords": 2362,
+      "baselineNotes": 2,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 4,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Headless Man",
+          "words": 2362,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 4,
+          "newNoteIds": [
+            "dummkopf",
+            "thalidomide"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "headless race, foot-shading man",
+          "reason": "Covered by existing Pliny context; avoided a new speculative race-name anchor absent from the prose."
+        },
+        {
+          "candidate": "cupid’s bow",
+          "reason": "Familiar descriptive phrase; no filler."
+        }
+      ]
+    },
+    {
+      "id": "the-hero-as-werwolf",
+      "title": "The Hero as Werwolf",
+      "narrativeWords": 6448,
+      "baselineNotes": 2,
+      "addedNotes": 6,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 8,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Hero as Werwolf",
+          "words": 6448,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 8,
+          "newNoteIds": [
+            "cephalopods",
+            "columniated",
+            "hugo-de-vries",
+            "intellection",
+            "interstices",
+            "metalanguage"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Gorous / Emmitt / Janie",
+          "status": "rejected",
+          "reason": "Fictional names do not establish real-world references."
+        },
+        {
+          "candidate": "genetic masters",
+          "status": "rejected",
+          "reason": "No plot-summary or fictional biological reconstruction."
+        }
+      ]
+    },
+    {
+      "id": "the-horars-of-war",
+      "title": "The HORARS of War",
+      "narrativeWords": 6646,
+      "baselineNotes": 2,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 4,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The HORARS of War",
+          "words": 6646,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 4,
+          "newNoteIds": [
+            "shillelagh",
+            "sintered"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "HORAR, SBS, CP, homolog",
+          "reason": "Acronyms and underlying word are explained within the narrative."
+        },
+        {
+          "candidate": "fletchettes",
+          "reason": "Variant spelling of flechettes; the prose directly describes their dartlike form. Withheld a redundant weapon gloss."
+        },
+        {
+          "candidate": "ornithocopter",
+          "reason": "Fictional device described at length; no invented technical specification."
+        }
+      ]
+    },
+    {
+      "id": "hour-of-trust",
+      "title": "Hour of Trust",
+      "narrativeWords": 12017,
+      "baselineNotes": 7,
+      "addedNotes": 6,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 13,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Hour of Trust",
+          "words": 12017,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 7,
+          "currentLocalNotes": 13,
+          "newNoteIds": [
+            "ancien-regime",
+            "decolletage",
+            "midden",
+            "nominalism",
+            "ratiocination",
+            "realpolitik"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "mexidos",
+          "status": "not-selected",
+          "reason": "The word is immediately translated as scrambled in the sentence."
+        },
+        {
+          "candidate": "aureole",
+          "status": "deferred",
+          "reason": "Same standalone sense verified in Bed and Breakfast; cross-reader occurrence remains a possible later reuse."
+        },
+        {
+          "candidate": "corporations / military unit names",
+          "status": "rejected",
+          "reason": "No invented factual biographies for fictional organizations."
+        }
+      ]
+    },
+    {
+      "id": "house-of-ancestors",
+      "title": "House of Ancestors",
+      "narrativeWords": 8639,
+      "baselineNotes": 3,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 5,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "House of Ancestors",
+          "words": 8639,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 5,
+          "newNoteIds": [
+            "lamarck",
+            "plastisol"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Leghorn",
+          "reason": "The dialogue itself explicitly explains the Italian place-name and chicken breed."
+        },
+        {
+          "candidate": "DNA, deoxyribonucleic",
+          "reason": "Common scientific terms in a directly explanatory scientific setting."
+        },
+        {
+          "candidate": "Goethe’s Faust",
+          "reason": "Considered, but avoided extra general-name notes in an already clear literary anecdote."
+        }
+      ]
+    },
+    {
+      "id": "in-the-house-of-gingerbread",
+      "title": "In the House of Gingerbread",
+      "narrativeWords": 5946,
+      "baselineNotes": 2,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 4,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "In the House of Gingerbread",
+          "words": 5946,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 4,
+          "newNoteIds": [
+            "ectoplasm",
+            "nicht-wahr"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Heim",
+          "reason": "A character surname; no speculative German-name etymology."
+        },
+        {
+          "candidate": "Hansel, Gretel",
+          "reason": "The recognizable fairy-tale analogy is stated directly; avoided plot interpretation or explanatory duplication."
+        },
+        {
+          "candidate": "millwork, jamb",
+          "reason": "Ordinary building vocabulary did not meet the strongest-need threshold."
+        }
+      ]
+    },
+    {
+      "id": "the-island-of-doctor-death-and-other-stories",
+      "title": "The Island of Doctor Death and Other Stories",
+      "narrativeWords": 6199,
+      "baselineNotes": 4,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 6,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Island of Doctor Death and Other Stories",
+          "words": 6199,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 4,
+          "currentLocalNotes": 6,
+          "newNoteIds": [
+            "day-glo",
+            "tagalog"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "mollusc / siphon",
+          "status": "withheld",
+          "reason": "Passage’s barnacle zoology is problematic; avoid silently correcting prose or validating an inaccurate classification."
+        },
+        {
+          "candidate": "Golo / Talar / Ransom",
+          "status": "rejected",
+          "reason": "No unverified name etymologies or pulp-character identities."
+        }
+      ]
+    },
+    {
+      "id": "kevin-malone",
+      "title": "Kevin Malone",
+      "narrativeWords": 3805,
+      "baselineNotes": 2,
+      "addedNotes": 3,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 5,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Kevin Malone",
+          "words": 3805,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 5,
+          "newNoteIds": [
+            "aspic",
+            "remontant",
+            "sevres"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "La Capanna / Il Eremo",
+          "status": "deferred",
+          "reason": "Translations possible, but deliberately imagined estate names add limited value; no grammar correction."
+        },
+        {
+          "candidate": "Borgia",
+          "status": "not-selected",
+          "reason": "Well-known dynastic reference, but no particular cardinal can be identified from this sentence."
+        }
+      ]
+    },
+    {
+      "id": "la-befana",
+      "title": "La Befana",
+      "narrativeWords": 1350,
+      "baselineNotes": 2,
+      "addedNotes": 1,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 3,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "La Befana",
+          "words": 1350,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "newtonian"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "gog / Zozz / powerwagon",
+          "status": "rejected",
+          "reason": "Fictional creatures or transparent invented technology; no fabricated taxonomy."
+        },
+        {
+          "candidate": "Christmas witch / wise men",
+          "status": "covered",
+          "reason": "Both already annotated."
+        }
+      ]
+    },
+    {
+      "id": "the-last-thrilling-wonder-story",
+      "title": "The Last Thrilling Wonder Story",
+      "narrativeWords": 9154,
+      "baselineNotes": 2,
+      "addedNotes": 1,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 3,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Last Thrilling Wonder Story",
+          "words": 9154,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "gaiseric"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Rigelian, Lucifer Satanus",
+          "reason": "Story figures or formations, not biographical facts."
+        },
+        {
+          "candidate": "xerography",
+          "reason": "Copying context already clarifies the mechanism; no speculative account of the fictional technology."
+        },
+        {
+          "candidate": "Sirl",
+          "reason": "Apparent OCR/typographic form, not a genuine obscure lexical term."
+        }
+      ]
+    },
+    {
+      "id": "lukora",
+      "title": "Lukora",
+      "narrativeWords": 2571,
+      "baselineNotes": 3,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 5,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Lukora",
+          "words": 2571,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 5,
+          "newNoteIds": [
+            "ensorceling",
+            "freshet"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "dragonette",
+          "reason": "Story weapon, not the fish or an inferred external weapon type."
+        },
+        {
+          "candidate": "Small Folk",
+          "reason": "No fabricated taxonomy or folklore equation."
+        },
+        {
+          "candidate": "supine",
+          "reason": "Clear physical posture; lower priority than freshet and ensorceling."
+        }
+      ]
+    },
+    {
+      "id": "the-map",
+      "title": "The Map",
+      "narrativeWords": 5027,
+      "baselineNotes": 24,
+      "addedNotes": 17,
+      "removedNoteIds": [],
+      "correctedNoteIds": [
+        "nones"
+      ],
+      "currentNotes": 41,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Map",
+          "words": 5027,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 24,
+          "currentLocalNotes": 41,
+          "newNoteIds": [
+            "bandog",
+            "binnacle",
+            "burse",
+            "capstan",
+            "ells",
+            "ephemerid",
+            "gaffsail",
+            "hecatonchires",
+            "jerkin",
+            "jib-boom",
+            "lapis-lazuli",
+            "panicles",
+            "shallop",
+            "thalamegus",
+            "vellum",
+            "virescence",
+            "windlass"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "soporor",
+          "reason": "Fictional creature; no invented zoological explanation."
+        },
+        {
+          "candidate": "noctoluscence",
+          "reason": "Possibly a variant or error related to noctilucence; no unsourced normalization."
+        },
+        {
+          "candidate": "Simulatio, Osela",
+          "reason": "Avoided arbitrary name etymology or biography."
+        }
+      ]
+    },
+    {
+      "id": "the-marvelous-brass-chessplaying-automaton",
+      "title": "The Marvelous Brass Chessplaying Automaton",
+      "narrativeWords": 7147,
+      "baselineNotes": 3,
+      "addedNotes": 6,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 9,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Marvelous Brass Chessplaying Automaton",
+          "words": 7147,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 9,
+          "newNoteIds": [
+            "burgermeister",
+            "incommensurable",
+            "psychokinetic",
+            "ritters",
+            "schnapps",
+            "scullery"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "kilomarks / Queen-Computers",
+          "status": "rejected",
+          "reason": "Fictional currency scale and chess figures; no unsupported factual gloss."
+        },
+        {
+          "candidate": "Schacht / Streicher / Scheer",
+          "status": "rejected",
+          "reason": "Surnames alone do not establish twentieth-century historical individuals."
+        }
+      ]
+    },
+    {
+      "id": "the-most-beautiful-woman-on-the-world",
+      "title": "The Most Beautiful Woman on the World",
+      "narrativeWords": 4899,
+      "baselineNotes": 3,
+      "addedNotes": 3,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 6,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Most Beautiful Woman on the World",
+          "words": 4899,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 6,
+          "newNoteIds": [
+            "cadent",
+            "pitons",
+            "thermosetting"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "carabineros",
+          "reason": "Specific national police identity not established from context; withheld rather than infer Chile or another country."
+        },
+        {
+          "candidate": "Estampido",
+          "reason": "Existing note already translates the name."
+        },
+        {
+          "candidate": "gasper, leapers, creepies",
+          "reason": "Fictional or context-specific referents; no imported unrelated dictionary senses."
+        }
+      ]
+    },
+    {
+      "id": "my-book",
+      "title": "My Book",
+      "narrativeWords": 558,
+      "baselineNotes": 5,
+      "addedNotes": 1,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 6,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "My Book",
+          "words": 558,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 5,
+          "currentLocalNotes": 6,
+          "newNoteIds": [
+            "preantepenultimate"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Oliver Onions quotation, Stout quotation",
+          "reason": "Existing name notes retained; no guessed work attribution."
+        },
+        {
+          "candidate": "preantepenultimate",
+          "reason": "Accepted after verification; not treated as a nonce word."
+        }
+      ]
+    },
+    {
+      "id": "the-nebraskan-and-the-nereid",
+      "title": "The Nebraskan and the Nereid",
+      "narrativeWords": 3112,
+      "baselineNotes": 8,
+      "addedNotes": 1,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 9,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Nebraskan and the Nereid",
+          "words": 3112,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 8,
+          "currentLocalNotes": 9,
+          "newNoteIds": [
+            "schliemann"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Stout",
+          "reason": "Rejected automatic cross-note match: adjective in Keats quotation, not Rex Stout."
+        },
+        {
+          "candidate": "Epipotamides, polis, agora",
+          "reason": "Meaning supplied directly in surrounding dialogue; no redundant gloss."
+        },
+        {
+          "candidate": "Katzenjammer Kids / Miss Twiddle",
+          "reason": "Useful potential external reference; LOC result found but pages failed independent opening, so not approved here."
+        }
+      ]
+    },
+    {
+      "id": "on-the-train",
+      "title": "On the Train",
+      "narrativeWords": 460,
+      "baselineNotes": 1,
+      "addedNotes": 0,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 1,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "On the Train",
+          "words": 460,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 1,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Dawn Guard / Flip",
+          "status": "rejected",
+          "reason": "No secure external namesake; avoid allegorical plot interpretation."
+        },
+        {
+          "candidate": "berth / porter / conductor / trackage",
+          "status": "not-selected",
+          "reason": "Ordinary rail vocabulary; no padding added."
+        },
+        {
+          "candidate": "Great Circle",
+          "status": "covered",
+          "reason": "Mathematical term already correctly annotated."
+        }
+      ]
+    },
+    {
+      "id": "the-other-dead-man",
+      "title": "The Other Dead Man",
+      "narrativeWords": 6714,
+      "baselineNotes": 3,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 5,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Other Dead Man",
+          "words": 6714,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 5,
+          "newNoteIds": [
+            "fugue",
+            "hermetic"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "rattail, Centcomp, Discon",
+          "reason": "Story-specific equipment/system labels."
+        },
+        {
+          "candidate": "coagulation in vacuum",
+          "reason": "Did not turn the narrator’s scientific claim into a factual annotation."
+        },
+        {
+          "candidate": "Ra, Apollo",
+          "reason": "Familiar deity references; no forced generalized name notes."
+        }
+      ]
+    },
+    {
+      "id": "our-neighbour-by-david-copperfield",
+      "title": "Our Neighbour by David Copperfield",
+      "narrativeWords": 5321,
+      "baselineNotes": 4,
+      "addedNotes": 3,
+      "removedNoteIds": [],
+      "correctedNoteIds": [
+        "sere"
+      ],
+      "currentNotes": 7,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Our Neighbour by David Copperfield",
+          "words": 5321,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 4,
+          "currentLocalNotes": 7,
+          "newNoteIds": [
+            "costermongers",
+            "duenna",
+            "hansoms"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "phrenology",
+          "reason": "Existing Gall annotation plus the narrative’s explicit account already cover it."
+        },
+        {
+          "candidate": "Mesmerism",
+          "reason": "Dialogue immediately supplies animal magnetism and describes the claim; no duplicated explanation."
+        },
+        {
+          "candidate": "liming birds",
+          "reason": "Narrative explicitly explains the sticky trapping substance and method."
+        },
+        {
+          "candidate": "catsmeat",
+          "reason": "Clear contextual animal-food usage; no over-specific unsupported social history."
+        }
+      ]
+    },
+    {
+      "id": "parkroads-a-review",
+      "title": "Parkroads—a Review",
+      "narrativeWords": 1062,
+      "baselineNotes": 4,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 6,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Parkroads—a Review",
+          "words": 1062,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 4,
+          "currentLocalNotes": 6,
+          "newNoteIds": [
+            "indefectible",
+            "scullions"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Henry Miller / Müeller",
+          "status": "unverified",
+          "reason": "Text itself offers uncertain name; no author/director identification imposed."
+        },
+        {
+          "candidate": "720 / 5040 reel orderings",
+          "status": "not-selected",
+          "reason": "Correct elementary factorial counts explained in the story; no marginal filler."
+        }
+      ]
+    },
+    {
+      "id": "the-peace-spy",
+      "title": "The Peace Spy",
+      "narrativeWords": 2330,
+      "baselineNotes": 1,
+      "addedNotes": 1,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 2,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Peace Spy",
+          "words": 2330,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 2,
+          "newNoteIds": [
+            "samovar"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "muzhiks",
+          "reason": "Removed as redundant: directly translated as peasants in the same sentence."
+        },
+        {
+          "candidate": "Aralov, Ipatiev, Denikin, Mikhalevo",
+          "reason": "No unjustified equation of fictional characters with similarly named historical people."
+        }
+      ]
+    },
+    {
+      "id": "peritonitis",
+      "title": "Peritonitis",
+      "narrativeWords": 2218,
+      "baselineNotes": 1,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 3,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Peritonitis",
+          "words": 2218,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "millrace",
+            "spinney"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Men of the Neck, Sundering, Everdark",
+          "reason": "Fictional cosmological names, not factual glossary subjects."
+        },
+        {
+          "candidate": "rills, ineffable",
+          "reason": "Considered but lower-value than the selected spinney and millrace senses."
+        }
+      ]
+    },
+    {
+      "id": "petting-zoo",
+      "title": "Petting Zoo",
+      "narrativeWords": 2220,
+      "baselineNotes": 2,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 4,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Petting Zoo",
+          "words": 2220,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 4,
+          "newNoteIds": [
+            "eocene",
+            "upper-cretaceous"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Gro-Qik / Copystuff / pentastyrene / Wicked wicker",
+          "status": "rejected",
+          "reason": "Invented branded materials and products; no real-world manufacturer claim."
+        },
+        {
+          "candidate": "Moeritherium / howdah",
+          "status": "covered",
+          "reason": "Already annotated."
+        }
+      ]
+    },
+    {
+      "id": "procreation",
+      "title": "Procreation",
+      "narrativeWords": 3167,
+      "baselineNotes": 3,
+      "addedNotes": 1,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 4,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Procreation",
+          "words": 3167,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 4,
+          "newNoteIds": [
+            "maxwells-demon"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Barque",
+          "reason": "A dog’s name; do not attach sailing-vessel definition."
+        },
+        {
+          "candidate": "Gott",
+          "reason": "Possible real cosmologist namesake, but specific identity/theory not independently verified enough for publication."
+        },
+        {
+          "candidate": "Ramakrishna",
+          "reason": "No assumption that a character is the historical religious teacher."
+        },
+        {
+          "candidate": "Atlantis, Dorothy, Wendy",
+          "reason": "Recognizable comparisons; existing context identifies fictional destinations."
+        }
+      ]
+    },
+    {
+      "id": "the-recording",
+      "title": "The Recording",
+      "narrativeWords": 1498,
+      "baselineNotes": 3,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 5,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Recording",
+          "words": 1498,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 5,
+          "newNoteIds": [
+            "boater",
+            "indomptable"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Tarkington’s little boy",
+          "status": "unverified",
+          "reason": "Booth Tarkington reference probable, but exact collie-pup episode not established; no guessed character identity."
+        },
+        {
+          "candidate": "Indomptable ship identity",
+          "status": "rejected",
+          "reason": "French word verified; no specific naval vessel inferred merely from a cap inscription."
+        }
+      ]
+    },
+    {
+      "id": "redbeard",
+      "title": "Redbeard",
+      "narrativeWords": 2425,
+      "baselineNotes": 1,
+      "addedNotes": 1,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 2,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Redbeard",
+          "words": 2425,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 2,
+          "newNoteIds": [
+            "barbarossa"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "postnatal depression",
+          "status": "not-selected",
+          "reason": "Text already offers the term as an explanation; avoided a clinical or causal interpretation of fictional events."
+        },
+        {
+          "candidate": "Jackson / Sutter",
+          "status": "rejected",
+          "reason": "No identification of fictional people with historical criminals."
+        }
+      ]
+    },
+    {
+      "id": "seven-american-nights",
+      "title": "Seven American Nights",
+      "narrativeWords": 22086,
+      "baselineNotes": 14,
+      "addedNotes": 13,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 27,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Seven American Nights",
+          "words": 22086,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 14,
+          "currentLocalNotes": 27,
+          "newNoteIds": [
+            "arrack",
+            "asphodel",
+            "caleches",
+            "chador",
+            "druj",
+            "hajji",
+            "houris",
+            "ingenue",
+            "mephistopheles",
+            "meretricious",
+            "padshah",
+            "peri",
+            "terrazzo"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Nadan / Ardis / Kerbelai",
+          "status": "unverified",
+          "reason": "No interpretive personal-name etymology added."
+        },
+        {
+          "candidate": "Rustam Beg",
+          "status": "unverified",
+          "reason": "A real Persian hero’s name is embedded in an unidentified play title; did not collapse it into a confirmed Shahnameh reference."
+        },
+        {
+          "candidate": "Peri’s asphodel dramatic device",
+          "status": "bounded",
+          "reason": "Glossed only the externally attested peri and flower; did not invent the history or meaning of the fictional device."
+        },
+        {
+          "candidate": "mutation and narrator reliability",
+          "status": "rejected",
+          "reason": "Literary interpretation and plot spoilers outside glossary scope."
+        }
+      ]
+    },
+    {
+      "id": "silhouette",
+      "title": "Silhouette",
+      "narrativeWords": 18202,
+      "baselineNotes": 6,
+      "addedNotes": 5,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 11,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Silhouette",
+          "words": 18202,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 6,
+          "currentLocalNotes": 11,
+          "newNoteIds": [
+            "gorget",
+            "musteline",
+            "padre-pio",
+            "photophilous",
+            "planchette"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "tegs",
+          "reason": "Apparent legs OCR error; rejected sheep definition."
+        },
+        {
+          "candidate": "Creation of Adam",
+          "reason": "Removed because the immediate narrative already describes the painter and image."
+        },
+        {
+          "candidate": "Goethe’s friend",
+          "reason": "Specific anecdote/person not verified; no invented identification."
+        },
+        {
+          "candidate": "apportation",
+          "reason": "Candidate considered; reliable exact source not opened, so withheld."
+        },
+        {
+          "candidate": "Q.E.D., lemmas, quanta",
+          "reason": "Considered; avoided validating the fictional temporal-quanta theory through over-specific explanatory notes."
+        }
+      ]
+    },
+    {
+      "id": "straw",
+      "title": "Straw",
+      "narrativeWords": 3209,
+      "baselineNotes": 8,
+      "addedNotes": 3,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 11,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Straw",
+          "words": 3209,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 8,
+          "currentLocalNotes": 11,
+          "newNoteIds": [
+            "brazier",
+            "mettlesome",
+            "roan"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "pincermace / dog-catch pike",
+          "status": "rejected",
+          "reason": "Hybrid fictional weapons; no false historical weapon identification."
+        },
+        {
+          "candidate": "Ascolot / Bracata / castellett",
+          "status": "unverified",
+          "reason": "No firmly sourced namesake or spelling-specific glossary entry established."
+        }
+      ]
+    },
+    {
+      "id": "suzanne-delage",
+      "title": "Suzanne Delage",
+      "narrativeWords": 2287,
+      "baselineNotes": 2,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 4,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Suzanne Delage",
+          "words": 2287,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 4,
+          "newNoteIds": [
+            "crewel",
+            "fencible"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "cousincies",
+          "reason": "Transparent rare formation; no speculative kinship definition."
+        },
+        {
+          "candidate": "angora, insouciant",
+          "reason": "Lower-value standard vocabulary; no arbitrary quota."
+        }
+      ]
+    },
+    {
+      "id": "sweet-forest-maid",
+      "title": "Sweet Forest Maid",
+      "narrativeWords": 1874,
+      "baselineNotes": 2,
+      "addedNotes": 1,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 3,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Sweet Forest Maid",
+          "words": 1874,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "bret-harte"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "metoh kangmi",
+          "reason": "Interesting alternate name, but context already identifies yeti; translation history is complex and no exact supported note prepared."
+        },
+        {
+          "candidate": "Hoopa, Klamath",
+          "reason": "Geographic references considered; no unnecessary culture summaries or endorsement of the story’s geological assertions."
+        }
+      ]
+    },
+    {
+      "id": "the-tale-of-the-rose-and-the-nightingale-and-what-came-of-it",
+      "title": "The Tale of the Rose and the Nightingale (And What Came of It)",
+      "narrativeWords": 9544,
+      "baselineNotes": 24,
+      "addedNotes": 5,
+      "removedNoteIds": [],
+      "correctedNoteIds": [
+        "gharib"
+      ],
+      "currentNotes": 29,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Tale of the Rose and the Nightingale (And What Came of It)",
+          "words": 9544,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 24,
+          "currentLocalNotes": 29,
+          "newNoteIds": [
+            "chibouque",
+            "darabukka",
+            "muezzins",
+            "piasters",
+            "wazir"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "rais",
+          "reason": "Directly translated as captain in the narrative."
+        },
+        {
+          "candidate": "canjiah",
+          "reason": "Strong Nile-boat candidate. Primary travelogues attest exact spelling in search results; independent PDF/text opens failed or exceeded size limit. Opened historical dictionary for cangia, but withheld exact-form note rather than silently normalize."
+        },
+        {
+          "candidate": "shabbäbi",
+          "reason": "Likely shabbaba flute. Opened Horniman and Met shabbaba instrument records; exact shabbabi educational source failed opening. Withheld exact-form equivalence pending better support."
+        },
+        {
+          "candidate": "Mount Kaf",
+          "reason": "Real legendary mountain candidate; insufficiently specific opened scholarly support in this pass."
+        },
+        {
+          "candidate": "Galla",
+          "reason": "Historical ethnonym considered; would require careful modern contextual treatment and source support; withheld."
+        }
+      ]
+    },
+    {
+      "id": "thag",
+      "title": "Thag",
+      "narrativeWords": 2493,
+      "baselineNotes": 9,
+      "addedNotes": 6,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 15,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Thag",
+          "words": 2493,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 9,
+          "currentLocalNotes": 15,
+          "newNoteIds": [
+            "cynosure",
+            "flacon",
+            "groats",
+            "morgenstern",
+            "pricket",
+            "puissant"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Gnip, Thag",
+          "reason": "Fictional names, no invented mythological identity."
+        },
+        {
+          "candidate": "Magister",
+          "reason": "Transparent title in context; lower priority."
+        },
+        {
+          "candidate": "hippogryph",
+          "reason": "Familiar fantasy creature; no forced note."
+        }
+      ]
+    },
+    {
+      "id": "the-toy-theater",
+      "title": "The Toy Theater",
+      "narrativeWords": 2576,
+      "baselineNotes": 12,
+      "addedNotes": 5,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 17,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Toy Theater",
+          "words": 2576,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 12,
+          "currentLocalNotes": 17,
+          "newNoteIds": [
+            "carmine",
+            "falsetto",
+            "ocher",
+            "sienna",
+            "umber"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Amelie Gravereaux",
+          "status": "deferred",
+          "reason": "Likely real rose cultivar; no opened cultivar record obtained in this pass."
+        },
+        {
+          "candidate": "Lucinda / Lili / Rosine",
+          "status": "not-selected",
+          "reason": "Avoid fictional biographies and plot descriptions; existing Barber of Seville note covers Rosine."
+        }
+      ]
+    },
+    {
+      "id": "the-tree-is-my-hat",
+      "title": "The Tree Is My Hat",
+      "narrativeWords": 10264,
+      "baselineNotes": 3,
+      "addedNotes": 3,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 6,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Tree Is My Hat",
+          "words": 10264,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 6,
+          "newNoteIds": [
+            "leprosarium",
+            "the-light-garden-of-the-angel-king",
+            "yaws"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "heletay / malhoi / mulis / upanga",
+          "status": "unverified",
+          "reason": "Language/orthography and exact contextual senses not independently established; no guessed Polynesian dictionary translations."
+        },
+        {
+          "candidate": "Hanga / Langi / Takanga",
+          "status": "rejected",
+          "reason": "No real ethnic or deity identity inferred from similar names."
+        },
+        {
+          "candidate": "arsenic treatment claim",
+          "status": "bounded",
+          "reason": "Yaws note identifies the infection; no endorsement of fictional treatment advice."
+        }
+      ]
+    },
+    {
+      "id": "war-beneath-the-tree",
+      "title": "War Beneath the Tree",
+      "narrativeWords": 2104,
+      "baselineNotes": 3,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 5,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "War Beneath the Tree",
+          "words": 2104,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 5,
+          "newNoteIds": [
+            "hassock",
+            "jetes"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Raggedy Girl",
+          "reason": "Possible Raggedy Ann echo, but resemblance alone not enough to assert a specific toy."
+        },
+        {
+          "candidate": "café au lait",
+          "reason": "Common food phrase, not a strong missed-term candidate."
+        }
+      ]
+    },
+    {
+      "id": "westwind",
+      "title": "Westwind",
+      "narrativeWords": 2999,
+      "baselineNotes": 0,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 2,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "Westwind",
+          "words": 2999,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 2,
+          "newNoteIds": [
+            "umber",
+            "washstand"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "author-note"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Westwind / Obie",
+          "status": "rejected",
+          "reason": "No unsupported namesake, allegorical identity, or political biography."
+        },
+        {
+          "candidate": "communicator / display wall",
+          "status": "rejected",
+          "reason": "Transparent fictional technology, not an externally attested named invention."
+        }
+      ]
+    },
+    {
+      "id": "when-i-was-ming-the-merciless",
+      "title": "When I Was Ming the Merciless",
+      "narrativeWords": 2895,
+      "baselineNotes": 1,
+      "addedNotes": 2,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 3,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "When I Was Ming the Merciless",
+          "words": 2895,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "braziers",
+            "tangs"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "scarf joints",
+          "reason": "The narration itself defines the joint."
+        },
+        {
+          "candidate": "Lung-Rin",
+          "reason": "Story-specific insignia; no invented Chinese translation."
+        },
+        {
+          "candidate": "fissionables",
+          "reason": "Transparent nuclear-material term; no extra operational detail."
+        }
+      ]
+    },
+    {
+      "id": "the-woman-the-unicorn-loved",
+      "title": "The Woman the Unicorn Loved",
+      "narrativeWords": 6335,
+      "baselineNotes": 8,
+      "addedNotes": 3,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 11,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Woman the Unicorn Loved",
+          "words": 6335,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 8,
+          "currentLocalNotes": 11,
+          "newNoteIds": [
+            "couchant",
+            "guidon",
+            "rictus"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "monoceros, Pliny, narwhale",
+          "reason": "Immediate dialogue already gives extensive explanations; no redundant notes."
+        },
+        {
+          "candidate": "pigeon’s-blood",
+          "reason": "Gem-color term considered but not prioritized over less transparent heraldic vocabulary."
+        },
+        {
+          "candidate": "Chesterton quotation",
+          "reason": "No guessed book or poem attribution."
+        },
+        {
+          "candidate": "Pity the Unicorn",
+          "reason": "Potential quotation not attributed without a verified source."
+        }
+      ]
+    },
+    {
+      "id": "the-woman-who-loved-the-centaur-pholus",
+      "title": "The Woman Who Loved the Centaur Pholus",
+      "narrativeWords": 3110,
+      "baselineNotes": 9,
+      "addedNotes": 3,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 12,
+      "chapters": [
+        {
+          "id": "story",
+          "title": "The Woman Who Loved the Centaur Pholus",
+          "words": 3110,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 9,
+          "currentLocalNotes": 12,
+          "newNoteIds": [
+            "darwin",
+            "odysseus-wax",
+            "sternwheeler"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Darwin",
+          "reason": "Corrected to cover both Erasmus and Charles, preventing an Erasmus-only repeated-term mislabel."
+        },
+        {
+          "candidate": "Amphitrite / Galatea quotation",
+          "reason": "Verified Erasmus Darwin’s original verse names Galatea; source prose substitutes Amphitrite. Preserved narrative and avoided altering quotation."
+        },
+        {
+          "candidate": "Nin",
+          "reason": "No confident exact Assyrian identification; withheld."
+        },
+        {
+          "candidate": "Anubis, Jove, Vedas",
+          "reason": "Familiar mythological/religious references; no quota-filling notes."
+        }
+      ]
+    },
+    {
+      "id": "three-body-problem",
+      "title": "The Three-Body Problem",
+      "narrativeWords": 114223,
+      "baselineNotes": 89,
+      "addedNotes": 41,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 130,
+      "chapters": [
+        {
+          "id": "section-06",
+          "title": "The Madness Years",
+          "words": 4355,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 20,
+          "currentLocalNotes": 26,
+          "newNoteIds": [
+            "bandolier",
+            "bolshevik",
+            "carbines",
+            "geiger-counter",
+            "hubbles-law",
+            "meerschaum"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-07",
+          "title": "Silent Spring",
+          "words": 5850,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 4,
+          "currentLocalNotes": 4,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-08",
+          "title": "Red Coast I",
+          "words": 2632,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 4,
+          "newNoteIds": [
+            "klaxons",
+            "magnetron",
+            "oscilloscope"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-10",
+          "title": "The Frontiers of Science",
+          "words": 4861,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 4,
+          "newNoteIds": [
+            "solenoid"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-11",
+          "title": "A Game of Pool",
+          "words": 1584,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "archimedes-principle"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-12",
+          "title": "The Shooter and the Farmer",
+          "words": 6744,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 5,
+          "newNoteIds": [
+            "hemingway",
+            "non-sequitur"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-13",
+          "title": "Three Body: King Wen of Zhou and the Long Night",
+          "words": 5537,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 9,
+          "currentLocalNotes": 9,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-14",
+          "title": "Ye Wenjie",
+          "words": 2234,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 4,
+          "currentLocalNotes": 6,
+          "newNoteIds": [
+            "bach",
+            "pinyin"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-15",
+          "title": "The Universe Flickers",
+          "words": 3548,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 7,
+          "currentLocalNotes": 9,
+          "newNoteIds": [
+            "doppler-effect",
+            "romanesque"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-16",
+          "title": "Da Shi",
+          "words": 2316,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 2,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-17",
+          "title": "Three Body: Mozi and Fiery Flames",
+          "words": 4051,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 8,
+          "currentLocalNotes": 10,
+          "newNoteIds": [
+            "armillary-spheres",
+            "presbyopic"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-18",
+          "title": "Red Coast II",
+          "words": 3517,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 3,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-19",
+          "title": "Red Coast III",
+          "words": 1993,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 8,
+          "currentLocalNotes": 11,
+          "newNoteIds": [
+            "esperanto",
+            "euclidean-geometry",
+            "very-long-baseline-interferometry"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-20",
+          "title": "Red Coast IV",
+          "words": 1667,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 1,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-21",
+          "title": "Three Body: Copernicus, Universal Football, and Tri-Solar Day",
+          "words": 2625,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 8,
+          "currentLocalNotes": 10,
+          "newNoteIds": [
+            "chiton",
+            "leonardo-da-vinci"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-22",
+          "title": "The Three-Body Problem",
+          "words": 5849,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 6,
+          "currentLocalNotes": 6,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-23",
+          "title": "Three Body: Newton, Von Neumann, the First Emperor, and Tri-Solar Syzygy",
+          "words": 5801,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 11,
+          "currentLocalNotes": 13,
+          "newNoteIds": [
+            "leibniz",
+            "phalanx"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-24",
+          "title": "Meet-up",
+          "words": 1812,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-25",
+          "title": "Three Body: Einstein, the Pendulum Monument, and the Great Rip",
+          "words": 3549,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 12,
+          "currentLocalNotes": 13,
+          "newNoteIds": [
+            "mozart"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-26",
+          "title": "Three Body: Expedition",
+          "words": 722,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 2,
+          "newNoteIds": [
+            "phalanx"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-28",
+          "title": "Rebels of Earth",
+          "words": 2366,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "turing-award"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-29",
+          "title": "Red Coast V",
+          "words": 3916,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "ephemeris"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-30",
+          "title": "Red Coast VI",
+          "words": 2505,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 4,
+          "newNoteIds": [
+            "antimatter"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-31",
+          "title": "Rebellion",
+          "words": 1694,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 1,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-32",
+          "title": "The Deaths of Lei Zhicheng and Yang Weining",
+          "words": 1671,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-33",
+          "title": "No One Repents",
+          "words": 4898,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 7,
+          "currentLocalNotes": 9,
+          "newNoteIds": [
+            "cupronickel",
+            "kang"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-34",
+          "title": "Evans",
+          "words": 3252,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 6,
+          "currentLocalNotes": 6,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-35",
+          "title": "The Second Red Coast Base",
+          "words": 612,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-36",
+          "title": "The Earth-Trisolaris Movement",
+          "words": 1595,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 2,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-37",
+          "title": "Two Protons",
+          "words": 2175,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 4,
+          "newNoteIds": [
+            "adsorbent",
+            "antimatter"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-38",
+          "title": "Operation Guzheng",
+          "words": 5158,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 4,
+          "currentLocalNotes": 7,
+          "newNoteIds": [
+            "bollards",
+            "infrasonic",
+            "panamax"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-39",
+          "title": "Trisolaris: The Listener",
+          "words": 3086,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 1,
+          "newNoteIds": [
+            "princeps"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-40",
+          "title": "Trisolaris: Sophon",
+          "words": 8525,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 4,
+          "currentLocalNotes": 9,
+          "newNoteIds": [
+            "firmament",
+            "mesons",
+            "mobius-strip",
+            "princeps",
+            "tori"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-41",
+          "title": "Bugs",
+          "words": 1041,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 1,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-42",
+          "title": "The Ruins",
+          "words": 482,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        }
+      ],
+      "excludedReferenceSections": [
+        "source-03",
+        "source-44",
+        "source-43",
+        "source-45",
+        "source-46"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Asimov / The Billiard Ball; er guo tou",
+          "reason": "Already explained by original footnotes."
+        },
+        {
+          "candidate": "Thomas Pynchon; Tsung-Dao Lee; Chen-Ning Yang; Karl F. Sundman",
+          "reason": "Appear in original explanatory notes, not eligible narrative targets."
+        },
+        {
+          "candidate": "haptic feedback; saltatory mode; Kardashev classification; baijiu",
+          "reason": "Immediate prose supplies the useful explanation."
+        },
+        {
+          "candidate": "halberds",
+          "reason": "The Chinese ji context does not justify a narrowly European construction definition."
+        }
+      ]
+    },
+    {
+      "id": "dark-forest",
+      "title": "The Dark Forest",
+      "narrativeWords": 186717,
+      "baselineNotes": 59,
+      "addedNotes": 44,
+      "removedNoteIds": [],
+      "correctedNoteIds": [],
+      "currentNotes": 103,
+      "chapters": [
+        {
+          "id": "section-05",
+          "title": "Prologue",
+          "words": 3976,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 4,
+          "newNoteIds": [
+            "euclid",
+            "euclidean-geometry",
+            "firmament",
+            "gunwale"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-08",
+          "title": "Year 3, Crisis Era",
+          "words": 61234,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 35,
+          "currentLocalNotes": 45,
+          "newNoteIds": [
+            "au",
+            "bainbridge",
+            "ceres",
+            "cheshire-cat",
+            "europa",
+            "mahan",
+            "melange",
+            "oppenheimer",
+            "schadenfreude",
+            "spinnaker"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-12",
+          "title": "Year 8, Crisis Era",
+          "words": 18528,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 11,
+          "currentLocalNotes": 19,
+          "newNoteIds": [
+            "au",
+            "ceres",
+            "darwin",
+            "ecliptic-plane",
+            "epaulets",
+            "europa",
+            "gogol",
+            "tomography"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-13",
+          "title": "Year 12, Crisis Era",
+          "words": 8419,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 11,
+          "currentLocalNotes": 19,
+          "newNoteIds": [
+            "achondrite",
+            "ataxite",
+            "geosynchronous",
+            "kamacite",
+            "neumann-lines",
+            "octahedrite",
+            "taenite",
+            "widmanstatten-patterns"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-14",
+          "title": "Year 20, Crisis Era",
+          "words": 17126,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 9,
+          "currentLocalNotes": 14,
+          "newNoteIds": [
+            "au",
+            "geosynchronous",
+            "heliophobia",
+            "photosphere",
+            "protium"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-17",
+          "title": "Year 205, Crisis Era",
+          "words": 71366,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 20,
+          "currentLocalNotes": 37,
+          "newNoteIds": [
+            "anthropic-principle",
+            "antimatter",
+            "au",
+            "callisto",
+            "charon",
+            "ecliptic-plane",
+            "epaulets",
+            "europa",
+            "geosynchronous",
+            "good-bye-lenin",
+            "gulliver",
+            "infrasonic",
+            "pangu",
+            "seppuku",
+            "stonehenge",
+            "the-siege-of-berlin",
+            "timothy-leary"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-19",
+          "title": "Year 208, Crisis Era",
+          "words": 4930,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 5,
+          "newNoteIds": [
+            "gravitational-wave",
+            "neutrino",
+            "stonehenge"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-20",
+          "title": "Five Years Later",
+          "words": 1138,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 2,
+          "newNoteIds": [
+            "gravitational-wave"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "source-04",
+        "source-28"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "Mencius; Ksitigarbha; Aurel Stein; Paul Pelliot; femtometer; torus; Mao Zedong",
+          "reason": "Original translator notes already explain these or are their only eligible-looking occurrence."
+        },
+        {
+          "candidate": "ha-ha",
+          "reason": "Laughter in context, not the landscape ditch."
+        },
+        {
+          "candidate": "Hubble",
+          "reason": "Names a fictional telescope; a historical biography would blur the referent."
+        },
+        {
+          "candidate": "limpet mines",
+          "reason": "A mollusk definition selects the wrong sense; no sufficiently direct weapon reference selected."
+        }
+      ]
+    },
+    {
+      "id": "deaths-end",
+      "title": "Death’s End",
+      "narrativeWords": 221631,
+      "baselineNotes": 76,
+      "addedNotes": 41,
+      "removedNoteIds": [],
+      "correctedNoteIds": [
+        "starry-night",
+        "poe-maelstrom",
+        "clerical-script"
+      ],
+      "currentNotes": 117,
+      "chapters": [
+        {
+          "id": "section-07",
+          "title": "Excerpt from the Preface to A Past Outside of Time",
+          "words": 241,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-09",
+          "title": "May 1453, C.E. The Death of the Magician",
+          "words": 5098,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 15,
+          "currentLocalNotes": 18,
+          "newNoteIds": [
+            "blachernae",
+            "minaret",
+            "sconces"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-10",
+          "title": "Crisis Era, Year 1 The Option for Life",
+          "words": 2008,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 1,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-11",
+          "title": "Crisis Era, Year 4 Yun Tianming",
+          "words": 3805,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 5,
+          "newNoteIds": [
+            "barbitone",
+            "nurhaci"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-12",
+          "title": "Excerpt from A Past Outside of Time Infantilism at the Start of the Crisis",
+          "words": 1376,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 4,
+          "currentLocalNotes": 4,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-13",
+          "title": "Crisis Era, Year 4 Yun Tianming",
+          "words": 5009,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 2,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-14",
+          "title": "Crisis Era, Years 1–4 Cheng Xin",
+          "words": 5374,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 5,
+          "currentLocalNotes": 7,
+          "newNoteIds": [
+            "gravitational-wave",
+            "neutrino"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-15",
+          "title": "Excerpt from A Past Outside of Time Hibernation: Man Walks for the First Time Through Time",
+          "words": 651,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-16",
+          "title": "Crisis Era, Years 1–4 Cheng Xin",
+          "words": 2072,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 2,
+          "newNoteIds": [
+            "cryoprotectant"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-17",
+          "title": "Excerpt from A Past Outside of Time The Staircase Program",
+          "words": 673,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 2,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-18",
+          "title": "Crisis Era, Years 1–4 Cheng Xin",
+          "words": 2893,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 1,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-19",
+          "title": "Crisis Era, Years 5–7 The Staircase Program",
+          "words": 4018,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 1,
+          "newNoteIds": [
+            "geiger-counter"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-21",
+          "title": "Deterrence Era, Year 12 Bronze Age",
+          "words": 368,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-22",
+          "title": "Excerpt from A Past Outside of Time Nyctohylophobia",
+          "words": 356,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 2,
+          "newNoteIds": [
+            "gravitational-wave",
+            "neutrino"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-23",
+          "title": "Deterrence Era, Year 12 Bronze Age",
+          "words": 1247,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 5,
+          "newNoteIds": [
+            "au",
+            "geosynchronous",
+            "gravitational-wave"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-24",
+          "title": "Deterrence Era, Year 13 Trial",
+          "words": 2907,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 7,
+          "newNoteIds": [
+            "au",
+            "barnards-star",
+            "geosynchronous",
+            "gravitational-wave",
+            "infrasonic"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-25",
+          "title": "Deterrence Era, Year 61 The Swordholder",
+          "words": 3435,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 2,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-26",
+          "title": "Excerpt from A Past Outside of Time The Ghost of the Wallfacers: The Swordholder",
+          "words": 1806,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "gravitational-wave"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-27",
+          "title": "Deterrence Era, Year 61 The Swordholder",
+          "words": 808,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 2,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-28",
+          "title": "Excerpt from A Past Outside of Time Cultural Reflection",
+          "words": 711,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-29",
+          "title": "Deterrence Era, Year 61 The Swordholder",
+          "words": 3603,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 1,
+          "newNoteIds": [
+            "tatami"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-30",
+          "title": "Deterrence Era, Year 62 Gravity, in the Vicinity of the Oort Cloud",
+          "words": 730,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "au",
+            "neutrino"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-31",
+          "title": "Excerpt from A Past Outside of Time More Indirect Evidence for the Dark Forest: Sophon-Blind Regions",
+          "words": 228,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 1,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-32",
+          "title": "Deterrence Era, Year 62 Gravity, in the Vicinity of the Oort Cloud",
+          "words": 5162,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "au",
+            "klaxons"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-33",
+          "title": "Deterrence Era, Year 62 November 28, 4:00 P.M. to 4:17 P.M.: Deterrence Center",
+          "words": 521,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "gravitational-wave"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-34",
+          "title": "Excerpt from A Past Outside of Time The Choice of the Swordholder: Ten Minutes Between Existence and Annihilation",
+          "words": 1204,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 7,
+          "newNoteIds": [
+            "au",
+            "degenerate-matter",
+            "gravitational-wave",
+            "infrasonic",
+            "neutrino"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-35",
+          "title": "Deterrence Era, Year 62 November 28, 4:00 P.M. to 4:17 P.M.: Deterrence Center",
+          "words": 1989,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 2,
+          "newNoteIds": [
+            "gravitational-wave",
+            "kenjutsu"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-36",
+          "title": "The Final Ten Minutes of the Deterrence Era, Year 62 November 28, 4:17:34 P.M. to 4:27:58 P.M.: Deterrence Center",
+          "words": 2036,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 5,
+          "newNoteIds": [
+            "firmament",
+            "gravitational-wave"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-37",
+          "title": "Post-Deterrence Era, First Hour A Lost World",
+          "words": 459,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 1,
+          "newNoteIds": [
+            "tamarisk"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-38",
+          "title": "Excerpt from A Past Outside of Time Reflections on the Failure of Dark Forest Deterrence",
+          "words": 604,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 2,
+          "newNoteIds": [
+            "degenerate-matter",
+            "gravitational-wave"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-39",
+          "title": "Post-Deterrence Era, First Hour A Lost World",
+          "words": 1566,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "gravitational-wave",
+            "katana",
+            "tamarisk"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-40",
+          "title": "Post-Deterrence Era, Day 60 A Lost World",
+          "words": 704,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 1,
+          "newNoteIds": [
+            "au"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-41",
+          "title": "Excerpt from A Past Outside of Time Technology Explosion on Trisolaris",
+          "words": 251,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-42",
+          "title": "Post-Deterrence Era, Day 60 A Lost World",
+          "words": 775,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 2,
+          "newNoteIds": [
+            "katana"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-43",
+          "title": "Post-Deterrence Era, Year 2 Australia",
+          "words": 10246,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 5,
+          "currentLocalNotes": 8,
+          "newNoteIds": [
+            "gravitational-wave",
+            "katana",
+            "taiaha"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-44",
+          "title": "The Final Ten Minutes of the Deterrence Era, Year 62 November 28, 4:17:34 P.M. to 4:27:58 P.M.: Gravity and Blue Space, Deep Space",
+          "words": 6823,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 9,
+          "newNoteIds": [
+            "au",
+            "degenerate-matter",
+            "gravitational-wave",
+            "infrasonic",
+            "klaxons",
+            "neutrino"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-45",
+          "title": "Post-Deterrence Era, Year 2 The Morning After the Great Resettlement, Australia",
+          "words": 682,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-46",
+          "title": "Post-Deterrence Era, Day 1–Day 5 Gravity and Blue Space, Deep Space Beyond the Oort Cloud",
+          "words": 8235,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 7,
+          "newNoteIds": [
+            "au",
+            "gravitational-wave",
+            "mitral-and-tricuspid-valves",
+            "neutrino"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-48",
+          "title": "Broadcast Era, Year 7 Cheng Xin",
+          "words": 761,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 1,
+          "newNoteIds": [
+            "gravitational-wave"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-49",
+          "title": "Excerpt from A Past Outside of Time Delusions of Cosmic Persecution: The Last Attempt to Invalidate Dark Forest Theory",
+          "words": 661,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-50",
+          "title": "Broadcast Era, Year 7 Cheng Xin",
+          "words": 953,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-51",
+          "title": "Excerpt from A Past Outside of Time A New Model for the Dark Forest",
+          "words": 377,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 1,
+          "newNoteIds": [
+            "gravitational-wave"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-52",
+          "title": "Broadcast Era, Year 7 Sophon",
+          "words": 2821,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 7,
+          "newNoteIds": [
+            "au",
+            "chromosphere",
+            "ecliptic-plane",
+            "gravitational-wave",
+            "photosphere",
+            "tatami"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-53",
+          "title": "Excerpt from A Past Outside of Time The Cosmic Safety Notice: A Lonely Performance Art",
+          "words": 1015,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 2,
+          "newNoteIds": [
+            "gravitational-wave"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-54",
+          "title": "Broadcast Era, Year 7 Sophon",
+          "words": 2956,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "geosynchronous",
+            "gravitational-wave"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-55",
+          "title": "Excerpt from A Past Outside of Time The Long Staircase",
+          "words": 835,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 4,
+          "currentLocalNotes": 4,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-56",
+          "title": "Broadcast Era, Year 7 Yun Tianming",
+          "words": 8543,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 5,
+          "newNoteIds": [
+            "antimatter",
+            "geosynchronous",
+            "neutrino",
+            "umbral-cone"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-57",
+          "title": "Broadcast Era, Year 7 Yun Tianming’s Fairy Tales",
+          "words": 1675,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-58",
+          "title": "The First Tale of Yun Tianming “The New Royal Painter”",
+          "words": 4962,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 2,
+          "newNoteIds": [
+            "nonpareil",
+            "queen-regnant"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-59",
+          "title": "The Second Tale of Yun Tianming “The Glutton’s Sea”",
+          "words": 3381,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-60",
+          "title": "The Third Tale of Yun Tianming “Prince Deep Water”",
+          "words": 5463,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 1,
+          "newNoteIds": [
+            "flagon"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-61",
+          "title": "Broadcast Era, Year 7 Yun Tianming’s Fairy Tales",
+          "words": 2047,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 2,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-62",
+          "title": "Excerpt from A Past Outside of Time The Bunker Project: An Ark for Earth Civilization",
+          "words": 1539,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 6,
+          "newNoteIds": [
+            "au",
+            "ecliptic-plane",
+            "europa"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-63",
+          "title": "Broadcast Era, Year 7 Yun Tianming’s Fairy Tales",
+          "words": 1606,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 1,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-64",
+          "title": "Excerpt from A Past Outside of Time Motion Through Bending Space",
+          "words": 262,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-65",
+          "title": "Broadcast Era, Year 7 Yun Tianming’s Fairy Tales",
+          "words": 5879,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 5,
+          "currentLocalNotes": 6,
+          "newNoteIds": [
+            "event-horizon"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-66",
+          "title": "Excerpt from A Past Outside of Time Three Paths of Survival for Earth Civilization",
+          "words": 648,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 2,
+          "newNoteIds": [
+            "au"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-67",
+          "title": "Broadcast Era, Year 8 Fate’s Choice",
+          "words": 6054,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 5,
+          "newNoteIds": [
+            "ecliptic-plane",
+            "firmament",
+            "geosynchronous"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-68",
+          "title": "Excerpt from A Past Outside of Time Space Sentries: The Solar System Advance Warning System",
+          "words": 505,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 1,
+          "newNoteIds": [
+            "au"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-69",
+          "title": "Broadcast Era, Year 8 Fate’s Choice",
+          "words": 2287,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 5,
+          "newNoteIds": [
+            "au",
+            "neutrino"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-70",
+          "title": "Excerpt from A Past Outside of Time Terror of the Endless Night",
+          "words": 595,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-71",
+          "title": "Broadcast Era, Year 8 Sun-Earth Lagrangian Point",
+          "words": 3319,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "au"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-73",
+          "title": "Bunker Era, Year 11 Bunker World",
+          "words": 8205,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "europa"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-74",
+          "title": "Bunker Era, Year 11 Lightspeed II",
+          "words": 3023,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 6,
+          "newNoteIds": [
+            "event-horizon",
+            "general-relativity",
+            "neutrino"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-75",
+          "title": "Bunker Era, Year 11 Halo City",
+          "words": 7076,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 3,
+          "currentLocalNotes": 7,
+          "newNoteIds": [
+            "antimatter",
+            "au",
+            "bandolier",
+            "skiffs"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-77",
+          "title": "Bunker Era, Year 67 Orion Arm of the Milky Way",
+          "words": 2968,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-78",
+          "title": "Bunker Era, Year 67 Halo",
+          "words": 1379,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-79",
+          "title": "Bunker Era, Year 66 Outside the Solar System",
+          "words": 7908,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 5,
+          "currentLocalNotes": 11,
+          "newNoteIds": [
+            "au",
+            "europa",
+            "gravitational-wave",
+            "neutrino",
+            "parallax",
+            "phalanx"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-80",
+          "title": "Bunker Era, Year 68 Pluto",
+          "words": 6285,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 14,
+          "currentLocalNotes": 16,
+          "newNoteIds": [
+            "charon",
+            "cuneiforms"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-81",
+          "title": "Bunker Era, Year 68 The Two-Dimensional Solar System",
+          "words": 11346,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 8,
+          "currentLocalNotes": 13,
+          "newNoteIds": [
+            "au",
+            "charon",
+            "doppler-effect",
+            "gravitational-wave",
+            "skiffs"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-83",
+          "title": "Galaxy Era, Year 409 Our Star",
+          "words": 11785,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 5,
+          "newNoteIds": [
+            "antimatter",
+            "au",
+            "gravitational-wave"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-84",
+          "title": "About Seventeen Billion Years After the Beginning of Time Our Star",
+          "words": 3701,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "antimatter",
+            "event-horizon"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-85",
+          "title": "Outside of Time Our Universe",
+          "words": 5678,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 2,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "longjing"
+          ],
+          "outcome": "supported additions"
+        },
+        {
+          "id": "section-86",
+          "title": "Excerpt from A Past Outside of Time The Stairs of Responsibility",
+          "words": 447,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 0,
+          "currentLocalNotes": 0,
+          "newNoteIds": [],
+          "outcome": "no additional supported candidate selected"
+        },
+        {
+          "id": "section-87",
+          "title": "Outside of Time Our Universe",
+          "words": 2012,
+          "review": "lexical-and-reference-sweep-with-contextual-candidate-review",
+          "baselineLocalNotes": 1,
+          "currentLocalNotes": 3,
+          "newNoteIds": [
+            "katana",
+            "neutrino"
+          ],
+          "outcome": "supported additions"
+        }
+      ],
+      "excludedReferenceSections": [
+        "source-05",
+        "source-06",
+        "source-88",
+        "source-93"
+      ],
+      "rejectedOrWithheld": [
+        {
+          "candidate": "pinyin; John DeFrancis",
+          "reason": "Present in original explanatory notes; no duplicate marginal note added."
+        },
+        {
+          "candidate": "fractal; changshan",
+          "reason": "Immediate prose already supplies the useful definition."
+        },
+        {
+          "candidate": "thwarts",
+          "reason": "Verb meaning frustrates, not a boat seat."
+        },
+        {
+          "candidate": "perigee",
+          "reason": "Used for a solar-orbit passage where perihelion would ordinarily apply; deferred as a source-text terminology issue, without altering prose."
+        }
+      ]
+    }
+  ]
+}
