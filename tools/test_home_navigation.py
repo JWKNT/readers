@@ -13,6 +13,7 @@ HOME = ('<a class="site-home" href="https://jehlp.net/" '
         'aria-label="Home — jehlp.net" title="Home — jehlp.net">'
         '<span aria-hidden="true">✳</span></a>')
 THEME_VERSION = 'theme-20260930-header-home'
+CATALOG_STYLE_VERSION = 'theme-20260930-mobile-header'
 
 
 class Headers(HTMLParser):
@@ -66,20 +67,23 @@ class HomeNavigation(unittest.TestCase):
         for page in ROOT.rglob('*.html'):
             source = page.read_text()
             with self.subTest(page=str(page.relative_to(ROOT))):
-                refs = re.findall(r'assets/theme/(?:base\.css|theme\.js)([^"\s>]*)', source)
+                refs = re.findall(r'assets/theme/(base\.css|theme\.js)([^"\s>]*)', source)
                 self.assertTrue(refs)
-                self.assertTrue(all(ref == '?v=' + THEME_VERSION for ref in refs))
+                for asset, ref in refs:
+                    version = CATALOG_STYLE_VERSION if page == ROOT / 'index.html' and asset == 'base.css' else THEME_VERSION
+                    self.assertEqual('?v=' + version, ref)
                 if 'assets/reader.js' in source:
                     self.assertIn('assets/reader.js?v=reader-20260930-header-home', source)
 
     def test_generated_catalog_and_static_exports_keep_native_header_home(self):
         pages = [render_library(), imported_page('Test', '<p>Book text</p>', ''),
                  series_page('Test', '<p>Book text</p>', '', [])]
-        for source in pages:
+        for index, source in enumerate(pages):
             self.assertEqual(1, source.count(HOME))
             self.assertIn('<span class="site-utility-pair">' + HOME + '<button', source)
             self.assertTrue(Headers(source).homes[0][1])
-            self.assertIn('assets/theme/base.css?v=' + THEME_VERSION, source)
+            version = CATALOG_STYLE_VERSION if index == 0 else THEME_VERSION
+            self.assertIn('assets/theme/base.css?v=' + version, source)
             self.assertIn('assets/theme/theme.js?v=' + THEME_VERSION, source)
 
     def test_redirect_generator_keeps_in_flow_header_home(self):

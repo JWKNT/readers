@@ -86,8 +86,8 @@ class LibraryPage(unittest.TestCase):
         self.assertIn('data-theme-toggle', buttons[0])
 
     def test_landing_styles_do_not_load_book_typography(self):
-        self.assertEqual(['assets/theme/base.css?v=theme-20260930-header-home',
-                          'assets/library.css?v=library-20260930-nav'], self.catalog.styles)
+        self.assertEqual(['assets/theme/base.css?v=theme-20260930-mobile-header',
+                          'assets/library.css?v=library-20260930-mobile-header'], self.catalog.styles)
         for page in ROOT.glob('*/index.html'):
             self.assertNotIn('assets/library.css', page.read_text(), str(page))
 
@@ -100,6 +100,29 @@ class LibraryPage(unittest.TestCase):
         with patch('library_page.build_library') as build:
             series_readers.library_page()
             build.assert_called_once_with(series_readers.ROOT)
+
+    def test_mobile_catalog_header_has_explicit_two_row_placement(self):
+        css = (ROOT / 'assets/library.css').read_text()
+        mobile = css.split('@media (max-width: 48rem) {', 1)[1].split('@media (max-width: 34rem)', 1)[0]
+        self.assertIn('.site-header.site-header--identity.library-header {\n    display: grid;', mobile)
+        self.assertIn('grid-template-columns: minmax(0, 1fr) auto;', mobile)
+        self.assertIn('.library-header > .site-brand { grid-column: 1; grid-row: 1; }', mobile)
+        self.assertIn('.library-header > .site-utility-pair { grid-column: 2; grid-row: 1; justify-self: end; }', mobile)
+        self.assertIn('.library-header nav.author-nav { grid-column: 1 / -1; grid-row: 2;', mobile)
+        self.assertIn('.library-header .author-nav a { min-height: 2.75rem; }', mobile)
+        self.assertNotIn('order: 3', mobile)
+        # Outside the mobile breakpoint the established desktop flex layout wins.
+        desktop = css.split('@media (max-width: 48rem)', 1)[0]
+        self.assertNotIn('.site-header.site-header--identity.library-header', desktop)
+
+    def test_shared_mobile_header_overrides_identity_specificity(self):
+        css = (ROOT / 'assets/theme/base.css').read_text()
+        mobile = css.split('@media (max-width: 42rem) {', 1)[1].split('@media (pointer: coarse)', 1)[0]
+        self.assertIn('.site-header, .site-header.site-header--identity { align-items: stretch; flex-flow: column nowrap;', mobile)
+        self.assertIn('.site-header nav, .site-header.site-header--identity nav { width: 100%; margin-left: 0;', mobile)
+        self.assertIn('.site-header nav > a:not(.site-home)', mobile)
+        self.assertIn('min-width: 2.75rem; min-height: 2.75rem;', mobile)
+        self.assertIn('.site-header nav > .site-utility-pair, .site-header nav > .theme-toggle { margin-left: auto; }', mobile)
 
 
 if __name__ == '__main__':
