@@ -12,7 +12,7 @@
   ],
   "totalWords": 3112,
   "defaultChapter": "story",
-  "glossaryCount": 9,
+  "glossaryCount": 11,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -122,6 +122,10 @@
           "paragraph": "p-005"
         },
         {
+          "term": "katzenjammer-kids",
+          "paragraph": "p-014"
+        },
+        {
           "term": "miss-minerva-and-william-green-hill",
           "paragraph": "p-014"
         },
@@ -139,6 +143,10 @@
         },
         {
           "term": "meliae",
+          "paragraph": "p-024"
+        },
+        {
+          "term": "epipotamides",
           "paragraph": "p-024"
         },
         {

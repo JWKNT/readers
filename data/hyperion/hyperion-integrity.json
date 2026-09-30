@@ -1,0 +1,821 @@
+{
+  "book": "hyperion",
+  "sourceFiles": {
+    "hyperion": {
+      "file": "_OceanofPDF.com_Hyperion_-_Dan_Simmons.epub",
+      "sha256": "a9b5c9c5c0c6d3702ec46f1730225d045e4b286ed6a2eb22a5cd20f9e538084b"
+    },
+    "fall": {
+      "file": "_OceanofPDF.com_The_Fall_of_Hyperion_-_Dan_Simmons.epub",
+      "sha256": "a355484f75bf11ac719e181b1bff730595d092f271274f33a2d6d16b1e03fb45"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "hyperion-prologue",
+      "source": "hyperion",
+      "file": "OEBPS/Simm_9780307781888_epub_prl_r1.htm",
+      "sourceTextSha256": "641eccef5ad102f587747cba78a3300e8f01614b509c87988956202d002b8a95",
+      "textSha256": "641eccef5ad102f587747cba78a3300e8f01614b509c87988956202d002b8a95",
+      "blocks": 31
+    },
+    {
+      "chapter": "hyperion-01",
+      "source": "hyperion",
+      "file": "OEBPS/Simm_9780307781888_epub_c01_r1.htm",
+      "sourceTextSha256": "936ee5c55b34f6a69c8af9e04fe3306adcea6b82bb900d7f37dcc0d46192055b",
+      "textSha256": "3e42814e9290870c8c12bd308963822181cb937cf397df8cff606d9e8b9e27e0",
+      "blocks": 790,
+      "preEditorialTextSha256": "936ee5c55b34f6a69c8af9e04fe3306adcea6b82bb900d7f37dcc0d46192055b"
+    },
+    {
+      "chapter": "hyperion-02",
+      "source": "hyperion",
+      "file": "OEBPS/Simm_9780307781888_epub_c02_r1.htm",
+      "sourceTextSha256": "7cc96ea4d73d08f22d4e22a4cf770cdd84c5fda35d19738bdb60aa6ad01d894c",
+      "textSha256": "f3fa8e8b4097965346d7e0b298b92b8df35121dc46b1d1d7c7e07efba784b919",
+      "blocks": 535,
+      "preEditorialTextSha256": "7cc96ea4d73d08f22d4e22a4cf770cdd84c5fda35d19738bdb60aa6ad01d894c"
+    },
+    {
+      "chapter": "hyperion-03",
+      "source": "hyperion",
+      "file": "OEBPS/Simm_9780307781888_epub_c03_r1.htm",
+      "sourceTextSha256": "dcd51a965c6eefedf69d9f0feba4183370f2a79c2c4814993578a84c6d4057c0",
+      "textSha256": "e6e0d24fdfe44e2a2ab1ddbeb33bc3674534d3ed88da13eefb493b154043478c",
+      "blocks": 502,
+      "preEditorialTextSha256": "dcd51a965c6eefedf69d9f0feba4183370f2a79c2c4814993578a84c6d4057c0"
+    },
+    {
+      "chapter": "hyperion-04",
+      "source": "hyperion",
+      "file": "OEBPS/Simm_9780307781888_epub_c04_r1.htm",
+      "sourceTextSha256": "a13345fbd97fd31af547e7759d5d46fe6c14f63db1d68ac195eef52b54874d25",
+      "textSha256": "7265d2d2f03752a52e6abd0df5e85f9f78facb8112d69f5b2cf433f12191b5a5",
+      "blocks": 843,
+      "preEditorialTextSha256": "a13345fbd97fd31af547e7759d5d46fe6c14f63db1d68ac195eef52b54874d25"
+    },
+    {
+      "chapter": "hyperion-05",
+      "source": "hyperion",
+      "file": "OEBPS/Simm_9780307781888_epub_c05_r1.htm",
+      "sourceTextSha256": "f60644379362929154f7b94c1ddb9754f1fbf241e60524bbffcfa8f1d6e360ac",
+      "textSha256": "f2b4e67fa7c69503be4bd39aba5874c01b63d200c796e094603fb04d5bdb3bdd",
+      "blocks": 1299,
+      "preEditorialTextSha256": "f60644379362929154f7b94c1ddb9754f1fbf241e60524bbffcfa8f1d6e360ac"
+    },
+    {
+      "chapter": "hyperion-06",
+      "source": "hyperion",
+      "file": "OEBPS/Simm_9780307781888_epub_c06_r1.htm",
+      "sourceTextSha256": "ab64533c8744a523930afb48b6508b6d48818fa267db81e44046153d33165eb2",
+      "textSha256": "ca53090629c25e48c7d7eeaa1afc537d71bdac8c61ced56f9e3a76344ab6a5e3",
+      "blocks": 597,
+      "preEditorialTextSha256": "ab64533c8744a523930afb48b6508b6d48818fa267db81e44046153d33165eb2"
+    },
+    {
+      "chapter": "hyperion-epilogue",
+      "source": "hyperion",
+      "file": "OEBPS/Simm_9780307781888_epub_epl_r1.htm",
+      "sourceTextSha256": "7d4ca69b99397d06e793f75f8daad94cd65a148895fe3730c1719578cf31452a",
+      "textSha256": "7d4ca69b99397d06e793f75f8daad94cd65a148895fe3730c1719578cf31452a",
+      "blocks": 49
+    },
+    {
+      "chapter": "hyperion-dedication",
+      "source": "hyperion",
+      "file": "OEBPS/Simm_9780307781888_epub_ded_r1.htm",
+      "sourceTextSha256": "221a92029fc7a6bf7e247b5f0c9b6a54d1f57a34c8cf047d1b06291f68a4e80c",
+      "textSha256": "221a92029fc7a6bf7e247b5f0c9b6a54d1f57a34c8cf047d1b06291f68a4e80c",
+      "blocks": 1
+    },
+    {
+      "chapter": "fall-epigraph",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_col2_r1.htm",
+      "sourceTextSha256": "19ffa7f3e235069a1c978d2cd73866fc55a0002b1fbb771d09554c4e83cd920b",
+      "textSha256": "19ffa7f3e235069a1c978d2cd73866fc55a0002b1fbb771d09554c4e83cd920b",
+      "blocks": 6
+    },
+    {
+      "chapter": "fall-01",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c01_r1.htm",
+      "sourceTextSha256": "d6c2e0689c16b7f711b689c101d967181c2b71198a3d97c6bb0b07a7a3d0b129",
+      "textSha256": "d6c2e0689c16b7f711b689c101d967181c2b71198a3d97c6bb0b07a7a3d0b129",
+      "blocks": 56
+    },
+    {
+      "chapter": "fall-02",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c02_r1.htm",
+      "sourceTextSha256": "b46fc00c8098491447dffe200790bcc65206d8159338e2c402148c6a4e1b0922",
+      "textSha256": "1837778441c3828aed8c6d9a00cfed048e47d9c73fc6524f810e052fae1a2ad5",
+      "blocks": 125,
+      "preEditorialTextSha256": "b46fc00c8098491447dffe200790bcc65206d8159338e2c402148c6a4e1b0922"
+    },
+    {
+      "chapter": "fall-03",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c03_r1.htm",
+      "sourceTextSha256": "280e4f81d886c5fa9e47f11ea5fb84bbc588843a40de636e5b15bf04a90eb7db",
+      "textSha256": "280e4f81d886c5fa9e47f11ea5fb84bbc588843a40de636e5b15bf04a90eb7db",
+      "blocks": 89
+    },
+    {
+      "chapter": "fall-04",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c04_r1.htm",
+      "sourceTextSha256": "587cb8f70c181d5558ba7e548307c75d103698ae288a1b6c76e2466051da2646",
+      "textSha256": "587cb8f70c181d5558ba7e548307c75d103698ae288a1b6c76e2466051da2646",
+      "blocks": 82
+    },
+    {
+      "chapter": "fall-05",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c05_r1.htm",
+      "sourceTextSha256": "64ab899b99b9bbba956729132895140f7275b4e5da0ef012427fb06751faebb3",
+      "textSha256": "64ab899b99b9bbba956729132895140f7275b4e5da0ef012427fb06751faebb3",
+      "blocks": 25
+    },
+    {
+      "chapter": "fall-06",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c06_r1.htm",
+      "sourceTextSha256": "3fea718e495cbf92419eea5be6a80b316d10f73e8c62302521e0db681a07e6ac",
+      "textSha256": "3fea718e495cbf92419eea5be6a80b316d10f73e8c62302521e0db681a07e6ac",
+      "blocks": 116
+    },
+    {
+      "chapter": "fall-07",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c07_r1.htm",
+      "sourceTextSha256": "a8226d8cd0e7981496c3527b797f82572a80fcd484a04da5e6973d9acb5b116f",
+      "textSha256": "b8b2e900d5866f847b9e2283e3e18d2e98dec6d380f669c3cdb6835cc01552f1",
+      "blocks": 94,
+      "preEditorialTextSha256": "a8226d8cd0e7981496c3527b797f82572a80fcd484a04da5e6973d9acb5b116f"
+    },
+    {
+      "chapter": "fall-08",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c08_r1.htm",
+      "sourceTextSha256": "31581aa8af717b989b06e2a93b85924f9b2e48f66b3c3f2d374f93cb9348256a",
+      "textSha256": "31581aa8af717b989b06e2a93b85924f9b2e48f66b3c3f2d374f93cb9348256a",
+      "blocks": 112
+    },
+    {
+      "chapter": "fall-09",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c09_r1.htm",
+      "sourceTextSha256": "4a36a43632aa3e895b2f4fbfa366ea37f98062282f25544bbb006f9158044299",
+      "textSha256": "4a36a43632aa3e895b2f4fbfa366ea37f98062282f25544bbb006f9158044299",
+      "blocks": 118
+    },
+    {
+      "chapter": "fall-10",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c10_r1.htm",
+      "sourceTextSha256": "eecc785a25e3748891f7b5310769dcb1862a30e28abe5f764f75f3b14c02933a",
+      "textSha256": "eecc785a25e3748891f7b5310769dcb1862a30e28abe5f764f75f3b14c02933a",
+      "blocks": 20
+    },
+    {
+      "chapter": "fall-11",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c11_r1.htm",
+      "sourceTextSha256": "8ab8ae1dda5f49021d1912e3c8a5aacf3568a8ef944ee00fe04fbcec9e4fbef0",
+      "textSha256": "68cbfaf0382882c9b5d2957cc307cc80444149bf25c221a528b4b7a5255b3d8d",
+      "blocks": 114,
+      "preEditorialTextSha256": "8ab8ae1dda5f49021d1912e3c8a5aacf3568a8ef944ee00fe04fbcec9e4fbef0"
+    },
+    {
+      "chapter": "fall-12",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c12_r1.htm",
+      "sourceTextSha256": "91c44cd4313a4838b5c26e58a99b3464e116a96a4fed9208a38dad553d4a236b",
+      "textSha256": "e3f03955da94cf91c9c4e5c39ac19912178862a756ac12a9ef4eb2c14efb4368",
+      "blocks": 13,
+      "preEditorialTextSha256": "91c44cd4313a4838b5c26e58a99b3464e116a96a4fed9208a38dad553d4a236b"
+    },
+    {
+      "chapter": "fall-13",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c13_r1.htm",
+      "sourceTextSha256": "045771255d3de97613b933e1b4d65aac83398104f461e000aa3778e5c2ab0065",
+      "textSha256": "045771255d3de97613b933e1b4d65aac83398104f461e000aa3778e5c2ab0065",
+      "blocks": 32
+    },
+    {
+      "chapter": "fall-14",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c14_r1.htm",
+      "sourceTextSha256": "45fa73e318be08d782490e2deafaa3a632014e61808d130e792abc1906a91f27",
+      "textSha256": "45fa73e318be08d782490e2deafaa3a632014e61808d130e792abc1906a91f27",
+      "blocks": 81
+    },
+    {
+      "chapter": "fall-15",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c15_r1.htm",
+      "sourceTextSha256": "477e07150aeaa6bee032330238d43d113f5e1bf089553dccc4b95492fc2e42e5",
+      "textSha256": "477e07150aeaa6bee032330238d43d113f5e1bf089553dccc4b95492fc2e42e5",
+      "blocks": 141
+    },
+    {
+      "chapter": "fall-16",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c16_r1.htm",
+      "sourceTextSha256": "133610735d4bb8db7fdb780ac924d2ef6a3a4e9021b1ac64de6a1ba7d6f52e0e",
+      "textSha256": "133610735d4bb8db7fdb780ac924d2ef6a3a4e9021b1ac64de6a1ba7d6f52e0e",
+      "blocks": 102
+    },
+    {
+      "chapter": "fall-17",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c17_r1.htm",
+      "sourceTextSha256": "4b1816ca963d3dbb406f8d1599573c8b869c1a8216804e2d63142eb2f00c2f72",
+      "textSha256": "4b1816ca963d3dbb406f8d1599573c8b869c1a8216804e2d63142eb2f00c2f72",
+      "blocks": 66
+    },
+    {
+      "chapter": "fall-18",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c18_r1.htm",
+      "sourceTextSha256": "3a2c3138c7dcb9a202b99a8220eef10cefe7ce415f7bc569b2d4b52781729820",
+      "textSha256": "3a2c3138c7dcb9a202b99a8220eef10cefe7ce415f7bc569b2d4b52781729820",
+      "blocks": 93
+    },
+    {
+      "chapter": "fall-19",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c19_r1.htm",
+      "sourceTextSha256": "0d2acf392390a443ad6f53c36533ae29da23ad3e18ee3fa9082174c7409a1037",
+      "textSha256": "51d99bb7875fb710e2e7501bbc48ca6ba81bda4c98716a46d63b7835f860759a",
+      "blocks": 55,
+      "preEditorialTextSha256": "0d2acf392390a443ad6f53c36533ae29da23ad3e18ee3fa9082174c7409a1037"
+    },
+    {
+      "chapter": "fall-20",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c20_r1.htm",
+      "sourceTextSha256": "5b15942bb59ec6354c19c1e0e41db0afe30441663a9b3d1a12d22b6a5cfa58b7",
+      "textSha256": "5b15942bb59ec6354c19c1e0e41db0afe30441663a9b3d1a12d22b6a5cfa58b7",
+      "blocks": 69
+    },
+    {
+      "chapter": "fall-21",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c21_r1.htm",
+      "sourceTextSha256": "01e7df492d5513c8f32aeb8a505a863911819309babc8cd113559cce846d4bb7",
+      "textSha256": "01e7df492d5513c8f32aeb8a505a863911819309babc8cd113559cce846d4bb7",
+      "blocks": 40
+    },
+    {
+      "chapter": "fall-22",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c22_r1.htm",
+      "sourceTextSha256": "702359ca18835b7e85e3a8b16c0dfc32e7fad5d84e513e5dc671c5a48a133ad0",
+      "textSha256": "702359ca18835b7e85e3a8b16c0dfc32e7fad5d84e513e5dc671c5a48a133ad0",
+      "blocks": 58
+    },
+    {
+      "chapter": "fall-23",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c23_r1.htm",
+      "sourceTextSha256": "4e8fa3eec49b5b035831de2733d5f957964fd2371feff26b1a71eb6289209638",
+      "textSha256": "4e8fa3eec49b5b035831de2733d5f957964fd2371feff26b1a71eb6289209638",
+      "blocks": 57
+    },
+    {
+      "chapter": "fall-24",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c24_r1.htm",
+      "sourceTextSha256": "b60e0109a8642f25cd16aa7927a2d9b01cc1df4de5a0720315b137ac53475e2c",
+      "textSha256": "639a463d09feeaba2fe8f7149a09014046dc8f7cf83f39619dd6706710b53f15",
+      "blocks": 84,
+      "preEditorialTextSha256": "b60e0109a8642f25cd16aa7927a2d9b01cc1df4de5a0720315b137ac53475e2c"
+    },
+    {
+      "chapter": "fall-25",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c25_r1.htm",
+      "sourceTextSha256": "ef00591eabdbf8e8792bda0cb73ea09e008e3667851d6a7fa5c4bbe7d553768b",
+      "textSha256": "ef00591eabdbf8e8792bda0cb73ea09e008e3667851d6a7fa5c4bbe7d553768b",
+      "blocks": 117
+    },
+    {
+      "chapter": "fall-26",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c26_r1.htm",
+      "sourceTextSha256": "d6039cf69f2b9b43802447b53410bc0c08a65116d19812ed1a613e647f5265d6",
+      "textSha256": "d6039cf69f2b9b43802447b53410bc0c08a65116d19812ed1a613e647f5265d6",
+      "blocks": 48
+    },
+    {
+      "chapter": "fall-27",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c27_r1.htm",
+      "sourceTextSha256": "d3831654e30d5a37b5095354dc978a16d061f17c71864495a10351d85a3b9e64",
+      "textSha256": "b45edf892fceef72537133978e13a4f2c318722df49425d257bd98082149e884",
+      "blocks": 31,
+      "preEditorialTextSha256": "d3831654e30d5a37b5095354dc978a16d061f17c71864495a10351d85a3b9e64"
+    },
+    {
+      "chapter": "fall-28",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c28_r1.htm",
+      "sourceTextSha256": "e1dd6f207d4d88f8f425e4ddab5e1fa3e4740f629fb633430cfd63979e6c8072",
+      "textSha256": "e1dd6f207d4d88f8f425e4ddab5e1fa3e4740f629fb633430cfd63979e6c8072",
+      "blocks": 92
+    },
+    {
+      "chapter": "fall-29",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c29_r1.htm",
+      "sourceTextSha256": "69565ed280d4c558fc8df05ad6b14f95401f3c0006d5cef7848fc7654fd0827b",
+      "textSha256": "5a5107288762787b1a2170e20df9295013afd8f6be5106b482e46cc958e96f54",
+      "blocks": 122,
+      "preEditorialTextSha256": "69565ed280d4c558fc8df05ad6b14f95401f3c0006d5cef7848fc7654fd0827b"
+    },
+    {
+      "chapter": "fall-30",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c30_r1.htm",
+      "sourceTextSha256": "e5a1697046bd174cf81fa79af09933bd72b02d88388d1bba18f0e96950f66f74",
+      "textSha256": "e5a1697046bd174cf81fa79af09933bd72b02d88388d1bba18f0e96950f66f74",
+      "blocks": 66
+    },
+    {
+      "chapter": "fall-31",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c31_r1.htm",
+      "sourceTextSha256": "a27527b022ef60e8c8dcee28fead1f3acb6d7a64bf6af46961faa92d23cfb3f6",
+      "textSha256": "a27527b022ef60e8c8dcee28fead1f3acb6d7a64bf6af46961faa92d23cfb3f6",
+      "blocks": 110
+    },
+    {
+      "chapter": "fall-32",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c32_r1.htm",
+      "sourceTextSha256": "43bcba796adf0971d85841910217da6c3a8a8d17d3bf52abfd26b9042db5095d",
+      "textSha256": "c5046846a59650a2d63ce1ad1d4e7a2559ef2f358c67905e2ef277ed5822d1d5",
+      "blocks": 192,
+      "preEditorialTextSha256": "43bcba796adf0971d85841910217da6c3a8a8d17d3bf52abfd26b9042db5095d"
+    },
+    {
+      "chapter": "fall-33",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c33_r1.htm",
+      "sourceTextSha256": "1f3f126138ebcc08c3122feb8e4ce3b241cb74e4f749819340a3c93e95b2bb91",
+      "textSha256": "80a387f4c50303b35a4906f98f3ae047e220798fb65349ba759186c2ae8323d1",
+      "blocks": 560,
+      "preEditorialTextSha256": "1f3f126138ebcc08c3122feb8e4ce3b241cb74e4f749819340a3c93e95b2bb91"
+    },
+    {
+      "chapter": "fall-34",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c34_r1.htm",
+      "sourceTextSha256": "c762c77c88111b52445caa26efaaabd43ffbc2a1cc6c4622e72dd118f738cd24",
+      "textSha256": "80d1f6794b8614ede1a96458468c15b78376c99d8029f075f9a90443d26b1a76",
+      "blocks": 211,
+      "preEditorialTextSha256": "c762c77c88111b52445caa26efaaabd43ffbc2a1cc6c4622e72dd118f738cd24"
+    },
+    {
+      "chapter": "fall-35",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c35_r1.htm",
+      "sourceTextSha256": "8f46c04bb3434537bf9e364c15cac04daf89792ffb26025ee7b2ffc2a18b2f51",
+      "textSha256": "8f46c04bb3434537bf9e364c15cac04daf89792ffb26025ee7b2ffc2a18b2f51",
+      "blocks": 122
+    },
+    {
+      "chapter": "fall-36",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c36_r1.htm",
+      "sourceTextSha256": "5bde794ef573bf9d2fcc1d6ccde96b2989b7d883a7bca34f5266c2bc68e4ab63",
+      "textSha256": "799bebbe2a99b7de23537af804f934ce9b97c6dc5af45d1af0a881103757ffd5",
+      "blocks": 188,
+      "preEditorialTextSha256": "5bde794ef573bf9d2fcc1d6ccde96b2989b7d883a7bca34f5266c2bc68e4ab63"
+    },
+    {
+      "chapter": "fall-37",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c37_r1.htm",
+      "sourceTextSha256": "e736e36740237f9d6cb5d10773b27ddff3a985bdd44e3e3f66f2235214386f0e",
+      "textSha256": "51d56d7295e14e30840f047c790707830354233a2f9aa268290d688a5d0b78e5",
+      "blocks": 262,
+      "preEditorialTextSha256": "e736e36740237f9d6cb5d10773b27ddff3a985bdd44e3e3f66f2235214386f0e"
+    },
+    {
+      "chapter": "fall-38",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c38_r1.htm",
+      "sourceTextSha256": "cfa4a4e819d134b06053a5b48381276615ca96454eac6f87d4fa2ffa5532bd55",
+      "textSha256": "cfa4a4e819d134b06053a5b48381276615ca96454eac6f87d4fa2ffa5532bd55",
+      "blocks": 191
+    },
+    {
+      "chapter": "fall-39",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c39_r1.htm",
+      "sourceTextSha256": "f1a44d36b0b1fe41ab857511677f5f64eefbdbc59ff74725e4e1b870ac916309",
+      "textSha256": "a0d664f3b705d30fe304edc0da0b80fd4f1ee391ce8a75fa9a6c84a7c5f9a761",
+      "blocks": 227,
+      "preEditorialTextSha256": "f1a44d36b0b1fe41ab857511677f5f64eefbdbc59ff74725e4e1b870ac916309"
+    },
+    {
+      "chapter": "fall-40",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c40_r1.htm",
+      "sourceTextSha256": "c7fbc4064682c4487691ad87ac17c592820e20f6c272bc076418f1052076b3e6",
+      "textSha256": "c7fbc4064682c4487691ad87ac17c592820e20f6c272bc076418f1052076b3e6",
+      "blocks": 124
+    },
+    {
+      "chapter": "fall-41",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c41_r1.htm",
+      "sourceTextSha256": "274ac765a2b7e592ff20755e002b19a1c4e8bf53638207d406164e30b45551b1",
+      "textSha256": "274ac765a2b7e592ff20755e002b19a1c4e8bf53638207d406164e30b45551b1",
+      "blocks": 485
+    },
+    {
+      "chapter": "fall-42",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c42_r1.htm",
+      "sourceTextSha256": "f2ee59d3f1c68856c51640596f0468ebc75e37600113336474dc8cd33fa31a3d",
+      "textSha256": "62b5e0f63e085f60d03e58cf9946076e72835ad977766801213cca727d98dfc0",
+      "blocks": 255,
+      "preEditorialTextSha256": "f2ee59d3f1c68856c51640596f0468ebc75e37600113336474dc8cd33fa31a3d"
+    },
+    {
+      "chapter": "fall-43",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c43_r1.htm",
+      "sourceTextSha256": "c1986d018fe152f1877773947ad5080dda2018f0eddbb987c22ab47c33cf72a8",
+      "textSha256": "c1986d018fe152f1877773947ad5080dda2018f0eddbb987c22ab47c33cf72a8",
+      "blocks": 268
+    },
+    {
+      "chapter": "fall-44",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c44_r1.htm",
+      "sourceTextSha256": "977e4847432682c6e32c50400b96d737e2baae20fc63227ca4a3bb5cb7f204b6",
+      "textSha256": "977e4847432682c6e32c50400b96d737e2baae20fc63227ca4a3bb5cb7f204b6",
+      "blocks": 143
+    },
+    {
+      "chapter": "fall-45",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_c45_r1.htm",
+      "sourceTextSha256": "3b10b6eb46756c05c533a5f7c9f1b946b0fb7e866e59e55bdd17562e29967746",
+      "textSha256": "4e354f99fc4dbf31d729ccf921c7297a73b82e289002867cceb0a810bf119ebe",
+      "blocks": 220,
+      "preEditorialTextSha256": "3b10b6eb46756c05c533a5f7c9f1b946b0fb7e866e59e55bdd17562e29967746"
+    },
+    {
+      "chapter": "fall-epilogue",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_epl_r1.htm",
+      "sourceTextSha256": "d3fbac529a60d81095153a7eb966758dee42f689bcc819a40ce60ef8dc547c89",
+      "textSha256": "d3fbac529a60d81095153a7eb966758dee42f689bcc819a40ce60ef8dc547c89",
+      "blocks": 146
+    },
+    {
+      "chapter": "fall-dedication",
+      "source": "fall",
+      "file": "OEBPS/Simm_9780307781895_epub_ded_r1.htm",
+      "sourceTextSha256": "82124c4afe66707e5501303fb35a8342bdeac4b2ac05781c9aee4ec53c95d6ad",
+      "textSha256": "82124c4afe66707e5501303fb35a8342bdeac4b2ac05781c9aee4ec53c95d6ad",
+      "blocks": 1
+    }
+  ],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only; uncertain identifications begin Possibly.",
+  "editorialCorrections": [
+    {
+      "id": "v16-hyperion-001",
+      "book": "hyperion",
+      "chapter": "hyperion-01",
+      "paragraph": "p-158",
+      "before": "Loyt",
+      "after": "Hoyt",
+      "reason": "Character name has a single transposed-source spelling; surrounding narrative consistently says Lenar Hoyt."
+    },
+    {
+      "id": "v16-hyperion-002",
+      "book": "hyperion",
+      "chapter": "hyperion-01",
+      "paragraph": "p-221",
+      "before": "Villefrahche-sur-Saône",
+      "after": "Villefranche-sur-Saône",
+      "reason": "French place name and repeated name of this source location use n, not h."
+    },
+    {
+      "id": "v16-hyperion-003",
+      "book": "hyperion",
+      "chapter": "hyperion-02",
+      "paragraph": "p-178",
+      "before": "Lowe",
+      "after": "Loewe",
+      "reason": "The composer partnered with lyricist Alan Jay Lerner is Frederick Loewe; verified Songwriters Hall of Fame."
+    },
+    {
+      "id": "v16-hyperion-004",
+      "book": "hyperion",
+      "chapter": "hyperion-02",
+      "paragraph": "p-213",
+      "before": "fleschette",
+      "after": "flechette",
+      "reason": "Misspelled English name for a small dart projectile."
+    },
+    {
+      "id": "v16-hyperion-005",
+      "book": "hyperion",
+      "chapter": "hyperion-03",
+      "paragraph": "p-019",
+      "before": "Weintruab",
+      "after": "Weintraub",
+      "reason": "Transposed letters in the established character surname."
+    },
+    {
+      "id": "v16-hyperion-006",
+      "book": "hyperion",
+      "chapter": "hyperion-03",
+      "paragraph": "p-048",
+      "before": "Ogalalla Sioux",
+      "after": "Oglala Sioux",
+      "reason": "The Oglala Lakota tribal name is misspelled; use established tribal spelling."
+    },
+    {
+      "id": "v16-hyperion-007",
+      "book": "hyperion",
+      "chapter": "hyperion-03",
+      "paragraph": "p-079",
+      "before": "labrynthine",
+      "after": "labyrinthine",
+      "reason": "Dropped i in the adjective labyrinthine."
+    },
+    {
+      "id": "v16-hyperion-008",
+      "book": "hyperion",
+      "chapter": "hyperion-03",
+      "paragraph": "p-083",
+      "before": "spermatazoa",
+      "after": "spermatozoa",
+      "reason": "Misspelled plural of spermatozoon."
+    },
+    {
+      "id": "v16-hyperion-009",
+      "book": "hyperion",
+      "chapter": "hyperion-04",
+      "paragraph": "p-096",
+      "before": "Muses mine",
+      "after": "Muses nine",
+      "reason": "Keats’s quoted poem reads Muses nine, referring to the nine Muses. Verified against the public-domain complete poetical works."
+    },
+    {
+      "id": "v16-hyperion-010",
+      "book": "hyperion",
+      "chapter": "hyperion-04",
+      "paragraph": "p-244",
+      "before": "sarcophogi",
+      "after": "sarcophagi",
+      "reason": "Misspelled plural of sarcophagus."
+    },
+    {
+      "id": "v16-hyperion-011",
+      "book": "hyperion",
+      "chapter": "hyperion-04",
+      "paragraph": "p-550",
+      "before": "first Few months",
+      "after": "first few months",
+      "reason": "Stray mid-sentence capital in ordinary prose."
+    },
+    {
+      "id": "v16-hyperion-012",
+      "book": "hyperion",
+      "chapter": "hyperion-04",
+      "paragraph": "p-641",
+      "before": "Issaac",
+      "after": "Isaac",
+      "reason": "Misspelling of the biblical name Isaac."
+    },
+    {
+      "id": "v16-hyperion-013",
+      "book": "hyperion",
+      "chapter": "hyperion-05",
+      "paragraph": "p-225",
+      "before": "dataumplane",
+      "after": "datumplane",
+      "reason": "One malformed instance of a repeatedly used fictional compound."
+    },
+    {
+      "id": "v16-hyperion-014",
+      "book": "hyperion",
+      "chapter": "hyperion-05",
+      "paragraph": "p-405",
+      "before": "Swarzschild",
+      "after": "Schwarzschild",
+      "reason": "Physicist Karl Schwarzschild’s name is misspelled."
+    },
+    {
+      "id": "v16-hyperion-015",
+      "book": "hyperion",
+      "chapter": "hyperion-06",
+      "paragraph": "p-456",
+      "before": "Swarzschild",
+      "after": "Schwarzschild",
+      "reason": "Misspelling in the scientific term Schwarzschild radius."
+    },
+    {
+      "id": "v16-fall-001",
+      "book": "hyperion",
+      "chapter": "fall-02",
+      "paragraph": "p-002",
+      "before": "piping at seems and cuffs",
+      "after": "piping at seams and cuffs",
+      "reason": "The suit trim is located at garment seams; wrong homophone."
+    },
+    {
+      "id": "v16-fall-002",
+      "book": "hyperion",
+      "chapter": "fall-11",
+      "paragraph": "p-074",
+      "before": "so abtruse as",
+      "after": "so abstruse as",
+      "reason": "Missing s in abstruse."
+    },
+    {
+      "id": "v16-fall-003",
+      "book": "hyperion",
+      "chapter": "fall-45",
+      "paragraph": "p-002",
+      "before": "Brawn Lamia",
+      "after": "Brawne Lamia",
+      "reason": "Character given name consistently appears as Brawne throughout the source."
+    },
+    {
+      "id": "v16-fall-004",
+      "book": "hyperion",
+      "chapter": "fall-45",
+      "paragraph": "p-002",
+      "before": "more analagous to an ecology",
+      "after": "more analogous to an ecology",
+      "reason": "Misspelling of analogous."
+    },
+    {
+      "id": "v16-fall-005",
+      "book": "hyperion",
+      "chapter": "fall-34",
+      "paragraph": "p-117",
+      "before": "annointed me",
+      "after": "anointed me",
+      "reason": "Doubled n in anointed."
+    },
+    {
+      "id": "v16-fall-008",
+      "book": "hyperion",
+      "chapter": "fall-34",
+      "paragraph": "p-152",
+      "before": "each artifical generation",
+      "after": "each artificial generation",
+      "reason": "Missing i in artificial."
+    },
+    {
+      "id": "v16-fall-014",
+      "book": "hyperion",
+      "chapter": "fall-34",
+      "paragraph": "p-105",
+      "before": "before Aquinus",
+      "after": "before Aquinas",
+      "reason": "The context explicitly discusses the Christian Trinity and its theological history: Thomas Aquinas is the identifiable referent."
+    },
+    {
+      "id": "v16-fall-006",
+      "book": "hyperion",
+      "chapter": "fall-29",
+      "paragraph": "p-035",
+      "before": "an archaelogical dig",
+      "after": "an archaeological dig",
+      "reason": "Missing o in archaeological."
+    },
+    {
+      "id": "v16-fall-007",
+      "book": "hyperion",
+      "chapter": "fall-36",
+      "paragraph": "p-025",
+      "before": "the archiac diskey panel",
+      "after": "the archaic diskey panel",
+      "reason": "Transposed vowels in archaic."
+    },
+    {
+      "id": "v16-fall-009",
+      "book": "hyperion",
+      "chapter": "fall-12",
+      "paragraph": "p-002",
+      "before": "state of belligerancy",
+      "after": "state of belligerency",
+      "reason": "Misspelling of belligerency."
+    },
+    {
+      "id": "v16-fall-010",
+      "book": "hyperion",
+      "chapter": "fall-39",
+      "paragraph": "p-152",
+      "before": "Tertiary radation burns",
+      "after": "Tertiary radiation burns",
+      "reason": "Missing i in radiation."
+    },
+    {
+      "id": "v16-fall-011",
+      "book": "hyperion",
+      "chapter": "fall-37",
+      "paragraph": "p-210",
+      "before": "the last requirment",
+      "after": "the last requirement",
+      "reason": "Missing e in requirement."
+    },
+    {
+      "id": "v16-fall-012",
+      "book": "hyperion",
+      "chapter": "fall-27",
+      "paragraph": "p-006",
+      "before": "stilleto thinness",
+      "after": "stiletto thinness",
+      "reason": "Misspelling of stiletto."
+    },
+    {
+      "id": "v16-fall-013",
+      "book": "hyperion",
+      "chapter": "fall-07",
+      "paragraph": "p-017",
+      "before": "An interesting strategem",
+      "after": "An interesting stratagem",
+      "reason": "Misspelling of stratagem."
+    },
+    {
+      "id": "v16-fall-015",
+      "book": "hyperion",
+      "chapter": "fall-19",
+      "paragraph": "p-031",
+      "before": "Poets’ Ampitheatre",
+      "after": "Poets’ Amphitheatre",
+      "reason": "Missing h in amphitheatre."
+    },
+    {
+      "id": "v16-fall-016",
+      "book": "hyperion",
+      "chapter": "fall-42",
+      "paragraph": "p-085",
+      "before": "spermatazoa",
+      "after": "spermatozoa",
+      "reason": "Misspelling of spermatozoa."
+    },
+    {
+      "id": "v16-fall-019",
+      "book": "hyperion",
+      "chapter": "fall-42",
+      "paragraph": "p-195",
+      "before": "President Pro Tern Denzel-Hiat-Amin",
+      "after": "President Pro Tem Denzel-Hiat-Amin",
+      "reason": "Classic rn/m OCR substitution in the title pro tem."
+    },
+    {
+      "id": "v16-fall-017",
+      "book": "hyperion",
+      "chapter": "fall-32",
+      "paragraph": "p-173",
+      "before": "And thou be consciencc-calm’d—sec here it is—",
+      "after": "And thou be conscience-calm’d—see here it is—",
+      "reason": "Two e/c OCR substitutions in Keats’s This living hand; verified against https://www.poetryfoundation.org/poems/50375/this-living-hand-now-warm-and-capable and https://johnkeats.uvic.ca/1819-10-21.html. Keep the source contracted calm’d."
+    },
+    {
+      "id": "v16-fall-018",
+      "book": "hyperion",
+      "chapter": "fall-24",
+      "paragraph": "p-001",
+      "before": "President Pro Tern Denzel-Hiat-Amin",
+      "after": "President Pro Tem Denzel-Hiat-Amin",
+      "reason": "Classic rn/m OCR substitution in the title pro tem."
+    },
+    {
+      "id": "v16-fall-021",
+      "book": "hyperion",
+      "chapter": "fall-24",
+      "paragraph": "p-001",
+      "before": "Roan-quist from Nordholm",
+      "after": "Roanquist from Nordholm",
+      "reason": "Apparent retained line-end hyphen; the same Nordholm senator is Roanquist in chapter 37."
+    },
+    {
+      "id": "v16-fall-020",
+      "book": "hyperion",
+      "chapter": "fall-33",
+      "paragraph": "p-014",
+      "before": "protective containment held bubble",
+      "after": "protective containment field bubble",
+      "reason": "OCR substitution fi→h; containment fields are consistently the protective technology in surrounding text."
+    }
+  ]
+}

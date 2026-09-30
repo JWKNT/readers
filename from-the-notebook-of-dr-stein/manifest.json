@@ -12,7 +12,7 @@
   ],
   "totalWords": 2046,
   "defaultChapter": "story",
-  "glossaryCount": 8,
+  "glossaryCount": 9,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -92,6 +92,10 @@
         {
           "term": "flapper",
           "paragraph": "p-002"
+        },
+        {
+          "term": "dictaphone",
+          "paragraph": "p-003"
         },
         {
           "term": "alienist",

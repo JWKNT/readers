@@ -14,11 +14,23 @@
         "OEBPS/e9781429966214_c13.html"
       ],
       "sourceTextSha256": "00797ab40ce548c7ef202524436ca8a35e0022eac125ab2df119d15eb579c56a",
-      "textSha256": "00797ab40ce548c7ef202524436ca8a35e0022eac125ab2df119d15eb579c56a",
-      "blocks": 130
+      "textSha256": "6bd16a2241424d0811561853481300107aeadc8af5a69a7d70cd08faa95a5452",
+      "blocks": 130,
+      "preEditorialTextSha256": "00797ab40ce548c7ef202524436ca8a35e0022eac125ab2df119d15eb579c56a"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "id": "v16-endangered-002",
+      "book": "our-neighbour-by-david-copperfield",
+      "chapter": "story",
+      "paragraph": "p-098",
+      "before": "“Mama?”Mama?”",
+      "after": "“Mama? Mama?”",
+      "reason": "A closing quotation mark has replaced the space between two calls within the same child's utterance. Retains both repetitions and both question marks. Same defect in supplied EPUB."
+    }
+  ]
 }

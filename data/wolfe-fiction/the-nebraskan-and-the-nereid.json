@@ -142,5 +142,35 @@
       }
     ],
     "evidence": "story/p-031: younger, smaller, and—um—rounder. He suddenly recalled that Schliemann, the discoverer of Troy, had married a Greek girl of nineteen at the age of forty-seven. "
+  },
+  {
+    "id": "epipotamides",
+    "term": "Epipotamides",
+    "aliases": [],
+    "short": "River nymphs in Greek tradition.",
+    "note": "A Greek designation for the nymphs of rivers, alongside the related term potameides.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://api.pageplace.de/preview/DT0400.9780198028680_A23605068/preview-9780198028680_A23605068.pdf",
+        "label": "Jennifer Larson · Greek Nymphs: Myth, Cult, Lore, p. 8"
+      }
+    ],
+    "evidence": "story/p-024: Oreads; and there were Dryads and Meliae in the trees, Epipotamides in the rivers, and so forth. And old people, rural people particularly …”"
+  },
+  {
+    "id": "katzenjammer-kids",
+    "term": "Katzenjammer Kids",
+    "aliases": [],
+    "short": "Rudolph Dirks’s comic strip about mischievous children.",
+    "note": "An American newspaper comic created by Rudolph Dirks, inspired by Wilhelm Busch’s Max and Moritz, the German picture-book account of two mischievous boys.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.loc.gov/item/2021666776",
+        "label": "Library of Congress · Max and Moritz and The Katzenjammer Kids"
+      }
+    ],
+    "evidence": "story/p-014:  knotted in a bun. She could be Miss Twiddle from “The Katzenjammer Kids” or the Miss Minerva of Miss Minerva and William Green Hill. And yet—"
   }
 ]

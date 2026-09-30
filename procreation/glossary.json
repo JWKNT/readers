@@ -85,5 +85,45 @@
       "paragraph": "p-015",
       "index": 0
     }
+  },
+  {
+    "id": "gastprofessoring",
+    "term": "Gastprofessoring",
+    "aliases": [],
+    "short": "From German Gastprofessor, a visiting professor.",
+    "note": "Built from the German Gastprofessor: a professor employed temporarily as a guest at another university.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.duden.de/rechtschreibung/Gastprofessor",
+        "label": "Duden · Gastprofessor"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
+  },
+  {
+    "id": "physical-review-c",
+    "term": "Physical Review C",
+    "aliases": [],
+    "short": "A research journal devoted to nuclear physics.",
+    "note": "An American Physical Society journal established in 1970, publishing experimental and theoretical research in nuclear physics.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://journals.aps.org/prc/about",
+        "label": "American Physical Society · About Physical Review C"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-006",
+      "index": 0
+    }
   }
 ]

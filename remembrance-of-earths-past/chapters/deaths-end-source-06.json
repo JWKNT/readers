@@ -1,0 +1,22 @@
+{
+  "id": "deaths-end-source-06",
+  "title": "Table of Eras",
+  "volume": "deaths-end",
+  "volumeTitle": "Death’s End",
+  "kind": "reference",
+  "index": 126,
+  "number": 127,
+  "label": "—",
+  "layout": "prose",
+  "sections": [],
+  "blocks": [
+    "p-001"
+  ],
+  "noteAnchors": [],
+  "words": 43,
+  "startWords": 522571,
+  "html": "<table id=\"p-001\" data-block=\"p-001\">\n<tr>\n<td>Common Era</td>\n<td>Present–201X C.E.</td>\n</tr>\n\n<tr>\n<td>Crisis Era</td>\n<td>201X–2208</td>\n</tr>\n\n<tr>\n<td>Deterrence Era</td>\n<td>2208–2270</td>\n</tr>\n\n<tr>\n<td>Post-Deterrence Era</td>\n<td>2270–2272</td>\n</tr>\n\n<tr>\n<td>Broadcast Era</td>\n<td>2272–2332</td>\n</tr>\n\n<tr>\n<td>Bunker Era</td>\n<td>2333–2400</td>\n</tr>\n\n<tr>\n<td>Galaxy Era</td>\n<td>2273–unknown</td>\n</tr>\n\n<tr>\n<td>Black Domain Era for DX3906 System</td>\n<td>2687–18906416</td>\n</tr>\n\n<tr>\n<td>Timeline for Universe 647</td>\n<td>18906416–...</td>\n</tr>\n</table>",
+  "sourceReader": "deaths-end",
+  "sourceChapter": "source-06",
+  "partTitle": ""
+}

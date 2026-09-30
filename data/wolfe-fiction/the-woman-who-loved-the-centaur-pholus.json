@@ -178,5 +178,65 @@
       }
     ],
     "evidence": "story/p-018: p-018 Anderson passed a billboard showing the little sternwheeler Apollo 2 and swerved onto the next unmarked road. There were fresh tire tracks in the sno"
+  },
+  {
+    "id": "amphitrite",
+    "term": "Amphitrite",
+    "aliases": [],
+    "short": "The Greek sea goddess and wife of Poseidon.",
+    "note": "A sea goddess in Greek mythology, wife of Poseidon and mother of Triton. Ancient poetry also uses her name for the sea itself.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Pontios/Amphitrite.html",
+        "label": "Theoi · Amphitrite, classical source passages"
+      }
+    ],
+    "evidence": "story/p-007: O’er the green waves which gently bend and swell, Fair Amphitrite steers her silver shell; Her playful dolphins stretch the silken rein, Hear her swee"
+  },
+  {
+    "id": "odysseus",
+    "term": "Odysseus",
+    "aliases": [],
+    "short": "The Greek hero who passes the Sirens with wax and bonds.",
+    "note": "The hero of Homer’s Odyssey. In Book 12 he plugs his companions’ ears with wax against the Sirens’ song, while they bind him to the mast so he can listen without following the singers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Text/HomerOdyssey12.html",
+        "label": "Homer · Odyssey, Book 12"
+      }
+    ],
+    "evidence": "story/p-009:  voice, Anderson said aloud, “They sell everything but Odysseus’s wax. But then, I don’t need wax.” He had been thinking of the man-headed bull, Nin"
+  },
+  {
+    "id": "anubis",
+    "term": "Anubis",
+    "aliases": [],
+    "short": "The jackal-headed Egyptian god of mummification.",
+    "note": "An ancient Egyptian god associated with mummification and funerary rites, represented as a canid or a human with a jackal’s head.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/544075",
+        "label": "Metropolitan Museum · Statue of Anubis"
+      }
+    ],
+    "evidence": "story/p-070: “Maybe,” Anderson said. “There are other possibilities—Anubis and Set, perhaps even Narashimha, the lion-man of the Vedas. Whatever they are, we’r"
+  },
+  {
+    "id": "set",
+    "term": "Set",
+    "aliases": [],
+    "short": "Seth, the Egyptian deity and brother of Osiris.",
+    "note": "An ancient Egyptian deity, also called Seth, often represented with the head of a composite animal. In the Osiris myth he kills and dismembers his brother Osiris.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/exhibitions/divine-egypt/inside-the-exhibition",
+        "label": "Metropolitan Museum · Divine Egypt"
+      }
+    ],
+    "evidence": "story/p-070: derson said. “There are other possibilities—Anubis and Set, perhaps even Narashimha, the lion-man of the Vedas. Whatever they are, we’re going "
   }
 ]

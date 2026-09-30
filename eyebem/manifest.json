@@ -12,7 +12,7 @@
   ],
   "totalWords": 4225,
   "defaultChapter": "story",
-  "glossaryCount": 7,
+  "glossaryCount": 9,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -118,6 +118,14 @@
         {
           "term": "kobuk-river",
           "paragraph": "p-028"
+        },
+        {
+          "term": "kivalina",
+          "paragraph": "p-045"
+        },
+        {
+          "term": "point-hope",
+          "paragraph": "p-045"
         },
         {
           "term": "bistable",

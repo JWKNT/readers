@@ -2,8 +2,8 @@
 
 This directory is a complete static website. It contains New Sun (including Urth),
 Long Sun (four novels), Short Sun (three novels), and Cixin Liu’s Remembrance of
-Earth’s Past trilogy (three separate readers), The Fifth Head of Cerberus, and
-60 individual short stories. No package installation,
+Earth’s Past trilogy (one reader), Dan Simmons’s Hyperion and The Fall of Hyperion
+(one reader), The Fifth Head of Cerberus, and 60 individual short stories. No package installation,
 build service, database, or account is required.
 
 ## Local test
@@ -21,13 +21,15 @@ The book addresses are:
 - `/readers/book-of-the-new-sun/`
 - `/readers/book-of-the-long-sun/`
 - `/readers/book-of-the-short-sun/`
-- `/readers/three-body-problem/`
-- `/readers/dark-forest/`
-- `/readers/deaths-end/`
+- `/readers/remembrance-of-earths-past/`
+- `/readers/hyperion/`
 - `/readers/the-fifth-head-of-cerberus/`
 
 The library links to every standalone story; `data/wolfe-fiction/catalog.json`
 is the complete title and route inventory.
+The original `three-body-problem`, `dark-forest`, and `deaths-end` reader URLs
+forward into the combined trilogy, preserving chapter/paragraph hashes and queries.
+Their plain HTML chapters remain available at their original addresses.
 
 Use an HTTP server rather than opening index.html directly. If instead you serve
 this directory itself, the addresses have no initial `/readers` component.
@@ -85,8 +87,8 @@ importers invoke this step automatically. Version 15 adds 335 repairs and restor
 verse, epigraph, transcript and inline-emphasis formatting; see `NOTES-V15.md`.
 
 To maintain annotations in the non-Solar-Cycle readers, edit the corresponding
-JSON in `data/earths-past/` or `data/wolfe-fiction/`, then run
-`python3 tools/rebuild_annotations.py reader-id` (omit the ID to rebuild all 64).
+JSON in `data/earths-past/`, `data/wolfe-fiction/`, or `data/hyperion/`, then run
+`python3 tools/rebuild_annotations.py reader-id` (omit the ID to rebuild all).
 This annotations-only rebuild uses the committed chapter text, requires no EPUB,
 and leaves original notes, supplementary sections, and source metadata untouched.
 Verify with `python3 tools/validate.py --baseline <previous-commit>` and
@@ -171,3 +173,24 @@ python3 tools/validate.py --baseline 854c40b
 
 Authored notes, catalog and source-integrity records live in `data/wolfe-fiction`.
 See [NOTES-V13.md](NOTES-V13.md) for source-quality limitations and validation.
+
+## Version 16
+
+Hyperion and The Fall of Hyperion share one reader, contents and search, with
+separate volume ornaments and external-reference margins. Supplied poetry,
+diary sections, unusual inline punctuation and mathematical images are retained.
+Remembrance of Earth’s Past is assembled into the same multi-volume structure;
+its existing text and definitions are unchanged. Endangered Species already has
+all 34 stories represented across its 30 distinct pages and four shared duplicates.
+
+```sh
+python3 tools/import_hyperion.py --hyperion /path/to/hyperion.epub --fall /path/to/fall.epub
+python3 tools/series_readers.py
+python3 tools/test_series_readers.py
+python3 tools/validate.py --baseline 337d71b
+```
+
+`tools/series_readers.py` assembles the Liu trilogy from its retained source
+readers. The Liu importer and annotation-maintenance command invoke it
+automatically. If replaying editorial repairs against a retained Liu source,
+run the assembly afterward. See [NOTES-V16.md](NOTES-V16.md) for this release.

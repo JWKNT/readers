@@ -12,7 +12,7 @@
   ],
   "totalWords": 3167,
   "defaultChapter": "story",
-  "glossaryCount": 4,
+  "glossaryCount": 6,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -89,6 +89,14 @@
         {
           "term": "john-cramer",
           "paragraph": "p-005"
+        },
+        {
+          "term": "gastprofessoring",
+          "paragraph": "p-005"
+        },
+        {
+          "term": "physical-review-c",
+          "paragraph": "p-006"
         },
         {
           "term": "ylem",

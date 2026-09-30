@@ -158,5 +158,29 @@
       "paragraph": "p-002",
       "index": 0
     }
+  },
+  {
+    "id": "dictaphone",
+    "term": "Dictaphone",
+    "aliases": [],
+    "short": "A brand of machines for recording spoken dictation.",
+    "note": "A brand of office recording machines used to capture speech for later transcription. Early Dictaphones recorded on wax cylinders.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://americanhistory.si.edu/collections/object/nmah_1436993",
+        "label": "Smithsonian · Model 10X Type A Dictaphone"
+      },
+      {
+        "url": "https://soundandscience.net/artefacts/dictaphone-dictation-machine/",
+        "label": "Humboldt-Universität zu Berlin · Dictaphone dictation machine"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-003",
+      "index": 0
+    }
   }
 ]

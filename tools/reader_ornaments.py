@@ -287,12 +287,22 @@ MOTIFS.update({
     group(hourglass(),'translate(9 4) scale(.72)')+path('M5 26C14 12 45 12 55 26C45 40 14 40 5 26Z',width=.85)+star(48,10,3)+dot(12,41,1.3),
 })
 MOTIFS['parkroads-a-review'] = MOTIFS.pop('parkroadsa-review')
+MOTIFS.update({
+ 'hyperion':
+    group(hourglass(),'translate(6 1) scale(.8)')+
+    path('M12 46C4 30 8 12 16 6M11 36L5 33M10 27L16 22M11 18L6 13M48 46C56 30 52 12 44 6M49 36L55 33M50 27L44 22M49 18L54 13',width=1.2)+
+    path('M20 45Q30 49 40 45',width=.8)+star(30,5,2.5),
+ 'the-fall-of-hyperion':
+    path('M14 12C7 19 14 27 19 31V40Q30 46 41 40V31C46 27 53 19 46 12M14 12Q20 8 24 15M46 12Q40 8 36 15M19 19H41M22 19V38M27 19V40M33 19V40M38 19V38M19 35H41M24 46H36',width=1.2)+
+    star(31,8,4)+path('M34 5L42 2M35 9L46 6M15 45L10 48M46 44L51 47',width=.7),
+})
 
 def generate(root=ROOT):
     catalog = json.loads((root / 'data/wolfe-fiction/catalog.json').read_text())
     titles = {entry['id']: entry['title'] for entry in catalog}
     titles.update({'three-body-problem': 'The Three-Body Problem',
-                   'dark-forest': 'The Dark Forest', 'deaths-end': 'Death’s End'})
+                   'dark-forest': 'The Dark Forest', 'deaths-end': 'Death’s End',
+                   'hyperion': 'Hyperion', 'the-fall-of-hyperion': 'The Fall of Hyperion'})
     missing = set(titles) - MOTIFS.keys()
     if missing:
         raise ValueError(f'Missing ornament drawings: {sorted(missing)}')

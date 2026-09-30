@@ -346,7 +346,7 @@
         "chapters": 1
       }
     ],
-    "glossaryCount": 7,
+    "glossaryCount": 9,
     "totalWords": 4225,
     "kind": "story"
   },
@@ -424,7 +424,7 @@
         "chapters": 1
       }
     ],
-    "glossaryCount": 8,
+    "glossaryCount": 9,
     "totalWords": 2046,
     "kind": "story"
   },
@@ -763,7 +763,7 @@
         "chapters": 1
       }
     ],
-    "glossaryCount": 9,
+    "glossaryCount": 11,
     "totalWords": 3112,
     "kind": "story"
   },
@@ -850,7 +850,7 @@
         "chapters": 1
       }
     ],
-    "glossaryCount": 2,
+    "glossaryCount": 5,
     "totalWords": 2330,
     "kind": "story"
   },
@@ -901,7 +901,7 @@
         "chapters": 1
       }
     ],
-    "glossaryCount": 4,
+    "glossaryCount": 6,
     "totalWords": 3167,
     "kind": "story"
   },
@@ -1030,7 +1030,7 @@
         "chapters": 1
       }
     ],
-    "glossaryCount": 3,
+    "glossaryCount": 4,
     "totalWords": 1874,
     "kind": "story"
   },
@@ -1183,137 +1183,58 @@
         "chapters": 1
       }
     ],
-    "glossaryCount": 11,
+    "glossaryCount": 15,
     "totalWords": 3110,
     "kind": "story"
   },
   {
-    "id": "three-body-problem",
-    "title": "The Three-Body Problem",
+    "id": "remembrance-of-earths-past",
+    "title": "Remembrance of Earth’s Past",
     "author": "Cixin Liu",
     "volumes": [
       {
-        "id": "part-1",
-        "title": "Part I: Silent Spring",
-        "chapters": 3,
+        "id": "three-body-problem",
+        "title": "The Three-Body Problem",
+        "chapters": 35,
         "referenceTitle": "Supplementary material"
       },
       {
-        "id": "part-2",
-        "title": "Part II: Three Body",
-        "chapters": 17,
+        "id": "dark-forest",
+        "title": "The Dark Forest",
+        "chapters": 8,
         "referenceTitle": "Supplementary material"
       },
       {
-        "id": "part-3",
-        "title": "Part III: Sunset for Humanity",
-        "chapters": 15,
-        "referenceTitle": "Supplementary material"
-      },
-      {
-        "id": "sources",
-        "title": "Supplementary material",
-        "chapters": 0,
+        "id": "deaths-end",
+        "title": "Death’s End",
+        "chapters": 75,
         "referenceTitle": "Supplementary material"
       }
     ],
-    "glossaryCount": 122,
-    "totalWords": 114223
+    "glossaryCount": 325,
+    "totalWords": 522571,
+    "kind": "series"
   },
   {
-    "id": "dark-forest",
-    "title": "The Dark Forest",
-    "author": "Cixin Liu",
+    "id": "hyperion",
+    "title": "Hyperion",
+    "author": "Dan Simmons",
     "volumes": [
       {
-        "id": "opening",
-        "title": "Opening",
-        "chapters": 1,
-        "referenceTitle": "Supplementary material"
+        "id": "hyperion",
+        "title": "Hyperion",
+        "chapters": 8,
+        "referenceTitle": "Dedication"
       },
       {
-        "id": "part-1",
-        "title": "Part I: The Wallfacers",
-        "chapters": 1,
-        "referenceTitle": "Supplementary material"
-      },
-      {
-        "id": "part-2",
-        "title": "Part II: The Spell",
-        "chapters": 3,
-        "referenceTitle": "Supplementary material"
-      },
-      {
-        "id": "part-3",
-        "title": "Part III: The Dark Forest",
-        "chapters": 3,
-        "referenceTitle": "Supplementary material"
-      },
-      {
-        "id": "sources",
-        "title": "Supplementary material",
-        "chapters": 0,
-        "referenceTitle": "Supplementary material"
+        "id": "fall",
+        "title": "The Fall of Hyperion",
+        "chapters": 47,
+        "referenceTitle": "Dedication"
       }
     ],
-    "glossaryCount": 94,
-    "totalWords": 186717
-  },
-  {
-    "id": "deaths-end",
-    "title": "Death’s End",
-    "author": "Cixin Liu",
-    "volumes": [
-      {
-        "id": "opening",
-        "title": "Opening",
-        "chapters": 1,
-        "referenceTitle": "Supplementary material"
-      },
-      {
-        "id": "part-1",
-        "title": "Part I",
-        "chapters": 11,
-        "referenceTitle": "Supplementary material"
-      },
-      {
-        "id": "part-2",
-        "title": "Part II",
-        "chapters": 26,
-        "referenceTitle": "Supplementary material"
-      },
-      {
-        "id": "part-3",
-        "title": "Part III",
-        "chapters": 24,
-        "referenceTitle": "Supplementary material"
-      },
-      {
-        "id": "part-4",
-        "title": "Part IV",
-        "chapters": 3,
-        "referenceTitle": "Supplementary material"
-      },
-      {
-        "id": "part-5",
-        "title": "Part V",
-        "chapters": 5,
-        "referenceTitle": "Supplementary material"
-      },
-      {
-        "id": "part-6",
-        "title": "Part VI",
-        "chapters": 5,
-        "referenceTitle": "Supplementary material"
-      },
-      {
-        "id": "sources",
-        "title": "Supplementary material",
-        "chapters": 0,
-        "referenceTitle": "Supplementary material"
-      }
-    ],
-    "glossaryCount": 109,
-    "totalWords": 221631
+    "glossaryCount": 297,
+    "totalWords": 352735,
+    "kind": "series"
   }
 ]

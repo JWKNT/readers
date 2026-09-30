@@ -41,5 +41,67 @@
       "paragraph": "p-007",
       "index": 0
     }
+  },
+  {
+    "id": "gulag",
+    "term": "gulag",
+    "aliases": [],
+    "short": "The Soviet system of forced-labor camps.",
+    "note": "The Soviet network of forced-labor camps. The name comes from the Russian abbreviation for the state directorate that administered the camps.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.loc.gov/exhibits/archives/intn.html",
+        "label": "Library of Congress · The Gulag"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-044",
+      "index": 0
+    }
+  },
+  {
+    "id": "politburo",
+    "term": "Politburo",
+    "aliases": [],
+    "short": "A Communist party’s principal governing committee.",
+    "note": "The central policymaking and executive committee of a Communist party. The name abbreviates the Russian expression for “political bureau.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/politburo",
+        "label": "Merriam-Webster · politburo"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-044",
+      "index": 0
+    }
+  },
+  {
+    "id": "muzhik",
+    "term": "muzhik",
+    "aliases": [
+      "muzhiks"
+    ],
+    "short": "A Russian peasant.",
+    "note": "A Russian peasant; also spelled moujik or mujik. Muzhiks is the plural.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/muzhik",
+        "label": "Merriam-Webster · muzhik"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-080",
+      "index": 0
+    }
   }
 ]

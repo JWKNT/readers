@@ -1,0 +1,22 @@
+{
+  "id": "hyperion-dedication",
+  "title": "Dedication",
+  "label": "",
+  "volume": "hyperion",
+  "volumeTitle": "Hyperion",
+  "partTitle": "",
+  "kind": "reference",
+  "index": 8,
+  "layout": "prose",
+  "blocks": [
+    "p-001"
+  ],
+  "sections": [],
+  "words": 4,
+  "unnumberedToc": true,
+  "navigationSections": [],
+  "noteAnchors": [],
+  "html": "<div class=\"hyp-dedication\">\n<p class=\"prose hyp-center\" id=\"p-001\" data-block=\"p-001\">This is for Ted</p>\n</div>",
+  "number": 9,
+  "startWords": 167919
+}

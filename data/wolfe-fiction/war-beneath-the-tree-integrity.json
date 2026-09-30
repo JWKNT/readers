@@ -14,11 +14,23 @@
         "OEBPS/e9781429966214_c17.html"
       ],
       "sourceTextSha256": "55adb57bec399d3a521e818b7e73f9aa4340d3f0a1767568c17f1097e4bee115",
-      "textSha256": "55adb57bec399d3a521e818b7e73f9aa4340d3f0a1767568c17f1097e4bee115",
-      "blocks": 63
+      "textSha256": "51318508f6ca95d523e74f2457836c84d6a6312a22fc8bd37b59a39393b1ccb2",
+      "blocks": 63,
+      "preEditorialTextSha256": "55adb57bec399d3a521e818b7e73f9aa4340d3f0a1767568c17f1097e4bee115"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "id": "v16-endangered-001",
+      "book": "war-beneath-the-tree",
+      "chapter": "story",
+      "paragraph": "p-001",
+      "before": "IT’S Christmas Eve, Commander Robin,“the Spaceman said.”You’d",
+      "after": "“IT’S Christmas Eve, Commander Robin,” the Spaceman said. “You’d",
+      "reason": "Missing opening quotation mark, reversed quotation marks around the speech attribution, and lost spaces. The supplied EPUB has the same errors; this restores the unambiguous speech/attribution boundary while retaining the capitalized initial."
+    }
+  ]
 }

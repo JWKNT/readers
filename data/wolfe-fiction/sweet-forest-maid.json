@@ -43,5 +43,20 @@
       }
     ],
     "evidence": "story/p-013: te 96 between the little town of Happy Camp (where are you, Bret Harte?) and the Hoopa Valley Indian Reservation, knew that the Klamath lay south and east of he"
+  },
+  {
+    "id": "kodachrome",
+    "term": "Kodachrome",
+    "aliases": [],
+    "short": "Kodak color film known for its vivid palette.",
+    "note": "Kodak’s color photographic film, introduced in 1935 and especially associated with richly colored slides and home movies.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://siarchives.si.edu/blog/gone-not-forgotten",
+        "label": "Smithsonian Institution Archives · Kodachrome"
+      }
+    ],
+    "evidence": "story/p-005:  black figure in a magazine, a black figurine set in a Kodachrome forest. The man who had taken her picture thought she was a female Abominable Snowma"
   }
 ]

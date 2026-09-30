@@ -12,7 +12,7 @@
   ],
   "totalWords": 1874,
   "defaultChapter": "story",
-  "glossaryCount": 3,
+  "glossaryCount": 4,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -54,6 +54,10 @@
       "headingNoteAnchors": [],
       "headingHtml": "Sweet Forest Maid",
       "noteAnchors": [
+        {
+          "term": "kodachrome",
+          "paragraph": "p-005"
+        },
         {
           "term": "gitche-manitou",
           "paragraph": "p-005"

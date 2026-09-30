@@ -138,5 +138,45 @@
       "paragraph": "p-010",
       "index": 0
     }
+  },
+  {
+    "id": "kivalina",
+    "term": "Kivalina",
+    "aliases": [],
+    "short": "An Alaska Native community on the Chukchi Sea.",
+    "note": "A coastal Alaska Native community in the Northwest Arctic Borough, situated on a narrow barrier between the Chukchi Sea and the Kivalina River.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nwabor.org/village/kivalina/",
+        "label": "Northwest Arctic Borough · Kivalina"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-045",
+      "index": 0
+    }
+  },
+  {
+    "id": "point-hope",
+    "term": "Point Hope",
+    "aliases": [],
+    "short": "A coastal Iñupiat community in northwestern Alaska.",
+    "note": "A community near the end of a spit extending into the Chukchi Sea. The surrounding area includes the ancient settlements of Tigara and Ipiutak.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.north-slope.org/our-communities/point-hope/",
+        "label": "North Slope Borough · Point Hope"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-045",
+      "index": 0
+    }
   }
 ]

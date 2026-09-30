@@ -77,6 +77,26 @@ class RebuildAnnotationsTests(unittest.TestCase):
         self.assertEqual(anchors, [{'term': 'tarn', 'paragraph': 'p-001'}])
         self.assertEqual(first['tarn'], {'chapter': 'story', 'paragraph': 'p-001', 'index': 0})
 
+    def test_rebuild_keeps_a_corrected_name_annotated_and_recounts_it(self):
+        from editorial import restore, text
+        source='<p id="p-002" data-block="p-002"><span class="word" data-term="old-id" data-first="false">Aquin<span class="text-fix" data-correction="v16-test" data-original="u">a</span>s</span> and Aquinas.</p>'
+        entries=[{'id':'aquinas','term':'Aquinas','aliases':[]}]
+        tree=Fragment(source).root
+        regex,_=common.matcher(entries)
+        unannotate(tree,preserve=regex)
+        counts,first=Counter(),{}
+        common.annotate(tree,entries,counts,first,{'id':'fall-34','index':10})
+        result=common.inner(tree)
+        self.assertEqual(text(result),'Aquinas and Aquinas.')
+        self.assertEqual(text(restore(result)),'Aquinus and Aquinas.')
+        self.assertEqual(counts,{'aquinas':2})
+        self.assertEqual(first['aquinas'],{'chapter':'fall-34','paragraph':'p-002','index':10})
+        self.assertNotIn('old-id',result)
+        self.assertEqual(result.count('data-first="true"'),1)
+        unannotate(tree,preserve=regex)
+        common.annotate(tree,entries,Counter(),{}, {'id':'fall-34','index':10})
+        self.assertEqual(common.inner(tree),result)
+
     def test_article_replacement_preserves_surrounding_document(self):
         source = '<header>keep</header><article class="chapter-body">old</article><footer>keep</footer>'
         self.assertEqual(replace_article(source, 'new'), source.replace('>old<', '>new<'))

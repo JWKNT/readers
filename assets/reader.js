@@ -48,9 +48,14 @@
       const detail=document.createElement('details');detail.dataset.volume=v.id;
       const head=document.createElement('summary');head.textContent=v.title.replace(/^The /,'');detail.append(head);
       const ul=document.createElement('ul');
+      let lastPart='';
       for(const c of state.manifest.chapters.filter(c=>c.volume===v.id&&c.kind!=='reference')) {
+        if(c.partTitle&&c.partTitle!==lastPart){const part=document.createElement('li');part.className='toc-part';part.textContent=c.partTitle;ul.append(part);lastPart=c.partTitle;}
         const li=document.createElement('li'),a=document.createElement('a');a.href='#'+c.id;a.dataset.chapter=c.id;
-        a.innerHTML=`<span class="chapter-number">${esc(c.label||'—')}</span><span>${esc(c.title)}</span>`;li.append(a);ul.append(li);
+        if(c.unnumberedToc){a.className='single-label';a.textContent=c.title;}
+        else a.innerHTML=`<span class="chapter-number">${esc(c.label||'—')}</span><span>${esc(c.title)}</span>`;
+        li.append(a);ul.append(li);
+        for(const section of c.navigationSections||[]){const link=document.createElement('a');link.className='chapter-section';link.href='#'+c.id+'/'+section.paragraph;link.textContent=section.title;li.append(link);}
       }
       const refs=state.manifest.chapters.filter(c=>c.volume===v.id&&c.kind==='reference');
       if(refs.length&&!ul.children.length){for(const c of refs){const a=document.createElement('a');a.href='#'+c.id;a.dataset.chapter=c.id;a.textContent=c.title;const li=document.createElement('li');li.append(a);ul.append(li);}detail.append(ul);}else if(refs.length){const more=document.createElement('details');more.className='source-matter';const summary=document.createElement('summary');summary.textContent=v.referenceTitle||'Names in the text';more.append(summary);for(const c of refs){const a=document.createElement('a');a.href='#'+c.id;a.dataset.chapter=c.id;a.textContent=c.title;more.append(a);}detail.append(ul,more);}else detail.append(ul);

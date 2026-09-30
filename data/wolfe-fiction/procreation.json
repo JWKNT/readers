@@ -65,5 +65,35 @@
       }
     ],
     "evidence": "story/p-015: ion principle is a violation of parity itself. It’s God, or Maxwell’s Demon, or some such, looking at each little atom and saying, “You sit in smoking, you in nonsmo"
+  },
+  {
+    "id": "gastprofessoring",
+    "term": "Gastprofessoring",
+    "aliases": [],
+    "short": "From German Gastprofessor, a visiting professor.",
+    "note": "Built from the German Gastprofessor: a professor employed temporarily as a guest at another university.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.duden.de/rechtschreibung/Gastprofessor",
+        "label": "Duden · Gastprofessor"
+      }
+    ],
+    "evidence": "story/p-005: al. Wanted to phone John Cramer about it, but he’s off Gastprofessoring in West Berlin. Had to lecture, didn’t get much done."
+  },
+  {
+    "id": "physical-review-c",
+    "term": "Physical Review C",
+    "aliases": [],
+    "short": "A research journal devoted to nuclear physics.",
+    "note": "An American Physical Society journal established in 1970, publishing experimental and theoretical research in nuclear physics.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://journals.aps.org/prc/about",
+        "label": "American Physical Society · About Physical Review C"
+      }
+    ],
+    "evidence": "story/p-006: rown. (N.B. Remember to write on concept of “Room” for Physical Review C.); story/p-011: continue to do so.) Now back to work on my article for Physical Review C."
   }
 ]

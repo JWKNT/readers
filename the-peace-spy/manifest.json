@@ -12,7 +12,7 @@
   ],
   "totalWords": 2330,
   "defaultChapter": "story",
-  "glossaryCount": 2,
+  "glossaryCount": 5,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -143,6 +143,18 @@
         {
           "term": "divan",
           "paragraph": "p-021"
+        },
+        {
+          "term": "gulag",
+          "paragraph": "p-044"
+        },
+        {
+          "term": "politburo",
+          "paragraph": "p-044"
+        },
+        {
+          "term": "muzhik",
+          "paragraph": "p-080"
         }
       ],
       "words": 2330,

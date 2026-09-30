@@ -1,0 +1,2544 @@
+[
+  {
+    "id": "umber",
+    "term": "umber",
+    "aliases": [],
+    "short": "A dark yellowish-brown color.",
+    "note": "A brown earth pigment containing iron and manganese oxides, or its characteristic brown color.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/umber",
+        "label": "Merriam-Webster: umber"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "obelisk",
+    "term": "obelisk",
+    "aliases": [],
+    "short": "A tall stone pillar tapering to a pyramid.",
+    "note": "A tall, four-sided stone pillar that tapers toward a small pyramidal top.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/obelisk",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "day-glo",
+    "term": "Day-Glo",
+    "aliases": [],
+    "short": "Exceptionally bright fluorescent color.",
+    "note": "A trade name for daylight-fluorescent pigments, which convert ultraviolet energy into visible light and appear unusually brilliant even in daylight.",
+    "sources": [
+      {
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/dayglo.html",
+        "label": "American Chemical Society: DayGlo fluorescent pigments"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "gossamer",
+    "term": "gossamer",
+    "aliases": [],
+    "short": "Fine, floating spider silk; something extremely light and delicate.",
+    "note": "The thin threads of spider silk that float through the air or cling to vegetation. By extension, gossamer describes filmy fabric or anything exceptionally fine, light, or insubstantial.",
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/us/dictionary/english-french/gossamer",
+        "label": "Cambridge Dictionary: gossamer, English definition"
+      },
+      {
+        "url": "https://www.dictionary.com/browse/gossamer",
+        "label": "Dictionary.com: gossamer"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "epaulets",
+    "term": "epaulets",
+    "aliases": [],
+    "short": "Ornamental shoulder pieces on a uniform.",
+    "note": "Decorative strips or pads worn on the shoulders of clothing, especially military uniforms.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/epaulet",
+        "label": "Merriam-Webster: epaulet"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "divan",
+    "term": "divan",
+    "aliases": [
+      "divan"
+    ],
+    "short": "A low couch or cushioned seat.",
+    "note": "A long, low couch, often without a back or arms.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/divan",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "falsetto",
+    "term": "falsetto",
+    "aliases": [],
+    "short": "An artificially high vocal register.",
+    "note": "A high, light register extending above the ordinary full voice, especially associated with male singers.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/falsetto",
+        "label": "Merriam-Webster: falsetto"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "ocher",
+    "term": "ocher",
+    "aliases": [],
+    "short": "An earthy yellow or reddish pigment.",
+    "note": "A natural iron-rich earth used as a pigment; the word often denotes its yellow form. Also spelled ochre.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ocher",
+        "label": "Merriam-Webster: ocher"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "halyard",
+    "term": "halyard",
+    "aliases": [
+      "halyards"
+    ],
+    "short": "A rope used to raise a sail or flag.",
+    "note": "A rope used to hoist or lower a sail, flag, or spar.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/halyard",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "tessellated",
+    "term": "tessellated",
+    "aliases": [
+      "tessellated"
+    ],
+    "short": "Formed into a mosaic or tiled pattern.",
+    "note": "Formed from small pieces fitted together, like a mosaic or tiled surface.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tessellated",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "aureate",
+    "term": "aureate",
+    "aliases": [
+      "aureate"
+    ],
+    "short": "Golden or gilded.",
+    "note": "Golden in color or ornamented with gold.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/aureate",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "sere",
+    "term": "sere",
+    "aliases": [],
+    "short": "Dry and withered.",
+    "note": "Dry, withered, or stripped of freshness, especially of vegetation.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sere",
+        "label": "Merriam-Webster · sere"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "sarcophagus",
+    "term": "sarcophagus",
+    "aliases": [
+      "sarcophagi"
+    ],
+    "short": "A stone coffin.",
+    "note": "A stone coffin, often carved or decorated.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sarcophagus",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "tycho-brahe",
+    "term": "Tycho Brahe",
+    "aliases": [],
+    "short": "Danish astronomer whose observations helped establish Kepler’s laws.",
+    "note": "Tycho Brahe, 1546–1601, made exceptionally precise observations of stars and planets before the telescope. Johannes Kepler used his measurements to develop the laws of planetary motion.",
+    "sources": [
+      {
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Brahe/",
+        "label": "University of St Andrews: Tycho Brahe"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "bandolier",
+    "term": "bandolier",
+    "aliases": [],
+    "short": "A shoulder belt for carrying ammunition.",
+    "note": "A belt worn diagonally across the chest, with loops or pouches for cartridges or other equipment.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bandolier",
+        "label": "Merriam-Webster: bandolier"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "klaxons",
+    "term": "klaxons",
+    "aliases": [
+      "klaxon"
+    ],
+    "short": "Loud electric warning horns.",
+    "note": "Electrically operated horns or alarms. Klaxon was originally a trademark.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/klaxon",
+        "label": "Merriam-Webster: Klaxon"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "barnards-star",
+    "term": "Barnard’s Star",
+    "aliases": [],
+    "short": "A nearby red dwarf about six light-years away.",
+    "note": "A small red dwarf in Ophiuchus, about six light-years from the Sun and closer than any stellar system except Alpha Centauri.",
+    "sources": [
+      {
+        "url": "https://www.eso.org/public/news/eso2414/",
+        "label": "European Southern Observatory: Barnard’s star"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "verdigris",
+    "term": "verdigris",
+    "aliases": [
+      "verdigris"
+    ],
+    "short": "Greenish corrosion on copper or its alloys.",
+    "note": "Green or blue-green corrosion products on copper and its alloys; also a historical pigment name.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/verdigris",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "astern",
+    "term": "astern",
+    "aliases": [
+      "astern"
+    ],
+    "short": "Behind a ship; toward its stern.",
+    "note": "Behind a ship, or toward its stern.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/astern",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "foresail",
+    "term": "foresail",
+    "aliases": [
+      "foresail"
+    ],
+    "short": "A sail on the foremast or forward part of a ship.",
+    "note": "A sail set on the foremast or toward the forward part of a vessel.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/foresail",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "dervish",
+    "term": "dervish",
+    "aliases": [
+      "Dervish"
+    ],
+    "short": "A member of a Muslim religious order.",
+    "note": "A member of a Muslim religious order associated with ascetic devotion. The word comes from Persian darvish, originally a poor person or beggar, and applies more broadly than the particular order known for whirling ceremonies.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/dervis",
+        "label": "Wiktionary · dervis"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dervish",
+        "label": "Merriam-Webster · dervish"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "servitor",
+    "term": "servitor",
+    "aliases": [],
+    "short": "A servant or attendant.",
+    "note": "An older word for a servant, historically especially a male servant. It derives from Latin servire, “to serve.”",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/servitor",
+        "label": "Merriam-Webster: servitor"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "acolyte",
+    "term": "acolyte",
+    "aliases": [],
+    "short": "An assistant at religious rites; also a devoted follower.",
+    "note": "Originally an attendant helping the clergy during worship. The word also denotes a pupil, disciple, or close assistant to a leader.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/acolyte",
+        "label": "Merriam-Webster: acolyte"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "lintel",
+    "term": "lintel",
+    "aliases": [],
+    "short": "The horizontal structural piece above a doorway or window.",
+    "note": "A beam or slab spanning an opening and generally supporting the weight of the construction above it.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lintel",
+        "label": "Merriam-Webster: lintel"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "litany",
+    "term": "litany",
+    "aliases": [],
+    "short": "A repeated chant or extended recital.",
+    "note": "Originally a sequence of prayers alternating between a leader and a congregation; more broadly, a repetitive chant or a long enumeration.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/litany",
+        "label": "Merriam-Webster: litany"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "chamberlain",
+    "term": "chamberlain",
+    "aliases": [
+      "chamberlains"
+    ],
+    "short": "A royal or noble household official.",
+    "note": "An official responsible for a royal or noble household, chamber, or treasury, depending on the setting.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chamberlain",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "ostiary",
+    "term": "ostiary",
+    "aliases": [
+      "ostiaries"
+    ],
+    "short": "A doorkeeper.",
+    "note": "A doorkeeper; also the name of a historical minor church office.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ostiary",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "soporific",
+    "term": "soporific",
+    "aliases": [],
+    "short": "Sleep-inducing.",
+    "note": "Sleep-inducing; as a noun, a substance that causes sleep.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/soporific",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "lateen",
+    "term": "lateen",
+    "aliases": [],
+    "short": "A triangular sail on a slanting yard.",
+    "note": "Describing a triangular sail hung from a long, slanting yard.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lateen",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "panoply",
+    "term": "panoply",
+    "aliases": [],
+    "short": "A complete array or splendid display.",
+    "note": "A full array, often splendid or impressive. The word originally referred to a complete suit of armor, from Greek panoplia, “all the armor,” and still carries that sense of completeness.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/panoply",
+        "label": "Merriam-Webster · panoply"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "vermilion",
+    "term": "vermilion",
+    "aliases": [],
+    "short": "A vivid scarlet-red color.",
+    "note": "A bright scarlet red. The pigment traditionally called vermilion is mercuric sulfide, while the color word can be used without specifying the material that produces it.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/vermilion",
+        "label": "Merriam-Webster · vermilion"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "jerkin",
+    "term": "jerkin",
+    "aliases": [],
+    "short": "A close-fitting, usually sleeveless jacket.",
+    "note": "A short fitted jacket, often of leather and without sleeves, particularly associated with sixteenth- and seventeenth-century dress.",
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/jerkin",
+        "label": "Dictionary.com · jerkin"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "lapis-lazuli",
+    "term": "lapis lazuli",
+    "aliases": [],
+    "short": "A richly blue ornamental stone.",
+    "note": "A deep-blue stone composed chiefly of lazurite with other minerals, used in ornaments and historically as a source of blue pigment.",
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/lapis-lazuli",
+        "label": "Dictionary.com · lapis-lazuli"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "vellum",
+    "term": "vellum",
+    "aliases": [],
+    "short": "Prepared animal skin used as parchment.",
+    "note": "Fine animal skin, traditionally calfskin, treated to serve as a durable writing surface.",
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/vellum",
+        "label": "Dictionary.com · vellum"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "tau-ceti",
+    "term": "Tau Ceti",
+    "aliases": [],
+    "short": "A nearby Sun-like star targeted by early SETI searches.",
+    "note": "A star in the constellation Cetus, chosen along with Epsilon Eridani for Frank Drake’s Project Ozma radio search in 1960.",
+    "sources": [
+      {
+        "url": "https://greenbankobservatory.org/about/telescopes/85-1-howard-tatel/",
+        "label": "Green Bank Observatory: Project Ozma"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "norbert-wiener",
+    "term": "Norbert Wiener",
+    "aliases": [
+      "Wiener"
+    ],
+    "short": "Mathematician who founded cybernetics.",
+    "note": "An American mathematician, 1894–1964, who studied probability, communication, feedback, and control. His 1948 book Cybernetics connected the regulation of machines with processes in living organisms.",
+    "sources": [
+      {
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Wiener_Norbert/",
+        "label": "University of St Andrews: Norbert Wiener"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "non-sequitur",
+    "term": "non sequitur",
+    "aliases": [],
+    "short": "A statement that does not logically follow.",
+    "note": "Latin for “it does not follow”: an inference unsupported by its premises, or a remark disconnected from what preceded it.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/non%20sequitur",
+        "label": "Merriam-Webster: non sequitur"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "oscilloscope",
+    "term": "oscilloscope",
+    "aliases": [
+      "oscilloscopes"
+    ],
+    "short": "An instrument that displays an electrical waveform.",
+    "note": "An instrument that turns changes in an electrical signal into a visible trace on a screen, allowing its waveform to be examined.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/oscilloscope",
+        "label": "Merriam-Webster: oscilloscope"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "aspic",
+    "term": "aspic",
+    "aliases": [],
+    "short": "Savory jelly made from stock.",
+    "note": "A clear meat- or fish-stock jelly used to surround or mold cold dishes.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/aspic",
+        "label": "Merriam-Webster: aspic"
+      }
+    ],
+    "possible": false
+  },
+  {
+    "id": "hyperion",
+    "term": "Hyperion",
+    "aliases": [],
+    "short": "A Titan of Greek myth; also Keats’s unfinished epic.",
+    "note": "In Greek mythology, Hyperion is the father of the sun, moon, and dawn. Keats’s unfinished poem Hyperion, published in 1820, describes the fall of the Titans before a younger generation of gods.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/23684/pg23684-images.html",
+        "label": "John Keats: poems published in 1820"
+      }
+    ]
+  },
+  {
+    "id": "john-keats",
+    "term": "Keats",
+    "aliases": [
+      "John Keats",
+      "Keatsish",
+      "JOHN KEATS"
+    ],
+    "short": "English Romantic poet, 1795–1821.",
+    "note": "John Keats wrote the great odes of 1819, Lamia, Endymion, and the unfinished Hyperion poems. Trained in medicine, he turned to poetry and died of tuberculosis in Rome at twenty-five.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://keats-shelley.org/about/about-the-house/",
+        "label": "Keats–Shelley House"
+      }
+    ]
+  },
+  {
+    "id": "fanny-brawne",
+    "term": "Brawne",
+    "aliases": [
+      "Fanny"
+    ],
+    "short": "Possibly Fanny Brawne, Keats’s fiancée.",
+    "note": "Possibly Fanny Brawne (1800–1865), the woman to whom John Keats became engaged. His surviving letters to her are among the best-known love letters in English literature.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/36356/36356-h/36356-h.htm",
+        "label": "Sidney Colvin: John Keats"
+      }
+    ]
+  },
+  {
+    "id": "lamia",
+    "term": "Lamia",
+    "aliases": [],
+    "short": "A serpent-woman of myth and Keats’s poem.",
+    "note": "In Greek tradition, Lamia is a dangerous female being. Keats’s 1820 narrative poem gives the name to a serpent transformed into a beautiful woman who loves a young Corinthian.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/23684/pg23684-images.html",
+        "label": "John Keats: poems published in 1820"
+      }
+    ]
+  },
+  {
+    "id": "lycius",
+    "term": "Lycius",
+    "aliases": [],
+    "short": "The young Corinthian lover in Keats’s Lamia.",
+    "note": "The young Corinthian loved by the serpent-woman of Keats’s Lamia (1820). Apollonius, his philosophic teacher, represents a scrutiny fatal to their enchantment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/23684/pg23684-images.html",
+        "label": "John Keats: poems published in 1820"
+      }
+    ]
+  },
+  {
+    "id": "endymion",
+    "term": "Endymion",
+    "aliases": [],
+    "short": "A mythic sleeper beloved by the moon; Keats’s poem.",
+    "note": "In Greek myth, Endymion is the beautiful youth loved by the moon goddess Selene. Keats made him the hero of Endymion: A Poetic Romance, published in 1818.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/24280",
+        "label": "John Keats: Endymion"
+      }
+    ]
+  },
+  {
+    "id": "silenus",
+    "term": "Silenus",
+    "aliases": [],
+    "short": "Possibly the drunken companion and tutor of Dionysus.",
+    "note": "Possibly Silenus, the old, wine-loving companion and tutor of Dionysus in Greek mythology. He combines animal features and comic drunkenness with proverbial wisdom.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Georgikos/Seilenos.html",
+        "label": "Theoi: classical texts on Silenus"
+      }
+    ]
+  },
+  {
+    "id": "mnemosyne",
+    "term": "Mnemosyne",
+    "aliases": [],
+    "short": "The Greek goddess of memory and mother of the Muses.",
+    "note": "A Titan goddess who bore the nine Muses to Zeus. Her name is related to the Greek word for memory; Latin poets could identify her as Moneta.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Titan/TitanisMnemosyne.html",
+        "label": "Theoi: classical texts on Mnemosyne"
+      }
+    ]
+  },
+  {
+    "id": "moneta",
+    "term": "Moneta",
+    "aliases": [],
+    "short": "Memory personified in classical poetry and Keats.",
+    "note": "Latin Moneta can name Mnemosyne, the goddess of memory. Moneta is also the prophetic female figure in Keats’s The Fall of Hyperion: A Dream, a revision of his earlier Titan epic.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Titan/TitanisMnemosyne.html",
+        "label": "Theoi: Mnemosyne and Moneta"
+      },
+      {
+        "url": "https://www.gutenberg.org/files/36356/36356-h/36356-h.htm",
+        "label": "Sidney Colvin: John Keats and The Fall of Hyperion"
+      }
+    ]
+  },
+  {
+    "id": "chronos",
+    "term": "Chronos",
+    "aliases": [],
+    "short": "Possibly Chronos, the personification of time.",
+    "note": "Possibly the Greek personification of time, often imagined as an aged primordial power. Chronos is distinct in origin from Kronos or Cronus, the Titan father of Zeus, although their identities later became associated.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Protogenos/Khronos.html",
+        "label": "Theoi: classical texts on Chronos"
+      }
+    ]
+  },
+  {
+    "id": "cybele",
+    "term": "Cybele",
+    "aliases": [],
+    "short": "The ancient Mother Goddess associated with Phrygia.",
+    "note": "A goddess of wild nature, mountains, and fertility whose cult spread from Anatolia to Greece and Rome. Often called the Great Mother, she is commonly shown enthroned with lions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/246700",
+        "label": "Metropolitan Museum of Art: Cybele on a cart drawn by lions"
+      }
+    ]
+  },
+  {
+    "id": "charon",
+    "term": "Charon",
+    "aliases": [],
+    "short": "The ferryman of the dead in Greek mythology.",
+    "note": "Charon transports the dead across the waters separating the living world from the underworld. The customary coin associated with burial is explained as his fare.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Khthonios/Kharon.html",
+        "label": "Theoi: classical texts on Charon"
+      }
+    ]
+  },
+  {
+    "id": "lethe",
+    "term": "Lethe",
+    "aliases": [
+      "LETHE"
+    ],
+    "short": "The river of forgetfulness in the Greek underworld.",
+    "note": "The dead drink from Lethe to forget their former lives. Its name means forgetfulness or oblivion, and it is often used poetically for the erasure of memory.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Khthonios/PotamosLethe.html",
+        "label": "Theoi: Lethe"
+      }
+    ]
+  },
+  {
+    "id": "yggdrasill",
+    "term": "Yggdrasill",
+    "aliases": [
+      "Worldtree"
+    ],
+    "short": "The world-tree of Norse mythology.",
+    "note": "An immense ash tree connecting the worlds of Norse cosmology. Gods meet beneath its branches; its roots reach toward different cosmic regions and are threatened by destructive creatures.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/18947/18947-h/18947-h.htm",
+        "label": "The Younger Edda (Prose Edda)"
+      }
+    ]
+  },
+  {
+    "id": "john-muir",
+    "term": "Muir",
+    "aliases": [],
+    "short": "Possibly John Muir, naturalist and preservationist.",
+    "note": "Possibly John Muir (1838–1914), the Scottish-born American naturalist and writer who campaigned to protect wilderness, especially Yosemite, and helped establish the Sierra Club.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.nps.gov/yose/learn/historyculture/muir.htm",
+        "label": "National Park Service: John Muir"
+      }
+    ]
+  },
+  {
+    "id": "william-gladstone",
+    "term": "Gladstone",
+    "aliases": [],
+    "short": "Possibly William Ewart Gladstone, British prime minister.",
+    "note": "Possibly William Ewart Gladstone (1809–1898), the Liberal statesman who served four terms as British prime minister and became closely associated with parliamentary reform and Irish Home Rule.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/history/past-prime-ministers/william-ewart-gladstone",
+        "label": "UK Government: William Ewart Gladstone"
+      }
+    ]
+  },
+  {
+    "id": "shrike",
+    "term": "Shrike",
+    "aliases": [],
+    "short": "A predatory songbird that impales prey on thorns.",
+    "note": "Shrikes are hooked-billed songbirds that hunt insects and small vertebrates. They often fix prey on thorns or barbed wire, allowing them to tear it apart or save it for later.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.allaboutbirds.org/guide/Loggerhead_Shrike/overview",
+        "label": "Cornell Lab of Ornithology: Loggerhead Shrike"
+      }
+    ]
+  },
+  {
+    "id": "templars",
+    "term": "Templar",
+    "aliases": [
+      "Templars"
+    ],
+    "short": "Possibly the medieval Knights Templar.",
+    "note": "Possibly the Knights Templar, a Christian military order founded in the early twelfth century to protect pilgrims in the Holy Land. The order acquired substantial lands and wealth before its suppression in 1312.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.english-heritage.org.uk/visit/places/knights-templar-church-dover/history/",
+        "label": "English Heritage: history of the Knights Templar"
+      }
+    ]
+  },
+  {
+    "id": "hegirah",
+    "term": "Hegira",
+    "aliases": [],
+    "short": "The migration of Muhammad from Mecca to Medina.",
+    "note": "An older spelling of Hijra: Muhammad’s migration with his followers to Medina in 622 CE. The Islamic calendar counts its years from this event; the word also means a departure or exodus.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/toah/hd/isla/hd_isla.htm",
+        "label": "Metropolitan Museum of Art: the birth of Islam"
+      }
+    ]
+  },
+  {
+    "id": "hegemony",
+    "term": "Hegemony",
+    "aliases": [],
+    "short": "Political or cultural predominance over others.",
+    "note": "Leadership or dominant influence exercised by one state, group, or culture over others. The word comes through Greek hēgemonia, leadership.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hegemony",
+        "label": "Merriam-Webster: hegemony"
+      }
+    ]
+  },
+  {
+    "id": "zen",
+    "term": "Zen",
+    "aliases": [],
+    "short": "A Buddhist tradition emphasizing meditation and direct insight.",
+    "note": "The Japanese form of the Chinese word Chan, derived from Sanskrit dhyāna, meditation. Zen stresses disciplined practice and awakening beyond reliance on conceptual explanation alone.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/toah/hd/zen/hd_zen.htm",
+        "label": "Metropolitan Museum of Art: Zen Buddhism"
+      }
+    ]
+  },
+  {
+    "id": "gnosticism",
+    "term": "Gnosticism",
+    "aliases": [
+      "Gnostic",
+      "Gnostics"
+    ],
+    "short": "Religious traditions centered on saving spiritual knowledge.",
+    "note": "A modern collective name for ancient religious movements that emphasized liberating knowledge of divine origins. Many distinguished the highest spiritual reality from a flawed material world and its maker.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.earlychristianwritings.com/gnostics.html",
+        "label": "Early Christian Writings: Gnostic primary texts"
+      }
+    ]
+  },
+  {
+    "id": "teilhard-de-chardin",
+    "term": "Teilhard",
+    "aliases": [],
+    "short": "Pierre Teilhard de Chardin, Jesuit and paleontologist.",
+    "note": "The French Jesuit priest and paleontologist Pierre Teilhard de Chardin (1881–1955) developed a Christian account of evolution directed toward increasing consciousness and an ultimate unity he called the Omega Point.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://teilharddechardin.org/biography/",
+        "label": "American Teilhard Association: biography"
+      }
+    ]
+  },
+  {
+    "id": "agnus-dei",
+    "term": "agnusdeiquitolispecattamundi",
+    "aliases": [
+      "miserere",
+      "miserer nobis"
+    ],
+    "short": "Agnus Dei: “Lamb of God, who takes away the sins of the world.”",
+    "note": "Agnus Dei, qui tollis peccata mundi is the opening of a prayer in the Catholic Mass. The refrain miserere nobis asks for mercy; dona nobis pacem asks for peace.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.vatican.va/news_services/liturgy/2005/documents/ns_lit_doc_20050408_messa-esequiale-jp-ii_it.html",
+        "label": "Vatican: Latin Mass, Agnus Dei"
+      }
+    ]
+  },
+  {
+    "id": "ego-te-absolvo",
+    "term": "Ego te absolvo",
+    "aliases": [],
+    "short": "Latin: “I absolve you.”",
+    "note": "Words from the priest’s formula of absolution in the Catholic sacrament of penance. The full formula names the Father, Son, and Holy Spirit.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.vatican.va/archive/ENG0015/__P4E.HTM",
+        "label": "Vatican: sacramental absolution"
+      }
+    ]
+  },
+  {
+    "id": "extreme-unction",
+    "term": "Extreme Unction",
+    "aliases": [],
+    "short": "The former name for the anointing of the sick.",
+    "note": "A Catholic sacrament in which a priest anoints a seriously ill person with oil and prays for healing and spiritual strength. Extreme Unction emphasizes its former association with the approach of death.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.vatican.va/archive/ENG0015/__P4J.HTM",
+        "label": "Vatican: anointing of the sick"
+      }
+    ]
+  },
+  {
+    "id": "doukhobor",
+    "term": "Doukhobor",
+    "aliases": [],
+    "short": "A member of a Russian pacifist Christian movement.",
+    "note": "The Doukhobors, whose name means Spirit Wrestlers, reject war and emphasize the divine spirit within each person over external church authority. Many emigrated from the Russian Empire to Canada in 1899.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.doukhobor.org/",
+        "label": "Doukhobor Genealogy and History"
+      }
+    ]
+  },
+  {
+    "id": "shaker",
+    "term": "Shaker",
+    "aliases": [],
+    "short": "A member of the celibate communal religious movement.",
+    "note": "The Shakers, formally the United Society of Believers in Christ’s Second Appearing, practiced communal ownership, celibacy, equality of the sexes, and worship involving song and movement.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://home.nps.gov/articles/history-of-the-shakers.htm",
+        "label": "National Park Service: history of the Shakers"
+      }
+    ]
+  },
+  {
+    "id": "wandering-jew",
+    "term": "Wandering Jew",
+    "aliases": [],
+    "short": "A medieval Christian legend of endless exile.",
+    "note": "A figure in medieval Christian legend condemned to wander until Christ’s return after refusing him rest on the way to crucifixion. The legend contributed to later antisemitic representations of Jewish homelessness.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.jewishencyclopedia.com/articles/14773-wandering-jew",
+        "label": "Jewish Encyclopedia: Wandering Jew"
+      }
+    ]
+  },
+  {
+    "id": "abraham",
+    "term": "Abraham",
+    "aliases": [
+      "Isaac"
+    ],
+    "short": "The biblical patriarch tested by the command to sacrifice Isaac.",
+    "note": "Genesis 22 tells how God commands Abraham to offer his son Isaac, then stops him as he raises the knife. A ram is sacrificed instead; the episode is called the binding of Isaac or Akedah.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/genesis/22",
+        "label": "Genesis 22"
+      }
+    ]
+  },
+  {
+    "id": "methuselah",
+    "term": "Methuselah",
+    "aliases": [],
+    "short": "The exceptionally long-lived patriarch of Genesis.",
+    "note": "Genesis 5 gives Methuselah a lifespan of 969 years, the longest recorded in its genealogy. His name has consequently become proverbial for great age.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/genesis/5",
+        "label": "Genesis 5"
+      }
+    ]
+  },
+  {
+    "id": "gethsemane",
+    "term": "Gethsemane",
+    "aliases": [],
+    "short": "The garden where Jesus prayed before his arrest.",
+    "note": "In the Gospel accounts, Jesus prays in anguish at Gethsemane while his disciples fall asleep. Judas subsequently arrives with those sent to arrest him.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/matthew/26",
+        "label": "Matthew 26"
+      }
+    ]
+  },
+  {
+    "id": "talmud",
+    "term": "Talmud",
+    "aliases": [
+      "Talmudic"
+    ],
+    "short": "The central corpus of rabbinic legal discussion.",
+    "note": "A collection of Jewish legal and interpretive traditions comprising the Mishnah and its later discussion, the Gemara. The Babylonian and Jerusalem Talmuds preserve distinct bodies of that commentary.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.sefaria.org/texts/Talmud",
+        "label": "Sefaria: Talmud"
+      }
+    ]
+  },
+  {
+    "id": "kibbutz",
+    "term": "kibbutz",
+    "aliases": [],
+    "short": "A communal settlement, especially in Israel.",
+    "note": "A cooperative community traditionally organized around shared property, collective work, and agriculture. The Hebrew word derives from a root meaning to gather.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/kibbutz",
+        "label": "Merriam-Webster: kibbutz"
+      }
+    ]
+  },
+  {
+    "id": "yarmulke",
+    "term": "yarmulke",
+    "aliases": [],
+    "short": "A skullcap worn by Jewish men and some other Jews.",
+    "note": "The Yiddish name for a kippah, a small head covering worn as a sign of reverence, especially during prayer or religious study.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/yarmulke",
+        "label": "Merriam-Webster: yarmulke"
+      }
+    ]
+  },
+  {
+    "id": "mitzvah",
+    "term": "mitzvah",
+    "aliases": [],
+    "short": "A commandment; commonly, a worthy deed.",
+    "note": "Hebrew for commandment, especially one of the duties prescribed by Jewish religious law. In ordinary usage it can also mean a good or charitable deed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mitzvah",
+        "label": "Merriam-Webster: mitzvah"
+      }
+    ]
+  },
+  {
+    "id": "satori",
+    "term": "satori",
+    "aliases": [],
+    "short": "A sudden awakening or insight in Zen Buddhism.",
+    "note": "A Japanese term for spiritual awakening: direct realization rather than an understanding reached solely through reasoning or verbal explanation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/satori",
+        "label": "Merriam-Webster: satori"
+      }
+    ]
+  },
+  {
+    "id": "socrates",
+    "term": "Sokrates",
+    "aliases": [],
+    "short": "Socrates, the Athenian philosopher.",
+    "note": "Socrates (469–399 BCE) questioned received opinions through conversation and cross-examination. He left no writings; Plato’s dialogues are a principal source for his thought and his trial for impiety.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/socrates/",
+        "label": "Stanford Encyclopedia of Philosophy: Socrates"
+      }
+    ]
+  },
+  {
+    "id": "platos-cave",
+    "term": "Plato",
+    "aliases": [],
+    "short": "Greek philosopher; author of the allegory of the cave.",
+    "note": "In Book VII of the Republic, prisoners mistake shadows for reality until one escapes into sunlight. The allegory contrasts appearances and habitual belief with the difficult pursuit of understanding.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://classics.mit.edu/Plato/republic.8.vii.html",
+        "label": "Plato: Republic, Book VII"
+      }
+    ]
+  },
+  {
+    "id": "francis-bacon",
+    "term": "Francis Bacon",
+    "aliases": [
+      "Bacon"
+    ],
+    "short": "English philosopher of experimental inquiry, 1561–1626.",
+    "note": "Bacon’s Novum Organum examines obstacles to reliable knowledge. Its “idols of the marketplace” are errors fostered by words and ordinary habits of speech.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/45988",
+        "label": "Francis Bacon: Novum Organum"
+      }
+    ]
+  },
+  {
+    "id": "bertrand-russell",
+    "term": "Bertrand Russell",
+    "aliases": [],
+    "short": "British philosopher, logician, and essayist, 1872–1970.",
+    "note": "Russell helped establish modern analytic philosophy and mathematical logic. He also wrote widely on knowledge, politics, and ethics, and received the Nobel Prize in Literature in 1950.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/russell/",
+        "label": "Stanford Encyclopedia of Philosophy: Bertrand Russell"
+      }
+    ]
+  },
+  {
+    "id": "william-gass",
+    "term": "Gass",
+    "aliases": [],
+    "short": "William H. Gass, American novelist and philosopher.",
+    "note": "William H. Gass (1924–2017) combined fiction, essays, and philosophical reflection on language. His works include Omensetter’s Luck and In the Heart of the Heart of the Country.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://digitalexhibits.library.wustl.edu/s/gass",
+        "label": "Washington University Libraries: William H. Gass"
+      }
+    ]
+  },
+  {
+    "id": "kant",
+    "term": "Kant",
+    "aliases": [],
+    "short": "Immanuel Kant, German philosopher, 1724–1804.",
+    "note": "Kant examined the limits and conditions of human knowledge and grounded moral obligation in rational duty. His distinction between appearances and things in themselves is central to the Critique of Pure Reason.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/kant/",
+        "label": "Stanford Encyclopedia of Philosophy: Kant"
+      }
+    ]
+  },
+  {
+    "id": "ding-an-sich",
+    "term": "Ding an Sich",
+    "aliases": [],
+    "short": "German: “thing in itself.”",
+    "note": "Kant’s term for a thing considered independently of the forms through which human beings perceive and understand it. It contrasts with a phenomenon, a thing as it appears to us.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/kant/",
+        "label": "Stanford Encyclopedia of Philosophy: Kant"
+      }
+    ]
+  },
+  {
+    "id": "hume",
+    "term": "David Hume",
+    "aliases": [],
+    "short": "Scottish philosopher and historian, 1711–1776.",
+    "note": "Hume traced knowledge to experience and questioned rational proofs of necessary causation. His accounts of habit, belief, and the passions helped shape modern empiricism.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/hume/",
+        "label": "Stanford Encyclopedia of Philosophy: Hume"
+      }
+    ]
+  },
+  {
+    "id": "kierkegaard",
+    "term": "Kierkegaard",
+    "aliases": [],
+    "short": "Danish philosopher of faith and individual existence.",
+    "note": "Søren Kierkegaard (1813–1855) explored anxiety, inwardness, and the demands of Christian faith. Fear and Trembling considers Abraham’s willingness to sacrifice Isaac and the tension between faith and universal ethical duty.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/kierkegaard/",
+        "label": "Stanford Encyclopedia of Philosophy: Kierkegaard"
+      }
+    ]
+  },
+  {
+    "id": "bergson",
+    "term": "Bergson",
+    "aliases": [],
+    "short": "Possibly Henri Bergson, philosopher of lived time.",
+    "note": "Possibly Henri Bergson (1859–1941), the French philosopher who distinguished measurable clock time from duration: the continuous, qualitative flow of lived experience. His work also examines memory and creative evolution.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/bergson/",
+        "label": "Stanford Encyclopedia of Philosophy: Bergson"
+      }
+    ]
+  },
+  {
+    "id": "ovid",
+    "term": "Ovid",
+    "aliases": [],
+    "short": "Roman poet of love and mythic transformations.",
+    "note": "Publius Ovidius Naso (43 BCE–17/18 CE) wrote the Metamorphoses, an extended sequence of myths joined by changes of form. Exiled by Augustus, he also wrote poems of displacement and longing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://poets.org/poet/ovid",
+        "label": "Academy of American Poets: Ovid"
+      }
+    ]
+  },
+  {
+    "id": "robert-fitzgerald",
+    "term": "Fitzgerald",
+    "aliases": [],
+    "short": "Robert Fitzgerald, translator of Homer.",
+    "note": "Robert Fitzgerald (1910–1985) was an American poet and translator. His English Odyssey appeared in 1961, followed by translations of the Iliad and Virgil’s Aeneid.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://poets.org/poet/robert-fitzgerald",
+        "label": "Academy of American Poets: Robert Fitzgerald"
+      }
+    ]
+  },
+  {
+    "id": "robert-frost",
+    "term": "Frost",
+    "aliases": [],
+    "short": "Robert Frost, American poet, 1874–1963.",
+    "note": "Frost’s poems often use rural New England settings and conversational speech to explore choice, isolation, and uncertainty. His collections include North of Boston and New Hampshire.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://poets.org/poet/robert-frost",
+        "label": "Academy of American Poets: Robert Frost"
+      }
+    ]
+  },
+  {
+    "id": "wordsworth",
+    "term": "Wordsworth",
+    "aliases": [],
+    "short": "William Wordsworth, English Romantic poet.",
+    "note": "Wordsworth (1770–1850) made memory, natural landscapes, and ordinary experience central subjects of poetry. With Samuel Taylor Coleridge he published Lyrical Ballads in 1798.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poets/william-wordsworth",
+        "label": "Poetry Foundation: William Wordsworth"
+      }
+    ]
+  },
+  {
+    "id": "milton",
+    "term": "Milton",
+    "aliases": [],
+    "short": "John Milton, author of Paradise Lost.",
+    "note": "Milton (1608–1674) wrote the epic Paradise Lost in unrhymed iambic pentameter. Its subjects include the rebellion of Satan, human freedom, and the expulsion of Adam and Eve from Eden.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://poets.org/poet/john-milton",
+        "label": "Academy of American Poets: John Milton"
+      }
+    ]
+  },
+  {
+    "id": "byron",
+    "term": "Byron",
+    "aliases": [],
+    "short": "Lord Byron, English Romantic poet, 1788–1824.",
+    "note": "George Gordon Byron wrote Childe Harold’s Pilgrimage and the satirical verse narrative Don Juan. The Byronic hero is proud, alienated, passionate, and troubled by a concealed past.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poets/lord-byron",
+        "label": "Poetry Foundation: Lord Byron"
+      }
+    ]
+  },
+  {
+    "id": "yeats",
+    "term": "Yeats",
+    "aliases": [
+      "William Butler Yeats"
+    ],
+    "short": "William Butler Yeats, Irish poet, 1865–1939.",
+    "note": "Yeats drew on Irish legend, occult systems, and cyclical visions of history. He received the 1923 Nobel Prize in Literature; his poems include “The Second Coming” and “Sailing to Byzantium.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://poets.org/poet/w-b-yeats",
+        "label": "Academy of American Poets: W. B. Yeats"
+      }
+    ]
+  },
+  {
+    "id": "ezra-pound",
+    "term": "Pound",
+    "aliases": [
+      "Ezra Pound"
+    ],
+    "short": "Ezra Pound, American modernist poet, 1885–1972.",
+    "note": "Pound promoted Imagism and wrote the multilingual, allusive epic The Cantos. His poetry and criticism strongly influenced twentieth-century English verse; his fascist politics and antisemitism remain inseparable from his legacy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://poets.org/poet/ezra-pound",
+        "label": "Academy of American Poets: Ezra Pound"
+      }
+    ]
+  },
+  {
+    "id": "t-s-eliot",
+    "term": "Eliot",
+    "aliases": [],
+    "short": "T. S. Eliot, modernist poet and critic.",
+    "note": "Thomas Stearns Eliot (1888–1965) wrote The Waste Land and Four Quartets. His verse combines sharply observed modern life with fragments of earlier poetry, religion, and myth.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://poets.org/poet/t-s-eliot",
+        "label": "Academy of American Poets: T. S. Eliot"
+      }
+    ]
+  },
+  {
+    "id": "dylan-thomas",
+    "term": "Dylan Thomas",
+    "aliases": [],
+    "short": "Welsh poet, 1914–1953.",
+    "note": "Thomas is known for densely musical language and poems concerned with birth, death, time, and the body. His works include “Fern Hill,” “Do not go gentle into that good night,” and the radio play Under Milk Wood.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poets/dylan-thomas",
+        "label": "Poetry Foundation: Dylan Thomas"
+      }
+    ]
+  },
+  {
+    "id": "delmore-schwartz",
+    "term": "Delmore Schwartz",
+    "aliases": [],
+    "short": "American poet and fiction writer, 1913–1966.",
+    "note": "Schwartz first became prominent through In Dreams Begin Responsibilities, a 1938 collection of poetry and prose. His work often explores family, memory, and the divided life of the mind.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poets/delmore-schwartz",
+        "label": "Poetry Foundation: Delmore Schwartz"
+      }
+    ]
+  },
+  {
+    "id": "steve-tem",
+    "term": "Steve Tem",
+    "aliases": [],
+    "short": "Steve Rasnic Tem, American writer of dark fantasy.",
+    "note": "Steve Rasnic Tem writes fiction and poetry ranging across horror, fantasy, and science fiction. His work often turns ordinary places and relationships into sources of unease.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://stevetem.com/",
+        "label": "Steve Rasnic Tem: official biography"
+      }
+    ]
+  },
+  {
+    "id": "mark-twain",
+    "term": "Mark Twain",
+    "aliases": [],
+    "short": "Samuel Clemens, American humorist and novelist.",
+    "note": "Mark Twain (1835–1910) was the pen name of Samuel Langhorne Clemens. His childhood in Hannibal, Missouri, helped furnish the Mississippi River settings of Tom Sawyer and Huckleberry Finn.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://marktwainhouse.org/about/mark-twain/",
+        "label": "Mark Twain House: Mark Twain"
+      }
+    ]
+  },
+  {
+    "id": "sestina",
+    "term": "sestina",
+    "aliases": [],
+    "short": "A poem built around six recurring end words.",
+    "note": "A fixed verse form with six six-line stanzas followed by a three-line envoy. The same six end words recur in a prescribed rotating order.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://poets.org/glossary/sestina",
+        "label": "Academy of American Poets: sestina"
+      }
+    ]
+  },
+  {
+    "id": "beowulf",
+    "term": "Beowulf",
+    "aliases": [],
+    "short": "An Old English epic and its Geatish hero.",
+    "note": "Beowulf travels from the Geats to aid the Danish king Hrothgar, whose hall is attacked by Grendel. The surviving poem later recounts Beowulf’s fatal encounter with a dragon.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/16328",
+        "label": "Beowulf, translated by J. Lesslie Hall"
+      }
+    ]
+  },
+  {
+    "id": "grendel",
+    "term": "Grendel",
+    "aliases": [],
+    "short": "The hall-haunting monster in Beowulf.",
+    "note": "Grendel terrorizes King Hrothgar’s hall, Heorot, until Beowulf defeats him. The Old English poem places him among the descendants of the biblical Cain.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/16328",
+        "label": "Beowulf, translated by J. Lesslie Hall"
+      }
+    ]
+  },
+  {
+    "id": "hrothgar",
+    "term": "Hrothgar",
+    "aliases": [],
+    "short": "The Danish king whose hall is Heorot.",
+    "note": "In Beowulf, Hrothgar rules the Danes and builds the great hall Heorot. He receives the Geatish warrior who comes to free it from Grendel’s attacks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/16328",
+        "label": "Beowulf, translated by J. Lesslie Hall"
+      }
+    ]
+  },
+  {
+    "id": "geats",
+    "term": "Geats",
+    "aliases": [],
+    "short": "The Scandinavian people of the hero Beowulf.",
+    "note": "A Germanic people usually associated with southern Sweden. In the Old English epic, Beowulf is a Geat who crosses the sea to help the Danes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/16328",
+        "label": "Beowulf, translated by J. Lesslie Hall"
+      }
+    ]
+  },
+  {
+    "id": "gutenberg",
+    "term": "Gutenberg",
+    "aliases": [],
+    "short": "Johannes Gutenberg, pioneer of European printing.",
+    "note": "The Mainz printer developed a practical system of printing with movable metal type in the fifteenth century. His great Bible, completed around 1455, is a landmark of European book production.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.loc.gov/exhibits/bibles/the-gutenberg-bible.html",
+        "label": "Library of Congress: the Gutenberg Bible"
+      }
+    ]
+  },
+  {
+    "id": "pilgrims-progress",
+    "term": "Pilgrim’s Progress",
+    "aliases": [],
+    "short": "John Bunyan’s Christian allegory of a spiritual journey.",
+    "note": "First published in 1678, The Pilgrim’s Progress follows Christian from the City of Destruction toward the Celestial City. Places and figures such as the Slough of Despond and Vanity Fair personify spiritual dangers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/131",
+        "label": "John Bunyan: The Pilgrim’s Progress"
+      }
+    ]
+  },
+  {
+    "id": "mein-kampf",
+    "term": "Mein Kampf",
+    "aliases": [],
+    "short": "Hitler’s autobiographical and ideological manifesto.",
+    "note": "Published in two volumes in 1925 and 1926, Mein Kampf sets out Adolf Hitler’s antisemitic and racist worldview, political aims, and account of his early life. Its title means “My Struggle.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://encyclopedia.ushmm.org/content/en/article/mein-kampf",
+        "label": "United States Holocaust Memorial Museum: Mein Kampf"
+      }
+    ]
+  },
+  {
+    "id": "the-time-machine",
+    "term": "Eloi",
+    "aliases": [
+      "Morlock",
+      "Morlocks"
+    ],
+    "short": "The surface-dwellers in H. G. Wells’s The Time Machine.",
+    "note": "In Wells’s 1895 novel, future humanity has diverged into the apparently carefree Eloi and the subterranean Morlocks. Their relationship darkens the first impression of a peaceful future.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/35",
+        "label": "H. G. Wells: The Time Machine"
+      }
+    ]
+  },
+  {
+    "id": "reichenbach-falls",
+    "term": "Reichenbach",
+    "aliases": [],
+    "short": "Swiss waterfalls associated with Sherlock Holmes.",
+    "note": "Near Meiringen in Switzerland, the Reichenbach Falls form the setting of Holmes’s apparent final confrontation with Professor Moriarty in Arthur Conan Doyle’s “The Final Problem,” published in 1893.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/834",
+        "label": "Arthur Conan Doyle: The Memoirs of Sherlock Holmes"
+      }
+    ]
+  },
+  {
+    "id": "frankenstein",
+    "term": "Frankenstein",
+    "aliases": [],
+    "short": "Mary Shelley’s novel of a creator and his abandoned creature.",
+    "note": "First published in 1818, Frankenstein; or, The Modern Prometheus follows Victor Frankenstein’s creation of a living being and his failure to care for it. Frankenstein is the creator’s surname.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/84",
+        "label": "Mary Shelley: Frankenstein"
+      }
+    ]
+  },
+  {
+    "id": "anne-of-green-gables",
+    "term": "Anne of Green Gables",
+    "aliases": [],
+    "short": "L. M. Montgomery’s 1908 novel.",
+    "note": "An imaginative orphan, Anne Shirley, grows up with Marilla and Matthew Cuthbert on Prince Edward Island. The novel begins a series following her education, friendships, and adult life.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/45",
+        "label": "Lucy Maud Montgomery: Anne of Green Gables"
+      }
+    ]
+  },
+  {
+    "id": "winnie-the-pooh",
+    "term": "Winnie-the-Pooh",
+    "aliases": [],
+    "short": "A. A. Milne’s bear of the Hundred Acre Wood.",
+    "note": "The bear and his companions appear in Milne’s Winnie-the-Pooh (1926) and The House at Pooh Corner (1928), illustrated by E. H. Shepard. Christopher Robin’s toys supplied several of the characters.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nypl.org/about/locations/schwarzman/childrens-center-42nd-street/pooh",
+        "label": "New York Public Library: the real Winnie-the-Pooh"
+      }
+    ]
+  },
+  {
+    "id": "nineteen-eighty-four",
+    "term": "Big Brother",
+    "aliases": [
+      "Orwell"
+    ],
+    "short": "The emblematic ruler of George Orwell’s Nineteen Eighty-Four.",
+    "note": "Big Brother embodies the Party’s power and constant surveillance in Orwell’s 1949 novel. The name has become shorthand for intrusive state or institutional monitoring.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/books-by-orwell/nineteen-eighty-four/",
+        "label": "The Orwell Foundation: Nineteen Eighty-Four"
+      }
+    ]
+  },
+  {
+    "id": "gibson",
+    "term": "Gibsonian",
+    "aliases": [
+      "Gibson"
+    ],
+    "short": "Relating to William Gibson’s cyberpunk fiction.",
+    "note": "William Gibson’s novels, including Neuromancer (1984), helped establish cyberpunk’s combination of networked information, corporate power, and altered bodies. His early fiction popularized the word cyberspace.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.williamgibsonbooks.com/",
+        "label": "William Gibson: official site"
+      }
+    ]
+  },
+  {
+    "id": "agincourt",
+    "term": "Agincourt",
+    "aliases": [
+      "Henry V"
+    ],
+    "short": "Henry V’s victory in northern France, 1415.",
+    "note": "On 25 October 1415, Henry V’s army defeated a larger French force during the Hundred Years’ War. English longbowmen, confined terrain, and the difficulty of advancing through mud contributed to the result.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://royalarmouries.org/objects-and-stories/stories/the-hundred-years-war-1337-1453",
+        "label": "Royal Armouries: the Hundred Years’ War"
+      }
+    ]
+  },
+  {
+    "id": "somme",
+    "term": "Somme",
+    "aliases": [],
+    "short": "A vast First World War battle in 1916.",
+    "note": "British and French forces attacked German positions along the Somme from July to November 1916. The campaign became emblematic of industrial warfare, mass casualties, and small territorial gains.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nam.ac.uk/explore/battle-somme",
+        "label": "National Army Museum: Battle of the Somme"
+      }
+    ]
+  },
+  {
+    "id": "gettysburg",
+    "term": "Gettysburg",
+    "aliases": [],
+    "short": "A decisive American Civil War battle, July 1863.",
+    "note": "Union forces under George G. Meade defeated Robert E. Lee’s Confederate army at Gettysburg, Pennsylvania, on 1–3 July 1863. Lee’s invasion of the North ended with his withdrawal into Virginia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nps.gov/gett/learn/historyculture/gettysburg-overview.htm",
+        "label": "National Park Service: Gettysburg overview"
+      }
+    ]
+  },
+  {
+    "id": "borodino",
+    "term": "Borodino",
+    "aliases": [],
+    "short": "The bloody battle before Moscow, 1812.",
+    "note": "On 7 September 1812, Napoleon’s army fought Russian forces under Mikhail Kutuzov near Borodino. The Russians withdrew, leaving the route toward Moscow open, but Napoleon failed to destroy their army.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.napoleon.org/en/magazine/places/borodino-la-moskowa-2/",
+        "label": "Fondation Napoléon: Borodino"
+      }
+    ]
+  },
+  {
+    "id": "waterloo",
+    "term": "Waterloo",
+    "aliases": [],
+    "short": "Napoleon’s final defeat, 18 June 1815.",
+    "note": "Near Brussels, Wellington’s allied army and Blücher’s Prussians defeated Napoleon. The battle ended his restored rule during the Hundred Days.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nam.ac.uk/explore/battle-waterloo",
+        "label": "National Army Museum: Battle of Waterloo"
+      }
+    ]
+  },
+  {
+    "id": "la-haye-sainte",
+    "term": "La Haye Sainte",
+    "aliases": [],
+    "short": "A fortified farmhouse at Waterloo.",
+    "note": "The farm stood in front of Wellington’s center and was defended chiefly by troops of the King’s German Legion. Its eventual capture gave French forces a dangerous foothold close to the allied line.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nam.ac.uk/explore/battle-waterloo",
+        "label": "National Army Museum: Battle of Waterloo"
+      }
+    ]
+  },
+  {
+    "id": "hougoumont",
+    "term": "Hougoumont",
+    "aliases": [],
+    "short": "A defended estate on Wellington’s right at Waterloo.",
+    "note": "The château, farm buildings, and enclosed grounds formed a crucial allied strongpoint. Repeated French assaults drew large forces into a prolonged struggle around its walls and gates.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nam.ac.uk/explore/battle-waterloo",
+        "label": "National Army Museum: Battle of Waterloo"
+      }
+    ]
+  },
+  {
+    "id": "masada",
+    "term": "Masada",
+    "aliases": [],
+    "short": "The Judaean desert fortress besieged by Rome.",
+    "note": "Herod the Great built a palace complex on this steep plateau beside the Dead Sea. Jewish rebels later held it against Roman forces, whose camps and siege ramp remain visible.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/1040/",
+        "label": "UNESCO World Heritage Centre: Masada"
+      }
+    ]
+  },
+  {
+    "id": "clovis-point",
+    "term": "Clovis point",
+    "aliases": [],
+    "short": "A fluted stone spear point of ancient North America.",
+    "note": "A carefully shaped stone projectile point with grooves removed near the base to assist hafting. Named for finds near Clovis, New Mexico, these points are characteristic of a widespread late Ice Age technology.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://repository.si.edu/bitstream/handle/10088/22124/bae_bulletin_182_1962_25_1-447.pdf",
+        "label": "Smithsonian Bureau of American Ethnology: prehistoric fluted points"
+      }
+    ]
+  },
+  {
+    "id": "benares",
+    "term": "Benares",
+    "aliases": [
+      "Varanasi"
+    ],
+    "short": "An older English name for Varanasi.",
+    "note": "Varanasi, also called Benares or Kashi, is a city on the Ganges in northern India. A major Hindu pilgrimage center, it is especially associated with Shiva, ritual bathing, and cremation beside the river.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://varanasi.nic.in/tourism/",
+        "label": "District Varanasi: tourism"
+      }
+    ]
+  },
+  {
+    "id": "sarnath",
+    "term": "Sarnath",
+    "aliases": [],
+    "short": "The traditional site of the Buddha’s first sermon.",
+    "note": "Near Varanasi in northern India, Sarnath is where Buddhist tradition places the Buddha’s first teaching after enlightenment. Its surviving monuments include stupas and remains of monasteries.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://varanasi.nic.in/tourist-place/sarnath/",
+        "label": "District Varanasi: Sarnath"
+      }
+    ]
+  },
+  {
+    "id": "oort-cloud",
+    "term": "Oört cloud",
+    "aliases": [
+      "Oort Cloud"
+    ],
+    "short": "The distant reservoir of icy bodies around the Sun.",
+    "note": "A hypothesized, roughly spherical swarm far beyond the planets, regarded as the source of many long-period comets. It is named for Dutch astronomer Jan Oort.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/oort-cloud/facts/",
+        "label": "NASA: Oort Cloud facts"
+      }
+    ]
+  },
+  {
+    "id": "ceres",
+    "term": "Ceres",
+    "aliases": [],
+    "short": "The dwarf planet in the main asteroid belt.",
+    "note": "Ceres is the largest body between Mars and Jupiter and the only dwarf planet in the inner solar system. Discovered in 1801, it is rich in water ice and has bright salt deposits.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/dwarf-planets/ceres/facts/",
+        "label": "NASA: Ceres facts"
+      }
+    ]
+  },
+  {
+    "id": "tharsis",
+    "term": "Tharsis",
+    "aliases": [],
+    "short": "The great volcanic province of Mars.",
+    "note": "A vast elevated region containing the immense shield volcanoes Arsia, Pavonis, and Ascraeus Mons. Olympus Mons rises beyond its western margin.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/resource/tharsis-volcano/",
+        "label": "NASA: Tharsis volcanoes"
+      }
+    ]
+  },
+  {
+    "id": "olympus-mons",
+    "term": "Mons Olympus",
+    "aliases": [
+      "Olympus Mons"
+    ],
+    "short": "Olympus Mons, the enormous Martian shield volcano.",
+    "note": "The largest volcano in the solar system, built by successive flows of lava. Its broad flanks rise roughly twenty-two kilometers above the surrounding plains.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nasa.gov/missions/odyssey/nasa-mars-orbiter-captures-volcano-peeking-above-morning-cloud-tops/",
+        "label": "NASA: Olympus Mons and the Tharsis volcanoes"
+      }
+    ]
+  },
+  {
+    "id": "hellas",
+    "term": "Hellas",
+    "aliases": [],
+    "short": "A huge ancient impact basin on Mars.",
+    "note": "Hellas Planitia lies within an immense southern-hemisphere basin formed by an early impact. Its floor is among the lowest regions on Mars. Hellas is also the Greek name for Greece.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/photojournal/hellas-planitia/",
+        "label": "NASA: Hellas Planitia"
+      }
+    ]
+  },
+  {
+    "id": "coalsack",
+    "term": "Coal Sack",
+    "aliases": [],
+    "short": "A conspicuous dark nebula in the southern sky.",
+    "note": "The Coalsack is a cloud of dust that blocks the light of more distant stars. It appears as a dark patch against the Milky Way near the Southern Cross.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.eso.org/public/australia/news/eso1539/",
+        "label": "European Southern Observatory: the Coalsack"
+      }
+    ]
+  },
+  {
+    "id": "hercules-cluster",
+    "term": "Hercules Cluster",
+    "aliases": [],
+    "short": "Messier 13, a globular star cluster.",
+    "note": "A dense, roughly spherical grouping of hundreds of thousands of old stars in the constellation Hercules. It lies about 25,000 light-years from Earth.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-13/",
+        "label": "NASA Hubble: Messier 13"
+      }
+    ]
+  },
+  {
+    "id": "coriolis",
+    "term": "Coriolis",
+    "aliases": [],
+    "short": "The apparent deflection of motion in a rotating system.",
+    "note": "In a rotating frame, freely moving objects appear to veer from a straight path. On Earth this effect influences winds and ocean currents; it is named for Gaspard-Gustave de Coriolis.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents1.html",
+        "label": "NOAA: the Coriolis effect"
+      }
+    ]
+  },
+  {
+    "id": "oneill",
+    "term": "O’Neill",
+    "aliases": [],
+    "short": "Gerard K. O’Neill’s rotating space habitats.",
+    "note": "The Princeton physicist proposed large inhabited structures in space, including paired rotating cylinders. Their rotation would produce an apparent gravity along the inner inhabited surfaces.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ntrs.nasa.gov/api/citations/20070001009/downloads/20070001009.pdf",
+        "label": "NASA: the history of space-habitat concepts"
+      }
+    ]
+  },
+  {
+    "id": "hawking",
+    "term": "Hawking",
+    "aliases": [],
+    "short": "Possibly Stephen Hawking, physicist of black holes.",
+    "note": "Possibly Stephen Hawking (1942–2018), the theoretical physicist who showed that quantum effects should cause black holes to emit radiation. His work joined questions in gravitation, cosmology, and quantum theory.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://imagine.gsfc.nasa.gov/ask_astro/black_holes.html",
+        "label": "NASA: black holes and Hawking radiation"
+      }
+    ]
+  },
+  {
+    "id": "schwarzschild-radius",
+    "term": "Swarzschild radius",
+    "aliases": [
+      "Schwarzschild radius"
+    ],
+    "short": "The event-horizon radius of a nonrotating black hole.",
+    "note": "The Schwarzschild radius is 2GM/c², the radius of the event horizon for an uncharged, nonrotating black hole. It is named for Karl Schwarzschild, who found this solution to Einstein’s field equations in 1916.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://imagine.gsfc.nasa.gov/science/objects/black_holes1.html",
+        "label": "NASA: black holes"
+      }
+    ]
+  },
+  {
+    "id": "escher",
+    "term": "Escher",
+    "aliases": [
+      "Escher-space"
+    ],
+    "short": "M. C. Escher, Dutch artist of impossible spaces.",
+    "note": "Maurits Cornelis Escher (1898–1972) made prints featuring tessellations, interlocking forms, and structures that cannot exist in ordinary three-dimensional space. Stairs, reflections, and recursive images recur throughout his work.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mcescher.com/",
+        "label": "M. C. Escher: official site"
+      }
+    ]
+  },
+  {
+    "id": "magritte",
+    "term": "Magritte",
+    "aliases": [],
+    "short": "René Magritte, Belgian Surrealist painter.",
+    "note": "Magritte (1898–1967) placed familiar objects in disconcerting relationships and questioned the relation between images, words, and things. His carefully painted everyday surfaces often conceal visual paradoxes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/3692-rene-magritte",
+        "label": "Museum of Modern Art: René Magritte"
+      }
+    ]
+  },
+  {
+    "id": "de-kooning",
+    "term": "de Kooning",
+    "aliases": [],
+    "short": "Willem de Kooning, Abstract Expressionist painter.",
+    "note": "De Kooning (1904–1997) was a Dutch-born American artist whose paintings move between recognizable figures and abstraction. His energetic brushwork is central to the New York School.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.moma.org/artists/3213-willem-de-kooning",
+        "label": "Museum of Modern Art: Willem de Kooning"
+      }
+    ]
+  },
+  {
+    "id": "canterbury-tales",
+    "term": "He seyde",
+    "aliases": [],
+    "short": "The closing lines of Chaucer’s General Prologue.",
+    "note": "The General Prologue to The Canterbury Tales ends as the Knight accepts the first turn in a storytelling contest among pilgrims traveling to Canterbury. Chaucer wrote the sequence in Middle English in the late fourteenth century.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://chaucer.fas.harvard.edu/glosses-quiz-4-general-prologue-lines-i669-858",
+        "label": "Harvard’s Geoffrey Chaucer Website: General Prologue, lines 853–858"
+      }
+    ]
+  },
+  {
+    "id": "dying-earth",
+    "term": "Dying Earth",
+    "aliases": [],
+    "short": "Possibly Jack Vance’s far-future fantasy cycle.",
+    "note": "Possibly The Dying Earth, Jack Vance’s 1950 collection and the name of the larger sequence it began. The books imagine an immensely old Earth beneath a failing sun, where magic and ancient science coexist.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.jackvance.com/ebooks/shop/?q22_category_filter=dying",
+        "label": "Jack Vance: Dying Earth books"
+      }
+    ]
+  },
+  {
+    "id": "long-goodbye",
+    "term": "LONG GOOD-BYE",
+    "aliases": [],
+    "short": "Possibly Raymond Chandler’s detective novel.",
+    "note": "Possibly The Long Goodbye (1953), Raymond Chandler’s novel featuring private detective Philip Marlowe. Its investigation turns on friendship, loyalty, wealth, and betrayal.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.penguinrandomhouse.ca/books/26047/the-long-goodbye-by-raymond-chandler/9780394757681",
+        "label": "Penguin Random House: The Long Goodbye"
+      }
+    ]
+  },
+  {
+    "id": "poe",
+    "term": "Edgar Allan",
+    "aliases": [],
+    "short": "Possibly Edgar Allan Poe, poet and Gothic fiction writer.",
+    "note": "Possibly Edgar Allan Poe (1809–1849), the American writer of “The Raven,” “The Fall of the House of Usher,” and pioneering detective fiction. His work repeatedly returns to grief, obsession, and the uncanny.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://poets.org/poet/edgar-allan-poe",
+        "label": "Academy of American Poets: Edgar Allan Poe"
+      }
+    ]
+  },
+  {
+    "id": "nevermore",
+    "term": "Nevermore",
+    "aliases": [],
+    "short": "The raven’s recurring answer in Poe’s poem.",
+    "note": "In Edgar Allan Poe’s “The Raven” (1845), a bereaved speaker questions a mysterious bird whose repeated answer is “Nevermore.” The refrain turns ordinary questioning into an encounter with irretrievable loss.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://poets.org/poem/raven",
+        "label": "Edgar Allan Poe: The Raven"
+      }
+    ]
+  },
+  {
+    "id": "forbidden-planet",
+    "term": "Morbius",
+    "aliases": [
+      "Krell"
+    ],
+    "short": "Dr. Morbius in the 1956 film Forbidden Planet.",
+    "note": "Forbidden Planet places Dr. Morbius and his daughter amid the technology of the vanished Krell civilization. Its threatening force is connected with the unconscious mind, and the film reworks elements of Shakespeare’s The Tempest.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.bfi.org.uk/lists/10-great-sci-fi-adaptations",
+        "label": "British Film Institute: Forbidden Planet"
+      }
+    ]
+  },
+  {
+    "id": "haydon-dinner",
+    "term": "Haydon",
+    "aliases": [
+      "Lamb"
+    ],
+    "short": "Benjamin Robert Haydon, host of the “immortal dinner.”",
+    "note": "On 28 December 1817, the painter Haydon entertained Keats, Wordsworth, and Charles Lamb in his studio. Their joking attack on Newton’s reduction of the rainbow to optics became a celebrated episode in Romantic literary history.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://teaching.shu.ac.uk/ds/sle/Excerpts/Romantics/haydon.htm",
+        "label": "Benjamin Robert Haydon: account of the immortal dinner"
+      }
+    ]
+  },
+  {
+    "id": "chapmans-homer",
+    "term": "Chapman’s Homer",
+    "aliases": [],
+    "short": "George Chapman’s Homer, celebrated in Keats’s sonnet.",
+    "note": "Chapman’s vigorous early-seventeenth-century English translations prompted Keats’s “On First Looking into Chapman’s Homer” (1816). The sonnet compares the discovery of a new literary world with astronomical and geographical discovery.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://poets.org/poem/first-looking-chapmans-homer",
+        "label": "John Keats: On First Looking into Chapman’s Homer"
+      }
+    ]
+  },
+  {
+    "id": "joseph-severn",
+    "term": "Severn",
+    "aliases": [
+      "Joseph Severn"
+    ],
+    "short": "Joseph Severn, painter and Keats’s companion in Rome.",
+    "note": "Severn (1793–1879) accompanied Keats to Italy in 1820 and nursed him during his final illness. His letters and portraits are important records of the poet’s last months.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://keats-shelley.org/about/about-the-house/",
+        "label": "Keats–Shelley House: history of the house"
+      }
+    ]
+  },
+  {
+    "id": "rachmaninoff-prelude",
+    "term": "Prelude in C-sharp Minor",
+    "aliases": [],
+    "short": "Rachmaninoff’s piano Prelude, Op. 3, No. 2.",
+    "note": "Sergei Rachmaninoff composed this piano piece in 1892 as part of the Morceaux de fantaisie. It became one of his most familiar works, with solemn opening chords and an agitated central passage.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://data.carnegiehall.org/works/22436/about",
+        "label": "Carnegie Hall: Rachmaninoff’s Prelude in C-sharp Minor"
+      }
+    ]
+  },
+  {
+    "id": "ride-of-the-valkyries",
+    "term": "Flight of the Valkyries",
+    "aliases": [
+      "Wagner"
+    ],
+    "short": "Wagner’s famous music from Die Walküre.",
+    "note": "Usually titled “Ride of the Valkyries,” this passage opens Act III of Wagner’s Die Walküre. The warrior daughters of Wotan gather the dead heroes they will carry to Valhalla.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.laphil.com/works/die-walkuere-act-iii-ride-of-the-valkyries",
+        "label": "Los Angeles Philharmonic: Ride of the Valkyries"
+      }
+    ]
+  },
+  {
+    "id": "hava-nagila",
+    "term": "Hava Nagilla",
+    "aliases": [],
+    "short": "Hava Nagila, a Hebrew song of rejoicing.",
+    "note": "A widely sung celebration song whose title means “Let us rejoice.” Abraham Zvi Idelsohn adapted a Hasidic melody for it in Jerusalem in 1918.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://exhibition.nli.org.il/en/exhibition-items-en/hava-nagila",
+        "label": "National Library of Israel: the birth of Hava Nagila"
+      }
+    ]
+  },
+  {
+    "id": "threepenny-opera",
+    "term": "Three-penny opera",
+    "aliases": [],
+    "short": "Brecht and Weill’s musical satire, first staged in 1928.",
+    "note": "The Threepenny Opera, created by Bertolt Brecht and Kurt Weill with Elisabeth Hauptmann, adapts John Gay’s The Beggar’s Opera. Its underworld of thieves and businesspeople includes the criminal Macheath, or Mack the Knife.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.kwf.org/works/die-dreigroschenoper/",
+        "label": "Kurt Weill Foundation: The Threepenny Opera"
+      }
+    ]
+  },
+  {
+    "id": "lerner-loewe",
+    "term": "Lerner",
+    "aliases": [
+      "Loewe"
+    ],
+    "short": "Alan Jay Lerner and Frederick Loewe, musical-theatre partners.",
+    "note": "Lerner wrote lyrics and librettos, and Loewe composed the music. Their collaborations include Brigadoon, My Fair Lady, Gigi, and Camelot.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.songhall.org/profiles/alan-jay-lerner",
+        "label": "Songwriters Hall of Fame: Alan Jay Lerner"
+      }
+    ]
+  },
+  {
+    "id": "bosch",
+    "term": "Bosch-tinted",
+    "aliases": [
+      "Boschian"
+    ],
+    "short": "Evoking Hieronymus Bosch’s fantastic imagery.",
+    "note": "Bosch, a Netherlandish painter active around 1500, filled religious scenes with strange hybrid creatures and elaborate punishments. The hell panel of The Garden of Earthly Delights is among his best-known nightmare landscapes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.museodelprado.es/en/the-collection/art-work/triptych-garden-earthly-delights/02388242-6d6a-4e9e-a992-e1311eab3609",
+        "label": "Museo del Prado: The Garden of Earthly Delights"
+      }
+    ]
+  },
+  {
+    "id": "throne-of-st-peter",
+    "term": "Throne of St. Peter",
+    "aliases": [],
+    "short": "Bernini’s monumental bronze reliquary in St. Peter’s.",
+    "note": "Gian Lorenzo Bernini’s Cathedra Petri, completed in 1666, encloses an ancient wooden chair in a gilded bronze monument. Figures of four Doctors of the Church support it beneath a luminous image of the Holy Spirit.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.basilicasanpietro.va/en/san-pietro/the-cathedra-of-saint-peter",
+        "label": "Basilica of St. Peter: the Cathedra"
+      }
+    ]
+  },
+  {
+    "id": "barcaccia",
+    "term": "boat-shaped fountain",
+    "aliases": [],
+    "short": "The Barcaccia fountain in Rome’s Piazza di Spagna.",
+    "note": "Pietro Bernini made the low, boat-shaped Barcaccia fountain in 1626–1629, possibly with help from his son Gian Lorenzo. Its sunken form accommodates the low water pressure of the Acqua Vergine aqueduct.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://turismoroma.it/it/luoghi/fontana-della-barcaccia",
+        "label": "Turismo Roma: Fontana della Barcaccia"
+      }
+    ]
+  },
+  {
+    "id": "laocoon",
+    "term": "Laocoön",
+    "aliases": [],
+    "short": "The Trojan priest attacked by serpents.",
+    "note": "Laocoön warned the Trojans against accepting the wooden horse. A famous ancient sculpture in the Vatican Museums depicts him and his two sons struggling in the coils of sea serpents.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-pio-clementino/Cortile-Ottagono/laocoonte.html",
+        "label": "Vatican Museums: Laocoön"
+      }
+    ]
+  },
+  {
+    "id": "pieta",
+    "term": "Pietà",
+    "aliases": [],
+    "short": "An image of Mary holding the dead Christ.",
+    "note": "Italian for pity or compassion. In Christian art, a pietà depicts the Virgin grieving over Christ’s body after the Crucifixion; Michelangelo’s marble group in St. Peter’s is a famous example.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pieta",
+        "label": "Merriam-Webster: pietà"
+      }
+    ]
+  },
+  {
+    "id": "sequoia-sempervirens",
+    "term": "Sequoia Sempervirens",
+    "aliases": [],
+    "short": "The scientific name of the coast redwood.",
+    "note": "A long-lived conifer native to the Pacific coast of California and southern Oregon, and the tallest living tree species. Sempervirens is Latin for evergreen, literally “always flourishing.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nps.gov/articles/000/coast-redwood.htm",
+        "label": "National Park Service: coast redwood"
+      }
+    ]
+  },
+  {
+    "id": "arcology",
+    "term": "arcology",
+    "aliases": [
+      "arcologies"
+    ],
+    "short": "Architecture integrated with ecology.",
+    "note": "Paolo Soleri’s term for compact, densely inhabited settlements designed as integrated systems. The word joins architecture and ecology; Arcosanti in Arizona is an experimental realization of the concept.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://arcosanti.org/",
+        "label": "Cosanti Foundation: Arcosanti"
+      }
+    ]
+  },
+  {
+    "id": "sargasso",
+    "term": "Sargasso",
+    "aliases": [],
+    "short": "The North Atlantic sea bounded by ocean currents.",
+    "note": "The Sargasso Sea is named for its floating Sargassum seaweed. It lies within a circulating system of Atlantic currents and is defined by those currents rather than by surrounding land.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://oceanservice.noaa.gov/facts/sargassosea.html",
+        "label": "NOAA: the Sargasso Sea"
+      }
+    ]
+  },
+  {
+    "id": "steinway",
+    "term": "Steinway",
+    "aliases": [],
+    "short": "A piano made by Steinway & Sons.",
+    "note": "The piano company was founded in New York in 1853 by the German-born Henry Engelhard Steinway. Its grand pianos became especially associated with professional concert performance.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.steinway.com/about",
+        "label": "Steinway & Sons: company history"
+      }
+    ]
+  },
+  {
+    "id": "gymnosperm",
+    "term": "gymnosperms",
+    "aliases": [
+      "Gymnosperms"
+    ],
+    "short": "Seed plants whose seeds are not enclosed in fruits.",
+    "note": "The name means “naked seeds.” Gymnosperms include conifers, cycads, and ginkgo; their exposed ovules distinguish them from flowering plants, whose seeds develop inside an ovary.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.kew.org/read-and-watch/what-is-a-seed",
+        "label": "Royal Botanic Gardens, Kew: what is a seed?"
+      }
+    ]
+  },
+  {
+    "id": "stratocumulus",
+    "term": "stratocumulus",
+    "aliases": [],
+    "short": "Low cloud arranged in rounded banks or layers.",
+    "note": "A cloud type forming broad patches or sheets of lumpy, rounded cloud. On Earth it generally lies at low altitude and is usually gray or white.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/low-level-clouds",
+        "label": "Met Office: low-level clouds"
+      }
+    ]
+  },
+  {
+    "id": "susurration",
+    "term": "susurration",
+    "aliases": [],
+    "short": "A low rustling, murmuring, or whispering sound.",
+    "note": "A soft, continuous sound such as the movement of leaves or distant surf. The word comes from Latin susurrare, to whisper or hum.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/susurration",
+        "label": "Merriam-Webster: susurration"
+      }
+    ]
+  },
+  {
+    "id": "goonda",
+    "term": "goonda",
+    "aliases": [
+      "Goonda",
+      "goondas"
+    ],
+    "short": "A thug or hired criminal.",
+    "note": "An Indian English word, borrowed from Hindi, for a violent rogue, gangster, or hired enforcer.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/goonda",
+        "label": "Collins English Dictionary: goonda"
+      }
+    ]
+  },
+  {
+    "id": "bushido",
+    "term": "Bushido",
+    "aliases": [],
+    "short": "The “way of the warrior,” associated with samurai ethics.",
+    "note": "A Japanese term for ideals of conduct associated with the samurai, emphasizing martial discipline, honor, loyalty, and courage. Its formulations and political uses changed over time.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bushido",
+        "label": "Merriam-Webster: bushido"
+      }
+    ]
+  },
+  {
+    "id": "girandole",
+    "term": "Girandole",
+    "aliases": [],
+    "short": "A branching candlestick or a radiating firework.",
+    "note": "A girandole can be an ornate branched candleholder, often with hanging crystals, or a firework display that radiates like a wheel. The Italian root refers to something that turns or spins.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/girandole",
+        "label": "Merriam-Webster: girandole"
+      }
+    ]
+  },
+  {
+    "id": "duomo",
+    "term": "duomo",
+    "aliases": [],
+    "short": "An Italian cathedral or principal church.",
+    "note": "From Italian, ultimately related to Latin domus, house. The word names a cathedral or major church.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/duomo",
+        "label": "Merriam-Webster: duomo"
+      }
+    ]
+  },
+  {
+    "id": "parvati",
+    "term": "Parvati",
+    "aliases": [],
+    "short": "Possibly the Hindu goddess, consort of Shiva.",
+    "note": "Possibly Parvati, the Hindu goddess associated with Shiva and mother of Ganesha. She represents a maternal and often gracious manifestation of divine feminine power.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/39325",
+        "label": "Metropolitan Museum of Art: Standing Parvati"
+      }
+    ]
+  },
+  {
+    "id": "hebron",
+    "term": "Hebron",
+    "aliases": [],
+    "short": "Possibly the biblical city associated with Abraham.",
+    "note": "Possibly Hebron, an ancient city in the Judaean hills. Genesis places Sarah’s death there and relates Abraham’s purchase of the cave of Machpelah as a family burial place.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/genesis/23",
+        "label": "Genesis 23"
+      }
+    ]
+  },
+  {
+    "id": "maui",
+    "term": "Maui",
+    "aliases": [],
+    "short": "Possibly Māui, the hero of Polynesian traditions.",
+    "note": "Possibly Māui, a resourceful culture hero known across the Pacific. Traditions in several island cultures credit him with feats such as fishing up land and slowing the sun.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://collections.tepapa.govt.nz/topic/3196",
+        "label": "Museum of New Zealand Te Papa Tongarewa: the hook of Māui"
+      }
+    ]
+  },
+  {
+    "id": "bussard",
+    "term": "Bussard",
+    "aliases": [],
+    "short": "Possibly Robert W. Bussard and his interstellar ramjet.",
+    "note": "Possibly the physicist Robert W. Bussard, whose proposed interstellar ramjet would gather hydrogen from space for a fusion engine. The concept attempts to reduce the fuel a spacecraft must carry.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/0710.0295",
+        "label": "Semay and Silvestre-Brac: the interstellar Bussard ramjet"
+      }
+    ]
+  },
+  {
+    "id": "bach",
+    "term": "Bach",
+    "aliases": [],
+    "short": "Johann Sebastian Bach, German Baroque composer.",
+    "note": "Bach (1685–1750) wrote sacred choral music, instrumental sonatas, concertos, and major works for organ and keyboard. His music is especially renowned for its contrapuntal structure.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.bach-leipzig.de/en/neutral/johann-sebastian-bach-%E2%94%80-chronology",
+        "label": "Bach Archive Leipzig: Johann Sebastian Bach chronology"
+      }
+    ]
+  }
+]

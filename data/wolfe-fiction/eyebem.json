@@ -103,5 +103,35 @@
       }
     ],
     "evidence": "story/p-010: e would wander about the store one at a time looking at the trusses and contraceptives we had no use for, and pretending to drink a carbonated liquid until t"
+  },
+  {
+    "id": "kivalina",
+    "term": "Kivalina",
+    "aliases": [],
+    "short": "An Alaska Native community on the Chukchi Sea.",
+    "note": "A coastal Alaska Native community in the Northwest Arctic Borough, situated on a narrow barrier between the Chukchi Sea and the Kivalina River.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nwabor.org/village/kivalina/",
+        "label": "Northwest Arctic Borough · Kivalina"
+      }
+    ],
+    "evidence": "story/p-045: the sea otter\nrookeries north of the abandoned city of Kivalina, then followed the coast north toward Point Hope. We were still about two days’ trav"
+  },
+  {
+    "id": "point-hope",
+    "term": "Point Hope",
+    "aliases": [],
+    "short": "A coastal Iñupiat community in northwestern Alaska.",
+    "note": "A community near the end of a spit extending into the Chukchi Sea. The surrounding area includes the ancient settlements of Tigara and Ipiutak.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.north-slope.org/our-communities/point-hope/",
+        "label": "North Slope Borough · Point Hope"
+      }
+    ],
+    "evidence": "story/p-045: city of Kivalina, then followed the coast north toward Point Hope. We were still about two days’ travel south of it when the second storm came."
   }
 ]

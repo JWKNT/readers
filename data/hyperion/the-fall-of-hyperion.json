@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "ummon",
+    "term": "Ummon",
+    "aliases": [],
+    "short": "Possibly Yunmen Wenyan, a Chinese Chan Buddhist master.",
+    "note": "Possibly Yunmen Wenyan, c. 864–949, known in Japanese as Ummon. His compact, startling replies became celebrated koans, and the Yunmen school took its name from him.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.shambhala.com/zen-master-yunmen-15023.html",
+        "label": "Urs App / Shambhala: Zen Master Yunmen"
+      }
+    ]
+  },
+  {
+    "id": "kwatz",
+    "term": "Kwatz",
+    "aliases": [
+      "KWATZ"
+    ],
+    "short": "A sharp Zen shout, also written katsu.",
+    "note": "A rendering of the abrupt shout used in Zen teaching encounters, especially the Rinzai tradition. It interrupts ordinary verbal reasoning rather than functioning as a conventional translated sentence.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://sacred-texts.com/bud/mzb/mzb04.htm",
+        "label": "D. T. Suzuki: Manual of Zen Buddhism"
+      }
+    ]
+  },
+  {
+    "id": "sansho",
+    "term": "Sansho",
+    "aliases": [],
+    "short": "Sanshō Enen, a Chinese Chan teacher.",
+    "note": "The Japanese name of Sansheng Huiran, a disciple of Linji, known in Japanese as Rinzai. His questions, replies, and shouts appear in traditional Zen encounter dialogues.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.firstzen.org/FreeZenBooksOnLine/1970_Zen_Notes.pdf",
+        "label": "First Zen Institute: Zen Notes, 1970"
+      }
+    ]
+  },
+  {
+    "id": "koke",
+    "term": "Koke",
+    "aliases": [],
+    "short": "Kōke Zonshō, a Chinese Chan teacher.",
+    "note": "The Japanese name of Xinghua Cunjiang, a disciple and attendant of Linji, known in Japanese as Rinzai. He belongs to the early lineage from which the Rinzai tradition developed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.firstzen.org/FreeZenBooksOnLine/1970_Zen_Notes.pdf",
+        "label": "First Zen Institute: Zen Notes, 1970"
+      }
+    ]
+  },
+  {
+    "id": "daruma",
+    "term": "Daruma",
+    "aliases": [],
+    "short": "Japanese name for Bodhidharma, a founding figure of Zen.",
+    "note": "Bodhidharma is the semilegendary Buddhist monk traditionally credited with bringing the teachings that became Chan Buddhism from India to China. Daruma is the Japanese form of his name.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/929155",
+        "label": "Metropolitan Museum of Art: Bodhidharma"
+      }
+    ]
+  },
+  {
+    "id": "satori",
+    "term": "satori",
+    "aliases": [],
+    "short": "Awakening or enlightenment in Zen Buddhism.",
+    "note": "A Japanese term for awakening or insight into one’s true nature. Zen traditions differ in how they relate such insight to continuing meditation and everyday practice.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://sotozen.com/eng/library/leaflet/heartofzen/pdf/Heart_of_Zen.pdf",
+        "label": "Sōtō Zen: Heart of Zen"
+      }
+    ]
+  },
+  {
+    "id": "zazen",
+    "term": "zazen",
+    "aliases": [],
+    "short": "Seated meditation in Zen Buddhism.",
+    "note": "The Japanese term for sitting meditation. In Sōtō Zen, sustained practice and awakening are understood as inseparable rather than simply as a means and a later reward.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://sotozen.com/eng/library/leaflet/heartofzen/pdf/Heart_of_Zen.pdf",
+        "label": "Sōtō Zen: Heart of Zen"
+      }
+    ]
+  },
+  {
+    "id": "socinus",
+    "term": "Socinus",
+    "aliases": [
+      "Socinian",
+      "Socinian Heresy"
+    ],
+    "short": "Faustus Socinus, an Italian anti-Trinitarian theologian.",
+    "note": "Fausto Sozzini, 1539–1604, whose Latinized name is Faustus Socinus. Socinian theology rejected the traditional Trinity and Christ’s preexistence; it also held that freely chosen future actions need not already be determinate objects of divine knowledge.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.newadvent.org/cathen/14113a.htm",
+        "label": "Catholic Encyclopedia: Socinianism"
+      },
+      {
+        "url": "https://wesley.nnu.edu/other-theologians/henry-orton-wiley/h-orton-wiley-christian-theology-chapter-14/",
+        "label": "H. Orton Wiley: Christian Theology, divine knowledge"
+      }
+    ]
+  },
+  {
+    "id": "deuterium",
+    "term": "deuterium",
+    "aliases": [],
+    "short": "Hydrogen with one neutron in its nucleus.",
+    "note": "A stable isotope of hydrogen whose nucleus contains one proton and one neutron. It occurs naturally in water and is one of the fuels studied for fusion energy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.energy.gov/science/doe-explainsdeuterium-tritium-fusion-fuel",
+        "label": "U.S. Department of Energy: deuterium–tritium fuel"
+      }
+    ]
+  },
+  {
+    "id": "tritium",
+    "term": "tritium",
+    "aliases": [],
+    "short": "Radioactive hydrogen with two neutrons in its nucleus.",
+    "note": "An isotope of hydrogen with one proton and two neutrons. Fusion of tritium with deuterium produces a helium nucleus and an energetic neutron.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.energy.gov/science/doe-explainsdeuterium-tritium-fusion-fuel",
+        "label": "U.S. Department of Energy: deuterium–tritium fuel"
+      }
+    ]
+  },
+  {
+    "id": "neutrino",
+    "term": "neutrino",
+    "aliases": [
+      "neutrinos"
+    ],
+    "short": "A nearly massless, electrically neutral particle.",
+    "note": "An elementary particle with a very small mass and no electric charge, which interacts only rarely with other matter.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/neutrino",
+        "label": "Merriam-Webster: neutrino"
+      }
+    ]
+  },
+  {
+    "id": "anthropic-principle",
+    "term": "anthropic principle",
+    "aliases": [],
+    "short": "Cosmic observations are conditioned by observers’ existence.",
+    "note": "In its weak form, the principle notes that conditions we observe must permit observers to exist. Stronger forms make more controversial claims about life’s necessity.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/anthropic%20principle",
+        "label": "Merriam-Webster: anthropic principle"
+      }
+    ]
+  },
+  {
+    "id": "melange",
+    "term": "mélange",
+    "aliases": [],
+    "short": "A mixture of disparate things.",
+    "note": "A mixture or assortment, often combining incongruous elements; the word comes from French.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/melange",
+        "label": "Merriam-Webster: mélange"
+      }
+    ]
+  },
+  {
+    "id": "antimatter",
+    "term": "antimatter",
+    "aliases": [],
+    "short": "Matter made from the antiparticles of ordinary particles.",
+    "note": "Antiparticles have the same masses as their corresponding particles but opposite electric charges where charged. Matter and antimatter can annihilate on contact, releasing energy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://home.cern/science/physics/antimatter/",
+        "label": "CERN: antimatter"
+      }
+    ]
+  },
+  {
+    "id": "stonehenge",
+    "term": "Stonehenge",
+    "aliases": [],
+    "short": "A prehistoric stone-circle monument in southern England.",
+    "note": "A monument built in stages, with its great stone circle erected around 2500 BCE. Its standing stones form part of a much larger prehistoric landscape.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/history/",
+        "label": "English Heritage: history of Stonehenge"
+      }
+    ]
+  },
+  {
+    "id": "gulliver",
+    "term": "Gulliver",
+    "aliases": [],
+    "short": "The traveller in Jonathan Swift’s Gulliver’s Travels.",
+    "note": "In the giant land of Brobdingnag, Gulliver observes skin at an enlarged scale and finds apparently smooth beauty rough and uneven close up.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/829/pg829-images.html",
+        "label": "Project Gutenberg: Gulliver’s Travels, Part II"
+      }
+    ]
+  },
+  {
+    "id": "planck-time",
+    "term": "Planck time",
+    "aliases": [],
+    "short": "A natural time unit of about 5.39 × 10⁻⁴⁴ seconds.",
+    "note": "The natural unit of time formed from the reduced Planck constant, the gravitational constant, and the speed of light: √(ℏG/c⁵), approximately 5.39 × 10⁻⁴⁴ seconds.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://physics.nist.gov/cuu/Constants/codata.pdf",
+        "label": "NIST: CODATA recommended fundamental constants"
+      }
+    ]
+  },
+  {
+    "id": "strong-interaction",
+    "term": "strong interaction",
+    "aliases": [
+      "strong nuclear force",
+      "strong-interaction"
+    ],
+    "short": "The force binding quarks and holding atomic nuclei together.",
+    "note": "One of the fundamental interactions, mediated by gluons between quarks. Its residual effects bind protons and neutrons into nuclei and act over extremely short distances.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://home.web.cern.ch/science/physics/standard-model/",
+        "label": "CERN: the Standard Model"
+      }
+    ]
+  },
+  {
+    "id": "scimitar",
+    "term": "scimitar",
+    "aliases": [],
+    "short": "A curved sword with one cutting edge.",
+    "note": "A sword whose blade curves and has its cutting edge on the outer, convex side. The name is traditionally applied to several kinds of Middle Eastern and Asian swords.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ahdictionary.com/word/search.html?q=scimitar",
+        "label": "American Heritage Dictionary: scimitar"
+      }
+    ]
+  },
+  {
+    "id": "bandolier",
+    "term": "bandolier",
+    "aliases": [
+      "bandoliers"
+    ],
+    "short": "A shoulder belt for carrying ammunition.",
+    "note": "A belt worn diagonally across the chest, with loops or pouches for cartridges or other equipment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bandolier",
+        "label": "Merriam-Webster: bandolier"
+      }
+    ]
+  },
+  {
+    "id": "klaxons",
+    "term": "klaxons",
+    "aliases": [
+      "klaxon"
+    ],
+    "short": "Loud electric warning horns.",
+    "note": "Electrically operated horns or alarms. Klaxon was originally a trademark.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/klaxon",
+        "label": "Merriam-Webster: Klaxon"
+      }
+    ]
+  },
+  {
+    "id": "maser",
+    "term": "maser",
+    "aliases": [],
+    "short": "A device that amplifies microwaves by stimulated emission.",
+    "note": "An acronym for microwave amplification by stimulated emission of radiation. A maser produces or amplifies coherent microwave radiation; hydrogen masers also serve as highly stable frequency standards.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/time-frequency-z/time-and-frequency-z-h",
+        "label": "NIST: hydrogen maser"
+      }
+    ]
+  },
+  {
+    "id": "tau-ceti",
+    "term": "Tau Ceti",
+    "aliases": [],
+    "short": "A nearby Sun-like star targeted by early SETI searches.",
+    "note": "A star in the constellation Cetus, chosen along with Epsilon Eridani for Frank Drake’s Project Ozma radio search in 1960.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://greenbankobservatory.org/about/telescopes/85-1-howard-tatel/",
+        "label": "Green Bank Observatory: Project Ozma"
+      }
+    ]
+  },
+  {
+    "id": "epsilon-eridani",
+    "term": "Epsilon Eridani",
+    "aliases": [],
+    "short": "A nearby star targeted by Project Ozma.",
+    "note": "A star in the constellation Eridanus, observed with Tau Ceti in the pioneering 1960 radio search for extraterrestrial intelligence at Green Bank.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://greenbankobservatory.org/about/telescopes/85-1-howard-tatel/",
+        "label": "Green Bank Observatory: Project Ozma"
+      }
+    ]
+  },
+  {
+    "id": "plancks-constant",
+    "term": "Planck’s constant",
+    "aliases": [],
+    "short": "The constant linking a photon’s energy with its frequency.",
+    "note": "The constant h in the relation E = hν. Introduced by Max Planck in the study of thermal radiation, it sets the scale of quantum effects and has units of energy multiplied by time.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/archives/spr2026/entries/qm-copenhagen/",
+        "label": "Stanford Encyclopedia of Philosophy: origins of quantum theory"
+      }
+    ]
+  },
+  {
+    "id": "planck-length",
+    "term": "Planck length",
+    "aliases": [],
+    "short": "A natural length unit of about 1.62 × 10⁻³⁵ metre.",
+    "note": "The length √(ℏG/c³), formed from the reduced Planck constant, Newton’s gravitational constant, and light speed. It marks a scale associated with quantum gravity; it is not an experimentally established smallest possible distance.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://physics.nist.gov/cuu/Constants/codata.pdf",
+        "label": "NIST: Planck length"
+      }
+    ]
+  },
+  {
+    "id": "heisenberg",
+    "term": "Heisenberg",
+    "aliases": [],
+    "short": "Werner Heisenberg, a founder of quantum mechanics.",
+    "note": "German physicist, 1901–1976, who developed matrix mechanics and formulated the uncertainty principle. Certain pairs of quantities, such as position and momentum, cannot simultaneously have arbitrarily sharp values.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/prizes/physics/1932/heisenberg/facts/",
+        "label": "Nobel Prize: Werner Heisenberg"
+      }
+    ]
+  },
+  {
+    "id": "schrodinger",
+    "term": "Schrödinger",
+    "aliases": [],
+    "short": "Erwin Schrödinger, a founder of wave mechanics.",
+    "note": "Austrian physicist, 1887–1961, whose wave equation describes the evolution of quantum states. His famous cat thought experiment probes the problems of applying quantum superposition to everyday objects.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/prizes/physics/1933/schrodinger/facts/",
+        "label": "Nobel Prize: Erwin Schrödinger"
+      }
+    ]
+  },
+  {
+    "id": "feynman",
+    "term": "Feynman",
+    "aliases": [],
+    "short": "Richard Feynman, an American theoretical physicist.",
+    "note": "Physicist, 1918–1988, known for quantum electrodynamics, diagrams representing particle interactions, and the path-integral formulation of quantum mechanics. He shared the 1965 Nobel Prize in Physics.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/prizes/physics/1965/feynman/facts/",
+        "label": "Nobel Prize: Richard Feynman"
+      }
+    ]
+  },
+  {
+    "id": "turing",
+    "term": "Turing-Demmler",
+    "aliases": [],
+    "short": "Possibly Alan Turing and his test of machine intelligence.",
+    "note": "Possibly Alan Turing, 1912–1954, whose 1950 imitation game asks whether an interrogator can distinguish a machine’s written replies from a human’s. Turing also established foundational ideas in mathematical computation.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.turing.ac.uk/taxonomy/term/1242",
+        "label": "Alan Turing Institute: Turing test"
+      }
+    ]
+  },
+  {
+    "id": "oort-cloud",
+    "term": "Oört cloud",
+    "aliases": [
+      "Oört"
+    ],
+    "short": "A proposed distant reservoir of icy bodies around a star.",
+    "note": "The Solar System’s Oort Cloud is a hypothesized, roughly spherical swarm far beyond Neptune, thought to supply many long-period comets. It is named for Dutch astronomer Jan Oort.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/oort-cloud/facts/",
+        "label": "NASA: Oort Cloud facts"
+      }
+    ]
+  },
+  {
+    "id": "lagrange-point",
+    "term": "LaGrange Point",
+    "aliases": [],
+    "short": "A position of gravitational balance in a two-body system.",
+    "note": "One of five locations where an object can maintain its position relative to two larger orbiting bodies. L1 lies between the bodies; L3 lies beyond the larger body, opposite the smaller one.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/resources/faq/what-are-lagrange-points/",
+        "label": "NASA: Lagrange points"
+      }
+    ]
+  },
+  {
+    "id": "inertial-confinement-fusion",
+    "term": "inertial confinement fusion",
+    "aliases": [],
+    "short": "Fusion initiated by rapidly compressing a tiny fuel target.",
+    "note": "Rapid energy input, often from powerful laser pulses, compresses and heats a small target of fusion fuel, typically deuterium and tritium. The fuel’s own inertia briefly holds it together while fusion reactions occur.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://heds-center.llnl.gov/research/research-areas/inertial-confinement-fusion",
+        "label": "Lawrence Livermore National Laboratory: inertial confinement fusion"
+      }
+    ]
+  },
+  {
+    "id": "ontogeny-phylogeny",
+    "term": "Ontogeny recapitulating phylogeny",
+    "aliases": [],
+    "short": "The old claim that development repeats evolutionary history.",
+    "note": "Ontogeny is an individual organism’s development; phylogeny is a lineage’s evolutionary history. Ernst Haeckel promoted the idea that the former replays the latter, but modern biology rejects a literal repetition of ancestral adult stages.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://evolution.berkeley.edu/the-history-of-evolutionary-thought/1800s/early-evolution-and-development-ernst-haeckel/",
+        "label": "UC Berkeley: Ernst Haeckel and development"
+      }
+    ]
+  },
+  {
+    "id": "cottus",
+    "term": "Cottus",
+    "aliases": [],
+    "short": "One of the hundred-handed giants of Greek mythology.",
+    "note": "Also Kottos: one of three enormous sons of Earth and Sky, each with a hundred arms and fifty heads. In Hesiod, they help Zeus defeat the Titans by hurling rocks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Titan/Hekatonkheires.html",
+        "label": "Hesiod and Apollodorus, collected by Theoi"
+      }
+    ]
+  },
+  {
+    "id": "briareus",
+    "term": "Briareus",
+    "aliases": [],
+    "short": "A hundred-handed giant, also called Aegaeon.",
+    "note": "One of the three hundred-handed brothers born to Earth and Sky. Hesiod describes them assisting Zeus against the Titans; the Iliad says the gods call him Briareus and mortals Aegaeon.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Titan/HekatonkheirBriareos.html",
+        "label": "Homer and Hesiod, collected by Theoi"
+      }
+    ]
+  },
+  {
+    "id": "iapetus",
+    "term": "Iäpetus",
+    "aliases": [],
+    "short": "Iapetus, the Titan father of Prometheus and Atlas.",
+    "note": "A son of Earth and Sky in Greek mythology. Hesiod names his children by Clymene as Atlas, Menoetius, Prometheus, and Epimetheus.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Titan/TitanIapetos.html",
+        "label": "Hesiod: Theogony, collected by Theoi"
+      }
+    ]
+  },
+  {
+    "id": "oceanus",
+    "term": "Oceanus",
+    "aliases": [],
+    "short": "The Titan associated with the river encircling the world.",
+    "note": "In ancient Greek cosmology, Oceanus is both a divine figure and the great river surrounding the inhabited earth. With Tethys, he fathers the river gods and the Oceanid nymphs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Titan/TitanOkeanos.html",
+        "label": "Ancient sources on Oceanus, collected by Theoi"
+      }
+    ]
+  },
+  {
+    "id": "mimus",
+    "term": "Mimus",
+    "aliases": [],
+    "short": "Possibly Mimas, a giant who fought the Olympian gods.",
+    "note": "Possibly Mimas, one of the earth-born Giants in Greek mythology. Ancient accounts give different versions of his defeat, including death at the hands of Hephaestus.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Gigante/Gigantes.html",
+        "label": "Apollodorus: the Giants, collected by Theoi"
+      }
+    ]
+  },
+  {
+    "id": "porphyrion",
+    "term": "Porphyrion",
+    "aliases": [],
+    "short": "A giant who fought Zeus and the Olympian gods.",
+    "note": "An earth-born Giant in Greek mythology. In Apollodorus, Zeus and Heracles kill him after he attacks Hera during the battle between the Giants and the gods.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Gigante/Gigantes.html",
+        "label": "Apollodorus: the Giants, collected by Theoi"
+      }
+    ]
+  },
+  {
+    "id": "enceladus",
+    "term": "Enceladus",
+    "aliases": [],
+    "short": "A giant buried beneath a volcanic mountain.",
+    "note": "One of the Giants who fought the Olympian gods. Ancient traditions place him beneath Sicily or Mount Etna, explaining volcanic fire and earth tremors through his imprisonment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Gigante/GiganteEnkelados.html",
+        "label": "Ancient sources on Enceladus, collected by Theoi"
+      }
+    ]
+  },
+  {
+    "id": "rhoetus",
+    "term": "Rhoetus",
+    "aliases": [],
+    "short": "A giant who fought the gods in classical mythology.",
+    "note": "Named among the Giants in Latin poetry, including Horace’s account of their assault upon the gods. His name also appears in Keats’s unfinished Hyperion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.thelatinlibrary.com/horace/carm3.shtml",
+        "label": "Horace: Odes, book III"
+      }
+    ]
+  },
+  {
+    "id": "phoebe",
+    "term": "Phoebe",
+    "aliases": [],
+    "short": "A Titan associated with the oracle at Delphi.",
+    "note": "Daughter of Earth and Sky and mother of Leto and Asteria by Coeus. In Aeschylus, she receives the Delphic oracle from Themis and passes it to Apollo.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Titan/Titanides.html",
+        "label": "Ancient sources on the Titanesses, collected by Theoi"
+      }
+    ]
+  },
+  {
+    "id": "theia",
+    "term": "Theia",
+    "aliases": [],
+    "short": "Titan mother of the Sun, Moon, and Dawn.",
+    "note": "In Hesiod, Theia bears Helios, Selene, and Eos to Hyperion. She belongs to the first generation of Titans, children of Earth and Sky.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Titan/TitanisTheia.html",
+        "label": "Hesiod: Theogony, collected by Theoi"
+      }
+    ]
+  },
+  {
+    "id": "clymene",
+    "term": "Clymene",
+    "aliases": [],
+    "short": "An Oceanid and mother of Prometheus and Atlas.",
+    "note": "In Hesiod’s Theogony, Clymene is a daughter of Oceanus who marries Iapetus and bears Atlas, Menoetius, Prometheus, and Epimetheus. Ancient literature also gives the name to other figures.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Titan/TitanisKlymene.html",
+        "label": "Hesiod: Theogony, collected by Theoi"
+      }
+    ]
+  },
+  {
+    "id": "tethys",
+    "term": "Tethys",
+    "aliases": [],
+    "short": "A Titan and mother of rivers and water nymphs.",
+    "note": "In Greek mythology, Tethys is the sister and wife of Oceanus. Their children include the river gods and Oceanids, connecting her with the waters that nourish the earth.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Titan/Titanides.html",
+        "label": "Ancient sources on the Titanesses, collected by Theoi"
+      }
+    ]
+  },
+  {
+    "id": "thalia",
+    "term": "Thalia",
+    "aliases": [],
+    "short": "Possibly Thalia, the Muse of comedy.",
+    "note": "Possibly Thalia, one of the nine Muses in Greek mythology, associated with comedy and pastoral poetry. Her familiar emblems include a comic mask and a shepherd’s staff.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Ouranios/MousaThaleia.html",
+        "label": "Ancient sources on Thalia, collected by Theoi"
+      }
+    ]
+  },
+  {
+    "id": "acteon",
+    "term": "Acteon",
+    "aliases": [],
+    "short": "Possibly Actaeon, the hunter transformed into a stag.",
+    "note": "Possibly Actaeon of Greek mythology, punished after seeing Artemis bathing. Changed into a stag, he is torn apart by his own hunting dogs.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Olympios/Artemis.html",
+        "label": "Ancient sources on Artemis and Actaeon, collected by Theoi"
+      }
+    ]
+  },
+  {
+    "id": "ixion",
+    "term": "Ixion",
+    "aliases": [],
+    "short": "Possibly Ixion, condemned to an eternally revolving wheel.",
+    "note": "Possibly the Greek mythological king who violated the hospitality of Zeus by pursuing Hera. His punishment was to be bound to a revolving wheel.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Gallery/K4.12.html",
+        "label": "Theoi: ancient vase painting of Ixion"
+      }
+    ]
+  },
+  {
+    "id": "parvati",
+    "term": "Parvati",
+    "aliases": [],
+    "short": "Possibly Parvati, the Hindu goddess and consort of Shiva.",
+    "note": "Possibly the Hindu goddess Parvati, consort of Shiva and mother of Ganesha. She appears in many traditions as a powerful maternal figure and an embodiment of divine feminine energy.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/39325",
+        "label": "Metropolitan Museum of Art: Standing Parvati"
+      }
+    ]
+  },
+  {
+    "id": "houyhnhnms",
+    "term": "Houyhnhnms",
+    "aliases": [],
+    "short": "The rational horses of Gulliver’s Travels.",
+    "note": "The intelligent horse society encountered in the final voyage of Jonathan Swift’s 1726 satire. Their orderly life is set against the behavior of the brutish, humanlike Yahoos.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/829/829-h/829-h.htm",
+        "label": "Jonathan Swift: Gulliver’s Travels"
+      }
+    ]
+  },
+  {
+    "id": "brobdingnagian",
+    "term": "Brobdingnagian",
+    "aliases": [],
+    "short": "Gigantic; from the giants’ land in Gulliver’s Travels.",
+    "note": "Brobdingnag is the country of giants in the second voyage of Jonathan Swift’s satire. The adjective means enormous or suggestive of that world’s overwhelming scale.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/829/829-h/829-h.htm",
+        "label": "Jonathan Swift: Gulliver’s Travels"
+      }
+    ]
+  },
+  {
+    "id": "hamlet",
+    "term": "Hamlet",
+    "aliases": [],
+    "short": "Shakespeare’s tragedy of a prince commanded by a ghost.",
+    "note": "The ghost of the former king tells Prince Hamlet that he was murdered and demands revenge. Hamlet struggles to determine the ghost’s trustworthiness and how to act on its accusation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/",
+        "label": "Folger Shakespeare Library: Hamlet"
+      }
+    ]
+  },
+  {
+    "id": "marley",
+    "term": "Marley",
+    "aliases": [],
+    "short": "Jacob Marley, the chained ghost in A Christmas Carol.",
+    "note": "Ebenezer Scrooge’s dead business partner in Charles Dickens’s 1843 novella. His ghost appears burdened with chains and warns Scrooge about the consequences of a selfish life.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dickensmuseum.com/en-de/blogs/explore/a-christmas-carol-synopsis",
+        "label": "Charles Dickens Museum: A Christmas Carol"
+      }
+    ]
+  },
+  {
+    "id": "dante",
+    "term": "Dante",
+    "aliases": [
+      "Dante-esque",
+      "Dante-like"
+    ],
+    "short": "Dante Alighieri, author of the Divine Comedy.",
+    "note": "Italian poet, c. 1265–1321, whose Divine Comedy narrates a journey through Hell, Purgatory, and Paradise. The Roman poet Virgil and the idealized Beatrice serve as successive guides.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/8800/8800-h/8800-h.htm",
+        "label": "Dante: Divine Comedy"
+      }
+    ]
+  },
+  {
+    "id": "beatrice",
+    "term": "Beatrice",
+    "aliases": [],
+    "short": "Dante’s beloved and heavenly guide in the Divine Comedy.",
+    "note": "A central figure in Dante’s poetry, associated with Beatrice Portinari. In the Divine Comedy, she sends Virgil to help Dante and later guides him through Paradise.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/8800/8800-h/8800-h.htm",
+        "label": "Dante: Divine Comedy"
+      }
+    ]
+  },
+  {
+    "id": "virgil",
+    "term": "Virgil",
+    "aliases": [
+      "Virgil-less"
+    ],
+    "short": "Roman poet and Dante’s guide through Hell and Purgatory.",
+    "note": "Publius Vergilius Maro, 70–19 BCE, author of the Aeneid. In the Divine Comedy, his poetic authority and reason guide Dante until Beatrice takes over the journey.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/8800/8800-h/8800-h.htm",
+        "label": "Dante: Divine Comedy"
+      }
+    ]
+  },
+  {
+    "id": "lasciate-ogne-speranza",
+    "term": "LASCIATE OGNE SPERANZA",
+    "aliases": [],
+    "short": "Abandon all hope: the inscription at Dante’s gate of Hell.",
+    "note": "Italian from Inferno, canto III. The inscription commands those entering Hell to give up hope, announcing that its punishments admit no escape.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/8800/8800-h/8800-h.htm",
+        "label": "Dante: Inferno, canto III"
+      }
+    ]
+  },
+  {
+    "id": "yeats",
+    "term": "Yeats",
+    "aliases": [],
+    "short": "William Butler Yeats, Irish poet, 1865–1939.",
+    "note": "A major poet of the Irish literary revival and the 1923 Nobel laureate in literature. His poems combine Irish tradition, personal history, symbolic systems, and visions of historical upheaval.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/articles/70241/william-butler-yeats-101",
+        "label": "Poetry Foundation: William Butler Yeats"
+      }
+    ]
+  },
+  {
+    "id": "spiritus-mundi",
+    "term": "Spiritus Mundi",
+    "aliases": [],
+    "short": "World spirit; Yeats’s reservoir of symbolic images.",
+    "note": "Latin for spirit of the world. In Yeats’s The Second Coming, a collective store of images supplies the vision of a monstrous figure approaching Bethlehem.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poems/43290/the-second-coming",
+        "label": "W. B. Yeats: The Second Coming"
+      }
+    ]
+  },
+  {
+    "id": "the-second-coming",
+    "term": "The Second Coming",
+    "aliases": [],
+    "short": "Yeats’s poem envisioning the collapse of an era.",
+    "note": "A poem by W. B. Yeats, written in 1919, whose spiraling falcon, failing center, and approaching rough beast turn Christian expectations of renewal into an unsettling vision of historical change.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poems/43290/the-second-coming",
+        "label": "W. B. Yeats: The Second Coming"
+      }
+    ]
+  },
+  {
+    "id": "a-prayer-for-my-daughter",
+    "term": "A Prayer for My Daughter",
+    "aliases": [],
+    "short": "Yeats’s poem for his newborn daughter.",
+    "note": "Written in 1919, the poem imagines the qualities that might shelter a child from a violent, unstable world. Its wishes for courtesy, rootedness, and inward freedom unfold against a storm.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poetrymagazine/poems/14635/a-prayer-for-my-daughter",
+        "label": "W. B. Yeats: A Prayer for My Daughter"
+      }
+    ]
+  },
+  {
+    "id": "southey",
+    "term": "Southey",
+    "aliases": [],
+    "short": "Robert Southey, English poet and author of The Cataract of Lodore.",
+    "note": "Poet, 1774–1843, associated with England’s Lake District. His exuberant poem about Lodore Falls uses accumulating rhymes and flowing rhythms to imitate falling water.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poets/robert-southey",
+        "label": "Poetry Foundation: Robert Southey"
+      }
+    ]
+  },
+  {
+    "id": "lodore",
+    "term": "Lodore",
+    "aliases": [],
+    "short": "Waterfalls in the English Lake District celebrated by Southey.",
+    "note": "Lodore Falls lie near Derwentwater in Cumbria. Robert Southey’s The Cataract of Lodore describes their movement through an extended cascade of rhyming verbs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poems/57951/the-cataract-of-lodore",
+        "label": "Robert Southey: The Cataract of Lodore"
+      }
+    ]
+  },
+  {
+    "id": "robinson-jeffers",
+    "term": "Robinson Jeffers",
+    "aliases": [],
+    "short": "American poet associated with the California coast.",
+    "note": "Poet, 1887–1962, whose work often sets human ambition against the scale and violence of the natural world. He lived in Carmel and built Tor House and its adjoining tower.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poets/robinson-jeffers",
+        "label": "Poetry Foundation: Robinson Jeffers"
+      }
+    ]
+  },
+  {
+    "id": "hieronymus-bosch",
+    "term": "Hieronymus Bosch",
+    "aliases": [
+      "Bosch"
+    ],
+    "short": "Netherlandish painter of visionary religious scenes.",
+    "note": "Painter, c. 1450–1516, known for densely imagined moral and religious scenes filled with hybrids, monsters, temptation, and punishment. His works include The Garden of Earthly Delights.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nga.gov/artists/986-hieronymus-bosch",
+        "label": "National Gallery of Art: Hieronymus Bosch"
+      }
+    ]
+  },
+  {
+    "id": "van-gogh",
+    "term": "van Gogh",
+    "aliases": [
+      "van Goghs"
+    ],
+    "short": "Vincent van Gogh, Dutch painter, 1853–1890.",
+    "note": "A painter whose intense color and active brushwork became central to Post-Impressionism. He moved to Arles in 1888, where he painted many of his best-known landscapes and interiors.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nga.gov/artists/1349-vincent-van-gogh",
+        "label": "National Gallery of Art: Vincent van Gogh"
+      }
+    ]
+  },
+  {
+    "id": "escher",
+    "term": "Escher",
+    "aliases": [
+      "Escher-ish"
+    ],
+    "short": "M. C. Escher, artist of impossible spaces and repeating forms.",
+    "note": "Dutch graphic artist, 1898–1972, whose prints explore optical paradoxes, tessellation, and conflicting perspectives. His apparently coherent buildings can contain stairs and structures that cannot exist in ordinary space.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://escherinhetpaleis.nl/assets/files/de-oneindige-wereld-van-escher-vo-lesmateriaal-en-2023-2024.pdf",
+        "label": "Escher in Het Paleis: educational guide"
+      }
+    ]
+  },
+  {
+    "id": "piazza-di-spagna",
+    "term": "Piazza di Spagna",
+    "aliases": [],
+    "short": "Rome’s Spanish Square, beside the Spanish Steps.",
+    "note": "The Roman square at the foot of the Spanish Steps. John Keats spent his final months in rooms at number 26, now the Keats–Shelley House.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://keats-shelley.org/visit/",
+        "label": "Keats–Shelley House: location and history"
+      }
+    ]
+  },
+  {
+    "id": "trinita-dei-monti",
+    "term": "Trinità dei Monti",
+    "aliases": [],
+    "short": "The twin-towered church above Rome’s Spanish Steps.",
+    "note": "The church of the Holy Trinity of the Mountains stands at the top of the Spanish Steps. Its French foundation dates from the end of the fifteenth century.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://visite.decouvrir-dieu.com/trinitadeimonti/en/etapes/introduction/",
+        "label": "Trinità dei Monti: official visitor guide"
+      }
+    ]
+  },
+  {
+    "id": "aurelian-wall",
+    "term": "Aurelian Wall",
+    "aliases": [
+      "Aurelian Walls"
+    ],
+    "short": "The late Roman defensive wall surrounding Rome.",
+    "note": "The circuit of city walls begun under Emperor Aurelian in the third century CE. Existing structures, including the Pyramid of Cestius, were incorporated into the defenses.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.turismoroma.it/en/places/aurelian-walls",
+        "label": "Roma Capitale: Aurelian Walls"
+      }
+    ]
+  },
+  {
+    "id": "cestius",
+    "term": "Caius Cestius",
+    "aliases": [],
+    "short": "The Roman whose pyramid-shaped tomb still stands in Rome.",
+    "note": "Gaius Cestius was a Roman official buried in an Egyptian-style pyramid during the first century BCE. The monument was later incorporated into the Aurelian Walls and stands beside the Non-Catholic Cemetery.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://turismoroma.it/it/node/1070",
+        "label": "Roma Capitale: Pyramid of Cestius"
+      }
+    ]
+  },
+  {
+    "id": "protestant-cemetery",
+    "term": "Protestant Cemetery",
+    "aliases": [],
+    "short": "Rome’s Non-Catholic Cemetery, where Keats is buried.",
+    "note": "A burial ground beside the Pyramid of Cestius, traditionally used for non-Catholic foreigners. Its graves include those of John Keats, Percy Bysshe Shelley, and Joseph Severn.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.turismoroma.it/en/node/1526",
+        "label": "Roma Capitale: Non-Catholic Cemetery"
+      }
+    ]
+  },
+  {
+    "id": "james-clark",
+    "term": "Dr. Clark",
+    "aliases": [],
+    "short": "James Clark, the physician who treated Keats in Rome.",
+    "note": "Scottish physician, 1788–1870, who cared for John Keats during his final illness in Rome. His treatment followed contemporary practice, including bleeding and a restricted diet.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://johnkeats.uvic.ca/documentation/keats.html",
+        "label": "University of Victoria: Mapping Keats’s Progress"
+      }
+    ]
+  },
+  {
+    "id": "john-clarke",
+    "term": "John Clarke",
+    "aliases": [],
+    "short": "The headmaster of Keats’s school in Enfield.",
+    "note": "John Clarke ran the boarding school that Keats attended from 1803 to 1811. His son, Charles Cowden Clarke, became an important literary mentor and friend to the young poet.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://johnkeats.uvic.ca/1803.html",
+        "label": "University of Victoria: Clarke’s Academy"
+      }
+    ]
+  },
+  {
+    "id": "charles-armitage-brown",
+    "term": "Brown",
+    "aliases": [],
+    "short": "Charles Armitage Brown, Keats’s friend and walking companion.",
+    "note": "Brown accompanied Keats on his 1818 tour of northern England and Scotland. He later shared his Hampstead home with the poet and recorded recollections of their life and travels.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://johnkeats.uvic.ca/1818-06-26.html?data-id=haydon_br",
+        "label": "University of Victoria: Keats’s northern tour"
+      }
+    ]
+  },
+  {
+    "id": "skiddaw",
+    "term": "Skiddaw",
+    "aliases": [],
+    "short": "A mountain overlooking Keswick in England’s Lake District.",
+    "note": "A prominent northern Lakeland summit climbed by John Keats and Charles Brown during their 1818 walking tour. The surrounding landscape also includes Derwentwater and Lodore Falls.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://johnkeats.uvic.ca/1818-06-26.html?data-id=haydon_br",
+        "label": "University of Victoria: Keats’s northern tour"
+      }
+    ]
+  },
+  {
+    "id": "sistine-chapel",
+    "term": "Sistine Chapel",
+    "aliases": [],
+    "short": "The Vatican chapel famous for Michelangelo’s frescoes.",
+    "note": "The papal chapel whose ceiling depicts scenes from Genesis, painted by Michelangelo in 1508–1512. His later Last Judgment occupies the altar wall.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.vatican.va/content/vatican/en/ra/cappella-sistina.html",
+        "label": "Vatican: Sistine Chapel"
+      }
+    ]
+  },
+  {
+    "id": "michelangelo",
+    "term": "Michelangelo",
+    "aliases": [],
+    "short": "Italian Renaissance sculptor, painter, and architect.",
+    "note": "Michelangelo Buonarroti, 1475–1564, created the David and Pietà sculptures and painted the Sistine Chapel ceiling and Last Judgment. His Vatican frescoes reshape biblical subjects through monumental human figures.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.vatican.va/content/vatican/en/ra/cappella-sistina.html",
+        "label": "Vatican: Sistine Chapel"
+      }
+    ]
+  },
+  {
+    "id": "gethsemane",
+    "term": "Gethsemane",
+    "aliases": [],
+    "short": "The garden where Jesus prays before his arrest.",
+    "note": "In the Gospel accounts, Jesus withdraws to pray before his betrayal and arrest. The prayer that the cup of suffering might pass from him expresses anguish before the Passion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/matthew/26",
+        "label": "Gospel of Matthew, chapter 26"
+      }
+    ]
+  },
+  {
+    "id": "philomel",
+    "term": "Philomel",
+    "aliases": [],
+    "short": "Possibly the poetic name for a nightingale.",
+    "note": "Possibly philomel, a literary word for the nightingale, drawn from the name Philomela. Greek and Roman myth connects her suffering and transformation with the bird’s song.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/philomel",
+        "label": "Collins English Dictionary: philomel"
+      }
+    ]
+  },
+  {
+    "id": "diana",
+    "term": "Diana",
+    "aliases": [],
+    "short": "Possibly the Roman goddess of hunting and the moon.",
+    "note": "Possibly Diana, the Roman goddess associated with wild places, hunting, and the moon. She was identified with the Greek goddess Artemis.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Olympios/Artemis.html",
+        "label": "Ancient sources on Artemis and Diana, collected by Theoi"
+      }
+    ]
+  },
+  {
+    "id": "all-thing",
+    "term": "All Thing",
+    "aliases": [],
+    "short": "Possibly the Althing, Iceland’s historic general assembly.",
+    "note": "Possibly Iceland’s Alþingi, established around 930 at Þingvellir. Its name combines words for the whole community and an assembly, and the institution became Iceland’s parliament.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.thingvellir.is/en/education/history/",
+        "label": "Þingvellir National Park: history"
+      }
+    ]
+  },
+  {
+    "id": "doukhobor",
+    "term": "Doukhobor",
+    "aliases": [],
+    "short": "A member of a Russian-origin pacifist religious community.",
+    "note": "The Doukhobors are a Christian movement known for rejecting violence and emphasizing communal life and inward spiritual authority. Thousands migrated from the Russian Empire to Canada around the turn of the twentieth century.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://library-archives.canada.ca/eng/collection/research-help/genealogy-family-history/ethno-cultural/pages/doukhobors.aspx",
+        "label": "Library and Archives Canada: Doukhobors"
+      }
+    ]
+  },
+  {
+    "id": "sequoia-sempervirens",
+    "term": "Sequoia Sempervirens",
+    "aliases": [],
+    "short": "The coast redwood, among the tallest living trees.",
+    "note": "Sequoia sempervirens is the evergreen redwood native to the Pacific coast of northern California and southwestern Oregon. Its immense height and longevity distinguish it from the related giant sequoia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://home.nps.gov/articles/000/coast-redwood.htm",
+        "label": "National Park Service: coast redwood"
+      }
+    ]
+  },
+  {
+    "id": "melian-dialogue",
+    "term": "Melian Dialogue",
+    "aliases": [],
+    "short": "Thucydides’ debate about power, justice, and submission.",
+    "note": "In book V of the History of the Peloponnesian War, Athenian envoys demand the surrender of neutral Melos. The dialogue confronts arguments about justice and hope with the demands of superior force.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://people.uncw.edu/deagona/cla%20209%20f-11/Thucydides%20Melian.pdf",
+        "label": "Thucydides: Melian Dialogue, University of North Carolina Wilmington"
+      }
+    ]
+  },
+  {
+    "id": "thucydides",
+    "term": "Thucydides",
+    "aliases": [],
+    "short": "Greek historian of the Peloponnesian War.",
+    "note": "A fifth-century BCE historian whose account of the conflict between Athens and Sparta examines political judgment, war, and imperial power. His work includes the Melian Dialogue.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://people.uncw.edu/deagona/cla%20209%20f-11/Thucydides%20Melian.pdf",
+        "label": "Thucydides: Melian Dialogue, University of North Carolina Wilmington"
+      }
+    ]
+  },
+  {
+    "id": "bruce-catton",
+    "term": "Catton",
+    "aliases": [],
+    "short": "Bruce Catton, historian of the American Civil War.",
+    "note": "American writer, 1899–1978, known for narrative histories of the Civil War. A Stillness at Appomattox, concluding his Army of the Potomac trilogy, won the Pulitzer Prize.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://case.edu/ech/articles/c/catton-bruce",
+        "label": "Case Western Reserve University: Bruce Catton"
+      }
+    ]
+  },
+  {
+    "id": "clausewitz",
+    "term": "Clausewitz",
+    "aliases": [
+      "Von Clausewitz"
+    ],
+    "short": "Carl von Clausewitz, author of On War.",
+    "note": "Prussian soldier and theorist, 1780–1831. His unfinished treatise On War examines the relationship between military action and politics, along with uncertainty, chance, and friction in warfare.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/1946",
+        "label": "Carl von Clausewitz: On War"
+      }
+    ]
+  },
+  {
+    "id": "antietam",
+    "term": "Antietam",
+    "aliases": [],
+    "short": "The 1862 American Civil War battle near Sharpsburg, Maryland.",
+    "note": "Fought on 17 September 1862 between Union and Confederate forces. The battle produced the bloodiest single day in American military history and ended Lee’s first invasion of the North.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://home.nps.gov/anti/index.htm",
+        "label": "National Park Service: Antietam"
+      }
+    ]
+  },
+  {
+    "id": "agincourt",
+    "term": "Agincourt",
+    "aliases": [],
+    "short": "Henry V’s victory over the French in 1415.",
+    "note": "A battle of the Hundred Years’ War fought on 25 October 1415. English forces under Henry V defeated a larger French army; longbowmen were central to the victory.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://royalarmouries.org/objects-and-stories/stories/the-hundred-years-war-1337-1453",
+        "label": "Royal Armouries: Hundred Years’ War"
+      }
+    ]
+  },
+  {
+    "id": "hobsons-choice",
+    "term": "Hobson’s choice",
+    "aliases": [],
+    "short": "An apparent choice with only one acceptable option.",
+    "note": "A take-it-or-leave-it offer: the supposed freedom to choose is restricted to accepting what is available or receiving nothing. The phrase traditionally refers to Cambridge carrier Thomas Hobson’s horse-hiring rule.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/hobson-s-choice",
+        "label": "Oxford Learner’s Dictionaries: Hobson’s choice"
+      }
+    ]
+  },
+  {
+    "id": "cordon-sanitaire",
+    "term": "cordon sanitaire",
+    "aliases": [],
+    "short": "A protective line intended to contain a threat.",
+    "note": "French for sanitary cordon: originally a guarded boundary restricting movement to contain disease. Figuratively, a barrier of territory, institutions, or forces intended to isolate a dangerous influence.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/cordon-sanitaire",
+        "label": "Cambridge Dictionary: cordon sanitaire"
+      }
+    ]
+  },
+  {
+    "id": "nutcracker",
+    "term": "Nutcracker",
+    "aliases": [
+      "Tchaikovsky"
+    ],
+    "short": "Tchaikovsky’s ballet of a child’s enchanted Christmas journey.",
+    "note": "A ballet first performed in 1892, with music by Pyotr Ilyich Tchaikovsky. A girl, often called Clara, receives a nutcracker that becomes central to a magical adventure.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://static.roh.org.uk/showings/the-nutcracker-recorded-2019/EN.pdf",
+        "label": "Royal Ballet: The Nutcracker"
+      }
+    ]
+  },
+  {
+    "id": "rachmaninoff",
+    "term": "Rachmaninoff",
+    "aliases": [
+      "Piano Concerto No. 2 in C Minor"
+    ],
+    "short": "Sergei Rachmaninoff, composer of the Second Piano Concerto.",
+    "note": "Russian composer and pianist, 1873–1943. His Piano Concerto No. 2 in C minor, Op. 18, completed in 1901, is known for expansive melodies and the dialogue between virtuoso piano and orchestra.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.laphil.com/works/piano-concerto-no-2-in-c-minor-op-18",
+        "label": "Los Angeles Philharmonic: Piano Concerto No. 2"
+      }
+    ]
+  },
+  {
+    "id": "gershwin",
+    "term": "Gershwin",
+    "aliases": [],
+    "short": "George Gershwin, American composer and pianist.",
+    "note": "Composer, 1898–1937, who brought jazz and popular-song idioms into concert music. His works include Rhapsody in Blue, An American in Paris, and the opera Porgy and Bess.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.loc.gov/collections/george-and-ira-gershwin-treasures/about-this-collection/",
+        "label": "Library of Congress: George and Ira Gershwin"
+      }
+    ]
+  },
+  {
+    "id": "brahms",
+    "term": "Brahms",
+    "aliases": [],
+    "short": "Johannes Brahms, German Romantic composer.",
+    "note": "Composer and pianist, 1833–1897, whose symphonies, concertos, chamber music, and songs combine Romantic expression with tightly worked classical forms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.laphil.com/people/johannes-brahms",
+        "label": "Los Angeles Philharmonic: Johannes Brahms"
+      }
+    ]
+  },
+  {
+    "id": "mobius",
+    "term": "Möbius",
+    "aliases": [],
+    "short": "A mathematical surface with one side and one boundary.",
+    "note": "A Möbius strip is made by giving a strip a half twist before joining its ends. Named after mathematician August Ferdinand Möbius, it is a basic example of a nonorientable surface.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathshistory.st-andrews.ac.uk/EMS/ems_Mobius/",
+        "label": "University of St Andrews: Möbius surface"
+      }
+    ]
+  },
+  {
+    "id": "buckminster-map",
+    "term": "Buckminster",
+    "aliases": [],
+    "short": "Buckminster Fuller’s unfolded-polyhedron map projection.",
+    "note": "The Dymaxion map associated with designer R. Buckminster Fuller represents Earth on an unfolded polyhedron. Its arrangement emphasizes the connectedness of the continents and avoids a mandatory north-up orientation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.bfi.org/about-fuller/big-ideas/dymaxion-map/",
+        "label": "Buckminster Fuller Institute: Dymaxion map"
+      }
+    ]
+  },
+  {
+    "id": "bonne",
+    "term": "Bonne",
+    "aliases": [],
+    "short": "An equal-area, often heart-shaped map projection.",
+    "note": "A pseudoconical projection with concentric circular parallels. Areas are preserved; its overall outline depends on the chosen standard parallel.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pubs.usgs.gov/pp/1395/report.pdf",
+        "label": "US Geological Survey: Map Projections—A Working Manual"
+      }
+    ]
+  },
+  {
+    "id": "van-der-grinten",
+    "term": "Van der Grinten",
+    "aliases": [],
+    "short": "A world map drawn within a circle.",
+    "note": "A compromise projection that places the world in a circle. It preserves neither area nor local shape and greatly enlarges polar regions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pubs.usgs.gov/pp/1395/report.pdf",
+        "label": "US Geological Survey: Map Projections—A Working Manual"
+      }
+    ]
+  },
+  {
+    "id": "goode-homolosine",
+    "term": "Goode homolosine",
+    "aliases": [],
+    "short": "An equal-area world map often divided into lobes.",
+    "note": "John Paul Goode’s combination of sinusoidal and Mollweide projections. Interruptions reduce distortion across selected land or ocean regions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pubs.usgs.gov/pp/1395/report.pdf",
+        "label": "US Geological Survey: Map Projections—A Working Manual"
+      }
+    ]
+  },
+  {
+    "id": "gnomonic",
+    "term": "gnomonic",
+    "aliases": [],
+    "short": "A map projection that makes great circles straight.",
+    "note": "A projection from a sphere’s center onto a tangent plane. Great-circle routes appear as straight lines, with rapidly increasing distortion away from the center.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pubs.usgs.gov/pp/1395/report.pdf",
+        "label": "US Geological Survey: Map Projections—A Working Manual"
+      }
+    ]
+  },
+  {
+    "id": "miller-cylindrical",
+    "term": "Miller cylindrical",
+    "aliases": [],
+    "short": "A rectangular compromise world-map projection.",
+    "note": "Osborn Miller’s modification of the Mercator construction. It reduces polar exaggeration while sacrificing Mercator’s preservation of local angles.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pubs.usgs.gov/pp/1395/report.pdf",
+        "label": "US Geological Survey: Map Projections—A Working Manual"
+      }
+    ]
+  },
+  {
+    "id": "vega",
+    "term": "Vega",
+    "aliases": [],
+    "short": "A bright nearby star in the constellation Lyra.",
+    "note": "One of the three stars of the Summer Triangle, about 25 light-years from Earth. Its brightness and well-studied spectrum have made it an important astronomical reference star.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nasa.gov/missions/dart/nasas-dart-captures-one-of-night-skys-brightest-stars/",
+        "label": "NASA: Vega"
+      }
+    ]
+  },
+  {
+    "id": "deneb",
+    "term": "Deneb",
+    "aliases": [],
+    "short": "A luminous star in Cygnus, the Swan.",
+    "note": "The brightest star in Cygnus and one corner of the Summer Triangle. Its name comes from an Arabic word for tail, referring to its place in the constellation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-deneb/",
+        "label": "NASA: Deneb"
+      }
+    ]
+  },
+  {
+    "id": "albedo",
+    "term": "Albedo",
+    "aliases": [],
+    "short": "The fraction of incoming light reflected by a surface.",
+    "note": "A measure of reflectivity, expressed between zero and one or as a percentage. Snow and bright clouds have high albedo; dark ocean water and forests generally reflect much less light.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mynasadata.larc.nasa.gov/basic-page/albedo-values",
+        "label": "NASA: albedo values"
+      }
+    ]
+  },
+  {
+    "id": "cicero",
+    "term": "Cicero",
+    "aliases": [],
+    "short": "Possibly Marcus Tullius Cicero, Roman orator and statesman.",
+    "note": "Possibly Marcus Tullius Cicero, 106–43 BCE, the Roman lawyer, politician, and philosophical writer. His speeches and prose became influential models of Latin eloquence.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n7969/",
+        "label": "Lewis and Short: Cicero"
+      }
+    ]
+  },
+  {
+    "id": "dis",
+    "term": "Dis",
+    "aliases": [],
+    "short": "A Roman name for the ruler of the underworld.",
+    "note": "Dis, or Dis Pater, was identified with Pluto and the Greek Hades. The name links the god to wealth beneath the earth; Latin poetry also uses it for the realm of the dead.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Khthonios/Haides.html",
+        "label": "Ancient sources on Hades and Dis, collected by Theoi"
+      }
+    ]
+  },
+  {
+    "id": "medusa",
+    "term": "Medusa",
+    "aliases": [],
+    "short": "The snake-haired Gorgon whose gaze turned people to stone.",
+    "note": "One of the three Gorgon sisters in Greek mythology, and the only mortal among them. Perseus killed her by avoiding her direct gaze; her severed head retained its petrifying power.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Pontios/Gorgones.html",
+        "label": "Ancient sources on Medusa, collected by Theoi"
+      }
+    ]
+  },
+  {
+    "id": "damocles",
+    "term": "Damocles",
+    "aliases": [],
+    "short": "The courtier beneath a sword suspended by a horsehair.",
+    "note": "In Cicero’s account, Dionysius lets the admiring Damocles experience royal luxury, then hangs a sword above him by a single horsehair. The episode illustrates the constant insecurity accompanying power.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.livius.org/sources/content/cicero/tusculan-deputations/damocles/",
+        "label": "Cicero: Tusculan Disputations, translated excerpt"
+      }
+    ]
+  },
+  {
+    "id": "aquila",
+    "term": "Aquila",
+    "aliases": [],
+    "short": "Latin for eagle.",
+    "note": "The Latin noun aquila means eagle. It also names the eagle-shaped standard carried by a Roman legion and the constellation traditionally pictured as an eagle.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n3282/",
+        "label": "Lewis and Short: aquila"
+      }
+    ]
+  },
+  {
+    "id": "equus",
+    "term": "Equus",
+    "aliases": [],
+    "short": "Latin for horse.",
+    "note": "The Latin noun equus means a horse, steed, or charger. It is the source of English words such as equine and equestrian.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n16074/",
+        "label": "Lewis and Short: equus"
+      }
+    ]
+  },
+  {
+    "id": "tacitus",
+    "term": "Tacitus",
+    "aliases": [],
+    "short": "Roman historian of the early emperors.",
+    "note": "Publius Cornelius Tacitus, a senator and historian active in the late first and early second centuries CE. His Annals and Histories examine imperial power, political violence, and the loss of republican freedom.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/Introduction%2A.html",
+        "label": "LacusCurtius: introduction to Tacitus’s Annals"
+      }
+    ]
+  },
+  {
+    "id": "briesemeister",
+    "term": "Briesemeister",
+    "aliases": [],
+    "short": "An oblique equal-area map projection.",
+    "note": "William Briesemeister’s modification of the Hammer projection, presented in 1953. It places the globe obliquely within an ellipse, preserving relative areas while altering shapes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pubs.usgs.gov/pp/1453/report.pdf",
+        "label": "US Geological Survey: An Album of Map Projections"
+      }
+    ]
+  },
+  {
+    "id": "peter-pan",
+    "term": "Peter Pan",
+    "aliases": [
+      "Neverland"
+    ],
+    "short": "J. M. Barrie’s boy who refuses to grow up.",
+    "note": "The flying boy at the center of Barrie’s play Peter Pan and novel Peter and Wendy. Neverland is his island of perpetual childhood, shared with the Lost Boys and Captain Hook.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/16/16-h/16-h.htm",
+        "label": "J. M. Barrie: Peter Pan"
+      }
+    ]
+  },
+  {
+    "id": "marlowe",
+    "term": "Marlowe",
+    "aliases": [],
+    "short": "Christopher Marlowe, author of Doctor Faustus.",
+    "note": "Elizabethan playwright whose Doctor Faustus dramatizes a scholar’s bargain with a devil. Mephistophilis explains that separation from divine bliss makes hell a condition he carries with him.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/811/811-h/811-h.htm",
+        "label": "Christopher Marlowe: Doctor Faustus"
+      }
+    ]
+  },
+  {
+    "id": "god-and-golem",
+    "term": "God and Golem, Inc",
+    "aliases": [],
+    "short": "Norbert Wiener’s book about cybernetics and religion.",
+    "note": "Published in 1964, Wiener’s short book considers machines that learn, machines that reproduce, and the ethical relationship between people and their creations. Its questions connect technological agency with religious ideas of creation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mitpress.mit.edu/9780262730112/god-and-golem-inc/",
+        "label": "MIT Press: God & Golem, Inc."
+      }
+    ]
+  },
+  {
+    "id": "adams-dream",
+    "term": "Adam’s dream",
+    "aliases": [],
+    "short": "Adam’s dream of reality in Milton’s Paradise Lost.",
+    "note": "In book VIII of Paradise Lost, Adam describes waking to discover that what he dreamed exists. Keats compares imagination to this experience in his letter to Benjamin Bailey of 22 November 1817.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://cowperandnewtonmuseum.org.uk/bulletin/recalling-adams-dream-a-note-on-keats-and-cowper/",
+        "label": "Cowper & Newton Museum: Keats and Adam’s dream"
+      }
+    ]
+  },
+  {
+    "id": "keats-superior-beings",
+    "term": "May there not be superior beings",
+    "aliases": [],
+    "short": "From Keats’s letter of 19 March 1819.",
+    "note": "In a journal-letter to George and Georgiana Keats, the poet compares human purposes with animal instinct. He wonders whether higher beings might appreciate human thought as humans appreciate an animal’s alertness.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/35698/pg35698-images.html",
+        "label": "John Keats: Letters to His Family and Friends"
+      }
+    ]
+  },
+  {
+    "id": "revanchist",
+    "term": "revanchist",
+    "aliases": [],
+    "short": "Seeking revenge or the recovery of something lost.",
+    "note": "From French revanche, revenge. In politics it usually describes efforts to reverse a defeat or recover lost territory; more broadly it suggests a determination to reclaim lost power or standing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/revanchist",
+        "label": "Collins English Dictionary: revanchist"
+      }
+    ]
+  },
+  {
+    "id": "doxie",
+    "term": "doxie",
+    "aliases": [],
+    "short": "An old slang word for a prostitute or mistress.",
+    "note": "Also spelled doxy. A disparaging term found in older English slang for a sex worker or a man’s mistress.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/doxy",
+        "label": "Collins English Dictionary: doxy"
+      }
+    ]
+  },
+  {
+    "id": "vettura",
+    "term": "vettura",
+    "aliases": [],
+    "short": "Italian for a carriage or vehicle.",
+    "note": "An Italian word for a vehicle used to carry passengers, historically a horse-drawn carriage and in modern usage also a car or railway carriage.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/italian-english/vettura",
+        "label": "Collins Italian–English Dictionary: vettura"
+      }
+    ]
+  },
+  {
+    "id": "trattoria",
+    "term": "trattoria",
+    "aliases": [],
+    "short": "An informal Italian restaurant.",
+    "note": "An Italian eating house, traditionally more modest and informal than a grand restaurant, serving familiar regional or home-style cooking.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/trattoria",
+        "label": "Collins English Dictionary: trattoria"
+      }
+    ]
+  },
+  {
+    "id": "sotto-voce",
+    "term": "sotto voce",
+    "aliases": [],
+    "short": "In a low, quiet voice.",
+    "note": "Italian for under the voice. The expression describes subdued speech or singing, often an aside intended to be heard by only a few people.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/sotto-voce",
+        "label": "Collins English Dictionary: sotto voce"
+      }
+    ]
+  },
+  {
+    "id": "fait-accompli",
+    "term": "fait accompli",
+    "aliases": [],
+    "short": "Something already done that others must accept.",
+    "note": "French for accomplished fact. It describes a completed action or settled situation presented to others before they can meaningfully object or choose an alternative.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/fait-accompli",
+        "label": "Collins English Dictionary: fait accompli"
+      }
+    ]
+  },
+  {
+    "id": "doppelganger",
+    "term": "Doppelganger",
+    "aliases": [],
+    "short": "A person’s double or uncanny look-alike.",
+    "note": "From German Doppelgänger, literally double-goer. The word can mean a supernatural double or, more loosely, someone who closely resembles another person.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/doppelganger",
+        "label": "Collins English Dictionary: doppelganger"
+      }
+    ]
+  },
+  {
+    "id": "flechette",
+    "term": "fléchette",
+    "aliases": [
+      "fléchettes",
+      "Fléchettes"
+    ],
+    "short": "A small dart-shaped metal projectile.",
+    "note": "From French for little arrow. Flechettes are finned metal darts used as projectiles or dispersed from certain shells; the word describes their arrow-like shape.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/flechette",
+        "label": "Collins English Dictionary: fléchette"
+      }
+    ]
+  },
+  {
+    "id": "asquith",
+    "term": "Asquith",
+    "aliases": [],
+    "short": "Possibly H. H. Asquith, British prime minister.",
+    "note": "Possibly Herbert Henry Asquith, 1852–1928, Liberal prime minister from 1908 to 1916. His government pursued major constitutional and welfare reforms and led Britain into the First World War.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.gov.uk/government/history/past-prime-ministers/herbert-henry-asquith",
+        "label": "UK Government: H. H. Asquith"
+      }
+    ]
+  },
+  {
+    "id": "tempe",
+    "term": "Tempe",
+    "aliases": [],
+    "short": "Possibly the celebrated river valley in ancient Thessaly.",
+    "note": "Possibly the Vale of Tempe in Greece, where the Peneios River passes between Mount Olympus and Mount Ossa on its way to the sea. Ancient writers praised the wooded valley’s beauty.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aentry%3Dtempe-geo",
+        "label": "Dictionary of Greek and Roman Geography: Tempe"
+      }
+    ]
+  },
+  {
+    "id": "fuji",
+    "term": "Fuji",
+    "aliases": [],
+    "short": "Possibly Mount Fuji, Japan’s sacred volcanic mountain.",
+    "note": "Possibly Mount Fuji, the volcano on Honshu whose symmetrical profile is a familiar subject of Japanese art. Long a place of pilgrimage, it anchors the Fuji-Hakone-Izu National Park.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.env.go.jp/en/nature/nps/park/fujihakone/index.html",
+        "label": "Japan Ministry of the Environment: Fuji-Hakone-Izu National Park"
+      }
+    ]
+  },
+  {
+    "id": "pacem",
+    "term": "Pacem",
+    "aliases": [
+      "Pax"
+    ],
+    "short": "A Latin form of pax, meaning peace.",
+    "note": "Pacem is the accusative singular of Latin pax, peace. The form appears in dona nobis pacem, grant us peace, and Pacem in terris, peace on earth.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n34250/",
+        "label": "Lewis and Short: pax"
+      },
+      {
+        "url": "https://www.vatican.va/roman_curia/secretariat_state/2003/documents/rc_seg-st_20031018_sodano-xxv-pontificate_en.html",
+        "label": "Holy See: dona nobis pacem"
+      }
+    ]
+  },
+  {
+    "id": "tsingtao-hsishuang-panna",
+    "term": "Tsingtao-Hsishuang Panna",
+    "aliases": [],
+    "short": "Possibly two Chinese place names: Qingdao and Xishuangbanna.",
+    "note": "Possibly a combination of older romanizations of Qingdao, a coastal city in Shandong, and Xishuangbanna, a region of southern Yunnan bordering Laos and Myanmar. The two names refer to geographically distant places.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://discoverarchives.library.utoronto.ca/downloads/mark-gayn-papers.pdf",
+        "label": "University of Toronto: historical and modern place-name concordance"
+      },
+      {
+        "url": "https://www.chinadaily.com.cn/specials/2024QingdaoChina.pdf",
+        "label": "Qingdao city guide"
+      },
+      {
+        "url": "https://www.unesco.org/en/mab/xishuangbanna",
+        "label": "UNESCO: Xishuangbanna"
+      }
+    ]
+  },
+  {
+    "id": "merlin",
+    "term": "Merlin",
+    "aliases": [],
+    "short": "Possibly T. H. White’s Merlyn, who lives backward through time.",
+    "note": "Possibly the version of Arthur’s wizard in T. H. White’s The Sword in the Stone and The Once and Future King. Merlyn experiences time backward, remembering events that other people regard as the future.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://thecityoflostbooks.glasgow.ac.uk/t-h-white-the-sword-in-the-stone/",
+        "label": "University of Glasgow: T. H. White’s The Sword in the Stone"
+      }
+    ]
+  },
+  {
+    "id": "aquinas",
+    "term": "Aquinas",
+    "aliases": [
+      "Aquinus"
+    ],
+    "short": "Thomas Aquinas, medieval philosopher and theologian.",
+    "note": "Dominican thinker, c. 1225–1274, whose work joins Christian theology with sustained engagement with Aristotle. His Summa theologiae examines God, human conduct, and salvation through systematic questions and arguments.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/aquinas/",
+        "label": "Stanford Encyclopedia of Philosophy: Thomas Aquinas"
+      }
+    ]
+  }
+]

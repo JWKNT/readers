@@ -38,3 +38,9 @@ EPUB. Original story afterwords, epigraphs, and meaningful inline illustrations
 are retained. Source selection and OCR limitations are recorded in NOTES-V13.md.
 The 64 new scene ornaments are original project SVG artwork, reproducible with
 tools/reader_ornaments.py. New readers reuse approved historical initial assets.
+
+The Hyperion reader transforms the two supplied Dan Simmons EPUBs, retaining
+their epigraphs, dedications, poetry, inline symbols and equation images. The two
+new divider ornaments are original project drawings; the initial letters reuse
+the approved Shadow and Urth alphabets. Original text and source images remain
+the property of their respective rights holders.

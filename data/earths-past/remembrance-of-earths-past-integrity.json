@@ -1,0 +1,909 @@
+{
+  "book": "remembrance-of-earths-past",
+  "chapters": [
+    {
+      "chapter": "three-body-problem-section-06",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-06",
+      "textSha256": "2059ecb20f183aca2629c98ea6ff0d38650a787610bf86a2eb947191c47c76ae",
+      "blocks": 85
+    },
+    {
+      "chapter": "three-body-problem-section-07",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-07",
+      "textSha256": "826489ad0aa744734c7b6bf0d3a58b69aa765d2ec22d34bd58f8d30c8afc95f1",
+      "blocks": 137
+    },
+    {
+      "chapter": "three-body-problem-section-08",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-08",
+      "textSha256": "b890eb44cb250c2391897d1141f0ac32b588556bee8f19a1aed6b2a86c897eb3",
+      "blocks": 76
+    },
+    {
+      "chapter": "three-body-problem-section-10",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-10",
+      "textSha256": "a966887baa68f358d56629e1a16f3b7c0743840947c2fa64f5ecfea8e521ee09",
+      "blocks": 152
+    },
+    {
+      "chapter": "three-body-problem-section-11",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-11",
+      "textSha256": "a6b303c02d3271337467b995ce0fa2189534c5a33622e1fca7ae42ceadaaf41a",
+      "blocks": 51
+    },
+    {
+      "chapter": "three-body-problem-section-12",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-12",
+      "textSha256": "a0301a3835b06cea3cf3d0b1fe51a32a7ece01242eca90cd8f2c708a54789724",
+      "blocks": 180
+    },
+    {
+      "chapter": "three-body-problem-section-13",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-13",
+      "textSha256": "76f30b5d710e56e7cbc33dde8dbb3d5892e3b1a07d319bf45015909b1bd7131a",
+      "blocks": 151
+    },
+    {
+      "chapter": "three-body-problem-section-14",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-14",
+      "textSha256": "f7d7fc869fd2f82b152a6932d9daaa1f10c4bbfbd132ee12a34671e6ec066f3e",
+      "blocks": 47
+    },
+    {
+      "chapter": "three-body-problem-section-15",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-15",
+      "textSha256": "a209aac00466d3b8a8ef76bdff682fae16dad2234641a986e4a73260063ad1cb",
+      "blocks": 97
+    },
+    {
+      "chapter": "three-body-problem-section-16",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-16",
+      "textSha256": "64a3aa4482620613e4eb3e72c25079e55c2831f0b80db8e278be0efbabda5f65",
+      "blocks": 95
+    },
+    {
+      "chapter": "three-body-problem-section-17",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-17",
+      "textSha256": "99dedc31af5126fad4cbfda6dfcf9f66e4b4ef83f9b96c753651aaed0b87f9de",
+      "blocks": 119
+    },
+    {
+      "chapter": "three-body-problem-section-18",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-18",
+      "textSha256": "0875d1301cda95fc1092bf21537fddadaaf02d2eb0057dd2a0b3d87f62dabc14",
+      "blocks": 67
+    },
+    {
+      "chapter": "three-body-problem-section-19",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-19",
+      "textSha256": "df79a509a8b0e7b376a68ed07bead67a20ab1613f2a676095ab8d470d5422805",
+      "blocks": 94
+    },
+    {
+      "chapter": "three-body-problem-section-20",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-20",
+      "textSha256": "8013fe97c9f2147e7c421823cc0f4019de9e5dcf526470af156f9050af6727b3",
+      "blocks": 30
+    },
+    {
+      "chapter": "three-body-problem-section-21",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-21",
+      "textSha256": "a6adeb51fef5a153ed0af47e86e52a712ec5e8e279168596ddc2d6e95a01f8af",
+      "blocks": 63
+    },
+    {
+      "chapter": "three-body-problem-section-22",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-22",
+      "textSha256": "2e73768031c68809c2debf097ff265a1fe202340f9bfbd54008005016cec56b5",
+      "blocks": 145
+    },
+    {
+      "chapter": "three-body-problem-section-23",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-23",
+      "textSha256": "eced153ddc2cdca00be9ea2268e9f33400307e80fe49b3592fbfff3d6d7c4dc2",
+      "blocks": 138
+    },
+    {
+      "chapter": "three-body-problem-section-24",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-24",
+      "textSha256": "5d4aaf0414e1e0aaf9341d9e0c55918fb8be09f6f092db775dcd47abadbf2dec",
+      "blocks": 53
+    },
+    {
+      "chapter": "three-body-problem-section-25",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-25",
+      "textSha256": "c8820024f1ed47e232b73c26ca90f46e4ac823ea6411616e28137ed3260bbf13",
+      "blocks": 83
+    },
+    {
+      "chapter": "three-body-problem-section-26",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-26",
+      "textSha256": "e51df09e7d79a15206d90b25aebfe815abdaa2e6c5a0de6acdf1cd7815f69462",
+      "blocks": 24
+    },
+    {
+      "chapter": "three-body-problem-section-28",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-28",
+      "textSha256": "36f4e079d23824e3aa15701811170deb3ba86a30c74d0f54a19e87ba8234f251",
+      "blocks": 70
+    },
+    {
+      "chapter": "three-body-problem-section-29",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-29",
+      "textSha256": "2652e74ff55db42928afcb37d943d9aff7705e83f307abd0fec3f6b7a5435efe",
+      "blocks": 69
+    },
+    {
+      "chapter": "three-body-problem-section-30",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-30",
+      "textSha256": "3ace2878e1f1f2259097bf62a4b4debd038fbb1d22d1ce7deaf15522e51665b6",
+      "blocks": 51
+    },
+    {
+      "chapter": "three-body-problem-section-31",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-31",
+      "textSha256": "303e2a8867be42d8078931947cb8a6a776ef0f1ad2f27e35fbf34cd786a23622",
+      "blocks": 49
+    },
+    {
+      "chapter": "three-body-problem-section-32",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-32",
+      "textSha256": "9c69762d5e643b2b91d8d788f2824b45cab6282d24185481f73fa448a38f8d90",
+      "blocks": 48
+    },
+    {
+      "chapter": "three-body-problem-section-33",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-33",
+      "textSha256": "a0dd963293249f1cdd7db428ab4148c77f8c39dac81fddd16c80306a8b067e5c",
+      "blocks": 83
+    },
+    {
+      "chapter": "three-body-problem-section-34",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-34",
+      "textSha256": "ea8fd8ce3507ffe08e90a39ac99d1e7316e3c935bd073dc52cca745e89677df1",
+      "blocks": 70
+    },
+    {
+      "chapter": "three-body-problem-section-35",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-35",
+      "textSha256": "eca6378b15b2e152cd646967250dacee152d78bec646d68a4ccd30cbefbb36c6",
+      "blocks": 17
+    },
+    {
+      "chapter": "three-body-problem-section-36",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-36",
+      "textSha256": "bc4ad83dcb48ba1dbfe004e3d97be6e8f104e934d552b4280afec43b7ff16a83",
+      "blocks": 18
+    },
+    {
+      "chapter": "three-body-problem-section-37",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-37",
+      "textSha256": "d4d940eef23a02b64ba96cdc5566976c7bd3f2022a8bd905ceedc160978a7be1",
+      "blocks": 72
+    },
+    {
+      "chapter": "three-body-problem-section-38",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-38",
+      "textSha256": "c38f6832d8f822df3ac7774f3095c0f94b5bd0723a12bf6cf2d7ec0b9aa601b7",
+      "blocks": 131
+    },
+    {
+      "chapter": "three-body-problem-section-39",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-39",
+      "textSha256": "9dd73a0f8e97dda4246dd9c8df66cd7b9c26350ca555759a0bb84192c4266c58",
+      "blocks": 73
+    },
+    {
+      "chapter": "three-body-problem-section-40",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-40",
+      "textSha256": "bd7ee3b342968962da63c0d4738d981d28861c88c1de74136c05419d25e3ac4a",
+      "blocks": 204
+    },
+    {
+      "chapter": "three-body-problem-section-41",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-41",
+      "textSha256": "159dd190d2af8b5bdc802c2a021229f0d1d236204b08aaa0415f0d67ee49fa12",
+      "blocks": 40
+    },
+    {
+      "chapter": "three-body-problem-section-42",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "section-42",
+      "textSha256": "4db3f41198c1133d052543f5b7cded24f46a16619089205d31c8e38c50c55c28",
+      "blocks": 14
+    },
+    {
+      "chapter": "three-body-problem-source-03",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "source-03",
+      "textSha256": "d4e973db354361e25cbf9c117509d5bfd185efe82c61435f6335ec0c7d0f74c5",
+      "blocks": 39
+    },
+    {
+      "chapter": "three-body-problem-source-44",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "source-44",
+      "textSha256": "29bebcd6dd340e85c4e0d0b76cb2d8cf0f725f74428c7e46f98feb16d649dbb4",
+      "blocks": 21
+    },
+    {
+      "chapter": "three-body-problem-source-43",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "source-43",
+      "textSha256": "187dd00190c675254027439307cd3f0a6e8d8a1028a5414720016179c0f6826a",
+      "blocks": 14
+    },
+    {
+      "chapter": "three-body-problem-source-45",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "source-45",
+      "textSha256": "f07ef64133174cb8393bbc2ae5db5f2fd44b03ea36c8d03c54d05db5ae0c6288",
+      "blocks": 42
+    },
+    {
+      "chapter": "three-body-problem-source-46",
+      "sourceReader": "three-body-problem",
+      "sourceChapter": "source-46",
+      "textSha256": "7102038418181c98feaaa1186084631a123027390403f36cfa92b06bf50b1db2",
+      "blocks": 19
+    },
+    {
+      "chapter": "dark-forest-section-05",
+      "sourceReader": "dark-forest",
+      "sourceChapter": "section-05",
+      "textSha256": "d062f015cf5d37d866e8ba183230a1bc91c16c716e4de4302c4ba3a6990db854",
+      "blocks": 123
+    },
+    {
+      "chapter": "dark-forest-section-08",
+      "sourceReader": "dark-forest",
+      "sourceChapter": "section-08",
+      "textSha256": "ab271b64c2531df4034bfee8a05161464de7d13c4591feafe415063b96d771c0",
+      "blocks": 1696
+    },
+    {
+      "chapter": "dark-forest-section-12",
+      "sourceReader": "dark-forest",
+      "sourceChapter": "section-12",
+      "textSha256": "3d40ee893018cedaca134d194bac9fe07d365c6547ed69a918d632ad5ce31511",
+      "blocks": 491
+    },
+    {
+      "chapter": "dark-forest-section-13",
+      "sourceReader": "dark-forest",
+      "sourceChapter": "section-13",
+      "textSha256": "0f5bfe6471792de7ffbcbd96826cb72e1d05991ba13ae3fecb08430493ea92bc",
+      "blocks": 191
+    },
+    {
+      "chapter": "dark-forest-section-14",
+      "sourceReader": "dark-forest",
+      "sourceChapter": "section-14",
+      "textSha256": "0540be03c200f3e2c67e34be7113be2264d5733ee1842b43aba2b52850b6c068",
+      "blocks": 402
+    },
+    {
+      "chapter": "dark-forest-section-17",
+      "sourceReader": "dark-forest",
+      "sourceChapter": "section-17",
+      "textSha256": "42e8c5c3e0e43a395b13202dd14963001c11da02e3f5bab5a7811fd89cda4cc6",
+      "blocks": 1778
+    },
+    {
+      "chapter": "dark-forest-section-19",
+      "sourceReader": "dark-forest",
+      "sourceChapter": "section-19",
+      "textSha256": "840cfbb023941ab2c99a6b5e2f0a8bfca078e50507791dd3063af75c2f0ab7a6",
+      "blocks": 102
+    },
+    {
+      "chapter": "dark-forest-section-20",
+      "sourceReader": "dark-forest",
+      "sourceChapter": "section-20",
+      "textSha256": "82f65c830c2f4cf92f23d5c289eeebe81275434bc543607b4875f01a4c234ef5",
+      "blocks": 29
+    },
+    {
+      "chapter": "dark-forest-source-04",
+      "sourceReader": "dark-forest",
+      "sourceChapter": "source-04",
+      "textSha256": "f49743ad44c4376ce354dedfb2d657b8e8686048625306be9194f0d7415bfd4a",
+      "blocks": 31
+    },
+    {
+      "chapter": "dark-forest-source-28",
+      "sourceReader": "dark-forest",
+      "sourceChapter": "source-28",
+      "textSha256": "bccabf1a11184942f1efa9ed082b26f32e1aa6464cd17c104713eee5b3836d20",
+      "blocks": 22
+    },
+    {
+      "chapter": "deaths-end-section-07",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-07",
+      "textSha256": "bda52258e3bb08f66d8d8be57ae4fd000f3066094f50b7d3f9689b5f060c867e",
+      "blocks": 8
+    },
+    {
+      "chapter": "deaths-end-section-09",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-09",
+      "textSha256": "a5b7064704dc90884e003e7703dea7842dfe2de7ef3fe64cace24dd7e0de2637",
+      "blocks": 140
+    },
+    {
+      "chapter": "deaths-end-section-10",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-10",
+      "textSha256": "5040d3c05d6cda18caed9afa25df1e08556603b8044798a020e81045cfd11871",
+      "blocks": 57
+    },
+    {
+      "chapter": "deaths-end-section-11",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-11",
+      "textSha256": "b03d7283bb0e382a712a04573cfccaa6f18f105af47f0c46a629fe3f1c1439b7",
+      "blocks": 111
+    },
+    {
+      "chapter": "deaths-end-section-12",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-12",
+      "textSha256": "401d503bdd1f5fac601e7748c5506ee6e7e77a342614a401d7893bcb400eb3b0",
+      "blocks": 18
+    },
+    {
+      "chapter": "deaths-end-section-13",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-13",
+      "textSha256": "3fe0f83931c5954e7bdbe27ff7a9b2a6da34cb3ce2cc357a65e084edb28432bb",
+      "blocks": 138
+    },
+    {
+      "chapter": "deaths-end-section-14",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-14",
+      "textSha256": "4ff32310f18cb9c511f1ede64bb3ff36137b82739c1856093489b8efe98ad6d0",
+      "blocks": 107
+    },
+    {
+      "chapter": "deaths-end-section-15",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-15",
+      "textSha256": "e0beb8c949ea9040f91c764b5ff19a6460d91126177be5f476187222b1f58622",
+      "blocks": 10
+    },
+    {
+      "chapter": "deaths-end-section-16",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-16",
+      "textSha256": "acfef074a828382940f11e0187f5ccee0b5d312b5e2c0191fcbd72a700183f5b",
+      "blocks": 51
+    },
+    {
+      "chapter": "deaths-end-section-17",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-17",
+      "textSha256": "a4ab406c61183b016d1f4ab7dc79a73464998063fb3764fffece94931f301e31",
+      "blocks": 10
+    },
+    {
+      "chapter": "deaths-end-section-18",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-18",
+      "textSha256": "77bdebd4e6872011fc05a04b8c48bfcca722d6b00df976ca02732d3ed909d02e",
+      "blocks": 78
+    },
+    {
+      "chapter": "deaths-end-section-19",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-19",
+      "textSha256": "66b922f78ea764785bcc596aa273cbedbac10d0de4742b7caa175ffc0179d060",
+      "blocks": 116
+    },
+    {
+      "chapter": "deaths-end-section-21",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-21",
+      "textSha256": "0abe87f0df47fb7f9103edf8f775183bd943b06e7e01591ad418639de88a5d2f",
+      "blocks": 17
+    },
+    {
+      "chapter": "deaths-end-section-22",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-22",
+      "textSha256": "124939e8cb354402452c575a8a1ea66296bf78620d6c95b49eb166f6682d63f6",
+      "blocks": 7
+    },
+    {
+      "chapter": "deaths-end-section-23",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-23",
+      "textSha256": "150e973fb0ab84b33767e40cfddb7f2573896de218782d263cc816392c951627",
+      "blocks": 24
+    },
+    {
+      "chapter": "deaths-end-section-24",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-24",
+      "textSha256": "3452d5bc09d5b2b67a26b4512bba6f377a413ed94b116d89c2fdcef07379449b",
+      "blocks": 103
+    },
+    {
+      "chapter": "deaths-end-section-25",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-25",
+      "textSha256": "2935112564eb72c182c18ac1ad17d16113d6b572bb80d549ee2ef5d4b2faa4af",
+      "blocks": 77
+    },
+    {
+      "chapter": "deaths-end-section-26",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-26",
+      "textSha256": "5ccc010cc79999f8348b2339866d9ecebf2daa2fb5b833f88bd68f2119c55ce6",
+      "blocks": 30
+    },
+    {
+      "chapter": "deaths-end-section-27",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-27",
+      "textSha256": "4fecd2e702f010484cd54baddb06d53255e6e6c6552a5db6213f38ba8539efea",
+      "blocks": 15
+    },
+    {
+      "chapter": "deaths-end-section-28",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-28",
+      "textSha256": "fec654d04228820e9fb3b3baf94ed9ad9f74601f113261d9b0ad9a4a5a2a1dbd",
+      "blocks": 9
+    },
+    {
+      "chapter": "deaths-end-section-29",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-29",
+      "textSha256": "134f5dfa26ba38fa431e28c0a0081c6d14288e9df520e170ae26776ee7d3a232",
+      "blocks": 69
+    },
+    {
+      "chapter": "deaths-end-section-30",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-30",
+      "textSha256": "44b83a5c0315b267b51fbb4e8033931e6351897ad3432f7bc5bc414a4c59bd3b",
+      "blocks": 8
+    },
+    {
+      "chapter": "deaths-end-section-31",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-31",
+      "textSha256": "ed4c025fe81dbded21b89d4ff185f41a991a4a4245303db066d11dbf5c33eb95",
+      "blocks": 6
+    },
+    {
+      "chapter": "deaths-end-section-32",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-32",
+      "textSha256": "0f2648de4411fa41b3063e657066a86cad8c8531e1480d8b7ffb77eb1411dc5f",
+      "blocks": 118
+    },
+    {
+      "chapter": "deaths-end-section-33",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-33",
+      "textSha256": "53ec477b5be8184fba7c126f4df4f539334b49292347e7ccd9f8c1c590962fc5",
+      "blocks": 10
+    },
+    {
+      "chapter": "deaths-end-section-34",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-34",
+      "textSha256": "7e0bb0e08d41ca5a737579981174649214b47bbdc0ac178976564a39f4215cb3",
+      "blocks": 18
+    },
+    {
+      "chapter": "deaths-end-section-35",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-35",
+      "textSha256": "ce55a55dec398d11a8d1a466a53bfc150e76ff4c5666acd135f97de800640307",
+      "blocks": 35
+    },
+    {
+      "chapter": "deaths-end-section-36",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-36",
+      "textSha256": "8190674e32a82407ec452fe31c99e0f4c86157851409ee26b71ae7786cc43240",
+      "blocks": 55
+    },
+    {
+      "chapter": "deaths-end-section-37",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-37",
+      "textSha256": "8a5672630e0c0cbbbb349f90bc6e10ac0a15fae9c0ac0552eb69a6ad18458b59",
+      "blocks": 8
+    },
+    {
+      "chapter": "deaths-end-section-38",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-38",
+      "textSha256": "f539442cfdc493ab16484d4f905a4791508a5a3622346ca0b6fa55d92cd21da5",
+      "blocks": 10
+    },
+    {
+      "chapter": "deaths-end-section-39",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-39",
+      "textSha256": "15c1ddf4e4c0e87ff405c277b2927de37c218e42e8c60b99a5966ea205e8001b",
+      "blocks": 29
+    },
+    {
+      "chapter": "deaths-end-section-40",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-40",
+      "textSha256": "f658bd57e995166ee14f71c0b4ee92e53aed67f544f9c5efa40afa86fe608ffb",
+      "blocks": 12
+    },
+    {
+      "chapter": "deaths-end-section-41",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-41",
+      "textSha256": "7dee5204c86821a56f90300d1ec761240eea0dcccffbf1d44465408beaad8818",
+      "blocks": 3
+    },
+    {
+      "chapter": "deaths-end-section-42",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-42",
+      "textSha256": "3361b5cd576463e1450bf85a5c926eefef83f37eb5554d904705230b3336b6a1",
+      "blocks": 13
+    },
+    {
+      "chapter": "deaths-end-section-43",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-43",
+      "textSha256": "169f91a769ce02f1586b5eca61d4e4d9068b8a99dc7e72734e4a95af7cf3be88",
+      "blocks": 197
+    },
+    {
+      "chapter": "deaths-end-section-44",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-44",
+      "textSha256": "d7e6ab599f25f9f98ed48b4d459f8a82d37ac6d151d9ba646cdf579ef831bc5a",
+      "blocks": 124
+    },
+    {
+      "chapter": "deaths-end-section-45",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-45",
+      "textSha256": "8776d64851ae4fa94582b28e123630bebef36a17cf4d3ca94ae85e1f4c0fde07",
+      "blocks": 19
+    },
+    {
+      "chapter": "deaths-end-section-46",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-46",
+      "textSha256": "7640a2caeb6dfaca56a804915e320be46ae2a79949bb7dfe91f997f7c23437e5",
+      "blocks": 191
+    },
+    {
+      "chapter": "deaths-end-section-48",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-48",
+      "textSha256": "2e6b76eb74ab99ab07240a687af7fd0b192341d3dc1149969aec2c72610423e8",
+      "blocks": 8
+    },
+    {
+      "chapter": "deaths-end-section-49",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-49",
+      "textSha256": "739c37c0406926c42c005e363a02369810d2857ddd38285cf2e22808f2144ded",
+      "blocks": 5
+    },
+    {
+      "chapter": "deaths-end-section-50",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-50",
+      "textSha256": "50a973c0f7c5b6c43b1d6c883818d1deecf46c5026a96d850035ca4990838b86",
+      "blocks": 22
+    },
+    {
+      "chapter": "deaths-end-section-51",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-51",
+      "textSha256": "b7ae2171854aeb4105657337b70af4c7a23edf8f0423f39b604a0dc47be6731f",
+      "blocks": 5
+    },
+    {
+      "chapter": "deaths-end-section-52",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-52",
+      "textSha256": "1ef8455839c785bb74c91cfec73d5a31f96e15ec740cedbbb2b6f41390e44956",
+      "blocks": 59
+    },
+    {
+      "chapter": "deaths-end-section-53",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-53",
+      "textSha256": "060768ee45478e3ef72e8fe87dce1b0ed9985d38c1578ecd8b8a934569bc091e",
+      "blocks": 18
+    },
+    {
+      "chapter": "deaths-end-section-54",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-54",
+      "textSha256": "f818b21e67d8e4df14e6be2e33408108e6aa144d7f7da924b9c74ef80b89dbcb",
+      "blocks": 42
+    },
+    {
+      "chapter": "deaths-end-section-55",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-55",
+      "textSha256": "b4d2e76cf6e8d2a50b5a292188fb73026ed5947f4a447300dc904700dbd06933",
+      "blocks": 13
+    },
+    {
+      "chapter": "deaths-end-section-56",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-56",
+      "textSha256": "4a18ca91fcacf1b946b21254e26cd6c62f1599432a69a30129640c0ac8bb825d",
+      "blocks": 156
+    },
+    {
+      "chapter": "deaths-end-section-57",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-57",
+      "textSha256": "5aa266f3bf6a0ce6674e07d895f24fb51dac35aeda2299585a02786e3570270c",
+      "blocks": 26
+    },
+    {
+      "chapter": "deaths-end-section-58",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-58",
+      "textSha256": "a830b431139ab71f63b50e6de4f9308fd6abe28eb321a3c8deaa5777d30de062",
+      "blocks": 140
+    },
+    {
+      "chapter": "deaths-end-section-59",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-59",
+      "textSha256": "127b53ae9929d5444fdf7b84231adc5a75694176477478de278805da8ca66cad",
+      "blocks": 121
+    },
+    {
+      "chapter": "deaths-end-section-60",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-60",
+      "textSha256": "cfcc86257aa9f2a1c99130b87b16322bca33e9b9c3fd6b6fd0cff2e5bcfbcc54",
+      "blocks": 142
+    },
+    {
+      "chapter": "deaths-end-section-61",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-61",
+      "textSha256": "dd8ecfabf95e6494b8a20f24ef4bc764a92f399611334222f3a5b4244a150874",
+      "blocks": 31
+    },
+    {
+      "chapter": "deaths-end-section-62",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-62",
+      "textSha256": "10415cdb80f5ad4924a5e9689f17a063c01f273370c28e8f8bebed9615215546",
+      "blocks": 18
+    },
+    {
+      "chapter": "deaths-end-section-63",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-63",
+      "textSha256": "19f416e91945fd41892b0d3cfca0920a1a7b54822c7358e281db675676c945af",
+      "blocks": 36
+    },
+    {
+      "chapter": "deaths-end-section-64",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-64",
+      "textSha256": "fa4b69ba734e2bc0d6bfa17e192e48f2454fc0ea28d80ae25aaba175fd886bfe",
+      "blocks": 6
+    },
+    {
+      "chapter": "deaths-end-section-65",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-65",
+      "textSha256": "4ee9d5a3b05763167992a98f9040d0c4934201ecfa9f74d4c08830ba2356248b",
+      "blocks": 169
+    },
+    {
+      "chapter": "deaths-end-section-66",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-66",
+      "textSha256": "dbe60a0f874b143450b531a0a70ce65a67a7db5a4bf8076399edffc4c00d31ed",
+      "blocks": 10
+    },
+    {
+      "chapter": "deaths-end-section-67",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-67",
+      "textSha256": "f340c190350084e44daafc666435c11c4589de1e3e6395b483a9e6b12e507431",
+      "blocks": 144
+    },
+    {
+      "chapter": "deaths-end-section-68",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-68",
+      "textSha256": "2f022834c7d8fa8dcb0055e5d949d25d3feaa92f837c07fc4e6b0bdbc09b6854",
+      "blocks": 7
+    },
+    {
+      "chapter": "deaths-end-section-69",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-69",
+      "textSha256": "2428bef7c008638054d380127f0a7b60917ec12b6add0b717524389073039828",
+      "blocks": 46
+    },
+    {
+      "chapter": "deaths-end-section-70",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-70",
+      "textSha256": "be80b848a5b70478f9dafc933f1ce704c5e9421e161ffbcf56a9efa28b557c81",
+      "blocks": 10
+    },
+    {
+      "chapter": "deaths-end-section-71",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-71",
+      "textSha256": "98b1cada8504132aeb8c57f45f06ff29b4e6e4c2d630c5ba9d5d4ffb6ad050c7",
+      "blocks": 82
+    },
+    {
+      "chapter": "deaths-end-section-73",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-73",
+      "textSha256": "ed081ad360b900a45372fde29497bdf07bb2564a7ea7f7fccff63ac11ce07dca",
+      "blocks": 127
+    },
+    {
+      "chapter": "deaths-end-section-74",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-74",
+      "textSha256": "a1c7db5d01de4af80a6b04b1fdbedaff7bc2134728f0e267eb2d6c2331095b42",
+      "blocks": 50
+    },
+    {
+      "chapter": "deaths-end-section-75",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-75",
+      "textSha256": "e7cbc7828e18db886be66e32685ecc45d3b61e8e63b3a9bb345e8afda0048c6d",
+      "blocks": 123
+    },
+    {
+      "chapter": "deaths-end-section-77",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-77",
+      "textSha256": "69959dfdf0333a1dfa51489cd29015c2d354e3b84c0eceecc585cdf0857b2f71",
+      "blocks": 78
+    },
+    {
+      "chapter": "deaths-end-section-78",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-78",
+      "textSha256": "82b2825a88dcc386fabd0fd8f079c104b77f7bab64364b43eac4d324c63eca20",
+      "blocks": 30
+    },
+    {
+      "chapter": "deaths-end-section-79",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-79",
+      "textSha256": "f2fbd5d8267e610d0a43dd0fa1f69953f86a95e8fe49b4e164bfbc69c797ad3c",
+      "blocks": 171
+    },
+    {
+      "chapter": "deaths-end-section-80",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-80",
+      "textSha256": "352bbda1f4ddb74e63cbaba3a965aa519457dc9720eab84e57182fb6fd8c26c5",
+      "blocks": 133
+    },
+    {
+      "chapter": "deaths-end-section-81",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-81",
+      "textSha256": "4401f64d7662fc91a7af665d507a2b62ba672ab9e2d15b425522bd9ff29b7cc7",
+      "blocks": 235
+    },
+    {
+      "chapter": "deaths-end-section-83",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-83",
+      "textSha256": "f83aa42109296e855b48cc6112817b583a81d7a9b5f26dbcc509b700123bed86",
+      "blocks": 347
+    },
+    {
+      "chapter": "deaths-end-section-84",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-84",
+      "textSha256": "b021df16317a02d0f91dc419f6900877da52f844c186ddf86cca9bceefedccee",
+      "blocks": 100
+    },
+    {
+      "chapter": "deaths-end-section-85",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-85",
+      "textSha256": "72c806568c632a0d40d33a940ceb1e5a33cfd3fb09ab4bd3045c00ba9e78121b",
+      "blocks": 138
+    },
+    {
+      "chapter": "deaths-end-section-86",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-86",
+      "textSha256": "28dd6b208b79a44c2a3a965682656a46fdc800f052cc5d6732e0764bb7a187a9",
+      "blocks": 12
+    },
+    {
+      "chapter": "deaths-end-section-87",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "section-87",
+      "textSha256": "af5742f43f624706388c0695179b131a8c900c86b55a66430b906824bedb91e8",
+      "blocks": 33
+    },
+    {
+      "chapter": "deaths-end-source-05",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "source-05",
+      "textSha256": "8108b76de7e91904f6cdeec179bbccdbf1230d7ffc7df9e0090795caa9e1c0bf",
+      "blocks": 17
+    },
+    {
+      "chapter": "deaths-end-source-06",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "source-06",
+      "textSha256": "47c440d7a4776d66deaa10011e22ecdcf0aed00e80e466c10dd365b4c575628c",
+      "blocks": 1
+    },
+    {
+      "chapter": "deaths-end-source-88",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "source-88",
+      "textSha256": "c8cdf2ae690b92b2f26024277d920d672b383bd6acc5594d49126d121c75aae0",
+      "blocks": 5
+    },
+    {
+      "chapter": "deaths-end-source-93",
+      "sourceReader": "deaths-end",
+      "sourceChapter": "source-93",
+      "textSha256": "93c418b7fffaa3715887df29fa5dbbd8146ab0b52791e33eb36d0dfaba017f6d",
+      "blocks": 21
+    }
+  ],
+  "notePolicy": "Assembly only: prose and external-reference notes are unchanged."
+}

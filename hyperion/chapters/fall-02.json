@@ -1,0 +1,236 @@
+{
+  "id": "fall-02",
+  "title": "Chapter 2",
+  "label": "2",
+  "volume": "fall",
+  "volumeTitle": "The Fall of Hyperion",
+  "partTitle": "Part One",
+  "kind": "chapter",
+  "index": 11,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002",
+    "p-003",
+    "p-004",
+    "p-005",
+    "p-006",
+    "p-007",
+    "p-008",
+    "p-009",
+    "p-010",
+    "p-011",
+    "p-012",
+    "p-013",
+    "p-014",
+    "p-015",
+    "p-016",
+    "p-017",
+    "p-018",
+    "p-019",
+    "p-020",
+    "p-021",
+    "p-022",
+    "p-023",
+    "p-024",
+    "p-025",
+    "p-026",
+    "p-027",
+    "p-028",
+    "p-029",
+    "p-030",
+    "p-031",
+    "p-032",
+    "p-033",
+    "p-034",
+    "p-035",
+    "p-036",
+    "p-037",
+    "p-038",
+    "p-039",
+    "p-040",
+    "p-041",
+    "p-042",
+    "p-043",
+    "p-044",
+    "p-045",
+    "p-046",
+    "p-047",
+    "p-048",
+    "p-049",
+    "p-050",
+    "p-051",
+    "p-052",
+    "p-053",
+    "p-054",
+    "p-055",
+    "p-056",
+    "p-057",
+    "p-058",
+    "p-059",
+    "p-060",
+    "p-061",
+    "p-062",
+    "p-063",
+    "p-064",
+    "p-065",
+    "p-066",
+    "p-067",
+    "p-068",
+    "p-069",
+    "p-070",
+    "p-071",
+    "p-072",
+    "p-073",
+    "p-074",
+    "p-075",
+    "p-076",
+    "p-077",
+    "p-078",
+    "p-079",
+    "p-080",
+    "p-081",
+    "p-082",
+    "p-083",
+    "p-084",
+    "p-085",
+    "p-086",
+    "p-087",
+    "p-088",
+    "p-089",
+    "p-090",
+    "p-091",
+    "p-092",
+    "p-093",
+    "p-094",
+    "p-095",
+    "p-096",
+    "p-097",
+    "p-098",
+    "p-099",
+    "p-100",
+    "p-101",
+    "p-102",
+    "p-103",
+    "p-104",
+    "p-105",
+    "p-106",
+    "p-107",
+    "p-108",
+    "p-109",
+    "p-110",
+    "p-111",
+    "p-112",
+    "p-113",
+    "p-114",
+    "p-115",
+    "p-116",
+    "p-117",
+    "p-118",
+    "p-119",
+    "p-120",
+    "p-121",
+    "p-122",
+    "p-123",
+    "p-124",
+    "p-125"
+  ],
+  "sections": [],
+  "words": 3129,
+  "unnumberedToc": true,
+  "navigationSections": [],
+  "noteAnchors": [
+    {
+      "term": "william-gladstone",
+      "paragraph": "p-001"
+    },
+    {
+      "term": "abraham",
+      "paragraph": "p-002"
+    },
+    {
+      "term": "doppelganger",
+      "paragraph": "p-002"
+    },
+    {
+      "term": "joseph-severn",
+      "paragraph": "p-005"
+    },
+    {
+      "term": "all-thing",
+      "paragraph": "p-007"
+    },
+    {
+      "term": "hegirah",
+      "paragraph": "p-007"
+    },
+    {
+      "term": "albedo",
+      "paragraph": "p-008"
+    },
+    {
+      "term": "hyperion",
+      "paragraph": "p-014"
+    },
+    {
+      "term": "hegemony",
+      "paragraph": "p-018"
+    },
+    {
+      "term": "parvati",
+      "paragraph": "p-024"
+    },
+    {
+      "term": "shrike",
+      "paragraph": "p-028"
+    },
+    {
+      "term": "diana",
+      "paragraph": "p-041"
+    },
+    {
+      "term": "philomel",
+      "paragraph": "p-041"
+    },
+    {
+      "term": "frankenstein",
+      "paragraph": "p-047"
+    },
+    {
+      "term": "john-keats",
+      "paragraph": "p-056"
+    },
+    {
+      "term": "fanny-brawne",
+      "paragraph": "p-057"
+    },
+    {
+      "term": "lamia",
+      "paragraph": "p-057"
+    },
+    {
+      "term": "chronos",
+      "paragraph": "p-067"
+    },
+    {
+      "term": "yggdrasill",
+      "paragraph": "p-074"
+    },
+    {
+      "term": "silenus",
+      "paragraph": "p-084"
+    },
+    {
+      "term": "moneta",
+      "paragraph": "p-090"
+    },
+    {
+      "term": "maui",
+      "paragraph": "p-107"
+    }
+  ],
+  "html": "<p class=\"prose hyp-nonindent noindent chapter-opening\" id=\"p-001\" data-block=\"p-001\"><span class=\"initial\" data-letter=\"E\" data-set=\"urth\"><span class=\"initial-letter\">E</span><img alt=\"\" aria-hidden=\"true\" class=\"initial-image\" decoding=\"sync\" src=\"../../assets/initials/urth/E.svg\"></span>very age fraught with discord and danger seems to spawn a leader meant only for that age, a political giant whose absence, in retrospect, seems inconceivable when the history of that age is written. Meina <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"true\">Gladstone</span> was just such a leader for our Final Age, although none then could have dreamed that there would be no one but me to write the true history of her and her time.</p><p class=\"prose hyp-indent\" id=\"p-002\" data-block=\"p-002\"><span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> had been compared to the classical figure of <span class=\"word\" data-term=\"abraham\" data-first=\"false\" data-local-first=\"true\">Abraham</span> Lincoln so many times that when I was finally ushered into her presence that night of the armada party, I was half surprised not to find her in a black frock coat and stovepipe hat. The CEO of the Senate and leader of a government serving a hundred and thirty billion people was wearing a gray suit of soft wool, trousers and tunic top ornamented only by the slightest hint of red cord piping at se<span class=\"text-fix\" data-correction=\"v16-fall-001\" data-original=\"e\">a</span>ms and cuffs. I did not think she looked like <span class=\"word\" data-term=\"abraham\" data-first=\"false\" data-local-first=\"false\">Abraham</span> Lincoln … nor like Alvarez-Temp, the second most common hero of antiquity cited as her <span class=\"word\" data-term=\"doppelganger\" data-first=\"true\" data-local-first=\"true\">Doppelganger</span> by the press. I thought that she looked like an old lady.</p><p class=\"prose hyp-indent\" id=\"p-003\" data-block=\"p-003\">Meina <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> was tall and thin, but her countenance was more aquiline than Lincolnesque, with her blunt beak of a nose; sharp cheekbones; the wide, expressive mouth with thin lips; and gray hair rising in a roughly cropped wave, which did indeed resemble feathers. But to my mind, the most memorable aspect of Meina <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>’s appearance was her eyes: large, brown, and infinitely sad.</p><p class=\"prose hyp-indent\" id=\"p-004\" data-block=\"p-004\">We were not alone. I had been led into a long, softly lighted room lined with wooden shelves holding many hundreds of printed books. A long holoframe simulating a window gave a view of the gardens. A meeting was in the process of breaking up, and a dozen men and women stood or sat in a rough half-circle that held <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>’s desk at its cusp. The CEO leaned back casually on her desk, resting her weight on the front of it, her arms folded. She looked up as I entered.</p><p class=\"prose hyp-indent\" id=\"p-005\" data-block=\"p-005\">“M. <span class=\"word\" data-term=\"joseph-severn\" data-first=\"false\" data-local-first=\"true\">Severn</span>?”</p><p class=\"prose hyp-indent\" id=\"p-006\" data-block=\"p-006\">“Yes.”</p><p class=\"prose hyp-indent\" id=\"p-007\" data-block=\"p-007\">“Thank you for coming.” Her voice was familiar from a thousand <span class=\"word\" data-term=\"all-thing\" data-first=\"false\" data-local-first=\"true\">All Thing</span> debates, its timbre rough with age and its tone as smooth as an expensive liqueur. Her accent was famous—blending precise syntax with an almost forgotten lilt of pre-<span class=\"word\" data-term=\"hegirah\" data-first=\"false\" data-local-first=\"true\">Hegira</span> English, evidently now found only in the river-delta regions of her home world of Patawpha. “Gentlemen and ladies, let me introduce M. <span class=\"word\" data-term=\"joseph-severn\" data-first=\"false\" data-local-first=\"false\">Joseph Severn</span>,” she said.</p><p class=\"prose hyp-indent\" id=\"p-008\" data-block=\"p-008\">Several of the group nodded, obviously at a loss as to why I was there. <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> made no further introductions, but I touched the datasphere to identify everyone: three cabinet members, including the Minister of Defense; two FORCE chiefs of staff; two aides to <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>; four senators, including the influential Senator Kolchev; and a projection of a TechnoCore Councilor known as <span class=\"word\" data-term=\"albedo\" data-first=\"true\" data-local-first=\"true\">Albedo</span>.</p><p class=\"prose hyp-indent\" id=\"p-009\" data-block=\"p-009\">“M. <span class=\"word\" data-term=\"joseph-severn\" data-first=\"false\" data-local-first=\"false\">Severn</span> has been invited here to bring an artist’s perspective to the proceedings,” said CEO <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>.</p><p class=\"prose hyp-indent\" id=\"p-010\" data-block=\"p-010\">FORCE:ground General Morpurgo snorted a laugh. “An <em>artist’s</em> perspective? With all due respect, CEO, what the hell does that mean?”</p><p class=\"prose hyp-indent\" id=\"p-011\" data-block=\"p-011\"><span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> smiled. Instead of answering the General, she turned back to me. “What do you think of the passing of the armada, M. <span class=\"word\" data-term=\"joseph-severn\" data-first=\"false\" data-local-first=\"false\">Severn</span>?”</p><p class=\"prose hyp-indent\" id=\"p-012\" data-block=\"p-012\">“It’s pretty,” I said.</p><p class=\"prose hyp-indent\" id=\"p-013\" data-block=\"p-013\">General Morpurgo made a noise again. “<em>Pretty?</em> He looks at the greatest concentration of space-force firepower in the history of the galaxy and calls it <em>pretty?</em>” He turned toward another military man and shook his head.</p><p class=\"prose hyp-indent\" id=\"p-014\" data-block=\"p-014\"><span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>’s smile had not wavered. “And what of the war?” she asked me. “Do you have an opinion on our attempt to rescue <span class=\"word\" data-term=\"hyperion\" data-first=\"false\" data-local-first=\"true\">Hyperion</span> from the Ouster barbarians?”</p><p class=\"prose hyp-indent\" id=\"p-015\" data-block=\"p-015\">“It’s stupid,” I said.</p><p class=\"prose hyp-indent\" id=\"p-016\" data-block=\"p-016\">The room became very silent. Current real-time polling in the <span class=\"word\" data-term=\"all-thing\" data-first=\"false\" data-local-first=\"false\">All Thing</span> showed 98 percent approval of CEO <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>’s decision to fight rather than cede the colonial world of <span class=\"word\" data-term=\"hyperion\" data-first=\"false\" data-local-first=\"false\">Hyperion</span> to the Ousters. <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>’s political future rested on a positive outcome of the conflict. The men and women in that room had been instrumental in formulating the policy, making the decision to invade, and carrying out the logistics. The silence stretched.</p><p class=\"prose hyp-indent\" id=\"p-017\" data-block=\"p-017\">“Why is it stupid?” <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> asked softly.</p><p class=\"prose hyp-indent\" id=\"p-018\" data-block=\"p-018\">I made a gesture with my right hand. “The <span class=\"word\" data-term=\"hegemony\" data-first=\"false\" data-local-first=\"true\">Hegemony</span>’s not been at war since its founding seven centuries ago,” I said. “It is foolish to test its basic stability this way.”</p><p class=\"prose hyp-indent\" id=\"p-019\" data-block=\"p-019\">“Not at war!” shouted General Morpurgo. He gripped his knees with massive hands. “What the hell do you call the Glennon-Height Rebellion?”</p><p class=\"prose hyp-indent\" id=\"p-020\" data-block=\"p-020\">“A rebellion,” I said. “A mutiny. A police action.”</p><p class=\"prose hyp-indent\" id=\"p-021\" data-block=\"p-021\">Senator Kolchev showed his teeth in a smile that held no amusement. He was from Lusus and seemed more muscle than man. “Fleet actions,” he said, “half a million dead, two FORCE divisions locked in combat for more than a year. Some police action, son.”</p><p class=\"prose hyp-indent\" id=\"p-022\" data-block=\"p-022\">I said nothing.</p><p class=\"prose hyp-indent\" id=\"p-023\" data-block=\"p-023\">Leigh Hunt, an older, consumptive-looking man reported to be <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>’s closest aide, cleared his throat. “But what M. <span class=\"word\" data-term=\"joseph-severn\" data-first=\"false\" data-local-first=\"false\">Severn</span> says is interesting. Where do you see the difference between this … ah … conflict and the Glennon-Height wars, sir?”</p><p class=\"prose hyp-indent\" id=\"p-024\" data-block=\"p-024\">“Glennon-Height was a former FORCE officer,” I said, aware that I was stating the obvious. “The Ousters have been an unknown quantity for centuries. The rebels’ forces were known, their potential easily gauged; the Ouster Swarms have been outside the Web since the <span class=\"word\" data-term=\"hegirah\" data-first=\"false\" data-local-first=\"false\">Hegira</span>. Glennon-Height stayed within the Protectorate, raiding worlds no farther than two months’ time-debt from the Web; <span class=\"word\" data-term=\"hyperion\" data-first=\"false\" data-local-first=\"false\">Hyperion</span> is <em>three years</em> from <span class=\"word\" data-term=\"parvati\" data-first=\"false\" data-local-first=\"true\">Parvati</span>, the closest Web staging area.”</p><p class=\"prose hyp-indent\" id=\"p-025\" data-block=\"p-025\">“You think we haven’t thought of all this?” asked General Morpurgo. “What about the Battle of Bressia? We’ve already fought the Ousters there. That was no … rebellion.”</p><p class=\"prose hyp-indent\" id=\"p-026\" data-block=\"p-026\">“Quiet, please,” said Leigh Hunt. “Go on, M. <span class=\"word\" data-term=\"joseph-severn\" data-first=\"false\" data-local-first=\"false\">Severn</span>.”</p><p class=\"prose hyp-indent\" id=\"p-027\" data-block=\"p-027\">I shrugged again. “The primary difference is that in this case we are dealing with <span class=\"word\" data-term=\"hyperion\" data-first=\"false\" data-local-first=\"false\">Hyperion</span>,” I said.</p><p class=\"prose hyp-indent\" id=\"p-028\" data-block=\"p-028\">Senator Richeau, one of the women present, nodded as if I had explained myself in full. “You’re afraid of the <span class=\"word\" data-term=\"shrike\" data-first=\"false\" data-local-first=\"true\">Shrike</span>,” she said. “Do you belong to the Church of the Final Atonement?”</p><p class=\"prose hyp-indent\" id=\"p-029\" data-block=\"p-029\">“No,” I said, “I’m not a member of the <span class=\"word\" data-term=\"shrike\" data-first=\"false\" data-local-first=\"false\">Shrike</span> Cult.”</p><p class=\"prose hyp-indent\" id=\"p-030\" data-block=\"p-030\">“What <em>are</em> you?” demanded Morpurgo.</p><p class=\"prose hyp-indent\" id=\"p-031\" data-block=\"p-031\">“An artist,” I lied.</p><p class=\"prose hyp-indent\" id=\"p-032\" data-block=\"p-032\">Leigh Hunt smiled and turned to <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>. “I agree that we needed this perspective to sober us, CEO,” he said, gesturing toward the window and the holo images showing the still-applauding crowds, “but while our artist friend has brought up necessary points, they have all been reviewed and weighed in full.”</p><p class=\"prose hyp-indent\" id=\"p-033\" data-block=\"p-033\">Senator Kolchev cleared his throat. “I hate to mention the obvious when it seems we are all intent on ignoring it, but does this … <em>gentleman</em> … have the proper security clearance to be present at such a discussion?”</p><p class=\"prose hyp-indent\" id=\"p-034\" data-block=\"p-034\"><span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> nodded and showed the slight smile so many caricaturists had tried to capture. “M. <span class=\"word\" data-term=\"joseph-severn\" data-first=\"false\" data-local-first=\"false\">Severn</span> has been commissioned by the Arts Ministry to do a series of drawings of me during the next few days or weeks. The theory is, I believe, that these will have some historical significance and may lead to a formal portrait. At any rate, M. <span class=\"word\" data-term=\"joseph-severn\" data-first=\"false\" data-local-first=\"false\">Severn</span> has been granted a T-level gold security clearance, and we may speak freely in front of him. Also, I appreciate his candor. Perhaps his arrival serves to suggest that our meeting has reached its conclusion. I will join you all in the War Room at 0800 hours tomorrow morning, just before the fleet translates to <span class=\"word\" data-term=\"hyperion\" data-first=\"false\" data-local-first=\"false\">Hyperion</span> space.”</p><p class=\"prose hyp-indent\" id=\"p-035\" data-block=\"p-035\">The group broke up at once. General Morpurgo glowered at me as he left. Senator Kolchev stared with some curiosity as he passed. Councilor <span class=\"word\" data-term=\"albedo\" data-first=\"false\" data-local-first=\"false\">Albedo</span> merely faded into nothingness. Leigh Hunt was the only one besides <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> and me to remain behind. He made himself more comfortable by draping one leg over the arm of the priceless pre-<span class=\"word\" data-term=\"hegirah\" data-first=\"false\" data-local-first=\"false\">Hegira</span> chair in which he sat. “Sit down,” said Hunt.</p><p class=\"prose hyp-indent\" id=\"p-036\" data-block=\"p-036\">I glanced at the CEO. She had taken her seat behind the massive desk, and now she nodded. I sat in the straight-backed chair General Morpurgo had occupied. CEO <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> said, “Do you really think that defending <span class=\"word\" data-term=\"hyperion\" data-first=\"false\" data-local-first=\"false\">Hyperion</span> is stupid?”</p><p class=\"prose hyp-indent\" id=\"p-037\" data-block=\"p-037\">“Yes.”</p><p class=\"prose hyp-indent\" id=\"p-038\" data-block=\"p-038\"><span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> steepled her fingers and tapped at her lower lip. Behind her, the window showed the armada party continuing in silent agitation. “If you have any hope of being reunited with your … ah … counterpart,” she said, “it would seem to be in your interest for us to carry out the <span class=\"word\" data-term=\"hyperion\" data-first=\"false\" data-local-first=\"false\">Hyperion</span> campaign.”</p><p class=\"prose hyp-indent\" id=\"p-039\" data-block=\"p-039\">I said nothing. The window view shifted to show the night sky still ablaze with fusion trails.</p><p class=\"prose hyp-indent\" id=\"p-040\" data-block=\"p-040\">“Did you bring drawing materials?” asked <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>.</p><p class=\"prose hyp-indent\" id=\"p-041\" data-block=\"p-041\">I brought out the pencil and small sketchpad I had told <span class=\"word\" data-term=\"diana\" data-first=\"false\" data-local-first=\"true\">Diana</span> <span class=\"word\" data-term=\"philomel\" data-first=\"false\" data-local-first=\"true\">Philomel</span> I did not have.</p><p class=\"prose hyp-indent\" id=\"p-042\" data-block=\"p-042\">“Draw while we talk,” said Meina <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>.</p><p class=\"prose hyp-indent\" id=\"p-043\" data-block=\"p-043\">I began sketching, roughing in the relaxed, almost slumped posture, and then working on the details of the face. The eyes intrigued me.</p><p class=\"prose hyp-indent\" id=\"p-044\" data-block=\"p-044\">I was vaguely aware that Leigh Hunt was staring intently at me. “<span class=\"word\" data-term=\"joseph-severn\" data-first=\"false\" data-local-first=\"false\">Joseph Severn</span>,” he said. “An interesting choice of names.”</p><p class=\"prose hyp-indent\" id=\"p-045\" data-block=\"p-045\">I used quick, bold lines to give the sense of <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>’s high brow and strong nose.</p><p class=\"prose hyp-indent\" id=\"p-046\" data-block=\"p-046\">“Do you know why people are leery of cybrids?” Hunt asked.</p><p class=\"prose hyp-indent\" id=\"p-047\" data-block=\"p-047\">“Yes,” I said. “The <span class=\"word\" data-term=\"frankenstein\" data-first=\"false\" data-local-first=\"true\">Frankenstein</span> monster syndrome. Fear of anything in human form that is not completely human. It’s the real reason androids were outlawed, I suppose.”</p><p class=\"prose hyp-indent\" id=\"p-048\" data-block=\"p-048\">“Uh-huh,” agreed Hunt. “But cybrids <em>are</em> completely human, aren’t they?”</p><p class=\"prose hyp-indent\" id=\"p-049\" data-block=\"p-049\">“Genetically they are,” I said. I found myself thinking of my mother, remembering the times I had read to her during her illness. I thought of my brother Tom. “But they are also part of the Core,” I said, “and thus fit the description of ‘not completely human.’ ”</p><p class=\"prose hyp-indent\" id=\"p-050\" data-block=\"p-050\">“Are you part of the Core?” asked Meina <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>, turning full face toward me. I started a new sketch.</p><p class=\"prose hyp-indent\" id=\"p-051\" data-block=\"p-051\">“Not really,” I said. “I can travel freely through the regions they allow me in, but it is more like someone accessing the datasphere than a true Core personality’s ability.” Her face had been more interesting in three-quarters profile, but the eyes were more powerful when viewed straight on. I worked on the latticework of lines radiating from the corners of those eyes. Meina <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> obviously had never indulged in Poulsen treatments.</p><p class=\"prose hyp-indent\" id=\"p-052\" data-block=\"p-052\">“If it were possible to keep secrets from the Core,” said <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>, “it would be folly to allow you free access to the councils of government. As it is …” She dropped her hands and sat up. I flipped to a new page.</p><p class=\"prose hyp-indent\" id=\"p-053\" data-block=\"p-053\">“As it is,” said <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>, “you have information I need. Is it true that you can read the mind of your counterpart, the first retrieval persona?”</p><p class=\"prose hyp-indent\" id=\"p-054\" data-block=\"p-054\">“No,” I said. It was difficult to capture the complicated interplay of line and muscle at the corners of her mouth. I sketched in my attempt to do so, moved on to the strong chin and shaded the area beneath the underlip.</p><p class=\"prose hyp-indent\" id=\"p-055\" data-block=\"p-055\">Hunt frowned and glanced at the CEO. M. <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> brought her fingertips together again. “Explain,” she said.</p><p class=\"prose hyp-indent\" id=\"p-056\" data-block=\"p-056\">I looked up from the drawing. “I dream,” I said. “The contents of the dream appear to correspond to the events occurring around the person carrying the implant of the previous <span class=\"word\" data-term=\"john-keats\" data-first=\"false\" data-local-first=\"true\">Keats</span> persona.”</p><p class=\"prose hyp-indent\" id=\"p-057\" data-block=\"p-057\">“A woman named <span class=\"word\" data-term=\"fanny-brawne\" data-first=\"false\" data-local-first=\"true\">Brawne</span> <span class=\"word\" data-term=\"lamia\" data-first=\"false\" data-local-first=\"true\">Lamia</span>,” said Leigh Hunt.</p><p class=\"prose hyp-indent\" id=\"p-058\" data-block=\"p-058\">“Yes.”</p><p class=\"prose hyp-indent\" id=\"p-059\" data-block=\"p-059\"><span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> nodded. “So the original <span class=\"word\" data-term=\"john-keats\" data-first=\"false\" data-local-first=\"false\">Keats</span> persona, the one thought killed on Lusus, is still alive?”</p><p class=\"prose hyp-indent\" id=\"p-060\" data-block=\"p-060\">I paused. “It … he … is still aware,” I said. “You know that the primary personality substrate was extracted from the Core, probably by the cybrid himself, and implanted in a Schrön-loop bio-shunt carried by M. <span class=\"word\" data-term=\"lamia\" data-first=\"false\" data-local-first=\"false\">Lamia</span>.”</p><p class=\"prose hyp-indent\" id=\"p-061\" data-block=\"p-061\">“Yes, yes,” said Leigh Hunt. “But the fact is, you are <em>in contact</em> with the <span class=\"word\" data-term=\"john-keats\" data-first=\"false\" data-local-first=\"false\">Keats</span> persona, and through him, with the <span class=\"word\" data-term=\"shrike\" data-first=\"false\" data-local-first=\"false\">Shrike</span> pilgrims.”</p><p class=\"prose hyp-indent\" id=\"p-062\" data-block=\"p-062\">Quick, dark strokes provided a dark background to give the sketch of <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> more depth. “I am not actually in contact,” I said. “I dream dreams about <span class=\"word\" data-term=\"hyperion\" data-first=\"false\" data-local-first=\"false\">Hyperion</span> that your fatline broadcasts have confirmed as conforming to real-time events. I cannot communicate to the passive <span class=\"word\" data-term=\"john-keats\" data-first=\"false\" data-local-first=\"false\">Keats</span> persona, nor to its host or the other pilgrims.”</p><p class=\"prose hyp-indent\" id=\"p-063\" data-block=\"p-063\">CEO <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> blinked. “How did you know about the fatline broadcasts?”</p><p class=\"prose hyp-indent\" id=\"p-064\" data-block=\"p-064\">“The Consul told the other pilgrims about his comlog’s ability to relay through the fatline transmitter in his ship. He told them just before they descended into the valley.”</p><p class=\"prose hyp-indent\" id=\"p-065\" data-block=\"p-065\"><span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>’s tone hinted of her years as a lawyer before entering politics. “And how did the others respond to the Consul’s revelation?”</p><p class=\"prose hyp-indent\" id=\"p-066\" data-block=\"p-066\">I put the pencil back in my pocket. “They knew that a spy was in their midst,” I said. “You told each of them.”</p><p class=\"prose hyp-indent\" id=\"p-067\" data-block=\"p-067\"><span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> glanced at her aide. Hunt’s expression was blank. “If you’re in touch with them,” she said, “you must know that we’ve received no message since before they left Keep <span class=\"word\" data-term=\"chronos\" data-first=\"false\" data-local-first=\"true\">Chronos</span> to descend to the Time Tombs.”</p><p class=\"prose hyp-indent\" id=\"p-068\" data-block=\"p-068\">I shook my head. “Last night’s dream ended just as they approached the valley.”</p><p class=\"prose hyp-indent\" id=\"p-069\" data-block=\"p-069\">Meina <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> rose, paced to the window, raised a hand, and the image went black. “So you don’t know if any of them are still alive?”</p><p class=\"prose hyp-indent\" id=\"p-070\" data-block=\"p-070\">“No.”</p><p class=\"prose hyp-indent\" id=\"p-071\" data-block=\"p-071\">“What was their status the last time you … dreamt?”</p><p class=\"prose hyp-indent\" id=\"p-072\" data-block=\"p-072\">Hunt was watching me as intensely as ever. Meina <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> was staring at the dark screen, her back to both of us. “All of the pilgrims were alive,” I said, “with the possible exception of Het Masteen, the True Voice of the Tree.”</p><p class=\"prose hyp-indent\" id=\"p-073\" data-block=\"p-073\">“He was dead?” asked Hunt.</p><p class=\"prose hyp-indent\" id=\"p-074\" data-block=\"p-074\">“He disappeared from the windwagon on the Sea of Grass two nights before, only hours after the Ouster scouts had destroyed the treeship <em><span class=\"word\" data-term=\"yggdrasill\" data-first=\"false\" data-local-first=\"true\">Yggdrasill</span></em>. But shortly before the pilgrims descended from Keep <span class=\"word\" data-term=\"chronos\" data-first=\"false\" data-local-first=\"false\">Chronos</span>, they saw a robed figure crossing the sands toward the Tombs.”</p><p class=\"prose hyp-indent\" id=\"p-075\" data-block=\"p-075\">“Het Masteen?” asked <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>.</p><p class=\"prose hyp-indent\" id=\"p-076\" data-block=\"p-076\">I lifted a hand. “They assumed so. They were not sure.”</p><p class=\"prose hyp-indent\" id=\"p-077\" data-block=\"p-077\">“Tell me about the others,” said the CEO.</p><p class=\"prose hyp-indent\" id=\"p-078\" data-block=\"p-078\">I took a breath. I knew from the dreams that <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> had known at least two of the people on the last <span class=\"word\" data-term=\"shrike\" data-first=\"false\" data-local-first=\"false\">Shrike</span> Pilgrimage; <span class=\"word\" data-term=\"fanny-brawne\" data-first=\"false\" data-local-first=\"false\">Brawne</span> <span class=\"word\" data-term=\"lamia\" data-first=\"false\" data-local-first=\"false\">Lamia</span>’s father had been a fellow senator, and the <span class=\"word\" data-term=\"hegemony\" data-first=\"false\" data-local-first=\"false\">Hegemony</span> Consul had been <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>’s personal representative in secret negotiations with the Ousters. “Father Hoyt is in great pain,” I said. “He told the story of the cruciform. The Consul learned that Hoyt also wears one … two actually, Father Duré’s and his own.”</p><p class=\"prose hyp-indent\" id=\"p-079\" data-block=\"p-079\"><span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> nodded. “So he still carries the resurrection parasite?”</p><p class=\"prose hyp-indent\" id=\"p-080\" data-block=\"p-080\">“Yes.”</p><p class=\"prose hyp-indent\" id=\"p-081\" data-block=\"p-081\">“Does it bother him more as he approaches the <span class=\"word\" data-term=\"shrike\" data-first=\"false\" data-local-first=\"false\">Shrike</span>’s lair?”</p><p class=\"prose hyp-indent\" id=\"p-082\" data-block=\"p-082\">“I believe so,” I said.</p><p class=\"prose hyp-indent\" id=\"p-083\" data-block=\"p-083\">“Go on.”</p><p class=\"prose hyp-indent\" id=\"p-084\" data-block=\"p-084\">“The poet, <span class=\"word\" data-term=\"silenus\" data-first=\"false\" data-local-first=\"true\">Silenus</span>, has been drunk much of the time. He is convinced that his unfinished poem predicted and determines the course of events.”</p><p class=\"prose hyp-indent\" id=\"p-085\" data-block=\"p-085\">“On <span class=\"word\" data-term=\"hyperion\" data-first=\"false\" data-local-first=\"false\">Hyperion</span>?” asked <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>, her back still turned.</p><p class=\"prose hyp-indent\" id=\"p-086\" data-block=\"p-086\">“Everywhere,” I said.</p><p class=\"prose hyp-indent\" id=\"p-087\" data-block=\"p-087\">Hunt glanced at the chief executive and then looked back at me. “Is <span class=\"word\" data-term=\"silenus\" data-first=\"false\" data-local-first=\"false\">Silenus</span> insane?”</p><p class=\"prose hyp-indent\" id=\"p-088\" data-block=\"p-088\">I returned his gaze but said nothing. In truth, I did not know.</p><p class=\"prose hyp-indent\" id=\"p-089\" data-block=\"p-089\">“Go on,” <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> said again.</p><p class=\"prose hyp-indent\" id=\"p-090\" data-block=\"p-090\">“Colonel Kassad continues with his twin obsessions of finding the woman named <span class=\"word\" data-term=\"moneta\" data-first=\"false\" data-local-first=\"true\">Moneta</span> and of killing the <span class=\"word\" data-term=\"shrike\" data-first=\"false\" data-local-first=\"false\">Shrike</span>. He is aware that they may be one and the same.”</p><p class=\"prose hyp-indent\" id=\"p-091\" data-block=\"p-091\">“Is he armed?” <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>’s voice was very soft.</p><p class=\"prose hyp-indent\" id=\"p-092\" data-block=\"p-092\">“Yes.”</p><p class=\"prose hyp-indent\" id=\"p-093\" data-block=\"p-093\">“Go on.”</p><p class=\"prose hyp-indent\" id=\"p-094\" data-block=\"p-094\">“Sol Weintraub, the scholar from Barnard’s World, hopes to enter the tomb called the Sphinx as soon as—”</p><p class=\"prose hyp-indent\" id=\"p-095\" data-block=\"p-095\">“Excuse me,” said <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>, “but is his daughter still with him?”</p><p class=\"prose hyp-indent\" id=\"p-096\" data-block=\"p-096\">“Yes.”</p><p class=\"prose hyp-indent\" id=\"p-097\" data-block=\"p-097\">“And how old is Rachel now?”</p><p class=\"prose hyp-indent\" id=\"p-098\" data-block=\"p-098\">“Five days, I believe.” I closed my eyes to remember the previous night’s dream in greater detail. “Yes,” I said, “five days.”</p><p class=\"prose hyp-indent\" id=\"p-099\" data-block=\"p-099\">“And still aging backward in time?”</p><p class=\"prose hyp-indent\" id=\"p-100\" data-block=\"p-100\">“Yes.”</p><p class=\"prose hyp-indent\" id=\"p-101\" data-block=\"p-101\">“Go on, M <span class=\"word\" data-term=\"joseph-severn\" data-first=\"false\" data-local-first=\"false\">Severn</span>. Please tell me about <span class=\"word\" data-term=\"fanny-brawne\" data-first=\"false\" data-local-first=\"false\">Brawne</span> <span class=\"word\" data-term=\"lamia\" data-first=\"false\" data-local-first=\"false\">Lamia</span> and the Consul.”</p><p class=\"prose hyp-indent\" id=\"p-102\" data-block=\"p-102\">“M. <span class=\"word\" data-term=\"lamia\" data-first=\"false\" data-local-first=\"false\">Lamia</span> is carrying out the wishes of her former client … and lover,” I said. “The <span class=\"word\" data-term=\"john-keats\" data-first=\"false\" data-local-first=\"false\">Keats</span> persona felt it was necessary for him to confront the <span class=\"word\" data-term=\"shrike\" data-first=\"false\" data-local-first=\"false\">Shrike</span>. M. <span class=\"word\" data-term=\"lamia\" data-first=\"false\" data-local-first=\"false\">Lamia</span> is doing it in his stead.”</p><p class=\"prose hyp-indent\" id=\"p-103\" data-block=\"p-103\">“M. <span class=\"word\" data-term=\"joseph-severn\" data-first=\"false\" data-local-first=\"false\">Severn</span>,” began Leigh Hunt, “you speak of ‘the <span class=\"word\" data-term=\"john-keats\" data-first=\"false\" data-local-first=\"false\">Keats</span> persona’ as if it had no relevance or connection to your own …”</p><p class=\"prose hyp-indent\" id=\"p-104\" data-block=\"p-104\">“Later, please, Leigh,” said Meina <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>. She turned to look at me. “I’m curious about the Consul. Did he take his turn at telling his reason for joining the pilgrimage?”</p><p class=\"prose hyp-indent\" id=\"p-105\" data-block=\"p-105\">“Yes,” I said.</p><p class=\"prose hyp-indent\" id=\"p-106\" data-block=\"p-106\"><span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> and Hunt waited.</p><p class=\"prose hyp-indent\" id=\"p-107\" data-block=\"p-107\">“The Consul told them about his grandmother,” I said. “The woman called Siri who started the <span class=\"word\" data-term=\"maui\" data-first=\"false\" data-local-first=\"true\">Maui</span>-Covenant rebellion more than half a century ago. He told them about the death of his own family during the battle for Bressia, and he revealed his secret meetings with the Ousters.”</p><p class=\"prose hyp-indent\" id=\"p-108\" data-block=\"p-108\">“Is that all?” asked <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>. Her brown eyes were very intense.</p><p class=\"prose hyp-indent\" id=\"p-109\" data-block=\"p-109\">“No,” I said. “The Consul told them that he had been the one to trigger an Ouster device which hastened the opening of the Time Tombs.”</p><p class=\"prose hyp-indent\" id=\"p-110\" data-block=\"p-110\">Hunt sat straight up, his leg dropping off the arm of the chair. <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> visibly took a breath. “Is that all?”</p><p class=\"prose hyp-indent\" id=\"p-111\" data-block=\"p-111\">“Yes.”</p><p class=\"prose hyp-indent\" id=\"p-112\" data-block=\"p-112\">“How did the others respond to his revelation of … betrayal?” she asked.</p><p class=\"prose hyp-indent\" id=\"p-113\" data-block=\"p-113\">I paused, tried to reconstruct the dream images in a more linear fashion than memory provided. “Some were outraged,” I said. “But none feels overwhelming loyalty to the <span class=\"word\" data-term=\"hegemony\" data-first=\"false\" data-local-first=\"false\">Hegemony</span> at this point. They decided to go on. I believe that each of the pilgrims feels that punishment will be dealt out by the <span class=\"word\" data-term=\"shrike\" data-first=\"false\" data-local-first=\"false\">Shrike</span>, not by human agency.”</p><p class=\"prose hyp-indent\" id=\"p-114\" data-block=\"p-114\">Hunt slammed his fist down on the arm of the chair. “If the Consul were here,” he snapped, “he’d fast discover otherwise.”</p><p class=\"prose hyp-indent\" id=\"p-115\" data-block=\"p-115\">“Quiet, Leigh.” <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> paced back to her desk, touched some papers there. All of the comm lights were glowing impatiently. I found myself amazed that she could spend such so much time talking to me at such an hour. “Thank you, M. <span class=\"word\" data-term=\"joseph-severn\" data-first=\"false\" data-local-first=\"false\">Severn</span>,” she said. “I want you to be with us for the next few days. Someone will show you to your suite in the residential wing of Government House.”</p><p class=\"prose hyp-indent\" id=\"p-116\" data-block=\"p-116\">I rose. “I’ll return to Esperance for my things,” I said.</p><p class=\"prose hyp-indent\" id=\"p-117\" data-block=\"p-117\">“No need,” said <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>. “They were brought here before you had stepped off the terminex platform. Leigh will show you out.”</p><p class=\"prose hyp-indent\" id=\"p-118\" data-block=\"p-118\">I nodded and followed the taller man toward the door.</p><p class=\"prose hyp-indent\" id=\"p-119\" data-block=\"p-119\">“Oh, M. <span class=\"word\" data-term=\"joseph-severn\" data-first=\"false\" data-local-first=\"false\">Severn</span> …” called Meina <span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span>.</p><p class=\"prose hyp-indent\" id=\"p-120\" data-block=\"p-120\">“Yes?”</p><p class=\"prose hyp-indent\" id=\"p-121\" data-block=\"p-121\">The CEO smiled. “I did appreciate your candor earlier,” she said. “But from this point on, let us assume you are a court artist and a court artist alone, <em>sans</em> opinions, <em>sans</em> visibility, <em>sans</em> mouth. Understood?”</p><p class=\"prose hyp-indent\" id=\"p-122\" data-block=\"p-122\">“Understood, M. Executive,” I said.</p><p class=\"prose hyp-indent\" id=\"p-123\" data-block=\"p-123\"><span class=\"word\" data-term=\"william-gladstone\" data-first=\"false\" data-local-first=\"false\">Gladstone</span> nodded, already turning her attention to the blinking phone lights. “Very good. Please bring your sketchbook to the meeting in the War Room at 0800 hours.”</p><p class=\"prose hyp-indent\" id=\"p-124\" data-block=\"p-124\">A security guard met us in the anteroom and started to lead me toward the maze of corridors and checkpoints. Hunt called out for him to stop and strode across the wide hall, his steps echoing on the tile. He touched my arm. “Make no mistake,” he said. “We know … <em>she</em> knows … who you are and what you are and whom you represent.”</p><p class=\"prose hyp-indent\" id=\"p-125\" data-block=\"p-125\">I met his gaze and calmly extracted my arm. “That’s good,” I said, “because at this point, I am quite sure that I do <em>not</em> know.”</p><div class=\"story-tailpiece\" aria-hidden=\"true\"><img src=\"../../assets/ornaments/the-fall-of-hyperion.svg\" alt=\"\" aria-hidden=\"true\" width=\"60\" height=\"52\" class=\"scene-ornament\" decoding=\"async\"></div>",
+  "number": 12,
+  "startWords": 170387,
+  "editorialVersion": 16
+}

@@ -106,6 +106,9 @@ mark{background:color-mix(in srgb,var(--ink) 9%,var(--paper));text-decoration-co
 .library article+article {margin-top:2.7rem}
 #contents-dialog .series-switch {margin:1rem 0 0;padding-top:.8rem;border-top:1px solid var(--line);display:flex;gap:1.3rem;flex-wrap:wrap}
 /* External SVG scene motifs have the same footprint as the inline New Sun ornaments. */
+.toc .toc-part{font-size:12px;color:var(--muted);margin:.9em 0 .4em}
+.toc .chapter-section{display:block;margin-left:42px;font-size:12px;line-height:1.4;padding-top:0}
+.toc .single-label{display:block}
 .chapter-body .scene-break>img {width:1.7em;height:1.7em;max-width:1.7em;object-fit:contain;flex:0 0 1.7em;display:block}
 [data-theme="dark"] .scene-break>img {filter:invert(1);opacity:.82}
 .chapter-body :is(.p-c-br,.p-c-blocktext,.p-c-br-blocktext,.center0,.center2,.center11,.author,.tit,.title,.logo_t){text-align-last:center}

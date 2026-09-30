@@ -118,5 +118,24 @@
       }
     ],
     "evidence": "story/p-002: nset, girl normal until yesterday, naturally quiet girl, no flapper, somewhat religious, “great reader,” knew few boys. Confirmed by father. Aunt says willfu"
+  },
+  {
+    "id": "dictaphone",
+    "term": "Dictaphone",
+    "aliases": [],
+    "short": "A brand of machines for recording spoken dictation.",
+    "note": "A brand of office recording machines used to capture speech for later transcription. Early Dictaphones recorded on wax cylinders.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://americanhistory.si.edu/collections/object/nmah_1436993",
+        "label": "Smithsonian · Model 10X Type A Dictaphone"
+      },
+      {
+        "url": "https://soundandscience.net/artefacts/dictaphone-dictation-machine/",
+        "label": "Humboldt-Universität zu Berlin · Dictaphone dictation machine"
+      }
+    ],
+    "evidence": "story/p-003: ion was directed toward them. Johnson, transcribe from Dictaphone."
   }
 ]

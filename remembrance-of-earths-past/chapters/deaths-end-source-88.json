@@ -1,0 +1,26 @@
+{
+  "id": "deaths-end-source-88",
+  "title": "Translator’s Postscript",
+  "volume": "deaths-end",
+  "volumeTitle": "Death’s End",
+  "kind": "reference",
+  "index": 127,
+  "number": 128,
+  "label": "—",
+  "layout": "prose",
+  "sections": [],
+  "blocks": [
+    "p-001",
+    "p-002",
+    "p-003",
+    "p-004",
+    "p-005"
+  ],
+  "noteAnchors": [],
+  "words": 388,
+  "startWords": 522571,
+  "html": "<p class=\"prose ep3-p5\" id=\"p-001\" data-block=\"p-001\">I’m indebted to the following beta readers for their invaluable help during the translation process: Anatoly Belilovsky, John Chu, Elías Combarro, Rachel Cordasco, Derwin Mak, Alex Shvartsman, and Igor Teper. All translators should be so lucky.</p><p class=\"prose ep3-p7\" id=\"p-002\" data-block=\"p-002\">I’m also thankful for special assistance from the following individuals: Wang Meizi, for advice on transliterated names; Anna Gustafsson Chen, for pointers on Scandinavian geography; and Emma Osborne, for tracking down books for me on the other side of the globe.</p><p class=\"prose ep3-p7\" id=\"p-003\" data-block=\"p-003\">My heartfelt gratitude goes to David Brin for championing the Three-Body series and acting as a wonderful sounding board for me.</p><p class=\"prose ep3-p7\" id=\"p-004\" data-block=\"p-004\">I continue to be awed by the genius of Liu Cixin every time I read another passage from this novel. Of the three books in the trilogy, this third one is my favorite. I’ve been very fortunate to get the chance to work on this book with Da Liu.</p><p class=\"prose ep3-p7\" id=\"p-005\" data-block=\"p-005\">Finally, I want to thank the many individuals who played indispensable (though often underappreciated) roles in the epic tale of bringing Three-Body to the English-speaking world: Li Yun and Song Yajuan at China Educational Publications Import &amp; Export Corporation Ltd., for seeing the potential of a global audience for the series and commissioning the translation; Joel Martinsen, who translated The Dark Forest and, by example, showed me how to handle some tricky parts in this book; Emily Jiang, Wang Meizi, and Chen Qiufan, for building the bridge that connected Tor Books to Liu Cixin; Joe Monti, for encouraging me to take on this project in the first place; and the many wonderful individuals at Tor Books who worked so hard to make the vision of these books a reality. Among them are: Irene Gallo, Stephan Martinière, and Jamie Stafford-Hill, for extraordinary art direction, artwork, and cover design; Leah Withers and Diana Griffin, for an outstanding publicity campaign; Joe Bendel for his sales and marketing insight; Kevin Sweeney, Heather Saunders, Nathan Weaver, Karl Gold, and Megan Kiddoo, from Tor’s production department; Christina MacDonald, who ensured that errors and bugs would not survive in the manuscript; Miriam Weinberg, for assisting with editorial matters; and most of all, Liz Gorinsky, who left an indelible mark on the text with her meticulous and insightful editorial touch, improving this translation in innumerable ways. I hope to continue to make beautiful books with them all in the future.</p>",
+  "sourceReader": "deaths-end",
+  "sourceChapter": "source-88",
+  "partTitle": ""
+}

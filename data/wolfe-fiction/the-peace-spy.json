@@ -31,5 +31,52 @@
       }
     ],
     "evidence": "story/p-007: itterly this time, before she bent in front of the steaming samovar in the corner. “Red for our country, black for death. We are so dramatic. Only I say red "
+  },
+  {
+    "id": "gulag",
+    "term": "gulag",
+    "aliases": [],
+    "short": "The Soviet system of forced-labor camps.",
+    "note": "The Soviet network of forced-labor camps. The name comes from the Russian abbreviation for the state directorate that administered the camps.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.loc.gov/exhibits/archives/intn.html",
+        "label": "Library of Congress · The Gulag"
+      }
+    ],
+    "evidence": "story/p-044: ey tried to stop us, but they could not send us to the gulag—to the camps. Our fathers were in the Politburo, and we said we would go to the Amer"
+  },
+  {
+    "id": "politburo",
+    "term": "Politburo",
+    "aliases": [],
+    "short": "A Communist party’s principal governing committee.",
+    "note": "The central policymaking and executive committee of a Communist party. The name abbreviates the Russian expression for “political bureau.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/politburo",
+        "label": "Merriam-Webster · politburo"
+      }
+    ],
+    "evidence": "story/p-044:  us to the gulag—to the camps. Our fathers were in the Politburo, and we said we would go to the American Embassy. Then they had to let us go, and th"
+  },
+  {
+    "id": "muzhik",
+    "term": "muzhik",
+    "aliases": [
+      "muzhiks"
+    ],
+    "short": "A Russian peasant.",
+    "note": "A Russian peasant; also spelled moujik or mujik. Muzhiks is the plural.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/muzhik",
+        "label": "Merriam-Webster · muzhik"
+      }
+    ],
+    "evidence": "story/p-080: e taste in clothes. Most of our women do not; they are muzhiks, peasants.”"
   }
 ]

@@ -58,5 +58,25 @@
       "paragraph": "p-013",
       "index": 0
     }
+  },
+  {
+    "id": "kodachrome",
+    "term": "Kodachrome",
+    "aliases": [],
+    "short": "Kodak color film known for its vivid palette.",
+    "note": "Kodak’s color photographic film, introduced in 1935 and especially associated with richly colored slides and home movies.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://siarchives.si.edu/blog/gone-not-forgotten",
+        "label": "Smithsonian Institution Archives · Kodachrome"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
   }
 ]

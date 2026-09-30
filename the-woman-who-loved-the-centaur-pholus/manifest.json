@@ -12,7 +12,7 @@
   ],
   "totalWords": 3110,
   "defaultChapter": "story",
-  "glossaryCount": 11,
+  "glossaryCount": 15,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -123,8 +123,16 @@
           "paragraph": "p-005"
         },
         {
+          "term": "amphitrite",
+          "paragraph": "p-007"
+        },
+        {
           "term": "darwin",
           "paragraph": "p-008"
+        },
+        {
+          "term": "odysseus",
+          "paragraph": "p-009"
         },
         {
           "term": "sombelen",
@@ -145,6 +153,14 @@
         {
           "term": "paean",
           "paragraph": "p-020"
+        },
+        {
+          "term": "anubis",
+          "paragraph": "p-070"
+        },
+        {
+          "term": "set",
+          "paragraph": "p-070"
         },
         {
           "term": "narashimha",

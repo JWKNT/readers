@@ -62,6 +62,7 @@ def main():
             if 'headingHtml' in c: chapter_ids[c['id']].add('chapter-title')
         integrity_path = ROOT / 'data' / 'earths-past' / (book.name + '-integrity.json')
         if not integrity_path.exists(): integrity_path = ROOT / 'data' / 'wolfe-fiction' / (book.name + '-integrity.json')
+        if not integrity_path.exists(): integrity_path = ROOT / 'data' / 'hyperion' / (book.name + '-integrity.json')
         integrity = {c['chapter']: c for c in json.loads(integrity_path.read_text())['chapters']} if integrity_path.exists() else {}
         running_words=0
         for chapter in manifest['chapters']:

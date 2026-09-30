@@ -133,19 +133,29 @@ def annotate(tree, entries, counts, first, ch):
     regex, lookup = matcher(entries)
     if regex is None: return []
     local, anchors = set(), []
+    def register(word, item, block):
+        tid=item['id'];fresh,here=counts[tid]==0,tid not in local
+        word.set('class','word');word.set('data-term',tid)
+        word.set('data-first',str(fresh).lower());word.set('data-local-first',str(here).lower())
+        counts[tid]+=1
+        if fresh:first[tid]={'chapter':ch['id'],'paragraph':block,'index':ch['index']}
+        if here:anchors.append({'term':tid,'paragraph':block});local.add(tid)
     def fragments(s, block):
         last, out = 0, []
         for m in regex.finditer(s):
             out.append(s[last:m.start()]); item = lookup[m[0].lower()]; tid = item['id']
-            fresh, here = counts[tid] == 0, tid not in local
-            word = ET.Element('span', {'class':'word', 'data-term':tid, 'data-first':str(fresh).lower(), 'data-local-first':str(here).lower()})
-            word.text = m[0]; out.append(word); counts[tid] += 1
-            if fresh: first[tid] = {'chapter':ch['id'], 'paragraph':block, 'index':ch['index']}
-            if here: anchors.append({'term':tid, 'paragraph':block}); local.add(tid)
+            word = ET.Element('span');word.text=m[0]
+            register(word,item,block);out.append(word)
             last = m.end()
         out.append(s[last:]); return out
     def walk(e, block=None):
         block = e.get('data-block', block)
+        if e.get('class')=='word' and e.get('data-term') and block:
+            # Annotation maintenance can retain a word around correction spans.
+            # Recount its complete visible spelling while preserving those spans.
+            value=txt(e);assert regex.fullmatch(value),('stale preserved annotation',value)
+            register(e,lookup[value.lower()],block)
+            return
         if e.tag in ('a','sup','script','style') or any(x in e.get('class','') for x in ('initial', 'source-note', 'source-address')): return
         children = list(e)
         if block and e.text:
@@ -332,3 +342,6 @@ if __name__=='__main__':
     library=json.loads((ROOT/'library.json').read_text());library=[b for b in library if b['id'] not in {s[0] for s in BOOKS}]+books;save(ROOT/'library.json',library)
     from editorial import apply
     apply({s[0] for s in BOOKS})
+    from series_readers import group_liu, library_page
+    group_liu()
+    library_page()

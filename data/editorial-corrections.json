@@ -3188,5 +3188,357 @@
     "reason": "Probable local OCR loss: the surrounding comparison and approving inclination of her head require a shy smile and her approval. Accepted under the owner’s instruction to repair malformed transcription.",
     "confidence": "probable",
     "id": "v14-8372cff91271"
+  },
+  {
+    "id": "v16-endangered-001",
+    "book": "war-beneath-the-tree",
+    "chapter": "story",
+    "paragraph": "p-001",
+    "before": "IT’S Christmas Eve, Commander Robin,“the Spaceman said.”You’d",
+    "after": "“IT’S Christmas Eve, Commander Robin,” the Spaceman said. “You’d",
+    "reason": "Missing opening quotation mark, reversed quotation marks around the speech attribution, and lost spaces. The supplied EPUB has the same errors; this restores the unambiguous speech/attribution boundary while retaining the capitalized initial."
+  },
+  {
+    "id": "v16-endangered-002",
+    "book": "our-neighbour-by-david-copperfield",
+    "chapter": "story",
+    "paragraph": "p-098",
+    "before": "“Mama?”Mama?”",
+    "after": "“Mama? Mama?”",
+    "reason": "A closing quotation mark has replaced the space between two calls within the same child's utterance. Retains both repetitions and both question marks. Same defect in supplied EPUB."
+  },
+  {
+    "id": "v16-endangered-003",
+    "book": "when-i-was-ming-the-merciless",
+    "chapter": "story",
+    "paragraph": "p-020",
+    "before": "recorder?”Well, all right.",
+    "after": "recorder? Well, all right.",
+    "reason": "Stray closing quote and lost space within one uninterrupted interview answer. The surrounding paragraphs are the same continuing speaker; restore the speech without inventing a speaker change.",
+    "confidence": "probable"
+  },
+  {
+    "id": "v16-hyperion-001",
+    "book": "hyperion",
+    "chapter": "hyperion-01",
+    "paragraph": "p-158",
+    "before": "Loyt",
+    "after": "Hoyt",
+    "reason": "Character name has a single transposed-source spelling; surrounding narrative consistently says Lenar Hoyt."
+  },
+  {
+    "id": "v16-hyperion-002",
+    "book": "hyperion",
+    "chapter": "hyperion-01",
+    "paragraph": "p-221",
+    "before": "Villefrahche-sur-Saône",
+    "after": "Villefranche-sur-Saône",
+    "reason": "French place name and repeated name of this source location use n, not h."
+  },
+  {
+    "id": "v16-hyperion-003",
+    "book": "hyperion",
+    "chapter": "hyperion-02",
+    "paragraph": "p-178",
+    "before": "Lowe",
+    "after": "Loewe",
+    "reason": "The composer partnered with lyricist Alan Jay Lerner is Frederick Loewe; verified Songwriters Hall of Fame."
+  },
+  {
+    "id": "v16-hyperion-004",
+    "book": "hyperion",
+    "chapter": "hyperion-02",
+    "paragraph": "p-213",
+    "before": "fleschette",
+    "after": "flechette",
+    "reason": "Misspelled English name for a small dart projectile."
+  },
+  {
+    "id": "v16-hyperion-005",
+    "book": "hyperion",
+    "chapter": "hyperion-03",
+    "paragraph": "p-019",
+    "before": "Weintruab",
+    "after": "Weintraub",
+    "reason": "Transposed letters in the established character surname."
+  },
+  {
+    "id": "v16-hyperion-006",
+    "book": "hyperion",
+    "chapter": "hyperion-03",
+    "paragraph": "p-048",
+    "before": "Ogalalla Sioux",
+    "after": "Oglala Sioux",
+    "reason": "The Oglala Lakota tribal name is misspelled; use established tribal spelling."
+  },
+  {
+    "id": "v16-hyperion-007",
+    "book": "hyperion",
+    "chapter": "hyperion-03",
+    "paragraph": "p-079",
+    "before": "labrynthine",
+    "after": "labyrinthine",
+    "reason": "Dropped i in the adjective labyrinthine."
+  },
+  {
+    "id": "v16-hyperion-008",
+    "book": "hyperion",
+    "chapter": "hyperion-03",
+    "paragraph": "p-083",
+    "before": "spermatazoa",
+    "after": "spermatozoa",
+    "reason": "Misspelled plural of spermatozoon."
+  },
+  {
+    "id": "v16-hyperion-009",
+    "book": "hyperion",
+    "chapter": "hyperion-04",
+    "paragraph": "p-096",
+    "before": "Muses mine",
+    "after": "Muses nine",
+    "reason": "Keats’s quoted poem reads Muses nine, referring to the nine Muses. Verified against the public-domain complete poetical works."
+  },
+  {
+    "id": "v16-hyperion-010",
+    "book": "hyperion",
+    "chapter": "hyperion-04",
+    "paragraph": "p-244",
+    "before": "sarcophogi",
+    "after": "sarcophagi",
+    "reason": "Misspelled plural of sarcophagus."
+  },
+  {
+    "id": "v16-hyperion-011",
+    "book": "hyperion",
+    "chapter": "hyperion-04",
+    "paragraph": "p-550",
+    "before": "first Few months",
+    "after": "first few months",
+    "reason": "Stray mid-sentence capital in ordinary prose."
+  },
+  {
+    "id": "v16-hyperion-012",
+    "book": "hyperion",
+    "chapter": "hyperion-04",
+    "paragraph": "p-641",
+    "before": "Issaac",
+    "after": "Isaac",
+    "reason": "Misspelling of the biblical name Isaac."
+  },
+  {
+    "id": "v16-hyperion-013",
+    "book": "hyperion",
+    "chapter": "hyperion-05",
+    "paragraph": "p-225",
+    "before": "dataumplane",
+    "after": "datumplane",
+    "reason": "One malformed instance of a repeatedly used fictional compound."
+  },
+  {
+    "id": "v16-hyperion-014",
+    "book": "hyperion",
+    "chapter": "hyperion-05",
+    "paragraph": "p-405",
+    "before": "Swarzschild",
+    "after": "Schwarzschild",
+    "reason": "Physicist Karl Schwarzschild’s name is misspelled."
+  },
+  {
+    "id": "v16-hyperion-015",
+    "book": "hyperion",
+    "chapter": "hyperion-06",
+    "paragraph": "p-456",
+    "before": "Swarzschild",
+    "after": "Schwarzschild",
+    "reason": "Misspelling in the scientific term Schwarzschild radius."
+  },
+  {
+    "id": "v16-fall-001",
+    "book": "hyperion",
+    "chapter": "fall-02",
+    "paragraph": "p-002",
+    "before": "piping at seems and cuffs",
+    "after": "piping at seams and cuffs",
+    "reason": "The suit trim is located at garment seams; wrong homophone."
+  },
+  {
+    "id": "v16-fall-002",
+    "book": "hyperion",
+    "chapter": "fall-11",
+    "paragraph": "p-074",
+    "before": "so abtruse as",
+    "after": "so abstruse as",
+    "reason": "Missing s in abstruse."
+  },
+  {
+    "id": "v16-fall-003",
+    "book": "hyperion",
+    "chapter": "fall-45",
+    "paragraph": "p-002",
+    "before": "Brawn Lamia",
+    "after": "Brawne Lamia",
+    "reason": "Character given name consistently appears as Brawne throughout the source."
+  },
+  {
+    "id": "v16-fall-004",
+    "book": "hyperion",
+    "chapter": "fall-45",
+    "paragraph": "p-002",
+    "before": "more analagous to an ecology",
+    "after": "more analogous to an ecology",
+    "reason": "Misspelling of analogous."
+  },
+  {
+    "id": "v16-fall-005",
+    "book": "hyperion",
+    "chapter": "fall-34",
+    "paragraph": "p-117",
+    "before": "annointed me",
+    "after": "anointed me",
+    "reason": "Doubled n in anointed."
+  },
+  {
+    "id": "v16-fall-006",
+    "book": "hyperion",
+    "chapter": "fall-29",
+    "paragraph": "p-035",
+    "before": "an archaelogical dig",
+    "after": "an archaeological dig",
+    "reason": "Missing o in archaeological."
+  },
+  {
+    "id": "v16-fall-007",
+    "book": "hyperion",
+    "chapter": "fall-36",
+    "paragraph": "p-025",
+    "before": "the archiac diskey panel",
+    "after": "the archaic diskey panel",
+    "reason": "Transposed vowels in archaic."
+  },
+  {
+    "id": "v16-fall-008",
+    "book": "hyperion",
+    "chapter": "fall-34",
+    "paragraph": "p-152",
+    "before": "each artifical generation",
+    "after": "each artificial generation",
+    "reason": "Missing i in artificial."
+  },
+  {
+    "id": "v16-fall-009",
+    "book": "hyperion",
+    "chapter": "fall-12",
+    "paragraph": "p-002",
+    "before": "state of belligerancy",
+    "after": "state of belligerency",
+    "reason": "Misspelling of belligerency."
+  },
+  {
+    "id": "v16-fall-010",
+    "book": "hyperion",
+    "chapter": "fall-39",
+    "paragraph": "p-152",
+    "before": "Tertiary radation burns",
+    "after": "Tertiary radiation burns",
+    "reason": "Missing i in radiation."
+  },
+  {
+    "id": "v16-fall-011",
+    "book": "hyperion",
+    "chapter": "fall-37",
+    "paragraph": "p-210",
+    "before": "the last requirment",
+    "after": "the last requirement",
+    "reason": "Missing e in requirement."
+  },
+  {
+    "id": "v16-fall-012",
+    "book": "hyperion",
+    "chapter": "fall-27",
+    "paragraph": "p-006",
+    "before": "stilleto thinness",
+    "after": "stiletto thinness",
+    "reason": "Misspelling of stiletto."
+  },
+  {
+    "id": "v16-fall-013",
+    "book": "hyperion",
+    "chapter": "fall-07",
+    "paragraph": "p-017",
+    "before": "An interesting strategem",
+    "after": "An interesting stratagem",
+    "reason": "Misspelling of stratagem."
+  },
+  {
+    "id": "v16-fall-014",
+    "book": "hyperion",
+    "chapter": "fall-34",
+    "paragraph": "p-105",
+    "before": "before Aquinus",
+    "after": "before Aquinas",
+    "reason": "The context explicitly discusses the Christian Trinity and its theological history: Thomas Aquinas is the identifiable referent."
+  },
+  {
+    "id": "v16-fall-015",
+    "book": "hyperion",
+    "chapter": "fall-19",
+    "paragraph": "p-031",
+    "before": "Poets’ Ampitheatre",
+    "after": "Poets’ Amphitheatre",
+    "reason": "Missing h in amphitheatre."
+  },
+  {
+    "id": "v16-fall-016",
+    "book": "hyperion",
+    "chapter": "fall-42",
+    "paragraph": "p-085",
+    "before": "spermatazoa",
+    "after": "spermatozoa",
+    "reason": "Misspelling of spermatozoa."
+  },
+  {
+    "id": "v16-fall-017",
+    "book": "hyperion",
+    "chapter": "fall-32",
+    "paragraph": "p-173",
+    "before": "And thou be consciencc-calm’d—sec here it is—",
+    "after": "And thou be conscience-calm’d—see here it is—",
+    "reason": "Two e/c OCR substitutions in Keats’s This living hand; verified against https://www.poetryfoundation.org/poems/50375/this-living-hand-now-warm-and-capable and https://johnkeats.uvic.ca/1819-10-21.html. Keep the source contracted calm’d."
+  },
+  {
+    "id": "v16-fall-018",
+    "book": "hyperion",
+    "chapter": "fall-24",
+    "paragraph": "p-001",
+    "before": "President Pro Tern Denzel-Hiat-Amin",
+    "after": "President Pro Tem Denzel-Hiat-Amin",
+    "reason": "Classic rn/m OCR substitution in the title pro tem."
+  },
+  {
+    "id": "v16-fall-019",
+    "book": "hyperion",
+    "chapter": "fall-42",
+    "paragraph": "p-195",
+    "before": "President Pro Tern Denzel-Hiat-Amin",
+    "after": "President Pro Tem Denzel-Hiat-Amin",
+    "reason": "Classic rn/m OCR substitution in the title pro tem."
+  },
+  {
+    "id": "v16-fall-020",
+    "book": "hyperion",
+    "chapter": "fall-33",
+    "paragraph": "p-014",
+    "before": "protective containment held bubble",
+    "after": "protective containment field bubble",
+    "reason": "OCR substitution fi→h; containment fields are consistently the protective technology in surrounding text."
+  },
+  {
+    "id": "v16-fall-021",
+    "book": "hyperion",
+    "chapter": "fall-24",
+    "paragraph": "p-001",
+    "before": "Roan-quist from Nordholm",
+    "after": "Roanquist from Nordholm",
+    "reason": "Apparent retained line-end hyphen; the same Nordholm senator is Roanquist in chapter 37."
   }
 ]

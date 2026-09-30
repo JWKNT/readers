@@ -93,9 +93,14 @@ def restore(source):
 
 
 def repair(source, entry):
+    def visible_initial_quote(value):
+        # An inserted opening quote must sit beside the ornamental initial,
+        # rather than inside its visually hidden accessible letter.
+        return re.sub(r'(<span class="initial"[^>]*><span class="initial-letter">)(<span class="text-fix"[^>]*data-original=""[^>]*>[“‘]</span>)',
+                      lambda m:m[2].replace('class="text-fix"','class="text-fix opening-quote"')+m[1],value)
     marker = 'data-correction="'+entry['id']+'"'
     if marker in source:
-        return source
+        return visible_initial_quote(source)
     runs = [r for r in Runs(source).runs if r[3] == entry['paragraph']]
     current = ''.join(r[2] for r in runs)
     before, after = entry['before'], entry['after']
@@ -135,6 +140,7 @@ def repair(source, entry):
     result = source
     for start,end,replacement in sorted(patches, reverse=True):
         result = result[:start]+replacement+result[end:]
+    result = visible_initial_quote(result)
     expected = current.replace(before,after,1)
     assert ''.join(r[2] for r in Runs(result).runs if r[3]==entry['paragraph']) == expected, entry['id']
     assert text(restore(result)) == text(restore(source)), (entry['id'],'source recovery')
@@ -170,8 +176,13 @@ def apply(books=None):
     library = json.loads((ROOT/'library.json').read_text())
     for book, chapters in grouped.items():
         folder=ROOT/book;manifest=json.loads((folder/'manifest.json').read_text())
+        edition=max(15,manifest.get('editionVersion',15))
+        for rows in chapters.values():
+            for entry in rows:
+                revision=re.match(r'v(\d+)-',entry['id'])
+                if revision:edition=max(edition,int(revision[1]))
         search=json.loads((folder/'search.json').read_text()); search_by_id={s['id']:s for s in search}
-        integrity_path=next((ROOT/'data'/family/(book+'-integrity.json') for family in ('wolfe-fiction','earths-past') if (ROOT/'data'/family/(book+'-integrity.json')).exists()),None)
+        integrity_path=next((ROOT/'data'/family/(book+'-integrity.json') for family in ('wolfe-fiction','earths-past','hyperion') if (ROOT/'data'/family/(book+'-integrity.json')).exists()),None)
         integrity=json.loads(integrity_path.read_text()) if integrity_path else None
         total=0
         for chapter in manifest['chapters']:
@@ -188,10 +199,14 @@ def apply(books=None):
                 # tokenization convention, which unrelated paragraphs retain.
                 words=lambda s:len(re.findall(r"\b[\w’'-]+\b",text(s)))
                 data['words']=old_words+words(data['html'])-words(before_html)
-                data['editorialVersion']=15
+                data['editorialVersion']=edition
                 paragraph_text=defaultdict(str)
                 for _,_,value,pid in Runs(data['html']).runs:
                     if pid:paragraph_text[pid]+=value
+                if book=='hyperion':
+                    from rebuild_annotations import Fragment
+                    from series_readers import searchable
+                    paragraph_text={e.get('data-block'):searchable(e) for e in Fragment(data['html']).root.iter() if e.get('data-block')}
                 for p in search_by_id[data['id']]['paragraphs']:
                     if p['id'] in paragraph_text:p['text']=' '.join(paragraph_text[p['id']].split())
                 if integrity:
@@ -206,11 +221,11 @@ def apply(books=None):
             chapter['words']=data['words'];chapter['startWords']=total
             if data['kind']!='reference':total+=data['words']
             save(path,data)
-        manifest['totalWords']=total;manifest['editionVersion']=15
+        manifest['totalWords']=total;manifest['editionVersion']=edition
         count=sum(len(rows) for rows in chapters.values())
         manifest['editorialCorrectionCount']=count
         index=folder/'index.html'
-        index.write_text(re.sub(r'\?v=\d+', '?v=15', index.read_text()))
+        index.write_text(re.sub(r'\?v=\d+', f'?v={edition}', index.read_text()))
         save(folder/'manifest.json',manifest);save(folder/'search.json',search)
         if integrity:
             integrity['editorialCorrections']=[e for rows in chapters.values() for e in rows]

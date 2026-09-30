@@ -233,5 +233,85 @@
       "paragraph": "p-018",
       "index": 0
     }
+  },
+  {
+    "id": "amphitrite",
+    "term": "Amphitrite",
+    "aliases": [],
+    "short": "The Greek sea goddess and wife of Poseidon.",
+    "note": "A sea goddess in Greek mythology, wife of Poseidon and mother of Triton. Ancient poetry also uses her name for the sea itself.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Pontios/Amphitrite.html",
+        "label": "Theoi · Amphitrite, classical source passages"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-007",
+      "index": 0
+    }
+  },
+  {
+    "id": "odysseus",
+    "term": "Odysseus",
+    "aliases": [],
+    "short": "The Greek hero who passes the Sirens with wax and bonds.",
+    "note": "The hero of Homer’s Odyssey. In Book 12 he plugs his companions’ ears with wax against the Sirens’ song, while they bind him to the mast so he can listen without following the singers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Text/HomerOdyssey12.html",
+        "label": "Homer · Odyssey, Book 12"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-009",
+      "index": 0
+    }
+  },
+  {
+    "id": "anubis",
+    "term": "Anubis",
+    "aliases": [],
+    "short": "The jackal-headed Egyptian god of mummification.",
+    "note": "An ancient Egyptian god associated with mummification and funerary rites, represented as a canid or a human with a jackal’s head.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/544075",
+        "label": "Metropolitan Museum · Statue of Anubis"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-070",
+      "index": 0
+    }
+  },
+  {
+    "id": "set",
+    "term": "Set",
+    "aliases": [],
+    "short": "Seth, the Egyptian deity and brother of Osiris.",
+    "note": "An ancient Egyptian deity, also called Seth, often represented with the head of a composite animal. In the Osiris myth he kills and dismembers his brother Osiris.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/exhibitions/divine-egypt/inside-the-exhibition",
+        "label": "Metropolitan Museum · Divine Egypt"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-070",
+      "index": 0
+    }
   }
 ]

@@ -1,0 +1,25 @@
+/* The publisher's prose, verse, diary and typographic voices in Readers' frame. */
+.chapter-body .hyp-extract,.chapter-body .hyp-extract0,.chapter-body .hyp-extract1{margin-top:1.6em}
+.chapter-body .hyp-extract0{margin-bottom:.45em}
+.chapter-body .hyp-block,.chapter-body .hyp-block0,.chapter-body .hyp-block1{margin:1.1em 1.4em}
+.chapter-body [class*="hyp-bl_"]{text-align:left;text-align-last:left;text-indent:0;line-height:1.5}
+.chapter-body .hyp-bl_indent{padding-left:1em}
+.chapter-body .hyp-bl_nonindent1{padding-left:.6em}
+.chapter-body .hyp-bl_hanging0{text-indent:-1.1em;padding-left:1.1em}
+.chapter-body .hyp-bl_center,.chapter-body .hyp-center{text-align:center;text-align-last:center;text-indent:0}
+.chapter-body .hyp-center{margin-block:1em}
+.chapter-body .hyp-preface1{font-size:.94em;line-height:1.6;margin-inline:1.1em}
+.chapter-body .hyp-preface1 p{text-align:left;text-indent:0}
+.chapter-body .hyp-preface1 .hyp-right{text-align:right;text-align-last:right;margin:.5em 0 2em;font-size:.9em}
+.chapter-body h2.hyp-section{font-size:1.04em;line-height:1.5;margin-block:2.3em 1.8em}
+.chapter-body .small-caps{font-variant:small-caps;font-size:.85em}
+.chapter-body .hyp-frac{font-size:.7em;line-height:0}
+.chapter-body img.hyperion-glyph{display:inline-block;width:auto;height:.9em;max-width:none;vertical-align:baseline;mix-blend-mode:multiply}
+.chapter-body img.hyperion-punctuation{height:.68em;margin-inline:.08em}
+[data-theme="dark"] .chapter-body img.hyperion-glyph{filter:invert(1);mix-blend-mode:screen}
+.source-divider-text{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:pre}
+.story-tailpiece{clear:both;text-align:center;margin:2.2em auto 1em}
+.story-tailpiece img{display:inline-block;width:2.5em;height:2.2em!important;object-fit:contain}
+[data-theme="dark"] .story-tailpiece img{filter:invert(1);opacity:.82}
+@media(max-width:600px){.chapter-body .hyp-block,.chapter-body .hyp-block0,.chapter-body .hyp-block1{margin-inline:.55em}}
+@media print{.chapter-body img.hyperion-glyph,.story-tailpiece img{filter:none!important}}

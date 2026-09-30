@@ -49,11 +49,13 @@ class Fragment(HTMLParser):
         self.stack[-1].append(ET.Comment(data))
 
 
-def unannotate(parent):
+def unannotate(parent, preserve=None):
     for child in list(parent):
-        unannotate(child)
+        unannotate(child, preserve)
         if child.tag == 'span' and child.get('data-term') is not None:
             assert child.get('class') == 'word'
+            if preserve and any(e.get('data-original') is not None for e in child.iter()) and preserve.fullmatch(common.txt(child)):
+                continue
             index = list(parent).index(child)
             # Editorial repairs can sit inside a word. Unwrap only the
             # annotation, retaining every correction/formatting node and tail.
@@ -91,8 +93,12 @@ def build(slug):
     paths = [ROOT / 'data' / group / (slug + '.json')
              for group in ('earths-past', 'wolfe-fiction')]
     data_path = next((path for path in paths if path.exists()), None)
-    assert data_path is not None, ('unsupported reader', slug)
-    entries = json.loads(data_path.read_text())
+    if slug == 'hyperion':
+        from import_hyperion import merged_entries
+        entries, _ = merged_entries()
+    else:
+        assert data_path is not None, ('unsupported reader', slug)
+        entries = json.loads(data_path.read_text())
     assert len({e['id'] for e in entries}) == len(entries), 'duplicate note IDs'
     manifest = json.loads((dest / 'manifest.json').read_text())
     counts, first, documents, chapters, headings = Counter(), {}, {}, {}, {}
@@ -104,7 +110,8 @@ def build(slug):
             continue  # Original notes and afterwords remain byte-identical.
         tree = Fragment(chapter['html']).root
         before = common.txt(tree)
-        unannotate(tree)
+        regex,_=common.matcher(entries)
+        unannotate(tree,preserve=regex)
         if 'headingHtml' in chapter:
             heading = ET.Element('h1', {'data-block': 'chapter-title'})
             heading.text = chapter['title']
@@ -137,7 +144,7 @@ def build(slug):
     common.save(dest / 'manifest.json', manifest)
     common.save(dest / 'glossary.json', glossary)
     initial = manifest['defaultChapter']
-    if initial in documents:
+    if initial in documents and 'data-series=' not in (dest / 'index.html').read_text():
         markup = chapters[initial]['html'].replace('src="../../assets/', 'src="../assets/').replace('src="../images/', 'src="images/')
         markup = re.sub(r'href="(section-\d+|source-\d+)\.html', r'href="chapters/\1.html', markup)
         path = dest / 'index.html'
@@ -157,14 +164,20 @@ def main():
     args = parser.parse_args()
     library_path = ROOT / 'library.json'
     library = json.loads(library_path.read_text())
-    allowed = {book['id'] for book in library if not book['id'].startswith('book-of-the-')}
+    from series_readers import LIU_BOOKS, LIU_ID, group_liu, library_page
+    allowed = {book['id'] for book in library if not book['id'].startswith('book-of-the-')} | set(LIU_BOOKS)
     targets = set(args.readers) if args.readers else allowed
     assert targets <= allowed, ('unsupported readers', targets - allowed)
-    for book in library:
-        if book['id'] in targets:
-            book['glossaryCount'] = build(book['id'])
-            print(book['id'], book['glossaryCount'], 'notes')
+    if LIU_ID in targets: targets.update(LIU_BOOKS)
+    for slug in sorted(targets - {LIU_ID}):
+        count = build(slug)
+        for book in library:
+            if book['id'] == slug: book['glossaryCount'] = count
+        print(slug, count, 'notes')
     common.save(library_path, library)
+    if targets & set(LIU_BOOKS):
+        group_liu()
+        library_page()
 
 
 if __name__ == '__main__':

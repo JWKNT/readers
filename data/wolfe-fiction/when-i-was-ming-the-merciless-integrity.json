@@ -14,7 +14,7 @@
         "OEBPS/e9781429966214_c14.html"
       ],
       "sourceTextSha256": "09745d17228fea4dcc338f19271f6b12647dd0bbe75ba53ed24f6ca24ab708b1",
-      "textSha256": "8978928ea09251dee1b7de5c274e8fb3bb3de1f10d68c965c74034c92019d3c5",
+      "textSha256": "41ece09507a020c1d9d8c3f30e89498c74f237abd60e2a1b66cfbd3723e31ca4",
       "blocks": 35,
       "preEditorialTextSha256": "09745d17228fea4dcc338f19271f6b12647dd0bbe75ba53ed24f6ca24ab708b1"
     }
@@ -31,6 +31,16 @@
       "after": "much—do",
       "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
       "id": "v14-25943c9abaa0"
+    },
+    {
+      "id": "v16-endangered-003",
+      "book": "when-i-was-ming-the-merciless",
+      "chapter": "story",
+      "paragraph": "p-020",
+      "before": "recorder?”Well, all right.",
+      "after": "recorder? Well, all right.",
+      "reason": "Stray closing quote and lost space within one uninterrupted interview answer. The surrounding paragraphs are the same continuing speaker; restore the speech without inventing a speaker change.",
+      "confidence": "probable"
     }
   ]
 }

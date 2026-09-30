@@ -1,0 +1,22 @@
+{
+  "id": "fall-dedication",
+  "title": "Dedication",
+  "label": "",
+  "volume": "fall",
+  "volumeTitle": "The Fall of Hyperion",
+  "partTitle": "",
+  "kind": "reference",
+  "index": 56,
+  "layout": "prose",
+  "blocks": [
+    "p-001"
+  ],
+  "sections": [],
+  "words": 7,
+  "unnumberedToc": true,
+  "navigationSections": [],
+  "noteAnchors": [],
+  "html": "<div class=\"hyp-dedication\">\n<p class=\"prose hyp-center\" id=\"p-001\" data-block=\"p-001\">To John Keats<br>Whose Name Was Writ<br>in Eternity</p>\n</div>",
+  "number": 57,
+  "startWords": 352735
+}
