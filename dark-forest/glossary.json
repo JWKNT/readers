@@ -1218,5 +1218,25 @@
       "paragraph": "p-607",
       "index": 1
     }
+  },
+  {
+    "id": "firmament",
+    "term": "firmament",
+    "aliases": [],
+    "short": "The sky imagined as a great overarching vault.",
+    "note": "A literary word for the heavens or apparent arch of the sky.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/firmament",
+        "label": "Merriam-Webster: firmament"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-05",
+      "paragraph": "p-037",
+      "index": 0
+    }
   }
 ]

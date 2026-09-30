@@ -12,7 +12,7 @@
   ],
   "totalWords": 2270,
   "defaultChapter": "story",
-  "glossaryCount": 5,
+  "glossaryCount": 6,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -75,6 +75,10 @@
         {
           "term": "maya",
           "paragraph": "p-001"
+        },
+        {
+          "term": "tole",
+          "paragraph": "p-004"
         },
         {
           "term": "hogarth",

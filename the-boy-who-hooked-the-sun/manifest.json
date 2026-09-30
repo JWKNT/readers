@@ -18,7 +18,7 @@
   ],
   "totalWords": 1130,
   "defaultChapter": "story",
-  "glossaryCount": 4,
+  "glossaryCount": 5,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -72,6 +72,10 @@
         {
           "term": "tchataka",
           "paragraph": "p-010"
+        },
+        {
+          "term": "sardonyxes",
+          "paragraph": "p-011"
         }
       ],
       "words": 1130,

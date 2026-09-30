@@ -524,5 +524,85 @@
       "paragraph": "p-019",
       "index": 0
     }
+  },
+  {
+    "id": "specula",
+    "term": "specula",
+    "aliases": [],
+    "short": "Mirrors or polished reflectors.",
+    "note": "Plural of speculum: a mirror or reflector, especially one made of polished metal.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/speculum",
+        "label": "Dictionary.com · speculum"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-012",
+      "index": 0
+    }
+  },
+  {
+    "id": "pochette",
+    "term": "pochette",
+    "aliases": [],
+    "short": "A small pocket violin.",
+    "note": "A miniature bowed instrument used by dancing masters, small enough to carry in a coat pocket while demonstrating steps.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/505412",
+        "label": "The Metropolitan Museum of Art · Pochette"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-014",
+      "index": 0
+    }
+  },
+  {
+    "id": "peri",
+    "term": "peri",
+    "aliases": [],
+    "short": "A beautiful fairy of Persian tradition.",
+    "note": "In Persian folklore, a beautiful supernatural being; in later tradition, a benevolent fairy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.yourdictionary.com/peri",
+        "label": "American Heritage Dictionary · peri"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-006",
+      "index": 0
+    }
+  },
+  {
+    "id": "choralcelo",
+    "term": "choralcelo",
+    "aliases": [],
+    "short": "A keyboard instrument with electromagnetically sustained tones.",
+    "note": "An early twentieth-century instrument developed by Melvin Severy and George Sinclair. Timed electromagnetic pulses kept its strings vibrating, allowing piano-like attacks or sustained tones.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://patents.google.com/patent/US1183244A/en",
+        "label": "Severy and Sinclair · Choralcelo expression-control patent"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-022",
+      "index": 0
+    }
   }
 ]

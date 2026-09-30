@@ -73,5 +73,20 @@
       }
     ],
     "evidence": "c05: rass inkstand with its devil face, desk, chair, books, walls, my bronze bust of Hogarth, had become unreal as the angel faces seen in clouds. The truth is otherwise: what I felt was no feeling, but certainty. I knew that I had "
+  },
+  {
+    "id": "tole",
+    "term": "tole",
+    "aliases": [],
+    "short": "Painted or lacquered metalware.",
+    "note": "Decoratively painted, enameled, or lacquered sheet-metal ware, often associated with eighteenth-century household objects.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordwebonline.com/en/TOLE",
+        "label": "WordWeb · tole"
+      }
+    ],
+    "evidence": "story/p-004: to say that I had the feeling then that the room around me, tole box, pencil, the brass inkstand with its devil face, desk, chair, books, walls, my bronze"
   }
 ]

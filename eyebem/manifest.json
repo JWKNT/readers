@@ -12,7 +12,7 @@
   ],
   "totalWords": 4225,
   "defaultChapter": "story",
-  "glossaryCount": 4,
+  "glossaryCount": 5,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -102,6 +102,10 @@
         {
           "term": "ceedeesy",
           "paragraph": "p-002"
+        },
+        {
+          "term": "hysteresis",
+          "paragraph": "p-005"
         },
         {
           "term": "control-data-corporation",

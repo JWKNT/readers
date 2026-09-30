@@ -103,5 +103,50 @@
       }
     ],
     "evidence": "urtle and a hedgehog that turned into armadillos for the love of God, Montresor. Nicholas said, “Why didn’t he stay here?” “Did I tell you about the bird, Nicholas?” Sh"
+  },
+  {
+    "id": "ululant",
+    "term": "ululant",
+    "aliases": [],
+    "short": "Howling or wailing.",
+    "note": "Describes a prolonged, wavering cry or howl.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ululant",
+        "label": "Merriam-Webster: ululant"
+      }
+    ],
+    "evidence": "story/p-014: His screaming was high-pitched, and each breath ended in a gibbering, ululant note, after which came the hollow, iron gasp of the next indrawn breath. On one occasion he had scr"
+  },
+  {
+    "id": "tutelary",
+    "term": "tutelary",
+    "aliases": [],
+    "short": "Serving as a guardian.",
+    "note": "Protecting or watching over a person or place; especially used of a guardian spirit or deity.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tutelary",
+        "label": "Merriam-Webster: tutelary"
+      }
+    ],
+    "evidence": "story/p-035: “I am all those things and more. I am the spirit of this island, the tutelary genius.”"
+  },
+  {
+    "id": "stridulations",
+    "term": "stridulations",
+    "aliases": [],
+    "short": "Insect sounds made by rubbing body parts.",
+    "note": "Chirping or scraping sounds produced when an insect rubs specialized parts of its body together.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/stridulation",
+        "label": "Merriam-Webster: stridulations"
+      }
+    ],
+    "evidence": "story/p-406: From a decaying log, insect stridulations called, “Wait.”"
   }
 ]

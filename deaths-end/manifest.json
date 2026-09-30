@@ -55,7 +55,7 @@
   ],
   "totalWords": 221631,
   "defaultChapter": "section-07",
-  "glossaryCount": 76,
+  "glossaryCount": 80,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -1248,7 +1248,12 @@
         "p-115",
         "p-116"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "geiger-counter",
+          "paragraph": "p-006"
+        }
+      ],
       "words": 4018,
       "startWords": 29200
     },
@@ -2207,6 +2212,10 @@
         {
           "term": "lagrangian-point",
           "paragraph": "p-004"
+        },
+        {
+          "term": "firmament",
+          "paragraph": "p-033"
         },
         {
           "term": "einstein",
@@ -4643,6 +4652,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "firmament",
+          "paragraph": "p-041"
+        },
+        {
           "term": "moskstraumen",
           "paragraph": "p-046"
         },
@@ -5266,6 +5279,10 @@
         {
           "term": "tokamak",
           "paragraph": "p-042"
+        },
+        {
+          "term": "bandolier",
+          "paragraph": "p-061"
         },
         {
           "term": "moskstraumen",
@@ -6113,6 +6130,10 @@
         {
           "term": "nuclear-fusion",
           "paragraph": "p-161"
+        },
+        {
+          "term": "doppler-effect",
+          "paragraph": "p-210"
         }
       ],
       "words": 11346,

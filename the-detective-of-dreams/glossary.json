@@ -80,5 +80,65 @@
       "paragraph": "p-023",
       "index": 0
     }
+  },
+  {
+    "id": "bordels",
+    "term": "bordels",
+    "aliases": [],
+    "short": "Brothels; an archaic term.",
+    "note": "An old word for houses of prostitution, related to the French bordel.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bordel",
+        "label": "Merriam-Webster: bordels"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-001",
+      "index": 0
+    }
+  },
+  {
+    "id": "descant",
+    "term": "descant",
+    "aliases": [],
+    "short": "A high melody above another tune.",
+    "note": "A counter-melody sung above a main melody.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/descant",
+        "label": "Merriam-Webster: descant"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-022",
+      "index": 0
+    }
+  },
+  {
+    "id": "plainsong",
+    "term": "plainsong",
+    "aliases": [],
+    "short": "Unison Christian liturgical chant.",
+    "note": "Church chant consisting of a single melodic line in free rhythm.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/plainsong",
+        "label": "Merriam-Webster: plainsong"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-022",
+      "index": 0
+    }
   }
 ]

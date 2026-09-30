@@ -90,5 +90,23 @@
       }
     ],
     "evidence": "r wasp at all—a bluebottle, no doubt gorged with carrion. Bev said, “Kingsport, Massachusetts.” With an ivory hand, Edgar moved an ivory chessman. “Knight to the king’"
+  },
+  {
+    "id": "hansom",
+    "term": "hansom",
+    "aliases": [
+      "hansom cabs",
+      "hansom cab"
+    ],
+    "short": "A two-wheeled covered carriage.",
+    "note": "A horse-drawn cab whose driver sits high behind the enclosed passenger compartment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hansom",
+        "label": "Merriam-Webster: hansom"
+      }
+    ],
+    "evidence": "story/p-059: ) clouds, filthy with coal smoke, that hung over the city. Wagons and hansom cabs rattled by. There was a public house at the corner of Brick Lane. He turned and went in."
   }
 ]

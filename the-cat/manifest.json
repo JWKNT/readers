@@ -12,7 +12,7 @@
   ],
   "totalWords": 2651,
   "defaultChapter": "story",
-  "glossaryCount": 24,
+  "glossaryCount": 28,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -96,6 +96,10 @@
           "paragraph": "p-005"
         },
         {
+          "term": "peri",
+          "paragraph": "p-006"
+        },
+        {
           "term": "exultant",
           "paragraph": "p-008"
         },
@@ -114,6 +118,14 @@
         {
           "term": "alouatte",
           "paragraph": "p-011"
+        },
+        {
+          "term": "specula",
+          "paragraph": "p-012"
+        },
+        {
+          "term": "pochette",
+          "paragraph": "p-014"
         },
         {
           "term": "lomer",
@@ -149,6 +161,10 @@
         },
         {
           "term": "armiger",
+          "paragraph": "p-022"
+        },
+        {
+          "term": "choralcelo",
           "paragraph": "p-022"
         },
         {

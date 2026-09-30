@@ -120,5 +120,28 @@
       "paragraph": "p-036",
       "index": 0
     }
+  },
+  {
+    "id": "hansom",
+    "term": "hansom",
+    "aliases": [
+      "hansom cabs",
+      "hansom cab"
+    ],
+    "short": "A two-wheeled covered carriage.",
+    "note": "A horse-drawn cab whose driver sits high behind the enclosed passenger compartment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hansom",
+        "label": "Merriam-Webster: hansom"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-059",
+      "index": 0
+    }
   }
 ]

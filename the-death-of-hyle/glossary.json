@@ -98,5 +98,25 @@
       "paragraph": "p-004",
       "index": 0
     }
+  },
+  {
+    "id": "tole",
+    "term": "tole",
+    "aliases": [],
+    "short": "Painted or lacquered metalware.",
+    "note": "Decoratively painted, enameled, or lacquered sheet-metal ware, often associated with eighteenth-century household objects.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordwebonline.com/en/TOLE",
+        "label": "WordWeb · tole"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
   }
 ]

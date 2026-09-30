@@ -58,5 +58,20 @@
       }
     ],
     "evidence": "c18: when you are young you think you will live forever. I remember very clearly old Ceedeesy describing this interior looped tape all of us contain. (I think setting my pack transformer ratio so low has called all these memories for"
+  },
+  {
+    "id": "hysteresis",
+    "term": "hysteresis",
+    "aliases": [],
+    "short": "A response that lags and retains its past.",
+    "note": "The dependence of a physical system on its previous states, often apparent as a lag in its response. Magnetic materials can retain magnetization after the applied field changes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://sethna.lassp.cornell.edu/hysteresis/WhatIsHysteresis.html",
+        "label": "Cornell University · What’s Hysteresis?"
+      }
+    ],
+    "evidence": "story/p-005: then the little pause as he searched—the pause that told of hysteresis gathering on his aging mind like cobwebs. “A hundred and twenty-three times, Eyebem. That"
   }
 ]

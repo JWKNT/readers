@@ -404,5 +404,65 @@
       }
     ],
     "evidence": "c16: being the name the autochthons of the south employ for one who has traffic with diakka, casts spells, and the like. Till that time, no thought of the impalpable cat said to accompany this old woman had crossed my mind; but the"
+  },
+  {
+    "id": "specula",
+    "term": "specula",
+    "aliases": [],
+    "short": "Mirrors or polished reflectors.",
+    "note": "Plural of speculum: a mirror or reflector, especially one made of polished metal.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/speculum",
+        "label": "Dictionary.com · speculum"
+      }
+    ],
+    "evidence": "story/p-012: at last that marvelous circle of specula by whose power a living being may be coalesced from the ethereal waves"
+  },
+  {
+    "id": "pochette",
+    "term": "pochette",
+    "aliases": [],
+    "short": "A small pocket violin.",
+    "note": "A miniature bowed instrument used by dancing masters, small enough to carry in a coat pocket while demonstrating steps.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/505412",
+        "label": "The Metropolitan Museum of Art · Pochette"
+      }
+    ],
+    "evidence": "story/p-014: me fey thing. When she and some friend sat alone at play, a pochette was knocked from a table and broken, or so it was said. On another occasion, a young man "
+  },
+  {
+    "id": "peri",
+    "term": "peri",
+    "aliases": [],
+    "short": "A beautiful fairy of Persian tradition.",
+    "note": "In Persian folklore, a beautiful supernatural being; in later tradition, a benevolent fairy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.yourdictionary.com/peri",
+        "label": "American Heritage Dictionary · peri"
+      }
+    ],
+    "evidence": "story/p-006: said) an extraordinarily charming child, with the face of a peri and eyes that were always laughing, darker than most exulted children but so tall that sh"
+  },
+  {
+    "id": "choralcelo",
+    "term": "choralcelo",
+    "aliases": [],
+    "short": "A keyboard instrument with electromagnetically sustained tones.",
+    "note": "An early twentieth-century instrument developed by Melvin Severy and George Sinclair. Timed electromagnetic pulses kept its strings vibrating, allowing piano-like attacks or sustained tones.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://patents.google.com/patent/US1183244A/en",
+        "label": "Severy and Sinclair · Choralcelo expression-control patent"
+      }
+    ],
+    "evidence": "story/p-022: at persisted—it being said to walk upon the keyboard of the choralcelo—but there are many rumors in our hypogeum, and they were not the strangest."
   }
 ]

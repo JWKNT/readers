@@ -78,5 +78,25 @@
       "paragraph": "p-010",
       "index": 0
     }
+  },
+  {
+    "id": "sardonyxes",
+    "term": "sardonyxes",
+    "aliases": [],
+    "short": "Layered onyx gemstones.",
+    "note": "Onyx with parallel layers of sard, a reddish-brown form of chalcedony.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sardonyx",
+        "label": "Merriam-Webster: sardonyxes"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-011",
+      "index": 0
+    }
   }
 ]

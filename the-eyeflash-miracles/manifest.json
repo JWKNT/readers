@@ -18,7 +18,7 @@
   ],
   "totalWords": 23757,
   "defaultChapter": "story",
-  "glossaryCount": 17,
+  "glossaryCount": 18,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -888,6 +888,10 @@
       "headingNoteAnchors": [],
       "headingHtml": "The Eyeflash Miracles",
       "noteAnchors": [
+        {
+          "term": "pawl",
+          "paragraph": "p-248"
+        },
         {
           "term": "deva",
           "paragraph": "p-376"

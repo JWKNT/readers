@@ -80,6 +80,14 @@ can be made in assets/reader.css. Preserve chapter/paragraph IDs when editing te
 Documented corrections retain their original strings in `data-original` attributes;
 adding `?wording=source` before a chapter hash displays that wording.
 
+To maintain annotations in the non-Solar-Cycle readers, edit the corresponding
+JSON in `data/earths-past/` or `data/wolfe-fiction/`, then run
+`python3 tools/rebuild_annotations.py reader-id` (omit the ID to rebuild all 64).
+This annotations-only rebuild uses the committed chapter text, requires no EPUB,
+and leaves original notes, supplementary sections, and source metadata untouched.
+Verify with `python3 tools/validate.py --baseline <previous-commit>` and
+`python3 -m unittest discover -s tools -p "test_rebuild_annotations.py"`.
+
 ## Hosting
 
 For a repository served at `/readers/`, put the contents of this directory in its

@@ -37,7 +37,7 @@
   ],
   "totalWords": 186717,
   "defaultChapter": "section-05",
-  "glossaryCount": 59,
+  "glossaryCount": 60,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -177,7 +177,12 @@
         "p-122",
         "p-123"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "firmament",
+          "paragraph": "p-037"
+        }
+      ],
       "words": 3976,
       "startWords": 0
     },

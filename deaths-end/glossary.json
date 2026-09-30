@@ -1567,5 +1567,89 @@
       "paragraph": "p-003",
       "index": 1
     }
+  },
+  {
+    "id": "bandolier",
+    "term": "bandolier",
+    "aliases": [
+      "bandoliers"
+    ],
+    "short": "A shoulder belt for carrying ammunition.",
+    "note": "A belt worn diagonally across the chest, with loops or pouches for cartridges or other equipment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bandolier",
+        "label": "Merriam-Webster: bandolier"
+      }
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "section-75",
+      "paragraph": "p-061",
+      "index": 64
+    }
+  },
+  {
+    "id": "geiger-counter",
+    "term": "Geiger counter",
+    "aliases": [
+      "Geiger counters"
+    ],
+    "short": "An instrument for detecting ionizing radiation.",
+    "note": "A detector in which radiation ionizes gas inside a tube, producing electrical pulses that can be counted and displayed or heard.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Geiger%20counter",
+        "label": "Merriam-Webster: Geiger counter"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-19",
+      "paragraph": "p-006",
+      "index": 11
+    }
+  },
+  {
+    "id": "doppler-effect",
+    "term": "Doppler effect",
+    "aliases": [],
+    "short": "A frequency shift caused by relative motion.",
+    "note": "The change in observed frequency when a wave source and observer move relative to one another. Approaching light shifts toward blue; receding light shifts toward red.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Doppler%20effect",
+        "label": "Merriam-Webster: Doppler effect"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-81",
+      "paragraph": "p-210",
+      "index": 69
+    }
+  },
+  {
+    "id": "firmament",
+    "term": "firmament",
+    "aliases": [],
+    "short": "The sky imagined as a great overarching vault.",
+    "note": "A literary word for the heavens or apparent arch of the sky.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/firmament",
+        "label": "Merriam-Webster: firmament"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-36",
+      "paragraph": "p-033",
+      "index": 27
+    }
   }
 ]

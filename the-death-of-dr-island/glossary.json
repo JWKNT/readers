@@ -138,5 +138,65 @@
       "paragraph": "p-661",
       "index": 0
     }
+  },
+  {
+    "id": "ululant",
+    "term": "ululant",
+    "aliases": [],
+    "short": "Howling or wailing.",
+    "note": "Describes a prolonged, wavering cry or howl.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ululant",
+        "label": "Merriam-Webster: ululant"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-014",
+      "index": 0
+    }
+  },
+  {
+    "id": "tutelary",
+    "term": "tutelary",
+    "aliases": [],
+    "short": "Serving as a guardian.",
+    "note": "Protecting or watching over a person or place; especially used of a guardian spirit or deity.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tutelary",
+        "label": "Merriam-Webster: tutelary"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-035",
+      "index": 0
+    }
+  },
+  {
+    "id": "stridulations",
+    "term": "stridulations",
+    "aliases": [],
+    "short": "Insect sounds made by rubbing body parts.",
+    "note": "Chirping or scraping sounds produced when an insect rubs specialized parts of its body together.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/stridulation",
+        "label": "Merriam-Webster: stridulations"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-406",
+      "index": 0
+    }
   }
 ]

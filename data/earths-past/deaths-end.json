@@ -1111,5 +1111,117 @@
         "label": "Collins English Dictionary: bombard"
       }
     ]
+  },
+  {
+    "id": "bandolier",
+    "term": "bandolier",
+    "aliases": [
+      "bandoliers"
+    ],
+    "short": "A shoulder belt for carrying ammunition.",
+    "note": "A belt worn diagonally across the chest, with loops or pouches for cartridges or other equipment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bandolier",
+        "label": "Merriam-Webster: bandolier"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-75",
+        "paragraph": "p-061",
+        "context": "carried confirmed this: Everyone wore two crossed bandoliers filled with glistening yellow cartridges."
+      },
+      {
+        "chapter": "section-75",
+        "paragraph": "p-063",
+        "context": "soldier and pulled one of the cartridges from his bandolier. “As I said, the cartridges are basically of ancient design, but the bullets are new"
+      },
+      {
+        "chapter": "section-75",
+        "paragraph": "p-065",
+        "context": "ty in a brilliant flash. She looked at the golden bandoliers hanging over the chests of every soldier: These were the chains of the god of Death."
+      }
+    ],
+    "occurrences": 6
+  },
+  {
+    "id": "geiger-counter",
+    "term": "Geiger counter",
+    "aliases": [
+      "Geiger counters"
+    ],
+    "short": "An instrument for detecting ionizing radiation.",
+    "note": "A detector in which radiation ionizes gas inside a tube, producing electrical pulses that can be counted and displayed or heard.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Geiger%20counter",
+        "label": "Merriam-Webster: Geiger counter"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-19",
+        "paragraph": "p-006",
+        "context": "g Xin swept Vadimov’s office and apartment with a Geiger counter, but discovered nothing unusual. She saw the picture of Vadimov’s family he kept und"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "doppler-effect",
+    "term": "Doppler effect",
+    "aliases": [],
+    "short": "A frequency shift caused by relative motion.",
+    "note": "The change in observed frequency when a wave source and observer move relative to one another. Approaching light shifts toward blue; receding light shifts toward red.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Doppler%20effect",
+        "label": "Merriam-Webster: Doppler effect"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-81",
+        "paragraph": "p-210",
+        "context": "The Doppler effect of Halo’s speed was now visible. The light from the stars ahead shifted to bluish, w"
+      },
+      {
+        "chapter": "section-81",
+        "paragraph": "p-212",
+        "context": "rom the direction of the Solar System. Due to the Doppler effect, the brief bursts of voices sounded strange, like singing."
+      }
+    ],
+    "occurrences": 2
+  },
+  {
+    "id": "firmament",
+    "term": "firmament",
+    "aliases": [],
+    "short": "The sky imagined as a great overarching vault.",
+    "note": "A literary word for the heavens or apparent arch of the sky.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/firmament",
+        "label": "Merriam-Webster: firmament"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-36",
+        "paragraph": "p-033",
+        "context": "rmed a dark, swirling vortex that blotted out the firmament, and giant pterodactyls could be seen among them from time to time...."
+      },
+      {
+        "chapter": "section-67",
+        "paragraph": "p-041",
+        "context": " turned east and disappeared in the depths of the firmament. New white lines continuously shot up from the ground and extended into air, each li"
+      }
+    ],
+    "occurrences": 2
   }
 ]

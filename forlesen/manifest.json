@@ -18,7 +18,7 @@
   ],
   "totalWords": 18724,
   "defaultChapter": "story",
-  "glossaryCount": 1,
+  "glossaryCount": 4,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -599,8 +599,20 @@
       "headingHtml": "Forlesen",
       "noteAnchors": [
         {
+          "term": "keypunch",
+          "paragraph": "p-231"
+        },
+        {
           "term": "typhoid-mary",
           "paragraph": "p-297"
+        },
+        {
+          "term": "oakum",
+          "paragraph": "p-321"
+        },
+        {
+          "term": "cruet",
+          "paragraph": "p-446"
         }
       ],
       "words": 18724,

@@ -78,5 +78,25 @@
       "paragraph": "p-002",
       "index": 0
     }
+  },
+  {
+    "id": "hysteresis",
+    "term": "hysteresis",
+    "aliases": [],
+    "short": "A response that lags and retains its past.",
+    "note": "The dependence of a physical system on its previous states, often apparent as a lag in its response. Magnetic materials can retain magnetization after the applied field changes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://sethna.lassp.cornell.edu/hysteresis/WhatIsHysteresis.html",
+        "label": "Cornell University · What’s Hysteresis?"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
   }
 ]

@@ -18,7 +18,7 @@
   ],
   "totalWords": 1848,
   "defaultChapter": "story",
-  "glossaryCount": 6,
+  "glossaryCount": 7,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -161,6 +161,10 @@
         {
           "term": "falchion",
           "paragraph": "p-042"
+        },
+        {
+          "term": "hansom",
+          "paragraph": "p-059"
         }
       ],
       "words": 1848,
