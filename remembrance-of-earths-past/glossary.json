@@ -2696,6 +2696,26 @@
     }
   },
   {
+    "id": "three-body-problem-qipao",
+    "term": "qipao",
+    "aliases": [],
+    "short": "A Chinese dress with a high collar and side slits.",
+    "note": "A Chinese dress, also called a cheongsam in Cantonese, characterized by a high collar, openings at the sides of the skirt, and decorative fastenings at the collar and lapel. Its modern form became popular in Shanghai in the late 1920s.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.roots.gov.sg/Collection-Landing/listing/1473682",
+        "label": "Peranakan Museum · Qipao"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "three-body-problem-section-06",
+      "paragraph": "p-032",
+      "index": 0
+    }
+  },
+  {
     "id": "dark-forest-qin-shi-huang",
     "term": "Qin Shi Huang",
     "aliases": [],
@@ -4895,6 +4915,30 @@
       "chapter": "dark-forest-section-13",
       "paragraph": "p-038",
       "index": 43
+    }
+  },
+  {
+    "id": "dark-forest-geta",
+    "term": "geta",
+    "aliases": [],
+    "short": "Traditional Japanese wooden clogs or raised sandals.",
+    "note": "Japanese footwear with a wooden base held to the foot by a thong between the toes. Many forms stand on two raised wooden supports, which make a characteristic clacking sound while walking.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://jpsearch.go.jp/en/gallery/ndl-GZqzDNvVK0a",
+        "label": "Japan Search · Japanese Wooden Clogs"
+      },
+      {
+        "url": "https://ditsong.org.za/en/traditional-japanese-footwear-geta/",
+        "label": "DITSONG Museums · Traditional Japanese Footwear"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "dark-forest-section-08",
+      "paragraph": "p-1062",
+      "index": 41
     }
   },
   {

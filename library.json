@@ -30,8 +30,8 @@
         "chapters": 51
       }
     ],
-    "glossaryCount": 969,
-    "totalWords": 510474
+    "glossaryCount": 974,
+    "totalWords": 510515
   },
   {
     "id": "book-of-the-long-sun",
@@ -59,8 +59,8 @@
         "chapters": 16
       }
     ],
-    "glossaryCount": 519,
-    "totalWords": 462158
+    "glossaryCount": 520,
+    "totalWords": 462159
   },
   {
     "id": "book-of-the-short-sun",
@@ -83,7 +83,7 @@
         "chapters": 20
       }
     ],
-    "glossaryCount": 466,
+    "glossaryCount": 467,
     "totalWords": 401941
   },
   {
@@ -808,7 +808,7 @@
         "chapters": 1
       }
     ],
-    "glossaryCount": 41,
+    "glossaryCount": 42,
     "totalWords": 5027,
     "kind": "story"
   },
@@ -1412,7 +1412,7 @@
         "referenceTitle": "Supplementary material"
       }
     ],
-    "glossaryCount": 356,
+    "glossaryCount": 358,
     "totalWords": 522571,
     "kind": "series"
   },
@@ -1434,7 +1434,7 @@
         "referenceTitle": "Dedication"
       }
     ],
-    "glossaryCount": 513,
+    "glossaryCount": 515,
     "totalWords": 352735,
     "kind": "series"
   }

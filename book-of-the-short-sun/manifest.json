@@ -14893,6 +14893,10 @@
           "paragraph": "p-067"
         },
         {
+          "term": "mate-drink",
+          "paragraph": "p-089"
+        },
+        {
           "term": "aureate",
           "paragraph": "p-106"
         },
@@ -23765,8 +23769,8 @@
   ],
   "totalWords": 401941,
   "defaultChapter": "blue-prelude",
-  "glossaryCount": 466,
+  "glossaryCount": 467,
   "correctionCount": 16,
-  "editionVersion": 18,
-  "editorialCorrectionCount": 106
+  "editionVersion": 19,
+  "editorialCorrectionCount": 108
 }

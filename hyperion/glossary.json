@@ -1414,7 +1414,17 @@
         "label": "Genesis 22"
       }
     ],
-    "occurrences": 41,
+    "excludeMatches": [
+      {
+        "chapter": "fall-02",
+        "paragraph": "p-002",
+        "text": "Abraham",
+        "count": 2,
+        "context": "compared to the classical figure of Abraham Lincoln",
+        "reason": "Both occurrences name Abraham Lincoln, not the biblical patriarch."
+      }
+    ],
+    "occurrences": 39,
     "first": {
       "chapter": "hyperion-01",
       "paragraph": "p-596",
@@ -1606,9 +1616,7 @@
   {
     "id": "francis-bacon",
     "term": "Francis Bacon",
-    "aliases": [
-      "Bacon"
-    ],
+    "aliases": [],
     "short": "English philosopher of experimental inquiry, 1561–1626.",
     "note": "Bacon’s Novum Organum examines obstacles to reliable knowledge. Its “idols of the marketplace” are errors fostered by words and ordinary habits of speech.",
     "possible": false,
@@ -1618,7 +1626,7 @@
         "label": "Francis Bacon: Novum Organum"
       }
     ],
-    "occurrences": 2,
+    "occurrences": 1,
     "first": {
       "chapter": "hyperion-03",
       "paragraph": "p-025",
@@ -5894,6 +5902,46 @@
     }
   },
   {
+    "id": "syrette",
+    "term": "syrette",
+    "aliases": [],
+    "short": "A small ready-filled injection tube.",
+    "note": "A small tube containing a dose of medicine and fitted with an injection needle. Morphine syrettes were issued in military first-aid kits during the Second World War.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://museum.dea.gov/museum-collection/collection-spotlight/artifact/morphine-syrette",
+        "label": "DEA Museum · Morphine Syrette"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "hyperion-01",
+      "paragraph": "p-760",
+      "index": 1
+    }
+  },
+  {
+    "id": "thermite",
+    "term": "thermite",
+    "aliases": [],
+    "short": "A metal mixture that reacts with intense heat.",
+    "note": "A mixture of a metal oxide and powdered metal that reacts at very high temperature, producing molten metal and slag. It is used as an intense heat source.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nist.gov/glossary-term/40896",
+        "label": "NIST · Thermite"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "hyperion-06",
+      "paragraph": "p-456",
+      "index": 6
+    }
+  },
+  {
     "id": "ummon",
     "term": "Ummon",
     "aliases": [],
@@ -7559,10 +7607,18 @@
     "aliases": [
       "Piano Concerto No. 2 in C Minor"
     ],
-    "short": "Rachmaninoff and his Second Piano Concerto.",
-    "note": "Russian composer and pianist, 1873–1943. His Piano Concerto No. 2 in C minor, Op. 18, completed in 1901, is known for expansive melodies and the dialogue between virtuoso piano and orchestra.",
+    "short": "Sergei Rachmaninoff, Russian composer and pianist.",
+    "note": "Russian composer and pianist (1873–1943). His works include the Prelude in C-sharp minor, Op. 3, No. 2 (1892), and Piano Concerto No. 2 in C minor, Op. 18 (1901).",
     "possible": false,
     "sources": [
+      {
+        "url": "https://www.laphil.com/people/sergei-rachmaninoff",
+        "label": "Los Angeles Philharmonic: Sergei Rachmaninoff"
+      },
+      {
+        "url": "https://data.carnegiehall.org/works/22436/about",
+        "label": "Carnegie Hall: Prelude in C-sharp Minor"
+      },
       {
         "url": "https://www.laphil.com/works/piano-concerto-no-2-in-c-minor-op-18",
         "label": "Los Angeles Philharmonic: Piano Concerto No. 2"
@@ -8212,7 +8268,9 @@
     "term": "fléchette",
     "aliases": [
       "fléchettes",
-      "Fléchettes"
+      "Fléchettes",
+      "flechette",
+      "flechettes"
     ],
     "short": "A small dart-shaped metal projectile.",
     "note": "From French for little arrow. Flechettes are finned metal darts used as projectiles or dispersed from certain shells; the word describes their arrow-like shape.",
@@ -8223,11 +8281,11 @@
         "label": "Collins English Dictionary: fléchette"
       }
     ],
-    "occurrences": 15,
+    "occurrences": 18,
     "first": {
-      "chapter": "fall-03",
-      "paragraph": "p-080",
-      "index": 12
+      "chapter": "hyperion-02",
+      "paragraph": "p-213",
+      "index": 2
     }
   },
   {
@@ -8661,7 +8719,17 @@
         "label": "Merriam-Webster: bark"
       }
     ],
-    "occurrences": 2,
+    "excludeMatches": [
+      {
+        "chapter": "fall-36",
+        "paragraph": "p-064",
+        "text": "barks",
+        "count": 1,
+        "context": "he barks.",
+        "reason": "This is the verb for abrupt speech, not sailing vessels."
+      }
+    ],
+    "occurrences": 1,
     "first": {
       "chapter": "fall-01",
       "paragraph": "p-011",

@@ -658,5 +658,20 @@
       }
     ],
     "evidence": "story/p-070: behind, appeared to betray a faint radiance, as though hecatonchires roved the gloomy corridors and deserted rooms, their thousand fingers smeared with n"
+  },
+  {
+    "id": "mate-drink",
+    "term": "maté",
+    "aliases": [],
+    "short": "A South American drink brewed from yerba-mate leaves.",
+    "note": "A tea-like drink made from the dried leaves of the South American holly Ilex paraguariensis, also known as yerba mate or Paraguay tea.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ahdictionary.com/word/search.html?id=M5156300",
+        "label": "American Heritage Dictionary · maté"
+      }
+    ],
+    "evidence": "story/p-090: Eata came on deck carrying bread, dried meat, and steaming maté. “You owe me another asimi,” Eata said."
   }
 ]

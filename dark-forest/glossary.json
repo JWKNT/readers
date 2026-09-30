@@ -2200,5 +2200,29 @@
       "paragraph": "p-038",
       "index": 3
     }
+  },
+  {
+    "id": "geta",
+    "term": "geta",
+    "aliases": [],
+    "short": "Traditional Japanese wooden clogs or raised sandals.",
+    "note": "Japanese footwear with a wooden base held to the foot by a thong between the toes. Many forms stand on two raised wooden supports, which make a characteristic clacking sound while walking.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://jpsearch.go.jp/en/gallery/ndl-GZqzDNvVK0a",
+        "label": "Japan Search · Japanese Wooden Clogs"
+      },
+      {
+        "url": "https://ditsong.org.za/en/traditional-japanese-footwear-geta/",
+        "label": "DITSONG Museums · Traditional Japanese Footwear"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-1062",
+      "index": 1
+    }
   }
 ]

@@ -37,7 +37,7 @@
   ],
   "totalWords": 186717,
   "defaultChapter": "section-05",
-  "glossaryCount": 107,
+  "glossaryCount": 108,
   "correctionCount": 0,
   "editionVersion": 18,
   "chapters": [
@@ -2039,6 +2039,10 @@
         {
           "term": "enrico-fermi",
           "paragraph": "p-1036"
+        },
+        {
+          "term": "geta",
+          "paragraph": "p-1062"
         },
         {
           "term": "chiran-peace-museum",

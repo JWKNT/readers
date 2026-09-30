@@ -12,7 +12,7 @@
   ],
   "totalWords": 5027,
   "defaultChapter": "story",
-  "glossaryCount": 41,
+  "glossaryCount": 42,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -318,6 +318,10 @@
         {
           "term": "panicles",
           "paragraph": "p-086"
+        },
+        {
+          "term": "mate-drink",
+          "paragraph": "p-090"
         },
         {
           "term": "capstan",

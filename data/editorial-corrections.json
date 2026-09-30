@@ -5880,5 +5880,755 @@
     "reason": "Missing opening double quote when Orchid resumes speaking after the narrative sentence about her smile. Her speech continues through the closing quote after what I did.",
     "confidence": "high",
     "id": "v18-85fea0108778"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-024",
+    "before": "their game “Then",
+    "after": "their game- “Then",
+    "reason": "Restore interrupted thought delimiter attested by publisher before the next speaker; retain local single-hyphen dash representation. Do not split or renumber the existing paragraph.",
+    "confidence": "high",
+    "id": "v19-source-001"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-025",
+    "before": "he understood that",
+    "after": "he understood that.",
+    "reason": "Publisher confirms terminal sentence stop absent at the end of the paragraph.",
+    "confidence": "high",
+    "id": "v19-source-002"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-028",
+    "before": "he had hung it Sun",
+    "after": "he had hung it. Sun",
+    "reason": "Publisher confirms a lost full stop between complete sentences.",
+    "confidence": "high",
+    "id": "v19-source-003"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-028",
+    "before": "blazing hot Regretfully",
+    "after": "blazing hot. Regretfully",
+    "reason": "Publisher confirms a lost full stop between complete sentences.",
+    "confidence": "high",
+    "id": "v19-source-004"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-037",
+    "before": "Marble first \"We",
+    "after": "Marble first. \"We",
+    "reason": "Publisher confirms a lost sentence stop before direct speech.",
+    "confidence": "high",
+    "id": "v19-source-005"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-059",
+    "before": "better educated than most",
+    "after": "better educated than most.",
+    "reason": "Publisher confirms terminal sentence stop absent at the end of the paragraph.",
+    "confidence": "high",
+    "id": "v19-source-006"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-080",
+    "before": "by supplying it\"",
+    "after": "by supplying it.\"",
+    "reason": "Publisher confirms a lost terminal full stop inside the speech.",
+    "confidence": "high",
+    "id": "v19-source-007"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-096",
+    "before": "be ringed fingers reluctant to pan",
+    "after": "beringed fingers reluctant to part",
+    "reason": "Publisher independently confirms the fused adjective and the verb; spaces and rn/rt-style OCR confusion otherwise create nonsensical syntax.",
+    "confidence": "high",
+    "id": "v19-source-008"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-099",
+    "before": "enlightenment isn't I don't",
+    "after": "enlightenment isn't. I don't",
+    "reason": "Publisher confirms the missing full stop between complete sentences.",
+    "confidence": "high",
+    "id": "v19-source-009"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-113",
+    "before": "he slipped them into his pocket",
+    "after": "he slipped them into his pocket.",
+    "reason": "Publisher confirms terminal sentence stop absent at the end of the paragraph.",
+    "confidence": "high",
+    "id": "v19-source-010"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-119",
+    "before": "you tell it I've",
+    "after": "you tell it. I've",
+    "reason": "Publisher confirms a lost full stop between complete sentences.",
+    "confidence": "high",
+    "id": "v19-source-011"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-145",
+    "before": "its palaestra\" Silk concluded",
+    "after": "its palaestra,\" Silk concluded",
+    "reason": "Publisher confirms the missing attribution comma in direct speech.",
+    "confidence": "high",
+    "id": "v19-source-012"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-145",
+    "before": "billowing dust Half",
+    "after": "billowing dust. Half",
+    "reason": "Publisher confirms a lost full stop between complete sentences.",
+    "confidence": "high",
+    "id": "v19-source-013"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-149",
+    "before": "people in it Without",
+    "after": "people in it. Without",
+    "reason": "Publisher confirms a lost full stop between complete sentences.",
+    "confidence": "high",
+    "id": "v19-source-014"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-149",
+    "before": "from someone eke",
+    "after": "from someone else",
+    "reason": "Publisher confirms the ordinary pronoun phrase; the current eke is a familiar letter-shape OCR corruption, not a contextual word.",
+    "confidence": "high",
+    "id": "v19-source-015"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-152",
+    "before": "well-toed man",
+    "after": "well-bred man",
+    "reason": "Publisher confirms bred in the explicit contrast with privileged upbringing and speech.",
+    "confidence": "high",
+    "id": "v19-source-016"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-153",
+    "before": "his pocket There",
+    "after": "his pocket. There",
+    "reason": "Publisher explicitly supplies the formerly unverified period.",
+    "confidence": "high",
+    "id": "v19-source-017"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-158",
+    "before": "sat so stillA boy",
+    "after": "sat so still- A boy",
+    "reason": "Publisher shows an interrupted narration followed by a separate speaker. Restore the lost delimiter and word boundary using the existing local hyphen-as-dash form; preserve the combined paragraph/anchor.",
+    "confidence": "high",
+    "id": "v19-source-018"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-160",
+    "before": "the cold wind This",
+    "after": "the cold wind! This",
+    "reason": "Publisher confirms an exclamation mark after the imperative, rather than a guessed full stop.",
+    "confidence": "high",
+    "id": "v19-source-019"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-162",
+    "before": "Another \"didn't",
+    "after": "Another: \"I didn't",
+    "reason": "Publisher confirms both the missing speaker-label colon and the lost first-person pronoun.",
+    "confidence": "high",
+    "id": "v19-source-020"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-167",
+    "before": "Both together \"Let",
+    "after": "Both together: \"Let",
+    "reason": "Publisher confirms missing colon in the speaker label.",
+    "confidence": "high",
+    "id": "v19-source-021"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-168",
+    "before": "had been Her old name",
+    "after": "had been- Her old name",
+    "reason": "Publisher confirms an interrupted phrase (dash) before its repetition. Retain local single-hyphen dash representation and existing combined paragraph.",
+    "confidence": "high",
+    "id": "v19-source-022"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-173",
+    "before": "Both together \"Sib",
+    "after": "Both together: \"Sib",
+    "reason": "Publisher confirms missing colon in the speaker label.",
+    "confidence": "high",
+    "id": "v19-source-023"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "calde-01",
+    "paragraph": "p-111",
+    "before": "—ah—bey?",
+    "after": "—ah—hey?",
+    "reason": "Publisher confirms the startled interjection hey; Turkish-title bey does not fit the interrupted exchange.",
+    "confidence": "high",
+    "id": "v19-source-024"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "calde-01",
+    "paragraph": "p-119",
+    "before": "the market closes,",
+    "after": "the market closed,",
+    "reason": "Publisher supplies closed, agreeing with the completed sequence of wind changes narrated wholly in past tense.",
+    "confidence": "high",
+    "id": "v19-source-025"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "calde-01",
+    "paragraph": "p-181",
+    "before": "talk to the commissions",
+    "after": "talk to the commissioners",
+    "reason": "Publisher confirms the people referred to by the next councilors sentences; plural offices are not the recipients here.",
+    "confidence": "high",
+    "id": "v19-source-026"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-193",
+    "before": "The old Proloctor",
+    "after": "The old Prolocutor",
+    "reason": "Publisher confirms the established honorific in precisely this speech; this resolves prior uncertainty about an intentional spoken form.",
+    "confidence": "high",
+    "id": "v19-source-027"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "sword-01",
+    "paragraph": "p-030",
+    "before": "city’specifically",
+    "after": "city—specifically",
+    "reason": "Publisher independently confirms an em dash separating the explanatory clause; apostrophe is a damaged delimiter.",
+    "confidence": "high",
+    "id": "v19-source-028"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "shadow-08",
+    "paragraph": "p-049",
+    "before": "tales’something",
+    "after": "tales—something",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-001"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "shadow-10",
+    "paragraph": "p-014",
+    "before": "name’said",
+    "after": "name—said",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-002"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "shadow-19",
+    "paragraph": "p-009",
+    "before": "stand’supposing",
+    "after": "stand—supposing",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-003"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "shadow-24",
+    "paragraph": "p-003",
+    "before": "eyes’set",
+    "after": "eyes—set",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-004"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "shadow-28",
+    "paragraph": "p-030",
+    "before": "know’sidewise",
+    "after": "know—sidewise",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-005"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "shadow-31",
+    "paragraph": "p-009",
+    "before": "involved’soldiers",
+    "after": "involved—soldiers",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-006"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "shadow-32",
+    "paragraph": "p-039",
+    "before": "you’still",
+    "after": "you—still",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-007"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "shadow-35",
+    "paragraph": "p-011",
+    "before": "else’scooped",
+    "after": "else—scooped",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-008"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "claw-09",
+    "paragraph": "p-026",
+    "before": "clear’sought",
+    "after": "clear—sought",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-009"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "claw-10",
+    "paragraph": "p-012",
+    "before": "garments’so",
+    "after": "garments—so",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-010"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "claw-11",
+    "paragraph": "p-044",
+    "before": "again’strongly",
+    "after": "again—strongly",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-011"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "claw-17",
+    "paragraph": "p-061",
+    "before": "remained’spoke",
+    "after": "remained—spoke",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-012"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "claw-24",
+    "paragraph": "p-205",
+    "before": "slaves’should",
+    "after": "slaves—should",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-013"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "claw-30",
+    "paragraph": "p-057",
+    "before": "yours’sends",
+    "after": "yours—sends",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-014"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "sword-13",
+    "paragraph": "p-024",
+    "before": "times’so",
+    "after": "times—so",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-015"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "sword-14",
+    "paragraph": "p-044",
+    "before": "husband’says",
+    "after": "husband—says",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-016"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "sword-16",
+    "paragraph": "p-045",
+    "before": "Becan’sounded",
+    "after": "Becan—sounded",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-017"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "sword-19",
+    "paragraph": "p-041",
+    "before": "green’stood",
+    "after": "green—stood",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-018"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "sword-24",
+    "paragraph": "p-037",
+    "before": "defeats’so",
+    "after": "defeats—so",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-019"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "sword-37",
+    "paragraph": "p-017",
+    "before": "himself’some",
+    "after": "himself—some",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-020"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "edition-part0112",
+    "paragraph": "p-002",
+    "before": "punishment’seems",
+    "after": "punishment—seems",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-021"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "citadel-06",
+    "paragraph": "p-026",
+    "before": "valuable’sometimes",
+    "after": "valuable—sometimes",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-022"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "citadel-06",
+    "paragraph": "p-037",
+    "before": "me’some",
+    "after": "me—some",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-023"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "citadel-10",
+    "paragraph": "p-041",
+    "before": "something’some",
+    "after": "something—some",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-024"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "citadel-15",
+    "paragraph": "p-022",
+    "before": "possible’so",
+    "after": "possible—so",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-025"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "citadel-22",
+    "paragraph": "p-057",
+    "before": "knew’sometime",
+    "after": "knew—sometime",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-026"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "citadel-26",
+    "paragraph": "p-036",
+    "before": "underwater’so",
+    "after": "underwater—so",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-027"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "citadel-31",
+    "paragraph": "p-029",
+    "before": "space’such",
+    "after": "space—such",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-028"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "citadel-32",
+    "paragraph": "p-012",
+    "before": "monuments’seemed",
+    "after": "monuments—seemed",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-029"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "citadel-36",
+    "paragraph": "p-037",
+    "before": "instant’so",
+    "after": "instant—so",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-030"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "edition-part0152",
+    "paragraph": "p-007",
+    "before": "Slaves’some",
+    "after": "Slaves—some",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-031"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "urth-07",
+    "paragraph": "p-090",
+    "before": "born’since",
+    "after": "born—since",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-032"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "urth-07",
+    "paragraph": "p-091",
+    "before": "on’started",
+    "after": "on—started",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-033"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "urth-22",
+    "paragraph": "p-019",
+    "before": "Zak’showed",
+    "after": "Zak—showed",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-034"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "urth-22",
+    "paragraph": "p-054",
+    "before": "things’so",
+    "after": "things—so",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-035"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "urth-24",
+    "paragraph": "p-028",
+    "before": "twice’seems",
+    "after": "twice—seems",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-036"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "urth-25",
+    "paragraph": "p-008",
+    "before": "women’shall",
+    "after": "women—shall",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-037"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "urth-28",
+    "paragraph": "p-001",
+    "before": "Nessus’seating",
+    "after": "Nessus—seating",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words. The following word seating is separately questionable; this proposal intentionally does not choose a replacement for it.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-038"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "urth-29",
+    "paragraph": "p-002",
+    "before": "while’spread",
+    "after": "while—spread",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-039"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "urth-39",
+    "paragraph": "p-007",
+    "before": "lie’should",
+    "after": "lie—should",
+    "reason": "The paragraph has an existing opposite dash delimiting an interpolated phrase; the stray apostrophe is the missing partner. Converting only that delimiter restores the main sentence without changing its words.",
+    "confidence": "high-local-structural",
+    "id": "v19-paired-040"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-03",
+    "paragraph": "p-163",
+    "before": "heard diem go",
+    "after": "heard them go",
+    "reason": "Clear plural-object English pronoun with an explicit antecedent; di is a common OCR confusion for th. These are distinct from the four literal Latin carpe diem contexts in Liu, which are preserved.",
+    "confidence": "high-local-structural",
+    "id": "v19-diem-001"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-04",
+    "paragraph": "p-144",
+    "before": "stepped on diem",
+    "after": "stepped on them",
+    "reason": "Clear plural-object English pronoun with an explicit antecedent; di is a common OCR confusion for th. These are distinct from the four literal Latin carpe diem contexts in Liu, which are preserved.",
+    "confidence": "high-local-structural",
+    "id": "v19-diem-002"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-09",
+    "paragraph": "p-200",
+    "before": "breathed upon diem",
+    "after": "breathed upon them",
+    "reason": "Clear plural-object English pronoun with an explicit antecedent; di is a common OCR confusion for th. These are distinct from the four literal Latin carpe diem contexts in Liu, which are preserved.",
+    "confidence": "high-local-structural",
+    "id": "v19-diem-003"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-09",
+    "paragraph": "p-247",
+    "before": "efforts to frustrate diem",
+    "after": "efforts to frustrate them",
+    "reason": "Clear plural-object English pronoun with an explicit antecedent; di is a common OCR confusion for th. These are distinct from the four literal Latin carpe diem contexts in Liu, which are preserved.",
+    "confidence": "high-local-structural",
+    "id": "v19-diem-004"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-12",
+    "paragraph": "p-104",
+    "before": "to dislodge diem",
+    "after": "to dislodge them",
+    "reason": "Clear plural-object English pronoun with an explicit antecedent; di is a common OCR confusion for th. These are distinct from the four literal Latin carpe diem contexts in Liu, which are preserved.",
+    "confidence": "high-local-structural",
+    "id": "v19-diem-005"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-12",
+    "paragraph": "p-164",
+    "before": "return diem when I no longer required diem",
+    "after": "return them when I no longer required them",
+    "reason": "Clear plural-object English pronoun with an explicit antecedent; di is a common OCR confusion for th. These are distinct from the four literal Latin carpe diem contexts in Liu, which are preserved.",
+    "confidence": "high-local-structural",
+    "id": "v19-diem-006"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-13",
+    "paragraph": "p-262",
+    "before": "I phrased diem",
+    "after": "I phrased them",
+    "reason": "Clear plural-object English pronoun with an explicit antecedent; di is a common OCR confusion for th. These are distinct from the four literal Latin carpe diem contexts in Liu, which are preserved.",
+    "confidence": "high-local-structural",
+    "id": "v19-diem-007"
   }
 ]

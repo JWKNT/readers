@@ -8266,5 +8266,20 @@
         "context": "he jetty, admiring the broad blue purity of the lake and the scores of bobbing, heeling craft whose snowy sails dotted it, he meditated upon Oreb's meal."
       }
     ]
+  },
+  {
+    "id": "crotaline",
+    "term": "crotaline",
+    "aliases": [],
+    "short": "Relating to rattlesnakes.",
+    "note": "Of or resembling rattlesnakes; the adjective can evoke their dry, rattling sound.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/crotaline",
+        "label": "Collins English Dictionary · crotaline"
+      }
+    ],
+    "evidence": "calde-02/p-009: There was a strange swelling beneath her ribs; through her mind a swirl of sounds she had never heard and sights she had not seen: the rumbling hoofbeats of cavalry and the booming of big guns, the terrifying roars of Sphigx’s lions, the silver voices of trumpets, and the sharp crotaline clatter of a buzz gun. A woman with a blood-stained rag about her head steadied the line: Form up! Form up! Forward now! Forward! Follow me!"
   }
 ]

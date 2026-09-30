@@ -630,14 +630,18 @@
     "aliases": [
       "calottes"
     ],
-    "note": "A low, rounded dome with a shallow, cap-shaped profile.",
+    "note": "A shallow, cap-shaped dome. In anatomy, the calotte is the skullcap or cranial vault, the upper portion of the skull.",
     "sources": [
       {
-        "label": "Dome · saucer dome",
-        "url": "https://en.wikipedia.org/wiki/Dome#Saucer_dome"
+        "url": "https://www.dictionnaire-academie.fr/article/A6C0223",
+        "label": "Dictionnaire de l’Académie française · calotte (1835)"
+      },
+      {
+        "url": "https://kenanfellows.org/kfp-cp-sites/ddd/sites/default/files/HumanSkeletonNotes.pdf",
+        "label": "Kenan Fellows Program · The Human Skeleton, p. 6"
       }
     ],
-    "short": "A shallow, cap-shaped dome."
+    "short": "A cap-shaped dome; also the upper part of a skull."
   },
   {
     "id": "camisia",
@@ -16387,5 +16391,84 @@
         "context": "eed badly. There is sedition among the Paralians, which must be rooted out. The Tarentines, your Antrustiones, and the city legions—the three groups that bore the brunt of the fighting—having suffered almost as badly as the enemy. There are cohorts among them "
       }
     ]
+  },
+  {
+    "id": "sikinnis",
+    "term": "sikinnis",
+    "aliases": [],
+    "short": "A lively satyr dance of ancient Greek drama.",
+    "note": "A dance performed by the satyrs in ancient Greek satyr plays, also spelled sicinnis. Athenaeus describes its rapid movements and distinguishes it from the dances of tragedy and comedy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.attalus.org/old/athenaeus14b.html",
+        "label": "Athenaeus · Deipnosophists 14.28"
+      }
+    ],
+    "evidence": "sword-06/p-005: I handed it to her and she fanned the pages, then stopped at a picture of the sikinnis, holding it up until it caught the gleam of a lamp burning in a niche above our divan. The horned men seemed to leap in the flickering light, the sylphs to writhe."
+  },
+  {
+    "id": "joseph-second-dream",
+    "term": "Behold, I have dreamed a dream more",
+    "aliases": [],
+    "short": "From Joseph’s second dream in Genesis 37:9.",
+    "note": "Adapted from Genesis 37:9, where Joseph tells his brothers that the sun, moon, and eleven stars bowed to him in a dream. The wording follows the King James Bible with a few words omitted.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://biblehub.com/genesis/37-9.htm",
+        "label": "Genesis 37:9 · King James Bible"
+      }
+    ],
+    "evidence": "urth-38/p-003: Perhaps for that reason, I slept badly. Again and again I woke and blinked at the cell light glowing above my head, rose and stretched, and crossed to the port to search for the white star that was another self. At those times I would gladly have surrendered my imprisoned body to death, if I could have done it with honor, and fled, streaming through the midnight sky to unite my being. In those moments I knew my power, that could draw whole worlds to me and incremate them as an artist burns his earths for pigments. In the brown book, now lost, that I carried and read so long that at last I had committed to memory its whole contents (though they had once seemed inexhaustible) there is this passage: “Behold, I have dreamed a dream more; the sun and the moon and eleven stars made obeisance to me.” Its words show plainly how much wiser the peoples of ages long past were than we are now; not for nothing is that book titled The Book of the Wonders of Urth and Sky."
+  },
+  {
+    "id": "hobilers",
+    "term": "hobilers",
+    "aliases": [],
+    "short": "Lightly armed mounted soldiers.",
+    "note": "A historical name for lightly armed horsemen. The Anglo-Norman forms include hobeler, hobelier, and hobiler.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://anglo-norman.net/entry/hobeler_1",
+        "label": "Anglo-Norman Dictionary · hobeler"
+      }
+    ],
+    "evidence": "citadel-22/p-005: A road ran through lower ground to our left; and down it, and to either side of it, there moved a force far more numerous than our column and the savage riders and their companions all combined: battalions of peltasts with blazing spears and big, transparent shields; hobilers on prancing mounts, with bows and arrow cases crossed over their backs; lightly armed cherkajis whose formations were seas of plumes and flags."
+  },
+  {
+    "id": "pilani",
+    "term": "pilani",
+    "aliases": [],
+    "short": "An old Roman name for the reserve infantry called triarii.",
+    "note": "A Roman military name for the triarii, the experienced heavy infantry stationed in the third line as a reserve. The name was associated with the pilum, although their equipment changed over time.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Exercitus.html",
+        "label": "Smith’s Dictionary of Greek and Roman Antiquities · Exercitus"
+      }
+    ],
+    "evidence": "citadel-35/p-064: I need not tell you we should obtain more small arms and, particularly, artillery, if my cousins can be persuaded to part with them at a price we can pay. In the meanwhile, what can be done to raise fresh troops must be done, and in time for the recruits to be trained by spring. Light units capable of skirmishing without scattering are the present need; but if the Ascians break out next year, we will require\npiquenaires and pilani by the hundreds of thousands, and it might be well to bring at least a part of them under arms now."
+  },
+  {
+    "id": "thalamegii",
+    "term": "thalamegii",
+    "aliases": [],
+    "short": "Cabined state barges, often richly furnished.",
+    "note": "A thalamegus is a state barge fitted with cabins. Athenaeus describes Ptolemy IV Philopator’s elaborate river vessel of that name, with dining and sleeping rooms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.alatius.com/ls/index.php?id=48071",
+        "label": "Lewis and Short · thalamegus"
+      },
+      {
+        "url": "https://www.attalus.org/old/athenaeus5b.html",
+        "label": "Athenaeus · Deipnosophists 5.38"
+      }
+    ],
+    "evidence": "shadow-14/p-020: From time to time boats glided through the weed-choked water while the wind drew music from their rigging. The poorer sort showed no lights and seemed hardly more than floating debris; but several times I beheld rich thalamegii with bow and stern lamps to show off their gilding. These kept to the center of the channel for fear of attack, yet I could hear the song of their sweepsmen across the water:"
   }
 ]

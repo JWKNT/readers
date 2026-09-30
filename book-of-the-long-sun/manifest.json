@@ -423,7 +423,7 @@
           "paragraph": "p-182"
         }
       ],
-      "words": 7088,
+      "words": 7089,
       "startWords": 0
     },
     {
@@ -829,7 +829,7 @@
         }
       ],
       "words": 7655,
-      "startWords": 7088
+      "startWords": 7089
     },
     {
       "id": "nightside-03",
@@ -1398,7 +1398,7 @@
         }
       ],
       "words": 10648,
-      "startWords": 14743
+      "startWords": 14744
     },
     {
       "id": "nightside-04",
@@ -1756,7 +1756,7 @@
         }
       ],
       "words": 8042,
-      "startWords": 25391
+      "startWords": 25392
     },
     {
       "id": "nightside-05",
@@ -2030,7 +2030,7 @@
         }
       ],
       "words": 6057,
-      "startWords": 33433
+      "startWords": 33434
     },
     {
       "id": "nightside-06",
@@ -2505,7 +2505,7 @@
         }
       ],
       "words": 7957,
-      "startWords": 39490
+      "startWords": 39491
     },
     {
       "id": "nightside-07",
@@ -2945,7 +2945,7 @@
         }
       ],
       "words": 8328,
-      "startWords": 47447
+      "startWords": 47448
     },
     {
       "id": "nightside-08",
@@ -3289,7 +3289,7 @@
         }
       ],
       "words": 6750,
-      "startWords": 55775
+      "startWords": 55776
     },
     {
       "id": "nightside-09",
@@ -3758,7 +3758,7 @@
         }
       ],
       "words": 8200,
-      "startWords": 62525
+      "startWords": 62526
     },
     {
       "id": "nightside-10",
@@ -4263,7 +4263,7 @@
         }
       ],
       "words": 8373,
-      "startWords": 70725
+      "startWords": 70726
     },
     {
       "id": "nightside-11",
@@ -4664,7 +4664,7 @@
         }
       ],
       "words": 7203,
-      "startWords": 79098
+      "startWords": 79099
     },
     {
       "id": "nightside-12",
@@ -5031,7 +5031,7 @@
         }
       ],
       "words": 6428,
-      "startWords": 86301
+      "startWords": 86302
     },
     {
       "id": "nightside-13",
@@ -5344,7 +5344,7 @@
         }
       ],
       "words": 5165,
-      "startWords": 92729
+      "startWords": 92730
     },
     {
       "id": "lake-01",
@@ -5725,7 +5725,7 @@
         }
       ],
       "words": 6291,
-      "startWords": 97894
+      "startWords": 97895
     },
     {
       "id": "lake-02",
@@ -6064,7 +6064,7 @@
         }
       ],
       "words": 6717,
-      "startWords": 104185
+      "startWords": 104186
     },
     {
       "id": "lake-03",
@@ -6473,7 +6473,7 @@
         }
       ],
       "words": 7253,
-      "startWords": 110902
+      "startWords": 110903
     },
     {
       "id": "lake-04",
@@ -7011,7 +7011,7 @@
         }
       ],
       "words": 8695,
-      "startWords": 118155
+      "startWords": 118156
     },
     {
       "id": "lake-05",
@@ -7522,7 +7522,7 @@
         }
       ],
       "words": 9116,
-      "startWords": 126850
+      "startWords": 126851
     },
     {
       "id": "lake-06",
@@ -8126,7 +8126,7 @@
         }
       ],
       "words": 11700,
-      "startWords": 135966
+      "startWords": 135967
     },
     {
       "id": "lake-07",
@@ -8610,7 +8610,7 @@
         }
       ],
       "words": 6385,
-      "startWords": 147666
+      "startWords": 147667
     },
     {
       "id": "lake-08",
@@ -8992,7 +8992,7 @@
         }
       ],
       "words": 6901,
-      "startWords": 154051
+      "startWords": 154052
     },
     {
       "id": "lake-09",
@@ -9473,7 +9473,7 @@
         }
       ],
       "words": 9680,
-      "startWords": 160952
+      "startWords": 160953
     },
     {
       "id": "lake-10",
@@ -9812,7 +9812,7 @@
         }
       ],
       "words": 5234,
-      "startWords": 170632
+      "startWords": 170633
     },
     {
       "id": "lake-11",
@@ -10295,7 +10295,7 @@
         }
       ],
       "words": 7085,
-      "startWords": 175866
+      "startWords": 175867
     },
     {
       "id": "lake-12",
@@ -10805,7 +10805,7 @@
         }
       ],
       "words": 8893,
-      "startWords": 182951
+      "startWords": 182952
     },
     {
       "id": "lake-13",
@@ -11276,7 +11276,7 @@
         }
       ],
       "words": 9609,
-      "startWords": 191844
+      "startWords": 191845
     },
     {
       "id": "calde-01",
@@ -11758,7 +11758,7 @@
         }
       ],
       "words": 6706,
-      "startWords": 201453
+      "startWords": 201454
     },
     {
       "id": "calde-02",
@@ -12175,6 +12175,10 @@
           "paragraph": "p-008"
         },
         {
+          "term": "crotaline",
+          "paragraph": "p-009"
+        },
+        {
           "term": "sibyl",
           "paragraph": "p-012"
         },
@@ -12408,7 +12412,7 @@
         }
       ],
       "words": 11779,
-      "startWords": 208159
+      "startWords": 208160
     },
     {
       "id": "calde-03",
@@ -13374,7 +13378,7 @@
         }
       ],
       "words": 15256,
-      "startWords": 219938
+      "startWords": 219939
     },
     {
       "id": "calde-04",
@@ -14002,7 +14006,7 @@
         }
       ],
       "words": 11305,
-      "startWords": 235194
+      "startWords": 235195
     },
     {
       "id": "calde-05",
@@ -14929,7 +14933,7 @@
         }
       ],
       "words": 17995,
-      "startWords": 246499
+      "startWords": 246500
     },
     {
       "id": "calde-06",
@@ -15629,7 +15633,7 @@
         }
       ],
       "words": 12514,
-      "startWords": 264494
+      "startWords": 264495
     },
     {
       "id": "calde-07",
@@ -16174,7 +16178,7 @@
         }
       ],
       "words": 7963,
-      "startWords": 277008
+      "startWords": 277009
     },
     {
       "id": "calde-08",
@@ -16675,7 +16679,7 @@
         }
       ],
       "words": 8432,
-      "startWords": 284971
+      "startWords": 284972
     },
     {
       "id": "calde-09",
@@ -17253,7 +17257,7 @@
         }
       ],
       "words": 8384,
-      "startWords": 293403
+      "startWords": 293404
     },
     {
       "id": "calde-10",
@@ -18028,7 +18032,7 @@
         }
       ],
       "words": 13549,
-      "startWords": 301787
+      "startWords": 301788
     },
     {
       "id": "calde-epilogue",
@@ -18151,7 +18155,7 @@
         }
       ],
       "words": 740,
-      "startWords": 315336
+      "startWords": 315337
     },
     {
       "id": "exodus-01",
@@ -18739,7 +18743,7 @@
         }
       ],
       "words": 9377,
-      "startWords": 316076
+      "startWords": 316077
     },
     {
       "id": "exodus-02",
@@ -19316,7 +19320,7 @@
         }
       ],
       "words": 8423,
-      "startWords": 325453
+      "startWords": 325454
     },
     {
       "id": "exodus-03",
@@ -19657,7 +19661,7 @@
         }
       ],
       "words": 4066,
-      "startWords": 333876
+      "startWords": 333877
     },
     {
       "id": "exodus-04",
@@ -19990,7 +19994,7 @@
         }
       ],
       "words": 4565,
-      "startWords": 337942
+      "startWords": 337943
     },
     {
       "id": "exodus-05",
@@ -20285,7 +20289,7 @@
         }
       ],
       "words": 3022,
-      "startWords": 342507
+      "startWords": 342508
     },
     {
       "id": "exodus-06",
@@ -21071,7 +21075,7 @@
         }
       ],
       "words": 10669,
-      "startWords": 345529
+      "startWords": 345530
     },
     {
       "id": "exodus-07",
@@ -21518,7 +21522,7 @@
         }
       ],
       "words": 9015,
-      "startWords": 356198
+      "startWords": 356199
     },
     {
       "id": "exodus-08",
@@ -22084,7 +22088,7 @@
         }
       ],
       "words": 9017,
-      "startWords": 365213
+      "startWords": 365214
     },
     {
       "id": "exodus-09",
@@ -22673,7 +22677,7 @@
         }
       ],
       "words": 8132,
-      "startWords": 374230
+      "startWords": 374231
     },
     {
       "id": "exodus-10",
@@ -23276,7 +23280,7 @@
         }
       ],
       "words": 8486,
-      "startWords": 382362
+      "startWords": 382363
     },
     {
       "id": "exodus-11",
@@ -24120,7 +24124,7 @@
         }
       ],
       "words": 10643,
-      "startWords": 390848
+      "startWords": 390849
     },
     {
       "id": "exodus-12",
@@ -24860,7 +24864,7 @@
         }
       ],
       "words": 10602,
-      "startWords": 401491
+      "startWords": 401492
     },
     {
       "id": "exodus-13",
@@ -25397,7 +25401,7 @@
         }
       ],
       "words": 8551,
-      "startWords": 412093
+      "startWords": 412094
     },
     {
       "id": "exodus-14",
@@ -26324,7 +26328,7 @@
         }
       ],
       "words": 15606,
-      "startWords": 420644
+      "startWords": 420645
     },
     {
       "id": "exodus-15",
@@ -26965,7 +26969,7 @@
         }
       ],
       "words": 10978,
-      "startWords": 436250
+      "startWords": 436251
     },
     {
       "id": "exodus-16",
@@ -27614,7 +27618,7 @@
         }
       ],
       "words": 9371,
-      "startWords": 447228
+      "startWords": 447229
     },
     {
       "id": "exodus-my-defense",
@@ -27921,7 +27925,7 @@
         }
       ],
       "words": 5244,
-      "startWords": 456599
+      "startWords": 456600
     },
     {
       "id": "exodus-afterward",
@@ -27978,7 +27982,7 @@
         }
       ],
       "words": 315,
-      "startWords": 461843
+      "startWords": 461844
     },
     {
       "id": "lake-reference",
@@ -28063,7 +28067,7 @@
       "sections": [],
       "noteAnchors": [],
       "words": 1025,
-      "startWords": 462158
+      "startWords": 462159
     },
     {
       "id": "calde-reference",
@@ -28196,7 +28200,7 @@
       "sections": [],
       "noteAnchors": [],
       "words": 1214,
-      "startWords": 462158
+      "startWords": 462159
     },
     {
       "id": "exodus-reference",
@@ -28341,13 +28345,13 @@
       "sections": [],
       "noteAnchors": [],
       "words": 1103,
-      "startWords": 462158
+      "startWords": 462159
     }
   ],
-  "totalWords": 462158,
+  "totalWords": 462159,
   "defaultChapter": "nightside-01",
-  "glossaryCount": 519,
+  "glossaryCount": 520,
   "correctionCount": 7,
-  "editionVersion": 18,
-  "editorialCorrectionCount": 211
+  "editionVersion": 19,
+  "editorialCorrectionCount": 243
 }

@@ -2694,5 +2694,25 @@
       "paragraph": "p-033",
       "index": 4
     }
+  },
+  {
+    "id": "qipao",
+    "term": "qipao",
+    "aliases": [],
+    "short": "A Chinese dress with a high collar and side slits.",
+    "note": "A Chinese dress, also called a cheongsam in Cantonese, characterized by a high collar, openings at the sides of the skirt, and decorative fastenings at the collar and lapel. Its modern form became popular in Shanghai in the late 1920s.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.roots.gov.sg/Collection-Landing/listing/1473682",
+        "label": "Peranakan Museum · Qipao"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-06",
+      "paragraph": "p-032",
+      "index": 0
+    }
   }
 ]

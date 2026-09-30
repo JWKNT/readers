@@ -19,7 +19,7 @@
   ],
   "totalWords": 352735,
   "defaultChapter": "hyperion-prologue",
-  "glossaryCount": 513,
+  "glossaryCount": 515,
   "correctionCount": 0,
   "editionVersion": 18,
   "chapters": [
@@ -1303,6 +1303,10 @@
         {
           "term": "steinway",
           "paragraph": "p-750"
+        },
+        {
+          "term": "syrette",
+          "paragraph": "p-760"
         }
       ],
       "number": 2,
@@ -1993,6 +1997,10 @@
         {
           "term": "jerkin",
           "paragraph": "p-195"
+        },
+        {
+          "term": "flechette",
+          "paragraph": "p-213"
         },
         {
           "term": "tharsis",
@@ -5860,6 +5868,10 @@
           "paragraph": "p-913"
         },
         {
+          "term": "flechette",
+          "paragraph": "p-917"
+        },
+        {
           "term": "gibson",
           "paragraph": "p-943"
         },
@@ -6752,6 +6764,10 @@
           "paragraph": "p-431"
         },
         {
+          "term": "thermite",
+          "paragraph": "p-456"
+        },
+        {
           "term": "schwarzschild-radius",
           "paragraph": "p-456"
         },
@@ -7299,10 +7315,6 @@
         {
           "term": "william-gladstone",
           "paragraph": "p-001"
-        },
-        {
-          "term": "abraham",
-          "paragraph": "p-002"
         },
         {
           "term": "doppelganger",
@@ -8970,10 +8982,6 @@
         {
           "term": "endymion",
           "paragraph": "p-028"
-        },
-        {
-          "term": "francis-bacon",
-          "paragraph": "p-038"
         },
         {
           "term": "kippers",
@@ -14141,10 +14149,6 @@
         {
           "term": "hercules-cluster",
           "paragraph": "p-051"
-        },
-        {
-          "term": "barks",
-          "paragraph": "p-064"
         },
         {
           "term": "shrike",

@@ -25,7 +25,7 @@
   ],
   "totalWords": 522571,
   "defaultChapter": "three-body-problem-section-06",
-  "glossaryCount": 356,
+  "glossaryCount": 358,
   "correctionCount": 0,
   "editionVersion": 17,
   "chapters": [
@@ -183,6 +183,10 @@
         {
           "term": "three-body-problem-einstein",
           "paragraph": "p-030"
+        },
+        {
+          "term": "three-body-problem-qipao",
+          "paragraph": "p-032"
         },
         {
           "term": "three-body-problem-general-relativity",
@@ -6660,6 +6664,10 @@
         {
           "term": "dark-forest-enrico-fermi",
           "paragraph": "p-1036"
+        },
+        {
+          "term": "dark-forest-geta",
+          "paragraph": "p-1062"
         },
         {
           "term": "dark-forest-chiran-peace-museum",

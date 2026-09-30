@@ -2277,5 +2277,20 @@
         "context": "and time. All the physical laws of human history, from Archimedes’ principle to string theory, and all the scientific discoveries and intellectual fruits of our species are the by-products of this great law. Compa"
       }
     ]
+  },
+  {
+    "id": "qipao",
+    "term": "qipao",
+    "aliases": [],
+    "short": "A Chinese dress with a high collar and side slits.",
+    "note": "A Chinese dress, also called a cheongsam in Cantonese, characterized by a high collar, openings at the sides of the skirt, and decorative fastenings at the collar and lapel. Its modern form became popular in Shanghai in the late 1920s.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.roots.gov.sg/Collection-Landing/listing/1473682",
+        "label": "Peranakan Museum · Qipao"
+      }
+    ],
+    "evidence": "section-06/p-032: But against someone like Ye Zhetai, a few slogans like that were insufficient. The Red Guards decided to bring out the new weapon they had prepared against their teacher. One of them waved to someone offstage. Ye’s wife, physics professor Shao Lin, stood up from the crowd’s front row. She walked onto the stage dressed in an ill-fitting green outfit, clearly intended to imitate the military uniform of the Red Guards. Those who knew her remembered that she had often taught class in an elegant qipao, and her current appearance felt forced and awkward."
   }
 ]

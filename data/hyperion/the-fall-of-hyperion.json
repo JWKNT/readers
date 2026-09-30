@@ -1363,10 +1363,18 @@
     "aliases": [
       "Piano Concerto No. 2 in C Minor"
     ],
-    "short": "Rachmaninoff and his Second Piano Concerto.",
-    "note": "Russian composer and pianist, 1873–1943. His Piano Concerto No. 2 in C minor, Op. 18, completed in 1901, is known for expansive melodies and the dialogue between virtuoso piano and orchestra.",
+    "short": "Sergei Rachmaninoff, Russian composer and pianist.",
+    "note": "Russian composer and pianist (1873–1943). His works include the Prelude in C-sharp minor, Op. 3, No. 2 (1892), and Piano Concerto No. 2 in C minor, Op. 18 (1901).",
     "possible": false,
     "sources": [
+      {
+        "url": "https://www.laphil.com/people/sergei-rachmaninoff",
+        "label": "Los Angeles Philharmonic: Sergei Rachmaninoff"
+      },
+      {
+        "url": "https://data.carnegiehall.org/works/22436/about",
+        "label": "Carnegie Hall: Prelude in C-sharp Minor"
+      },
       {
         "url": "https://www.laphil.com/works/piano-concerto-no-2-in-c-minor-op-18",
         "label": "Los Angeles Philharmonic: Piano Concerto No. 2"
@@ -1831,7 +1839,9 @@
     "term": "fléchette",
     "aliases": [
       "fléchettes",
-      "Fléchettes"
+      "Fléchettes",
+      "flechette",
+      "flechettes"
     ],
     "short": "A small dart-shaped metal projectile.",
     "note": "From French for little arrow. Flechettes are finned metal darts used as projectiles or dispersed from certain shells; the word describes their arrow-like shape.",
@@ -2167,7 +2177,17 @@
         "label": "Merriam-Webster: bark"
       }
     ],
-    "evidence": "fall-01/p-011:  the river showed this: great, crenelated cruisers, canvas-laden barks, and five-tiered barges, many showing signs of being equipped with levitation gear; elaborate houseboats, obviously fitted with their "
+    "evidence": "fall-01/p-011:  the river showed this: great, crenelated cruisers, canvas-laden barks, and five-tiered barges, many showing signs of being equipped with levitation gear; elaborate houseboats, obviously fitted with their ",
+    "excludeMatches": [
+      {
+        "chapter": "fall-36",
+        "paragraph": "p-064",
+        "text": "barks",
+        "count": 1,
+        "context": "he barks.",
+        "reason": "This is the verb for abrupt speech, not sailing vessels."
+      }
+    ]
   },
   {
     "id": "cordite",

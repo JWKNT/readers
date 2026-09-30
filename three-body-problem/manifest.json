@@ -31,7 +31,7 @@
   ],
   "totalWords": 114223,
   "defaultChapter": "section-06",
-  "glossaryCount": 131,
+  "glossaryCount": 132,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -189,6 +189,10 @@
         {
           "term": "einstein",
           "paragraph": "p-030"
+        },
+        {
+          "term": "qipao",
+          "paragraph": "p-032"
         },
         {
           "term": "general-relativity",

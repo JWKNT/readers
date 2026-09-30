@@ -2019,5 +2019,24 @@
         "context": "ld be adjusted if necessary. The floating island was a real-life version of the Propeller Island Jules Verne had described, and so it had been dubbed “Verne Island.” The ocean wasn’t even visible on the television, w"
       }
     ]
+  },
+  {
+    "id": "geta",
+    "term": "geta",
+    "aliases": [],
+    "short": "Traditional Japanese wooden clogs or raised sandals.",
+    "note": "Japanese footwear with a wooden base held to the foot by a thong between the toes. Many forms stand on two raised wooden supports, which make a characteristic clacking sound while walking.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://jpsearch.go.jp/en/gallery/ndl-GZqzDNvVK0a",
+        "label": "Japan Search · Japanese Wooden Clogs"
+      },
+      {
+        "url": "https://ditsong.org.za/en/traditional-japanese-footwear-geta/",
+        "label": "DITSONG Museums · Traditional Japanese Footwear"
+      }
+    ],
+    "evidence": "section-08/p-1062: Hines heard Keiko Yamasuki’s footsteps but did not look back. Strangely, Keiko wore the same shoes in England as in Japan. Even in her hometown she never wore geta. But it was only here, never in England, that he could hear her footsteps."
   }
 ]

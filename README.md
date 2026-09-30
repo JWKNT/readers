@@ -114,6 +114,8 @@ The subsequent all-reader typography and contextual pass is documented in
 `NOTES-SECOND-AUDIT.md` and `data/annotation-audit-second-pass.json`. Search text
 can be refreshed without an EPUB using `python3 tools/rebuild_search.py`; this
 preserves visible line-break boundaries in snippets without changing book text.
+Three further, distinct typography/accuracy/discovery passes are documented in
+`NOTES-THREE-FURTHER-AUDITS.md` and `data/annotation-audit-further-passes.json`.
 Reviewed ambiguous non-Solar matches may use guarded `excludeMatches` records
 in their authored annotation entries. The validator checks those exclusions as
 well as every search paragraph.

@@ -1010,6 +1010,16 @@
         "url": "https://bible.usccb.org/bible/genesis/22",
         "label": "Genesis 22"
       }
+    ],
+    "excludeMatches": [
+      {
+        "chapter": "fall-02",
+        "paragraph": "p-002",
+        "text": "Abraham",
+        "count": 2,
+        "context": "compared to the classical figure of Abraham Lincoln",
+        "reason": "Both occurrences name Abraham Lincoln, not the biblical patriarch."
+      }
     ]
   },
   {
@@ -1150,9 +1160,7 @@
   {
     "id": "francis-bacon",
     "term": "Francis Bacon",
-    "aliases": [
-      "Bacon"
-    ],
+    "aliases": [],
     "short": "English philosopher of experimental inquiry, 1561–1626.",
     "note": "Bacon’s Novum Organum examines obstacles to reliable knowledge. Its “idols of the marketplace” are errors fostered by words and ordinary habits of speech.",
     "possible": false,
@@ -5229,5 +5237,35 @@
         "context": " call them, while all the while we timidly cling to our Web like Visigoths crouching in the ruins of Rome’s faded glory and proclaim ourselves civilized."
       }
     ]
+  },
+  {
+    "id": "syrette",
+    "term": "syrette",
+    "aliases": [],
+    "short": "A small ready-filled injection tube.",
+    "note": "A small tube containing a dose of medicine and fitted with an injection needle. Morphine syrettes were issued in military first-aid kits during the Second World War.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://museum.dea.gov/museum-collection/collection-spotlight/artifact/morphine-syrette",
+        "label": "DEA Museum · Morphine Syrette"
+      }
+    ],
+    "evidence": "hyperion-01/p-760: The Consul nodded, commanded the door to close, and knelt next to the priest. He removed the useless injector from Hoyt’s clenched fist and ejected the syrette ampule. Ultramorphine. The Consul nodded again and took out an injector from the medkit he had brought from his ship. It took less than five seconds to load the ultramorph."
+  },
+  {
+    "id": "thermite",
+    "term": "thermite",
+    "aliases": [],
+    "short": "A metal mixture that reacts with intense heat.",
+    "note": "A mixture of a metal oxide and powdered metal that reacts at very high temperature, producing molten metal and slag. It is used as an intense heat source.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nist.gov/glossary-term/40896",
+        "label": "NIST · Thermite"
+      }
+    ],
+    "evidence": "hyperion-06/p-456: For a few microseconds the farcaster had been functional. For a few microseconds time and space had ceased to be obstacles. Then the massive tidal pull of the artificial singularity triggered the thermite charge I had placed on the outer containment sphere. That tiny explosion had not been visible but a second later the expanding Schwarzschild radius is eating its shell, swallowing thirty-six thousand tons of fragile dodecahedron, and growing quickly to gobble several thousand kilometers of space around it. And that is visible—magnificently visible—as a miniature nova flares whitely in the clear blue sky."
   }
 ]

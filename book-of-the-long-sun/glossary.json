@@ -11117,5 +11117,25 @@
       "paragraph": "p-135",
       "index": 18
     }
+  },
+  {
+    "id": "crotaline",
+    "term": "crotaline",
+    "aliases": [],
+    "short": "Relating to rattlesnakes.",
+    "note": "Of or resembling rattlesnakes; the adjective can evoke their dry, rattling sound.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/crotaline",
+        "label": "Collins English Dictionary · crotaline"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-02",
+      "paragraph": "p-009",
+      "index": 27
+    }
   }
 ]

@@ -876,14 +876,18 @@
     "aliases": [
       "calottes"
     ],
-    "note": "A low, rounded dome with a shallow, cap-shaped profile.",
+    "note": "A shallow, cap-shaped dome. In anatomy, the calotte is the skullcap or cranial vault, the upper portion of the skull.",
     "sources": [
       {
-        "label": "Dome · saucer dome",
-        "url": "https://en.wikipedia.org/wiki/Dome#Saucer_dome"
+        "url": "https://www.dictionnaire-academie.fr/article/A6C0223",
+        "label": "Dictionnaire de l’Académie française · calotte (1835)"
+      },
+      {
+        "url": "https://kenanfellows.org/kfp-cp-sites/ddd/sites/default/files/HumanSkeletonNotes.pdf",
+        "label": "Kenan Fellows Program · The Human Skeleton, p. 6"
       }
     ],
-    "short": "A shallow, cap-shaped dome.",
+    "short": "A cap-shaped dome; also the upper part of a skull.",
     "occurrences": 5,
     "first": {
       "chapter": "claw-17",
@@ -20537,6 +20541,110 @@
       "chapter": "citadel-35",
       "paragraph": "p-063",
       "index": 141
+    }
+  },
+  {
+    "id": "sikinnis",
+    "term": "sikinnis",
+    "aliases": [],
+    "short": "A lively satyr dance of ancient Greek drama.",
+    "note": "A dance performed by the satyrs in ancient Greek satyr plays, also spelled sicinnis. Athenaeus describes its rapid movements and distinguishes it from the dances of tragedy and comedy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.attalus.org/old/athenaeus14b.html",
+        "label": "Athenaeus · Deipnosophists 14.28"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-06",
+      "paragraph": "p-005",
+      "index": 73
+    }
+  },
+  {
+    "id": "joseph-second-dream",
+    "term": "Behold, I have dreamed a dream more",
+    "aliases": [],
+    "short": "From Joseph’s second dream in Genesis 37:9.",
+    "note": "Adapted from Genesis 37:9, where Joseph tells his brothers that the sun, moon, and eleven stars bowed to him in a dream. The wording follows the King James Bible with a few words omitted.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://biblehub.com/genesis/37-9.htm",
+        "label": "Genesis 37:9 · King James Bible"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-38",
+      "paragraph": "p-003",
+      "index": 183
+    }
+  },
+  {
+    "id": "hobilers",
+    "term": "hobilers",
+    "aliases": [],
+    "short": "Lightly armed mounted soldiers.",
+    "note": "A historical name for lightly armed horsemen. The Anglo-Norman forms include hobeler, hobelier, and hobiler.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://anglo-norman.net/entry/hobeler_1",
+        "label": "Anglo-Norman Dictionary · hobeler"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "citadel-22",
+      "paragraph": "p-005",
+      "index": 128
+    }
+  },
+  {
+    "id": "pilani",
+    "term": "pilani",
+    "aliases": [],
+    "short": "An old Roman name for the reserve infantry called triarii.",
+    "note": "A Roman military name for the triarii, the experienced heavy infantry stationed in the third line as a reserve. The name was associated with the pilum, although their equipment changed over time.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Exercitus.html",
+        "label": "Smith’s Dictionary of Greek and Roman Antiquities · Exercitus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-35",
+      "paragraph": "p-064",
+      "index": 141
+    }
+  },
+  {
+    "id": "thalamegii",
+    "term": "thalamegii",
+    "aliases": [],
+    "short": "Cabined state barges, often richly furnished.",
+    "note": "A thalamegus is a state barge fitted with cabins. Athenaeus describes Ptolemy IV Philopator’s elaborate river vessel of that name, with dining and sleeping rooms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.alatius.com/ls/index.php?id=48071",
+        "label": "Lewis and Short · thalamegus"
+      },
+      {
+        "url": "https://www.attalus.org/old/athenaeus5b.html",
+        "label": "Athenaeus · Deipnosophists 5.38"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-14",
+      "paragraph": "p-020",
+      "index": 13
     }
   }
 ]

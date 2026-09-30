@@ -7420,5 +7420,20 @@
         "context": "ut he disappeared into a triangular hole I had not noticed previously where the wainscoting meets the chimney near the ceiling. In five minutes or less he was back with the key in his beak. I have hidden it in my stocking."
       }
     ]
+  },
+  {
+    "id": "mate-drink",
+    "term": "maté",
+    "aliases": [],
+    "short": "A South American drink brewed from yerba-mate leaves.",
+    "note": "A tea-like drink made from the dried leaves of the South American holly Ilex paraguariensis, also known as yerba mate or Paraguay tea.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ahdictionary.com/word/search.html?id=M5156300",
+        "label": "American Heritage Dictionary · maté"
+      }
+    ],
+    "evidence": "return-02/p-089: He recalled the beverage of his childhood. “Maté, please. I’d like some. I haven’t drunk maté in a long while.”"
   }
 ]
