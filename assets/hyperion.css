@@ -18,6 +18,12 @@
 .chapter-body img.hyperion-punctuation{height:.68em;margin-inline:.08em}
 [data-theme="dark"] .chapter-body img.hyperion-glyph{filter:invert(1);mix-blend-mode:screen}
 .source-divider-text{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:pre}
+.document .contents-list,.document .contents-list ul{list-style:none;padding-left:0}
+.document .contents-list li{margin:.45em 0}
+.document .contents-list .contents-sections{padding-left:1em;font-size:.85em;color:var(--muted-strong)}
+.document .contents-part h3{font:700 1em/1.4 var(--regal);margin:1.4em 0 .5em}
+.document .contents-part+li:not(.contents-part){margin-top:1.4em}
+.document .contents-reference{font-size:.85em;color:var(--muted)}
 .story-tailpiece{clear:both;text-align:center;margin:2.2em auto 1em}
 .story-tailpiece img{display:inline-block;width:2.5em;height:2.2em!important;object-fit:contain}
 [data-theme="dark"] .story-tailpiece img{filter:invert(1);opacity:.82}

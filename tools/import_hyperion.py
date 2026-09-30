@@ -83,7 +83,7 @@ def plans(archive, volume):
     def filename(code):return next(n for n in names if '_'+code+'_' in n and n.endswith('.htm'))
     if volume=='hyperion':
         return [('hyperion-prologue','Prologue','',filename('prl'),'')]+[
-            (f'hyperion-{i:02}',TALES[i-1],str(i),filename(f'c{i:02}'),'') for i in range(1,7)
+            (f'hyperion-{i:02}',f'Chapter {i}',str(i),filename(f'c{i:02}'),'') for i in range(1,7)
         ]+[('hyperion-epilogue','Epilogue','',filename('epl'),''),('hyperion-dedication','Dedication','',filename('ded'),'')]
     return [('fall-epigraph','Epigraph','',filename('col2'),'')]+[(f'fall-{i:02}',f'Chapter {i}',str(i),filename(f'c{i:02}'),('Part One' if i<=15 else 'Part Two' if i<=30 else 'Part Three')) for i in range(1,46)]+[
         ('fall-epilogue','Epilogue','',filename('epl'),''),('fall-dedication','Dedication','',filename('ded'),'')]
@@ -140,8 +140,8 @@ def build(paths):
                     partTitle=part,kind='reference' if dedication else 'chapter',index=len(chapters),layout='prose',blocks=blocks,
                     sections=[dict(title=norm(txt(e)),paragraph=e.get('data-block')) for e in tree.iter('h2')],
                     words=len(re.findall(r"\b[\w’'-]+\b",txt(tree))))
-                record['unnumberedToc'] = volume=='fall' or not label
-                record['navigationSections'] = [dict(title=TALE_SUBTITLES[int(label)-1],paragraph=e['paragraph']) for e in record['sections']] if label and volume=='hyperion' else []
+                record['unnumberedToc'] = True
+                record['navigationSections'] = [dict(title=TALES[int(label)-1]+': '+TALE_SUBTITLES[int(label)-1],paragraph=e['paragraph']) for e in record['sections']] if label and volume=='hyperion' else []
                 if not (epigraph or dedication):
                     add_initial(tree,'shadow' if volume=='hyperion' else 'urth')
                     decorate(tree,'hyperion' if volume=='hyperion' else 'the-fall-of-hyperion',tailpiece=True)

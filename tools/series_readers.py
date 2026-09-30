@@ -16,7 +16,7 @@ import import_earths_past as common
 from rebuild_annotations import Fragment
 
 ROOT = common.ROOT
-EDITION = 16
+EDITION = 17
 LIU_ID = 'remembrance-of-earths-past'
 LIU_BOOKS = ('three-body-problem', 'dark-forest', 'deaths-end')
 
@@ -24,6 +24,29 @@ LIU_BOOKS = ('three-body-problem', 'dark-forest', 'deaths-end')
 def searchable(node):
     """A verse line break is a word boundary in a plain-text search snippet."""
     return (node.text or '') + ''.join((' ' if child.tag=='br' else searchable(child)) + (child.tail or '') for child in node)
+
+
+def chapter_contents(chapters, volume):
+    """Keep numbered chapters, internal tales and book parts at distinct levels."""
+    group='<h2>'+html.escape(volume['title'])+'</h2><ul class="contents-list">'
+    part=''
+    for chapter in (c for c in chapters if c['volume']==volume['id']):
+        next_part=chapter.get('partTitle','')
+        if next_part!=part:
+            if part:group+='</ul></li>'
+            if next_part:group+='<li class="contents-part"><h3>'+html.escape(next_part)+'</h3><ul>'
+            part=next_part
+        cls=' class="contents-reference"' if chapter['kind']=='reference' else ''
+        route='chapters/'+chapter['id']+'.html'
+        group+=f'<li{cls}><a href="{route}">{html.escape(chapter["title"])}</a>'
+        if chapter.get('navigationSections'):
+            group+='<ul class="contents-sections">'
+            for section in chapter['navigationSections']:
+                group+=f'<li><a href="{route}#{section["paragraph"]}">{html.escape(section["title"])}</a></li>'
+            group+='</ul>'
+        group+='</li>'
+    if part:group+='</ul></li>'
+    return group+'</ul>'
 
 
 def static_page(title, content, nav, styles, heading=None, volume=''):
@@ -73,6 +96,9 @@ def write_reader(slug, title, author, chapters, glossary, volumes, styles):
     (dest / 'index.html').write_text(template)
     groups=[]
     for volume in volumes:
+        if slug=='hyperion':
+            groups.append(chapter_contents(chapters,volume))
+            continue
         group='<h2>'+html.escape(volume['title'])+'</h2><ol>';last_part=''
         for chapter in (c for c in chapters if c['volume']==volume['id']):
             part=chapter.get('partTitle','') if chapter['kind']!='reference' else 'Supplementary material'

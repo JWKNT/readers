@@ -139,13 +139,13 @@
   {
     "id": "hyperion-01",
     "index": 1,
-    "title": "The Priest’s Tale",
+    "title": "Chapter 1",
     "volume": "hyperion",
     "kind": "chapter",
     "paragraphs": [
       {
         "id": "chapter-title",
-        "text": "The Priest’s Tale"
+        "text": "Chapter 1"
       },
       {
         "id": "p-001",
@@ -3312,13 +3312,13 @@
   {
     "id": "hyperion-02",
     "index": 2,
-    "title": "The Soldier’s Tale",
+    "title": "Chapter 2",
     "volume": "hyperion",
     "kind": "chapter",
     "paragraphs": [
       {
         "id": "chapter-title",
-        "text": "The Soldier’s Tale"
+        "text": "Chapter 2"
       },
       {
         "id": "p-001",
@@ -5465,13 +5465,13 @@
   {
     "id": "hyperion-03",
     "index": 3,
-    "title": "The Poet’s Tale",
+    "title": "Chapter 3",
     "volume": "hyperion",
     "kind": "chapter",
     "paragraphs": [
       {
         "id": "chapter-title",
-        "text": "The Poet’s Tale"
+        "text": "Chapter 3"
       },
       {
         "id": "p-001",
@@ -7486,13 +7486,13 @@
   {
     "id": "hyperion-04",
     "index": 4,
-    "title": "The Scholar’s Tale",
+    "title": "Chapter 4",
     "volume": "hyperion",
     "kind": "chapter",
     "paragraphs": [
       {
         "id": "chapter-title",
-        "text": "The Scholar’s Tale"
+        "text": "Chapter 4"
       },
       {
         "id": "p-001",
@@ -10871,13 +10871,13 @@
   {
     "id": "hyperion-05",
     "index": 5,
-    "title": "The Detective’s Tale",
+    "title": "Chapter 5",
     "volume": "hyperion",
     "kind": "chapter",
     "paragraphs": [
       {
         "id": "chapter-title",
-        "text": "The Detective’s Tale"
+        "text": "Chapter 5"
       },
       {
         "id": "p-001",
@@ -16080,13 +16080,13 @@
   {
     "id": "hyperion-06",
     "index": 6,
-    "title": "The Consul’s Tale",
+    "title": "Chapter 6",
     "volume": "hyperion",
     "kind": "chapter",
     "paragraphs": [
       {
         "id": "chapter-title",
-        "text": "The Consul’s Tale"
+        "text": "Chapter 6"
       },
       {
         "id": "p-001",

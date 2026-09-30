@@ -7,6 +7,7 @@ import unittest
 
 from editorial import restore, text
 from series_readers import ROOT, LIU_BOOKS, LIU_ID
+from rebuild_annotations import Fragment
 
 
 def read(path): return json.loads(path.read_text())
@@ -14,6 +15,26 @@ def digest(markup): return hashlib.sha256(' '.join(text(markup).split()).encode(
 
 
 class SeriesIntegrity(unittest.TestCase):
+    def test_hyperion_contents_separates_frame_chapters_and_tales(self):
+        manifest=read(ROOT/'hyperion/manifest.json')
+        for chapter in manifest['chapters']:
+            if not chapter.get('navigationSections'):continue
+            self.assertEqual('Chapter '+chapter['label'],chapter['title'])
+            source=read(ROOT/'hyperion/chapters'/(chapter['id']+'.json'))
+            tree=Fragment(source['html']).root
+            for section in chapter['navigationSections']:
+                heading=next(e for e in tree.iter('h2') if e.get('id')==section['paragraph'])
+                self.assertGreater(chapter['blocks'].index(section['paragraph']),0)
+                self.assertIn(section['title'].split(':')[0].upper(),''.join(heading.itertext()))
+        contents=Fragment((ROOT/'hyperion/contents.html').read_text()).root
+        self.assertEqual([],list(contents.iter('ol')))
+        lists=[e for e in contents.iter('ul') if e.get('class')=='contents-list']
+        fall=lists[1]
+        parts=[e for e in fall if e.get('class')=='contents-part']
+        self.assertEqual([15,15,15],[len(e.find('ul')) for e in parts])
+        direct=[e.find('a').text for e in fall if e.find('a') is not None]
+        self.assertEqual(['Epigraph','Epilogue','Dedication'],direct)
+
     def test_contents_only_links_within_each_series(self):
         for slug in (LIU_ID,'hyperion'):
             self.assertNotIn('series-switch',(ROOT/slug/'index.html').read_text(),slug)

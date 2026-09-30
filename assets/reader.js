@@ -48,17 +48,21 @@
       const detail=document.createElement('details');detail.dataset.volume=v.id;
       const head=document.createElement('summary');head.textContent=v.title.replace(/^The /,'');detail.append(head);
       const ul=document.createElement('ul');
-      let lastPart='';
+      let lastPart='',chapterList=ul;
       for(const c of state.manifest.chapters.filter(c=>c.volume===v.id&&c.kind!=='reference')) {
-        if(c.partTitle&&c.partTitle!==lastPart){const part=document.createElement('li');part.className='toc-part';part.textContent=c.partTitle;ul.append(part);lastPart=c.partTitle;}
+        if((c.partTitle||'')!==lastPart){
+          chapterList=ul;lastPart=c.partTitle||'';
+          if(lastPart){const group=document.createElement('li'),part=document.createElement('span');group.className='toc-part-group';part.className='toc-part';part.textContent=lastPart;chapterList=document.createElement('ul');group.append(part,chapterList);ul.append(group);}
+        }
         const li=document.createElement('li'),a=document.createElement('a');a.href='#'+c.id;a.dataset.chapter=c.id;
         if(c.unnumberedToc){a.className='single-label';a.textContent=c.title;}
         else a.innerHTML=`<span class="chapter-number">${esc(c.label||'—')}</span><span>${esc(c.title)}</span>`;
-        li.append(a);ul.append(li);
-        for(const section of c.navigationSections||[]){const link=document.createElement('a');link.className='chapter-section';link.href='#'+c.id+'/'+section.paragraph;link.textContent=section.title;li.append(link);}
+        li.append(a);chapterList.append(li);
+        if(c.navigationSections?.length){const sections=document.createElement('ul');sections.className='chapter-sections';for(const section of c.navigationSections){const item=document.createElement('li'),link=document.createElement('a');link.className='chapter-section';link.href='#'+c.id+'/'+section.paragraph;link.textContent=section.title;item.append(link);sections.append(item);}li.append(sections);}
       }
       const refs=state.manifest.chapters.filter(c=>c.volume===v.id&&c.kind==='reference');
-      if(refs.length&&!ul.children.length){for(const c of refs){const a=document.createElement('a');a.href='#'+c.id;a.dataset.chapter=c.id;a.textContent=c.title;const li=document.createElement('li');li.append(a);ul.append(li);}detail.append(ul);}else if(refs.length){const more=document.createElement('details');more.className='source-matter';const summary=document.createElement('summary');summary.textContent=v.referenceTitle||'Names in the text';more.append(summary);for(const c of refs){const a=document.createElement('a');a.href='#'+c.id;a.dataset.chapter=c.id;a.textContent=c.title;more.append(a);}detail.append(ul,more);}else detail.append(ul);
+      if(refs.length===1&&v.referenceTitle===refs[0].title){const c=refs[0],li=document.createElement('li'),a=document.createElement('a');a.href='#'+c.id;a.dataset.chapter=c.id;a.className='single-label reference-link';a.textContent=c.title;li.append(a);ul.append(li);detail.append(ul);}
+      else if(refs.length&&!ul.children.length){for(const c of refs){const a=document.createElement('a');a.href='#'+c.id;a.dataset.chapter=c.id;a.textContent=c.title;const li=document.createElement('li');li.append(a);ul.append(li);}detail.append(ul);}else if(refs.length){const more=document.createElement('details');more.className='source-matter';const summary=document.createElement('summary');summary.textContent=v.referenceTitle||'Names in the text';more.append(summary);for(const c of refs){const a=document.createElement('a');a.href='#'+c.id;a.dataset.chapter=c.id;a.textContent=c.title;more.append(a);}detail.append(ul,more);}else detail.append(ul);
       container.append(detail);
     }
   }

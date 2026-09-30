@@ -21,7 +21,7 @@
   "defaultChapter": "hyperion-prologue",
   "glossaryCount": 297,
   "correctionCount": 0,
-  "editionVersion": 16,
+  "editionVersion": 17,
   "chapters": [
     {
       "id": "hyperion-prologue",
@@ -145,7 +145,7 @@
     },
     {
       "id": "hyperion-01",
-      "title": "The Priest’s Tale",
+      "title": "Chapter 1",
       "label": "1",
       "volume": "hyperion",
       "volumeTitle": "Hyperion",
@@ -952,10 +952,10 @@
         }
       ],
       "words": 33654,
-      "unnumberedToc": false,
+      "unnumberedToc": true,
       "navigationSections": [
         {
-          "title": "The Man Who Cried God",
+          "title": "The Priest’s Tale: The Man Who Cried God",
           "paragraph": "p-149"
         }
       ],
@@ -1166,7 +1166,7 @@
     },
     {
       "id": "hyperion-02",
-      "title": "The Soldier’s Tale",
+      "title": "Chapter 2",
       "label": "2",
       "volume": "hyperion",
       "volumeTitle": "Hyperion",
@@ -1718,10 +1718,10 @@
         }
       ],
       "words": 26607,
-      "unnumberedToc": false,
+      "unnumberedToc": true,
       "navigationSections": [
         {
-          "title": "The War Lovers",
+          "title": "The Soldier’s Tale: The War Lovers",
           "paragraph": "p-181"
         }
       ],
@@ -1948,7 +1948,7 @@
     },
     {
       "id": "hyperion-03",
-      "title": "The Poet’s Tale",
+      "title": "Chapter 3",
       "label": "3",
       "volume": "hyperion",
       "volumeTitle": "Hyperion",
@@ -2467,10 +2467,10 @@
         }
       ],
       "words": 20213,
-      "unnumberedToc": false,
+      "unnumberedToc": true,
       "navigationSections": [
         {
-          "title": "Hyperion Cantos",
+          "title": "The Poet’s Tale: Hyperion Cantos",
           "paragraph": "p-023"
         }
       ],
@@ -2773,7 +2773,7 @@
     },
     {
       "id": "hyperion-04",
-      "title": "The Scholar’s Tale",
+      "title": "Chapter 4",
       "label": "4",
       "volume": "hyperion",
       "volumeTitle": "Hyperion",
@@ -3633,10 +3633,10 @@
         }
       ],
       "words": 26528,
-      "unnumberedToc": false,
+      "unnumberedToc": true,
       "navigationSections": [
         {
-          "title": "The River Lethe’s Taste Is Bitter",
+          "title": "The Scholar’s Tale: The River Lethe’s Taste Is Bitter",
           "paragraph": "p-163"
         }
       ],
@@ -3855,7 +3855,7 @@
     },
     {
       "id": "hyperion-05",
-      "title": "The Detective’s Tale",
+      "title": "Chapter 5",
       "label": "5",
       "volume": "hyperion",
       "volumeTitle": "Hyperion",
@@ -5171,10 +5171,10 @@
         }
       ],
       "words": 33583,
-      "unnumberedToc": false,
+      "unnumberedToc": true,
       "navigationSections": [
         {
-          "title": "The Long Good-Bye",
+          "title": "The Detective’s Tale: The Long Good-Bye",
           "paragraph": "p-184"
         }
       ],
@@ -5397,7 +5397,7 @@
     },
     {
       "id": "hyperion-06",
-      "title": "The Consul’s Tale",
+      "title": "Chapter 6",
       "label": "6",
       "volume": "hyperion",
       "volumeTitle": "Hyperion",
@@ -6011,10 +6011,10 @@
         }
       ],
       "words": 23991,
-      "unnumberedToc": false,
+      "unnumberedToc": true,
       "navigationSections": [
         {
-          "title": "Remembering Siri",
+          "title": "The Consul’s Tale: Remembering Siri",
           "paragraph": "p-130"
         }
       ],
