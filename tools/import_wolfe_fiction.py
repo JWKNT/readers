@@ -443,19 +443,8 @@ def build(spec, archives, source_info):
 
 
 def library_page(library):
-    path=ROOT/'index.html';text=path.read_text()
-    # Keep the established Sun and Liu presentation. New works are independent links.
-    text=re.sub(r'<div id="additional-wolfe">.*?</div><!-- additional-wolfe -->','',text,flags=re.S)
-    works=[b for b in library if b.get('kind')=='book']
-    stories=[b for b in library if b.get('kind')=='story']
-    extra='<div id="additional-wolfe">'+''.join(f'<article><h3><a href="{b["id"]}/">{html.escape(b["title"])}</a></h3></article>' for b in works)
-    extra+='<section class="short-stories" aria-labelledby="stories-title"><h3 id="stories-title">Short stories</h3><ul class="story-list">'
-    extra+=''.join(f'<li><a href="{b["id"]}/">{html.escape(b["title"])}</a></li>' for b in stories)
-    extra+='</ul></section></div><!-- additional-wolfe -->'
-    text=text.replace('</section><section class="author-group"',extra+'</section><section class="author-group"',1)
-    text=re.sub(r'\?v=\d+',f'?v={EDITION}',text)
-    if 'wolfe-fiction.css' not in text:text=text.replace('</head>',f'<link rel="stylesheet" href="assets/wolfe-fiction.css?v={EDITION}"></head>')
-    path.write_text(text)
+    from library_page import build_library
+    build_library(ROOT, library)
 
 
 def main():

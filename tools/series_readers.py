@@ -163,17 +163,8 @@ def group_liu():
 
 
 def library_page():
-    path=ROOT/'index.html';page=path.read_text()
-    liu='<section class="author-group" aria-labelledby="liu-title"><h2 class="author-heading" id="liu-title">Cixin Liu</h2><article><h3><a href="remembrance-of-earths-past/">Remembrance of Earth’s Past</a></h3><p class="volumes">'
-    for slug in LIU_BOOKS:
-        m=json.loads((ROOT/slug/'manifest.json').read_text())
-        liu+=f'<a href="{LIU_ID}/#{slug}-{m["defaultChapter"]}">{html.escape(m["title"])}</a><br>'
-    liu=liu.removesuffix('<br>')+'</p></article></section>'
-    page=re.sub(r'<section class="author-group" aria-labelledby="liu-title">.*?</section>',lambda m:liu,page,flags=re.S)
-    page=re.sub(r'<section class="author-group" aria-labelledby="simmons-title">.*?</section>','',page,flags=re.S)
-    if (ROOT/'hyperion/manifest.json').exists():
-        page=page.replace('</main>','<section class="author-group" aria-labelledby="simmons-title"><h2 class="author-heading" id="simmons-title">Dan Simmons</h2><article><h3><a href="hyperion/">Hyperion</a></h3><p class="volumes"><a href="hyperion/#hyperion-prologue">Hyperion</a><br><a href="hyperion/#fall-epigraph">The Fall of Hyperion</a></p></article></section></main>')
-    path.write_text(re.sub(r'\?v=\d+',f'?v={EDITION}',page))
+    from library_page import build_library
+    build_library(ROOT)
 
 
 if __name__=='__main__':
