@@ -48,17 +48,29 @@ def main():
         baseline = tarfile.open(fileobj=io.BytesIO(subprocess.check_output(
             ['git', '-C', str(ROOT), 'archive', args.baseline])))
     library = {b['id']: b for b in json.loads((ROOT / 'library.json').read_text())}
-    for book in sorted(ROOT.glob('book-*')):
+    baseline_names = set(baseline.getnames()) if baseline else set()
+    for book in (ROOT / name for name in sorted(library)):
         manifest = json.loads((book / 'manifest.json').read_text())
         glossary = json.loads((book / 'glossary.json').read_text())
         terms = {entry['id']: entry for entry in glossary}
         assert len(terms) == len(glossary), (book, 'duplicate glossary IDs')
         assert manifest['glossaryCount'] == library[book.name]['glossaryCount'] == len(glossary)
         counts, first_flags, first = Counter(), Counter(), {}
+        chapter_ids = {c['id']: set(c['blocks']) for c in manifest['chapters']}
+        integrity_path = ROOT / 'data' / 'earths-past' / (book.name + '-integrity.json')
+        integrity = {c['chapter']: c for c in json.loads(integrity_path.read_text())['chapters']} if integrity_path.exists() else {}
         for chapter in manifest['chapters']:
             path = book / 'chapters' / (chapter['id'] + '.json')
             data = json.loads(path.read_text())
             current = Inspect(data['html'])
+            if integrity:
+                import hashlib
+                normalized = ' '.join(''.join(current.text).split())
+                assert hashlib.sha256(normalized.encode()).hexdigest() == integrity[chapter['id']]['textSha256'], (path, 'source text integrity')
+            for route in re.findall(r'data-route="([^"]+)"', data['html']):
+                parts = route.split('/', 1)
+                assert parts[0] in chapter_ids, (path, 'unknown note chapter', route)
+                assert len(parts) == 1 or parts[1] in chapter_ids[parts[0]], (path, 'unknown note paragraph', route)
             static = Inspect(article(path.with_suffix('.html').read_text()))
             assert ''.join(current.text) == ''.join(static.text), (path, 'static text mismatch')
             assert current.ids == static.ids == data['blocks'], (path, 'paragraph mismatch')
@@ -71,7 +83,7 @@ def main():
             assert len(current.ids) == len(set(current.ids)), (path, 'duplicate paragraph IDs')
             anchors = [{'term': t, 'paragraph': p} for t, p, f, local in current.annotations if local == 'true']
             assert anchors == data['noteAnchors'] == chapter['noteAnchors'], (path, 'anchor mismatch')
-            if baseline:
+            if baseline and str(path.relative_to(ROOT)) in baseline_names:
                 old = json.loads(baseline.extractfile(str(path.relative_to(ROOT))).read())
                 previous = Inspect(old['html'])
                 assert ''.join(current.text) == ''.join(previous.text), (path, 'text changed')

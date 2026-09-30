@@ -1,0 +1,1115 @@
+[
+  {
+    "id": "constantine-xi",
+    "term": "Constantine XI",
+    "aliases": [],
+    "short": "The last Byzantine emperor.",
+    "note": "Constantine XI Palaiologos was the last Byzantine emperor. His reign ended with the Ottoman capture of Constantinople in 1453.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://castleroute.culture.gov.gr/en/mistras/",
+        "label": "Greek Ministry of Culture: Mistras"
+      }
+    ]
+  },
+  {
+    "id": "constantinople",
+    "term": "Constantinople",
+    "aliases": [],
+    "short": "The Byzantine capital, now Istanbul.",
+    "note": "The city now called Istanbul was the capital of the Byzantine Empire and later the Ottoman Empire. It fell to the forces of Mehmed II in 1453.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/fr/essays/constantinople-after-1261",
+        "label": "Metropolitan Museum: Constantinople after 1261"
+      }
+    ]
+  },
+  {
+    "id": "mehmed-ii",
+    "term": "Mehmed II",
+    "aliases": [],
+    "short": "The Ottoman sultan who conquered Constantinople.",
+    "note": "Mehmed II, known as the Conqueror, captured Constantinople in 1453 and made it an Ottoman capital. He also supported scholarship, art, and major building projects.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/fr/essays/constantinople-after-1261",
+        "label": "Metropolitan Museum: Constantinople after 1261"
+      }
+    ]
+  },
+  {
+    "id": "phrantzes",
+    "term": "Phrantzes",
+    "aliases": [],
+    "short": "George Sphrantzes, Byzantine diplomat and chronicler.",
+    "note": "George Sphrantzes served the last Byzantine emperors as a court official and diplomat. His Chronicon Minus records his personal and political life during the fifteenth century.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cambridge.org/core/books/abs/guide-to-byzantine-historical-writing/george-sphrantzes/ADC0456664600BCB09332F210693AE1A",
+        "label": "Cambridge University Press: George Sphrantzes"
+      }
+    ]
+  },
+  {
+    "id": "hagia-sophia",
+    "term": "Hagia Sophia",
+    "aliases": [],
+    "short": "The sixth-century Church of Holy Wisdom in Istanbul.",
+    "note": "Hagia Sophia, Greek for Holy Wisdom, was built in Constantinople in 532–537 under Justinian I. Its vast dome became a landmark of Byzantine architecture; the building later served as a mosque.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/356",
+        "label": "UNESCO: Historic Areas of Istanbul"
+      }
+    ]
+  },
+  {
+    "id": "theodosius-ii",
+    "term": "Theodosius II",
+    "aliases": [],
+    "short": "The fifth-century Eastern Roman emperor associated with Constantinople’s land walls.",
+    "note": "Theodosius II was the Eastern Roman emperor under whom Constantinople’s great land defenses took shape. The expanded fifth-century fortifications are known as the Theodosian Walls.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/356",
+        "label": "UNESCO: Historic Areas of Istanbul"
+      }
+    ]
+  },
+  {
+    "id": "kafka-judgment",
+    "term": "The Judgment",
+    "aliases": [
+      "Franz Kafka"
+    ],
+    "short": "Kafka’s short story of a father’s sentence against his son.",
+    "note": "Franz Kafka wrote The Judgment, originally Das Urteil, in a single night in September 1912; it first appeared in 1913. Its young protagonist receives an impossible-seeming condemnation from his father.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.franzkafka.de/werk/saemtliche-titel/das-urteil",
+        "label": "S. Fischer: Das Urteil"
+      }
+    ]
+  },
+  {
+    "id": "turgenev-threshold",
+    "term": "Threshold",
+    "aliases": [
+      "Ivan Turgenev"
+    ],
+    "short": "Turgenev’s prose poem about accepting sacrifice.",
+    "note": "Ivan Turgenev’s prose poem The Threshold presents a young woman who accepts suffering and condemnation as the price of crossing into a life of committed action.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/31554/31554-h/31554-h.htm",
+        "label": "Ivan Panin: Lectures on Russian Literature, including The Threshold"
+      }
+    ]
+  },
+  {
+    "id": "third-wave",
+    "term": "The Third Wave",
+    "aliases": [
+      "Third Wave",
+      "Ron Jones"
+    ],
+    "short": "Ron Jones’s 1967 classroom demonstration of authoritarian conformity.",
+    "note": "In 1967, California teacher Ron Jones organized a classroom movement called the Third Wave to demonstrate the appeal of authoritarian discipline and group loyalty. Participants’ accounts differ on some details.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.thewavehome.com/faq/",
+        "label": "The Wave: original participants’ history and FAQ"
+      }
+    ]
+  },
+  {
+    "id": "li-zhiyi",
+    "term": "Li Zhiyi",
+    "aliases": [],
+    "short": "A Song poet associated with the lyric of lovers separated along a river.",
+    "note": "Li Zhiyi was a Song-dynasty poet active in the late eleventh century. His lyric to the tune Busuanzi describes lovers living far apart while sharing the water of the same river.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.icm.gov.mo/rc/viewer/20025/1114",
+        "label": "Macao Cultural Affairs Bureau: Li Zhiyi and Busuanzi"
+      }
+    ]
+  },
+  {
+    "id": "qingming-scroll",
+    "term": "Along the River During the Qingming Festival",
+    "aliases": [],
+    "short": "Zhang Zeduan’s panoramic Song-dynasty handscroll.",
+    "note": "An early-twelfth-century handscroll by Zhang Zeduan depicting the crowded streets, waterways, and everyday activity of the Northern Song capital. Its composition inspired many later copies and reinterpretations.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.xn--9krt9f03etqmwqq10lz60c.tw/Exhibition-Content.aspx?l=2&sno=04007005",
+        "label": "National Palace Museum: Up the River During Qingming"
+      }
+    ]
+  },
+  {
+    "id": "poe-maelstrom",
+    "term": "A Descent into the Maelstrom",
+    "aliases": [
+      "Edgar Allan Poe",
+      "Poe"
+    ],
+    "short": "Poe’s tale of a survivor of a Norwegian whirlpool.",
+    "note": "Edgar Allan Poe’s A Descent into the Maelström recounts a fisherman’s terrifying encounter with an immense Norwegian whirlpool. The survivor studies the motions of floating objects to find a way out.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://poemuseum.org/2021/12/18/",
+        "label": "Poe Museum: A Descent into the Maelström"
+      }
+    ]
+  },
+  {
+    "id": "moskstraumen",
+    "term": "Moskstraumen",
+    "aliases": [],
+    "short": "A powerful tidal current in Norway’s Lofoten archipelago.",
+    "note": "The Moskstraumen is a strong tidal current and whirlpool system near Moskenes in the Lofoten Islands of northern Norway. It supplied the setting for Poe’s A Descent into the Maelström.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.visitnorway.com/listings//the-tide/210709/",
+        "label": "Visit Norway / Destination Lofoten: Moskstraumen"
+      }
+    ]
+  },
+  {
+    "id": "carpe-diem",
+    "term": "Carpe diem",
+    "aliases": [],
+    "short": "Latin: seize the day.",
+    "note": "Latin for seize the day, from Horace’s Odes 1.11. The phrase urges enjoyment of the present instead of reliance on an unknowable future.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poets/horace",
+        "label": "Poetry Foundation: Horace"
+      }
+    ]
+  },
+  {
+    "id": "linear-a",
+    "term": "Linear A",
+    "aliases": [],
+    "short": "An undeciphered Bronze Age writing system of Crete.",
+    "note": "A script used in Bronze Age Crete before the Greek-writing Linear B. Linear A has not been securely deciphered, and the language it records remains unidentified.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.ling-phil.ox.ac.uk/files/amd_ocd_entries_4th_ed._2012.pdf",
+        "label": "Oxford classical reference entries: pre-Greek languages"
+      }
+    ]
+  },
+  {
+    "id": "cretan-hieroglyphics",
+    "term": "Cretan hieroglyphics",
+    "aliases": [],
+    "short": "An undeciphered script of Bronze Age Crete.",
+    "note": "A pictorial writing system of Bronze Age Crete, distinct from Egyptian hieroglyphs and from the later Greek-writing Linear B. The language behind its signs is not securely identified.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.ling-phil.ox.ac.uk/files/amd_ocd_entries_4th_ed._2012.pdf",
+        "label": "Oxford classical reference entries: pre-Greek languages"
+      }
+    ]
+  },
+  {
+    "id": "clerical-script",
+    "term": "Clerical Script",
+    "aliases": [],
+    "short": "Lishu, a form of Chinese writing developed for scribal use.",
+    "note": "Clerical script, or lishu, is a Chinese writing style that developed under the Han dynasty. Its flattened forms and distinctive spreading strokes became important models for later calligraphy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/it/essays/chinese-calligraphy",
+        "label": "Metropolitan Museum: Chinese Calligraphy"
+      }
+    ]
+  },
+  {
+    "id": "starry-night",
+    "term": "Starry Night",
+    "aliases": [
+      "Van Gogh"
+    ],
+    "short": "Van Gogh’s 1889 painting of a turbulent night sky.",
+    "note": "Vincent van Gogh painted The Starry Night at Saint-Rémy in June 1889. Its swirling blue sky, bright celestial bodies, village, and dark cypress combine observation with an imaginative reconstruction of the view.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.moma.org/collection/works/79802",
+        "label": "Museum of Modern Art: The Starry Night"
+      }
+    ]
+  },
+  {
+    "id": "francis-bacon",
+    "term": "Francis Bacon",
+    "aliases": [],
+    "short": "The English essayist whose Of Boldness tells the mountain-and-Muhammad anecdote.",
+    "note": "Francis Bacon’s essay Of Boldness tells an anecdote in which Muhammad, unable to make a mountain approach, decides to go to it. It is a literary anecdote in Bacon, rather than an authenticated episode from Muhammad’s life.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/575/575-h/575-h.htm",
+        "label": "Francis Bacon: Essays, Of Boldness"
+      }
+    ]
+  },
+  {
+    "id": "charles-misner",
+    "term": "Charles Misner",
+    "aliases": [],
+    "short": "A theoretical physicist known for work on gravitation and cosmology.",
+    "note": "Charles W. Misner (1932–2023) was a theoretical physicist and a major contributor to general relativity. He coauthored Gravitation and helped develop the Arnowitt–Deser–Misner formulation of Einstein’s theory.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.umdphysics.umd.edu/about-us/news/department-news/misner.html",
+        "label": "University of Maryland: Charles W. Misner"
+      }
+    ]
+  },
+  {
+    "id": "planck-time",
+    "term": "Planck time",
+    "aliases": [],
+    "short": "A natural time unit of about 5.39 × 10⁻⁴⁴ seconds.",
+    "note": "The natural unit of time formed from the reduced Planck constant, the gravitational constant, and the speed of light: √(ℏG/c⁵), approximately 5.39 × 10⁻⁴⁴ seconds.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.physics.nist.gov/cuu/pdf/CODATA_RMP2016.pdf",
+        "label": "NIST: CODATA recommended fundamental constants"
+      }
+    ]
+  },
+  {
+    "id": "schwarzschild-radius",
+    "term": "Schwarzschild radius",
+    "aliases": [],
+    "short": "The event-horizon radius of an uncharged, nonrotating black hole.",
+    "note": "The radius 2GM/c² for a mass M, where G is the gravitational constant and c the speed of light. It gives the event-horizon radius of an ideal nonrotating, uncharged black hole.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://imagine.gsfc.nasa.gov/science/objects/black_holes2.html",
+        "label": "NASA Imagine the Universe: black holes"
+      }
+    ]
+  },
+  {
+    "id": "mohorovicic-discontinuity",
+    "term": "Mohorovičić discontinuity",
+    "aliases": [],
+    "short": "The seismic boundary between Earth’s crust and mantle.",
+    "note": "The boundary between Earth’s crust and mantle, detected through a marked change in seismic-wave speed. Often shortened to Moho, it is named for the Croatian seismologist Andrija Mohorovičić.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.usgs.gov/publications/seismic-velocity-structure-continental-lithosphere-controlled-source-data",
+        "label": "USGS: Seismic velocity structure of the continental lithosphere"
+      }
+    ]
+  },
+  {
+    "id": "peridotite",
+    "term": "peridotite",
+    "aliases": [],
+    "short": "A dense, olivine-rich rock characteristic of the upper mantle.",
+    "note": "A dark, dense rock rich in the mineral olivine. Peridotite makes up much of Earth’s upper mantle beneath the crust.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.usgs.gov/observatories/hvo/news/volcano-watch-after-50-years-a-renewed-effort-drill-moho",
+        "label": "USGS: Drilling to the Moho"
+      }
+    ]
+  },
+  {
+    "id": "ulam",
+    "term": "Stanislaw Ulam",
+    "aliases": [],
+    "short": "A mathematician who studied propulsion by repeated nuclear explosions.",
+    "note": "Stanislaw Ulam worked on mathematics, computing, and nuclear physics at Los Alamos. With Cornelius Everett, he investigated propelling a spacecraft with a sequence of external nuclear explosions, an idea later associated with Project Orion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://permalink.lanl.gov/object/tr?what=info%3Alanl-repo%2Flareport%2FLA-UR-87-3600-02",
+        "label": "Los Alamos: Ulam’s autobiographical account"
+      }
+    ]
+  },
+  {
+    "id": "nuclear-pulse-propulsion",
+    "term": "nuclear pulse propulsion",
+    "aliases": [],
+    "short": "A proposed drive powered by successive nuclear explosions.",
+    "note": "A proposed method of accelerating a spacecraft through repeated nuclear explosions outside the vehicle. Ulam and Everett studied the concept at Los Alamos; it later formed the basis of Project Orion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://permalink.lanl.gov/object/tr?what=info%3Alanl-repo%2Flareport%2FLA-UR-87-3600-02",
+        "label": "Los Alamos: Ulam’s autobiographical account"
+      }
+    ]
+  },
+  {
+    "id": "dyson-sphere",
+    "term": "Dyson spheres",
+    "aliases": [],
+    "short": "Hypothetical structures that collect a star’s energy.",
+    "note": "Hypothetical engineering on a stellar scale: structures or swarms of collectors arranged around a star to capture its energy. Their waste heat could produce excess infrared radiation detectable from afar.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/universe/search-for-life/searching-for-signs-of-intelligent-life-technosignatures/",
+        "label": "NASA: Searching for Technosignatures"
+      }
+    ]
+  },
+  {
+    "id": "kuiper-belt",
+    "term": "Kuiper Belt",
+    "aliases": [],
+    "short": "The broad region of icy bodies beyond Neptune.",
+    "note": "A thick belt of icy bodies beyond Neptune, including Pluto and many other remnants of the early Solar System. Its principal region extends roughly from 30 to 50 astronomical units from the Sun.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/kuiper-belt/facts/",
+        "label": "NASA: Kuiper Belt Facts"
+      }
+    ]
+  },
+  {
+    "id": "oort-cloud",
+    "term": "Oort Cloud",
+    "aliases": [],
+    "short": "The proposed distant reservoir of icy comet bodies around the Solar System.",
+    "note": "A vast, roughly spherical reservoir of icy bodies inferred to surround the Solar System far beyond the Kuiper Belt. It is thought to supply many long-period comets.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/oort-cloud/",
+        "label": "NASA: Oort Cloud"
+      }
+    ]
+  },
+  {
+    "id": "lagrangian-point",
+    "term": "Lagrangian point",
+    "aliases": [
+      "Lagrangian points"
+    ],
+    "short": "One of five places where a small body can keep its position relative to two orbiting masses.",
+    "note": "In an ideal two-body orbital system, one of five locations where a third, small body can move with the other two while retaining its relative position. At Sun–Earth L1, gravity provides the acceleration needed for the shared orbital period.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/resources/faq/what-are-lagrange-points/",
+        "label": "NASA: What Are Lagrange Points?"
+      }
+    ]
+  },
+  {
+    "id": "leda",
+    "term": "Leda",
+    "aliases": [],
+    "short": "A small moon of Jupiter, named for the mythological mother of Helen.",
+    "note": "A small member of Jupiter’s Himalia group of moons, discovered in 1974. Its name comes from Leda, whom Zeus visited in the form of a swan in Greek mythology.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/jupiter/jupiter-moons/leda/",
+        "label": "NASA: Leda"
+      }
+    ]
+  },
+  {
+    "id": "cassini-huygens",
+    "term": "Cassini-Huygens",
+    "aliases": [],
+    "short": "The joint mission to Saturn and its moon Titan.",
+    "note": "Launched in 1997, the NASA–ESA–ASI mission combined the Cassini Saturn orbiter with ESA’s Huygens probe. Huygens landed on Titan in January 2005; Cassini studied Saturn until 2017.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mission/cassini-huygens/",
+        "label": "NASA: Huygens"
+      }
+    ]
+  },
+  {
+    "id": "buran",
+    "term": "Buran",
+    "aliases": [],
+    "short": "The Soviet space shuttle that flew in 1988.",
+    "note": "The Soviet winged spacecraft carried into orbit by the Energia launcher. Buran made its only spaceflight in November 1988.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.esa.int/content/view/full/166665",
+        "label": "ESA: Fifty Years of Access to Space"
+      }
+    ]
+  },
+  {
+    "id": "sword-damocles",
+    "term": "Sword of Damocles",
+    "aliases": [],
+    "short": "An image of imminent danger hanging over apparent good fortune.",
+    "note": "In the ancient anecdote, Damocles enjoys a ruler’s luxurious seat until he notices a sword suspended above him by a single horsehair. The image represents the insecurity that accompanies power and prosperity.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0067%3Atext%3DCarm.%3Abook%3D3",
+        "label": "Perseus: Horace commentary citing Cicero, Tusculan Disputations 5.61"
+      }
+    ]
+  },
+  {
+    "id": "rosetta-stone",
+    "term": "Rosetta Stone",
+    "aliases": [],
+    "short": "A three-script decree that helped unlock Egyptian hieroglyphs.",
+    "note": "A stone decree issued in 196 BCE under Ptolemy V, written in Egyptian hieroglyphs, Egyptian demotic, and Greek. Comparing its parallel versions helped scholars decipher Egyptian hieroglyphic writing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone",
+        "label": "British Museum: The Rosetta Stone"
+      }
+    ]
+  },
+  {
+    "id": "great-seal-script",
+    "term": "Great Seal Script",
+    "aliases": [],
+    "short": "Dazhuan, the older forms of Chinese seal writing.",
+    "note": "Also called large-seal script or dazhuan: early Chinese character forms associated especially with inscriptions on Shang and Zhou ritual bronzes. These precede the more standardized small-seal script.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://asia-archive.si.edu/learn/chinas-calligraphic-arts/seal-script/",
+        "label": "Smithsonian National Museum of Asian Art: Seal Script"
+      }
+    ]
+  },
+  {
+    "id": "small-seal-script",
+    "term": "Small Seal Script",
+    "aliases": [],
+    "short": "Xiaozhuan, the standardized seal writing of the Qin period.",
+    "note": "Chinese seal writing standardized under the Qin dynasty, with balanced forms and relatively even lines. It was used for official inscriptions and remained influential in later seal carving and calligraphy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://asia-archive.si.edu/learn/chinas-calligraphic-arts/seal-script/",
+        "label": "Smithsonian National Museum of Asian Art: Seal Script"
+      }
+    ]
+  },
+  {
+    "id": "classic-of-poetry",
+    "term": "Classic of Poetry",
+    "aliases": [],
+    "short": "The Shijing, an ancient Chinese anthology of songs and poems.",
+    "note": "The Shijing, also called the Book of Odes, is an ancient collection of more than three hundred Chinese poems. Its songs, court odes, and hymns became central texts of the Confucian tradition.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/40052",
+        "label": "Metropolitan Museum: Courtly Odes, Beginning with Wild Geese"
+      }
+    ]
+  },
+  {
+    "id": "mona-lisa",
+    "term": "Mona Lisa",
+    "aliases": [],
+    "short": "Leonardo da Vinci’s portrait of Lisa Gherardini.",
+    "note": "Leonardo da Vinci’s portrait of Lisa Gherardini, the wife of Francesco del Giocondo, also known as La Gioconda. Its softly shaded face and elusive smile are celebrated examples of his sfumato technique.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.louvre.fr/en/explore/visitor-trails/the-louvre-s-masterpieces/a-superstar-and-a-wedding-crowd",
+        "label": "Louvre: Mona Lisa"
+      }
+    ]
+  },
+  {
+    "id": "pantheon",
+    "term": "Panthéon",
+    "aliases": [],
+    "short": "The Paris monument and burial place honoring distinguished figures.",
+    "note": "A monumental building in Paris whose crypt became a national burial place during the French Revolution. Among those commemorated there are Voltaire and Jean-Jacques Rousseau.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.paris-pantheon.fr/enseignants/ressources-pedagogiques/documents/dossier-enseignant-le-pantheon",
+        "label": "Centre des monuments nationaux: Panthéon guide"
+      }
+    ]
+  },
+  {
+    "id": "rousseau",
+    "term": "Rousseau",
+    "aliases": [],
+    "short": "Jean-Jacques Rousseau, the philosopher of The Social Contract.",
+    "note": "Jean-Jacques Rousseau (1712–1778) was the Genevan philosopher whose Social Contract argued for sovereignty grounded in the people. His remains were transferred to the Paris Panthéon in 1794.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.paris-pantheon.fr/enseignants/ressources-pedagogiques/documents/dossier-enseignant-le-pantheon",
+        "label": "Centre des monuments nationaux: Panthéon guide"
+      }
+    ]
+  },
+  {
+    "id": "jack-davis",
+    "term": "Jack Davis",
+    "aliases": [],
+    "short": "An Aboriginal Australian poet and playwright.",
+    "note": "A Western Australian poet, dramatist, and advocate for Aboriginal people. His publications include the poetry collection The First Born and the plays No Sugar and The Dreamers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://slwa.wa.gov.au/whats-on/awards-fellowships/western-australian-writers-hall-fame/jack-davis",
+        "label": "State Library of Western Australia: Jack Davis"
+      }
+    ]
+  },
+  {
+    "id": "didgeridoo",
+    "term": "didgeridoo",
+    "aliases": [],
+    "short": "An Aboriginal Australian wind instrument with a deep drone.",
+    "note": "A long wind instrument originating in northern Australia, traditionally made from naturally hollowed wood. The player vibrates the lips at one end to produce its characteristic sustained drone.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://media.australian.museum/media/dd/Uploads/Documents/30356/AMS368_V11-11_lowres.eaf8cee.pdf",
+        "label": "Australian Museum Magazine: Didgeridoo specimens"
+      }
+    ]
+  },
+  {
+    "id": "mount-tai",
+    "term": "Mount Tai",
+    "aliases": [],
+    "short": "A sacred Chinese mountain associated with imperial ceremonies.",
+    "note": "Mount Tai, or Taishan, is one of China’s traditionally sacred mountains. Emperors performed rites there honoring Heaven and Earth; its temples, inscriptions, and landscape carry a long religious and literary history.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/437",
+        "label": "UNESCO: Mount Taishan"
+      }
+    ]
+  },
+  {
+    "id": "mount-emei",
+    "term": "Mount Emei",
+    "aliases": [],
+    "short": "A sacred Buddhist mountain in Sichuan.",
+    "note": "Emeishan, in Sichuan, is a major center of Chinese Buddhist pilgrimage. Temples are set among forests that range from subtropical vegetation to high-altitude conifers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/779/",
+        "label": "UNESCO: Mount Emei Scenic Area"
+      }
+    ]
+  },
+  {
+    "id": "great-pyramid-cheops",
+    "term": "Great Pyramid of Cheops",
+    "aliases": [],
+    "short": "The great Giza pyramid built as the tomb of Khufu.",
+    "note": "The largest pyramid at Giza, built for the Egyptian king Khufu, called Cheops in Greek. Originally about 146.5 metres high, it is the surviving monument of the ancient Seven Wonders.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://egymonuments.gov.eg/monuments/the-great-pyramid/",
+        "label": "Egyptian Ministry of Tourism and Antiquities: The Great Pyramid"
+      }
+    ]
+  },
+  {
+    "id": "joan-of-arc",
+    "term": "Joan of Arc",
+    "aliases": [
+      "Maid of Orléans"
+    ],
+    "short": "The French heroine condemned in 1431 and exonerated in 1456.",
+    "note": "Joan of Arc, also called the Maid of Orléans, became a central figure of French resistance during the Hundred Years’ War. She was tried and burned at Rouen in 1431; a later trial cleared her in 1456.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.historial-jeannedarc.fr/en/historial/about-the-historial/",
+        "label": "Historial Jeanne d’Arc: Historical background"
+      }
+    ]
+  },
+  {
+    "id": "antarctic-treaty",
+    "term": "Antarctic Treaty",
+    "aliases": [],
+    "short": "The 1959 agreement reserving Antarctica for peaceful activity and scientific cooperation.",
+    "note": "Signed in 1959 and in force from 1961, this treaty sets Antarctica aside for peaceful purposes and supports freedom of scientific investigation. It preserves the parties’ positions on territorial claims without allowing new claims while it remains in force.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.ats.aq/e/antarctictreaty.html",
+        "label": "Antarctic Treaty Secretariat: The Treaty"
+      }
+    ]
+  },
+  {
+    "id": "law-of-sea",
+    "term": "Law of the Sea Convention",
+    "aliases": [],
+    "short": "The 1982 international convention governing uses of the seas.",
+    "note": "The United Nations Convention on the Law of the Sea was concluded at Montego Bay in 1982 and entered into force in 1994. It establishes a framework for maritime zones, navigation, ocean resources, and protection of the marine environment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://treaties.un.org/Pages/showDetails.aspx?clang=_en&objid=0800000280043ad5",
+        "label": "United Nations Treaty Collection: Convention on the Law of the Sea"
+      }
+    ]
+  },
+  {
+    "id": "venus-de-milo",
+    "term": "Venus de Milo",
+    "aliases": [],
+    "short": "The celebrated armless Greek statue of Aphrodite.",
+    "note": "A Hellenistic Greek marble statue generally identified as Aphrodite, the goddess called Venus by the Romans. Discovered on the island of Melos in 1820, it is famous for its missing arms and now belongs to the Louvre.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://musee.louvre.fr/decouvrir/vie-du-musee/qu-est-ce-qu-elle-a-donc-cette-venus-de-milo",
+        "label": "Louvre: Vénus de Milo"
+      }
+    ]
+  },
+  {
+    "id": "gone-with-wind",
+    "term": "Gone With the Wind",
+    "aliases": [],
+    "short": "The Civil War romance centered on Scarlett O’Hara and Tara.",
+    "note": "Margaret Mitchell’s story, adapted as the 1939 film, follows Scarlett O’Hara from plantation life in Georgia through the American Civil War and Reconstruction. Tara is her family’s plantation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.loc.gov/item/86707780/",
+        "label": "Library of Congress: Gone with the Wind"
+      }
+    ]
+  },
+  {
+    "id": "cyclopean",
+    "term": "Cyclopean",
+    "aliases": [],
+    "short": "Like the one-eyed giants of Greek mythology.",
+    "note": "From the Cyclopes, giants of Greek mythology. The best-known is Polyphemus, whose single eye Odysseus blinds in Homer’s Odyssey. The adjective can suggest a single enormous eye or gigantic scale.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Gigante/GigantePolyphemos.html",
+        "label": "Theoi: Polyphemus, with ancient source texts"
+      }
+    ]
+  },
+  {
+    "id": "justinian",
+    "term": "Justinian the Great",
+    "aliases": [
+      "Justinian"
+    ],
+    "short": "The sixth-century Byzantine emperor associated with Hagia Sophia and Roman-law codification.",
+    "note": "Justinian I ruled the Byzantine Empire from 527 to 565. His reign included reconquests around the Mediterranean, the codification of Roman law, and construction of the present Hagia Sophia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/pt/essays/the-byzantine-state-under-justinian-i-justinian-the-great",
+        "label": "Metropolitan Museum: The Byzantine State under Justinian I"
+      }
+    ]
+  },
+  {
+    "id": "busuanzi",
+    "term": "busuanzi",
+    "aliases": [],
+    "short": "A tune pattern used for Chinese ci lyrics.",
+    "note": "A named tune pattern, or cipai, used in Chinese ci poetry. Such patterns prescribe the arrangement of lines, tones, and rhymes; different poets supply their own words to the same form.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.lhp.sdu.edu.cn/__local/3/13/59/C68F3876E4AC23892D766B4A9A3_BA2EF4C2_3E1CF9.pdf",
+        "label": "Shandong University: Study of short ci tune patterns"
+      }
+    ]
+  },
+  {
+    "id": "childrens-crusade",
+    "term": "Children’s Crusade",
+    "aliases": [],
+    "short": "The popular religious expeditions of 1212, remembered for their young participants.",
+    "note": "A name given to popular crusading movements in France and Germany in 1212, involving many young people who hoped to reach Jerusalem. Contemporary accounts are fragmentary, and later stories about their fate are difficult to verify.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://sourcebooks.web.fordham.edu/source/1212pueri.asp",
+        "label": "Fordham Medieval Sourcebook: Chronicle account of 1212"
+      }
+    ]
+  },
+  {
+    "id": "huolong-chu-shui",
+    "term": "Huolong Chu Shui",
+    "aliases": [],
+    "short": "An early Chinese design for a multistage naval rocket.",
+    "note": "Chinese for fire-dragon emerging from the water. The name refers to an early gunpowder-rocket design for naval warfare, with an outer rocket carrying smaller projectiles—a precursor in concept to staged rockets.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cnsa.gov.cn/n6758968/n6758973/c6772120/content.html",
+        "label": "China National Space Administration: Early Chinese rockets"
+      }
+    ]
+  },
+  {
+    "id": "orban",
+    "term": "Orban",
+    "aliases": [],
+    "short": "The historical cannon-founder also called Urban.",
+    "note": "A fifteenth-century cannon-founder, also known as Urban, associated with the enormous Ottoman bombards used against Constantinople in 1453. He worked for Sultan Mehmed II.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/895/pg895-images.html",
+        "label": "Edward Gibbon: Decline and Fall, chapter 68"
+      },
+      {
+        "url": "https://assets.cambridge.org/052184/3138/index/0521843138_index.htm",
+        "label": "Cambridge University Press: Guns for the Sultan, index"
+      }
+    ]
+  },
+  {
+    "id": "warring-states-period",
+    "term": "Warring States Period",
+    "aliases": [],
+    "short": "The era of competing Chinese kingdoms before unification.",
+    "note": "The period extending from the fifth century to 221 BCE, when rival Chinese states fought for supremacy and major philosophical schools developed. It ended with Qin’s unification of China.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/archives/win2025/entries/mohism/",
+        "label": "Stanford Encyclopedia of Philosophy: Mohism"
+      }
+    ]
+  },
+  {
+    "id": "newton",
+    "term": "Newton",
+    "aliases": [],
+    "short": "Possibly Isaac Newton, the English physicist and mathematician.",
+    "note": "Possibly Isaac Newton (1643–1727), who formulated the laws of motion and universal gravitation, developed calculus, and made major discoveries in optics.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Newton/",
+        "label": "University of St Andrews: Isaac Newton"
+      }
+    ]
+  },
+  {
+    "id": "quantum-entanglement",
+    "term": "quantum entanglement",
+    "aliases": [
+      "entanglement"
+    ],
+    "short": "Quantum correlations between parts of a shared physical state.",
+    "note": "A relationship in which the quantum state of a combined system cannot be described as independent states of its parts. Entanglement produces strong correlations, but cannot transmit usable information faster than light.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://scienceexchange.caltech.edu/topics/quantum-science-explained/entanglement",
+        "label": "Caltech: quantum entanglement"
+      }
+    ]
+  },
+  {
+    "id": "strong-interaction",
+    "term": "strong interaction",
+    "aliases": [
+      "strong nuclear force",
+      "strong-interaction"
+    ],
+    "short": "The force binding quarks and holding atomic nuclei together.",
+    "note": "One of the fundamental interactions, mediated by gluons between quarks. Its residual effects bind protons and neutrons into nuclei and act over extremely short distances.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://home.web.cern.ch/science/physics/standard-model/",
+        "label": "CERN: the Standard Model"
+      }
+    ]
+  },
+  {
+    "id": "einstein",
+    "term": "Einstein",
+    "aliases": [],
+    "short": "Physicist who developed the special and general theories of relativity.",
+    "note": "Albert Einstein, 1879–1955, transformed ideas about space, time, gravity, and light. His explanation of the photoelectric effect earned him the 1921 Nobel Prize in Physics.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+        "label": "Nobel Prize: Albert Einstein"
+      }
+    ]
+  },
+  {
+    "id": "nanomaterials",
+    "term": "nanomaterials",
+    "aliases": [
+      "nanomaterial"
+    ],
+    "short": "Materials with structures on the scale of billionths of a meter.",
+    "note": "Materials whose features are approximately 1–100 nanometers across. At this scale, physical and chemical properties can differ substantially from those of the same substance in bulk.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nano.gov/about-nanotechnology/",
+        "label": "U.S. National Nanotechnology Coordination Office"
+      }
+    ]
+  },
+  {
+    "id": "special-relativity",
+    "term": "special relativity",
+    "aliases": [],
+    "short": "Einstein’s theory of space, time, and motion without gravity.",
+    "note": "The theory in which observers moving uniformly relative to one another agree on the speed of light in vacuum but can disagree about lengths, elapsed times, and which distant events are simultaneous.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.einstein-online.info/en/spacetime/",
+        "label": "Max Planck Institute: Einstein Online"
+      }
+    ]
+  },
+  {
+    "id": "nuclear-fusion",
+    "term": "nuclear fusion",
+    "aliases": [
+      "controlled nuclear fusion",
+      "controlled fusion"
+    ],
+    "short": "The joining of light atomic nuclei, releasing energy.",
+    "note": "A nuclear reaction in which light nuclei combine into heavier ones. Fusion powers stars; energy is released when the products have less total mass than the starting particles.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.energy.gov/science/doe-explainsfusion-reactions",
+        "label": "U.S. Department of Energy: fusion reactions"
+      }
+    ]
+  },
+  {
+    "id": "tokamak",
+    "term": "tokamak",
+    "aliases": [],
+    "short": "A doughnut-shaped magnetic device for confining hot plasma.",
+    "note": "A fusion-research device that combines external magnetic fields with an electric current in the plasma to confine it within a toroidal chamber. The name comes from a Russian abbreviation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.iter.org/machine/what-tokamak",
+        "label": "ITER: What is a tokamak?"
+      }
+    ]
+  },
+  {
+    "id": "solar-wind",
+    "term": "solar wind",
+    "aliases": [],
+    "short": "The continuous outflow of charged particles from the Sun.",
+    "note": "A stream of plasma escaping the Sun’s outer atmosphere and flowing through the Solar System, carrying the Sun’s magnetic field with it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/sun/facts/",
+        "label": "NASA: Sun facts"
+      }
+    ]
+  },
+  {
+    "id": "candelabrum",
+    "term": "candelabrum",
+    "aliases": [
+      "candelabra",
+      "candelabrums"
+    ],
+    "note": "A branched stand holding several candles.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/candelabrum",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A branched candleholder."
+  },
+  {
+    "id": "sirius",
+    "term": "Sirius",
+    "aliases": [
+      "Sirius"
+    ],
+    "short": "The Dog Star, the brightest star in Earth’s night sky.",
+    "note": "Sirius, the Dog Star in Canis Major, is the brightest star in Earth’s night sky. It is a binary system: the brilliant Sirius A has a faint white-dwarf companion, Sirius B.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "NASA · Sirius, the brightest star in the night",
+        "url": "https://science.nasa.gov/image-article/apod-1996-september-02-sirius-the-brightest-star-in-the-night/"
+      }
+    ]
+  },
+  {
+    "id": "balustrade",
+    "term": "balustrade",
+    "short": "A railing supported by small pillars.",
+    "note": "A row of small pillars, called balusters, supporting a rail. The term names the whole barrier along a stair, balcony, or terrace, rather than one of its supports.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/balustrade",
+        "label": "Merriam-Webster · balustrade"
+      }
+    ],
+    "aliases": [
+      "balustrades"
+    ],
+    "possible": false
+  },
+  {
+    "id": "pinnace",
+    "term": "pinnace",
+    "aliases": [
+      "pinnaces"
+    ],
+    "note": "A small boat carried by, or serving, a larger ship.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pinnace",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A small boat used with a larger vessel."
+  },
+  {
+    "id": "sarcophagus",
+    "term": "sarcophagus",
+    "aliases": [
+      "sarcophagi",
+      "sarcophaguses"
+    ],
+    "note": "A stone coffin, often carved or decorated.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sarcophagus",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A stone coffin."
+  },
+  {
+    "id": "tycho-brahe",
+    "term": "Tycho Brahe",
+    "aliases": [],
+    "short": "Danish astronomer whose observations helped establish Kepler’s laws.",
+    "note": "Tycho Brahe, 1546–1601, made exceptionally precise observations of stars and planets before the telescope. Johannes Kepler used his measurements to develop the laws of planetary motion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Brahe/",
+        "label": "University of St Andrews: Tycho Brahe"
+      }
+    ]
+  },
+  {
+    "id": "stars-our-destination",
+    "term": "Stars Our Destination",
+    "aliases": [],
+    "short": "Possibly an echo of Alfred Bester’s The Stars My Destination.",
+    "note": "Possibly an echo of Alfred Bester’s science-fiction novel The Stars My Destination (1956), also published as Tiger! Tiger! It is a revenge narrative set in a future dominated by powerful corporations.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.loa.org/books/370-american-science-fiction-five-classic-novels-1956-1958/",
+        "label": "Library of America: Five Classic Novels 1956–1958"
+      },
+      {
+        "url": "https://sciencefiction.loa.org/appreciation/gibson.php",
+        "label": "Library of America: William Gibson on The Stars My Destination"
+      }
+    ]
+  },
+  {
+    "id": "scimitar",
+    "term": "scimitar",
+    "aliases": [],
+    "short": "A curved sword with one cutting edge.",
+    "note": "A sword whose blade curves and has its cutting edge on the outer, convex side. The name is traditionally applied to several kinds of Middle Eastern and Asian swords.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ahdictionary.com/word/search.html?q=scimitar",
+        "label": "American Heritage Dictionary: scimitar"
+      }
+    ]
+  },
+  {
+    "id": "bombard",
+    "term": "bombards",
+    "aliases": [],
+    "short": "Early cannon built to hurl heavy stone balls.",
+    "note": "An early type of cannon, especially a heavy gun used against fortifications. Bombards originally fired stone balls rather than the iron projectiles associated with later artillery.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.ahdictionary.com/word/search.html?q=bombard",
+        "label": "American Heritage Dictionary: bombard"
+      },
+      {
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/bombard",
+        "label": "Collins English Dictionary: bombard"
+      }
+    ]
+  }
+]

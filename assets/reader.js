@@ -41,7 +41,7 @@
         a.innerHTML=`<span class="chapter-number">${esc(c.label||'—')}</span><span>${esc(c.title)}</span>`;li.append(a);ul.append(li);
       }
       const refs=state.manifest.chapters.filter(c=>c.volume===v.id&&c.kind==='reference');
-      if(refs.length){const more=document.createElement('details');more.className='source-matter';const summary=document.createElement('summary');summary.textContent='Names in the text';more.append(summary);for(const c of refs){const a=document.createElement('a');a.href='#'+c.id;a.dataset.chapter=c.id;a.textContent=c.title;more.append(a);}detail.append(ul,more);}else detail.append(ul);
+      if(refs.length&&!ul.children.length){for(const c of refs){const a=document.createElement('a');a.href='#'+c.id;a.dataset.chapter=c.id;a.textContent=c.title;const li=document.createElement('li');li.append(a);ul.append(li);}detail.append(ul);}else if(refs.length){const more=document.createElement('details');more.className='source-matter';const summary=document.createElement('summary');summary.textContent=v.referenceTitle||'Names in the text';more.append(summary);for(const c of refs){const a=document.createElement('a');a.href='#'+c.id;a.dataset.chapter=c.id;a.textContent=c.title;more.append(a);}detail.append(ul,more);}else detail.append(ul);
       container.append(detail);
     }
   }
@@ -181,6 +181,7 @@
       state.chapter=c;$('#chapter-title').textContent=c.title;document.title=c.title+' · '+state.manifest.title;
       $('#chapter-body').innerHTML=c.html;$('#chapter-body').dataset.volume=c.volume;$('#chapter-body').classList.toggle('dramatic-chapter',c.layout==='drama');
       for(const img of $$('#chapter-body img')){const src=img.getAttribute('src');if(src.startsWith('../images/'))img.setAttribute('src',src.slice(3));else if(src.startsWith('../../assets/'))img.setAttribute('src',src.slice(3));}
+      for(const img of $$('#chapter-body .initial-image')){if(edition){const u=new URL(img.src);u.searchParams.set('v',edition);img.src=u.href;}}
       for(const a of $$('#chapter-body a[data-route]'))a.href='#'+a.dataset.route;
       if(sourceWording)for(const e of $$('#chapter-body .text-fix')) {
         const word=e.querySelector('.word');

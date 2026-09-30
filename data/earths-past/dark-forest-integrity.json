@@ -1,0 +1,69 @@
+{
+  "book": "dark-forest",
+  "source": "_OceanofPDF.com_Remembrance_of_Earths_Past_-_Cixin_Liu.epub",
+  "sourceSha256": "faebb10594450475d80500d9b889ee89dd2bfcdafd44f18445c8fee3d92d3747",
+  "chapters": [
+    {
+      "chapter": "section-05",
+      "source": "B2005.html",
+      "textSha256": "d062f015cf5d37d866e8ba183230a1bc91c16c716e4de4302c4ba3a6990db854",
+      "blocks": 123
+    },
+    {
+      "chapter": "section-08",
+      "source": "B2008.html",
+      "textSha256": "ab271b64c2531df4034bfee8a05161464de7d13c4591feafe415063b96d771c0",
+      "blocks": 1696
+    },
+    {
+      "chapter": "section-12",
+      "source": "B2012.html",
+      "textSha256": "3d40ee893018cedaca134d194bac9fe07d365c6547ed69a918d632ad5ce31511",
+      "blocks": 491
+    },
+    {
+      "chapter": "section-13",
+      "source": "B2013.html",
+      "textSha256": "0f5bfe6471792de7ffbcbd96826cb72e1d05991ba13ae3fecb08430493ea92bc",
+      "blocks": 191
+    },
+    {
+      "chapter": "section-14",
+      "source": "B2014.html",
+      "textSha256": "0540be03c200f3e2c67e34be7113be2264d5733ee1842b43aba2b52850b6c068",
+      "blocks": 402
+    },
+    {
+      "chapter": "section-17",
+      "source": "B2017.html",
+      "textSha256": "42e8c5c3e0e43a395b13202dd14963001c11da02e3f5bab5a7811fd89cda4cc6",
+      "blocks": 1778
+    },
+    {
+      "chapter": "section-19",
+      "source": "B2019.html",
+      "textSha256": "840cfbb023941ab2c99a6b5e2f0a8bfca078e50507791dd3063af75c2f0ab7a6",
+      "blocks": 102
+    },
+    {
+      "chapter": "section-20",
+      "source": "B2020.html",
+      "textSha256": "82f65c830c2f4cf92f23d5c289eeebe81275434bc543607b4875f01a4c234ef5",
+      "blocks": 29
+    },
+    {
+      "chapter": "source-04",
+      "source": "B2004.html",
+      "textSha256": "f49743ad44c4376ce354dedfb2d657b8e8686048625306be9194f0d7415bfd4a",
+      "blocks": 31
+    },
+    {
+      "chapter": "source-28",
+      "source": "B2028.html",
+      "textSha256": "bccabf1a11184942f1efa9ed082b26f32e1aa6464cd17c104713eee5b3836d20",
+      "blocks": 22
+    }
+  ],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only; original translator notes retained separately."
+}

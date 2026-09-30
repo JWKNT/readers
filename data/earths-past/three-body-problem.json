@@ -1,0 +1,1292 @@
+[
+  {
+    "id": "cultural-revolution",
+    "term": "Cultural Revolution",
+    "aliases": [
+      "Great Proletarian Cultural Revolution"
+    ],
+    "short": "China’s political upheaval of 1966–1976.",
+    "note": "A mass political campaign launched by Mao Zedong in 1966, attacking supposed bourgeois influences and political enemies. It disrupted education, government, and cultural life throughout China.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_china-sixteen-points.htm",
+        "label": "Columbia University: the Sixteen Points"
+      }
+    ]
+  },
+  {
+    "id": "mao-zedong",
+    "term": "Mao Zedong",
+    "aliases": [
+      "Chairman Mao"
+    ],
+    "short": "Chinese Communist revolutionary and leader, 1893–1976.",
+    "note": "A founder of the People’s Republic of China and its dominant political leader from 1949 until his death in 1976. His campaigns included the Great Leap Forward and the Cultural Revolution.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_china-sixteen-points.htm",
+        "label": "Columbia University: Mao and the Cultural Revolution"
+      }
+    ]
+  },
+  {
+    "id": "big-character-posters",
+    "term": "big-character posters",
+    "aliases": [
+      "big-character poster"
+    ],
+    "short": "Large handwritten posters for public political messages.",
+    "note": "Chinese dazibao: wall posters bearing large handwritten characters, used to broadcast accusations, arguments, and political demands. They became a prominent instrument of the Cultural Revolution.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_china-sixteen-points.htm",
+        "label": "Columbia University: the Sixteen Points"
+      }
+    ]
+  },
+  {
+    "id": "may-seventh-cadre-schools",
+    "term": "May Seventh Cadre Schools",
+    "aliases": [],
+    "short": "Rural institutions for political reeducation through labor.",
+    "note": "Institutions established during the Cultural Revolution to send officials and intellectuals into agricultural labor and political study. Their name referred to Mao’s directive of May 7, 1966.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://chineseposters.net/themes/may-seven-cadre-schools",
+        "label": "Chinese Posters: May Seventh Cadre Schools"
+      }
+    ]
+  },
+  {
+    "id": "five-black-categories",
+    "term": "Five Black Categories",
+    "aliases": [],
+    "short": "Five politically stigmatized social categories in Maoist China.",
+    "note": "Landlords, rich peasants, counterrevolutionaries, “bad elements,” and rightists: categories used to classify supposed class enemies and targets of political persecution.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://chineseposters.net/posters/pc-196b-019",
+        "label": "Chinese Posters: historical poster and catalog record"
+      }
+    ]
+  },
+  {
+    "id": "rusticated-youths",
+    "term": "rusticated youths",
+    "aliases": [],
+    "short": "Urban young people sent to live and work in the countryside.",
+    "note": "Educated urban youths dispatched to rural China under the “Up to the Mountains and Down to the Countryside” movement, especially from 1968 onward, for labor and political reeducation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://chineseposters.net/themes/up-to-the-mountains",
+        "label": "Chinese Posters: Up to the Mountains"
+      }
+    ]
+  },
+  {
+    "id": "third-plenary-session",
+    "term": "Third Plenary Session",
+    "aliases": [],
+    "short": "The December 1978 meeting associated with China’s reform era.",
+    "note": "The Third Plenum of the Chinese Communist Party’s Eleventh Central Committee marked a political shift toward economic development and reform under Deng Xiaoping.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_china-deng-xiaoping-present-situation.htm",
+        "label": "Columbia University: Deng Xiaoping and reform"
+      }
+    ]
+  },
+  {
+    "id": "lao-she",
+    "term": "Lao She",
+    "aliases": [],
+    "short": "Chinese novelist and playwright, 1899–1966.",
+    "note": "The pen name of Shu Qingchun, a novelist and dramatist known for portrayals of life in Beijing. He taught Chinese at the School of Oriental Studies in London during the 1920s.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.soas.ac.uk/about/news/lao-she-and-soas",
+        "label": "SOAS: Lao She"
+      }
+    ]
+  },
+  {
+    "id": "qian-zhongshu",
+    "term": "Qian Zhongshu",
+    "aliases": [],
+    "short": "Chinese writer and literary scholar, 1910–1998.",
+    "note": "A Chinese writer and scholar of comparative literature who studied at Oxford in the 1930s. His work draws on both Chinese and European literary traditions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.chinacentre.ox.ac.uk/china-and-oxford",
+        "label": "University of Oxford: China and Oxford"
+      }
+    ]
+  },
+  {
+    "id": "zhao-jiuzhang",
+    "term": "Zhao Jiuzhang",
+    "aliases": [],
+    "short": "Chinese geophysicist and pioneer of satellite research.",
+    "note": "A geophysicist who helped establish China’s atmospheric and space-science research and advocated the development of an artificial-satellite program in the 1950s.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://english.cas.cn/newsroom/cas_media/202106/t20210618_272233.shtml",
+        "label": "Chinese Academy of Sciences: early space research"
+      }
+    ]
+  },
+  {
+    "id": "guo-moruo",
+    "term": "Guo Moruo",
+    "aliases": [],
+    "short": "Chinese writer and founding president of the Chinese Academy of Sciences.",
+    "note": "A writer and scholar who became the first president of the Chinese Academy of Sciences. His 1978 address “The Spring of Science” welcomed a renewal of scientific research.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://english.cas.cn/newsroom/news/201901/t20190116_204080.shtml",
+        "label": "Chinese Academy of Sciences: The Spring of Science"
+      }
+    ]
+  },
+  {
+    "id": "norman-bethune",
+    "term": "Norman Bethune",
+    "aliases": [
+      "Bethune"
+    ],
+    "short": "Canadian physician who served in wartime China.",
+    "note": "A Canadian surgeon, 1890–1939, who organized medical care for Chinese Communist forces during the war against Japan. Mao Zedong’s memorial essay made him a celebrated example of international solidarity.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://parks.canada.ca/lhn-nhs/on/bethune/decouvrir-discover/natcul1",
+        "label": "Parks Canada: Bethune Memorial House"
+      }
+    ]
+  },
+  {
+    "id": "rachel-carson",
+    "term": "Rachel Carson",
+    "aliases": [],
+    "short": "American marine biologist and environmental writer.",
+    "note": "An American biologist, 1907–1964, whose 1962 book Silent Spring documented environmental damage from pesticides and helped change public attitudes toward chemical pollution.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.fws.gov/history-of-fws",
+        "label": "U.S. Fish and Wildlife Service: institutional history"
+      }
+    ]
+  },
+  {
+    "id": "silent-spring",
+    "term": "Silent Spring",
+    "aliases": [],
+    "short": "Rachel Carson’s influential 1962 book on pesticides.",
+    "note": "A study of the ecological consequences of indiscriminate pesticide use, especially DDT. Its account of harm to birds and other wildlife helped stimulate the modern environmental movement.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.fws.gov/history-of-fws",
+        "label": "U.S. Fish and Wildlife Service: Rachel Carson"
+      }
+    ]
+  },
+  {
+    "id": "qin-shi-huang",
+    "term": "Qin Shi Huang",
+    "aliases": [],
+    "short": "The first emperor of a unified China.",
+    "note": "The ruler of Qin who unified China in 221 BCE and took the title First Emperor. His immense funerary complex near Xi’an includes the terracotta army.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/441",
+        "label": "UNESCO: Mausoleum of the First Qin Emperor"
+      }
+    ]
+  },
+  {
+    "id": "fu-xi",
+    "term": "Fu Xi",
+    "aliases": [],
+    "short": "A legendary culture hero associated with cosmic order.",
+    "note": "A primordial Chinese culture hero, often paired with Nüwa. Traditional accounts connect him with the ordering of civilization and the invention of the eight trigrams used in divination.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/53937",
+        "label": "Metropolitan Museum: Fuxi and Nüwa"
+      }
+    ]
+  },
+  {
+    "id": "mozi",
+    "term": "Mozi",
+    "aliases": [],
+    "short": "Ancient Chinese philosopher and founder of Mohism.",
+    "note": "Mo Di, or “Master Mo,” was a fifth-century BCE Chinese thinker. Mohism advocated impartial concern for others, practical benefit, frugality, and opposition to aggressive warfare.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/archives/win2025/entries/mohism/",
+        "label": "Stanford Encyclopedia of Philosophy: Mohism"
+      }
+    ]
+  },
+  {
+    "id": "warring-states-period",
+    "term": "Warring States Period",
+    "aliases": [],
+    "short": "The era of competing Chinese kingdoms before unification.",
+    "note": "The period extending from the fifth century to 221 BCE, when rival Chinese states fought for supremacy and major philosophical schools developed. It ended with Qin’s unification of China.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/archives/win2025/entries/mohism/",
+        "label": "Stanford Encyclopedia of Philosophy: Mohism"
+      }
+    ]
+  },
+  {
+    "id": "red-guards",
+    "term": "Red Guards",
+    "aliases": [
+      "Red Guard"
+    ],
+    "short": "Radical youth groups mobilized during the Cultural Revolution.",
+    "note": "Student and youth organizations that rallied to Mao Zedong’s Cultural Revolution from 1966. They attacked perceived political enemies, authority figures, and remnants of traditional culture.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://cdn.nationalarchives.gov.uk/documents/education/the-cultural-revolution.pdf",
+        "label": "UK National Archives: Cultural Revolution source pack"
+      }
+    ]
+  },
+  {
+    "id": "little-red-book",
+    "term": "Little Red Book",
+    "aliases": [],
+    "short": "The pocket collection of Mao Zedong’s quotations.",
+    "note": "Quotations from Chairman Mao Tse-tung, widely issued in small red-bound editions. It became a central object of political study and public ritual during the Cultural Revolution.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://cdn.nationalarchives.gov.uk/documents/education/the-cultural-revolution.pdf",
+        "label": "UK National Archives: Cultural Revolution source pack"
+      }
+    ]
+  },
+  {
+    "id": "confucius",
+    "term": "Confucius",
+    "aliases": [],
+    "short": "Chinese teacher and philosopher, traditionally 551–479 BCE.",
+    "note": "Kongzi, or “Master Kong,” whose teachings concern ethical cultivation, humane government, family relationships, and ritual. The Analects preserves sayings and dialogues associated with him and his disciples.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/confucius/",
+        "label": "Stanford Encyclopedia of Philosophy: Confucius"
+      }
+    ]
+  },
+  {
+    "id": "i-ching",
+    "term": "I Ching",
+    "aliases": [],
+    "short": "The Chinese Book of Changes, a classic of divination and philosophy.",
+    "note": "A text organized around sixty-four hexagrams, each composed of six broken or unbroken lines. Its accumulated interpretations link changing configurations with judgments about conduct, circumstances, and cosmic order.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/chinese-change/",
+        "label": "Stanford Encyclopedia of Philosophy: Yijing"
+      }
+    ]
+  },
+  {
+    "id": "king-wen-of-zhou",
+    "term": "King Wen of Zhou",
+    "aliases": [
+      "King Wen"
+    ],
+    "short": "The Zhou ruler traditionally associated with the Book of Changes.",
+    "note": "An eleventh-century BCE Zhou ruler traditionally credited with statements interpreting the I Ching’s hexagrams. The text’s historical authorship is more complex than this traditional attribution.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/archives/sum2024/entries/chinese-change/",
+        "label": "Stanford Encyclopedia of Philosophy: Yijing"
+      }
+    ]
+  },
+  {
+    "id": "hexagrams",
+    "term": "hexagrams",
+    "aliases": [],
+    "short": "Six-line figures used in the I Ching.",
+    "note": "The sixty-four combinations of six broken or unbroken lines in the Chinese Book of Changes. Each figure has associated statements used in divination and philosophical interpretation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/chinese-change/",
+        "label": "Stanford Encyclopedia of Philosophy: Yijing"
+      }
+    ]
+  },
+  {
+    "id": "yin-and-yang",
+    "term": "yin and yang",
+    "aliases": [
+      "yin-yang"
+    ],
+    "short": "Complementary, interacting aspects of Chinese cosmology.",
+    "note": "Paired tendencies associated with contrasts such as shade and light, rest and activity, and yielding and firmness. Their interaction expresses transformation rather than a simple opposition of good and evil.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/chinese-change/",
+        "label": "Stanford Encyclopedia of Philosophy: Yijing"
+      }
+    ]
+  },
+  {
+    "id": "fu-lei",
+    "term": "Fu Lei",
+    "aliases": [],
+    "short": "Chinese translator and writer, 1908–1966.",
+    "note": "A Chinese literary translator and critic, particularly known for translating French literature. His work helped introduce writers such as Balzac to Chinese readers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.aoi.uzh.ch/dam/jcr%3Affffffff-c059-cfbc-ffff-ffffa932e6fd/Translators.pdf",
+        "label": "University of Zurich: literary translators"
+      }
+    ]
+  },
+  {
+    "id": "wu-han",
+    "term": "Wu Han",
+    "aliases": [],
+    "short": "Chinese historian associated with Tsinghua University.",
+    "note": "A historian of imperial China who taught at Tsinghua University and became one of the prominent scholars associated with its history department.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.lsx.tsinghua.edu.cn/en/About/History.htm",
+        "label": "Tsinghua University: History Department"
+      }
+    ]
+  },
+  {
+    "id": "jian-bozan",
+    "term": "Jian Bozan",
+    "aliases": [],
+    "short": "Chinese historian and academic leader at Peking University.",
+    "note": "A historian of China who helped develop Peking University’s history department, supporting work in archaeology, world history, and the study of classical texts.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.history.pku.edu.cn/bxgk/ljxzr/07f616034a644fde9c0395ec98d1f96d.htm",
+        "label": "Peking University: Jian Bozan"
+      }
+    ]
+  },
+  {
+    "id": "yi-qun",
+    "term": "Yi Qun",
+    "aliases": [],
+    "short": "Ye Yiqun, a Chinese writer and literary critic.",
+    "note": "Ye Yiqun, 1911–1966, was a writer associated with Shanghai’s literary institutions and served as deputy director of the Shanghai Film Studio. He died during the Cultural Revolution.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ywang.uchicago.edu/history/YeYiQun.htm",
+        "label": "University of Chicago: Cultural Revolution victims archive"
+      }
+    ]
+  },
+  {
+    "id": "wen-jie",
+    "term": "Wen Jie",
+    "aliases": [],
+    "short": "Chinese poet, 1923–1971.",
+    "note": "A poet from the Zhenjiang area of Jiangsu, remembered for poetry depicting the lives and landscapes of China’s frontier regions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://sla.ujs.edu.cn/info/1032/13063.htm",
+        "label": "Jiangsu University: Wen Jie centenary"
+      }
+    ]
+  },
+  {
+    "id": "aristotle",
+    "term": "Aristotle",
+    "aliases": [],
+    "short": "Greek philosopher and investigator of nature, 384–322 BCE.",
+    "note": "A student of Plato whose writings cover logic, ethics, politics, biology, physics, and metaphysics. His explanations of nature profoundly influenced later Greek, Islamic, and European scholarship.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/aristotle/?level=1",
+        "label": "Stanford Encyclopedia of Philosophy: Aristotle"
+      }
+    ]
+  },
+  {
+    "id": "peach-blossom-spring",
+    "term": "Peach Blossom Spring",
+    "aliases": [],
+    "short": "Possibly Tao Qian’s account of a secluded, peaceful community.",
+    "note": "Possibly Tao Qian’s classical prose work in which a fisherman discovers a hidden settlement whose inhabitants live beyond the wars and political upheavals of the outside world.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://afe.easia.columbia.edu/ps/china/taoqian_peachblossom.pdf",
+        "label": "Columbia University: Peach Blossom Spring"
+      }
+    ]
+  },
+  {
+    "id": "maser",
+    "term": "maser",
+    "aliases": [],
+    "short": "A device that amplifies microwaves by stimulated emission.",
+    "note": "An acronym for microwave amplification by stimulated emission of radiation. A maser produces or amplifies coherent microwave radiation; hydrogen masers also serve as highly stable frequency standards.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/time-frequency-z/time-and-frequency-z-h",
+        "label": "NIST: hydrogen maser"
+      }
+    ]
+  },
+  {
+    "id": "peter-singer",
+    "term": "Peter Singer",
+    "aliases": [],
+    "short": "Philosopher associated with animal ethics.",
+    "note": "An Australian philosopher whose 1975 book Animal Liberation argues that the interests and suffering of nonhuman animals deserve serious moral consideration.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.petersinger.info/about/",
+        "label": "Peter Singer: biographical account"
+      }
+    ]
+  },
+  {
+    "id": "animal-liberation",
+    "term": "Animal Liberation",
+    "aliases": [],
+    "short": "Peter Singer’s influential 1975 work on animal ethics.",
+    "note": "A philosophical argument against disregarding animal suffering merely because the beings affected belong to other species. It examines practices including intensive farming and animal experimentation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.petersinger.info/about/",
+        "label": "Peter Singer: Animal Liberation"
+      }
+    ]
+  },
+  {
+    "id": "kyoto-protocol",
+    "term": "Kyoto Protocol",
+    "aliases": [],
+    "short": "The 1997 international agreement on greenhouse-gas emissions.",
+    "note": "An agreement under the United Nations climate convention that established emissions commitments for industrialized countries and economies in transition. Adopted in 1997, it entered into force in 2005.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://unfccc.int/process-and-meetings/the-kyoto-protocol",
+        "label": "UNFCCC: Kyoto Protocol"
+      }
+    ]
+  },
+  {
+    "id": "universal-declaration-of-human-rights",
+    "term": "Universal Declaration of Human Rights",
+    "aliases": [],
+    "short": "The United Nations’ 1948 statement of fundamental human rights.",
+    "note": "A declaration adopted by the United Nations General Assembly on December 10, 1948, setting out universal civil, political, economic, social, and cultural rights.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+        "label": "United Nations: Universal Declaration of Human Rights"
+      }
+    ]
+  },
+  {
+    "id": "third-front",
+    "term": "Third Front",
+    "aliases": [],
+    "short": "China’s Cold War program of industrial construction in the interior.",
+    "note": "A major program begun in the 1960s to build strategic industries in inland China, especially the southwest and west, as a protected reserve against possible war.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cambridge.org/core/journals/china-quarterly/article/abs/third-front-defence-industrialization-in-the-chinese-interior/16DF6F4BDC5398BB2C6FFAEF39AD6230",
+        "label": "Barry Naughton: The Third Front"
+      }
+    ]
+  },
+  {
+    "id": "king-zhou-of-shang",
+    "term": "King Zhou of Shang",
+    "aliases": [
+      "King Zhou"
+    ],
+    "short": "The last ruler of the Shang dynasty.",
+    "note": "Di Xin, remembered as King Zhou in later Chinese tradition, was the final Shang king. His defeat by the Zhou in the eleventh century BCE ended the Shang dynasty.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cambridge.org/core/journals/antiquity/article/anyang-xibeigang-shang-royal-tombs-revisited-a-social-archaeological-approach/0007EB51D8BEC4CD027D48249CB791FD",
+        "label": "Antiquity: the Shang royal tombs"
+      }
+    ]
+  },
+  {
+    "id": "along-the-river-during-the-qingming-festival",
+    "term": "Along the River During the Qingming Festival",
+    "aliases": [],
+    "short": "Zhang Zeduan’s famous Northern Song handscroll.",
+    "note": "An early twelfth-century Chinese painting filled with densely observed figures, boats, buildings, and everyday urban activity. The original handscroll is held by the Palace Museum in Beijing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Metropolitan_Museum_Journal_v_45_2010.pdf",
+        "label": "Metropolitan Museum Journal: Zhang Zeduan’s handscroll"
+      }
+    ]
+  },
+  {
+    "id": "panama-canal",
+    "term": "Panama Canal",
+    "aliases": [],
+    "short": "The artificial waterway linking the Atlantic and Pacific oceans.",
+    "note": "A ship canal across the Isthmus of Panama. Locks raise vessels from sea level to an inland lake system and lower them again on the opposite coast.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pancanal.com/en/design-of-the-locks/",
+        "label": "Panama Canal Authority: design of the locks"
+      }
+    ]
+  },
+  {
+    "id": "miraflores-locks",
+    "term": "Miraflores Locks",
+    "aliases": [],
+    "short": "The two-step locks near the Pacific end of the Panama Canal.",
+    "note": "A pair of successive lock chambers that raises or lowers vessels between the Pacific approach and Miraflores Lake in the original Panama Canal system.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pancanal.com/en/design-of-the-locks/",
+        "label": "Panama Canal Authority: design of the locks"
+      }
+    ]
+  },
+  {
+    "id": "three-body-problem",
+    "term": "three-body problem",
+    "aliases": [],
+    "short": "Predicting the motion of three mutually gravitating bodies.",
+    "note": "The problem of finding how three bodies move under their mutual gravitational attraction. Many configurations are chaotic and require numerical methods; special exact or periodic solutions also exist.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.amnh.org/explore/news-blogs/three-body-problem-chaos-theory",
+        "label": "American Museum of Natural History: the three-body problem"
+      }
+    ]
+  },
+  {
+    "id": "newton",
+    "term": "Newton",
+    "aliases": [
+      "Isaac Newton"
+    ],
+    "short": "English mathematician and physicist, 1643–1727.",
+    "note": "Isaac Newton formulated the laws of motion and universal gravitation, developed a form of calculus, and made major discoveries in optics. His Principia appeared in 1687.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Newton/",
+        "label": "University of St Andrews: Isaac Newton"
+      }
+    ]
+  },
+  {
+    "id": "von-neumann",
+    "term": "Von Neumann",
+    "aliases": [
+      "von Neumann"
+    ],
+    "short": "Mathematician and pioneer of modern computing.",
+    "note": "John von Neumann, 1903–1957, made foundational contributions to mathematics, quantum theory, game theory, and computing. The stored-program computer architecture commonly named after him keeps instructions and data in memory.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Von_Neumann/",
+        "label": "University of St Andrews: John von Neumann"
+      }
+    ]
+  },
+  {
+    "id": "copernicus",
+    "term": "Copernicus",
+    "aliases": [],
+    "short": "Astronomer who placed the Sun at the center of the planetary system.",
+    "note": "Nicolaus Copernicus, 1473–1543, developed a mathematical model in which Earth rotates and the planets orbit the Sun. His major work, De revolutionibus, was published in 1543.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/copernicus/",
+        "label": "Stanford Encyclopedia of Philosophy: Copernicus"
+      }
+    ]
+  },
+  {
+    "id": "wu-chien-shiung",
+    "term": "Wu Chien-Shiung",
+    "aliases": [],
+    "short": "Experimental physicist who demonstrated parity violation.",
+    "note": "Chien-Shiung Wu, 1912–1997, led the experiment showing that weak nuclear interactions do not always behave identically to their mirror images, overturning the assumed conservation of parity.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.c250.columbia.edu/c250_celebrates/remarkable_columbians/chien-shiung_wu.html",
+        "label": "Columbia University: Chien-Shiung Wu"
+      }
+    ]
+  },
+  {
+    "id": "penzias",
+    "term": "Penzias",
+    "aliases": [],
+    "short": "Radio astronomer who helped discover the cosmic microwave background.",
+    "note": "Arno Penzias, 1933–2024, and Robert Wilson detected the cosmic microwave background in the 1960s. Their discovery supplied crucial evidence for a hot early universe and earned them the 1978 Nobel Prize in Physics.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/laureate/111",
+        "label": "Nobel Prize: Arno Penzias"
+      }
+    ]
+  },
+  {
+    "id": "richard-montgomery",
+    "term": "Richard Montgomery",
+    "aliases": [],
+    "short": "Mathematician known for work on the three-body problem.",
+    "note": "An American mathematician who, with Alain Chenciner, proved the existence of a periodic figure-eight orbit in which three equal masses follow the same curve under Newtonian gravity.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://annals.math.princeton.edu/articles/12364",
+        "label": "Annals of Mathematics: Chenciner and Montgomery, 2000"
+      }
+    ]
+  },
+  {
+    "id": "alain-chenciner",
+    "term": "Alain Chenciner",
+    "aliases": [],
+    "short": "Mathematician who helped establish the figure-eight three-body orbit.",
+    "note": "A French mathematician whose work with Richard Montgomery demonstrated a periodic solution for three equal masses chasing one another around a figure-eight path under Newtonian gravity.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://annals.math.princeton.edu/articles/12364",
+        "label": "Annals of Mathematics: Chenciner and Montgomery, 2000"
+      }
+    ]
+  },
+  {
+    "id": "roche-limit",
+    "term": "Roche limit",
+    "aliases": [],
+    "short": "The distance inside which tidal forces can disrupt an orbiting body.",
+    "note": "A boundary within which a larger body’s tidal forces can overcome the self-gravity holding a smaller body together. The distance depends on density and on the smaller body’s physical strength.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ntrs.nasa.gov/citations/19920001682",
+        "label": "NASA Technical Reports: tidal disruption"
+      }
+    ]
+  },
+  {
+    "id": "cosmic-microwave-background",
+    "term": "cosmic microwave background",
+    "aliases": [],
+    "short": "The cooled radiation left over from the early universe.",
+    "note": "Microwave radiation arriving from all directions, released when the early universe became transparent roughly 380,000 years after the Big Bang. Its tiny temperature variations record the seeds of later cosmic structure.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mission/cobe/science/",
+        "label": "NASA: COBE science"
+      }
+    ]
+  },
+  {
+    "id": "cobe",
+    "term": "COBE",
+    "aliases": [
+      "Cosmic Background Explorer"
+    ],
+    "short": "NASA’s Cosmic Background Explorer satellite.",
+    "note": "A satellite launched in 1989 to measure the universe’s diffuse background radiation. It established the nearly perfect thermal spectrum of the cosmic microwave background and detected small temperature variations across the sky.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mission/cobe/science/",
+        "label": "NASA: COBE science"
+      }
+    ]
+  },
+  {
+    "id": "wmap",
+    "term": "WMAP",
+    "aliases": [
+      "Wilkinson Microwave Anisotropy Probe"
+    ],
+    "short": "NASA’s Wilkinson Microwave Anisotropy Probe.",
+    "note": "A space mission that mapped small temperature differences in the cosmic microwave background, allowing precise estimates of the universe’s age, composition, and early structure.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://wmap.gsfc.nasa.gov/media/081031/index.html",
+        "label": "NASA: WMAP and the cosmic microwave background"
+      }
+    ]
+  },
+  {
+    "id": "planck-satellite",
+    "term": "Planck satellite",
+    "aliases": [],
+    "short": "The European Space Agency’s cosmic-background observatory.",
+    "note": "A space telescope launched in 2009 to map the cosmic microwave background with high sensitivity and angular resolution. It refined measurements of the universe’s composition and early history.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.esa.int/Science_Exploration/Space_Science/Planck_overview",
+        "label": "ESA: Planck overview"
+      }
+    ]
+  },
+  {
+    "id": "project-ozma",
+    "term": "Project Ozma",
+    "aliases": [],
+    "short": "An early radio search for extraterrestrial intelligence.",
+    "note": "Frank Drake’s 1960 experiment at Green Bank, using a radio telescope to listen toward Tau Ceti and Epsilon Eridani near the 21-centimeter hydrogen wavelength.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://greenbankobservatory.org/about/telescopes/85-1-howard-tatel/",
+        "label": "Green Bank Observatory: the Tatel telescope"
+      }
+    ]
+  },
+  {
+    "id": "tau-ceti",
+    "term": "Tau Ceti",
+    "aliases": [],
+    "short": "A nearby Sun-like star targeted by early SETI searches.",
+    "note": "A star in the constellation Cetus, chosen along with Epsilon Eridani for Frank Drake’s Project Ozma radio search in 1960.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://greenbankobservatory.org/about/telescopes/85-1-howard-tatel/",
+        "label": "Green Bank Observatory: Project Ozma"
+      }
+    ]
+  },
+  {
+    "id": "epsilon-eridani",
+    "term": "Epsilon Eridani",
+    "aliases": [],
+    "short": "A nearby star targeted by Project Ozma.",
+    "note": "A star in the constellation Eridanus, observed with Tau Ceti in the pioneering 1960 radio search for extraterrestrial intelligence at Green Bank.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://greenbankobservatory.org/about/telescopes/85-1-howard-tatel/",
+        "label": "Green Bank Observatory: Project Ozma"
+      }
+    ]
+  },
+  {
+    "id": "green-bank",
+    "term": "Green Bank",
+    "aliases": [],
+    "short": "A major radio-astronomy site in West Virginia.",
+    "note": "The observatory site where Frank Drake conducted Project Ozma in 1960 using the 85-foot Howard E. Tatel telescope.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://greenbankobservatory.org/about/telescopes/85-1-howard-tatel/",
+        "label": "Green Bank Observatory: Tatel telescope"
+      }
+    ]
+  },
+  {
+    "id": "quantum-entanglement",
+    "term": "quantum entanglement",
+    "aliases": [
+      "entanglement"
+    ],
+    "short": "Quantum correlations between parts of a shared physical state.",
+    "note": "A relationship in which the quantum state of a combined system cannot be described as independent states of its parts. Entanglement produces strong correlations, but cannot transmit usable information faster than light.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://scienceexchange.caltech.edu/topics/quantum-science-explained/entanglement",
+        "label": "Caltech: quantum entanglement"
+      }
+    ]
+  },
+  {
+    "id": "strong-interaction",
+    "term": "strong interaction",
+    "aliases": [
+      "strong nuclear force"
+    ],
+    "short": "The force binding quarks and holding atomic nuclei together.",
+    "note": "One of the fundamental interactions, mediated by gluons between quarks. Its residual effects bind protons and neutrons into nuclei and act over extremely short distances.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://home.web.cern.ch/science/physics/standard-model/",
+        "label": "CERN: the Standard Model"
+      }
+    ]
+  },
+  {
+    "id": "einstein",
+    "term": "Einstein",
+    "aliases": [],
+    "short": "Physicist who developed the special and general theories of relativity.",
+    "note": "Albert Einstein, 1879–1955, transformed ideas about space, time, gravity, and light. His explanation of the photoelectric effect earned him the 1921 Nobel Prize in Physics.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+        "label": "Nobel Prize: Albert Einstein"
+      }
+    ]
+  },
+  {
+    "id": "galileo",
+    "term": "Galileo",
+    "aliases": [],
+    "short": "Italian pioneer of experimental physics and telescopic astronomy.",
+    "note": "Galileo Galilei, 1564–1642, investigated motion and used telescopes to reveal lunar mountains, Jupiter’s moons, and other evidence challenging inherited views of the heavens.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/galileo/",
+        "label": "Stanford Encyclopedia of Philosophy: Galileo"
+      }
+    ]
+  },
+  {
+    "id": "norbert-wiener",
+    "term": "Norbert Wiener",
+    "aliases": [
+      "Wiener"
+    ],
+    "short": "Mathematician who founded cybernetics.",
+    "note": "An American mathematician, 1894–1964, who studied probability, communication, feedback, and control. His 1948 book Cybernetics connected the regulation of machines with processes in living organisms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Wiener_Norbert/",
+        "label": "University of St Andrews: Norbert Wiener"
+      }
+    ]
+  },
+  {
+    "id": "poincare",
+    "term": "Poincaré",
+    "aliases": [],
+    "short": "French mathematician who pioneered the study of dynamical systems.",
+    "note": "Henri Poincaré, 1854–1912, made fundamental contributions to topology and celestial mechanics. His work on the three-body problem revealed behavior central to the later development of chaos theory.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathshistory.st-andrews.ac.uk/DSB/Poincare.pdf",
+        "label": "University of St Andrews: Poincaré biography"
+      }
+    ]
+  },
+  {
+    "id": "giordano-bruno",
+    "term": "Giordano Bruno",
+    "aliases": [
+      "Bruno"
+    ],
+    "short": "Renaissance philosopher who argued for an infinite universe.",
+    "note": "An Italian philosopher, 1548–1600, who proposed an infinite cosmos containing innumerable worlds. His cosmology formed part of a wider metaphysical and religious system.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/bruno/",
+        "label": "Stanford Encyclopedia of Philosophy: Bruno"
+      }
+    ]
+  },
+  {
+    "id": "herschel",
+    "term": "Herschel",
+    "aliases": [],
+    "short": "Astronomer who discovered Uranus in 1781.",
+    "note": "William Herschel, 1738–1822, built powerful reflecting telescopes and discovered Uranus. His astronomical work was closely associated with that of his sister Caroline and later his son John.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.rmg.co.uk/stories/space-astronomy/herschel-family-royal-observatory",
+        "label": "Royal Museums Greenwich: the Herschel family"
+      }
+    ]
+  },
+  {
+    "id": "kepler",
+    "term": "Kepler",
+    "aliases": [],
+    "short": "Astronomer whose laws describe planetary orbits.",
+    "note": "Johannes Kepler, 1571–1630, established that planets follow elliptical orbits, sweep out equal areas in equal times, and obey a mathematical relationship between orbital period and distance from the Sun.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/",
+        "label": "NASA: Kepler’s laws"
+      }
+    ]
+  },
+  {
+    "id": "madame-curie",
+    "term": "Madame Curie",
+    "aliases": [],
+    "short": "Marie Curie, a pioneering researcher on radioactivity.",
+    "note": "Marie Skłodowska Curie, 1867–1934, helped discover polonium and radium. She received Nobel Prizes in Physics in 1903 and Chemistry in 1911.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/prizes/themes/marie-and-pierre-curie-and-the-discovery-of-polonium-and-radium/",
+        "label": "Nobel Prize: the Curies and radioactivity"
+      }
+    ]
+  },
+  {
+    "id": "copenhagen-interpretation",
+    "term": "Copenhagen interpretation",
+    "aliases": [],
+    "short": "A family of interpretations of quantum mechanics.",
+    "note": "Views associated with Niels Bohr, Werner Heisenberg, and their colleagues that emphasize measurement, probabilistic outcomes, and the limits of classical descriptions of atomic phenomena. The label covers differing positions rather than one agreed doctrine.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/archives/spr2026/entries/qm-copenhagen/",
+        "label": "Stanford Encyclopedia of Philosophy: Copenhagen interpretation"
+      }
+    ]
+  },
+  {
+    "id": "quantum-mechanics",
+    "term": "quantum mechanics",
+    "aliases": [],
+    "short": "The physical theory of atomic and subatomic systems.",
+    "note": "A framework that predicts physical outcomes using quantum states and probabilities. Features such as discrete energy levels, interference, and entanglement distinguish it from classical mechanics.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/archives/spr2026/entries/qm-copenhagen/",
+        "label": "Stanford Encyclopedia of Philosophy: quantum mechanics"
+      }
+    ]
+  },
+  {
+    "id": "wave-function",
+    "term": "wave function",
+    "aliases": [],
+    "short": "A mathematical description of a quantum state.",
+    "note": "A function whose amplitudes allow the probabilities of measurement outcomes to be calculated. Its evolution and interpretation are central questions in quantum mechanics.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/archives/spr2026/entries/qm-copenhagen/",
+        "label": "Stanford Encyclopedia of Philosophy: quantum states"
+      }
+    ]
+  },
+  {
+    "id": "nanomaterials",
+    "term": "nanomaterials",
+    "aliases": [
+      "nanomaterial"
+    ],
+    "short": "Materials with structures on the scale of billionths of a meter.",
+    "note": "Materials whose features are approximately 1–100 nanometers across. At this scale, physical and chemical properties can differ substantially from those of the same substance in bulk.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nano.gov/about-nanotechnology/",
+        "label": "U.S. National Nanotechnology Coordination Office"
+      }
+    ]
+  },
+  {
+    "id": "special-relativity",
+    "term": "special relativity",
+    "aliases": [],
+    "short": "Einstein’s theory of space, time, and motion without gravity.",
+    "note": "The theory in which observers moving uniformly relative to one another agree on the speed of light in vacuum but can disagree about lengths, elapsed times, and which distant events are simultaneous.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.einstein-online.info/en/spacetime/",
+        "label": "Max Planck Institute: Einstein Online"
+      }
+    ]
+  },
+  {
+    "id": "plancks-constant",
+    "term": "Planck’s constant",
+    "aliases": [],
+    "short": "The constant linking a photon’s energy with its frequency.",
+    "note": "The constant h in the relation E = hν. Introduced by Max Planck in the study of thermal radiation, it sets the scale of quantum effects and has units of energy multiplied by time.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/archives/spr2026/entries/qm-copenhagen/",
+        "label": "Stanford Encyclopedia of Philosophy: origins of quantum theory"
+      }
+    ]
+  },
+  {
+    "id": "ohms-law",
+    "term": "Ohm’s law",
+    "aliases": [],
+    "short": "The relationship between voltage, current, and electrical resistance.",
+    "note": "For an ohmic conductor under fixed physical conditions, current is proportional to applied voltage: V = IR. The law is named for the German physicist Georg Simon Ohm.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://openstax.org/books/college-physics/pages/20-2-ohms-law-resistance-and-simple-circuits",
+        "label": "OpenStax: Ohm’s law"
+      }
+    ]
+  },
+  {
+    "id": "monte-carlo",
+    "term": "Monte Carlo",
+    "aliases": [],
+    "short": "A family of numerical methods based on random sampling.",
+    "note": "Methods that estimate mathematical or physical quantities by generating random samples and analyzing their statistical behavior. They are especially useful when direct calculation would be impractical.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mcnp.lanl.gov/pdf_files/Book_MonteCarlo_1975_Carter_ParticleTransportSimulationwiththeMonteCarloMethod.pdf",
+        "label": "Los Alamos: Monte Carlo methods"
+      }
+    ]
+  },
+  {
+    "id": "alpha-centauri",
+    "term": "Alpha Centauri",
+    "aliases": [],
+    "short": "The nearest stellar system to the Sun.",
+    "note": "A nearby triple-star system in Centaurus, consisting of the close pair Alpha Centauri A and B and the more distant red dwarf Proxima Centauri. The bright pair lies about 4.3 light-years away.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/resource/alpha-centauri-in-the-constellation-of-centaurus-the-centaur/",
+        "label": "NASA: Alpha Centauri"
+      }
+    ]
+  },
+  {
+    "id": "sunspots",
+    "term": "sunspots",
+    "aliases": [],
+    "short": "Relatively cool, magnetically active patches on the Sun.",
+    "note": "Dark-looking regions of the Sun’s visible surface where strong magnetic fields inhibit the usual transport of heat. They are cooler than their surroundings, rather than empty holes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/sun/facts/",
+        "label": "NASA: Sun facts"
+      }
+    ]
+  },
+  {
+    "id": "arecibo-observatory",
+    "term": "Arecibo Observatory",
+    "aliases": [
+      "Arecibo"
+    ],
+    "short": "The Puerto Rican observatory famous for its giant radio telescope.",
+    "note": "A radio-astronomy and radar research site whose 305-meter reflector began operating in 1963. The dish was built into a natural depression in the landscape.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.darpa.mil/about/innovation-timeline/arecibo-observatory",
+        "label": "DARPA: Arecibo Observatory"
+      }
+    ]
+  },
+  {
+    "id": "maxwells-equations",
+    "term": "Maxwell’s equations",
+    "aliases": [],
+    "short": "The equations unifying electricity and magnetism.",
+    "note": "Four equations relating electric and magnetic fields to charges, currents, and changes in one another. James Clerk Maxwell’s formulation showed that light is an electromagnetic wave.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://openstax.org/books/university-physics-volume-2/pages/16-1-maxwells-equations-and-electromagnetic-waves",
+        "label": "OpenStax: Maxwell’s equations"
+      }
+    ]
+  },
+  {
+    "id": "nanotechnology",
+    "term": "nanotechnology",
+    "aliases": [],
+    "short": "Understanding and controlling matter at nanometer scales.",
+    "note": "Research and engineering involving structures approximately 1–100 nanometers across, where size-dependent properties enable materials and devices to behave differently from their larger counterparts.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nano.gov/about-nanotechnology/",
+        "label": "U.S. National Nanotechnology Coordination Office"
+      }
+    ]
+  },
+  {
+    "id": "general-relativity",
+    "term": "general relativity",
+    "aliases": [],
+    "short": "Einstein’s theory of gravity as the geometry of spacetime.",
+    "note": "A theory in which mass and energy affect the curvature of spacetime, and that geometry governs the paths of freely moving bodies and light.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.einstein-online.info/en/GeomGravity/",
+        "label": "Max Planck Institute: Einstein’s geometric gravity"
+      }
+    ]
+  },
+  {
+    "id": "seti",
+    "term": "SETI",
+    "aliases": [],
+    "short": "The search for extraterrestrial intelligence.",
+    "note": "Scientific searches for observable evidence of technology beyond Earth, including artificial radio signals, laser pulses, and other potential technological signatures.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.seti.org/research/seti-101",
+        "label": "SETI Institute: SETI research"
+      }
+    ]
+  },
+  {
+    "id": "syzygy",
+    "term": "syzygy",
+    "aliases": [],
+    "short": "A straight-line alignment of celestial bodies.",
+    "note": "An alignment of three celestial bodies, as when the Sun, Earth, and Moon line up at a full or new moon. Exact alignment can produce an eclipse.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.jpl.nasa.gov/edu/resources/lesson-plan/measuring-the-supermoon/",
+        "label": "NASA/JPL: syzygy and the Moon"
+      }
+    ]
+  },
+  {
+    "id": "guzheng",
+    "term": "guzheng",
+    "aliases": [
+      "Guzheng"
+    ],
+    "short": "A traditional Chinese plucked zither.",
+    "note": "A long, bridged zither played by plucking strings with the right hand and bending or pressing them with the left. Modern instruments commonly have twenty-one strings.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://asia-archive.si.edu/podcast/chinese-music-for-the-phoenix-washington-guzheng-society/",
+        "label": "Smithsonian National Museum of Asian Art: guzheng"
+      }
+    ]
+  },
+  {
+    "id": "come-gracious-spirit-heavenly-dove",
+    "term": "Come, Gracious Spirit, Heavenly Dove",
+    "aliases": [],
+    "short": "Simon Browne’s hymn asking the Holy Spirit for guidance.",
+    "note": "An eighteenth-century Christian hymn by Simon Browne, published in 1720. It addresses the Holy Spirit as a heavenly dove and asks for comfort, guidance, and a path toward holiness.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.hymnary.org/text/come_gracious_spirit_heavenly_dove_with",
+        "label": "Hymnary: Simon Browne’s hymn"
+      }
+    ]
+  },
+  {
+    "id": "candelabrum",
+    "term": "candelabrum",
+    "aliases": [
+      "candelabra",
+      "candelabrums"
+    ],
+    "note": "A branched stand holding several candles.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/candelabrum",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A branched candleholder."
+  },
+  {
+    "id": "gossamer",
+    "term": "gossamer",
+    "aliases": [],
+    "short": "Fine, floating spider silk; something extremely light and delicate.",
+    "note": "The thin threads of spider silk that float through the air or cling to vegetation. By extension, gossamer describes filmy fabric or anything exceptionally fine, light, or insubstantial.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/us/dictionary/english-french/gossamer",
+        "label": "Cambridge Dictionary: gossamer, English definition"
+      },
+      {
+        "url": "https://www.dictionary.com/browse/gossamer",
+        "label": "Dictionary.com: gossamer"
+      }
+    ]
+  }
+]

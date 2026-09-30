@@ -1,7 +1,8 @@
 # Books — local setup and hosting
 
 This directory is a complete static website. It contains New Sun (including Urth),
-Long Sun (four novels), and Short Sun (three novels). No package installation,
+Long Sun (four novels), Short Sun (three novels), and Cixin Liu’s Remembrance of
+Earth’s Past trilogy (three separate readers). No package installation,
 build service, database, or account is required.
 
 ## Local test
@@ -19,6 +20,9 @@ The book addresses are:
 - `/readers/book-of-the-new-sun/`
 - `/readers/book-of-the-long-sun/`
 - `/readers/book-of-the-short-sun/`
+- `/readers/three-body-problem/`
+- `/readers/dark-forest/`
+- `/readers/deaths-end/`
 
 Use an HTTP server rather than opening index.html directly. If instead you serve
 this directory itself, the addresses have no initial `/readers` component.
@@ -41,13 +45,15 @@ touch devices use a tap. Escape closes an open definition or dialog.
 
 On narrow screens, Contents and Search move to the lower edge. Search defaults to the current chapter; its scope can be
 expanded explicitly. Search and first-appearance annotations are independent for
-each of the three series.
+each reader.
 
 A chapter address uses `#chapter-id`; a paragraph address uses
 `#chapter-id/paragraph-id`. The bare book address starts at the beginning.
 There is no remembered reading position or account. Theme preference is inherited
 from the original site. Original named-character lists, where supplied, remain
 optional under each volume's “Names in the text”; these may contain spoilers.
+The Liu novels keep original notes, character lists, era tables, and postscripts
+in “Supplementary material.” Original footnote links also work within chapters.
 
 ## Plain HTML
 
@@ -63,7 +69,8 @@ JSON/HTML, manifest.json, glossary.json, and search.json. Vocabulary is stored a
 short marginal glosses, full definitions, and independent source links. No
 reference-guide files, font programs, editorial section, or audit pages are included.
 
-This is a finished static export, not an EPUB import application. Typography changes
+This is a static export. A reproducible, source-specific importer for the supplied
+Liu omnibus lives in `tools/import_earths_past.py`; it is not a general EPUB application. Typography changes
 can be made in assets/reader.css. Preserve chapter/paragraph IDs when editing text.
 Documented corrections retain their original strings in `data-original` attributes;
 adding `?wording=source` before a chapter hash displays that wording.
@@ -108,3 +115,17 @@ existing entries, bringing the total to 1,443. It expands saints, names, languag
 roots, historical vocabulary, and other externally attested references. Tentative
 connections begin “Possibly”; prose and paragraph addresses are preserved.
 [NOTES-V11.md](NOTES-V11.md) records the research and validation.
+
+## Version 12
+
+Adds three separate readers for The Three-Body Problem, The Dark Forest, and
+Death’s End, with independent search and external-reference margins. The original
+translator footnotes and illustrations remain available; packaging and publisher
+adverts are omitted. Authored annotations are in `data/earths-past/*.json`; rebuild
+with `python3 tools/import_earths_past.py /path/to/supplied-omnibus.epub`.
+The EPUB is not stored in this repository. Text-integrity hashes record the retained
+source text before annotation.
+
+Long and Short Sun now use seven historical ornamental alphabets. New Sun’s five
+approved alphabets remain unchanged. See `assets/initials/NOTICE.md` for artwork
+provenance, licenses, and the deterministic rebuild command.

@@ -1,0 +1,1222 @@
+[
+  {
+    "id": "qin-shi-huang",
+    "term": "Qin Shi Huang",
+    "aliases": [],
+    "short": "The first emperor of a unified China.",
+    "note": "The ruler of Qin who unified China in 221 BCE and took the title First Emperor. His immense funerary complex near Xi’an includes the terracotta army.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/441",
+        "label": "UNESCO: Mausoleum of the First Qin Emperor"
+      }
+    ],
+    "occurrences": 21,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-252",
+      "index": 1
+    }
+  },
+  {
+    "id": "mozi",
+    "term": "Mozi",
+    "aliases": [],
+    "short": "Ancient Chinese philosopher and founder of Mohism.",
+    "note": "Mo Di, or “Master Mo,” was a fifth-century BCE Chinese thinker. Mohism advocated impartial concern for others, practical benefit, frugality, and opposition to aggressive warfare.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/archives/win2025/entries/mohism/",
+        "label": "Stanford Encyclopedia of Philosophy: Mohism"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-939",
+      "index": 1
+    }
+  },
+  {
+    "id": "confucius",
+    "term": "Confucius",
+    "aliases": [],
+    "short": "Chinese teacher and philosopher, traditionally 551–479 BCE.",
+    "note": "Kongzi, or “Master Kong,” whose teachings concern ethical cultivation, humane government, family relationships, and ritual. The Analects preserves sayings and dialogues associated with him and his disciples.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/confucius/",
+        "label": "Stanford Encyclopedia of Philosophy: Confucius"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-939",
+      "index": 1
+    }
+  },
+  {
+    "id": "foucault-pendulum",
+    "term": "Foucault Pendulum",
+    "aliases": [],
+    "short": "A pendulum that demonstrates the Earth’s rotation.",
+    "note": "A freely swinging pendulum whose plane of swing changes relative to the rotating Earth. The United Nations’ gold-plated example was presented by the Netherlands in 1955.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.un.org/ungifts/node/421",
+        "label": "United Nations: Foucault Pendulum"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-772",
+      "index": 1
+    }
+  },
+  {
+    "id": "let-us-beat-swords-into-plowshares",
+    "term": "Let Us Beat Swords into Plowshares",
+    "aliases": [],
+    "short": "A United Nations sculpture based on Isaiah’s image of peace.",
+    "note": "Evgeniy Vuchetich’s bronze of a man hammering a sword into a farming tool, given to the United Nations by the Soviet Union in 1959. Its title echoes the biblical Book of Isaiah.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.un.org/ungifts/node/630",
+        "label": "United Nations: Let Us Beat Swords Into Ploughshares"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-777",
+      "index": 1
+    }
+  },
+  {
+    "id": "malvinas-war",
+    "term": "Malvinas War",
+    "aliases": [],
+    "short": "The 1982 war over the Falkland Islands.",
+    "note": "The conflict between Argentina and the United Kingdom after Argentine forces occupied the Falkland Islands, called the Islas Malvinas in Spanish. It ended in June 1982 with the surrender of Argentine forces.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://history.state.gov/milestones/1981-1988/south-atlantic",
+        "label": "U.S. Department of State: South Atlantic crisis"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-428",
+      "index": 1
+    }
+  },
+  {
+    "id": "dunhuang",
+    "term": "Dunhuang",
+    "aliases": [],
+    "short": "An oasis on the Silk Road near the Mogao Buddhist caves.",
+    "note": "An oasis town in Gansu, northwestern China, associated with the nearby Mogao cave temples and their paintings, sculptures, and extraordinary manuscript collections.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://idp.bl.uk/wp-content/uploads/2025/01/BL.SR_.Large_.Print_.Guide_.V3.pdf",
+        "label": "British Library: Silk Roads exhibition guide"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-1583",
+      "index": 1
+    }
+  },
+  {
+    "id": "wang-yuanlu",
+    "term": "Wang Yuanlu",
+    "aliases": [
+      "Abbot Wang"
+    ],
+    "short": "The Daoist caretaker who rediscovered Dunhuang’s Library Cave.",
+    "note": "A Daoist priest caring for the Mogao caves who uncovered their sealed manuscript chamber in 1900. He later sold portions of its contents to foreign researchers including Aurel Stein and Paul Pelliot.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://idp.bl.uk/blog/shaping-the-stein-collections-dunhuang-corpus-1-wang-yuanlu-the-first-curator/",
+        "label": "International Dunhuang Programme: Wang Yuanlu"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-1583",
+      "index": 1
+    }
+  },
+  {
+    "id": "king-wen-of-zhou",
+    "term": "King Wen of Zhou",
+    "aliases": [
+      "King Wen"
+    ],
+    "short": "The Zhou ruler traditionally associated with the Book of Changes.",
+    "note": "An eleventh-century BCE Zhou ruler traditionally credited with statements interpreting the I Ching’s hexagrams. The text’s historical authorship is more complex than this traditional attribution.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/archives/sum2024/entries/chinese-change/",
+        "label": "Stanford Encyclopedia of Philosophy: Yijing"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-142",
+      "index": 1
+    }
+  },
+  {
+    "id": "xibaipo",
+    "term": "Xibaipo",
+    "aliases": [],
+    "short": "The Chinese Communist leadership’s headquarters before Beijing.",
+    "note": "A village in Hebei where the Communist Party’s central leadership was based in 1948–1949, directing the final major campaigns of the Chinese Civil War.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.china.org.cn/english/culture/79800.htm",
+        "label": "China.org.cn: Xibaipo museum and historic site"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-1709",
+      "index": 5
+    }
+  },
+  {
+    "id": "mona-lisa",
+    "term": "Mona Lisa",
+    "aliases": [],
+    "short": "Leonardo da Vinci’s portrait of Lisa Gherardini.",
+    "note": "A Renaissance portrait of Lisa Gherardini, wife of Francesco del Giocondo, painted by Leonardo da Vinci. The painting is also known as La Gioconda and is held by the Louvre.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.louvre.fr/en/explore/the-palace/from-the-mona-lisa-to-the-wedding-feast-at-cana",
+        "label": "Louvre: Mona Lisa"
+      }
+    ],
+    "occurrences": 11,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-852",
+      "index": 1
+    }
+  },
+  {
+    "id": "aristotle",
+    "term": "Aristotle",
+    "aliases": [],
+    "short": "Greek philosopher and investigator of nature, 384–322 BCE.",
+    "note": "A student of Plato whose writings cover logic, ethics, politics, biology, physics, and metaphysics. His explanations of nature profoundly influenced later Greek, Islamic, and European scholarship.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/aristotle/?level=1",
+        "label": "Stanford Encyclopedia of Philosophy: Aristotle"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-939",
+      "index": 1
+    }
+  },
+  {
+    "id": "zheng-he",
+    "term": "Zheng He",
+    "aliases": [],
+    "short": "Possibly the Ming admiral who led seven great overseas expeditions.",
+    "note": "Possibly Zheng He, the Chinese admiral whose fleets sailed through the Indian Ocean between 1405 and 1433, reaching ports as far away as the east coast of Africa.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/51649",
+        "label": "Metropolitan Museum: Zheng He’s voyages"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-004",
+      "index": 1
+    }
+  },
+  {
+    "id": "west-lake",
+    "term": "West Lake",
+    "aliases": [],
+    "short": "Hangzhou’s celebrated lake and cultural landscape.",
+    "note": "A lake bordered by Hangzhou and wooded hills, shaped over centuries with causeways, islands, temples, pagodas, and gardens. Its idealized scenery profoundly influenced East Asian landscape design.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/1334",
+        "label": "UNESCO: West Lake cultural landscape"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-977",
+      "index": 5
+    }
+  },
+  {
+    "id": "bhagavad-gita",
+    "term": "Bhagavad Gita",
+    "aliases": [],
+    "short": "A Hindu scripture framed as Krishna’s counsel to Arjuna.",
+    "note": "The “Song of the Lord,” a section of the Mahabharata in which Krishna addresses Arjuna’s doubts before battle. It explores duty, action, knowledge, devotion, and liberation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bulletin.hds.harvard.edu/facing-the-fierce-land-of-i/",
+        "label": "Harvard Divinity Bulletin: the Bhagavad Gita"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-1192",
+      "index": 1
+    }
+  },
+  {
+    "id": "beiyang-fleet",
+    "term": "Beiyang Fleet",
+    "aliases": [],
+    "short": "The Qing dynasty’s northern modernized naval force.",
+    "note": "A late-Qing naval force based partly at Liugong Island near Weihaiwei. Its defeats in the First Sino-Japanese War exposed the limits of China’s nineteenth-century military modernization.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://hk.history.museum/documents/Collections-and-Services/Museum-Collection/Through-Wind-and-Rain.pdf",
+        "label": "Hong Kong Museum of History: Through Wind and Rain"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-516",
+      "index": 5
+    }
+  },
+  {
+    "id": "liu-buchan",
+    "term": "Liu Buchan",
+    "aliases": [],
+    "short": "Qing naval officer and captain of the battleship Dingyuan.",
+    "note": "The captain of the Beiyang Fleet’s flagship Dingyuan during the First Sino-Japanese War. After the ship was damaged at Weihaiwei in 1895, he ordered it scuttled and took his own life.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://hk.history.museum/documents/Collections-and-Services/Museum-Collection/Through-Wind-and-Rain.pdf",
+        "label": "Hong Kong Museum of History: Dingyuan"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-517",
+      "index": 5
+    }
+  },
+  {
+    "id": "battle-of-weihaiwei",
+    "term": "Battle of Weihaiwei",
+    "aliases": [
+      "Weihaiwei"
+    ],
+    "short": "The 1895 battle that ended the Beiyang Fleet’s resistance.",
+    "note": "A Japanese land and naval operation against the Qing naval base at Weihaiwei during the First Sino-Japanese War. Capture of the coastal forts and attacks on the ships led to the fleet’s defeat.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://hk.history.museum/documents/Collections-and-Services/Museum-Collection/Through-Wind-and-Rain.pdf",
+        "label": "Hong Kong Museum of History: Weihaiwei"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-13",
+      "paragraph": "p-086",
+      "index": 3
+    }
+  },
+  {
+    "id": "chiran-peace-museum",
+    "term": "Chiran Peace Museum",
+    "aliases": [],
+    "short": "A museum preserving records of Japanese wartime suicide pilots.",
+    "note": "A museum in Chiran, Kagoshima, associated with the army airbase used for special-attack missions during the Battle of Okinawa. Its collection includes pilots’ letters, photographs, and personal effects.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.chiran-tokkou.jp/en/",
+        "label": "Chiran Peace Museum"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-1155",
+      "index": 1
+    }
+  },
+  {
+    "id": "simon-bolivar",
+    "term": "Simón Bolívar",
+    "aliases": [
+      "Bolívar"
+    ],
+    "short": "Leader of South American independence from Spain.",
+    "note": "A military and political leader who helped defeat Spanish rule in northern South America and became president of the republic commonly called Gran Colombia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.loc.gov/item/78341644",
+        "label": "Library of Congress: the 1821 Colombian constitution"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "section-14",
+      "paragraph": "p-386",
+      "index": 4
+    }
+  },
+  {
+    "id": "gran-colombia",
+    "term": "Gran Colombia",
+    "aliases": [],
+    "short": "The early republic uniting much of northern South America.",
+    "note": "The republic that encompassed present-day Colombia, Venezuela, Ecuador, and Panama after independence from Spain. Its union broke apart around 1830.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.loc.gov/item/78341644",
+        "label": "Library of Congress: Gran Colombia"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-14",
+      "paragraph": "p-386",
+      "index": 4
+    }
+  },
+  {
+    "id": "panama-canal",
+    "term": "Panama Canal",
+    "aliases": [],
+    "short": "The artificial waterway linking the Atlantic and Pacific oceans.",
+    "note": "A ship canal across the Isthmus of Panama. Locks raise vessels from sea level to an inland lake system and lower them again on the opposite coast.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pancanal.com/en/design-of-the-locks/",
+        "label": "Panama Canal Authority: design of the locks"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-097",
+      "index": 1
+    }
+  },
+  {
+    "id": "genghis-khan",
+    "term": "Genghis Khan",
+    "aliases": [],
+    "short": "Founder of the Mongol Empire, circa 1162–1227.",
+    "note": "The Mongol ruler whose conquests established an empire that his successors extended across much of Eurasia. Its successor states included the Yuan dynasty in China and the Ilkhanate in Iran.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/fr/essays/the-legacy-of-genghis-khan",
+        "label": "Metropolitan Museum: The Legacy of Genghis Khan"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-789",
+      "index": 5
+    }
+  },
+  {
+    "id": "three-body-problem",
+    "term": "three-body problem",
+    "aliases": [
+      "three-body motion"
+    ],
+    "short": "Predicting the motion of three mutually gravitating bodies.",
+    "note": "The problem of finding how three bodies move under their mutual gravitational attraction. Many configurations are chaotic and require numerical methods; special exact or periodic solutions also exist.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.amnh.org/explore/news-blogs/three-body-problem-chaos-theory",
+        "label": "American Museum of Natural History: the three-body problem"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-12",
+      "paragraph": "p-478",
+      "index": 2
+    }
+  },
+  {
+    "id": "newton",
+    "term": "Newton",
+    "aliases": [],
+    "short": "English mathematician and physicist, 1643–1727.",
+    "note": "Isaac Newton formulated the laws of motion and universal gravitation, developed a form of calculus, and made major discoveries in optics. His Principia appeared in 1687.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Newton/",
+        "label": "University of St Andrews: Isaac Newton"
+      }
+    ],
+    "occurrences": 13,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-242",
+      "index": 1
+    }
+  },
+  {
+    "id": "von-neumann",
+    "term": "Von Neumann",
+    "aliases": [
+      "von Neumann"
+    ],
+    "short": "Mathematician and pioneer of modern computing.",
+    "note": "John von Neumann, 1903–1957, made foundational contributions to mathematics, quantum theory, game theory, and computing. The stored-program computer architecture commonly named after him keeps instructions and data in memory.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Von_Neumann/",
+        "label": "University of St Andrews: John von Neumann"
+      }
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-939",
+      "index": 1
+    }
+  },
+  {
+    "id": "lagrange-points",
+    "term": "Lagrange points",
+    "aliases": [
+      "Lagrange point"
+    ],
+    "short": "Five special positions in a two-body orbital system.",
+    "note": "Positions where a small object can remain in a fixed configuration relative to two larger orbiting bodies. L1, L2, and L3 are unstable; L4 and L5 can be stable when the larger bodies’ mass ratio is sufficiently unequal.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/resources/faq/what-are-lagrange-points/",
+        "label": "NASA: Lagrange points"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-1523",
+      "index": 5
+    }
+  },
+  {
+    "id": "kuiper-belt",
+    "term": "Kuiper Belt",
+    "aliases": [],
+    "short": "The broad region of icy bodies beyond Neptune.",
+    "note": "A disk-like region beyond Neptune containing Pluto and many other icy bodies left from the Solar System’s formation. It is a major source of short-period comets.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/kuiper-belt/",
+        "label": "NASA: Kuiper Belt"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-200",
+      "index": 1
+    }
+  },
+  {
+    "id": "oort-cloud",
+    "term": "Oort Cloud",
+    "aliases": [],
+    "short": "A proposed distant reservoir of icy bodies around the Solar System.",
+    "note": "A vast, roughly spherical population of icy bodies inferred from the paths of long-period comets. It is thought to extend far beyond the planets and the Kuiper Belt.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/oort-cloud/facts/",
+        "label": "NASA: Oort Cloud facts"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-985",
+      "index": 1
+    }
+  },
+  {
+    "id": "quantum-entanglement",
+    "term": "quantum entanglement",
+    "aliases": [
+      "entanglement"
+    ],
+    "short": "Quantum correlations between parts of a shared physical state.",
+    "note": "A relationship in which the quantum state of a combined system cannot be described as independent states of its parts. Entanglement produces strong correlations, but cannot transmit usable information faster than light.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://scienceexchange.caltech.edu/topics/quantum-science-explained/entanglement",
+        "label": "Caltech: quantum entanglement"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-075",
+      "index": 1
+    }
+  },
+  {
+    "id": "nuclear-fusion",
+    "term": "nuclear fusion",
+    "aliases": [
+      "controlled nuclear fusion",
+      "controlled fusion"
+    ],
+    "short": "The joining of light atomic nuclei, releasing energy.",
+    "note": "A nuclear reaction in which light nuclei combine into heavier ones. Fusion powers stars; energy is released when the products have less total mass than the starting particles.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.energy.gov/science/doe-explainsfusion-reactions",
+        "label": "U.S. Department of Energy: fusion reactions"
+      }
+    ],
+    "occurrences": 15,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-991",
+      "index": 1
+    }
+  },
+  {
+    "id": "deuterium",
+    "term": "deuterium",
+    "aliases": [],
+    "short": "Hydrogen with one neutron in its nucleus.",
+    "note": "A stable isotope of hydrogen whose nucleus contains one proton and one neutron. It occurs naturally in water and is one of the fuels studied for fusion energy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.energy.gov/science/doe-explainsdeuterium-tritium-fusion-fuel",
+        "label": "U.S. Department of Energy: deuterium–tritium fuel"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-14",
+      "paragraph": "p-247",
+      "index": 4
+    }
+  },
+  {
+    "id": "tritium",
+    "term": "tritium",
+    "aliases": [],
+    "short": "Radioactive hydrogen with two neutrons in its nucleus.",
+    "note": "An isotope of hydrogen with one proton and two neutrons. Fusion of tritium with deuterium produces a helium nucleus and an energetic neutron.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.energy.gov/science/doe-explainsdeuterium-tritium-fusion-fuel",
+        "label": "U.S. Department of Energy: deuterium–tritium fuel"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-14",
+      "paragraph": "p-247",
+      "index": 4
+    }
+  },
+  {
+    "id": "tokamak",
+    "term": "tokamak",
+    "aliases": [],
+    "short": "A doughnut-shaped magnetic device for confining hot plasma.",
+    "note": "A fusion-research device that combines external magnetic fields with an electric current in the plasma to confine it within a toroidal chamber. The name comes from a Russian abbreviation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.iter.org/machine/what-tokamak",
+        "label": "ITER: What is a tokamak?"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-13",
+      "paragraph": "p-079",
+      "index": 3
+    }
+  },
+  {
+    "id": "strong-interaction",
+    "term": "strong interaction",
+    "aliases": [],
+    "short": "The force binding quarks and holding atomic nuclei together.",
+    "note": "One of the fundamental interactions, mediated by gluons between quarks. Its residual effects bind protons and neutrons into nuclei and act over extremely short distances.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://home.web.cern.ch/science/physics/standard-model/",
+        "label": "CERN: the Standard Model"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-1028",
+      "index": 5
+    }
+  },
+  {
+    "id": "einstein",
+    "term": "Einstein",
+    "aliases": [],
+    "short": "Physicist who developed the special and general theories of relativity.",
+    "note": "Albert Einstein, 1879–1955, transformed ideas about space, time, gravity, and light. His explanation of the photoelectric effect earned him the 1921 Nobel Prize in Physics.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+        "label": "Nobel Prize: Albert Einstein"
+      }
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-939",
+      "index": 1
+    }
+  },
+  {
+    "id": "quantum-mechanics",
+    "term": "quantum mechanics",
+    "aliases": [],
+    "short": "The physical theory of atomic and subatomic systems.",
+    "note": "A framework that predicts physical outcomes using quantum states and probabilities. Features such as discrete energy levels, interference, and entanglement distinguish it from classical mechanics.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/archives/spr2026/entries/qm-copenhagen/",
+        "label": "Stanford Encyclopedia of Philosophy: quantum mechanics"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-12",
+      "paragraph": "p-269",
+      "index": 2
+    }
+  },
+  {
+    "id": "moores-law",
+    "term": "Moore’s Law",
+    "aliases": [
+      "Moore’s law"
+    ],
+    "short": "The observed growth of transistor counts on integrated circuits.",
+    "note": "Gordon Moore’s projection that the number of transistors on an integrated circuit would approximately double every two years, as revised in 1975. It describes an industrial trend, not a physical law.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://newsroom.intel.com/press-kit/moores-law",
+        "label": "Intel: Moore’s Law"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-12",
+      "paragraph": "p-145",
+      "index": 2
+    }
+  },
+  {
+    "id": "fermi-paradox",
+    "term": "Fermi Paradox",
+    "aliases": [],
+    "short": "The apparent tension between possible abundant alien life and its absence from view.",
+    "note": "The question associated with Enrico Fermi’s “Where is everybody?”: if technological civilizations can arise and spread through an ancient galaxy, why is there no convincing evidence of their presence?",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.seti.org/research/seti-101/fermi-paradox",
+        "label": "SETI Institute: Fermi Paradox"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-1676",
+      "index": 5
+    }
+  },
+  {
+    "id": "enrico-fermi",
+    "term": "Enrico Fermi",
+    "aliases": [
+      "Fermi"
+    ],
+    "short": "Physicist who led the first controlled nuclear chain reaction.",
+    "note": "An Italian-American physicist whose team achieved a controlled, self-sustaining nuclear chain reaction in Chicago Pile-1 on December 2, 1942, opening the era of nuclear reactors.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.ne.anl.gov/About/reactors/early-reactors.shtml",
+        "label": "Argonne National Laboratory: Chicago Pile-1"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-1036",
+      "index": 1
+    }
+  },
+  {
+    "id": "carl-sagan",
+    "term": "Carl Sagan",
+    "aliases": [],
+    "short": "Astronomer and influential communicator of science, 1934–1996.",
+    "note": "A planetary scientist at Cornell University whose research and public writing concerned the Solar System, the possibility of extraterrestrial life, and the value of scientific reasoning.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ecommons.cornell.edu/server/api/core/bitstreams/dadc168e-3d86-449f-a0f4-fdaa716a36bf/content",
+        "label": "Cornell University: Carl Sagan memorial"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-743",
+      "index": 1
+    }
+  },
+  {
+    "id": "sunspots",
+    "term": "sunspots",
+    "aliases": [],
+    "short": "Relatively cool, magnetically active patches on the Sun.",
+    "note": "Dark-looking regions of the Sun’s visible surface where strong magnetic fields inhibit the usual transport of heat. They are cooler than their surroundings, rather than empty holes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/sun/facts/",
+        "label": "NASA: Sun facts"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-14",
+      "paragraph": "p-251",
+      "index": 4
+    }
+  },
+  {
+    "id": "solar-wind",
+    "term": "solar wind",
+    "aliases": [],
+    "short": "The continuous outflow of charged particles from the Sun.",
+    "note": "A stream of plasma escaping the Sun’s outer atmosphere and flowing through the Solar System, carrying the Sun’s magnetic field with it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/sun/facts/",
+        "label": "NASA: Sun facts"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-025",
+      "index": 1
+    }
+  },
+  {
+    "id": "legend-of-the-galactic-heroes",
+    "term": "Legend of the Galactic Heroes",
+    "aliases": [
+      "Yang Wen-li"
+    ],
+    "short": "Yoshiki Tanaka’s Japanese space-opera series.",
+    "note": "A series of novels about interstellar war and political rivalry, contrasting an autocratic empire with a democratic alliance. Its central military figures include Reinhard von Lohengramm and Yang Wen-li.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.viz.com/legend-of-the-galactic-heroes",
+        "label": "VIZ: Legend of the Galactic Heroes"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-1165",
+      "index": 1
+    }
+  },
+  {
+    "id": "foundation",
+    "term": "Foundation",
+    "aliases": [
+      "Seldon Plan"
+    ],
+    "short": "Isaac Asimov’s series about the rise and fall of a galactic civilization.",
+    "note": "A science-fiction sequence in which mathematician Hari Seldon develops psychohistory, a fictional statistical science of mass human behavior, and plans to shorten a coming age of social collapse.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.penguinrandomhouse.com/books/5655/foundation-by-isaac-asimov/",
+        "label": "Penguin Random House: Foundation"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-1526",
+      "index": 1
+    }
+  },
+  {
+    "id": "2001-a-space-odyssey",
+    "term": "2001: A Space Odyssey",
+    "aliases": [
+      "2001: A SPACE ODYSSEY"
+    ],
+    "short": "Arthur C. Clarke and Stanley Kubrick’s space-exploration story.",
+    "note": "The title of Clarke’s 1968 novel and Kubrick’s film, developed together. Both concern human evolution, mysterious extraterrestrial artifacts, and a voyage involving the computer HAL 9000.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.penguinrandomhouse.com/books/538851/2001-a-space-odyssey-by-arthur-c-clarke/",
+        "label": "Penguin Random House: 2001: A Space Odyssey"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-1013",
+      "index": 5
+    }
+  },
+  {
+    "id": "arthur-c-clarke",
+    "term": "Arthur C. Clarke",
+    "aliases": [
+      "Clarke"
+    ],
+    "short": "British science-fiction writer, 1917–2008.",
+    "note": "The author of Childhood’s End, 2001: A Space Odyssey, and Rendezvous with Rama, whose fiction and essays often concern spaceflight, advanced technology, and encounters with other forms of intelligence.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.penguinrandomhouse.com/authors/5058/arthur-c-clarke/",
+        "label": "Penguin Random House: Arthur C. Clarke"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-1013",
+      "index": 5
+    }
+  },
+  {
+    "id": "platos-republic",
+    "term": "Plato’s Republic",
+    "aliases": [],
+    "short": "An ancient Greek philosophical dialogue on justice and government.",
+    "note": "Plato’s dialogue explores justice in individuals and in an imagined city, the education of rulers, knowledge and appearance, and the relationship between political order and the soul.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/1497",
+        "label": "Project Gutenberg: Plato’s Republic"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-895",
+      "index": 5
+    }
+  },
+  {
+    "id": "venus-de-milo",
+    "term": "Venus de Milo",
+    "aliases": [],
+    "short": "A celebrated Hellenistic statue of a goddess.",
+    "note": "An ancient Greek marble statue found on the island of Melos in 1820, usually identified as Aphrodite. It entered the Louvre in 1821 and is famous for its missing arms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.louvre.fr/en/explore/the-palace/ideal-greek-beauty",
+        "label": "Louvre: Venus de Milo"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-1594",
+      "index": 1
+    }
+  },
+  {
+    "id": "winged-victory",
+    "term": "Winged Victory",
+    "aliases": [],
+    "short": "The Winged Victory of Samothrace, an ancient Greek sculpture.",
+    "note": "A marble image of Nike, the goddess of victory, standing on a ship-shaped base. Discovered on Samothrace in 1863, it became one of the Louvre’s best-known sculptures.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.louvre.fr/en/explore/visitor-trails/the-louvre-s-masterpieces/an-uplifting-sight",
+        "label": "Louvre: Winged Victory"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-1594",
+      "index": 1
+    }
+  },
+  {
+    "id": "tonkaya-ryabina",
+    "term": "Tonkaya Ryabina",
+    "aliases": [],
+    "short": "A Russian song whose title means “Slender Rowan.”",
+    "note": "A song based on Aleksey Koltsov’s poem about a solitary rowan tree longing to cross a river and join an oak. Ryabina means rowan or mountain ash.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.polinashepherd.co.uk/swm2020/",
+        "label": "Polina Shepherd: song teaching materials"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-589",
+      "index": 1
+    }
+  },
+  {
+    "id": "wang-xiaobo",
+    "term": "Wang Xiaobo",
+    "aliases": [],
+    "short": "Chinese novelist and essayist, author of Golden Age.",
+    "note": "A Chinese writer known for satirical fiction that treats political conformity, sexuality, and individual freedom. His Golden Age sequence includes work set during and after the Cultural Revolution.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.penguinrandomhouse.com/books/652109/golden-age-by-wang-xiaobo/9781662601217/",
+        "label": "Penguin Random House: Wang Xiaobo"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-511",
+      "index": 1
+    }
+  },
+  {
+    "id": "a-clockwork-orange",
+    "term": "A Clockwork Orange",
+    "aliases": [],
+    "short": "Anthony Burgess’s novel about violence, conditioning, and moral choice.",
+    "note": "A 1962 novel narrated in an invented slang called Nadsat. It examines whether enforced behavioral conditioning can produce goodness while depriving a person of the capacity to choose.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.anthonyburgess.org/a-clockwork-orange/",
+        "label": "International Anthony Burgess Foundation: A Clockwork Orange"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-14",
+      "paragraph": "p-122",
+      "index": 4
+    }
+  },
+  {
+    "id": "magna-carta",
+    "term": "Magna Carta",
+    "aliases": [],
+    "short": "The 1215 English charter limiting royal authority.",
+    "note": "A charter sealed by King John at Runnymede in June 1215 after conflict with his barons. Its lasting significance includes the principle that the ruler is subject to law.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/medieval/magna-carta/",
+        "label": "UK National Archives: Magna Carta"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-288",
+      "index": 1
+    }
+  },
+  {
+    "id": "dag-hammarskjold",
+    "term": "Dag Hammarskjöld",
+    "aliases": [
+      "Hammarskjöld"
+    ],
+    "short": "The second Secretary-General of the United Nations.",
+    "note": "A Swedish diplomat who led the United Nations from 1953 until his death in a plane crash during a peace mission in Africa in 1961.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.un.org/sg/en/content/selection-and-appointment-of-dag-hjalmar-agne-carl-hammarskjold-0",
+        "label": "United Nations: Dag Hammarskjöld"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-878",
+      "index": 1
+    }
+  },
+  {
+    "id": "carpe-diem",
+    "term": "Carpe diem",
+    "aliases": [],
+    "short": "Latin: seize the day.",
+    "note": "Latin for seize the day, from Horace’s Odes 1.11. The phrase urges enjoyment of the present instead of reliance on an unknowable future.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poets/horace",
+        "label": "Poetry Foundation: Horace"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-363",
+      "index": 5
+    }
+  },
+  {
+    "id": "obelisk",
+    "term": "obelisk",
+    "aliases": [
+      "obelisks"
+    ],
+    "note": "A tall, four-sided stone pillar that tapers toward a small pyramidal top.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/obelisk",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A tall stone pillar tapering to a pyramid.",
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-1170",
+      "index": 1
+    }
+  },
+  {
+    "id": "sirius",
+    "term": "Sirius",
+    "aliases": [
+      "Sirius"
+    ],
+    "short": "The Dog Star, the brightest star in Earth’s night sky.",
+    "note": "Sirius, the Dog Star in Canis Major, is the brightest star in Earth’s night sky. It is a binary system: the brilliant Sirius A has a faint white-dwarf companion, Sirius B.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "NASA · Sirius, the brightest star in the night",
+        "url": "https://science.nasa.gov/image-article/apod-1996-september-02-sirius-the-brightest-star-in-the-night/"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-831",
+      "index": 5
+    }
+  },
+  {
+    "id": "gossamer",
+    "term": "gossamer",
+    "aliases": [],
+    "short": "Fine, floating spider silk; something extremely light and delicate.",
+    "note": "The thin threads of spider silk that float through the air or cling to vegetation. By extension, gossamer describes filmy fabric or anything exceptionally fine, light, or insubstantial.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/us/dictionary/english-french/gossamer",
+        "label": "Cambridge Dictionary: gossamer, English definition"
+      },
+      {
+        "url": "https://www.dictionary.com/browse/gossamer",
+        "label": "Dictionary.com: gossamer"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-607",
+      "index": 1
+    }
+  }
+]

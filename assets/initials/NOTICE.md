@@ -27,25 +27,38 @@ These are rendered illustrations, not modified or redistributed font programs.
 The original five scene-divider SVG motifs are new geometric ornaments for this edition.
 They are decorative choices, not assertions about the source book's symbolism.
 
-## Added volume-specific treatments
+## Long Sun and Short Sun alphabets
 
-Nightside: EB Garamond with a night-sky border.
-Lake: URW Z003 chancery with curling tendrils.
-Caldé: URW P052 Bold with an architectural border.
-Exodus: EB Garamond Bold with scrollwork.
-On Blue's Waters: Accanthis ADF with waves.
-In Green's Jungles: GFS Artemisia with climbing leaves.
-Return to the Whorl: URW C059 Bold with a laurel frame.
+The seven volume-specific alphabets now use complete decorative letter designs from
+CTAN’s `initials` collection, rather than plain type surrounded by drawn borders.
 
-These are new composite illustrations, not seven historical initial alphabets.
-The underlying letter designs are credited respectively to Georg Duffner and the
-EB Garamond contributors; URW's Base35 projects; Hirwen Harendal / Arkandis Digital
-Foundry; and the Greek Font Society / Takis Katsoulidis. The accompanying border
-artwork and seven new scene motifs were drawn for this edition. No font program is
-included or required at runtime. Body and heading typography use system fonts.
+| Volume | Artwork set | Character |
+|---|---|---|
+| Nightside | Eileen Caps Regular | Light letters and curling vines in a dark engraved panel |
+| Lake | Elzevier Caps | Floral capitals with open, intertwining strokes |
+| Caldé | Carrick Caps | Dense ribbon interlace and insular capitals |
+| Exodus | Rothenburg Decorative | Blackletter with fine pen flourishes |
+| On Blue’s Waters | Nouveau Drop Caps | Curving light letters and leafy stems in dark panels |
+| In Green’s Jungles | Acorn Initials | Outlined capitals against engraved oak foliage |
+| Return to the Whorl | Morris Initialen | Bold medieval letters interwoven with leaves |
 
-Project references:
-https://github.com/georgd/EB-Garamond
-https://github.com/ArtifexSoftware/urw-base35-fonts
-https://arkandis.tuxfamily.org/adffonts.html
-https://greekfontsociety-gfs.gr/typefaces/20th_21st_century
+Dieter Steffmann / Typographer Mediengestaltung digitised these designs. The source
+notices credit Eileen Caps to David Rakowski (1992), and Elzevier Caps to David
+Rakowski’s EPS art. The remaining notices and exact source-file hashes are recorded
+in `decorated-initials.json`.
+
+The [CTAN archive](https://mirrors.ctan.org/fonts/initials.zip) includes the author’s
+permission to redistribute or modify the collection under the LaTeX Project Public
+License. A verbatim UTF-8 copy of that permission and source inventory is retained
+in `CTAN-initials-README.txt`; the LPPL text is in `LPPL.txt`. These assets are SVG
+illustrations exported from glyph outlines, with ink-bounded viewports. They are
+not font programs, and do not download or require a font at runtime.
+
+Rebuild with `tools/build_decorated_initials.py --source-dir /path/to/initials` after
+extracting the CTAN archive. Build dependencies are FontTools, CairoSVG, and Pillow.
+The tool updates only the seven listed families and their contour rules; the five
+New Sun families are preserved. The choices are editorial decoration, not claims
+about the books’ symbolism.
+
+The seven existing Long/Short Sun scene-divider motifs remain original drawings
+for this edition and are separate from these replacement initial alphabets.

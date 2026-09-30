@@ -11,7 +11,9 @@ archive. This notice does not relicense those assets.
 
 The 312 decorative letters are individual outlined SVG illustrations, not font
 programs. The first five sets retain the previously approved historical initials.
-The seven added sets combine outlined letters with new volume-specific ornaments.
+The seven Long/Short Sun sets now use complete historical ornamental alphabets
+from the CTAN initials collection. The Liu readers reuse three of the approved
+New Sun alphabets without modifying those assets.
 Attribution is in assets/initials/NOTICE.md. Scene-divider motifs are decorative
 choices, not claims about the author's symbolism.
 
@@ -22,3 +24,9 @@ identifications are not claims of author-confirmed intention.
 
 No credentials, repository history, account configuration, font programs, or
 reference-guide text are included. Hosting is configured through the JWKNT/readers GitHub repository.
+
+The Remembrance of Earth’s Past text comes from the supplied Head of Zeus omnibus:
+The Three-Body Problem and Death’s End translated by Ken Liu, The Dark Forest
+translated by Joel Martinsen. Original copyright pages, translator notes, and
+postscripts are retained as supplementary material. Source illustrations remain
+credited to their original rights holders.

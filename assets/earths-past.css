@@ -1,0 +1,193 @@
+/* Source semantics only: typography and color come from Readers. */
+.chapter-body p.ep1-TIT{text-align:center;text-align-last:center;text-indent:0.00em;margin-bottom:0.00em;margin-top:0.00em;margin-right:0.00em;margin-left:0.00em}
+.chapter-body p.ep1-IMG{margin-top:1.00em;margin-right:0.00em;margin-bottom:1.00em;margin-left:0.00em;text-indent:0.00em;text-align:center;text-align-last:center}
+.chapter-body span.ep1-ePub-I{font-style:italic}
+.chapter-body span.ep1-chinese{font-weight:normal;font-style:normal;vertical-align:middle}
+.chapter-body span.ep1-ePub-SUP{vertical-align:super}
+.chapter-body span.ep1-R{font-weight:normal;font-style:normal}
+.chapter-body span.ep1-symbol{font-weight:normal;font-style:normal}
+.chapter-body span.ep1-Sans-I{font-style:italic}
+.chapter-body span.ep1-ePub-B{font-weight:bold;font-style:normal}
+.chapter-body p.ep1-TNI{font-weight:normal;font-style:normal;text-align:justify;text-indent:0em;margin:0em}
+.chapter-body p.ep1-CRT{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin:0em}
+.chapter-body p.ep1-CRT__L{font-weight:normal;font-style:normal;text-align:left;text-indent:0em;margin:0em 0em 0em 1.50em}
+.chapter-body p.ep1-CRT__R{font-weight:normal;font-style:normal;text-align:right;text-align-last:right;text-indent:0em;margin:0em 0em 0em 0em}
+.chapter-body p.ep1-CRT1{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin:1em 0em 0em 0em}
+.chapter-body p.ep1-CRT1__half{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin:1em 0em 0.50em 0em}
+.chapter-body p.ep1-STXS{font-weight:normal;font-style:normal;text-align:justify;text-indent:1.45em;margin:1.20em 0em}
+.chapter-body p.ep1-STNI{font-weight:normal;font-style:normal;text-align:justify;text-indent:0em;margin:1.20em 0em 0em 0em}
+.chapter-body p.ep1-STX{font-weight:normal;font-style:normal;text-align:justify;text-indent:1.45em;margin:1.20em 0em 0em 0em}
+.chapter-body p.ep1-TX{font-weight:normal;font-style:normal;text-align:justify;text-indent:1.45em;margin:0em}
+.chapter-body p.ep1-TXS{font-weight:normal;font-style:normal;text-align:justify;text-indent:1.45em;margin:0em 0em 1.20em 0em}
+.chapter-body p.ep1-CO{font-weight:normal;font-style:normal;text-align:justify;text-indent:0em;margin:0em}
+.chapter-body p.ep1-SB2{font-weight:normal;font-style:normal;text-align:justify;text-indent:0em;margin:0em 0em 0em 0em}
+.chapter-body p.ep1-SB2-NOSPACE{font-weight:normal;font-style:normal;text-align:justify;text-indent:0em;margin:0em}
+.chapter-body p.ep1-CN{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin-top:0.75em;margin-bottom:.5em}
+.chapter-body p.ep1-CT{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin-top:0em;margin-bottom:2em}
+.chapter-body p.ep1-CT__1{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin-top:0em;margin-bottom:2em}
+.chapter-body p.ep1-DL{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin-top:0em;margin-bottom:2em}
+.chapter-body p.ep1-DL__1{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin-top:0em;margin-bottom:2em}
+.chapter-body p.ep1-PN{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin:0em;margin-top:15%}
+.chapter-body p.ep1-PT{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin:0.5em 0em 0em 0em}
+.chapter-body p.ep1-EX{font-weight:normal;font-style:normal;text-align:justify;text-indent:0em;margin:0em 2em}
+.chapter-body p.ep1-EXI{font-weight:normal;font-style:normal;text-align:justify;text-indent:1.45em;margin:0em 2em}
+.chapter-body p.ep1-H1{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin:0em 1.45em}
+.chapter-body p.ep1-H1TXF{font-weight:normal;font-style:normal;text-align:justify;text-indent:0em;margin:0em 1.45em}
+.chapter-body p.ep1-NP{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin:1.20em 0em 0em 0em}
+.chapter-body p.ep1-H2{font-weight:normal;font-style:normal;text-align:left;text-indent:-1.20em;margin:0em 1.45em 0em 0em}
+.chapter-body p.ep1-H1TX{font-weight:normal;font-style:normal;text-align:justify;text-indent:1.45em;margin:0em 1.45em}
+.chapter-body p.ep1-NL{font-weight:normal;font-style:normal;text-align:justify;text-indent:0em;margin:0em 1.45em}
+.chapter-body p.ep1-NP2{font-weight:normal;font-style:normal;text-align:justify;text-indent:0em;margin:0em 1.45em 0em 2.40em}
+.chapter-body p.ep1-NP2TX{font-weight:normal;font-style:normal;text-align:justify;text-indent:1.45em;margin:0em 1.45em 0em 2.40em}
+.chapter-body p.ep1-H3{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin:2em 0em 0.70em 0em}
+.chapter-body p.ep1-ATNI{font-weight:normal;font-style:normal;text-align:justify;text-indent:0em;margin:0em}
+.chapter-body p.ep1-ATX{font-weight:normal;font-style:normal;text-align:justify;text-indent:1.45em;margin:0em}
+.chapter-body p.ep1-ATSB1{font-weight:normal;font-style:normal;text-align:justify;text-indent:0em;margin:1.20em 0em 0em 0em}
+.chapter-body p.ep1-DIA{font-weight:normal;font-style:normal;text-align:justify;text-indent:-1.10em;margin:0em 0em 0em 0em}
+.chapter-body p.ep1-DIAL{font-weight:normal;font-style:normal;text-align:justify;text-indent:-1.10em;margin:0em 0em 1.20em 0em}
+.chapter-body p.ep1-COM{font-weight:normal;font-style:normal;text-align:justify;text-indent:-1.20em;margin:0em 2em 0em 0em}
+.chapter-body p.ep1-LT{font-weight:normal;font-style:normal;text-align:left;text-indent:0em;margin:0em 2em}
+.chapter-body p.ep1-EXSP{font-weight:normal;font-style:normal;text-align:justify;text-indent:0em;margin:0em 1.75em}
+.chapter-body p.ep1-EXC{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin:0em 1.45em}
+.chapter-body p.ep1-EXC1{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin:0em 1.45em}
+.chapter-body p.ep1-BMH{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin-top:0.75em;margin-bottom:2em}
+.chapter-body p.ep1-BMHa{font-weight:bold;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin-top:0.75em;margin-bottom:0em}
+.chapter-body p.ep1-BMTX{font-weight:normal;font-style:normal;text-align:justify;text-indent:1.45em;margin:0em}
+.chapter-body p.ep1-AUSIG{font-weight:normal;font-style:normal;text-align:justify;text-indent:1.45em;margin:0em 0em 0em 0em}
+.chapter-body p.ep1-NLTX{font-weight:normal;font-style:normal;text-align:justify;text-indent:1.45em;margin:0em 1.45em 0em 2.50em}
+.chapter-body p.ep1-SB-STD{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin:1em 0em 1em 0em}
+.chapter-body p.ep1-FMH{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin:2.80em 0em 2.80em 0em}
+.chapter-body p.ep1-FMSH{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin:0em 0em 1em 0em}
+.chapter-body p.ep1-DPH{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin:1.20em 0em 0.50em 0em}
+.chapter-body p.ep1-DP{font-weight:normal;font-style:normal;text-align:justify;text-indent:0em;margin:0em 0em 0em 0em}
+.chapter-body p.ep1-DP__1{font-weight:normal;font-style:normal;text-align:left;text-indent:0em;margin:0em 1.50em 0em 0em}
+.chapter-body p.ep1-sp{margin-bottom:3em}
+.chapter-body p.ep1-TNI__A{font-weight:normal;font-style:normal;text-align:justify;text-indent:0em;margin:0em 2em}
+.chapter-body p.ep1-toc{font-weight:normal;font-style:normal;text-align:left;text-indent:0em;margin:0em}
+.chapter-body p.ep1-toc__1{font-weight:normal;font-style:normal;text-align:left;text-indent:0em;margin:0.25em 0em 0em 0em}
+.chapter-body p.ep1-toc1{font-weight:normal;font-style:normal;text-align:left;text-indent:0em;margin:0.25em 0em 0em 1em}
+.chapter-body p.ep1-toc__2{font-weight:normal;font-style:normal;text-align:left;text-indent:0em;margin:1em 0em 0em 0em}
+.chapter-body p.ep1-ntx{font-weight:normal;font-style:normal;margin-bottom:0.00em;margin-top:0.00em;text-indent:-1.30em;margin-right:0.00em;margin-left:0em;text-align:justify}
+.chapter-body .ep1-p0{text-indent:0;margin-left:0;text-align:center;text-align-last:center;margin-top:0;margin-bottom:0}
+.chapter-body .ep1-p1{text-indent:0;margin-left:0;text-align:center;text-align-last:center;margin-top:1em;margin-bottom:0}
+.chapter-body .ep1-p2{text-indent:0;margin-left:0;text-align:center;text-align-last:center;margin-top:.17em;margin-bottom:0}
+.chapter-body .ep1-k1{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin-left:0;margin-top:5em}
+.chapter-body .ep1-k2{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin-left:0;margin-top:1em}
+.chapter-body .ep1-k3{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin-left:0;margin-top:2em}
+.chapter-body .ep1-k4{font-weight:normal;font-style:normal;text-align:left;text-indent:0em;margin:0em 0em}
+.chapter-body .ep1-k5{font-weight:normal;font-style:normal;text-align:center;text-align-last:center;text-indent:0em;margin-left:0;margin-top:0em}
+.chapter-body .ep2-p0{text-indent:0;margin-left:0;text-align:center;text-align-last:center}
+.chapter-body .ep2-p1{text-indent:0;margin-left:0;text-align:center;text-align-last:center;margin-top:1em}
+.chapter-body .ep2-p2{text-indent:0;margin-left:0;text-align:center;text-align-last:center;margin-top:.17em}
+.chapter-body .ep2-p3{text-indent:0;margin-left:0;text-align:center;text-align-last:center;margin-top:15%}
+.chapter-body .ep2-p4{text-indent:-1em;margin-left:1em;text-align:left;margin-top:.5em}
+.chapter-body .ep2-p4a{text-indent:-1em;margin-left:1em;text-align:left;margin-top:.5em}
+.chapter-body .ep2-p5{text-indent:-1em;margin-left:1em;text-align:left}
+.chapter-body .ep2-p5a{text-indent:-1em;margin-left:1em;text-align:left}
+.chapter-body .ep2-p6{text-indent:0;margin-left:0;text-align:center;text-align-last:center;margin-top:1.5em}
+.chapter-body .ep2-p7{text-indent:0;margin-left:0;text-align:center;text-align-last:center;margin-top:.5em}
+.chapter-body .ep2-p9{text-indent:0;margin-left:0}
+.chapter-body .ep2-p12{text-indent:0;margin-left:0;margin-top:1.5em}
+.chapter-body .ep2-p13{text-indent:-1.1em;margin-left:3.1em;margin-right:3.1em;margin-top:1em}
+.chapter-body .ep2-p14{text-indent:1.1em;margin-top:1em}
+.chapter-body .ep2-p15{text-indent:0;margin-left:2.1em;margin-right:2.1em;margin-top:1em}
+.chapter-body .ep2-p16{text-indent:-1.1em;margin-left:3.1em;margin-right:2.1em}
+.chapter-body .ep2-p17{text-indent:1.1em;margin-left:2.1em;margin-right:2.1em}
+.chapter-body .ep2-p18{text-indent:0;margin-left:1.1em;margin-right:1.1em;text-align:center;text-align-last:center;margin-top:1em}
+.chapter-body .ep2-p19{text-indent:0;margin-left:0;margin-top:1em}
+.chapter-body .ep2-p20{text-indent:0;margin-left:1.1em;margin-right:1.1em;margin-top:1em}
+.chapter-body .ep2-p21{text-indent:-1.1em;margin-left:3.1em;margin-right:3.1em;text-align:left;margin-top:1em}
+.chapter-body .ep2-p22{text-indent:-1.1em;margin-left:3.1em;margin-right:3.1em;text-align:left}
+.chapter-body .ep2-p24{text-indent:0;margin-left:2.1em;margin-right:2.1em;text-align:left;margin-top:1em}
+.chapter-body .ep2-p25{text-indent:0;margin-left:2.1em;margin-right:2.1em;text-align:left}
+.chapter-body .ep2-p26{text-indent:-1.1em;margin-left:1.1em;margin-top:1em}
+.chapter-body .ep2-p27{text-indent:-1.1em;margin-left:1.1em}
+.chapter-body .ep2-p28{text-indent:0;margin-left:0;text-align:center;text-align-last:center;margin-top:5em}
+.chapter-body .ep2-p29{text-indent:0;margin-left:0;text-align:center;text-align-last:center}
+.chapter-body .ep2-p30{text-indent:0;margin-left:0;text-align:center;text-align-last:center;margin-top:1em}
+.chapter-body .ep2-p31{text-indent:-1.1em;margin-left:1.1em;text-align:left}
+.chapter-body .ep2-p32{text-indent:-1.1em;margin-left:1.1em;text-align:left;margin-top:.26em}
+.chapter-body .ep2-p33{text-indent:-1.1em;margin-left:2.2em;margin-right:0;text-align:left;margin-top:.26em}
+.chapter-body .ep2-p34{text-indent:0;margin-left:0}
+.chapter-body .ep2-p34a{text-indent:0;margin-left:0;margin-top:3em}
+.chapter-body .ep2-p35{text-indent:0}
+.chapter-body .ep2-h12{text-indent:0;margin-top:15%;margin-bottom:0}
+.chapter-body .ep2-h13{text-indent:0;margin-top:1em}
+.chapter-body .ep2-h14{text-indent:0;margin-bottom:1em}
+.chapter-body .ep2-h15{text-indent:0}
+.chapter-body .ep2-h21{text-indent:0}
+.chapter-body .ep2-t2{font-style:italic}
+.chapter-body .ep2-t4{font-style:italic}
+.chapter-body .ep2-t4a{font-style:italic}
+.chapter-body .ep2-t5{vertical-align:super}
+.chapter-body .ep2-t9{font-style:italic}
+.chapter-body .ep2-t10{vertical-align:super}
+.chapter-body .ep2-t11{font-weight:bold}
+.chapter-body .ep2-t14{font-weight:bold;font-style:italic}
+.chapter-body .ep2-t15{vertical-align:super}
+.chapter-body .ep3-p0{text-indent:0;margin-left:0;margin-right:0;text-align:center;text-align-last:center;margin-top:0;margin-bottom:0}
+.chapter-body .ep3-p1{text-indent:0;margin-left:0;margin-right:0;text-align:center;text-align-last:center;margin-top:1em;margin-bottom:0}
+.chapter-body .ep3-p2{text-indent:-1.3em;margin-left:1.3em;margin-right:0;text-align:left}
+.chapter-body .ep3-p3{text-indent:-1.3em;margin-left:1.3em;margin-right:1.3em;margin-top:.25em;text-align:left}
+.chapter-body .ep3-p4{text-indent:-1.3em;margin-left:2.6em;margin-right:1.3em;margin-top:.25em;text-align:left}
+.chapter-body .ep3-p5{text-indent:0;margin-left:0;margin-right:0;text-align:justify;margin-top:0;margin-bottom:0}
+.chapter-body .ep3-p5a{text-indent:0;margin-left:0;margin-right:0;text-align:justify;margin-top:1em}
+.chapter-body .ep3-p7{text-indent:1.3em}
+.chapter-body .ep3-p8{text-align:center;text-align-last:center;margin-top:1em;margin-bottom:1em}
+.chapter-body .ep3-p10{margin-left:1.3em;margin-right:1.3em;text-align:center;text-align-last:center;margin-top:1em}
+.chapter-body .ep3-p11{text-indent:1.3em;margin-top:1em}
+.chapter-body .ep3-p12{text-indent:-1.3em;margin-left:3.9em;margin-right:1.3em;margin-top:1em;margin-bottom:0}
+.chapter-body .ep3-p13{margin-left:2.6em;margin-right:2.6em;text-align:justify;margin-top:1em}
+.chapter-body .ep3-p14{text-indent:1.3em;margin-left:2.6em;margin-right:2.6em}
+.chapter-body .ep3-p15{text-indent:0;margin-left:0;margin-right:0;margin-top:1em;margin-bottom:0}
+.chapter-body .ep3-p15a{margin-top:1em;text-align:left}
+.chapter-body .ep3-p15b{text-align:left}
+.chapter-body .ep3-p16{text-indent:-1.3em;margin-left:1.3em;margin-top:1em;margin-bottom:0}
+.chapter-body .ep3-p17{text-indent:-1.3em;margin-left:1.3em}
+.chapter-body .ep3-p18{text-indent:1.3em;margin-left:1.3em;text-align:justify}
+.chapter-body .ep3-p19{margin-left:1.3em;margin-top:1em}
+.chapter-body .ep3-p20a{text-indent:0;margin-left:1.3em;margin-right:1.3em;margin-top:1em;text-align:left}
+.chapter-body .ep3-p20{text-indent:-1.3em;margin-left:2.6em;margin-right:1.3em;margin-top:1em;text-align:left}
+.chapter-body .ep3-p21a{text-indent:1.3em;margin-left:1.3em;margin-right:1.3em;text-align:left}
+.chapter-body .ep3-p21{text-indent:-1.3em;margin-left:2.6em;margin-right:1.3em;text-align:left}
+.chapter-body .ep3-p23{text-indent:-1.3em;margin-left:3.9em;margin-right:1.3em;text-align:left}
+.chapter-body .ep3-p26{text-indent:0em;margin-left:1.6em;margin-right:1.3em}
+.chapter-body .ep3-p27{text-indent:1.3em;margin-left:1.6em;margin-right:1.3em}
+.chapter-body .ep3-p30{text-indent:-1.3em;margin-left:3.9em;margin-right:2.6em}
+.chapter-body .ep3-p32{margin-left:2.6em;margin-right:2.6em;margin-top:1em}
+.chapter-body .ep3-p33{text-indent:1.3em;margin-left:2.6em;margin-right:2.6em}
+.chapter-body .ep3-p34{text-indent:1.3em;margin-left:1.3em;margin-right:1.3em}
+.chapter-body .ep3-h10{text-indent:0;margin-left:0;margin-right:0;text-align:center;text-align-last:center}
+.chapter-body .ep3-h11{margin-top:20%}
+.chapter-body .ep3-h15{text-indent:0;margin-left:0;margin-right:0;text-align:center;text-align-last:center;margin-bottom:1em}
+.chapter-body .ep3-th2{font-weight:bold;margin:0;text-align:center;text-align-last:center;font-style:normal}
+.chapter-body .ep3-t3a{font-style:italic}
+.chapter-body .ep3-t4{font-style:italic}
+.chapter-body .ep3-t5{vertical-align:super}
+.chapter-body .ep3-t6{font-weight:bold}
+.chapter-body .ep3-t10{font-style:italic}
+.chapter-body .ep3-t13{font-style:italic}
+.chapter-body .ep3-number1{text-align:justify;margin-top:0em;margin-bottom:0em;margin-right:0em;margin-left:2em}
+.chapter-body .ep3-number1a{text-align:justify;margin-top:3em;margin-bottom:0em;margin-right:0em;margin-left:2em}
+.chapter-body .ep3-num2{margin-left:-1.8em;margin-top:0em;vertical-align:super}
+.chapter-body .ep3-hoz-logo{margin-left:auto;margin-right:auto}
+.chapter-body .ep3-apollo-logo{margin-left:auto;margin-right:auto}
+.chapter-body .ep3-url{margin-left:0;margin-top:1.25em;margin-right:0;margin-bottom:0;text-indent:0;text-align:center;text-align-last:center}
+.chapter-body .ep3-find-out-more{text-indent:0;text-align:center;text-align-last:center;margin-left:-0.1em;margin-right:-0.1em;margin-bottom:3em}
+.chapter-body .ep3-center-text{text-indent:0;margin-left:0;margin-right:0;text-align:center;text-align-last:center;margin-top:2em;margin-bottom:1em}
+
+.chapter-body .source-note{font-size:.85em;line-height:1.6;text-indent:0;margin-top:1.3em}
+.chapter-body img.source-glyph{display:inline;width:auto;height:1em;margin:0;vertical-align:baseline}
+.chapter-body table{width:100%;border-collapse:collapse;font-size:.85em;line-height:1.5;margin:1.5em 0}
+.chapter-body td,.chapter-body th{padding:.4em .6em;border-bottom:1px solid var(--line);text-align:left}
+.chapter-body .scene-divider{display:block;border:0;width:3em;margin:2em auto;border-top:1px solid currentColor;opacity:.25}
+.chapter-body .chapter-opening{text-indent:0!important}
+.chapter-body .ep1-ePub-SUP,.chapter-body .ep2-t5,.chapter-body .ep2-t10,.chapter-body .ep2-t15,.chapter-body .ep3-t5{font-size:.7em;vertical-align:super;line-height:0}
+.chapter-body .ep1-ePub-I,.chapter-body .ep1-ePub-Sans-I{font-style:italic}
+.chapter-body .ep1-ePub-B{font-weight:600}
+.chapter-body .ep1-ePub-SC{font-variant:small-caps}
+.library .author-group{margin-top:5rem}
+.library .author-heading{font:700 36px/1.2 var(--regal);margin:0 0 46px}
+.library h3{font:700 27px/1.2 var(--regal);margin:0 0 8px}
+.library .cycle-title{font-size:15px;color:var(--muted);margin:-24px 0 30px}
+.toc details[data-volume="sources"] a{display:block}

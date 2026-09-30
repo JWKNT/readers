@@ -85,5 +85,134 @@
     ],
     "glossaryCount": 365,
     "totalWords": 401962
+  },
+  {
+    "id": "three-body-problem",
+    "title": "The Three-Body Problem",
+    "author": "Cixin Liu",
+    "volumes": [
+      {
+        "id": "part-1",
+        "title": "Part I: Silent Spring",
+        "chapters": 3,
+        "referenceTitle": "Supplementary material"
+      },
+      {
+        "id": "part-2",
+        "title": "Part II: Three Body",
+        "chapters": 17,
+        "referenceTitle": "Supplementary material"
+      },
+      {
+        "id": "part-3",
+        "title": "Part III: Sunset for Humanity",
+        "chapters": 15,
+        "referenceTitle": "Supplementary material"
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Supplementary material"
+      }
+    ],
+    "glossaryCount": 89,
+    "totalWords": 114223
+  },
+  {
+    "id": "dark-forest",
+    "title": "The Dark Forest",
+    "author": "Cixin Liu",
+    "volumes": [
+      {
+        "id": "opening",
+        "title": "Opening",
+        "chapters": 1,
+        "referenceTitle": "Supplementary material"
+      },
+      {
+        "id": "part-1",
+        "title": "Part I: The Wallfacers",
+        "chapters": 1,
+        "referenceTitle": "Supplementary material"
+      },
+      {
+        "id": "part-2",
+        "title": "Part II: The Spell",
+        "chapters": 3,
+        "referenceTitle": "Supplementary material"
+      },
+      {
+        "id": "part-3",
+        "title": "Part III: The Dark Forest",
+        "chapters": 3,
+        "referenceTitle": "Supplementary material"
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Supplementary material"
+      }
+    ],
+    "glossaryCount": 59,
+    "totalWords": 186717
+  },
+  {
+    "id": "deaths-end",
+    "title": "Death’s End",
+    "author": "Cixin Liu",
+    "volumes": [
+      {
+        "id": "opening",
+        "title": "Opening",
+        "chapters": 1,
+        "referenceTitle": "Supplementary material"
+      },
+      {
+        "id": "part-1",
+        "title": "Part I",
+        "chapters": 11,
+        "referenceTitle": "Supplementary material"
+      },
+      {
+        "id": "part-2",
+        "title": "Part II",
+        "chapters": 26,
+        "referenceTitle": "Supplementary material"
+      },
+      {
+        "id": "part-3",
+        "title": "Part III",
+        "chapters": 24,
+        "referenceTitle": "Supplementary material"
+      },
+      {
+        "id": "part-4",
+        "title": "Part IV",
+        "chapters": 3,
+        "referenceTitle": "Supplementary material"
+      },
+      {
+        "id": "part-5",
+        "title": "Part V",
+        "chapters": 5,
+        "referenceTitle": "Supplementary material"
+      },
+      {
+        "id": "part-6",
+        "title": "Part VI",
+        "chapters": 5,
+        "referenceTitle": "Supplementary material"
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Supplementary material"
+      }
+    ],
+    "glossaryCount": 76,
+    "totalWords": 221631
   }
 ]

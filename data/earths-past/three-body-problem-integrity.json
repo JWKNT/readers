@@ -1,0 +1,249 @@
+{
+  "book": "three-body-problem",
+  "source": "_OceanofPDF.com_Remembrance_of_Earths_Past_-_Cixin_Liu.epub",
+  "sourceSha256": "faebb10594450475d80500d9b889ee89dd2bfcdafd44f18445c8fee3d92d3747",
+  "chapters": [
+    {
+      "chapter": "section-06",
+      "source": "B1006.html",
+      "textSha256": "2059ecb20f183aca2629c98ea6ff0d38650a787610bf86a2eb947191c47c76ae",
+      "blocks": 85
+    },
+    {
+      "chapter": "section-07",
+      "source": "B1007.html",
+      "textSha256": "826489ad0aa744734c7b6bf0d3a58b69aa765d2ec22d34bd58f8d30c8afc95f1",
+      "blocks": 137
+    },
+    {
+      "chapter": "section-08",
+      "source": "B1008.html",
+      "textSha256": "b890eb44cb250c2391897d1141f0ac32b588556bee8f19a1aed6b2a86c897eb3",
+      "blocks": 76
+    },
+    {
+      "chapter": "section-10",
+      "source": "B1010.html",
+      "textSha256": "a966887baa68f358d56629e1a16f3b7c0743840947c2fa64f5ecfea8e521ee09",
+      "blocks": 152
+    },
+    {
+      "chapter": "section-11",
+      "source": "B1011.html",
+      "textSha256": "a6b303c02d3271337467b995ce0fa2189534c5a33622e1fca7ae42ceadaaf41a",
+      "blocks": 51
+    },
+    {
+      "chapter": "section-12",
+      "source": "B1012.html",
+      "textSha256": "a0301a3835b06cea3cf3d0b1fe51a32a7ece01242eca90cd8f2c708a54789724",
+      "blocks": 180
+    },
+    {
+      "chapter": "section-13",
+      "source": "B1013.html",
+      "textSha256": "76f30b5d710e56e7cbc33dde8dbb3d5892e3b1a07d319bf45015909b1bd7131a",
+      "blocks": 151
+    },
+    {
+      "chapter": "section-14",
+      "source": "B1014.html",
+      "textSha256": "f7d7fc869fd2f82b152a6932d9daaa1f10c4bbfbd132ee12a34671e6ec066f3e",
+      "blocks": 47
+    },
+    {
+      "chapter": "section-15",
+      "source": "B1015.html",
+      "textSha256": "a209aac00466d3b8a8ef76bdff682fae16dad2234641a986e4a73260063ad1cb",
+      "blocks": 97
+    },
+    {
+      "chapter": "section-16",
+      "source": "B1016.html",
+      "textSha256": "64a3aa4482620613e4eb3e72c25079e55c2831f0b80db8e278be0efbabda5f65",
+      "blocks": 95
+    },
+    {
+      "chapter": "section-17",
+      "source": "B1017.html",
+      "textSha256": "99dedc31af5126fad4cbfda6dfcf9f66e4b4ef83f9b96c753651aaed0b87f9de",
+      "blocks": 119
+    },
+    {
+      "chapter": "section-18",
+      "source": "B1018.html",
+      "textSha256": "0875d1301cda95fc1092bf21537fddadaaf02d2eb0057dd2a0b3d87f62dabc14",
+      "blocks": 67
+    },
+    {
+      "chapter": "section-19",
+      "source": "B1019.html",
+      "textSha256": "df79a509a8b0e7b376a68ed07bead67a20ab1613f2a676095ab8d470d5422805",
+      "blocks": 94
+    },
+    {
+      "chapter": "section-20",
+      "source": "B1020.html",
+      "textSha256": "8013fe97c9f2147e7c421823cc0f4019de9e5dcf526470af156f9050af6727b3",
+      "blocks": 30
+    },
+    {
+      "chapter": "section-21",
+      "source": "B1021.html",
+      "textSha256": "a6adeb51fef5a153ed0af47e86e52a712ec5e8e279168596ddc2d6e95a01f8af",
+      "blocks": 63
+    },
+    {
+      "chapter": "section-22",
+      "source": "B1022.html",
+      "textSha256": "2e73768031c68809c2debf097ff265a1fe202340f9bfbd54008005016cec56b5",
+      "blocks": 145
+    },
+    {
+      "chapter": "section-23",
+      "source": "B1023.html",
+      "textSha256": "eced153ddc2cdca00be9ea2268e9f33400307e80fe49b3592fbfff3d6d7c4dc2",
+      "blocks": 138
+    },
+    {
+      "chapter": "section-24",
+      "source": "B1024.html",
+      "textSha256": "5d4aaf0414e1e0aaf9341d9e0c55918fb8be09f6f092db775dcd47abadbf2dec",
+      "blocks": 53
+    },
+    {
+      "chapter": "section-25",
+      "source": "B1025.html",
+      "textSha256": "c8820024f1ed47e232b73c26ca90f46e4ac823ea6411616e28137ed3260bbf13",
+      "blocks": 83
+    },
+    {
+      "chapter": "section-26",
+      "source": "B1026.html",
+      "textSha256": "e51df09e7d79a15206d90b25aebfe815abdaa2e6c5a0de6acdf1cd7815f69462",
+      "blocks": 24
+    },
+    {
+      "chapter": "section-28",
+      "source": "B1028.html",
+      "textSha256": "36f4e079d23824e3aa15701811170deb3ba86a30c74d0f54a19e87ba8234f251",
+      "blocks": 70
+    },
+    {
+      "chapter": "section-29",
+      "source": "B1029.html",
+      "textSha256": "2652e74ff55db42928afcb37d943d9aff7705e83f307abd0fec3f6b7a5435efe",
+      "blocks": 69
+    },
+    {
+      "chapter": "section-30",
+      "source": "B1030.html",
+      "textSha256": "3ace2878e1f1f2259097bf62a4b4debd038fbb1d22d1ce7deaf15522e51665b6",
+      "blocks": 51
+    },
+    {
+      "chapter": "section-31",
+      "source": "B1031.html",
+      "textSha256": "303e2a8867be42d8078931947cb8a6a776ef0f1ad2f27e35fbf34cd786a23622",
+      "blocks": 49
+    },
+    {
+      "chapter": "section-32",
+      "source": "B1032.html",
+      "textSha256": "9c69762d5e643b2b91d8d788f2824b45cab6282d24185481f73fa448a38f8d90",
+      "blocks": 48
+    },
+    {
+      "chapter": "section-33",
+      "source": "B1033.html",
+      "textSha256": "a0dd963293249f1cdd7db428ab4148c77f8c39dac81fddd16c80306a8b067e5c",
+      "blocks": 83
+    },
+    {
+      "chapter": "section-34",
+      "source": "B1034.html",
+      "textSha256": "ea8fd8ce3507ffe08e90a39ac99d1e7316e3c935bd073dc52cca745e89677df1",
+      "blocks": 70
+    },
+    {
+      "chapter": "section-35",
+      "source": "B1035.html",
+      "textSha256": "eca6378b15b2e152cd646967250dacee152d78bec646d68a4ccd30cbefbb36c6",
+      "blocks": 17
+    },
+    {
+      "chapter": "section-36",
+      "source": "B1036.html",
+      "textSha256": "bc4ad83dcb48ba1dbfe004e3d97be6e8f104e934d552b4280afec43b7ff16a83",
+      "blocks": 18
+    },
+    {
+      "chapter": "section-37",
+      "source": "B1037.html",
+      "textSha256": "d4d940eef23a02b64ba96cdc5566976c7bd3f2022a8bd905ceedc160978a7be1",
+      "blocks": 72
+    },
+    {
+      "chapter": "section-38",
+      "source": "B1038.html",
+      "textSha256": "c38f6832d8f822df3ac7774f3095c0f94b5bd0723a12bf6cf2d7ec0b9aa601b7",
+      "blocks": 131
+    },
+    {
+      "chapter": "section-39",
+      "source": "B1039.html",
+      "textSha256": "9dd73a0f8e97dda4246dd9c8df66cd7b9c26350ca555759a0bb84192c4266c58",
+      "blocks": 73
+    },
+    {
+      "chapter": "section-40",
+      "source": "B1040.html",
+      "textSha256": "bd7ee3b342968962da63c0d4738d981d28861c88c1de74136c05419d25e3ac4a",
+      "blocks": 204
+    },
+    {
+      "chapter": "section-41",
+      "source": "B1041.html",
+      "textSha256": "159dd190d2af8b5bdc802c2a021229f0d1d236204b08aaa0415f0d67ee49fa12",
+      "blocks": 40
+    },
+    {
+      "chapter": "section-42",
+      "source": "B1042.html",
+      "textSha256": "4db3f41198c1133d052543f5b7cded24f46a16619089205d31c8e38c50c55c28",
+      "blocks": 14
+    },
+    {
+      "chapter": "source-03",
+      "source": "B1003.html",
+      "textSha256": "d4e973db354361e25cbf9c117509d5bfd185efe82c61435f6335ec0c7d0f74c5",
+      "blocks": 39
+    },
+    {
+      "chapter": "source-44",
+      "source": "B1044.html",
+      "textSha256": "29bebcd6dd340e85c4e0d0b76cb2d8cf0f725f74428c7e46f98feb16d649dbb4",
+      "blocks": 21
+    },
+    {
+      "chapter": "source-43",
+      "source": "B1043.html",
+      "textSha256": "187dd00190c675254027439307cd3f0a6e8d8a1028a5414720016179c0f6826a",
+      "blocks": 14
+    },
+    {
+      "chapter": "source-45",
+      "source": "B1045.html",
+      "textSha256": "f07ef64133174cb8393bbc2ae5db5f2fd44b03ea36c8d03c54d05db5ae0c6288",
+      "blocks": 42
+    },
+    {
+      "chapter": "source-46",
+      "source": "B1046.html",
+      "textSha256": "7102038418181c98feaaa1186084631a123027390403f36cfa92b06bf50b1db2",
+      "blocks": 19
+    }
+  ],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only; original translator notes retained separately."
+}
