@@ -18,9 +18,9 @@
   ],
   "totalWords": 20671,
   "defaultChapter": "story",
-  "glossaryCount": 7,
+  "glossaryCount": 10,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "story",
@@ -858,6 +858,14 @@
       "headingHtml": "The Death of Dr. Island",
       "noteAnchors": [
         {
+          "term": "ululant",
+          "paragraph": "p-014"
+        },
+        {
+          "term": "tutelary",
+          "paragraph": "p-035"
+        },
+        {
           "term": "callisto",
           "paragraph": "p-041"
         },
@@ -868,6 +876,10 @@
         {
           "term": "trojan-planets",
           "paragraph": "p-193"
+        },
+        {
+          "term": "stridulations",
+          "paragraph": "p-406"
         },
         {
           "term": "huckleberry-finn",

@@ -1567,5 +1567,445 @@
       "paragraph": "p-003",
       "index": 1
     }
+  },
+  {
+    "id": "bandolier",
+    "term": "bandolier",
+    "aliases": [
+      "bandoliers"
+    ],
+    "short": "A shoulder belt for carrying ammunition.",
+    "note": "A belt worn diagonally across the chest, with loops or pouches for cartridges or other equipment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bandolier",
+        "label": "Merriam-Webster: bandolier"
+      }
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "section-75",
+      "paragraph": "p-061",
+      "index": 64
+    }
+  },
+  {
+    "id": "geiger-counter",
+    "term": "Geiger counter",
+    "aliases": [
+      "Geiger counters"
+    ],
+    "short": "An instrument for detecting ionizing radiation.",
+    "note": "A detector in which radiation ionizes gas inside a tube, producing electrical pulses that can be counted and displayed or heard.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Geiger%20counter",
+        "label": "Merriam-Webster: Geiger counter"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-19",
+      "paragraph": "p-006",
+      "index": 11
+    }
+  },
+  {
+    "id": "doppler-effect",
+    "term": "Doppler effect",
+    "aliases": [],
+    "short": "A frequency shift caused by relative motion.",
+    "note": "The change in observed frequency when a wave source and observer move relative to one another. Approaching light shifts toward blue; receding light shifts toward red.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Doppler%20effect",
+        "label": "Merriam-Webster: Doppler effect"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-81",
+      "paragraph": "p-210",
+      "index": 69
+    }
+  },
+  {
+    "id": "firmament",
+    "term": "firmament",
+    "aliases": [],
+    "short": "The sky imagined as a great overarching vault.",
+    "note": "A literary word for the heavens or apparent arch of the sky.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/firmament",
+        "label": "Merriam-Webster: firmament"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-36",
+      "paragraph": "p-033",
+      "index": 27
+    }
+  },
+  {
+    "id": "ecliptic-plane",
+    "term": "ecliptic plane",
+    "aliases": [
+      "ecliptic"
+    ],
+    "short": "Conventionally, Earth’s orbital reference plane.",
+    "note": "Conventionally, the plane containing Earth’s orbit around the Sun, used as a reference for celestial positions and orbital inclinations.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ecliptic",
+        "label": "Merriam-Webster: ecliptic"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "section-52",
+      "paragraph": "p-016",
+      "index": 42
+    }
+  },
+  {
+    "id": "geosynchronous",
+    "term": "geosynchronous",
+    "aliases": [],
+    "short": "Orbiting once per rotation of Earth.",
+    "note": "Describes an Earth orbit with a period of one sidereal day, matching Earth’s rotation relative to the stars.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/geosynchronous",
+        "label": "Merriam-Webster: geosynchronous"
+      }
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "section-23",
+      "paragraph": "p-010",
+      "index": 14
+    }
+  },
+  {
+    "id": "minaret",
+    "term": "minaret",
+    "aliases": [
+      "minarets"
+    ],
+    "short": "A mosque tower used for the call to prayer.",
+    "note": "A tall, often slender tower associated with a mosque, traditionally providing a place from which the muezzin calls worshippers to prayer.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/minaret",
+        "label": "Merriam-Webster: minaret"
+      }
+    ],
+    "occurrences": 15,
+    "first": {
+      "chapter": "section-09",
+      "paragraph": "p-096",
+      "index": 1
+    }
+  },
+  {
+    "id": "nonpareil",
+    "term": "nonpareil",
+    "aliases": [],
+    "short": "Unequalled; without a peer.",
+    "note": "Borrowed from French, meaning without an equal or rival.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/nonpareil",
+        "label": "Merriam-Webster: nonpareil"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-58",
+      "paragraph": "p-026",
+      "index": 48
+    }
+  },
+  {
+    "id": "queen-regnant",
+    "term": "queen regnant",
+    "aliases": [],
+    "short": "A queen who reigns in her own right.",
+    "note": "A female sovereign exercising royal authority herself. “Regnant” means reigning, rather than merely being married to the reigning monarch.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/regnant",
+        "label": "Merriam-Webster: regnant"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-58",
+      "paragraph": "p-008",
+      "index": 48
+    }
+  },
+  {
+    "id": "umbral-cone",
+    "term": "umbral cone",
+    "aliases": [],
+    "short": "The cone-shaped region of complete shadow.",
+    "note": "The umbra is the part of a shadow from which the light source is entirely hidden. Behind a planet it forms a cone extending away from the Sun.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/umbra",
+        "label": "Merriam-Webster: umbra"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-56",
+      "paragraph": "p-006",
+      "index": 46
+    }
+  },
+  {
+    "id": "parallax",
+    "term": "parallax",
+    "aliases": [],
+    "short": "An apparent shift caused by a change of viewpoint.",
+    "note": "The change in an object’s apparent position when observed from different locations. Astronomers use such angular shifts to measure distances.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/parallax",
+        "label": "Merriam-Webster: parallax"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-79",
+      "paragraph": "p-129",
+      "index": 67
+    }
+  },
+  {
+    "id": "tamarisk",
+    "term": "tamarisk",
+    "aliases": [],
+    "short": "A shrub or small tree with feathery foliage.",
+    "note": "Plants of the genus Tamarix, with tiny scale-like leaves and clusters of small pale flowers. Many tolerate dry, salty environments.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tamarisk",
+        "label": "Merriam-Webster: tamarisk"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-37",
+      "paragraph": "p-001",
+      "index": 28
+    }
+  },
+  {
+    "id": "neutrino",
+    "term": "neutrino",
+    "aliases": [
+      "neutrinos"
+    ],
+    "short": "A nearly massless, electrically neutral particle.",
+    "note": "An elementary particle with a very small mass and no electric charge, which interacts only rarely with other matter.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/neutrino",
+        "label": "Merriam-Webster: neutrino"
+      }
+    ],
+    "occurrences": 21,
+    "first": {
+      "chapter": "section-14",
+      "paragraph": "p-088",
+      "index": 6
+    }
+  },
+  {
+    "id": "event-horizon",
+    "term": "event horizon",
+    "aliases": [
+      "event horizons"
+    ],
+    "short": "A boundary beyond which no signal can escape.",
+    "note": "The boundary of a black hole beyond which neither light nor other signals can escape to the outside universe.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/event%20horizon",
+        "label": "Merriam-Webster: event horizon"
+      }
+    ],
+    "occurrences": 16,
+    "first": {
+      "chapter": "section-65",
+      "paragraph": "p-159",
+      "index": 55
+    }
+  },
+  {
+    "id": "gravitational-wave",
+    "term": "gravitational wave",
+    "aliases": [
+      "gravitational waves"
+    ],
+    "short": "A propagating ripple in spacetime.",
+    "note": "A travelling disturbance of the gravitational field: a ripple in spacetime that carries energy away from its source.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gravitational%20wave",
+        "label": "Merriam-Webster: gravitational wave"
+      }
+    ],
+    "occurrences": 98,
+    "first": {
+      "chapter": "section-14",
+      "paragraph": "p-088",
+      "index": 6
+    }
+  },
+  {
+    "id": "katana",
+    "term": "katana",
+    "aliases": [
+      "katanas"
+    ],
+    "short": "A curved, single-edged Japanese sword.",
+    "note": "A slightly curved sword with one cutting edge, traditionally associated with the samurai of Japan.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/katana",
+        "label": "Merriam-Webster: katana"
+      }
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "section-39",
+      "paragraph": "p-011",
+      "index": 30
+    }
+  },
+  {
+    "id": "photosphere",
+    "term": "photosphere",
+    "aliases": [],
+    "short": "The visible, light-emitting layer of a star.",
+    "note": "The luminous surface layer of the Sun or another star, from which most of its visible light emerges.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/photosphere",
+        "label": "Merriam-Webster: photosphere"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-52",
+      "paragraph": "p-016",
+      "index": 42
+    }
+  },
+  {
+    "id": "klaxons",
+    "term": "klaxons",
+    "aliases": [
+      "klaxon"
+    ],
+    "short": "Loud electric warning horns.",
+    "note": "Electrically operated horns or alarms. Klaxon was originally a trademark.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/klaxon",
+        "label": "Merriam-Webster: Klaxon"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "section-32",
+      "paragraph": "p-113",
+      "index": 23
+    }
+  },
+  {
+    "id": "cryoprotectant",
+    "term": "cryoprotectant",
+    "aliases": [
+      "cryoprotectants"
+    ],
+    "short": "A substance that reduces damage from freezing.",
+    "note": "An agent used to protect cells or other biological material against the harmful effects of freezing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cryoprotectant",
+        "label": "Merriam-Webster: cryoprotectant"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-16",
+      "paragraph": "p-006",
+      "index": 8
+    }
+  },
+  {
+    "id": "taiaha",
+    "term": "taiaha",
+    "aliases": [],
+    "short": "A traditional Māori fighting staff.",
+    "note": "A close-combat weapon, usually of hardwood, with a carved head and projecting tongue at one end and a flattened striking blade at the other.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://collections.tepapa.govt.nz/object/131920",
+        "label": "Museum of New Zealand Te Papa: taiaha kura"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-43",
+      "paragraph": "p-014",
+      "index": 34
+    }
+  },
+  {
+    "id": "barnards-star",
+    "term": "Barnard’s Star",
+    "aliases": [],
+    "short": "A nearby red dwarf about six light-years away.",
+    "note": "A small red dwarf in Ophiuchus, about six light-years from the Sun and closer than any stellar system except Alpha Centauri.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.eso.org/public/news/eso2414/",
+        "label": "European Southern Observatory: Barnard’s star"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-24",
+      "paragraph": "p-098",
+      "index": 15
+    }
   }
 ]

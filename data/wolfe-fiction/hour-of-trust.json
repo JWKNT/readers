@@ -107,5 +107,65 @@
       }
     ],
     "evidence": "t Buddhist and Christian spiritual centers, and also at the temple of Kali just off the Edsel Ford Express-way. Also in the basement of——[—he named a well-known dep"
+  },
+  {
+    "id": "ratiocination",
+    "term": "ratiocination",
+    "aliases": [],
+    "short": "Careful logical reasoning.",
+    "note": "The process of reasoning methodically, or a connected train of reasoned thought.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ratiocination",
+        "label": "Merriam-Webster: ratiocination"
+      }
+    ],
+    "evidence": "story/p-006: ilar to that of the first that it was only after a careful process of ratiocination that the viewer (if he troubled) convinced himself that it was not a picture of the same ruin from "
+  },
+  {
+    "id": "realpolitik",
+    "term": "realpolitik",
+    "aliases": [],
+    "short": "Politics guided by practical power.",
+    "note": "Political action based on material circumstances and practical advantage rather than ideals or ethical objectives.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/realpolitik",
+        "label": "Merriam-Webster: realpolitik"
+      }
+    ],
+    "evidence": "story/p-115: e watching a globe revolve in a library) and said, “In the science of realpolitik the sympathies of the population do not matter except insofar as they are nationalistic sympathies."
+  },
+  {
+    "id": "nominalism",
+    "term": "nominalism",
+    "aliases": [],
+    "short": "The view that universals are only names.",
+    "note": "A philosophical position denying that general kinds or abstract entities exist independently of particular things.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/nominalism",
+        "label": "Merriam-Webster: nominalism"
+      }
+    ],
+    "evidence": "story/p-228: “That’s nominalism,” the curly-bearded young man said. “That’s camp.” After he had said it he seemed sorry he had spok"
+  },
+  {
+    "id": "midden",
+    "term": "midden",
+    "aliases": [],
+    "short": "A heap of refuse.",
+    "note": "A pile of discarded material or rubbish; in archaeology, a deposit of waste left by past inhabitants.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/midden",
+        "label": "Merriam-Webster: midden"
+      }
+    ],
+    "evidence": "story/p-244: ier stood and motioned to the curly-bearded young man, indicating the midden of smashed concrete which had sheltered him. As the soldier did so he was shot, and fell backward. "
   }
 ]

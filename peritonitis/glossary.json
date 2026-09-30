@@ -22,5 +22,45 @@
       "paragraph": "chapter-title",
       "index": 0
     }
+  },
+  {
+    "id": "spinney",
+    "term": "spinney",
+    "aliases": [],
+    "short": "A small wood or thicket.",
+    "note": "A British term for a small wooded area, copse, or thicket.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/spinney",
+        "label": "Dictionary.com · spinney"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-014",
+      "index": 0
+    }
+  },
+  {
+    "id": "millrace",
+    "term": "millrace",
+    "aliases": [],
+    "short": "A swift current driving a watermill.",
+    "note": "The water channel feeding a mill wheel, or the current flowing through it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/millrace",
+        "label": "Dictionary.com · millrace"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-021",
+      "index": 0
+    }
   }
 ]

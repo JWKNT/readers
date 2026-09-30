@@ -220,5 +220,45 @@
       "paragraph": "p-094",
       "index": 0
     }
+  },
+  {
+    "id": "exousia",
+    "term": "exousia",
+    "aliases": [],
+    "short": "Greek: authority or power.",
+    "note": "Greek exousia means authority, power, or the right to act; it occurs frequently in the New Testament.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.billmounce.com/greek-dictionary/exousia",
+        "label": "Mounce: exousia"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-079",
+      "index": 0
+    }
+  },
+  {
+    "id": "weihnachtsmann",
+    "term": "Weihnachtsmann",
+    "aliases": [],
+    "short": "German: Santa Claus or Father Christmas.",
+    "note": "The German name for the Christmas gift-bringer commonly depicted as a white-bearded man in red.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/dictionary/german-english/weihnachtsmann",
+        "label": "Cambridge German–English Dictionary: Weihnachtsmann"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-107",
+      "index": 0
+    }
   }
 ]

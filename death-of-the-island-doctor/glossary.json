@@ -318,5 +318,25 @@
       "paragraph": "p-034",
       "index": 0
     }
+  },
+  {
+    "id": "noblesse-oblige",
+    "term": "noblesse oblige",
+    "aliases": [],
+    "short": "The duties expected of privileged people.",
+    "note": "French for “nobility obligates”: the expectation that high rank entails generous, honorable conduct.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/noblesse%20oblige",
+        "label": "Merriam-Webster: noblesse oblige"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
   }
 ]

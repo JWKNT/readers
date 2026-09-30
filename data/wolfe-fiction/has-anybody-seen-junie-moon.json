@@ -60,5 +60,20 @@
       }
     ],
     "evidence": "indications in his papers. I know it with as much certainty as I know Kepler’s Laws.” That got me trying to remember who Kepler was, because I did not think Junie had told "
+  },
+  {
+    "id": "sidereal",
+    "term": "sidereal",
+    "aliases": [],
+    "short": "Measured relative to the stars.",
+    "note": "Of or measured with reference to stars and constellations rather than the Sun.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sidereal",
+        "label": "Merriam-Webster: sidereal"
+      }
+    ],
+    "evidence": "story/p-057:  But no. It doesn’t orbit Earth because it isn’t going fast enough. A sidereal month is about twenty-seven days, and the moon is two hundred and forty thousand miles away, on ave"
   }
 ]

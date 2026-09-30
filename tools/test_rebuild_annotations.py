@@ -1,0 +1,86 @@
+"""Focused regression tests for annotations-only maintenance."""
+from collections import Counter
+import unittest
+
+import import_earths_past as common
+from rebuild_annotations import Fragment, unannotate, replace_article
+
+
+class RebuildAnnotationsTests(unittest.TestCase):
+    def test_unwrap_preserves_exact_text_and_source_markup(self):
+        source = '<p id="p-001" data-block="p-001">A &amp; <em>rare <span class="word" data-term="term">word</span> here</em>.<sup><a href="source-1.html#p-001">1</a></sup><span class="source-note">Original note</span><br><img alt="square" src="glyph.jpg"></p>'
+        tree = Fragment(source).root
+        before = common.txt(tree)
+        unannotate(tree)
+        self.assertEqual(common.txt(tree), before)
+        self.assertFalse(any(e.get('data-term') for e in tree.iter()))
+        self.assertEqual(tree.find('.//a').get('href'), 'source-1.html#p-001')
+        self.assertEqual(tree.find('.//span').text, 'Original note')
+        self.assertEqual(tree.find('.//img').get('alt'), 'square')
+
+    def test_unwrap_adjacent_notes_keeps_tails(self):
+        tree = Fragment('<p><span class="word" data-term="x">one</span> <span class="word" data-term="y">two</span>!</p>').root
+        unannotate(tree)
+        self.assertEqual(common.inner(tree), '<p>one two!</p>')
+
+    def test_unwrap_preserves_nested_repairs_and_interleaved_markup(self):
+        source = '<p><em>Before</em> <span class="word" data-term="x">for<span class="text-fix" data-correction="fix-1" data-original="o">e</span>ver <i>and</i> more</span> after <b>end</b>.</p>'
+        tree = Fragment(source).root
+        before = common.txt(tree)
+        repair = tree.find('.//span[@class="text-fix"]')
+        italic = tree.find('.//i')
+        unannotate(tree)
+        self.assertEqual(common.txt(tree), before)
+        self.assertEqual(common.inner(tree), source.replace('<span class="word" data-term="x">', '').replace(' more</span>', ' more'))
+        self.assertIs(tree.find('.//span[@class="text-fix"]'), repair)
+        self.assertIs(tree.find('.//i'), italic)
+        self.assertEqual(repair.attrib, {'class': 'text-fix', 'data-correction': 'fix-1', 'data-original': 'o'})
+        self.assertEqual(repair.tail, 'ver ')
+        self.assertEqual(italic.tail, ' more after ')
+
+    def test_unwrap_leading_note_keeps_initial_and_empty_repair(self):
+        source = '<p data-block="p-001"><span class="word" data-term="x"><span class="initial"><span class="initial-letter">T</span><img src="t.svg" alt=""></span>he<span class="text-fix" data-correction="fix-2" data-original="!"></span></span> rest.</p>'
+        tree = Fragment(source).root
+        initial = tree.find('.//span[@class="initial"]')
+        repair = tree.find('.//span[@class="text-fix"]')
+        before = common.txt(tree)
+        unannotate(tree)
+        self.assertEqual(common.txt(tree), before)
+        self.assertIs(tree.find('./p/span[@class="initial"]'), initial)
+        self.assertEqual(initial.tail, 'he')
+        self.assertIs(tree.find('./p/span[@class="text-fix"]'), repair)
+        self.assertEqual(repair.get('data-original'), '!')
+        self.assertEqual(repair.tail, ' rest.')
+        self.assertIsNone(repair.text)
+        once = common.inner(tree)
+        unannotate(tree)
+        self.assertEqual(common.inner(tree), once)
+
+    def test_unwrap_nested_annotation_inside_correction_keeps_original(self):
+        tree = Fragment('<p><span class="word" data-term="outer">A<span class="text-fix" data-correction="fix-3" data-original="&lt;&amp;&quot;"><span class="word" data-term="inner">B</span>C</span>D</span>E</p>').root
+        before = common.txt(tree)
+        unannotate(tree)
+        self.assertEqual(common.txt(tree), before)
+        self.assertFalse(any(e.get('data-term') for e in tree.iter()))
+        repair = tree.find('./p/span')
+        self.assertEqual(repair.get('data-original'), '<&"')
+        self.assertEqual(repair.text, 'BC')
+        self.assertEqual(repair.tail, 'DE')
+        self.assertEqual(tree.find('./p').text, 'A')
+
+    def test_annotations_preserve_original_notes_and_links(self):
+        tree = Fragment('<p id="p-001" data-block="p-001">tarn <a href="#note">tarn</a><span class="source-note">tarn</span><sup>tarn</sup></p>').root
+        entry = {'id': 'tarn', 'term': 'tarn', 'aliases': []}
+        counts, first = Counter(), {}
+        anchors = common.annotate(tree, [entry], counts, first, {'id': 'story', 'index': 0})
+        self.assertEqual(counts['tarn'], 1)
+        self.assertEqual(anchors, [{'term': 'tarn', 'paragraph': 'p-001'}])
+        self.assertEqual(first['tarn'], {'chapter': 'story', 'paragraph': 'p-001', 'index': 0})
+
+    def test_article_replacement_preserves_surrounding_document(self):
+        source = '<header>keep</header><article class="chapter-body">old</article><footer>keep</footer>'
+        self.assertEqual(replace_article(source, 'new'), source.replace('>old<', '>new<'))
+
+
+if __name__ == '__main__':
+    unittest.main()

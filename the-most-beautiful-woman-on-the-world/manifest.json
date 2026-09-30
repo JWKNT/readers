@@ -12,9 +12,9 @@
   ],
   "totalWords": 4899,
   "defaultChapter": "story",
-  "glossaryCount": 3,
+  "glossaryCount": 6,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "story",
@@ -180,12 +180,24 @@
       "headingHtml": "The Most Beautiful Woman on the World",
       "noteAnchors": [
         {
+          "term": "cadent",
+          "paragraph": "p-003"
+        },
+        {
           "term": "estampido",
           "paragraph": "p-012"
         },
         {
+          "term": "thermosetting",
+          "paragraph": "p-017"
+        },
+        {
           "term": "moloch",
           "paragraph": "p-022"
+        },
+        {
+          "term": "pitons",
+          "paragraph": "p-106"
         },
         {
           "term": "mammoth-cave",

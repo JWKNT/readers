@@ -282,5 +282,185 @@
       "paragraph": "p-029",
       "index": 0
     }
+  },
+  {
+    "id": "arrack",
+    "term": "arrack",
+    "aliases": [],
+    "short": "A distilled alcoholic drink.",
+    "note": "A name for strong Asian spirits distilled from fermented ingredients such as palm sap, rice, or molasses.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/arrack",
+        "label": "Merriam-Webster: arrack"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-339",
+      "index": 0
+    }
+  },
+  {
+    "id": "caleches",
+    "term": "caleches",
+    "aliases": [],
+    "short": "Horse-drawn carriages.",
+    "note": "A calèche is a type of horse-drawn carriage, often with a folding hood; the name also denotes a two-wheeled carriage associated with Quebec.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/caleche",
+        "label": "Merriam-Webster: caleches"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-286",
+      "index": 0
+    }
+  },
+  {
+    "id": "chador",
+    "term": "chador",
+    "aliases": [],
+    "short": "A large enveloping head-and-body covering.",
+    "note": "A large cloth worn over the head and around the body, particularly by women in Iran.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chador",
+        "label": "Merriam-Webster: chador"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-392",
+      "index": 0
+    }
+  },
+  {
+    "id": "hajji",
+    "term": "Hajji",
+    "aliases": [],
+    "short": "A title for someone who has visited Mecca.",
+    "note": "An honorific for a Muslim who has completed the pilgrimage to Mecca.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hajji",
+        "label": "Merriam-Webster: Hajji"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-294",
+      "index": 0
+    }
+  },
+  {
+    "id": "padshah",
+    "term": "Padshah",
+    "aliases": [],
+    "short": "A sovereign or emperor.",
+    "note": "A Persian royal title, also spelled padishah, used for a supreme ruler.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/padishah",
+        "label": "Merriam-Webster: Padshah"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-030",
+      "index": 0
+    }
+  },
+  {
+    "id": "houris",
+    "term": "houris",
+    "aliases": [],
+    "short": "Beautiful companions in Islamic paradise.",
+    "note": "In traditional descriptions of Islamic paradise, beautiful maidens who dwell with the blessed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/houri",
+        "label": "Merriam-Webster: houris"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-239",
+      "index": 0
+    }
+  },
+  {
+    "id": "meretricious",
+    "term": "meretricious",
+    "aliases": [],
+    "short": "Falsely attractive; showy but hollow.",
+    "note": "Offering an appearance of value or respectability without genuine worth; pretentious or insincere.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/meretricious",
+        "label": "Merriam-Webster: meretricious"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-289",
+      "index": 0
+    }
+  },
+  {
+    "id": "ingenue",
+    "term": "ingenue",
+    "aliases": [],
+    "short": "An innocent young woman’s stage role.",
+    "note": "A naïve young female character, or the actress who plays that type of role.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ingenue",
+        "label": "Merriam-Webster: ingenue"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-059",
+      "index": 0
+    }
+  },
+  {
+    "id": "terrazzo",
+    "term": "terrazzo",
+    "aliases": [],
+    "short": "Polished flooring made with stone chips.",
+    "note": "Marble or granite fragments embedded in a binding material and polished to form a smooth floor.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/terrazzo",
+        "label": "Merriam-Webster: terrazzo"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-044",
+      "index": 0
+    }
   }
 ]

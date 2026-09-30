@@ -12,9 +12,9 @@
   ],
   "totalWords": 2651,
   "defaultChapter": "story",
-  "glossaryCount": 24,
+  "glossaryCount": 31,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "story",
@@ -84,6 +84,14 @@
           "paragraph": "p-002"
         },
         {
+          "term": "hallowmass",
+          "paragraph": "p-004"
+        },
+        {
+          "term": "lemures",
+          "paragraph": "p-004"
+        },
+        {
           "term": "briah",
           "paragraph": "p-005"
         },
@@ -94,6 +102,10 @@
         {
           "term": "sancha",
           "paragraph": "p-005"
+        },
+        {
+          "term": "peri",
+          "paragraph": "p-006"
         },
         {
           "term": "exultant",
@@ -114,6 +126,14 @@
         {
           "term": "alouatte",
           "paragraph": "p-011"
+        },
+        {
+          "term": "specula",
+          "paragraph": "p-012"
+        },
+        {
+          "term": "pochette",
+          "paragraph": "p-014"
         },
         {
           "term": "lomer",
@@ -152,8 +172,16 @@
           "paragraph": "p-022"
         },
         {
+          "term": "choralcelo",
+          "paragraph": "p-022"
+        },
+        {
           "term": "prolocutor",
           "paragraph": "p-023"
+        },
+        {
+          "term": "counterpane",
+          "paragraph": "p-025"
         }
       ],
       "words": 2651,

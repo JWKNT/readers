@@ -18,9 +18,9 @@
   ],
   "totalWords": 3209,
   "defaultChapter": "story",
-  "glossaryCount": 8,
+  "glossaryCount": 11,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "story",
@@ -115,12 +115,20 @@
       "headingHtml": "Straw",
       "noteAnchors": [
         {
+          "term": "brazier",
+          "paragraph": "p-002"
+        },
+        {
           "term": "windlass",
           "paragraph": "p-004"
         },
         {
           "term": "hauberk",
           "paragraph": "p-034"
+        },
+        {
+          "term": "roan",
+          "paragraph": "p-040"
         },
         {
           "term": "donjon",
@@ -133,6 +141,10 @@
         {
           "term": "breeks",
           "paragraph": "p-046"
+        },
+        {
+          "term": "mettlesome",
+          "paragraph": "p-047"
         },
         {
           "term": "gorget",

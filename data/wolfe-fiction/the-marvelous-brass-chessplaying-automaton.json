@@ -43,5 +43,20 @@
       }
     ],
     "evidence": " The Best of Gene Wolfe THE MARVELOUS BRASS CHESSPLAYING AUTOMATON Each day Lame Hans sits with his knees against the bars, playing chess with t"
+  },
+  {
+    "id": "scullery",
+    "term": "scullery",
+    "aliases": [],
+    "short": "A room for washing dishes and kitchen work.",
+    "note": "A room adjoining or serving a kitchen where utensils are washed and messy preparation work is done.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/scullery",
+        "label": "Merriam-Webster: scullery"
+      }
+    ],
+    "evidence": "story/p-043: whole section swung forward, as the door of a vegetable bin does in a scullery. But the top of the bin was not open as though to receive the vegetables: it was instead a chessboa"
   }
 ]

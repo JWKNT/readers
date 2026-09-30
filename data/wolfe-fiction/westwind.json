@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "umber",
+    "term": "umber",
+    "aliases": [],
+    "short": "A dark yellowish-brown color.",
+    "note": "A brown earth pigment containing iron and manganese oxides, or its characteristic brown color.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/umber",
+        "label": "Merriam-Webster: umber"
+      }
+    ],
+    "evidence": "story/p-002: d to soft old valentines. The ruler’s chair turned to bronze, then to umber, and the ruler himself, fatherly and cunning, wise and unknowable, underwent a succession of transf"
+  }
+]

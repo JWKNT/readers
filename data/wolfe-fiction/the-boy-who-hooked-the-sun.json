@@ -58,5 +58,20 @@
       }
     ],
     "evidence": "er own, came to the boy, saying, “Little boy, you must cut your line. Sabaoth sweats and trembles in his shrine and will no longer accept my offerings; the feet of Sit"
+  },
+  {
+    "id": "sardonyxes",
+    "term": "sardonyxes",
+    "aliases": [],
+    "short": "Layered onyx gemstones.",
+    "note": "Onyx with parallel layers of sard, a reddish-brown form of chalcedony.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sardonyx",
+        "label": "Merriam-Webster: sardonyxes"
+      }
+    ],
+    "evidence": "story/p-011: lantis, with agates and alexanderites, moonstones and onyxes, rubies, sardonyxes, and sapphires, and at last the magic woman from the hills went away muttering."
   }
 ]

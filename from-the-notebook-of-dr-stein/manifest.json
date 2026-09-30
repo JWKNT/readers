@@ -12,9 +12,9 @@
   ],
   "totalWords": 2046,
   "defaultChapter": "story",
-  "glossaryCount": 5,
+  "glossaryCount": 6,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "story",
@@ -92,6 +92,10 @@
         {
           "term": "alienist",
           "paragraph": "p-004"
+        },
+        {
+          "term": "asymptotically",
+          "paragraph": "p-030"
         },
         {
           "term": "cerletti",

@@ -58,5 +58,65 @@
       "paragraph": "p-035",
       "index": 0
     }
+  },
+  {
+    "id": "cinnabar",
+    "term": "cinnabar",
+    "aliases": [],
+    "short": "A vivid vermilion red.",
+    "note": "A bright red or red-orange color named for cinnabar, the mercury-sulfide mineral historically used as a red pigment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/cinnabar",
+        "label": "Dictionary.com · cinnabar"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-037",
+      "index": 0
+    }
+  },
+  {
+    "id": "ferrules",
+    "term": "ferrules",
+    "aliases": [],
+    "short": "Metal sleeves or rings at a joint.",
+    "note": "Short metal rings, caps, or sleeves used to reinforce ends or secure joints between fitted parts.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/ferrule",
+        "label": "Dictionary.com · ferrule"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-083",
+      "index": 0
+    }
+  },
+  {
+    "id": "gravimeter",
+    "term": "gravimeter",
+    "aliases": [],
+    "short": "An instrument measuring a gravitational field.",
+    "note": "An instrument that detects differences in the strength of gravity; terrestrial gravimeters can reveal density differences in underground rock.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/gravimeter",
+        "label": "Dictionary.com · gravimeter"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-035",
+      "index": 0
+    }
   }
 ]

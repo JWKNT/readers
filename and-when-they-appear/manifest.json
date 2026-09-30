@@ -18,9 +18,9 @@
   ],
   "totalWords": 8457,
   "defaultChapter": "story",
-  "glossaryCount": 11,
+  "glossaryCount": 13,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "story",
@@ -350,6 +350,10 @@
           "paragraph": "p-061"
         },
         {
+          "term": "exousia",
+          "paragraph": "p-079"
+        },
+        {
           "term": "saint-nicholas",
           "paragraph": "p-086"
         },
@@ -368,6 +372,10 @@
         {
           "term": "knecht-rupprecht",
           "paragraph": "p-104"
+        },
+        {
+          "term": "weihnachtsmann",
+          "paragraph": "p-107"
         },
         {
           "term": "tiny-tim",

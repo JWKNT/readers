@@ -158,5 +158,65 @@
       "paragraph": "p-052",
       "index": 0
     }
+  },
+  {
+    "id": "brazier",
+    "term": "brazier",
+    "aliases": [],
+    "short": "A metal container for an open fire.",
+    "note": "A pan or open receptacle that holds burning fuel, commonly charcoal, to provide heat.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/brazier",
+        "label": "Merriam-Webster: brazier"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-002",
+      "index": 0
+    }
+  },
+  {
+    "id": "roan",
+    "term": "roan",
+    "aliases": [],
+    "short": "A coat with white and colored hairs mixed.",
+    "note": "Describes a horse whose base coat color is lightened by white hairs evenly mixed through it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/roan",
+        "label": "Merriam-Webster: roan"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-040",
+      "index": 0
+    }
+  },
+  {
+    "id": "mettlesome",
+    "term": "mettlesome",
+    "aliases": [],
+    "short": "Spirited; full of courage.",
+    "note": "Showing energy, determination, or a bold disposition.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mettlesome",
+        "label": "Merriam-Webster: mettlesome"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-047",
+      "index": 0
+    }
   }
 ]

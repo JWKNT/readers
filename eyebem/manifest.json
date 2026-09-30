@@ -12,9 +12,9 @@
   ],
   "totalWords": 4225,
   "defaultChapter": "story",
-  "glossaryCount": 4,
+  "glossaryCount": 6,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "story",
@@ -104,12 +104,20 @@
           "paragraph": "p-002"
         },
         {
+          "term": "hysteresis",
+          "paragraph": "p-005"
+        },
+        {
           "term": "control-data-corporation",
           "paragraph": "p-027"
         },
         {
           "term": "kobuk-river",
           "paragraph": "p-028"
+        },
+        {
+          "term": "bistable",
+          "paragraph": "p-051"
         }
       ],
       "words": 4225,

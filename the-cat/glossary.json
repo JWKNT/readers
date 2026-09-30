@@ -524,5 +524,147 @@
       "paragraph": "p-019",
       "index": 0
     }
+  },
+  {
+    "id": "specula",
+    "term": "specula",
+    "aliases": [],
+    "short": "Mirrors or polished reflectors.",
+    "note": "Plural of speculum: a mirror or reflector, especially one made of polished metal.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/speculum",
+        "label": "Dictionary.com · speculum"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-012",
+      "index": 0
+    }
+  },
+  {
+    "id": "pochette",
+    "term": "pochette",
+    "aliases": [],
+    "short": "A small pocket violin.",
+    "note": "A miniature bowed instrument used by dancing masters, small enough to carry in a coat pocket while demonstrating steps.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/505412",
+        "label": "The Metropolitan Museum of Art · Pochette"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-014",
+      "index": 0
+    }
+  },
+  {
+    "id": "peri",
+    "term": "peri",
+    "aliases": [],
+    "short": "A beautiful fairy of Persian tradition.",
+    "note": "In Persian folklore, a beautiful supernatural being; in later tradition, a benevolent fairy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.yourdictionary.com/peri",
+        "label": "American Heritage Dictionary · peri"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-006",
+      "index": 0
+    }
+  },
+  {
+    "id": "choralcelo",
+    "term": "choralcelo",
+    "aliases": [],
+    "short": "A keyboard instrument with electromagnetically sustained tones.",
+    "note": "An early twentieth-century instrument developed by Melvin Severy and George Sinclair. Timed electromagnetic pulses kept its strings vibrating, allowing piano-like attacks or sustained tones.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://patents.google.com/patent/US1183244A/en",
+        "label": "Severy and Sinclair · Choralcelo expression-control patent"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-022",
+      "index": 0
+    }
+  },
+  {
+    "id": "lemures",
+    "term": "lemures",
+    "aliases": [],
+    "short": "Restless spirits of the Roman dead.",
+    "note": "In Roman religion, spirits of the dead, particularly ghosts thought liable to trouble the living unless appeased.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/lemures",
+        "label": "Dictionary.com · lemures"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "hallowmass",
+    "term": "Hallowmass",
+    "aliases": [
+      "Hallowmas"
+    ],
+    "short": "All Saints’ Day.",
+    "note": "An older name for All Saints’ Day, the Christian feast honoring the saints on November 1. Its preceding evening is All Hallows’ Eve, or Halloween.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/hallowmas",
+        "label": "Dictionary.com · hallowmas"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "counterpane",
+    "term": "counterpane",
+    "aliases": [],
+    "short": "A bedspread or coverlet.",
+    "note": "An older word for a covering spread over the top of a bed, such as a quilt or ornamental coverlet.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/counterpane",
+        "label": "Dictionary.com · counterpane"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-025",
+      "index": 0
+    }
   }
 ]

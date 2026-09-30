@@ -18,9 +18,9 @@
   ],
   "totalWords": 2229,
   "defaultChapter": "story",
-  "glossaryCount": 16,
+  "glossaryCount": 17,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "story",
@@ -108,6 +108,10 @@
         {
           "term": "insula",
           "paragraph": "p-002"
+        },
+        {
+          "term": "noblesse-oblige",
+          "paragraph": "p-004"
         },
         {
           "term": "holms",

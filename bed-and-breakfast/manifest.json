@@ -18,9 +18,9 @@
   ],
   "totalWords": 8577,
   "defaultChapter": "story",
-  "glossaryCount": 8,
+  "glossaryCount": 12,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "story",
@@ -383,6 +383,22 @@
         {
           "term": "archangel-raphael",
           "paragraph": "p-055"
+        },
+        {
+          "term": "probity",
+          "paragraph": "p-156"
+        },
+        {
+          "term": "ablutions",
+          "paragraph": "p-159"
+        },
+        {
+          "term": "aureole",
+          "paragraph": "p-167"
+        },
+        {
+          "term": "percipient",
+          "paragraph": "p-206"
         },
         {
           "term": "lasciate-ogni-speranza",

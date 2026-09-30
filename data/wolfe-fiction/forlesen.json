@@ -13,5 +13,52 @@
       }
     ],
     "evidence": "her all around the damn office and everybody wants to get away; she’s Typhoid Mary.” “Make her your permanent secretary,” Forlesen said. “What?” “Just for a while. Give "
+  },
+  {
+    "id": "oakum",
+    "term": "oakum",
+    "aliases": [],
+    "short": "Tarred fibers used to seal seams.",
+    "note": "Loose hemp or jute fibers impregnated with tar, packed into joints or a wooden ship’s seams to make them watertight.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/oakum",
+        "label": "Merriam-Webster: oakum"
+      }
+    ],
+    "evidence": "story/p-321: e sailor who’s spent most of his life down there in the hold with the oakum and . . . uh . . . Fastpatch has the experience necessary to recognize the landmarks and weather si"
+  },
+  {
+    "id": "keypunch",
+    "term": "keypunch",
+    "aliases": [
+      "keypunching"
+    ],
+    "short": "A keyboard-operated punched-card machine.",
+    "note": "A device that records data by punching holes into cards; keypunching is entering data this way.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/keypunch",
+        "label": "Merriam-Webster: keypunch"
+      }
+    ],
+    "evidence": "story/p-231: ally said) that she was considering resignation. Her work consists of keypunching, typing, and filing. Should her supervisor:"
+  },
+  {
+    "id": "cruet",
+    "term": "cruet",
+    "aliases": [],
+    "short": "A small bottle, usually for oil or vinegar.",
+    "note": "A small vessel normally used for table condiments, or for wine and water in the Eucharist.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cruet",
+        "label": "Merriam-Webster: cruet"
+      }
+    ],
+    "evidence": "story/p-446: —that’s what they’re for. The pictures, I mean. In a beautiful little cruet. It’s a company benefit, and you’d know if you’d read your own orientation material—of course, you "
   }
 ]

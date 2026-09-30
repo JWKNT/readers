@@ -238,5 +238,20 @@
       }
     ],
     "evidence": "h on Delos; of Patmos, where Saint John beheld the Apocalypse; and of Phraxos, where the sorcerer Conchis dwelt. He said, “ ‘To cleave that sea in the gentle autumnal "
+  },
+  {
+    "id": "noblesse-oblige",
+    "term": "noblesse oblige",
+    "aliases": [],
+    "short": "The duties expected of privileged people.",
+    "note": "French for “nobility obligates”: the expectation that high rank entails generous, honorable conduct.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/noblesse%20oblige",
+        "label": "Merriam-Webster: noblesse oblige"
+      }
+    ],
+    "evidence": "story/p-004:  and fully in keeping with that noble spirit of self-sacrifice and—ah—noblesse oblige we have always sought to foster among our tenured faculty. And may I ask just what the subject of y"
   }
 ]

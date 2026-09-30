@@ -18,9 +18,9 @@
   ],
   "totalWords": 1062,
   "defaultChapter": "story",
-  "glossaryCount": 4,
+  "glossaryCount": 6,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "story",
@@ -58,6 +58,14 @@
         {
           "term": "golden-mountain-land",
           "paragraph": "p-005"
+        },
+        {
+          "term": "scullions",
+          "paragraph": "p-006"
+        },
+        {
+          "term": "indefectible",
+          "paragraph": "p-008"
         },
         {
           "term": "okies",

@@ -63,5 +63,45 @@
       "paragraph": "p-001",
       "index": 0
     }
+  },
+  {
+    "id": "ensorceling",
+    "term": "ensorceling",
+    "aliases": [],
+    "short": "Bewitching or enchanting.",
+    "note": "Casting a spell over someone, literally or figuratively; an inflected form of ensorcel, also spelled ensorcell.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/ensorcell",
+        "label": "Dictionary.com · ensorcell"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-059",
+      "index": 0
+    }
+  },
+  {
+    "id": "freshet",
+    "term": "freshet",
+    "aliases": [],
+    "short": "A freshwater stream.",
+    "note": "A stream of fresh water, especially one flowing into the sea. The word can also mean a sudden swelling or flood of a river.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/freshet",
+        "label": "Dictionary.com · freshet"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-033",
+      "index": 0
+    }
   }
 ]

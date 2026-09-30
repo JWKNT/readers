@@ -28,5 +28,35 @@
       }
     ],
     "evidence": "c28: hich had been the civil-wartime employment of the wife of a major in a fencible Zouave regiment—usually at about ten-thirty in the morning and offering, in introduction, a complicated recitation of friendships and cousincies l"
+  },
+  {
+    "id": "fencible",
+    "term": "fencible",
+    "aliases": [],
+    "short": "Serving in a home-defense force.",
+    "note": "A historical term for a soldier enlisted for the immediate defense of the homeland rather than general overseas service.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/fencible",
+        "label": "Dictionary.com · fencible"
+      }
+    ],
+    "evidence": "story/p-012: en the civil-wartime employment of the wife of a major in a fencible Zouave regiment—usually at about ten-thirty in the morning and offering, in introduction,"
+  },
+  {
+    "id": "crewel",
+    "term": "crewel",
+    "aliases": [],
+    "short": "Embroidery worked with wool yarn.",
+    "note": "A loosely twisted worsted wool yarn used for embroidery; also the decorative needlework made with it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/crewel",
+        "label": "Dictionary.com · crewel"
+      }
+    ],
+    "evidence": "story/p-012:  tablecloths, for quilts, crocheting of all kinds, afghans, crewel work, hand-hooked rugs, and the like. If my mother or her friends could discover a sample"
   }
 ]

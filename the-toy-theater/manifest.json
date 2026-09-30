@@ -18,9 +18,9 @@
   ],
   "totalWords": 2576,
   "defaultChapter": "story",
-  "glossaryCount": 12,
+  "glossaryCount": 13,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "story",
@@ -108,6 +108,10 @@
         {
           "term": "sarg",
           "paragraph": "p-001"
+        },
+        {
+          "term": "umber",
+          "paragraph": "p-002"
         },
         {
           "term": "sarah-van-fleet",

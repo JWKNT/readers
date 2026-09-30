@@ -38,5 +38,65 @@
       "paragraph": "p-131",
       "index": 0
     }
+  },
+  {
+    "id": "intellection",
+    "term": "intellection",
+    "aliases": [],
+    "short": "Thinking or reasoning.",
+    "note": "The activity of the intellect: forming thoughts and reasoning.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/intellection",
+        "label": "Merriam-Webster: intellection"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-019",
+      "index": 0
+    }
+  },
+  {
+    "id": "interstices",
+    "term": "interstices",
+    "aliases": [],
+    "short": "Small gaps between things.",
+    "note": "Narrow intervening spaces between closely spaced objects.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/interstice",
+        "label": "Merriam-Webster: interstices"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-017",
+      "index": 0
+    }
+  },
+  {
+    "id": "cephalopods",
+    "term": "cephalopods",
+    "aliases": [],
+    "short": "Mollusks such as squid and octopuses.",
+    "note": "Marine mollusks with muscular arms around the head; the group includes squid, octopuses, cuttlefish, and nautiluses.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cephalopod",
+        "label": "Merriam-Webster: cephalopods"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-115",
+      "index": 0
+    }
   }
 ]

@@ -21,5 +21,25 @@
       "paragraph": "p-021",
       "index": 0
     }
+  },
+  {
+    "id": "samovar",
+    "term": "samovar",
+    "aliases": [],
+    "short": "A heated urn for tea water.",
+    "note": "A metal urn traditionally used in Russia to boil water for tea, heated by fuel in a central chamber or by electricity.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/samovar",
+        "label": "Dictionary.com · samovar"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-007",
+      "index": 0
+    }
   }
 ]

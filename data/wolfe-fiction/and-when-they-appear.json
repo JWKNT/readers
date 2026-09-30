@@ -165,5 +165,35 @@
       }
     ],
     "evidence": ", and if he does not follow at once, jerk the rope, not too hard. Say erchou!” Sherby tried it, making the word almost as guttural and rasping as Saint Nicholas had,"
+  },
+  {
+    "id": "exousia",
+    "term": "exousia",
+    "aliases": [],
+    "short": "Greek: authority or power.",
+    "note": "Greek exousia means authority, power, or the right to act; it occurs frequently in the New Testament.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.billmounce.com/greek-dictionary/exousia",
+        "label": "Mounce: exousia"
+      }
+    ],
+    "evidence": "story/p-079:  tall man fingered his small, round beard. “We men—even boys—there is exousia in the eyes. He is afraid of that, poor little fellow.”"
+  },
+  {
+    "id": "weihnachtsmann",
+    "term": "Weihnachtsmann",
+    "aliases": [],
+    "short": "German: Santa Claus or Father Christmas.",
+    "note": "The German name for the Christmas gift-bringer commonly depicted as a white-bearded man in red.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/dictionary/german-english/weihnachtsmann",
+        "label": "Cambridge German–English Dictionary: Weihnachtsmann"
+      }
+    ],
+    "evidence": "story/p-107: l bone of his jaw swinging and snapping. “Und den vor Christmas, vith Weihnachtsmann I come. You see here dese svitches?” He held a bundle of apple and cherry twigs under Sherby’s nose"
   }
 ]

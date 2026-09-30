@@ -58,5 +58,25 @@
       "paragraph": "chapter-title",
       "index": 0
     }
+  },
+  {
+    "id": "scullery",
+    "term": "scullery",
+    "aliases": [],
+    "short": "A room for washing dishes and kitchen work.",
+    "note": "A room adjoining or serving a kitchen where utensils are washed and messy preparation work is done.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/scullery",
+        "label": "Merriam-Webster: scullery"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-043",
+      "index": 0
+    }
   }
 ]

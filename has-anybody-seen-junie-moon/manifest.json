@@ -18,9 +18,9 @@
   ],
   "totalWords": 6338,
   "defaultChapter": "story",
-  "glossaryCount": 4,
+  "glossaryCount": 5,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "story",
@@ -161,6 +161,10 @@
         {
           "term": "thespius",
           "paragraph": "p-025"
+        },
+        {
+          "term": "sidereal",
+          "paragraph": "p-057"
         },
         {
           "term": "merlins-cave",

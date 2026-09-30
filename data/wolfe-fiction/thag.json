@@ -142,5 +142,80 @@
       }
     ],
     "evidence": "c07: a book to sit peacefully before his fire reading the short stories of Alexander Solzhenitsyn.” Just at that instant Thag rushed into the room in the form of a headless bear, blood spurting from the stump of his neck. “Do I kill him?"
+  },
+  {
+    "id": "cynosure",
+    "term": "cynosure",
+    "aliases": [],
+    "short": "The center of everyone’s attention.",
+    "note": "A person or object that draws all eyes through its brilliance, beauty, or conspicuousness; also something that serves as a guide.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/cynosure",
+        "label": "Dictionary.com · cynosure"
+      }
+    ],
+    "evidence": "story/p-003: h it and set them on their heads. She and Eric had been the cynosure of all eyes, the only time in her life that she had felt so important, so that she swore "
+  },
+  {
+    "id": "flacon",
+    "term": "flacon",
+    "aliases": [],
+    "short": "A small stoppered flask.",
+    "note": "A small bottle or flask closed with a stopper, especially one used for perfume or another precious liquid.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/flacon",
+        "label": "Dictionary.com · flacon"
+      }
+    ],
+    "evidence": "story/p-006: ell suited to direct them. And so he bade the queen drink a flacon of wine and be quiet, and dressed himself in hose, and a jerkin rich and impressive but w"
+  },
+  {
+    "id": "groats",
+    "term": "groats",
+    "aliases": [],
+    "short": "Hulled grain kernels.",
+    "note": "Grain, such as oats, barley, or buckwheat, with the husks removed, sometimes broken into coarse pieces.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/groats",
+        "label": "Dictionary.com · groats"
+      }
+    ],
+    "evidence": "story/p-005: lesh after her girlhood, with no more brains than a sack of groats) cried, “Charles, save me!” and when he asked her what was wrong she explained that they "
+  },
+  {
+    "id": "pricket",
+    "term": "pricket",
+    "aliases": [],
+    "short": "A pointed candleholder.",
+    "note": "A candlestick fitted with a sharp upright spike on which a candle is fixed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/pricket",
+        "label": "Dictionary.com · pricket"
+      }
+    ],
+    "evidence": "story/p-013:  hall by the light of a single guttering candle on a golden pricket, there appeared from nowhere three remarkable figures. The first was a blond girl of grea"
+  },
+  {
+    "id": "puissant",
+    "term": "puissant",
+    "aliases": [],
+    "short": "Mighty or powerful.",
+    "note": "An archaic or literary adjective for someone or something possessing great power.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/puissant",
+        "label": "Dictionary.com · puissant"
+      }
+    ],
+    "evidence": "story/p-009: are a magician,” the king said, “and that that bird is your puissant familiar; and I confess that it has always seemed to me that were I a magician I would ch"
   }
 ]

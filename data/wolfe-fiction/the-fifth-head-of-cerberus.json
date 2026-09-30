@@ -919,5 +919,174 @@
         "label": "CNRTL"
       }
     ]
+  },
+  {
+    "id": "aigrettes",
+    "term": "aigrettes",
+    "aliases": [],
+    "short": "Egrets; the French name for these plume-bearing herons.",
+    "note": "French aigrette names an egret, a long-legged heron noted for its fine plumes. The word also names a tuft of feathers or an ornament made from them.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionnaire-academie.fr/article/A9A0973",
+        "label": "Dictionnaire de l’Académie française: aigrette"
+      }
+    ],
+    "evidence": "a-story/p-175: out current through the meadowmeres. He saw the stiff flight of hair-herons and aigrettes, yellow frogs wrestling for the possession of the wind; and through the slow, green water, as though he were swimming in it himself twenty"
+  },
+  {
+    "id": "puttee",
+    "term": "puttee",
+    "aliases": [],
+    "short": "A protective wrapping for the lower leg.",
+    "note": "A strip of cloth wound around the leg between ankle and knee, formerly common in military dress; the word can also denote a gaiter. It comes from Hindi paṭṭī, “bandage.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/puttee",
+        "label": "Collins English Dictionary: puttee"
+      }
+    ],
+    "evidence": "vrt/p-175: I was a student at Columbia I used to read the accounts of the pith helmet and puttee expeditions of the Victorians, when they used hundreds of bearers and diggers and what not, and, filled with Gutenberg courage, dream of le"
+  },
+  {
+    "id": "emolument",
+    "term": "emolument",
+    "aliases": [],
+    "short": "Payment for services or work.",
+    "note": "A formal term for money received in return for work: a fee, salary, or other remuneration.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/emolument",
+        "label": "Oxford Advanced Learner’s Dictionary: emolument"
+      }
+    ],
+    "evidence": "vrt/p-365: the month, should you wish it. And should you be disposed to tender some small emolument for our services, let me assure you in advance of any possible embarrassment that we do not expect from the temple of learning the golden m"
+  },
+  {
+    "id": "chaplet",
+    "term": "chaplet",
+    "aliases": [],
+    "short": "A small wreath worn as a crown.",
+    "note": "A garland for the head, often made from flowers or leaves.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chaplet",
+        "label": "Merriam-Webster: chaplet"
+      }
+    ],
+    "evidence": "a-story/p-418: e stood with his feet in the shallows and the dawnlight behind him. There was a chaplet of white flowers on his head, hiding the scars where his hair had been burned away; and another garland, of red blossoms that looked black"
+  },
+  {
+    "id": "contralto",
+    "term": "contralto",
+    "aliases": [],
+    "short": "A low female vocal register.",
+    "note": "The lowest conventional female singing voice, below mezzo-soprano; also a singer or musical part in that range.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/contralto",
+        "label": "Merriam-Webster: contralto"
+      }
+    ],
+    "evidence": "fifth-head/p-140: grew loud enough for me to hear the girl’s, which was a clear and very pleasing contralto. In the end, of course, they accepted; the monster conceded me a frigid nod, and the girl winked at me behind her back."
+  },
+  {
+    "id": "carding",
+    "term": "carding",
+    "aliases": [
+      "carded"
+    ],
+    "short": "Combing fibers before they are spun.",
+    "note": "Cleaning and disentangling loose fibers with toothed implements or machines, gathering them together in preparation for spinning yarn.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carding",
+        "label": "Merriam-Webster: card, textile sense"
+      }
+    ],
+    "evidence": "vrt/p-862: re collected by boats and brought to factories ashore where they are fumigated, carded, and spun into thread for the textile industry. Since the mites are extremely resistant to fumigation—I have been told that they can surviv"
+  },
+  {
+    "id": "gobbet",
+    "term": "gobbet",
+    "aliases": [],
+    "short": "A lump or small piece, especially of meat.",
+    "note": "A chunk or portion of flesh or other material; by extension, a small fragment or extract.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gobbet",
+        "label": "Merriam-Webster: gobbet"
+      }
+    ],
+    "evidence": "a-story/p-079: Another put a gobbet of the tick-deer’s flesh into Sandwalker’s hands, and as he always had, he gorged it before it could be snatched away. The Shadow Child who"
+  },
+  {
+    "id": "lachrymal",
+    "term": "lachrymal",
+    "aliases": [],
+    "short": "Relating to tears or tear-producing glands.",
+    "note": "Also spelled lacrimal: concerning tears and the glands that secrete them. Lachrymal fluid is tear fluid.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lachrymal",
+        "label": "Merriam-Webster: lachrymal"
+      }
+    ],
+    "evidence": "vrt/p-210: I was pacing off the distance to it; there seemed to have been a heavy flow of lachrymal fluid that left broad wet streaks in the dust beneath each eye. I lifted one of the eyelids with my fingers after I had looked at the wound"
+  },
+  {
+    "id": "recognizance",
+    "term": "recognizance",
+    "aliases": [],
+    "short": "A formal pledge to fulfill an obligation.",
+    "note": "A legally recorded undertaking, commonly a promise to appear before a court.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/recognizance",
+        "label": "Merriam-Webster: recognizance"
+      }
+    ],
+    "evidence": "vrt/p-323: name thereupon and give it to you, and with it you will be admitted on your own recognizance to the citadel on the second and fourth Thursdays of each month between the hours of nine and eleven p.m.”"
+  },
+  {
+    "id": "reveille",
+    "term": "reveille",
+    "aliases": [],
+    "short": "The military morning wake-up signal.",
+    "note": "A call, commonly sounded on a bugle near sunrise, telling soldiers to rise or assemble for the day’s first formation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/reveille",
+        "label": "Merriam-Webster: reveille"
+      }
+    ],
+    "evidence": "vrt/p-452: “It’s already very late, Maître. I must rise an hour before the soldier’s reveille to help with breakfast—”"
+  },
+  {
+    "id": "servitor",
+    "term": "servitor",
+    "aliases": [
+      "servitors"
+    ],
+    "short": "A servant or attendant.",
+    "note": "An older word for a servant, historically especially a male servant. It derives from Latin servire, “to serve.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/servitor",
+        "label": "Merriam-Webster: servitor"
+      }
+    ],
+    "evidence": "fifth-head/p-407: his house, “located at 666 Saltimbanque, is presently under the care of a robot servitor.” Since the robot servitors under whose direction I found myself did not allow me writing materials, I could not reply."
   }
 ]

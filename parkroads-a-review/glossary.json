@@ -78,5 +78,45 @@
       "paragraph": "p-009",
       "index": 0
     }
+  },
+  {
+    "id": "indefectible",
+    "term": "indefectible",
+    "aliases": [],
+    "short": "Unfailing; not subject to decay.",
+    "note": "Incapable of failing or wearing out.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/indefectible",
+        "label": "Merriam-Webster: indefectible"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-008",
+      "index": 0
+    }
+  },
+  {
+    "id": "scullions",
+    "term": "scullions",
+    "aliases": [],
+    "short": "Kitchen servants.",
+    "note": "Helpers doing basic kitchen work, especially cleaning pots and dishes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/scullion",
+        "label": "Merriam-Webster: scullions"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-006",
+      "index": 0
+    }
   }
 ]

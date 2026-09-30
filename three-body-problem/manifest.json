@@ -31,9 +31,9 @@
   ],
   "totalWords": 114223,
   "defaultChapter": "section-06",
-  "glossaryCount": 89,
+  "glossaryCount": 108,
   "correctionCount": 0,
-  "editionVersion": 13,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "section-06",
@@ -175,6 +175,14 @@
           "paragraph": "p-020"
         },
         {
+          "term": "bolshevik",
+          "paragraph": "p-026"
+        },
+        {
+          "term": "bandolier",
+          "paragraph": "p-026"
+        },
+        {
           "term": "einstein",
           "paragraph": "p-030"
         },
@@ -213,6 +221,10 @@
         {
           "term": "cosmic-microwave-background",
           "paragraph": "p-053"
+        },
+        {
+          "term": "geiger-counter",
+          "paragraph": "p-084"
         }
       ],
       "words": 4355,
@@ -482,6 +494,10 @@
         {
           "term": "may-seventh-cadre-schools",
           "paragraph": "p-025"
+        },
+        {
+          "term": "klaxons",
+          "paragraph": "p-065"
         }
       ],
       "words": 2632,
@@ -660,6 +676,10 @@
         {
           "term": "nanomaterials",
           "paragraph": "p-037"
+        },
+        {
+          "term": "solenoid",
+          "paragraph": "p-070"
         },
         {
           "term": "qian-zhongshu",
@@ -945,6 +965,10 @@
           "paragraph": "p-072"
         },
         {
+          "term": "non-sequitur",
+          "paragraph": "p-073"
+        },
+        {
           "term": "nanotechnology",
           "paragraph": "p-133"
         },
@@ -1227,6 +1251,10 @@
           "paragraph": "p-009"
         },
         {
+          "term": "pinyin",
+          "paragraph": "p-027"
+        },
+        {
           "term": "madame-curie",
           "paragraph": "p-032"
         },
@@ -1370,12 +1398,20 @@
           "paragraph": "p-013"
         },
         {
+          "term": "doppler-effect",
+          "paragraph": "p-017"
+        },
+        {
           "term": "cultural-revolution",
           "paragraph": "p-027"
         },
         {
           "term": "penzias",
           "paragraph": "p-059"
+        },
+        {
+          "term": "romanesque",
+          "paragraph": "p-093"
         },
         {
           "term": "come-gracious-spirit-heavenly-dove",
@@ -1644,6 +1680,10 @@
           "paragraph": "p-006"
         },
         {
+          "term": "armillary-spheres",
+          "paragraph": "p-009"
+        },
+        {
           "term": "king-wen-of-zhou",
           "paragraph": "p-011"
         },
@@ -1905,6 +1945,10 @@
           "paragraph": "p-026"
         },
         {
+          "term": "esperanto",
+          "paragraph": "p-062"
+        },
+        {
           "term": "big-character-posters",
           "paragraph": "p-078"
         },
@@ -2060,6 +2104,10 @@
         {
           "term": "candelabrum",
           "paragraph": "p-007"
+        },
+        {
+          "term": "chiton",
+          "paragraph": "p-008"
         },
         {
           "term": "aristotle",
@@ -2423,6 +2471,10 @@
         {
           "term": "newton",
           "paragraph": "p-006"
+        },
+        {
+          "term": "leibniz",
+          "paragraph": "p-007"
         },
         {
           "term": "von-neumann",
@@ -2917,6 +2969,10 @@
           "paragraph": "p-008"
         },
         {
+          "term": "ephemeris",
+          "paragraph": "p-017"
+        },
+        {
           "term": "cultural-revolution",
           "paragraph": "p-041"
         }
@@ -3241,6 +3297,14 @@
         {
           "term": "five-black-categories",
           "paragraph": "p-011"
+        },
+        {
+          "term": "cupronickel",
+          "paragraph": "p-028"
+        },
+        {
+          "term": "kang",
+          "paragraph": "p-030"
         },
         {
           "term": "cultural-revolution",
@@ -4038,6 +4102,18 @@
         {
           "term": "strong-interaction",
           "paragraph": "p-065"
+        },
+        {
+          "term": "tori",
+          "paragraph": "p-070"
+        },
+        {
+          "term": "mobius-strip",
+          "paragraph": "p-070"
+        },
+        {
+          "term": "firmament",
+          "paragraph": "p-070"
         },
         {
           "term": "cosmic-microwave-background",

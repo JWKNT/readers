@@ -55,9 +55,9 @@
   ],
   "totalWords": 221631,
   "defaultChapter": "section-07",
-  "glossaryCount": 76,
+  "glossaryCount": 97,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "section-07",
@@ -297,6 +297,10 @@
         {
           "term": "joan-of-arc",
           "paragraph": "p-088"
+        },
+        {
+          "term": "minaret",
+          "paragraph": "p-096"
         }
       ],
       "words": 5098,
@@ -878,6 +882,14 @@
         {
           "term": "cassini-huygens",
           "paragraph": "p-076"
+        },
+        {
+          "term": "neutrino",
+          "paragraph": "p-088"
+        },
+        {
+          "term": "gravitational-wave",
+          "paragraph": "p-088"
         }
       ],
       "words": 5374,
@@ -975,6 +987,10 @@
         "p-051"
       ],
       "noteAnchors": [
+        {
+          "term": "cryoprotectant",
+          "paragraph": "p-006"
+        },
         {
           "term": "nuclear-pulse-propulsion",
           "paragraph": "p-035"
@@ -1248,7 +1264,12 @@
         "p-115",
         "p-116"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "geiger-counter",
+          "paragraph": "p-006"
+        }
+      ],
       "words": 4018,
       "startWords": 29200
     },
@@ -1306,7 +1327,16 @@
         "p-006",
         "p-007"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "neutrino",
+          "paragraph": "p-006"
+        },
+        {
+          "term": "gravitational-wave",
+          "paragraph": "p-006"
+        }
+      ],
       "words": 356,
       "startWords": 33586
     },
@@ -1355,6 +1385,14 @@
         {
           "term": "oort-cloud",
           "paragraph": "p-006"
+        },
+        {
+          "term": "gravitational-wave",
+          "paragraph": "p-009"
+        },
+        {
+          "term": "geosynchronous",
+          "paragraph": "p-010"
         }
       ],
       "words": 1247,
@@ -1478,12 +1516,24 @@
       ],
       "noteAnchors": [
         {
+          "term": "geosynchronous",
+          "paragraph": "p-001"
+        },
+        {
           "term": "third-wave",
           "paragraph": "p-038"
         },
         {
+          "term": "barnards-star",
+          "paragraph": "p-098"
+        },
+        {
           "term": "strong-interaction",
           "paragraph": "p-099"
+        },
+        {
+          "term": "gravitational-wave",
+          "paragraph": "p-100"
         }
       ],
       "words": 2907,
@@ -1636,6 +1686,10 @@
         "p-030"
       ],
       "noteAnchors": [
+        {
+          "term": "gravitational-wave",
+          "paragraph": "p-012"
+        },
         {
           "term": "sword-damocles",
           "paragraph": "p-013"
@@ -1826,6 +1880,10 @@
         {
           "term": "oort-cloud",
           "paragraph": "p-003"
+        },
+        {
+          "term": "neutrino",
+          "paragraph": "p-008"
         }
       ],
       "words": 730,
@@ -1994,6 +2052,10 @@
         {
           "term": "pinnace",
           "paragraph": "p-003"
+        },
+        {
+          "term": "klaxons",
+          "paragraph": "p-113"
         }
       ],
       "words": 5162,
@@ -2023,6 +2085,10 @@
         "p-010"
       ],
       "noteAnchors": [
+        {
+          "term": "gravitational-wave",
+          "paragraph": "p-002"
+        },
         {
           "term": "mohorovicic-discontinuity",
           "paragraph": "p-003"
@@ -2067,6 +2133,14 @@
         "p-018"
       ],
       "noteAnchors": [
+        {
+          "term": "gravitational-wave",
+          "paragraph": "p-003"
+        },
+        {
+          "term": "neutrino",
+          "paragraph": "p-003"
+        },
         {
           "term": "strong-interaction",
           "paragraph": "p-011"
@@ -2127,7 +2201,12 @@
         "p-034",
         "p-035"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "gravitational-wave",
+          "paragraph": "p-004"
+        }
+      ],
       "words": 1989,
       "startWords": 56304
     },
@@ -2209,8 +2288,16 @@
           "paragraph": "p-004"
         },
         {
+          "term": "firmament",
+          "paragraph": "p-033"
+        },
+        {
           "term": "einstein",
           "paragraph": "p-034"
+        },
+        {
+          "term": "gravitational-wave",
+          "paragraph": "p-041"
         }
       ],
       "words": 2036,
@@ -2237,7 +2324,12 @@
         "p-007",
         "p-008"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "tamarisk",
+          "paragraph": "p-001"
+        }
+      ],
       "words": 459,
       "startWords": 60329
     },
@@ -2264,7 +2356,12 @@
         "p-009",
         "p-010"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "gravitational-wave",
+          "paragraph": "p-002"
+        }
+      ],
       "words": 604,
       "startWords": 60788
     },
@@ -2310,7 +2407,20 @@
         "p-028",
         "p-029"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "gravitational-wave",
+          "paragraph": "p-003"
+        },
+        {
+          "term": "tamarisk",
+          "paragraph": "p-004"
+        },
+        {
+          "term": "katana",
+          "paragraph": "p-011"
+        }
+      ],
       "words": 1566,
       "startWords": 61392
     },
@@ -2390,6 +2500,10 @@
         "p-013"
       ],
       "noteAnchors": [
+        {
+          "term": "katana",
+          "paragraph": "p-001"
+        },
         {
           "term": "strong-interaction",
           "paragraph": "p-008"
@@ -2610,8 +2724,20 @@
       ],
       "noteAnchors": [
         {
+          "term": "gravitational-wave",
+          "paragraph": "p-004"
+        },
+        {
+          "term": "taiaha",
+          "paragraph": "p-014"
+        },
+        {
           "term": "kuiper-belt",
           "paragraph": "p-043"
+        },
+        {
+          "term": "katana",
+          "paragraph": "p-055"
         },
         {
           "term": "didgeridoo",
@@ -2772,8 +2898,20 @@
       ],
       "noteAnchors": [
         {
+          "term": "klaxons",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "gravitational-wave",
+          "paragraph": "p-005"
+        },
+        {
           "term": "newton",
           "paragraph": "p-013"
+        },
+        {
+          "term": "neutrino",
+          "paragraph": "p-036"
         },
         {
           "term": "strong-interaction",
@@ -3033,6 +3171,14 @@
           "paragraph": "p-049"
         },
         {
+          "term": "neutrino",
+          "paragraph": "p-063"
+        },
+        {
+          "term": "gravitational-wave",
+          "paragraph": "p-063"
+        },
+        {
           "term": "pinnace",
           "paragraph": "p-065"
         },
@@ -3065,7 +3211,12 @@
         "p-007",
         "p-008"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "gravitational-wave",
+          "paragraph": "p-004"
+        }
+      ],
       "words": 761,
       "startWords": 90674
     },
@@ -3148,7 +3299,12 @@
         "p-004",
         "p-005"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "gravitational-wave",
+          "paragraph": "p-001"
+        }
+      ],
       "words": 377,
       "startWords": 93049
     },
@@ -3226,6 +3382,18 @@
       ],
       "noteAnchors": [
         {
+          "term": "gravitational-wave",
+          "paragraph": "p-014"
+        },
+        {
+          "term": "photosphere",
+          "paragraph": "p-016"
+        },
+        {
+          "term": "ecliptic-plane",
+          "paragraph": "p-016"
+        },
+        {
           "term": "solar-wind",
           "paragraph": "p-017"
         }
@@ -3268,6 +3436,10 @@
         {
           "term": "dyson-sphere",
           "paragraph": "p-012"
+        },
+        {
+          "term": "gravitational-wave",
+          "paragraph": "p-017"
         }
       ],
       "words": 1015,
@@ -3330,8 +3502,16 @@
       ],
       "noteAnchors": [
         {
+          "term": "gravitational-wave",
+          "paragraph": "p-008"
+        },
+        {
           "term": "turgenev-threshold",
           "paragraph": "p-016"
+        },
+        {
+          "term": "geosynchronous",
+          "paragraph": "p-028"
         }
       ],
       "words": 2956,
@@ -3555,8 +3735,20 @@
       ],
       "noteAnchors": [
         {
+          "term": "geosynchronous",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "umbral-cone",
+          "paragraph": "p-006"
+        },
+        {
           "term": "lagrangian-point",
           "paragraph": "p-027"
+        },
+        {
+          "term": "neutrino",
+          "paragraph": "p-028"
         }
       ],
       "words": 8543,
@@ -3758,7 +3950,16 @@
         "p-139",
         "p-140"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "queen-regnant",
+          "paragraph": "p-008"
+        },
+        {
+          "term": "nonpareil",
+          "paragraph": "p-026"
+        }
+      ],
       "words": 4962,
       "startWords": 111271
     },
@@ -4159,6 +4360,10 @@
         {
           "term": "nuclear-fusion",
           "paragraph": "p-013"
+        },
+        {
+          "term": "ecliptic-plane",
+          "paragraph": "p-014"
         }
       ],
       "words": 1539,
@@ -4445,6 +4650,10 @@
           "paragraph": "p-158"
         },
         {
+          "term": "event-horizon",
+          "paragraph": "p-159"
+        },
+        {
           "term": "venus-de-milo",
           "paragraph": "p-169"
         }
@@ -4643,6 +4852,18 @@
       ],
       "noteAnchors": [
         {
+          "term": "geosynchronous",
+          "paragraph": "p-007"
+        },
+        {
+          "term": "ecliptic-plane",
+          "paragraph": "p-031"
+        },
+        {
+          "term": "firmament",
+          "paragraph": "p-041"
+        },
+        {
           "term": "moskstraumen",
           "paragraph": "p-046"
         },
@@ -4745,6 +4966,10 @@
         {
           "term": "mount-emei",
           "paragraph": "p-014"
+        },
+        {
+          "term": "neutrino",
+          "paragraph": "p-039"
         },
         {
           "term": "oort-cloud",
@@ -5117,6 +5342,14 @@
         {
           "term": "lagrangian-point",
           "paragraph": "p-031"
+        },
+        {
+          "term": "event-horizon",
+          "paragraph": "p-032"
+        },
+        {
+          "term": "neutrino",
+          "paragraph": "p-047"
         }
       ],
       "words": 3023,
@@ -5266,6 +5499,10 @@
         {
           "term": "tokamak",
           "paragraph": "p-042"
+        },
+        {
+          "term": "bandolier",
+          "paragraph": "p-061"
         },
         {
           "term": "moskstraumen",
@@ -5607,6 +5844,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "gravitational-wave",
+          "paragraph": "p-004"
+        },
+        {
           "term": "nuclear-fusion",
           "paragraph": "p-020"
         },
@@ -5621,6 +5862,14 @@
         {
           "term": "kuiper-belt",
           "paragraph": "p-057"
+        },
+        {
+          "term": "neutrino",
+          "paragraph": "p-060"
+        },
+        {
+          "term": "parallax",
+          "paragraph": "p-129"
         }
       ],
       "words": 7908,
@@ -6113,6 +6362,14 @@
         {
           "term": "nuclear-fusion",
           "paragraph": "p-161"
+        },
+        {
+          "term": "gravitational-wave",
+          "paragraph": "p-206"
+        },
+        {
+          "term": "doppler-effect",
+          "paragraph": "p-210"
         }
       ],
       "words": 11346,
@@ -6480,6 +6737,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "gravitational-wave",
+          "paragraph": "p-050"
+        },
+        {
           "term": "planck-time",
           "paragraph": "p-191"
         },
@@ -6608,6 +6869,10 @@
         {
           "term": "nuclear-fusion",
           "paragraph": "p-012"
+        },
+        {
+          "term": "event-horizon",
+          "paragraph": "p-021"
         }
       ],
       "words": 3701,
@@ -6856,6 +7121,14 @@
         {
           "term": "nuclear-fusion",
           "paragraph": "p-010"
+        },
+        {
+          "term": "neutrino",
+          "paragraph": "p-024"
+        },
+        {
+          "term": "katana",
+          "paragraph": "p-029"
         }
       ],
       "words": 2012,

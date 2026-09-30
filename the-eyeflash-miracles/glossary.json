@@ -340,5 +340,25 @@
       "paragraph": "p-479",
       "index": 0
     }
+  },
+  {
+    "id": "pawl",
+    "term": "pawl",
+    "aliases": [],
+    "short": "A catch that prevents backward motion.",
+    "note": "A pivoting catch that engages the teeth or notches of a wheel, allowing motion in one direction and blocking the reverse.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pawl",
+        "label": "Merriam-Webster: pawl"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-248",
+      "index": 0
+    }
   }
 ]

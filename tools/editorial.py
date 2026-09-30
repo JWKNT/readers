@@ -61,8 +61,35 @@ def text(source):
 
 
 def restore(source):
-    return re.sub(r'<span class="text-fix" data-correction="[^"]+" data-original="([^"]*)">[^<]*</span>',
-                  lambda m: escape(unescape(m[1]), quote=False), source)
+    source=re.sub(r'<span class="text-fix" data-correction="[^"]+" data-original="([^"]*)">[^<]*</span>',
+                  lambda m: escape(unescape(m[1]),quote=False),source)
+    if 'data-correction=' not in source:return source
+    class OriginalSpans(HTMLParser):
+        def __init__(self):
+            super().__init__(convert_charrefs=False)
+            self.lines=[0]+[m.end() for m in re.finditer('\n',source)]
+            self.spans=[];self.patches=[];self.feed(source)
+
+        def position(self):
+            line,column=self.getpos();return self.lines[line-1]+column
+
+        def handle_starttag(self, tag, attrs):
+            if tag=='span':self.spans.append((self.position(),dict(attrs)))
+
+        def handle_endtag(self, tag):
+            if tag=='span':
+                start,attrs=self.spans.pop()
+                if attrs.get('data-correction') and 'data-original' in attrs:
+                    self.patches.append((start,self.position()+len('</span>'),escape(attrs['data-original'],quote=False)))
+
+    patches=OriginalSpans().patches
+    # Notes may be regenerated inside a repaired fragment. Restore the entire
+    # fragment, including nested annotation markup, without losing its original.
+    selected=[];end=-1
+    for patch in sorted(patches,key=lambda p:(p[0],-p[1])):
+        if patch[0]>=end:selected.append(patch);end=patch[1]
+    for start,end,value in reversed(selected):source=source[:start]+value+source[end:]
+    return source
 
 
 def repair(source, entry):

@@ -12,9 +12,9 @@
   ],
   "totalWords": 2362,
   "defaultChapter": "story",
-  "glossaryCount": 2,
+  "glossaryCount": 3,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "story",
@@ -85,6 +85,10 @@
         {
           "term": "marco-polo",
           "paragraph": "p-003"
+        },
+        {
+          "term": "dummkopf",
+          "paragraph": "p-011"
         }
       ],
       "words": 2362,

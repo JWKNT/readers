@@ -60,5 +60,50 @@
       }
     ],
     "evidence": "er than lingered. The city wall was complete on three sides, with its merloned towers in repair, and the cobbled streets surely dated from a period when wheeled traffic"
+  },
+  {
+    "id": "bordels",
+    "term": "bordels",
+    "aliases": [],
+    "short": "Brothels; an archaic term.",
+    "note": "An old word for houses of prostitution, related to the French bordel.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bordel",
+        "label": "Merriam-Webster: bordels"
+      }
+    ],
+    "evidence": "story/p-001: rses and dogs and the excitement of the chase than in the bottles and bordels of city life, and wore a beard and mustache of the style popularized by the late emperor. Accepting"
+  },
+  {
+    "id": "descant",
+    "term": "descant",
+    "aliases": [],
+    "short": "A high melody above another tune.",
+    "note": "A counter-melody sung above a main melody.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/descant",
+        "label": "Merriam-Webster: descant"
+      }
+    ],
+    "evidence": "story/p-022: ng down the gray rocks of the Alps. I fell asleep that night with the descant of that icy purity sounding through the plainsong of the rails, and I woke in the station of I——, t"
+  },
+  {
+    "id": "plainsong",
+    "term": "plainsong",
+    "aliases": [],
+    "short": "Unison Christian liturgical chant.",
+    "note": "Church chant consisting of a single melodic line in free rhythm.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/plainsong",
+        "label": "Merriam-Webster: plainsong"
+      }
+    ],
+    "evidence": "story/p-022: p that night with the descant of that icy purity sounding through the plainsong of the rails, and I woke in the station of I——, the old capital of J——, now a province of K——."
   }
 ]

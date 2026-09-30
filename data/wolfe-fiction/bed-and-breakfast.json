@@ -120,5 +120,65 @@
       }
     ],
     "evidence": "ere talking about the inscription Dante reported. I believe it ended: Lasciate ogni speranza, voi ch’entrate! ‘Leave all hope, you that enter!’ ” “I said I wouldn’t lie. It’s not ve"
+  },
+  {
+    "id": "ablutions",
+    "term": "ablutions",
+    "aliases": [],
+    "short": "Washing or bathing oneself.",
+    "note": "Formal language for washing the body.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ablution",
+        "label": "Merriam-Webster: ablutions"
+      }
+    ],
+    "evidence": "story/p-159: h my mind as I waited in our darkened bedroom for her to complete her ablutions, I shall say little here; perhaps I should say nothing. I shot the night bolt, switched off the lig"
+  },
+  {
+    "id": "aureole",
+    "term": "aureole",
+    "aliases": [],
+    "short": "A halo or halo-like ring.",
+    "note": "A ring like the radiance painted around a sacred figure; a halo or similar surrounding ring.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/aureole",
+        "label": "Merriam-Webster: aureole"
+      }
+    ],
+    "evidence": "story/p-167: rged from the bathroom, lying upon her back, her hair a damp-darkened aureole about her head and her arms above the quilt. I circled the bed and slid in."
+  },
+  {
+    "id": "probity",
+    "term": "probity",
+    "aliases": [],
+    "short": "Honesty and moral integrity.",
+    "note": "Uprightness of character, especially reliable honesty and trustworthiness.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/probity",
+        "label": "Merriam-Webster: probity"
+      }
+    ],
+    "evidence": "story/p-156: urage. I wish that you exhibited equal penetration with respect to my probity. I lie only when forced to, and badly as a rule, and my word is as good as any man’s. I will keep a"
+  },
+  {
+    "id": "percipient",
+    "term": "percipient",
+    "aliases": [],
+    "short": "Perceptive; discerning.",
+    "note": "Quick to understand or perceive another person’s feelings or a situation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/percipient",
+        "label": "Merriam-Webster: percipient"
+      }
+    ],
+    "evidence": "story/p-206:  even I realized she was about to cry. I hugged her, perhaps the most percipient thing I have ever done."
   }
 ]

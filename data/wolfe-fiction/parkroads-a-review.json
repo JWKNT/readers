@@ -58,5 +58,35 @@
       }
     ],
     "evidence": "deed it is). They continue eastward, hitching rides with disappointed Okies returning to the Dust Bowl. In New York (these are the episodes recently completed in Bel"
+  },
+  {
+    "id": "indefectible",
+    "term": "indefectible",
+    "aliases": [],
+    "short": "Unfailing; not subject to decay.",
+    "note": "Incapable of failing or wearing out.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/indefectible",
+        "label": "Merriam-Webster: indefectible"
+      }
+    ],
+    "evidence": "story/p-008: ing Calm but bequeaths to her descendants a yearning irresistible and indefectible."
+  },
+  {
+    "id": "scullions",
+    "term": "scullions",
+    "aliases": [],
+    "short": "Kitchen servants.",
+    "note": "Helpers doing basic kitchen work, especially cleaning pots and dishes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/scullion",
+        "label": "Merriam-Webster: scullions"
+      }
+    ],
+    "evidence": "story/p-006:  to Wuhan, Nanjing, and eventually Peking (Beijing). While working as scullions in the famous Sick Duck, they encounter a wily junk captain who promises to transport them to Golde"
   }
 ]

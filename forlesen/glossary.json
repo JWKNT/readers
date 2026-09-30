@@ -18,5 +18,67 @@
       "paragraph": "p-297",
       "index": 0
     }
+  },
+  {
+    "id": "oakum",
+    "term": "oakum",
+    "aliases": [],
+    "short": "Tarred fibers used to seal seams.",
+    "note": "Loose hemp or jute fibers impregnated with tar, packed into joints or a wooden ship’s seams to make them watertight.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/oakum",
+        "label": "Merriam-Webster: oakum"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-321",
+      "index": 0
+    }
+  },
+  {
+    "id": "keypunch",
+    "term": "keypunch",
+    "aliases": [
+      "keypunching"
+    ],
+    "short": "A keyboard-operated punched-card machine.",
+    "note": "A device that records data by punching holes into cards; keypunching is entering data this way.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/keypunch",
+        "label": "Merriam-Webster: keypunch"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-231",
+      "index": 0
+    }
+  },
+  {
+    "id": "cruet",
+    "term": "cruet",
+    "aliases": [],
+    "short": "A small bottle, usually for oil or vinegar.",
+    "note": "A small vessel normally used for table condiments, or for wine and water in the Eucharist.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cruet",
+        "label": "Merriam-Webster: cruet"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-446",
+      "index": 0
+    }
   }
 ]

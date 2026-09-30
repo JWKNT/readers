@@ -160,5 +160,85 @@
       "paragraph": "p-252",
       "index": 0
     }
+  },
+  {
+    "id": "ablutions",
+    "term": "ablutions",
+    "aliases": [],
+    "short": "Washing or bathing oneself.",
+    "note": "Formal language for washing the body.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ablution",
+        "label": "Merriam-Webster: ablutions"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-159",
+      "index": 0
+    }
+  },
+  {
+    "id": "aureole",
+    "term": "aureole",
+    "aliases": [],
+    "short": "A halo or halo-like ring.",
+    "note": "A ring like the radiance painted around a sacred figure; a halo or similar surrounding ring.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/aureole",
+        "label": "Merriam-Webster: aureole"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-167",
+      "index": 0
+    }
+  },
+  {
+    "id": "probity",
+    "term": "probity",
+    "aliases": [],
+    "short": "Honesty and moral integrity.",
+    "note": "Uprightness of character, especially reliable honesty and trustworthiness.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/probity",
+        "label": "Merriam-Webster: probity"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-156",
+      "index": 0
+    }
+  },
+  {
+    "id": "percipient",
+    "term": "percipient",
+    "aliases": [],
+    "short": "Perceptive; discerning.",
+    "note": "Quick to understand or perceive another person’s feelings or a situation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/percipient",
+        "label": "Merriam-Webster: percipient"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-206",
+      "index": 0
+    }
   }
 ]

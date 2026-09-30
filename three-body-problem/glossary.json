@@ -1822,5 +1822,399 @@
       "paragraph": "p-061",
       "index": 32
     }
+  },
+  {
+    "id": "ephemeris",
+    "term": "ephemeris",
+    "aliases": [],
+    "short": "A table of celestial positions at specified times.",
+    "note": "An astronomical table giving the calculated positions of a planet, Moon, or other celestial body at successive times. The plural is ephemerides.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ephemeris",
+        "label": "Merriam-Webster: ephemeris"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-29",
+      "paragraph": "p-017",
+      "index": 21
+    }
+  },
+  {
+    "id": "bandolier",
+    "term": "bandolier",
+    "aliases": [
+      "bandoliers"
+    ],
+    "short": "A shoulder belt for carrying ammunition.",
+    "note": "A belt worn diagonally across the chest, with loops or pouches for cartridges or other equipment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bandolier",
+        "label": "Merriam-Webster: bandolier"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-06",
+      "paragraph": "p-026",
+      "index": 0
+    }
+  },
+  {
+    "id": "chiton",
+    "term": "chiton",
+    "aliases": [
+      "chitons"
+    ],
+    "short": "A draped garment worn in ancient Greece.",
+    "note": "A tunic-like garment of ancient Greece, usually reaching the knees on men and the feet on women.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chiton",
+        "label": "Merriam-Webster: chiton"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-21",
+      "paragraph": "p-008",
+      "index": 14
+    }
+  },
+  {
+    "id": "cupronickel",
+    "term": "cupronickel",
+    "aliases": [],
+    "short": "An alloy of copper and nickel.",
+    "note": "A metal alloy combining copper with nickel.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cupronickel",
+        "label": "Merriam-Webster: cupronickel"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-33",
+      "paragraph": "p-028",
+      "index": 25
+    }
+  },
+  {
+    "id": "armillary-spheres",
+    "term": "armillary spheres",
+    "aliases": [
+      "armillary sphere"
+    ],
+    "short": "Ring-shaped models of the heavens.",
+    "note": "Astronomical instruments made from rings representing important circles of the celestial sphere, such as the equator and ecliptic.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/armillary%20sphere",
+        "label": "Merriam-Webster: armillary sphere"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-009",
+      "index": 10
+    }
+  },
+  {
+    "id": "geiger-counter",
+    "term": "Geiger counter",
+    "aliases": [
+      "Geiger counters"
+    ],
+    "short": "An instrument for detecting ionizing radiation.",
+    "note": "A detector in which radiation ionizes gas inside a tube, producing electrical pulses that can be counted and displayed or heard.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Geiger%20counter",
+        "label": "Merriam-Webster: Geiger counter"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-06",
+      "paragraph": "p-084",
+      "index": 0
+    }
+  },
+  {
+    "id": "esperanto",
+    "term": "Esperanto",
+    "aliases": [],
+    "short": "A constructed language for international communication.",
+    "note": "An international auxiliary language devised by L. L. Zamenhof, drawing much of its vocabulary from European languages.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Esperanto",
+        "label": "Merriam-Webster: Esperanto"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-19",
+      "paragraph": "p-062",
+      "index": 12
+    }
+  },
+  {
+    "id": "doppler-effect",
+    "term": "Doppler effect",
+    "aliases": [],
+    "short": "A frequency shift caused by relative motion.",
+    "note": "The change in observed frequency when a wave source and observer move relative to one another. Approaching light shifts toward blue; receding light shifts toward red.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Doppler%20effect",
+        "label": "Merriam-Webster: Doppler effect"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-15",
+      "paragraph": "p-017",
+      "index": 8
+    }
+  },
+  {
+    "id": "bolshevik",
+    "term": "Bolshevik",
+    "aliases": [],
+    "short": "A member of the Russian revolutionary Communist faction.",
+    "note": "A member of the faction of the Russian Social Democratic movement that seized power in 1917.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Bolshevik",
+        "label": "Merriam-Webster: Bolshevik"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-06",
+      "paragraph": "p-026",
+      "index": 0
+    }
+  },
+  {
+    "id": "romanesque",
+    "term": "Romanesque",
+    "aliases": [],
+    "short": "Medieval architecture characterized by rounded arches.",
+    "note": "A western European architectural style preceding Gothic, associated especially with rounded arches, vaulting, substantial piers, and arcades.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Romanesque",
+        "label": "Merriam-Webster: Romanesque"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-15",
+      "paragraph": "p-093",
+      "index": 8
+    }
+  },
+  {
+    "id": "mobius-strip",
+    "term": "Möbius strip",
+    "aliases": [],
+    "short": "A one-sided surface formed by a half-twisted band.",
+    "note": "A strip joined end to end after giving it a half-turn. It has one continuous side and one boundary edge.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathworld.wolfram.com/MoebiusStrip.html",
+        "label": "Wolfram MathWorld: Möbius Strip"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-40",
+      "paragraph": "p-070",
+      "index": 32
+    }
+  },
+  {
+    "id": "leibniz",
+    "term": "Leibniz",
+    "aliases": [],
+    "short": "Gottfried Wilhelm Leibniz, philosopher and mathematician.",
+    "note": "The German polymath (1646–1716) developed infinitesimal calculus and mechanical calculating machines.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.uni-hannover.de/en/universitaet/profil/leibniz/lebenslauf",
+        "label": "Leibniz University Hannover: life and work"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-23",
+      "paragraph": "p-007",
+      "index": 16
+    }
+  },
+  {
+    "id": "solenoid",
+    "term": "solenoid",
+    "aliases": [
+      "solenoids"
+    ],
+    "short": "A coil that acts as an electromagnet.",
+    "note": "A coil of wire, usually cylindrical, that produces a magnetic field when current passes through it; such coils can operate mechanical switches and valves.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/solenoid",
+        "label": "Merriam-Webster: solenoid"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-10",
+      "paragraph": "p-070",
+      "index": 3
+    }
+  },
+  {
+    "id": "non-sequitur",
+    "term": "non sequitur",
+    "aliases": [
+      "non sequiturs"
+    ],
+    "short": "A statement that does not logically follow.",
+    "note": "Latin for “it does not follow”: an inference unsupported by its premises, or a remark disconnected from what preceded it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/non%20sequitur",
+        "label": "Merriam-Webster: non sequitur"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-12",
+      "paragraph": "p-073",
+      "index": 5
+    }
+  },
+  {
+    "id": "firmament",
+    "term": "firmament",
+    "aliases": [],
+    "short": "The sky imagined as a great overarching vault.",
+    "note": "A literary word for the heavens or apparent arch of the sky.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/firmament",
+        "label": "Merriam-Webster: firmament"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-40",
+      "paragraph": "p-070",
+      "index": 32
+    }
+  },
+  {
+    "id": "pinyin",
+    "term": "pinyin",
+    "aliases": [],
+    "short": "The Roman-letter spelling system for Mandarin Chinese.",
+    "note": "A system for writing Chinese pronunciation with the Latin alphabet, using accent marks to indicate tones.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pinyin",
+        "label": "Merriam-Webster: pinyin"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-14",
+      "paragraph": "p-027",
+      "index": 7
+    }
+  },
+  {
+    "id": "kang",
+    "term": "kang",
+    "aliases": [],
+    "short": "A heated masonry sleeping platform.",
+    "note": "A brick platform traditionally used for sleeping in northern Chinese homes, warmed by a fire or hot flue gases beneath it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/kang",
+        "label": "Merriam-Webster: kang"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "section-33",
+      "paragraph": "p-030",
+      "index": 25
+    }
+  },
+  {
+    "id": "tori",
+    "term": "tori",
+    "aliases": [],
+    "short": "Doughnut-shaped surfaces or bodies.",
+    "note": "The plural of torus: a ring-shaped surface made by revolving a circle around an axis outside it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/torus",
+        "label": "Merriam-Webster: torus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-40",
+      "paragraph": "p-070",
+      "index": 32
+    }
+  },
+  {
+    "id": "klaxons",
+    "term": "klaxons",
+    "aliases": [
+      "klaxon"
+    ],
+    "short": "Loud electric warning horns.",
+    "note": "Electrically operated horns or alarms. Klaxon was originally a trademark.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/klaxon",
+        "label": "Merriam-Webster: Klaxon"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-065",
+      "index": 2
+    }
   }
 ]

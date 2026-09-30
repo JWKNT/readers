@@ -38,5 +38,45 @@
       "paragraph": "p-012",
       "index": 0
     }
+  },
+  {
+    "id": "fencible",
+    "term": "fencible",
+    "aliases": [],
+    "short": "Serving in a home-defense force.",
+    "note": "A historical term for a soldier enlisted for the immediate defense of the homeland rather than general overseas service.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/fencible",
+        "label": "Dictionary.com · fencible"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-012",
+      "index": 0
+    }
+  },
+  {
+    "id": "crewel",
+    "term": "crewel",
+    "aliases": [],
+    "short": "Embroidery worked with wool yarn.",
+    "note": "A loosely twisted worsted wool yarn used for embroidery; also the decorative needlework made with it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/crewel",
+        "label": "Dictionary.com · crewel"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-012",
+      "index": 0
+    }
   }
 ]

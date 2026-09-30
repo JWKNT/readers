@@ -187,5 +187,105 @@
       "paragraph": "p-031",
       "index": 0
     }
+  },
+  {
+    "id": "cynosure",
+    "term": "cynosure",
+    "aliases": [],
+    "short": "The center of everyone’s attention.",
+    "note": "A person or object that draws all eyes through its brilliance, beauty, or conspicuousness; also something that serves as a guide.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/cynosure",
+        "label": "Dictionary.com · cynosure"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-003",
+      "index": 0
+    }
+  },
+  {
+    "id": "flacon",
+    "term": "flacon",
+    "aliases": [],
+    "short": "A small stoppered flask.",
+    "note": "A small bottle or flask closed with a stopper, especially one used for perfume or another precious liquid.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/flacon",
+        "label": "Dictionary.com · flacon"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-006",
+      "index": 0
+    }
+  },
+  {
+    "id": "groats",
+    "term": "groats",
+    "aliases": [],
+    "short": "Hulled grain kernels.",
+    "note": "Grain, such as oats, barley, or buckwheat, with the husks removed, sometimes broken into coarse pieces.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/groats",
+        "label": "Dictionary.com · groats"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
+  },
+  {
+    "id": "pricket",
+    "term": "pricket",
+    "aliases": [],
+    "short": "A pointed candleholder.",
+    "note": "A candlestick fitted with a sharp upright spike on which a candle is fixed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/pricket",
+        "label": "Dictionary.com · pricket"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-013",
+      "index": 0
+    }
+  },
+  {
+    "id": "puissant",
+    "term": "puissant",
+    "aliases": [],
+    "short": "Mighty or powerful.",
+    "note": "An archaic or literary adjective for someone or something possessing great power.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/puissant",
+        "label": "Dictionary.com · puissant"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-009",
+      "index": 0
+    }
   }
 ]

@@ -80,5 +80,25 @@
       "paragraph": "p-074",
       "index": 0
     }
+  },
+  {
+    "id": "sidereal",
+    "term": "sidereal",
+    "aliases": [],
+    "short": "Measured relative to the stars.",
+    "note": "Of or measured with reference to stars and constellations rather than the Sun.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sidereal",
+        "label": "Merriam-Webster: sidereal"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-057",
+      "index": 0
+    }
   }
 ]

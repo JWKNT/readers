@@ -18,9 +18,9 @@
   ],
   "totalWords": 6933,
   "defaultChapter": "story",
-  "glossaryCount": 4,
+  "glossaryCount": 7,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "story",
@@ -228,6 +228,18 @@
       "headingNoteAnchors": [],
       "headingHtml": "The Detective of Dreams",
       "noteAnchors": [
+        {
+          "term": "bordels",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "descant",
+          "paragraph": "p-022"
+        },
+        {
+          "term": "plainsong",
+          "paragraph": "p-022"
+        },
         {
           "term": "merloned",
           "paragraph": "p-023"

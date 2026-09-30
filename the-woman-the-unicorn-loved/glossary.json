@@ -161,5 +161,25 @@
       "paragraph": "p-148",
       "index": 0
     }
+  },
+  {
+    "id": "guidon",
+    "term": "guidon",
+    "aliases": [],
+    "short": "A small flag or streamer.",
+    "note": "A small military flag used to identify, guide, or signal a unit; the word can also designate its bearer.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/guidon",
+        "label": "Dictionary.com · guidon"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-003",
+      "index": 0
+    }
   }
 ]

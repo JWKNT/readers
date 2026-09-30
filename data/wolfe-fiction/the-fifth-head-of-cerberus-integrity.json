@@ -1,13 +1,13 @@
 {
   "book": "the-fifth-head-of-cerberus",
   "sourceFiles": {
-    "fifth-head": {
-      "file": "_OceanofPDF.com_The_Fifth_Head_of_Cerberus_-_Gene_Wolfe.epub",
-      "sha256": "979899f9993ed528e1f230590b52b425f4331c960b996b0133a091aaeeb4b883"
-    },
     "best": {
       "file": "_OceanofPDF.com_The_Best_of_Gene_Wolfe_A_Definitive_Retrospective_of_His_Finest_Short_Fiction_-_Gene_Wolfe.epub",
       "sha256": "2f72b914961e311c7d12bfc81fe6c39f2138e087c0daca32f8e717a195f8b664"
+    },
+    "fifth-head": {
+      "file": "_OceanofPDF.com_The_Fifth_Head_of_Cerberus_-_Gene_Wolfe.epub",
+      "sha256": "979899f9993ed528e1f230590b52b425f4331c960b996b0133a091aaeeb4b883"
     }
   },
   "chapters": [

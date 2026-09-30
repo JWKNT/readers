@@ -43,5 +43,50 @@
       }
     ],
     "evidence": "c32: d under the vault; he said maybe it was a god like the one that the Bible calls Moloch, or Ansenef, the blood-drinker from Egypt.” Garcia said, “The husband was the lord of this castle?” “Sometimes. Sometimes his father’s ghos"
+  },
+  {
+    "id": "cadent",
+    "term": "cadent",
+    "aliases": [],
+    "short": "Rhythmic; having a measured cadence.",
+    "note": "Having a regular or expressive rhythmic rise and fall, especially of sound or speech.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/cadent",
+        "label": "Dictionary.com · cadent"
+      }
+    ],
+    "evidence": "story/p-003: e leaned forward, listening intently to Garcia, whose slow, cadent voice made itself heard without difficulty above the keening of the wind outside."
+  },
+  {
+    "id": "pitons",
+    "term": "pitons",
+    "aliases": [],
+    "short": "Metal spikes used to secure climbing ropes.",
+    "note": "Metal spikes driven into rock cracks or ice, with an eye through which a rope or connecting fitting can be attached.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/piton",
+        "label": "Dictionary.com · piton"
+      }
+    ],
+    "evidence": "story/p-106:  its history. They hadn’t had to climb the way we did, with pitons and so forth; there had been a path up the side of the cliff."
+  },
+  {
+    "id": "thermosetting",
+    "term": "thermosetting",
+    "aliases": [],
+    "short": "Hardening permanently when cured.",
+    "note": "Describes a plastic or resin that hardens permanently on curing and cannot subsequently be remolded by warming.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/thermosetting",
+        "label": "Dictionary.com · thermosetting"
+      }
+    ],
+    "evidence": "story/p-017: of as though he saw a nearly forgotten face among its green thermosetting corrugations. “He was a big redhead; they were both redheads. Is there a thing about wome"
   }
 ]

@@ -18,9 +18,9 @@
   ],
   "totalWords": 6448,
   "defaultChapter": "story",
-  "glossaryCount": 2,
+  "glossaryCount": 5,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "story",
@@ -172,6 +172,18 @@
         {
           "term": "hunting-song-of-the-seeonee-pack",
           "paragraph": "p-006"
+        },
+        {
+          "term": "interstices",
+          "paragraph": "p-017"
+        },
+        {
+          "term": "intellection",
+          "paragraph": "p-019"
+        },
+        {
+          "term": "cephalopods",
+          "paragraph": "p-115"
         },
         {
           "term": "tarsus",

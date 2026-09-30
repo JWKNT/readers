@@ -40,5 +40,25 @@
       "paragraph": "p-060",
       "index": 0
     }
+  },
+  {
+    "id": "sintered",
+    "term": "sintered",
+    "aliases": [],
+    "short": "Bonded from particles by heat or pressure.",
+    "note": "Made by consolidating powdered material into a solid mass using heat, pressure, or both.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/sinter",
+        "label": "Dictionary.com · sinter"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-059",
+      "index": 0
+    }
   }
 ]

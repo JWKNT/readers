@@ -255,5 +255,20 @@
       }
     ],
     "evidence": "d are licked to life afterward by the lioness. In the writings of Sir C. S. Lewis a lion is used in that way, and in the prayers revealed to Saint Bridget of Sweden the Ch"
+  },
+  {
+    "id": "pawl",
+    "term": "pawl",
+    "aliases": [],
+    "short": "A catch that prevents backward motion.",
+    "note": "A pivoting catch that engages the teeth or notches of a wheel, allowing motion in one direction and blocking the reverse.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pawl",
+        "label": "Merriam-Webster: pawl"
+      }
+    ],
+    "evidence": "story/p-248: it, and Little Tib used it to wind the moving action, hearing a heavy pawl clack inside the copper man each time he turned the key. “That’s enough,” the copper man said. Litt"
   }
 ]

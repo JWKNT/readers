@@ -238,5 +238,25 @@
       "paragraph": "p-024",
       "index": 0
     }
+  },
+  {
+    "id": "umber",
+    "term": "umber",
+    "aliases": [],
+    "short": "A dark yellowish-brown color.",
+    "note": "A brown earth pigment containing iron and manganese oxides, or its characteristic brown color.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/umber",
+        "label": "Merriam-Webster: umber"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-002",
+      "index": 0
+    }
   }
 ]

@@ -12,9 +12,9 @@
   ],
   "totalWords": 18202,
   "defaultChapter": "story",
-  "glossaryCount": 6,
+  "glossaryCount": 10,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "story",
@@ -691,6 +691,14 @@
           "paragraph": "p-022"
         },
         {
+          "term": "photophilous",
+          "paragraph": "p-037"
+        },
+        {
+          "term": "gorget",
+          "paragraph": "p-038"
+        },
+        {
           "term": "dore",
           "paragraph": "p-070"
         },
@@ -703,8 +711,16 @@
           "paragraph": "p-086"
         },
         {
+          "term": "musteline",
+          "paragraph": "p-221"
+        },
+        {
           "term": "dostoevski",
           "paragraph": "p-288"
+        },
+        {
+          "term": "planchette",
+          "paragraph": "p-359"
         }
       ],
       "words": 18202,

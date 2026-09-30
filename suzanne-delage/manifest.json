@@ -12,9 +12,9 @@
   ],
   "totalWords": 2287,
   "defaultChapter": "story",
-  "glossaryCount": 2,
+  "glossaryCount": 4,
   "correctionCount": 0,
-  "editionVersion": 14,
+  "editionVersion": 15,
   "chapters": [
     {
       "id": "story",
@@ -53,6 +53,14 @@
         {
           "term": "hamlet",
           "paragraph": "p-002"
+        },
+        {
+          "term": "crewel",
+          "paragraph": "p-012"
+        },
+        {
+          "term": "fencible",
+          "paragraph": "p-012"
         },
         {
           "term": "zouave",

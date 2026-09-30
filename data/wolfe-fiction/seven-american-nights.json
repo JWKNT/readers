@@ -212,5 +212,140 @@
       }
     ],
     "evidence": "d sagging porticos, and in several places small trees (mostly the sad Carpinus caroliniana, I believe) have rooted in the crevices of walls. Still, if it is true, as has been writt"
+  },
+  {
+    "id": "arrack",
+    "term": "arrack",
+    "aliases": [],
+    "short": "A distilled alcoholic drink.",
+    "note": "A name for strong Asian spirits distilled from fermented ingredients such as palm sap, rice, or molasses.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/arrack",
+        "label": "Merriam-Webster: arrack"
+      }
+    ],
+    "evidence": "story/p-339: can dwelling, put her arms about me. Her breath was fragrant with the arrack I had bought for her a few minutes before. I feel sure now that for the rest of my life that scent "
+  },
+  {
+    "id": "caleches",
+    "term": "caleches",
+    "aliases": [],
+    "short": "Horse-drawn carriages.",
+    "note": "A calèche is a type of horse-drawn carriage, often with a folding hood; the name also denotes a two-wheeled carriage associated with Quebec.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/caleche",
+        "label": "Merriam-Webster: caleches"
+      }
+    ],
+    "evidence": "story/p-286: he eastern end of the Silent City—I hired one of the rickety American caleches to drive us there. Like most of them, it was drawn by a starved horse, but we made good time."
+  },
+  {
+    "id": "chador",
+    "term": "chador",
+    "aliases": [],
+    "short": "A large enveloping head-and-body covering.",
+    "note": "A large cloth worn over the head and around the body, particularly by women in Iran.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chador",
+        "label": "Merriam-Webster: chador"
+      }
+    ],
+    "evidence": "story/p-392: touch with us.” The younger woman paused, smoothing the fabric of her chador with her right hand, while the left toyed with the gem simulator she wore on a thin chain. “It is p"
+  },
+  {
+    "id": "hajji",
+    "term": "Hajji",
+    "aliases": [],
+    "short": "A title for someone who has visited Mecca.",
+    "note": "An honorific for a Muslim who has completed the pilgrimage to Mecca.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hajji",
+        "label": "Merriam-Webster: Hajji"
+      }
+    ],
+    "evidence": "story/p-294: “Do you like it, Hajji? Have you had a pleasant stay in our great country?”"
+  },
+  {
+    "id": "padshah",
+    "term": "Padshah",
+    "aliases": [],
+    "short": "A sovereign or emperor.",
+    "note": "A Persian royal title, also spelled padishah, used for a supreme ruler.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/padishah",
+        "label": "Merriam-Webster: Padshah"
+      }
+    ],
+    "evidence": "story/p-030:  importunities. They offered to show me the former residence of their Padshah, and as an excuse to give them a few coins I accompanied them, making them first pledge to leave me"
+  },
+  {
+    "id": "houris",
+    "term": "houris",
+    "aliases": [],
+    "short": "Beautiful companions in Islamic paradise.",
+    "note": "In traditional descriptions of Islamic paradise, beautiful maidens who dwell with the blessed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/houri",
+        "label": "Merriam-Webster: houris"
+      }
+    ],
+    "evidence": "story/p-239:  the part) detracted from its beauty. This laugh was the merriment of houris sliding down a rainbow. “I’m sure he did. He always needs money. You’re sure, though, that he meant"
+  },
+  {
+    "id": "meretricious",
+    "term": "meretricious",
+    "aliases": [],
+    "short": "Falsely attractive; showy but hollow.",
+    "note": "Offering an appearance of value or respectability without genuine worth; pretentious or insincere.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/meretricious",
+        "label": "Merriam-Webster: meretricious"
+      }
+    ],
+    "evidence": "story/p-289: t appear to me, a foreigner, that her government was less devious and meretricious than is actually the case."
+  },
+  {
+    "id": "ingenue",
+    "term": "ingenue",
+    "aliases": [],
+    "short": "An innocent young woman’s stage role.",
+    "note": "A naïve young female character, or the actress who plays that type of role.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ingenue",
+        "label": "Merriam-Webster: ingenue"
+      }
+    ],
+    "evidence": "story/p-059: that gave me much pleasure were the limping spaceman, Kreton, and the ingenue, Ellen Spelding, played as and by a radiantly beautiful American blonde."
+  },
+  {
+    "id": "terrazzo",
+    "term": "terrazzo",
+    "aliases": [],
+    "short": "Polished flooring made with stone chips.",
+    "note": "Marble or granite fragments embedded in a binding material and polished to form a smooth floor.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/terrazzo",
+        "label": "Merriam-Webster: terrazzo"
+      }
+    ],
+    "evidence": "story/p-044: He tossed down the skull, which shattered on the terrazzo floor, waking a thousand dismal echoes. “No shovel, and few are strong. But come with me.”"
   }
 ]

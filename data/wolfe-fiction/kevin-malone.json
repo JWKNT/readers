@@ -30,5 +30,35 @@
       }
     ],
     "evidence": " at last from week to week. I felt like Klipspringer, the man who was Jay Gatsby’s guest for so long that he had no other home—except that Klipspringer, presumably, saw G"
+  },
+  {
+    "id": "remontant",
+    "term": "remontant",
+    "aliases": [],
+    "short": "Flowering more than once in a season.",
+    "note": "Used of roses and other plants that flower again after their first flush of blooms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/remontant",
+        "label": "Merriam-Webster: remontant"
+      }
+    ],
+    "evidence": "story/p-020: en or so comfortable chairs; it overlooked a rose garden in which old remontant varieties were beginning that second season that is more opulent though less generous than the firs"
+  },
+  {
+    "id": "aspic",
+    "term": "aspic",
+    "aliases": [],
+    "short": "Savory jelly made from stock.",
+    "note": "A clear meat- or fish-stock jelly used to surround or mold cold dishes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/aspic",
+        "label": "Merriam-Webster: aspic"
+      }
+    ],
+    "evidence": "story/p-026:  Dinner was lamb in aspic, and a salad, with a maid—another maid—and a footman to serve while Priest stood by to see that it "
   }
 ]

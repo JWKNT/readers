@@ -48,5 +48,35 @@
       }
     ],
     "evidence": "c27:  Endangered Species Lukora THIS is my report, the report of Meirax Andros, alone. Michael is not with me; Michael may be dead. On 11J89 we chose this site, landed, and set up camp. Here a good-sized stream "
+  },
+  {
+    "id": "ensorceling",
+    "term": "ensorceling",
+    "aliases": [],
+    "short": "Bewitching or enchanting.",
+    "note": "Casting a spell over someone, literally or figuratively; an inflected form of ensorcel, also spelled ensorcell.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/ensorcell",
+        "label": "Dictionary.com · ensorcell"
+      }
+    ],
+    "evidence": "story/p-059: o that you can sleep.” There was an odor of musk, heavy and ensorceling, as warm as breath."
+  },
+  {
+    "id": "freshet",
+    "term": "freshet",
+    "aliases": [],
+    "short": "A freshwater stream.",
+    "note": "A stream of fresh water, especially one flowing into the sea. The word can also mean a sudden swelling or flood of a river.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/freshet",
+        "label": "Dictionary.com · freshet"
+      }
+    ],
+    "evidence": "story/p-033: f that day she pressed forward, stopping only to drink at a freshet that could not have been their stream. She was very tired by then, and she knew that she "
   }
 ]

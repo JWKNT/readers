@@ -60,5 +60,50 @@
     "aliases": [],
     "possible": false,
     "evidence": "Reused previously sourced external note, context checked c13: r chair, with an excitement that was strange to see in one so old and sere. “That’s all right,” Tom told her. “You don’t know what it is to go looking after a daughter at nig"
+  },
+  {
+    "id": "hansoms",
+    "term": "hansoms",
+    "aliases": [],
+    "short": "Two-wheeled horse-drawn cabs.",
+    "note": "Covered cabs drawn by one horse, with passengers in front and a driver seated high behind them. Named for the designer Joseph Hansom.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/hansom",
+        "label": "Dictionary.com · hansom"
+      }
+    ],
+    "evidence": "story/p-004: or one of those useful but wildly mis-named vehicles called hansoms blocked his view of it."
+  },
+  {
+    "id": "costermongers",
+    "term": "costermongers",
+    "aliases": [],
+    "short": "Street sellers of food from carts or stalls.",
+    "note": "Hawkers selling fruit, vegetables, fish, and similar provisions, commonly from a barrow or cart in the street.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/costermonger",
+        "label": "Dictionary.com · costermonger"
+      }
+    ],
+    "evidence": "story/p-004: rest whatsoever in the carters and peddlers and porters and costermongers passing up and down our street, however fascinating this gentry seemed to me. He was look"
+  },
+  {
+    "id": "duenna",
+    "term": "duenna",
+    "aliases": [],
+    "short": "An older female chaperon.",
+    "note": "In Spanish and Portuguese usage, an older woman employed to supervise or accompany a young woman; also a governess.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/duenna",
+        "label": "Dictionary.com · duenna"
+      }
+    ],
+    "evidence": "story/p-032: r it to keep off the rain; so that he looked like a Spanish duenna in a play."
   }
 ]
