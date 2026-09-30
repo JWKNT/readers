@@ -144,62 +144,55 @@ button { font-family: var(--sans); font-size: var(--text-ui); }
 button:hover:not(:disabled) { border-color: var(--ink); background: var(--surface); }
 button[aria-pressed="true"] { border-color: var(--blue); background: var(--surface-blue); color: var(--blue-dark); }
 button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible, summary:focus-visible, a:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; }
-.theme-toggle { flex: none; min-width: 1.95rem; min-height: 1.8rem; margin-left: .2rem; padding: .15rem .45rem; font: 1rem/1 var(--display); }
+/* An ink-and-paper dial: no visible label or enclosing badge. Its quiet
+   diagonal follows the site's ruled ornaments; the full square is a hit target. */
+.theme-toggle { flex: none; margin-left: .2rem; }
 [data-theme-toggle].theme-toggle {
   position: relative;
   display: inline-grid;
-  width: 2.15rem;
-  height: 2.15rem;
-  min-width: 2.15rem;
-  min-height: 2.15rem;
-  padding: 0;
   place-items: center;
-  overflow: hidden;
+  width: 2.75rem;
+  height: 2.75rem;
+  min-width: 2.75rem;
+  min-height: 2.75rem;
+  padding: 0;
+  overflow: visible;
   border: 1px solid transparent;
-  border-radius: 50%;
+  border-radius: 0;
   background: transparent;
   color: var(--muted-strong);
   font-size: 0;
   line-height: 0;
   cursor: pointer;
-  transition: border-color .18s ease, background-color .18s ease, color .18s ease, box-shadow .18s ease;
-}
-[data-theme-toggle].theme-toggle::before,
-[data-theme-toggle].theme-toggle::after {
-  position: absolute;
-  content: "";
+  box-shadow: none;
+  transition: color .15s ease, border-color .15s ease;
 }
 [data-theme-toggle].theme-toggle::before {
-  z-index: 1;
-  width: 1.12rem;
-  height: 1.12rem;
+  content: "";
+  width: 1.6rem;
+  height: 1.6rem;
   background: currentColor;
-  -webkit-mask: url("icons/theme-moon.svg") center / contain no-repeat;
-  mask: url("icons/theme-moon.svg") center / contain no-repeat;
-  transition: transform .28s cubic-bezier(.2, .75, .25, 1);
-}
-[data-theme-toggle].theme-toggle::after {
-  width: 1.68rem;
-  height: 1.68rem;
-  border: 1px solid var(--line);
-  border-radius: 50%;
-  transition: border-color .18s ease, transform .28s cubic-bezier(.2, .75, .25, 1);
+  -webkit-mask: url("icons/theme-dial-dark.svg") center / contain no-repeat;
+  mask: url("icons/theme-dial-dark.svg") center / contain no-repeat;
 }
 [data-theme-toggle][data-theme-target="light"].theme-toggle::before {
-  -webkit-mask-image: url("icons/theme-sun.svg");
-  mask-image: url("icons/theme-sun.svg");
+  -webkit-mask-image: url("icons/theme-dial-light.svg");
+  mask-image: url("icons/theme-dial-light.svg");
 }
 [data-theme-toggle].theme-toggle[aria-pressed="true"] { border-color: transparent; background: transparent; color: var(--muted-strong); }
 [data-theme-toggle].theme-toggle:hover:not(:disabled) {
-  border-color: var(--line-strong);
-  background: var(--surface);
+  border-color: transparent;
+  border-bottom-color: var(--line-strong);
+  background: transparent;
   color: var(--ink);
-  box-shadow: 0 .15rem .75rem var(--shadow-soft);
 }
-[data-theme-toggle].theme-toggle:hover::before { transform: rotate(12deg) scale(1.04); }
-[data-theme-toggle].theme-toggle:hover::after { border-color: var(--line-strong); transform: scale(1.05); }
-[data-theme-toggle].theme-toggle:active::before { transform: scale(.9); }
-.theme-toggle--floating { position: fixed; top: .75rem; right: 1rem; z-index: 100; box-shadow: 0 .15rem .8rem var(--shadow-soft); }
+[data-theme-toggle].theme-toggle:active:not(:disabled) { color: var(--muted); }
+[data-theme-toggle].theme-toggle--floating { position: fixed; top: .75rem; right: 1rem; z-index: 100; background: var(--paper); }
+[data-theme-toggle].theme-toggle--floating:hover:not(:disabled),
+[data-theme-toggle].theme-toggle--floating[aria-pressed="true"] { background: var(--paper); }
+@media (forced-colors: active) {
+  [data-theme-toggle].theme-toggle::before { background: ButtonText; forced-color-adjust: none; }
+}
 
 details { border-top: 1px solid var(--line); }
 summary { padding: .55rem 0; color: var(--blue); cursor: pointer; font-size: var(--text-ui); }
@@ -224,13 +217,11 @@ th { color: var(--muted-strong); font: 600 var(--text-ui)/1.4 var(--sans); }
 @media (pointer: coarse) {
   :root { --control-size: 2.75rem; }
   .site-header nav a, .site-nav a, .section-index a { display: inline-flex; align-items: center; min-height: 2.75rem; }
-  [data-theme-toggle].theme-toggle { width: 2.75rem; height: 2.75rem; }
 }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   [data-theme-toggle].theme-toggle,
-  [data-theme-toggle].theme-toggle::before,
-  [data-theme-toggle].theme-toggle::after { transition: none; }
+  [data-theme-toggle].theme-toggle::before { transition: none; }
 }
 @media print {
   :root, :root[data-theme="dark"] {
