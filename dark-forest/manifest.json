@@ -37,7 +37,7 @@
   ],
   "totalWords": 186717,
   "defaultChapter": "section-05",
-  "glossaryCount": 82,
+  "glossaryCount": 94,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -1981,6 +1981,10 @@
           "paragraph": "p-852"
         },
         {
+          "term": "cheshire-cat",
+          "paragraph": "p-852"
+        },
+        {
           "term": "dag-hammarskjold",
           "paragraph": "p-878"
         },
@@ -2039,6 +2043,10 @@
         {
           "term": "bainbridge",
           "paragraph": "p-1194"
+        },
+        {
+          "term": "spinnaker",
+          "paragraph": "p-1388"
         },
         {
           "term": "foundation",
@@ -2588,6 +2596,10 @@
         {
           "term": "mona-lisa",
           "paragraph": "p-132"
+        },
+        {
+          "term": "tomography",
+          "paragraph": "p-140"
         },
         {
           "term": "von-neumann",
@@ -3347,6 +3359,10 @@
           "paragraph": "p-122"
         },
         {
+          "term": "protium",
+          "paragraph": "p-247"
+        },
+        {
           "term": "deuterium",
           "paragraph": "p-247"
         },
@@ -3357,6 +3373,10 @@
         {
           "term": "sunspots",
           "paragraph": "p-251"
+        },
+        {
+          "term": "heliophobia",
+          "paragraph": "p-259"
         },
         {
           "term": "photosphere",
@@ -5171,6 +5191,14 @@
           "paragraph": "p-173"
         },
         {
+          "term": "timothy-leary",
+          "paragraph": "p-221"
+        },
+        {
+          "term": "pangu",
+          "paragraph": "p-289"
+        },
+        {
           "term": "nuclear-fusion",
           "paragraph": "p-293"
         },
@@ -5223,8 +5251,20 @@
           "paragraph": "p-914"
         },
         {
+          "term": "antimatter",
+          "paragraph": "p-929"
+        },
+        {
+          "term": "stonehenge",
+          "paragraph": "p-932"
+        },
+        {
           "term": "west-lake",
           "paragraph": "p-977"
+        },
+        {
+          "term": "gulliver",
+          "paragraph": "p-1004"
         },
         {
           "term": "2001-a-space-odyssey",
@@ -5247,8 +5287,16 @@
           "paragraph": "p-1163"
         },
         {
+          "term": "good-bye-lenin",
+          "paragraph": "p-1163"
+        },
+        {
           "term": "anthropic-principle",
           "paragraph": "p-1193"
+        },
+        {
+          "term": "infrasonic",
+          "paragraph": "p-1349"
         },
         {
           "term": "lagrange-points",
@@ -5393,6 +5441,10 @@
         {
           "term": "tonkaya-ryabina",
           "paragraph": "p-011"
+        },
+        {
+          "term": "stonehenge",
+          "paragraph": "p-032"
         },
         {
           "term": "oort-cloud",

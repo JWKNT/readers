@@ -253,5 +253,20 @@
       }
     ],
     "evidence": "story/p-004:  and fully in keeping with that noble spirit of self-sacrifice and—ah—noblesse oblige we have always sought to foster among our tenured faculty. And may I ask just what the subject of y"
+  },
+  {
+    "id": "thule",
+    "term": "Thule",
+    "aliases": [],
+    "short": "The ancient world’s farthest northern land.",
+    "note": "A name in classical geography for the northernmost inhabited region of the known world.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/thule",
+        "label": "Merriam-Webster: Thule"
+      }
+    ],
+    "evidence": "story/p-023:                                                           Of farthest Thule, and the Atlantic surge"
   }
 ]

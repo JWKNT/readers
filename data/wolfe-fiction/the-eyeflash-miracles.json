@@ -270,5 +270,35 @@
       }
     ],
     "evidence": "story/p-248: it, and Little Tib used it to wind the moving action, hearing a heavy pawl clack inside the copper man each time he turned the key. “That’s enough,” the copper man said. Litt"
+  },
+  {
+    "id": "the-procurator-of-judea",
+    "term": "The Procurator of Judea",
+    "aliases": [],
+    "short": "A story by Anatole France about Pontius Pilate.",
+    "note": "Anatole France’s short story in which the retired Roman governor Pontius Pilate recalls his service in Judea.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/58967/pg58967.html",
+        "label": "Anatole France: The Procurator of Judea"
+      }
+    ],
+    "evidence": "story/p-002: —ANATOLE FRANCE,The Procurator of Judea"
+  },
+  {
+    "id": "kirlian-auras",
+    "term": "Kirlian auras",
+    "aliases": [],
+    "short": "Glowing outlines in electrical-discharge photographs.",
+    "note": "Kirlian photography records corona discharges around objects subjected to high voltage. A 1976 study found that moisture accounted for much of the variation in images of living subjects.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.iumab.org/image-modulation-in-corona-discharge-photography/",
+        "label": "Pehek, Kyler, and Faust: Image modulation in corona discharge photography (reprinted abstract)"
+      }
+    ],
+    "evidence": "story/p-693: peculiarities, since such people notoriously see phenomena, like Kirlian auras, that are invisible to normal sight. The central data bank was given the capability of detecting su"
   }
 ]

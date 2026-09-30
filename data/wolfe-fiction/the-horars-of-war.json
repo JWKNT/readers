@@ -45,5 +45,20 @@
       }
     ],
     "evidence": "story/p-059: uld flatten saplings and bamboo. Yet resilient organics and sintered metals had turned the rumble of the old, manned tanks to a soft hiss for Pinocchio. Where"
+  },
+  {
+    "id": "shillelagh",
+    "term": "Shillelagh",
+    "aliases": [],
+    "short": "An American gun-launched antitank missile.",
+    "note": "The Shillelagh was an infrared-guided antitank missile fired from the combined gun-and-missile launcher of vehicles such as the M551 Sheridan.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.fdmuseum.org/exhibit/m551a1-sheridan/",
+        "label": "First Division Museum · M551A1 Sheridan"
+      }
+    ],
+    "evidence": "story/p-060: parently in the sort of simpering depreciation which found “Shillelagh” acceptable for a war rocket. “Punch”—a bust in the mouth."
   }
 ]

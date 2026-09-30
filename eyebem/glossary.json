@@ -118,5 +118,25 @@
       "paragraph": "p-051",
       "index": 0
     }
+  },
+  {
+    "id": "trusses",
+    "term": "trusses",
+    "aliases": [],
+    "short": "Supportive belts for hernias.",
+    "note": "Medical supports consisting of a pad and belt intended to hold a hernia in place.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/truss",
+        "label": "Dictionary.com · truss"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-010",
+      "index": 0
+    }
   }
 ]

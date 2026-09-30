@@ -58,5 +58,80 @@
       }
     ],
     "evidence": "story/p-043: whole section swung forward, as the door of a vegetable bin does in a scullery. But the top of the bin was not open as though to receive the vegetables: it was instead a chessboa"
+  },
+  {
+    "id": "schnapps",
+    "term": "schnapps",
+    "aliases": [],
+    "short": "A strong distilled liquor.",
+    "note": "A German-derived name for various high-strength alcoholic spirits.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/schnapps",
+        "label": "Merriam-Webster: schnapps"
+      }
+    ],
+    "evidence": "story/p-120: t suppose he could at that,” said Herr Heitzmann, taking a swallow of schnapps from the glass before him. “However, he wouldn’t bet me—he’d think I knew some way to influence the"
+  },
+  {
+    "id": "psychokinetic",
+    "term": "psychokinetic",
+    "aliases": [],
+    "short": "Relating to supposed movement by mind alone.",
+    "note": "Of psychokinesis: the claimed ability to move physical objects by mental power without a physical mechanism.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/psychokinesis",
+        "label": "Merriam-Webster: psychokinetic"
+      }
+    ],
+    "evidence": "story/p-184: have heard that many who have been twisted by the old wars have these psychokinetic abilities without knowing it; and Professor Baumeister, who is in the cell next to his, says that s"
+  },
+  {
+    "id": "burgermeister",
+    "term": "Burgermeister",
+    "aliases": [],
+    "short": "German: mayor.",
+    "note": "Bürgermeister is the German title for the head of a municipal government.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.duden.de/rechtschreibung/Buergermeister",
+        "label": "Duden: Bürgermeister"
+      }
+    ],
+    "evidence": "story/p-005: d Albricht the moneylender play Father Karl, or Dr. Eckardt play Burgermeister Landsteiner, recognized the mighty figures of the Queen-Computers who lead the armies of the field "
+  },
+  {
+    "id": "ritters",
+    "term": "Ritters",
+    "aliases": [],
+    "short": "Knights; from German Ritter.",
+    "note": "German Ritter means a knight: an armored mounted warrior, or a member of a knightly order.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.duden.de/rechtschreibung/Ritter",
+        "label": "Duden: Ritter"
+      }
+    ],
+    "evidence": "story/p-139: n which he planned to set up his tobacco business. A squadron of Ritters galloped through the village, doubtless on their way to the siege. Lame Hans shouted, “What do you "
+  },
+  {
+    "id": "incommensurable",
+    "term": "incommensurable",
+    "aliases": [],
+    "short": "Not measurable by a shared standard.",
+    "note": "Lacking a common unit of measurement or a basis for direct comparison.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/incommensurable",
+        "label": "Merriam-Webster: incommensurable"
+      }
+    ],
+    "evidence": "story/p-019: essed, human actions became responsive instead to a multitude of incommensurable vectors; the computers’ predictions failed, the civilization they had shaped collapsed, and parts f"
   }
 ]

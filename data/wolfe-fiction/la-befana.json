@@ -30,5 +30,20 @@
       }
     ],
     "evidence": " The Best of Gene Wolfe LA BEFANA When Zozz, home from the pit, had licked his fur clean, he howled before John"
+  },
+  {
+    "id": "newtonian",
+    "term": "Newtonian",
+    "aliases": [],
+    "short": "Following Newton’s classical account of time.",
+    "note": "In Newtonian physics, absolute time passes uniformly and independently of events or an observer’s motion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/archives/fall2014/entries/newton-stm/",
+        "label": "Stanford Encyclopedia of Philosophy: Newton’s Views on Space, Time, and Motion"
+      }
+    ],
+    "evidence": "story/p-058: “Yeah—twenty-two years Newtonian. Listen, Zozzy—”"
   }
 ]

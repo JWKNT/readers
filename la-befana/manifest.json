@@ -18,7 +18,7 @@
   ],
   "totalWords": 1350,
   "defaultChapter": "story",
-  "glossaryCount": 2,
+  "glossaryCount": 3,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -131,6 +131,10 @@
       ],
       "headingHtml": "<span class=\"word\" data-term=\"befana\" data-first=\"true\" data-local-first=\"true\">La Befana</span>",
       "noteAnchors": [
+        {
+          "term": "newtonian",
+          "paragraph": "p-058"
+        },
         {
           "term": "befana",
           "paragraph": "p-067"

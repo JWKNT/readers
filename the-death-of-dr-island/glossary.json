@@ -198,5 +198,267 @@
       "paragraph": "p-406",
       "index": 0
     }
+  },
+  {
+    "id": "fraxinella",
+    "term": "fraxinella",
+    "aliases": [],
+    "short": "Dittany, an aromatic flowering perennial.",
+    "note": "Dictamnus, also called dittany or gas plant: an aromatic perennial bearing upright clusters of five-petalled flowers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.rhs.org.uk/plants/62715/dictamnus-fraxinella/details",
+        "label": "Royal Horticultural Society: Dictamnus fraxinella"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-539",
+      "index": 0
+    }
+  },
+  {
+    "id": "the-lustre-of-the-long-convolvuluses",
+    "term": "The lustre of the long convolvuluses",
+    "aliases": [],
+    "short": "A line from Tennyson’s Enoch Arden.",
+    "note": "From Alfred Tennyson’s narrative poem Enoch Arden (1864), in a passage describing the vegetation of a tropical island.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/1358/pg1358-images.html",
+        "label": "Alfred Tennyson: Enoch Arden"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-520",
+      "index": 0
+    }
+  },
+  {
+    "id": "i-have-desired-to-go",
+    "term": "I have desired to go",
+    "aliases": [],
+    "short": "The opening of Hopkins’s “Heaven—Haven.”",
+    "note": "The first line of Gerard Manley Hopkins’s poem “Heaven—Haven,” subtitled “A nun takes the veil.” The poem voices a longing for refuge from storms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/Poems_of_Gerard_Manley_Hopkins/Heaven%E2%80%94Haven",
+        "label": "Gerard Manley Hopkins: Heaven—Haven"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-001",
+      "index": 0
+    }
+  },
+  {
+    "id": "patrao",
+    "term": "Patrão",
+    "aliases": [],
+    "short": "Portuguese: boss, employer, or master.",
+    "note": "Portuguese patrão denotes a boss or proprietor, and can be used as a form of address.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/portuguese-english/patrao",
+        "label": "Collins Portuguese–English Dictionary: patrão"
+      }
+    ],
+    "occurrences": 16,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-684",
+      "index": 0
+    }
+  },
+  {
+    "id": "i-was-watching-satan-fall-as-lightning-from-heaven",
+    "term": "I was watching Satan fall as lightning from heaven",
+    "aliases": [],
+    "short": "An allusion to Luke 10:18.",
+    "note": "In Luke 10:18, Jesus tells his returning disciples that he beheld Satan fall from heaven like lightning.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Luke+10:18&version=KJV",
+        "label": "Bible: Luke 10:18"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-643",
+      "index": 0
+    }
+  },
+  {
+    "id": "palliates",
+    "term": "palliates",
+    "aliases": [
+      "palliate"
+    ],
+    "short": "Eases or moderates distress.",
+    "note": "Reduces the severity of pain, disease, or distress without necessarily removing its cause.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/palliate",
+        "label": "Merriam-Webster: palliates"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-208",
+      "index": 0
+    }
+  },
+  {
+    "id": "psychodrama",
+    "term": "psychodrama",
+    "aliases": [],
+    "short": "Therapy using improvised dramatic scenes.",
+    "note": "A therapeutic method in which participants act out situations drawn from their lives to explore emotions and relationships.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/psychodrama",
+        "label": "Merriam-Webster: psychodrama"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-177",
+      "index": 0
+    }
+  },
+  {
+    "id": "harlow-effect",
+    "term": "Harlow effect",
+    "aliases": [],
+    "short": "Social recovery studied in isolated monkeys.",
+    "note": "Harry Harlow and Stephen Suomi reported in 1971 that young macaques raised in social isolation recovered social abilities when paired with younger, socially normal monkeys.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5283943/",
+        "label": "Harlow and Suomi: Social recovery by isolation-reared monkeys"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-736",
+      "index": 0
+    }
+  },
+  {
+    "id": "zenos-paradox",
+    "term": "Zeno’s paradox",
+    "aliases": [],
+    "short": "An ancient puzzle about motion and infinity.",
+    "note": "Zeno of Elea devised paradoxes arguing that motion leads to contradictions: a journey can be divided into infinitely many stages, apparently all needing completion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/archives/spr2022/entries/paradox-zeno/",
+        "label": "Stanford Encyclopedia of Philosophy: Zeno’s Paradoxes"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-347",
+      "index": 0
+    }
+  },
+  {
+    "id": "asphodel",
+    "term": "asphodel",
+    "aliases": [],
+    "short": "A plant with tall clusters of lily-like flowers.",
+    "note": "A name for flowering plants of the genera Asphodelus and Asphodeline, bearing flowers on tall, upright clusters.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/asphodel",
+        "label": "Merriam-Webster: asphodel"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-543",
+      "index": 0
+    }
+  },
+  {
+    "id": "combers",
+    "term": "combers",
+    "aliases": [],
+    "short": "Long, curling sea waves.",
+    "note": "Waves whose crests curl over before breaking.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/comber",
+        "label": "Merriam-Webster: combers"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-041",
+      "index": 0
+    }
+  },
+  {
+    "id": "lianas",
+    "term": "lianas",
+    "aliases": [],
+    "short": "Woody climbing vines.",
+    "note": "Ground-rooted climbing plants, especially the long woody vines of tropical forests.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/liana",
+        "label": "Merriam-Webster: lianas"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-013",
+      "index": 0
+    }
+  },
+  {
+    "id": "columniated",
+    "term": "columniated",
+    "aliases": [],
+    "short": "Having columns or arranged in columns.",
+    "note": "An architectural adjective describing a structure furnished with columns, or things set out in a column-like arrangement.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/columniated",
+        "label": "Collins English Dictionary: columniated"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-013",
+      "index": 0
+    }
   }
 ]

@@ -222,5 +222,45 @@
       "paragraph": "p-244",
       "index": 0
     }
+  },
+  {
+    "id": "ancien-regime",
+    "term": "ancien régime",
+    "aliases": [],
+    "short": "The old political or social order.",
+    "note": "French for “old regime”: originally France’s system before the Revolution of 1789, and more generally an order that has been displaced.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ancien%20regime",
+        "label": "Merriam-Webster: ancien régime"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-295",
+      "index": 0
+    }
+  },
+  {
+    "id": "decolletage",
+    "term": "décolletage",
+    "aliases": [],
+    "short": "A low neckline and the area it exposes.",
+    "note": "A low-cut neckline, or the upper chest and neck displayed by such a neckline.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/decolletage",
+        "label": "Merriam-Webster: décolletage"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-030",
+      "index": 0
+    }
   }
 ]

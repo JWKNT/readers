@@ -18,5 +18,45 @@
       "paragraph": "p-032",
       "index": 0
     }
+  },
+  {
+    "id": "oar-scottson-curd",
+    "term": "Oar Scottson Curd",
+    "aliases": [],
+    "short": "Possibly a pun on Orson Scott Card.",
+    "note": "Possibly a rearrangement of the name Orson Scott Card, the American science-fiction and fantasy writer best known for Ender’s Game.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://us.macmillan.com/author/orsonscottcard/",
+        "label": "Macmillan: Orson Scott Card"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-037",
+      "index": 0
+    }
+  },
+  {
+    "id": "berry-longear",
+    "term": "Berry Longear",
+    "aliases": [],
+    "short": "Possibly a pun on Barry B. Longyear.",
+    "note": "Possibly a play on the name Barry B. Longyear, the American science-fiction writer whose novella Enemy Mine won Hugo and Nebula awards.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://sf-encyclopedia.com/entry/longyear_barry_b",
+        "label": "The Encyclopedia of Science Fiction: Barry B. Longyear"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-037",
+      "index": 0
+    }
   }
 ]

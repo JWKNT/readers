@@ -360,5 +360,45 @@
       "paragraph": "p-248",
       "index": 0
     }
+  },
+  {
+    "id": "the-procurator-of-judea",
+    "term": "The Procurator of Judea",
+    "aliases": [],
+    "short": "A story by Anatole France about Pontius Pilate.",
+    "note": "Anatole France’s short story in which the retired Roman governor Pontius Pilate recalls his service in Judea.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/58967/pg58967.html",
+        "label": "Anatole France: The Procurator of Judea"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-002",
+      "index": 0
+    }
+  },
+  {
+    "id": "kirlian-auras",
+    "term": "Kirlian auras",
+    "aliases": [],
+    "short": "Glowing outlines in electrical-discharge photographs.",
+    "note": "Kirlian photography records corona discharges around objects subjected to high voltage. A 1976 study found that moisture accounted for much of the variation in images of living subjects.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.iumab.org/image-modulation-in-corona-discharge-photography/",
+        "label": "Pehek, Kyler, and Faust: Image modulation in corona discharge photography (reprinted abstract)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-693",
+      "index": 0
+    }
   }
 ]

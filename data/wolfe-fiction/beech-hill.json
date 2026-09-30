@@ -13,5 +13,20 @@
       }
     ],
     "evidence": "Pleased to meet you, Dr. Potts. I know your work.” “Looks a lot like Bond, doesn’t he?” he overheard Bishop say as the two of them left him. “But he’s different in"
+  },
+  {
+    "id": "norfolk-jacket",
+    "term": "Norfolk jacket",
+    "aliases": [],
+    "short": "A belted, pleated country sports jacket.",
+    "note": "A loose woolen jacket with large patch pockets, front and back pleats, and a belt, developed for hunting and other outdoor pursuits.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://fidmmuseum.org/learn/articles/norfolk-jacket",
+        "label": "ASU FIDM Museum: Norfolk jacket"
+      }
+    ],
+    "evidence": "story/p-027: He was proud of his jacket, though it had been very cheap, an old Norfolk jacket, much abused (by someone else) but London made. The elbows had been patched with leather; the tweed"
   }
 ]

@@ -18,7 +18,7 @@
   ],
   "totalWords": 20670,
   "defaultChapter": "story",
-  "glossaryCount": 10,
+  "glossaryCount": 23,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -858,12 +858,28 @@
       "headingHtml": "The Death of Dr. Island",
       "noteAnchors": [
         {
+          "term": "i-have-desired-to-go",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "columniated",
+          "paragraph": "p-013"
+        },
+        {
+          "term": "lianas",
+          "paragraph": "p-013"
+        },
+        {
           "term": "ululant",
           "paragraph": "p-014"
         },
         {
           "term": "tutelary",
           "paragraph": "p-035"
+        },
+        {
+          "term": "combers",
+          "paragraph": "p-041"
         },
         {
           "term": "callisto",
@@ -874,16 +890,44 @@
           "paragraph": "p-133"
         },
         {
+          "term": "psychodrama",
+          "paragraph": "p-177"
+        },
+        {
           "term": "trojan-planets",
           "paragraph": "p-193"
+        },
+        {
+          "term": "palliates",
+          "paragraph": "p-208"
+        },
+        {
+          "term": "zenos-paradox",
+          "paragraph": "p-347"
         },
         {
           "term": "stridulations",
           "paragraph": "p-406"
         },
         {
+          "term": "the-lustre-of-the-long-convolvuluses",
+          "paragraph": "p-520"
+        },
+        {
+          "term": "fraxinella",
+          "paragraph": "p-539"
+        },
+        {
+          "term": "asphodel",
+          "paragraph": "p-543"
+        },
+        {
           "term": "huckleberry-finn",
           "paragraph": "p-632"
+        },
+        {
+          "term": "i-was-watching-satan-fall-as-lightning-from-heaven",
+          "paragraph": "p-643"
         },
         {
           "term": "a-turtle-and-a-hedgehog",
@@ -892,6 +936,14 @@
         {
           "term": "montresor",
           "paragraph": "p-661"
+        },
+        {
+          "term": "patrao",
+          "paragraph": "p-684"
+        },
+        {
+          "term": "harlow-effect",
+          "paragraph": "p-736"
         },
         {
           "term": "spume",

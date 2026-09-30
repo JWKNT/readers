@@ -167,5 +167,35 @@
       }
     ],
     "evidence": "story/p-244: ier stood and motioned to the curly-bearded young man, indicating the midden of smashed concrete which had sheltered him. As the soldier did so he was shot, and fell backward. "
+  },
+  {
+    "id": "ancien-regime",
+    "term": "ancien régime",
+    "aliases": [],
+    "short": "The old political or social order.",
+    "note": "French for “old regime”: originally France’s system before the Revolution of 1789, and more generally an order that has been displaced.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ancien%20regime",
+        "label": "Merriam-Webster: ancien régime"
+      }
+    ],
+    "evidence": "story/p-295: Tredgold drawled, “Another thing I forgot to tell you about l’ancien régime— the winners are those who don’t fight for it. Thought your mum would have put you wise to that alr"
+  },
+  {
+    "id": "decolletage",
+    "term": "décolletage",
+    "aliases": [],
+    "short": "A low neckline and the area it exposes.",
+    "note": "A low-cut neckline, or the upper chest and neck displayed by such a neckline.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/decolletage",
+        "label": "Merriam-Webster: décolletage"
+      }
+    ],
+    "evidence": "story/p-030: “He has an eye for décolletage; one saw that. For that matter I have myself.”"
   }
 ]

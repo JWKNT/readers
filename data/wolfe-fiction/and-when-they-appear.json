@@ -195,5 +195,35 @@
       }
     ],
     "evidence": "story/p-107: l bone of his jaw swinging and snapping. “Und den vor Christmas, vith Weihnachtsmann I come. You see here dese svitches?” He held a bundle of apple and cherry twigs under Sherby’s nose"
+  },
+  {
+    "id": "asgard",
+    "term": "Asgard",
+    "aliases": [],
+    "short": "The fortified home of the Norse gods.",
+    "note": "In Norse mythology, the dwelling of the Æsir gods, containing such places as Valhalla.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Asgard",
+        "label": "Asgard: Norse mythological sources"
+      }
+    ],
+    "evidence": "story/p-061: d. “Frey rides a boar with golden bristles, a dwarfgift. When he left Asgard to dwell amongst men as Fridleef, King of Denmark, his folk served him a boar at Yule to show they "
+  },
+  {
+    "id": "cravat",
+    "term": "cravat",
+    "aliases": [],
+    "short": "A scarf or band tied around the neck.",
+    "note": "An ornamental neckcloth, a predecessor and relative of the modern necktie.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cravat",
+        "label": "Merriam-Webster: cravat"
+      }
+    ],
+    "evidence": "story/p-032: der his tall beaver hat. But he wore a green greatcoat and a red cravat, and cried, “Hallo!” so cheerfully, and smiled with so many twinkles that Sherby got out of the way"
   }
 ]

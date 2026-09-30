@@ -31,5 +31,20 @@
       }
     ],
     "evidence": "c04:  imprinted with an unconvincing dragon to record the fact that he had abandoned An Incident at Krechetovka Station before it had had time to make steam, and went up to bed. There was a note on his pillow, and he called the police. “She’s over eighteen?” "
+  },
+  {
+    "id": "disincarnate",
+    "term": "DISINCARNATE",
+    "aliases": [],
+    "short": "To leave or be freed from bodily form.",
+    "note": "To divest of a physical body or bodily form; as an adjective, disembodied or without flesh.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/disincarnate",
+        "label": "Wiktionary · disincarnate"
+      }
+    ],
+    "evidence": "story/p-032: L MANKIND HAS DONE?, and LIVE WITHOUT MEAT—IN YOU OR ON YOU—DISINCARNATE, and RESIGNATION IS THE ONLY WAY OUT—SO I’M RESIGNING. Henry went inside; there was an at"
   }
 ]

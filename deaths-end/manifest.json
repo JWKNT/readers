@@ -55,7 +55,7 @@
   ],
   "totalWords": 221631,
   "defaultChapter": "section-07",
-  "glossaryCount": 97,
+  "glossaryCount": 109,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -281,6 +281,10 @@
         {
           "term": "sarcophagus",
           "paragraph": "p-022"
+        },
+        {
+          "term": "sconces",
+          "paragraph": "p-038"
         },
         {
           "term": "scimitar",
@@ -510,6 +514,10 @@
         "p-111"
       ],
       "noteAnchors": [
+        {
+          "term": "barbitone",
+          "paragraph": "p-050"
+        },
         {
           "term": "kafka-judgment",
           "paragraph": "p-061"
@@ -1524,6 +1532,10 @@
           "paragraph": "p-038"
         },
         {
+          "term": "infrasonic",
+          "paragraph": "p-048"
+        },
+        {
           "term": "barnards-star",
           "paragraph": "p-098"
         },
@@ -1851,7 +1863,12 @@
         "p-068",
         "p-069"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "tatami",
+          "paragraph": "p-008"
+        }
+      ],
       "words": 3603,
       "startWords": 44856
     },
@@ -2142,6 +2159,14 @@
           "paragraph": "p-003"
         },
         {
+          "term": "degenerate-matter",
+          "paragraph": "p-005"
+        },
+        {
+          "term": "infrasonic",
+          "paragraph": "p-008"
+        },
+        {
           "term": "strong-interaction",
           "paragraph": "p-011"
         },
@@ -2205,6 +2230,10 @@
         {
           "term": "gravitational-wave",
           "paragraph": "p-004"
+        },
+        {
+          "term": "kenjutsu",
+          "paragraph": "p-010"
         }
       ],
       "words": 1989,
@@ -2360,6 +2389,10 @@
         {
           "term": "gravitational-wave",
           "paragraph": "p-002"
+        },
+        {
+          "term": "degenerate-matter",
+          "paragraph": "p-008"
         }
       ],
       "words": 604,
@@ -2906,6 +2939,10 @@
           "paragraph": "p-005"
         },
         {
+          "term": "degenerate-matter",
+          "paragraph": "p-010"
+        },
+        {
           "term": "newton",
           "paragraph": "p-013"
         },
@@ -2916,6 +2953,10 @@
         {
           "term": "strong-interaction",
           "paragraph": "p-053"
+        },
+        {
+          "term": "infrasonic",
+          "paragraph": "p-079"
         },
         {
           "term": "oort-cloud",
@@ -3167,6 +3208,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "mitral-and-tricuspid-valves",
+          "paragraph": "p-016"
+        },
+        {
           "term": "strong-interaction",
           "paragraph": "p-049"
         },
@@ -3382,6 +3427,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "tatami",
+          "paragraph": "p-011"
+        },
+        {
           "term": "gravitational-wave",
           "paragraph": "p-014"
         },
@@ -3391,6 +3440,10 @@
         },
         {
           "term": "ecliptic-plane",
+          "paragraph": "p-016"
+        },
+        {
+          "term": "chromosphere",
           "paragraph": "p-016"
         },
         {
@@ -3749,6 +3802,10 @@
         {
           "term": "neutrino",
           "paragraph": "p-028"
+        },
+        {
+          "term": "antimatter",
+          "paragraph": "p-100"
         }
       ],
       "words": 8543,
@@ -4256,7 +4313,12 @@
         "p-141",
         "p-142"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "flagon",
+          "paragraph": "p-093"
+        }
+      ],
       "words": 5463,
       "startWords": 119614
     },
@@ -5493,6 +5555,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "skiffs",
+          "paragraph": "p-002"
+        },
+        {
           "term": "lagrangian-point",
           "paragraph": "p-014"
         },
@@ -5503,6 +5569,10 @@
         {
           "term": "bandolier",
           "paragraph": "p-061"
+        },
+        {
+          "term": "antimatter",
+          "paragraph": "p-063"
         },
         {
           "term": "moskstraumen",
@@ -5846,6 +5916,10 @@
         {
           "term": "gravitational-wave",
           "paragraph": "p-004"
+        },
+        {
+          "term": "phalanx",
+          "paragraph": "p-017"
         },
         {
           "term": "nuclear-fusion",
@@ -6336,6 +6410,10 @@
           "paragraph": "p-008"
         },
         {
+          "term": "skiffs",
+          "paragraph": "p-030"
+        },
+        {
           "term": "qingming-scroll",
           "paragraph": "p-042"
         },
@@ -6737,6 +6815,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "antimatter",
+          "paragraph": "p-004"
+        },
+        {
           "term": "gravitational-wave",
           "paragraph": "p-050"
         },
@@ -6868,6 +6950,10 @@
       "noteAnchors": [
         {
           "term": "nuclear-fusion",
+          "paragraph": "p-012"
+        },
+        {
+          "term": "antimatter",
           "paragraph": "p-012"
         },
         {

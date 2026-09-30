@@ -462,5 +462,85 @@
       "paragraph": "p-044",
       "index": 0
     }
+  },
+  {
+    "id": "mephistopheles",
+    "term": "Mephistopheles",
+    "aliases": [],
+    "short": "The devil who bargains with Faust.",
+    "note": "The evil spirit in the Faust legend who offers knowledge and assistance in exchange for Faust’s soul, prominent in Marlowe’s and Goethe’s versions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mephistopheles",
+        "label": "Encyclopaedia Britannica (1911): Mephistopheles"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-257",
+      "index": 0
+    }
+  },
+  {
+    "id": "peri",
+    "term": "Peri",
+    "aliases": [],
+    "short": "A fairy-like being in Persian folklore.",
+    "note": "A supernatural being in Persian tradition, commonly described as beautiful and excluded from paradise until penance is fulfilled.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/peri",
+        "label": "Merriam-Webster: Peri"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-091",
+      "index": 0
+    }
+  },
+  {
+    "id": "asphodel",
+    "term": "asphodel",
+    "aliases": [],
+    "short": "A plant with tall clusters of lily-like flowers.",
+    "note": "A name for flowering plants of the genera Asphodelus and Asphodeline, bearing flowers on tall, upright clusters.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/asphodel",
+        "label": "Merriam-Webster: asphodel"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-091",
+      "index": 0
+    }
+  },
+  {
+    "id": "druj",
+    "term": "druj",
+    "aliases": [],
+    "short": "Deceit or a demonic being in Iranian religion.",
+    "note": "An Avestan term opposed to truth or right order in Zoroastrian tradition; it also came to designate demonic beings associated with deception.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.iranicaonline.org/articles/druj/",
+        "label": "Encyclopaedia Iranica: Druj"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-145",
+      "index": 0
+    }
   }
 ]

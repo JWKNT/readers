@@ -118,5 +118,25 @@
       "paragraph": "p-004",
       "index": 0
     }
+  },
+  {
+    "id": "too-solid-flesh",
+    "term": "too-solid flesh",
+    "aliases": [],
+    "short": "Possibly an echo of Hamlet’s first soliloquy.",
+    "note": "Possibly an echo of Hamlet, act 1, scene 2, where Shakespeare’s prince wishes that his solid flesh could dissolve.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://shakespeare.mit.edu/hamlet/hamlet.1.2.html",
+        "label": "Shakespeare · Hamlet, act 1, scene 2"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-001",
+      "index": 0
+    }
   }
 ]

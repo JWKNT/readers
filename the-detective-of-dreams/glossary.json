@@ -140,5 +140,65 @@
       "paragraph": "p-022",
       "index": 0
     }
+  },
+  {
+    "id": "schloss",
+    "term": "Schloss",
+    "aliases": [],
+    "short": "German: castle or palace.",
+    "note": "A German noun for a castle or palatial residence.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.larousse.com/en/dictionaries/german-english/Schloss/36627",
+        "label": "Larousse German–English Dictionary: Schloss"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-063",
+      "index": 0
+    }
+  },
+  {
+    "id": "rathaus",
+    "term": "Rathaus",
+    "aliases": [],
+    "short": "German: town hall.",
+    "note": "The municipal government building of a German-speaking town or city.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.langenscheidt.com/german-english/rathaus",
+        "label": "Langenscheidt German–English Dictionary: Rathaus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-165",
+      "index": 0
+    }
+  },
+  {
+    "id": "hauptstrasse",
+    "term": "Hauptstrasse",
+    "aliases": [],
+    "short": "German: main street.",
+    "note": "Hauptstraße means the main street of a town, or a principal road; ss may be used in place of ß.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/de/worterbuch/deutsch-englisch/hauptstrasse",
+        "label": "Cambridge German–English Dictionary: Hauptstraße"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-183",
+      "index": 0
+    }
   }
 ]

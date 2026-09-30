@@ -12,7 +12,7 @@
   ],
   "totalWords": 2270,
   "defaultChapter": "story",
-  "glossaryCount": 6,
+  "glossaryCount": 7,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -74,6 +74,10 @@
       "noteAnchors": [
         {
           "term": "maya",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "too-solid-flesh",
           "paragraph": "p-001"
         },
         {

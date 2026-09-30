@@ -2216,5 +2216,295 @@
       "paragraph": "p-065",
       "index": 2
     }
+  },
+  {
+    "id": "meerschaum",
+    "term": "meerschaum",
+    "aliases": [],
+    "short": "A pale mineral carved into tobacco pipes.",
+    "note": "A light, whitish hydrous magnesium silicate, prized as a material for carving tobacco-pipe bowls.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/meerschaum",
+        "label": "Merriam-Webster: meerschaum"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-06",
+      "paragraph": "p-080",
+      "index": 0
+    }
+  },
+  {
+    "id": "magnetron",
+    "term": "magnetron",
+    "aliases": [
+      "magnetrons"
+    ],
+    "short": "A vacuum tube that generates microwaves.",
+    "note": "An electronic tube in which a magnetic field controls moving electrons to produce microwave-frequency power.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/magnetron",
+        "label": "Merriam-Webster: magnetron"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-069",
+      "index": 2
+    }
+  },
+  {
+    "id": "mesons",
+    "term": "mesons",
+    "aliases": [
+      "meson"
+    ],
+    "short": "Particles composed of a quark and an antiquark.",
+    "note": "A class of subatomic particles, including pions and kaons, that participate in the strong interaction. A conventional meson contains a quark–antiquark pair.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/meson",
+        "label": "Merriam-Webster: meson"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-40",
+      "paragraph": "p-133",
+      "index": 32
+    }
+  },
+  {
+    "id": "oscilloscope",
+    "term": "oscilloscope",
+    "aliases": [
+      "oscilloscopes"
+    ],
+    "short": "An instrument that displays an electrical waveform.",
+    "note": "An instrument that turns changes in an electrical signal into a visible trace on a screen, allowing its waveform to be examined.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/oscilloscope",
+        "label": "Merriam-Webster: oscilloscope"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-049",
+      "index": 2
+    }
+  },
+  {
+    "id": "presbyopic",
+    "term": "presbyopic",
+    "aliases": [],
+    "short": "Having age-related difficulty focusing on nearby objects.",
+    "note": "Affected by presbyopia, the loss of close-focusing ability caused by reduced flexibility of the eye’s lens with age.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/presbyopia",
+        "label": "Merriam-Webster: presbyopia"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-102",
+      "index": 10
+    }
+  },
+  {
+    "id": "phalanx",
+    "term": "phalanx",
+    "aliases": [],
+    "short": "A closely packed formation of troops.",
+    "note": "Originally a dense, ordered formation of ancient Greek infantry; more broadly, any massed body arranged in close ranks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/phalanx",
+        "label": "Merriam-Webster: phalanx"
+      }
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "section-23",
+      "paragraph": "p-056",
+      "index": 16
+    }
+  },
+  {
+    "id": "adsorbent",
+    "term": "adsorbent",
+    "aliases": [],
+    "short": "Able to hold molecules on a surface.",
+    "note": "An adsorbent collects molecules in a thin layer on its surface; adsorption concerns surface attachment rather than penetration throughout the material.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/adsorption",
+        "label": "Merriam-Webster: adsorption"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "section-37",
+      "paragraph": "p-060",
+      "index": 29
+    }
+  },
+  {
+    "id": "bollards",
+    "term": "bollards",
+    "aliases": [
+      "bollard"
+    ],
+    "short": "Stout posts used to secure mooring ropes.",
+    "note": "Strong posts on a ship or wharf around which ropes are fastened to hold a vessel in place.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bollard",
+        "label": "Merriam-Webster: bollard"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-38",
+      "paragraph": "p-110",
+      "index": 30
+    }
+  },
+  {
+    "id": "carbines",
+    "term": "carbines",
+    "aliases": [
+      "carbine"
+    ],
+    "short": "Lightweight rifles with relatively short barrels.",
+    "note": "Compact rifles developed for easier handling, historically associated with cavalry.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carbine",
+        "label": "Merriam-Webster: carbine"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-06",
+      "paragraph": "p-006",
+      "index": 0
+    }
+  },
+  {
+    "id": "princeps",
+    "term": "princeps",
+    "aliases": [],
+    "short": "A Latin title for a foremost ruler or leader.",
+    "note": "Latin for one who is first; historically a title of the head of the Roman imperial state.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/princeps",
+        "label": "Merriam-Webster: princeps"
+      }
+    ],
+    "occurrences": 67,
+    "first": {
+      "chapter": "section-39",
+      "paragraph": "p-035",
+      "index": 31
+    }
+  },
+  {
+    "id": "infrasonic",
+    "term": "infrasonic",
+    "aliases": [],
+    "short": "Below the range of human hearing.",
+    "note": "Describes sound or vibration with a frequency lower than the human ear can normally hear.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/infrasonic",
+        "label": "Merriam-Webster: infrasonic"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-38",
+      "paragraph": "p-017",
+      "index": 30
+    }
+  },
+  {
+    "id": "antimatter",
+    "term": "antimatter",
+    "aliases": [],
+    "short": "Matter made from the antiparticles of ordinary particles.",
+    "note": "Antiparticles have the same masses as their corresponding particles but opposite electric charges where charged. Matter and antimatter can annihilate on contact, releasing energy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://home.cern/science/physics/antimatter/",
+        "label": "CERN: antimatter"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "section-30",
+      "paragraph": "p-006",
+      "index": 22
+    }
+  },
+  {
+    "id": "panamax",
+    "term": "Panamax",
+    "aliases": [],
+    "short": "The maximum ship size for the original Panama Canal locks.",
+    "note": "A ship-size standard determined by the dimensions of the Panama Canal’s original lock system; the later enlarged locks admit the larger Neopanamax class.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pancanal.com/en/discover-the-expanded-canal/",
+        "label": "Panama Canal Authority: original and expanded locks"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-38",
+      "paragraph": "p-063",
+      "index": 30
+    }
+  },
+  {
+    "id": "archimedes-principle",
+    "term": "Archimedes’ principle",
+    "aliases": [],
+    "short": "Buoyant force equals the weight of displaced fluid.",
+    "note": "An immersed body experiences an upward force equal to the weight of the liquid or gas it displaces. Named for the ancient Greek mathematician Archimedes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+        "label": "OpenStax: Archimedes’ principle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-11",
+      "paragraph": "p-033",
+      "index": 4
+    }
   }
 ]

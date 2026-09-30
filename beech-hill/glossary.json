@@ -18,5 +18,25 @@
       "paragraph": "p-018",
       "index": 0
     }
+  },
+  {
+    "id": "norfolk-jacket",
+    "term": "Norfolk jacket",
+    "aliases": [],
+    "short": "A belted, pleated country sports jacket.",
+    "note": "A loose woolen jacket with large patch pockets, front and back pleats, and a belt, developed for hunting and other outdoor pursuits.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://fidmmuseum.org/learn/articles/norfolk-jacket",
+        "label": "ASU FIDM Museum: Norfolk jacket"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-027",
+      "index": 0
+    }
   }
 ]

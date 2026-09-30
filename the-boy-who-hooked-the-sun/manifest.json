@@ -18,7 +18,7 @@
   ],
   "totalWords": 1130,
   "defaultChapter": "story",
-  "glossaryCount": 5,
+  "glossaryCount": 6,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -57,6 +57,10 @@
       "headingNoteAnchors": [],
       "headingHtml": "The Boy Who Hooked the Sun",
       "noteAnchors": [
+        {
+          "term": "hellas",
+          "paragraph": "p-002"
+        },
         {
           "term": "sabaoth",
           "paragraph": "p-010"

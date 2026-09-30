@@ -12,7 +12,7 @@
   ],
   "totalWords": 2651,
   "defaultChapter": "story",
-  "glossaryCount": 31,
+  "glossaryCount": 34,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -84,7 +84,15 @@
           "paragraph": "p-002"
         },
         {
+          "term": "scullery",
+          "paragraph": "p-003"
+        },
+        {
           "term": "hallowmass",
+          "paragraph": "p-004"
+        },
+        {
+          "term": "larva",
           "paragraph": "p-004"
         },
         {
@@ -129,6 +137,10 @@
         },
         {
           "term": "specula",
+          "paragraph": "p-012"
+        },
+        {
+          "term": "circumfused",
           "paragraph": "p-012"
         },
         {

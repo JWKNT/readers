@@ -82,5 +82,25 @@
       "paragraph": "p-162",
       "index": 0
     }
+  },
+  {
+    "id": "lamarck",
+    "term": "Lamarck",
+    "aliases": [],
+    "short": "Jean-Baptiste Lamarck, an early theorist of evolution.",
+    "note": "Jean-Baptiste Lamarck (1744–1829), the French naturalist who proposed species transformation and incorporated the inheritance of acquired characteristics into his theory.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ucmp.berkeley.edu/history/lamarck.html",
+        "label": "University of California Museum of Paleontology · Lamarck"
+      }
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-161",
+      "index": 0
+    }
   }
 ]

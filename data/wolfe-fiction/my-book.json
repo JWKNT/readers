@@ -73,5 +73,20 @@
       }
     ],
     "evidence": "c30: gly. I’m now thinking of reconstructing the whole thing,” by Oliver Onions, and Stout’s, “It was nice to know the next step was obvious, but it would have been even nicer to know what it was.” But it was this (forgotten now f"
+  },
+  {
+    "id": "preantepenultimate",
+    "term": "preantepenultimate",
+    "aliases": [],
+    "short": "Fourth from the end.",
+    "note": "The item immediately before the antepenultimate: fourth from last. The term is attested in John Walker’s 1791 pronouncing dictionary.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.worldwidewords.org/ww-pre3.html",
+        "label": "Michael Quinion · Preantepenultimate"
+      }
+    ],
+    "evidence": "story/p-007: p-007 And then the preantepenultimate word …"
   }
 ]

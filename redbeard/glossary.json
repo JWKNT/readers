@@ -18,5 +18,25 @@
       "paragraph": "p-030",
       "index": 0
     }
+  },
+  {
+    "id": "barbarossa",
+    "term": "Barbarossa",
+    "aliases": [],
+    "short": "Italian: “red beard.”",
+    "note": "An Italian name meaning “red beard,” historically borne by Frederick I, Holy Roman Emperor, and the Ottoman admiral Hayreddin.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Barbarossa",
+        "label": "Barbarossa: historical names"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-006",
+      "index": 0
+    }
   }
 ]

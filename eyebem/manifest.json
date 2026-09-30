@@ -12,7 +12,7 @@
   ],
   "totalWords": 4225,
   "defaultChapter": "story",
-  "glossaryCount": 6,
+  "glossaryCount": 7,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -106,6 +106,10 @@
         {
           "term": "hysteresis",
           "paragraph": "p-005"
+        },
+        {
+          "term": "trusses",
+          "paragraph": "p-010"
         },
         {
           "term": "control-data-corporation",

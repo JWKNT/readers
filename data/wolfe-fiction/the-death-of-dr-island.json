@@ -148,5 +148,202 @@
       }
     ],
     "evidence": "story/p-406: From a decaying log, insect stridulations called, “Wait.”"
+  },
+  {
+    "id": "fraxinella",
+    "term": "fraxinella",
+    "aliases": [],
+    "short": "Dittany, an aromatic flowering perennial.",
+    "note": "Dictamnus, also called dittany or gas plant: an aromatic perennial bearing upright clusters of five-petalled flowers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.rhs.org.uk/plants/62715/dictamnus-fraxinella/details",
+        "label": "Royal Horticultural Society: Dictamnus fraxinella"
+      }
+    ],
+    "evidence": "story/p-539: “The flowers are meadowsweet, fraxinella, lily of the valley, and moss rose—though I wouldn’t expect you to recognize them, darling.” His mo"
+  },
+  {
+    "id": "the-lustre-of-the-long-convolvuluses",
+    "term": "The lustre of the long convolvuluses",
+    "aliases": [],
+    "short": "A line from Tennyson’s Enoch Arden.",
+    "note": "From Alfred Tennyson’s narrative poem Enoch Arden (1864), in a passage describing the vegetation of a tropical island.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/1358/pg1358-images.html",
+        "label": "Alfred Tennyson: Enoch Arden"
+      }
+    ],
+    "evidence": "story/p-520:                                                              The lustre of the long convolvuluses"
+  },
+  {
+    "id": "i-have-desired-to-go",
+    "term": "I have desired to go",
+    "aliases": [],
+    "short": "The opening of Hopkins’s “Heaven—Haven.”",
+    "note": "The first line of Gerard Manley Hopkins’s poem “Heaven—Haven,” subtitled “A nun takes the veil.” The poem voices a longing for refuge from storms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/Poems_of_Gerard_Manley_Hopkins/Heaven%E2%80%94Haven",
+        "label": "Gerard Manley Hopkins: Heaven—Haven"
+      }
+    ],
+    "evidence": "story/p-001:                                                              I have desired to go"
+  },
+  {
+    "id": "patrao",
+    "term": "Patrão",
+    "aliases": [],
+    "short": "Portuguese: boss, employer, or master.",
+    "note": "Portuguese patrão denotes a boss or proprietor, and can be used as a form of address.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/portuguese-english/patrao",
+        "label": "Collins Portuguese–English Dictionary: patrão"
+      }
+    ],
+    "evidence": "story/p-684: “No, Patrão!”"
+  },
+  {
+    "id": "i-was-watching-satan-fall-as-lightning-from-heaven",
+    "term": "I was watching Satan fall as lightning from heaven",
+    "aliases": [],
+    "short": "An allusion to Luke 10:18.",
+    "note": "In Luke 10:18, Jesus tells his returning disciples that he beheld Satan fall from heaven like lightning.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Luke+10:18&version=KJV",
+        "label": "Bible: Luke 10:18"
+      }
+    ],
+    "evidence": "story/p-643: ce, never again to see the warm blues and browns and greens of Earth: I was watching Satan fall as lightning from heaven. Nicholas had heard that on tape somewhere, but he could not remember where. He had read that on Ea"
+  },
+  {
+    "id": "palliates",
+    "term": "palliates",
+    "aliases": [
+      "palliate"
+    ],
+    "short": "Eases or moderates distress.",
+    "note": "Reduces the severity of pain, disease, or distress without necessarily removing its cause.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/palliate",
+        "label": "Merriam-Webster: palliates"
+      }
+    ],
+    "evidence": "story/p-208: s, perhaps because it recalls to unhappy people their own tears, that palliates melancholy.”"
+  },
+  {
+    "id": "psychodrama",
+    "term": "psychodrama",
+    "aliases": [],
+    "short": "Therapy using improvised dramatic scenes.",
+    "note": "A therapeutic method in which participants act out situations drawn from their lives to explore emotions and relationships.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/psychodrama",
+        "label": "Merriam-Webster: psychodrama"
+      }
+    ],
+    "evidence": "story/p-177: body in the rec room and the dining hall and so on, and she was in my psychodrama group.” Her hair had been black, and shiny as the lacquered furniture in Dr. Hong’s rooms, her skin"
+  },
+  {
+    "id": "harlow-effect",
+    "term": "Harlow effect",
+    "aliases": [],
+    "short": "Social recovery studied in isolated monkeys.",
+    "note": "Harry Harlow and Stephen Suomi reported in 1971 that young macaques raised in social isolation recovered social abilities when paired with younger, socially normal monkeys.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5283943/",
+        "label": "Harlow and Suomi: Social recovery by isolation-reared monkeys"
+      }
+    ],
+    "evidence": "story/p-736: “Do you know what the Harlow effect is, Nicholas?”"
+  },
+  {
+    "id": "zenos-paradox",
+    "term": "Zeno’s paradox",
+    "aliases": [],
+    "short": "An ancient puzzle about motion and infinity.",
+    "note": "Zeno of Elea devised paradoxes arguing that motion leads to contradictions: a journey can be divided into infinitely many stages, apparently all needing completion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/archives/spr2022/entries/paradox-zeno/",
+        "label": "Stanford Encyclopedia of Philosophy: Zeno’s Paradoxes"
+      }
+    ],
+    "evidence": "story/p-347: ; motion and mass are both bendings of space, of course, which is why Zeno’s paradox doesn’t work out that way, and why masses move toward each other—what we call falling—or at least t"
+  },
+  {
+    "id": "asphodel",
+    "term": "asphodel",
+    "aliases": [],
+    "short": "A plant with tall clusters of lily-like flowers.",
+    "note": "A name for flowering plants of the genera Asphodelus and Asphodeline, bearing flowers on tall, upright clusters.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/asphodel",
+        "label": "Merriam-Webster: asphodel"
+      }
+    ],
+    "evidence": "story/p-543: ere was a lens at one end, disguised as a dewdrop in the throat of an asphodel. Gently he took the egg in his hands, closed one eye, and looked. The light of the interior was not"
+  },
+  {
+    "id": "combers",
+    "term": "combers",
+    "aliases": [],
+    "short": "Long, curling sea waves.",
+    "note": "Waves whose crests curl over before breaking.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/comber",
+        "label": "Merriam-Webster: combers"
+      }
+    ],
+    "evidence": "story/p-041:  at the water. Far off he could see it curving up and up, the distant combers breaking in white foam until the sea became white-flecked sky. To his left and his right the beach "
+  },
+  {
+    "id": "lianas",
+    "term": "lianas",
+    "aliases": [],
+    "short": "Woody climbing vines.",
+    "note": "Ground-rooted climbing plants, especially the long woody vines of tropical forests.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/liana",
+        "label": "Merriam-Webster: lianas"
+      }
+    ],
+    "evidence": "story/p-013: maze becoming as it progressed more and more draped with creepers and lianas with green, scarlet, and yellow leaves, the palms interspersed with bamboo and deciduous trees dott"
+  },
+  {
+    "id": "columniated",
+    "term": "columniated",
+    "aliases": [],
+    "short": "Having columns or arranged in columns.",
+    "note": "An architectural adjective describing a structure furnished with columns, or things set out in a column-like arrangement.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/columniated",
+        "label": "Collins English Dictionary: columniated"
+      }
+    ],
+    "evidence": "story/p-013: ther as they moved away from the water until the forest of their columniated trunks seemed architectural, like some palace maze becoming as it progressed more and more draped w"
   }
 ]

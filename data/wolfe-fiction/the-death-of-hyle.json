@@ -88,5 +88,20 @@
       }
     ],
     "evidence": "story/p-004: to say that I had the feeling then that the room around me, tole box, pencil, the brass inkstand with its devil face, desk, chair, books, walls, my bronze"
+  },
+  {
+    "id": "too-solid-flesh",
+    "term": "too-solid flesh",
+    "aliases": [],
+    "short": "Possibly an echo of Hamlet’s first soliloquy.",
+    "note": "Possibly an echo of Hamlet, act 1, scene 2, where Shakespeare’s prince wishes that his solid flesh could dissolve.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://shakespeare.mit.edu/hamlet/hamlet.1.2.html",
+        "label": "Shakespeare · Hamlet, act 1, scene 2"
+      }
+    ],
+    "evidence": "story/p-001: . Not only because what we have self-indulgently called our too-solid flesh is (as it is) no more than a cosmos of crackling energy; and not only because that fictio"
   }
 ]

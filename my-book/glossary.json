@@ -98,5 +98,25 @@
       "paragraph": "p-004",
       "index": 0
     }
+  },
+  {
+    "id": "preantepenultimate",
+    "term": "preantepenultimate",
+    "aliases": [],
+    "short": "Fourth from the end.",
+    "note": "The item immediately before the antepenultimate: fourth from last. The term is attested in John Walker’s 1791 pronouncing dictionary.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.worldwidewords.org/ww-pre3.html",
+        "label": "Michael Quinion · Preantepenultimate"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-007",
+      "index": 0
+    }
   }
 ]

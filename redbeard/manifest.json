@@ -18,7 +18,7 @@
   ],
   "totalWords": 2425,
   "defaultChapter": "story",
-  "glossaryCount": 1,
+  "glossaryCount": 2,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -91,6 +91,10 @@
       "headingNoteAnchors": [],
       "headingHtml": "Redbeard",
       "noteAnchors": [
+        {
+          "term": "barbarossa",
+          "paragraph": "p-006"
+        },
         {
           "term": "bluebeard",
           "paragraph": "p-030"

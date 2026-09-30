@@ -43,5 +43,35 @@
       }
     ],
     "evidence": "c17: son. That’s right for sure.” The Dancing Doll took Robin by the hand, making an arabesque penché of it. Now Robin rose. His guardsmen formed up and presented arms. “On the other hand,” Robin’s mother said, “they’re children only such a"
+  },
+  {
+    "id": "hassock",
+    "term": "hassock",
+    "aliases": [],
+    "short": "A firm cushioned footrest.",
+    "note": "A thick cushion used as a footstool or for kneeling; also an upholstered ottoman.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/hassock",
+        "label": "Dictionary.com · hassock"
+      }
+    ],
+    "evidence": "story/p-048: of the Christmas tree. Robin saw them. And Bear, behind the hassock of Robin’s father’s chair, saw them too. Cowboys and Native Americans were lifting the li"
+  },
+  {
+    "id": "jetes",
+    "term": "jetés",
+    "aliases": [],
+    "short": "Ballet leaps from one foot to the other.",
+    "note": "Jumps in which the dancer takes off from one foot and lands on the other, moving forward, backward, or sideways.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/jete",
+        "label": "Dictionary.com · jete"
+      }
+    ],
+    "evidence": "story/p-051:  faster even than Bear himself, in a breathtaking series of jetés, but the Raggedy Girl had lifted her feet from the floor, and now she was running with he"
   }
 ]

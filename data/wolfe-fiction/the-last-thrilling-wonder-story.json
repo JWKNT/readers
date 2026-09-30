@@ -28,5 +28,20 @@
       }
     ],
     "evidence": "c11: r have landed. They need the serum too, and they want to take Dr. Crane back to Rigel to make the serum there. There’s a mixup—everybody’s fighting everybody else. You and Carol are kidnapped to Rigel on the saucer. You see s"
+  },
+  {
+    "id": "gaiseric",
+    "term": "Gaiseric",
+    "aliases": [],
+    "short": "The Vandal king whose forces sacked Rome.",
+    "note": "Gaiseric, also called Genseric, established Vandal rule in North Africa. His forces plundered Rome in 455.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://sourcebooks.web.fordham.edu/ancient/procopius-vandals.asp",
+        "label": "Procopius · The Vandal Conquest, Fordham sourcebook"
+      }
+    ],
+    "evidence": "story/p-047: ion, it might have been sacked by the Goths, pulled down by Gaiseric and his Vandals. “It’s a real mercy,” a woman told him. “Nobody inside. Father always loc"
   }
 ]

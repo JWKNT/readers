@@ -1441,5 +1441,609 @@
       "paragraph": "p-407",
       "index": 0
     }
+  },
+  {
+    "id": "areaway",
+    "term": "areaway",
+    "aliases": [],
+    "short": "An open passage between buildings or their wings.",
+    "note": "A passage beside or between parts of buildings. The word can also describe a sunken open space that gives a basement light, air, or an entrance.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/areaway",
+        "label": "Collins English Dictionary: areaway"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-055",
+      "index": 0
+    }
+  },
+  {
+    "id": "chattels",
+    "term": "chattels",
+    "aliases": [],
+    "short": "Personal property rather than land or buildings.",
+    "note": "Goods or possessions treated as personal property, distinguished from real estate. Historically, the word was also applied to enslaved people legally treated as property.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chattel",
+        "label": "Merriam-Webster: chattel"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-407",
+      "index": 0
+    }
+  },
+  {
+    "id": "haberdasher",
+    "term": "haberdasher",
+    "aliases": [],
+    "short": "A dealer in clothing or small sewing goods.",
+    "note": "In American usage, an outfitter selling men’s clothes and accessories; in British usage, a seller of sewing notions such as needles, thread, and buttons.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/haberdasher",
+        "label": "Merriam-Webster: haberdasher"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-802",
+      "index": 2
+    }
+  },
+  {
+    "id": "prurience",
+    "term": "prurience",
+    "aliases": [],
+    "short": "An excessive or salacious interest in sexual matters.",
+    "note": "The quality of being prurient: an immoderate curiosity or desire, especially one directed toward sexual subjects.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/prurient",
+        "label": "Merriam-Webster: prurient"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-088",
+      "index": 0
+    }
+  },
+  {
+    "id": "acolyte",
+    "term": "acolyte",
+    "aliases": [],
+    "short": "An assistant at religious rites; also a devoted follower.",
+    "note": "Originally an attendant helping the clergy during worship. The word also denotes a pupil, disciple, or close assistant to a leader.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/acolyte",
+        "label": "Merriam-Webster: acolyte"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "a-story",
+      "paragraph": "p-041",
+      "index": 1
+    }
+  },
+  {
+    "id": "gingham",
+    "term": "gingham",
+    "aliases": [],
+    "short": "Plain-woven cloth made with dyed yarn, usually cotton.",
+    "note": "A fabric woven from yarn dyed before weaving, commonly associated with checks or stripes and used for clothing and household textiles.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gingham",
+        "label": "Merriam-Webster: gingham"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-448",
+      "index": 2
+    }
+  },
+  {
+    "id": "garrotte",
+    "term": "garrotte",
+    "aliases": [],
+    "short": "An implement or apparatus for strangulation.",
+    "note": "Also spelled garrote: a device used to kill by constricting the neck, including the apparatus historically employed in judicial executions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/garrote",
+        "label": "Merriam-Webster: garrote"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-094",
+      "index": 2
+    }
+  },
+  {
+    "id": "knapping",
+    "term": "Knapping",
+    "aliases": [],
+    "short": "Shaping stone by striking off flakes.",
+    "note": "Breaking pieces from flint or another suitable stone with controlled blows to form an edge or implement.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/knap",
+        "label": "Merriam-Webster: knap"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-382",
+      "index": 2
+    }
+  },
+  {
+    "id": "heterodox",
+    "term": "heterodox",
+    "aliases": [],
+    "short": "Departing from accepted doctrine or conventional belief.",
+    "note": "Unorthodox in opinion or practice: differing from an established teaching, religious doctrine, or accepted standard.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/heterodox",
+        "label": "Merriam-Webster: heterodox"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-933",
+      "index": 2
+    }
+  },
+  {
+    "id": "radiogram",
+    "term": "radiogram",
+    "aliases": [],
+    "short": "A message sent by wireless telegraphy.",
+    "note": "A telegram transmitted by radio rather than along a wire.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/radiogram",
+        "label": "Merriam-Webster: radiogram"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-722",
+      "index": 2
+    }
+  },
+  {
+    "id": "pewter",
+    "term": "pewter",
+    "aliases": [],
+    "short": "A metal alloy whose chief ingredient is tin.",
+    "note": "A family of tin-based alloys used for vessels and household utensils. Older pewter often contained lead; the word can also describe its dull bluish-gray color.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pewter",
+        "label": "Merriam-Webster: pewter"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-863",
+      "index": 2
+    }
+  },
+  {
+    "id": "ungulate",
+    "term": "ungulate",
+    "aliases": [],
+    "short": "A hoofed mammal.",
+    "note": "A mammal with hooves, such as a deer, horse, pig, or rhinoceros. The term groups animals by this bodily feature rather than naming a single species.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ungulate",
+        "label": "Merriam-Webster: ungulate"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "a-story",
+      "paragraph": "p-053",
+      "index": 1
+    }
+  },
+  {
+    "id": "colonnades",
+    "term": "colonnades",
+    "aliases": [],
+    "short": "Rows of columns.",
+    "note": "Regularly spaced columns, usually carrying the structure above them, such as a roof or entablature.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/colonnade",
+        "label": "Merriam-Webster: colonnade"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-819",
+      "index": 2
+    }
+  },
+  {
+    "id": "corinthian",
+    "term": "Corinthian",
+    "aliases": [],
+    "short": "The ornate classical column order with leafy capitals.",
+    "note": "One of the Greek architectural orders, distinguished by elaborate column capitals carved with acanthus leaves.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Corinthian",
+        "label": "Merriam-Webster: Corinthian"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-228",
+      "index": 0
+    }
+  },
+  {
+    "id": "crenelated",
+    "term": "crenelated",
+    "aliases": [],
+    "short": "Notched like the battlements of a castle.",
+    "note": "Also spelled crenellated: having a repeated pattern of raised sections and intervening gaps, as along a fortified wall.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/crenellated",
+        "label": "Merriam-Webster: crenellated"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-240",
+      "index": 0
+    }
+  },
+  {
+    "id": "carmine",
+    "term": "carmine",
+    "aliases": [],
+    "short": "A vivid red or crimson color.",
+    "note": "A rich red pigment traditionally made from cochineal, and the name of the color produced by it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carmine",
+        "label": "Merriam-Webster: carmine"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-139",
+      "index": 0
+    }
+  },
+  {
+    "id": "lintel",
+    "term": "lintel",
+    "aliases": [],
+    "short": "The horizontal structural piece above a doorway or window.",
+    "note": "A beam or slab spanning an opening and generally supporting the weight of the construction above it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lintel",
+        "label": "Merriam-Webster: lintel"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-012",
+      "index": 0
+    }
+  },
+  {
+    "id": "pallets",
+    "term": "pallets",
+    "aliases": [],
+    "short": "Simple beds or straw-filled mattresses.",
+    "note": "In this older bedding sense, a pallet is a small or makeshift bed, especially a mattress stuffed with straw.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pallet",
+        "label": "Merriam-Webster: pallet"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-266",
+      "index": 0
+    }
+  },
+  {
+    "id": "outcrossing",
+    "term": "outcrossing",
+    "aliases": [],
+    "short": "Breeding between relatively unrelated individuals.",
+    "note": "Introducing comparatively unrelated hereditary stock into a breeding line, rather than breeding within a close lineage.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/outcrossing",
+        "label": "Merriam-Webster: outcrossing"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-390",
+      "index": 0
+    }
+  },
+  {
+    "id": "cybernetics",
+    "term": "cybernetics",
+    "aliases": [],
+    "short": "Communication and control in living and mechanical systems.",
+    "note": "An interdisciplinary field comparing the regulation of systems such as brains, nervous systems, and machines, especially how information is used to control their behavior.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cybernetics",
+        "label": "Merriam-Webster: cybernetics"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-026",
+      "index": 0
+    }
+  },
+  {
+    "id": "ballisticians",
+    "term": "ballisticians",
+    "aliases": [],
+    "short": "Specialists in the behavior of projectiles and firearms.",
+    "note": "Experts in ballistics, including investigators who examine firearm evidence to establish how a weapon was used.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ballistician",
+        "label": "Merriam-Webster: ballistician"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-786",
+      "index": 2
+    }
+  },
+  {
+    "id": "paleolithic",
+    "term": "paleolithic",
+    "aliases": [],
+    "short": "Of the Old Stone Age.",
+    "note": "Relating to the earliest broad period of stone-tool cultures, characterized especially by chipped stone implements. The name combines Greek roots for “old” and “stone.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/paleolithic",
+        "label": "Merriam-Webster: paleolithic"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-077",
+      "index": 2
+    }
+  },
+  {
+    "id": "litany",
+    "term": "litany",
+    "aliases": [],
+    "short": "A repeated chant or extended recital.",
+    "note": "Originally a sequence of prayers alternating between a leader and a congregation; more broadly, a repetitive chant or a long enumeration.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/litany",
+        "label": "Merriam-Webster: litany"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-378",
+      "index": 2
+    }
+  },
+  {
+    "id": "maidenhead",
+    "term": "maidenhead",
+    "aliases": [],
+    "short": "An archaic word for virginity.",
+    "note": "A dated term for a woman’s virginity, also historically used for the hymen. Its ending is related to “-hood,” denoting a condition or state.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/maidenhead",
+        "label": "Merriam-Webster: maidenhead"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-138",
+      "index": 0
+    }
+  },
+  {
+    "id": "laissez-faire",
+    "term": "LAISSEZ-FAIRE",
+    "aliases": [],
+    "short": "A policy of leaving people free from interference.",
+    "note": "French for “let do”: the doctrine that government should intervene minimally in economic life, or more generally an attitude of deliberate noninterference.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/laissez-faire",
+        "label": "Merriam-Webster: laissez-faire"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-831",
+      "index": 2
+    }
+  },
+  {
+    "id": "prophylactic",
+    "term": "prophylactic",
+    "aliases": [],
+    "short": "Preventive, especially against disease or infection.",
+    "note": "Describing a precaution intended to avert harm before it occurs; in medical usage, a measure intended to prevent illness or its spread.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/prophylactic",
+        "label": "Merriam-Webster: prophylactic"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-806",
+      "index": 2
+    }
+  },
+  {
+    "id": "pralines",
+    "term": "pralines",
+    "aliases": [],
+    "short": "Confections made from nuts and sugar.",
+    "note": "Sweets in which nuts are cooked with sugar; familiar forms include crisp sugared almonds and soft brown-sugar patties containing pecans.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/praline",
+        "label": "Merriam-Webster: praline"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-422",
+      "index": 0
+    }
+  },
+  {
+    "id": "portage",
+    "term": "portage",
+    "aliases": [],
+    "short": "Carrying a boat and its cargo over land.",
+    "note": "The overland transfer of a boat or goods between waterways or around an obstruction such as a waterfall or rapids; also the path used for that transfer.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/portage",
+        "label": "Merriam-Webster: portage"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-414",
+      "index": 2
+    }
+  },
+  {
+    "id": "eoliths",
+    "term": "eoliths",
+    "aliases": [],
+    "short": "Roughly chipped flints once proposed as very early tools.",
+    "note": "Crude chipped stones, especially flints, historically proposed as implements older than Paleolithic hand axes. Their status as human artifacts became controversial because similar shapes could be produced by natural processes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/eolith",
+        "label": "Merriam-Webster: eolith"
+      },
+      {
+        "url": "https://archaeologybulletin.org/articles/623/files/submission/proof/623-1-3378-1-10-20200508.pdf",
+        "label": "Muthana and Ellen: The Great Eolith Debate (2020)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-972",
+      "index": 2
+    }
+  },
+  {
+    "id": "tgallant",
+    "term": "t’gallant",
+    "aliases": [],
+    "short": "A sailor’s shortened form of topgallant.",
+    "note": "The topgallant is the mast section above the topmast. A topgallant yard is the horizontal spar carrying a square sail at that height.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://38thvoyage.mysticseaport.org/cwm/glossary/",
+        "label": "Mystic Seaport Museum: sailing glossary"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-400",
+      "index": 2
+    }
   }
 ]

@@ -639,5 +639,205 @@
       "paragraph": "p-117",
       "index": 0
     }
+  },
+  {
+    "id": "thalamegus",
+    "term": "thalamegus",
+    "aliases": [],
+    "short": "An ancient type of luxurious river barge.",
+    "note": "The name of Ptolemy IV Philopator’s palatial Nile vessel, described by Athenaeus as a carrier of the king’s bedchamber, with elaborate accommodations.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.attalus.org/old/athenaeus5b.html",
+        "label": "Athenaeus · Deipnosophists, book 5"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-049",
+      "index": 0
+    }
+  },
+  {
+    "id": "windlass",
+    "term": "windlass",
+    "aliases": [],
+    "short": "A winch that winds a rope around a drum.",
+    "note": "A hauling or lifting device in which a rope, cable, or chain winds around a rotating drum, commonly on a horizontal axis.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/windlass",
+        "label": "Dictionary.com · windlass"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-048",
+      "index": 0
+    }
+  },
+  {
+    "id": "jerkin",
+    "term": "jerkin",
+    "aliases": [],
+    "short": "A close-fitting, usually sleeveless jacket.",
+    "note": "A short fitted jacket, often of leather and without sleeves, particularly associated with sixteenth- and seventeenth-century dress.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/jerkin",
+        "label": "Dictionary.com · jerkin"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-060",
+      "index": 0
+    }
+  },
+  {
+    "id": "gaffsail",
+    "term": "gaffsail",
+    "aliases": [],
+    "short": "A four-sided fore-and-aft sail.",
+    "note": "A quadrilateral sail set along the vessel’s length rather than square across it, its upper edge supported by a spar called a gaff.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/gaffsail",
+        "label": "Dictionary.com · gaffsail"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-022",
+      "index": 0
+    }
+  },
+  {
+    "id": "jib-boom",
+    "term": "jib-boom",
+    "aliases": [],
+    "short": "A spar extending the bowsprit.",
+    "note": "An additional spar projecting forward from the bowsprit at a sailing vessel’s bow.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/jib-boom",
+        "label": "Dictionary.com · jib-boom"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-068",
+      "index": 0
+    }
+  },
+  {
+    "id": "lapis-lazuli",
+    "term": "lapis lazuli",
+    "aliases": [],
+    "short": "A richly blue ornamental stone.",
+    "note": "A deep-blue stone composed chiefly of lazurite with other minerals, used in ornaments and historically as a source of blue pigment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/lapis-lazuli",
+        "label": "Dictionary.com · lapis-lazuli"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-049",
+      "index": 0
+    }
+  },
+  {
+    "id": "panicles",
+    "term": "panicles",
+    "aliases": [],
+    "short": "Branching clusters of flowers.",
+    "note": "Loose, branched flower clusters, with smaller stalks branching from a main axis.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/panicle",
+        "label": "Dictionary.com · panicle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-086",
+      "index": 0
+    }
+  },
+  {
+    "id": "vellum",
+    "term": "vellum",
+    "aliases": [],
+    "short": "Prepared animal skin used as parchment.",
+    "note": "Fine animal skin, traditionally calfskin, treated to serve as a durable writing surface.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/vellum",
+        "label": "Dictionary.com · vellum"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-109",
+      "index": 0
+    }
+  },
+  {
+    "id": "shallop",
+    "term": "shallop",
+    "aliases": [],
+    "short": "A small boat for shallow water.",
+    "note": "An older term for a light boat used for rowing or sailing in shallow water; some historical shallops carried two masts.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/shallop",
+        "label": "Dictionary.com · shallop"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-072",
+      "index": 0
+    }
+  },
+  {
+    "id": "capstan",
+    "term": "capstan",
+    "aliases": [],
+    "short": "A vertical-axis winch for hauling ropes.",
+    "note": "A rotating upright drum that winds in rope or cable, traditionally turned by sailors pushing horizontal bars.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/capstan",
+        "label": "Dictionary.com · capstan"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-095",
+      "index": 0
+    }
   }
 ]

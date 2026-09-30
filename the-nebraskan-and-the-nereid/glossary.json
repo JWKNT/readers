@@ -167,5 +167,25 @@
       "paragraph": "p-005",
       "index": 0
     }
+  },
+  {
+    "id": "schliemann",
+    "term": "Schliemann",
+    "aliases": [],
+    "short": "Heinrich Schliemann, excavator of Troy and Mycenae.",
+    "note": "Heinrich Schliemann (1822–1890), the archaeologist associated with major nineteenth-century excavations at Troy, Mycenae, and other prehistoric sites.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.ascsa.edu.gr/news/newsDetails/online-exhibition-on-heinrich-schliemann-en",
+        "label": "American School of Classical Studies at Athens · Heinrich Schliemann"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-031",
+      "index": 0
+    }
   }
 ]

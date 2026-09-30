@@ -18,7 +18,7 @@
   ],
   "totalWords": 2220,
   "defaultChapter": "story",
-  "glossaryCount": 2,
+  "glossaryCount": 4,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -105,6 +105,14 @@
       "headingNoteAnchors": [],
       "headingHtml": "Petting Zoo",
       "noteAnchors": [
+        {
+          "term": "upper-cretaceous",
+          "paragraph": "p-033"
+        },
+        {
+          "term": "eocene",
+          "paragraph": "p-039"
+        },
         {
           "term": "moeritherium",
           "paragraph": "p-039"

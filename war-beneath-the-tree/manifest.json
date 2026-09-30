@@ -12,7 +12,7 @@
   ],
   "totalWords": 2104,
   "defaultChapter": "story",
-  "glossaryCount": 3,
+  "glossaryCount": 5,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -102,6 +102,14 @@
         {
           "term": "gingham-dog",
           "paragraph": "p-019"
+        },
+        {
+          "term": "hassock",
+          "paragraph": "p-048"
+        },
+        {
+          "term": "jetes",
+          "paragraph": "p-051"
         },
         {
           "term": "calico-cat",

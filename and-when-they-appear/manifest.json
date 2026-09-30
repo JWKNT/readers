@@ -18,7 +18,7 @@
   ],
   "totalWords": 8457,
   "defaultChapter": "story",
-  "glossaryCount": 13,
+  "glossaryCount": 15,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -338,6 +338,10 @@
           "paragraph": "p-024"
         },
         {
+          "term": "cravat",
+          "paragraph": "p-032"
+        },
+        {
           "term": "ebenezer",
           "paragraph": "p-037"
         },
@@ -347,6 +351,10 @@
         },
         {
           "term": "frey",
+          "paragraph": "p-061"
+        },
+        {
+          "term": "asgard",
           "paragraph": "p-061"
         },
         {

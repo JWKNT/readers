@@ -2007,5 +2007,255 @@
       "paragraph": "p-098",
       "index": 15
     }
+  },
+  {
+    "id": "phalanx",
+    "term": "phalanx",
+    "aliases": [],
+    "short": "A closely packed formation of troops.",
+    "note": "Originally a dense, ordered formation of ancient Greek infantry; more broadly, any massed body arranged in close ranks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/phalanx",
+        "label": "Merriam-Webster: phalanx"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-79",
+      "paragraph": "p-017",
+      "index": 67
+    }
+  },
+  {
+    "id": "infrasonic",
+    "term": "infrasonic",
+    "aliases": [],
+    "short": "Below the range of human hearing.",
+    "note": "Describes sound or vibration with a frequency lower than the human ear can normally hear.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/infrasonic",
+        "label": "Merriam-Webster: infrasonic"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "section-24",
+      "paragraph": "p-048",
+      "index": 15
+    }
+  },
+  {
+    "id": "mitral-and-tricuspid-valves",
+    "term": "mitral and tricuspid valves",
+    "aliases": [],
+    "short": "Valves between the heart’s upper and lower chambers.",
+    "note": "The mitral valve controls flow from the left atrium to the left ventricle; the tricuspid valve serves the corresponding right-side chambers and prevents backflow.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mitral%20valve",
+        "label": "Merriam-Webster: mitral valve"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tricuspid%20valve",
+        "label": "Merriam-Webster: tricuspid valve"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-46",
+      "paragraph": "p-016",
+      "index": 37
+    }
+  },
+  {
+    "id": "skiffs",
+    "term": "skiffs",
+    "aliases": [
+      "skiff"
+    ],
+    "short": "Small, light boats.",
+    "note": "A general term for small boats, especially flat-bottomed rowing boats.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/skiff",
+        "label": "Merriam-Webster: skiff"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "section-75",
+      "paragraph": "p-002",
+      "index": 64
+    }
+  },
+  {
+    "id": "sconces",
+    "term": "sconces",
+    "aliases": [
+      "sconce"
+    ],
+    "short": "Wall-mounted holders for lights.",
+    "note": "Brackets attached to a wall to support candles, torches, or similarly positioned lighting fixtures.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sconce",
+        "label": "Merriam-Webster: sconce"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-09",
+      "paragraph": "p-038",
+      "index": 1
+    }
+  },
+  {
+    "id": "flagon",
+    "term": "flagon",
+    "aliases": [
+      "flagons"
+    ],
+    "short": "A large drinking or serving vessel.",
+    "note": "A large container for wine or other drink, typically with a handle and spout and often a lid.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/flagon",
+        "label": "Merriam-Webster: flagon"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-60",
+      "paragraph": "p-093",
+      "index": 50
+    }
+  },
+  {
+    "id": "tatami",
+    "term": "tatami",
+    "aliases": [],
+    "short": "Traditional Japanese floor mats.",
+    "note": "Mats traditionally made with straw and used as floor coverings in Japanese homes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tatami",
+        "label": "Merriam-Webster: tatami"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-29",
+      "paragraph": "p-008",
+      "index": 20
+    }
+  },
+  {
+    "id": "barbitone",
+    "term": "barbitone",
+    "aliases": [],
+    "short": "Another name for the sedative drug barbital.",
+    "note": "The British name for barbital, a barbiturate historically used as a sedative and sleep-inducing drug.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/barbital",
+        "label": "Merriam-Webster: barbital"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-11",
+      "paragraph": "p-050",
+      "index": 3
+    }
+  },
+  {
+    "id": "chromosphere",
+    "term": "chromosphere",
+    "aliases": [],
+    "short": "The stellar layer between photosphere and corona.",
+    "note": "A region of a star’s atmosphere lying above its visible photosphere and below the outer corona.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chromosphere",
+        "label": "Merriam-Webster: chromosphere"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-52",
+      "paragraph": "p-016",
+      "index": 42
+    }
+  },
+  {
+    "id": "antimatter",
+    "term": "antimatter",
+    "aliases": [],
+    "short": "Matter made from the antiparticles of ordinary particles.",
+    "note": "Antiparticles have the same masses as their corresponding particles but opposite electric charges where charged. Matter and antimatter can annihilate on contact, releasing energy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://home.cern/science/physics/antimatter/",
+        "label": "CERN: antimatter"
+      }
+    ],
+    "occurrences": 17,
+    "first": {
+      "chapter": "section-56",
+      "paragraph": "p-100",
+      "index": 46
+    }
+  },
+  {
+    "id": "degenerate-matter",
+    "term": "degenerate matter",
+    "aliases": [],
+    "short": "Dense matter supported by quantum-mechanical pressure.",
+    "note": "Matter compressed so strongly that quantum restrictions on how particles occupy states become important. Electron degeneracy pressure supports white-dwarf stars against gravitational collapse.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://imagine.gsfc.nasa.gov/science/objects/dwarfs2.html",
+        "label": "NASA: white dwarfs and degenerate matter"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "section-34",
+      "paragraph": "p-005",
+      "index": 25
+    }
+  },
+  {
+    "id": "kenjutsu",
+    "term": "kenjutsu",
+    "aliases": [],
+    "short": "Traditional Japanese swordsmanship.",
+    "note": "Literally sword techniques: the Japanese arts of sword fighting from which modern kendo developed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.kendo.or.jp/en/knowledge/kendo-history/",
+        "label": "All Japan Kendo Federation: history of kendo"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-35",
+      "paragraph": "p-010",
+      "index": 26
+    }
   }
 ]

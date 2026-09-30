@@ -73,5 +73,20 @@
       }
     ],
     "evidence": "story/p-011: lantis, with agates and alexanderites, moonstones and onyxes, rubies, sardonyxes, and sapphires, and at last the magic woman from the hills went away muttering."
+  },
+  {
+    "id": "hellas",
+    "term": "Hellas",
+    "aliases": [],
+    "short": "The ancient Greek name for Greece.",
+    "note": "A transliteration of the Greek name for Greece, also used in English for the ancient Greek world.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/hellas",
+        "label": "Dictionary.com: Hellas"
+      }
+    ],
+    "evidence": "story/p-002: of Atlantis for the wine and ram skins of the wild barbarians of Hellas, leaving the boy and his mother very poor."
   }
 ]

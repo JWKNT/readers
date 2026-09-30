@@ -12,7 +12,7 @@
   ],
   "totalWords": 9154,
   "defaultChapter": "story",
-  "glossaryCount": 2,
+  "glossaryCount": 3,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -456,6 +456,10 @@
         {
           "term": "rigel",
           "paragraph": "p-015"
+        },
+        {
+          "term": "gaiseric",
+          "paragraph": "p-047"
         }
       ],
       "words": 9154,

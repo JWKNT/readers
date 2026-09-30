@@ -143,5 +143,25 @@
       "paragraph": "p-059",
       "index": 0
     }
+  },
+  {
+    "id": "beelzebub",
+    "term": "Beelzebub",
+    "aliases": [],
+    "short": "A devil’s name meaning “lord of flies.”",
+    "note": "A biblical name for the devil, derived from a Hebrew title meaning “lord of flies,” originally the name of a Philistine god.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/beelzebub",
+        "label": "Oxford Advanced Learner’s Dictionary: Beelzebub"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-083",
+      "index": 0
+    }
   }
 ]

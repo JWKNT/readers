@@ -40,5 +40,25 @@
       "paragraph": "chapter-title",
       "index": 0
     }
+  },
+  {
+    "id": "newtonian",
+    "term": "Newtonian",
+    "aliases": [],
+    "short": "Following Newton’s classical account of time.",
+    "note": "In Newtonian physics, absolute time passes uniformly and independently of events or an observer’s motion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/archives/fall2014/entries/newton-stm/",
+        "label": "Stanford Encyclopedia of Philosophy: Newton’s Views on Space, Time, and Motion"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-058",
+      "index": 0
+    }
   }
 ]

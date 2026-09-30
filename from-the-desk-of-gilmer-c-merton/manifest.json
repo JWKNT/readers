@@ -18,7 +18,7 @@
   ],
   "totalWords": 1547,
   "defaultChapter": "story",
-  "glossaryCount": 1,
+  "glossaryCount": 3,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -120,6 +120,14 @@
         {
           "term": "underwood",
           "paragraph": "p-032"
+        },
+        {
+          "term": "berry-longear",
+          "paragraph": "p-037"
+        },
+        {
+          "term": "oar-scottson-curd",
+          "paragraph": "p-037"
         }
       ],
       "words": 1547,

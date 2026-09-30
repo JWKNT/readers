@@ -12,7 +12,7 @@
   ],
   "totalWords": 6646,
   "defaultChapter": "story",
-  "glossaryCount": 3,
+  "glossaryCount": 4,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -207,6 +207,10 @@
         },
         {
           "term": "punch",
+          "paragraph": "p-060"
+        },
+        {
+          "term": "shillelagh",
           "paragraph": "p-060"
         }
       ],

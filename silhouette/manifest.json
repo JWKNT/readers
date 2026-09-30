@@ -12,7 +12,7 @@
   ],
   "totalWords": 18202,
   "defaultChapter": "story",
-  "glossaryCount": 10,
+  "glossaryCount": 11,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -717,6 +717,10 @@
         {
           "term": "dostoevski",
           "paragraph": "p-288"
+        },
+        {
+          "term": "padre-pio",
+          "paragraph": "p-308"
         },
         {
           "term": "planchette",

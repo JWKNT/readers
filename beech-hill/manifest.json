@@ -18,7 +18,7 @@
   ],
   "totalWords": 2216,
   "defaultChapter": "story",
-  "glossaryCount": 1,
+  "glossaryCount": 2,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -116,6 +116,10 @@
         {
           "term": "bond",
           "paragraph": "p-018"
+        },
+        {
+          "term": "norfolk-jacket",
+          "paragraph": "p-027"
         }
       ],
       "words": 2216,

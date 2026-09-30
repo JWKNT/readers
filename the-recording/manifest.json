@@ -18,7 +18,7 @@
   ],
   "totalWords": 1498,
   "defaultChapter": "story",
-  "glossaryCount": 4,
+  "glossaryCount": 5,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -64,6 +64,10 @@
         },
         {
           "term": "seersucker",
+          "paragraph": "p-008"
+        },
+        {
+          "term": "indomptable",
           "paragraph": "p-008"
         },
         {

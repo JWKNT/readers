@@ -118,5 +118,45 @@
       "paragraph": "p-030",
       "index": 0
     }
+  },
+  {
+    "id": "dr-huer",
+    "term": "Dr. Huer",
+    "aliases": [],
+    "short": "The scientist in the Buck Rogers comic strip.",
+    "note": "Doctor Huer is Buck Rogers’s scientist friend in the newspaper science-fiction adventure strip that began in 1929.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Buck_Rogers",
+        "label": "Buck Rogers · Comic-strip characters"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-051",
+      "index": 0
+    }
+  },
+  {
+    "id": "flapper",
+    "term": "flapper",
+    "aliases": [],
+    "short": "A fashionably unconventional young woman of the 1920s.",
+    "note": "A young woman associated especially with the 1920s who challenged conventional expectations through her dress and behavior.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/flapper",
+        "label": "Dictionary.com · flapper"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-002",
+      "index": 0
+    }
   }
 ]

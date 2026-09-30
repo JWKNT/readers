@@ -18,7 +18,7 @@
   ],
   "totalWords": 18724,
   "defaultChapter": "story",
-  "glossaryCount": 4,
+  "glossaryCount": 7,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -598,6 +598,18 @@
       "headingNoteAnchors": [],
       "headingHtml": "Forlesen",
       "noteAnchors": [
+        {
+          "term": "mimeographed",
+          "paragraph": "p-026"
+        },
+        {
+          "term": "blind-tooled",
+          "paragraph": "p-057"
+        },
+        {
+          "term": "coatimundi",
+          "paragraph": "p-112"
+        },
         {
           "term": "keypunch",
           "paragraph": "p-231"

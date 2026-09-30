@@ -18,7 +18,7 @@
   ],
   "totalWords": 2229,
   "defaultChapter": "story",
-  "glossaryCount": 17,
+  "glossaryCount": 18,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -124,6 +124,10 @@
         {
           "term": "thomson",
           "paragraph": "p-020"
+        },
+        {
+          "term": "thule",
+          "paragraph": "p-023"
         },
         {
           "term": "prince-valiant",

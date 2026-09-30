@@ -18,7 +18,7 @@
   ],
   "totalWords": 12017,
   "defaultChapter": "story",
-  "glossaryCount": 11,
+  "glossaryCount": 13,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -429,6 +429,10 @@
           "paragraph": "p-006"
         },
         {
+          "term": "decolletage",
+          "paragraph": "p-030"
+        },
+        {
           "term": "dick-whittington",
           "paragraph": "p-046"
         },
@@ -455,6 +459,10 @@
         {
           "term": "joe-nuxhall",
           "paragraph": "p-245"
+        },
+        {
+          "term": "ancien-regime",
+          "paragraph": "p-295"
         }
       ],
       "words": 12017,

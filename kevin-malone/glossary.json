@@ -80,5 +80,25 @@
       "paragraph": "p-026",
       "index": 0
     }
+  },
+  {
+    "id": "sevres",
+    "term": "Sèvres",
+    "aliases": [],
+    "short": "Fine French porcelain from Sèvres.",
+    "note": "Porcelain made at the celebrated manufactory near Paris, established at Vincennes around 1740 and moved to Sèvres in 1756.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://noma.org/exhibitions/sevres-magnifique/",
+        "label": "New Orleans Museum of Art: Sèvres Magnifique"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-120",
+      "index": 0
+    }
   }
 ]

@@ -12,7 +12,7 @@
   ],
   "totalWords": 558,
   "defaultChapter": "story",
-  "glossaryCount": 5,
+  "glossaryCount": 6,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -59,6 +59,10 @@
         {
           "term": "antepenultimate",
           "paragraph": "p-005"
+        },
+        {
+          "term": "preantepenultimate",
+          "paragraph": "p-007"
         }
       ],
       "words": 558,

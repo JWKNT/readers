@@ -88,5 +88,20 @@
       }
     ],
     "evidence": "story/p-051: dependent on subminiature semiconductor chips which make up bistable circuits. When there is no electromotive force on them, the semiconductors “forget” their"
+  },
+  {
+    "id": "trusses",
+    "term": "trusses",
+    "aliases": [],
+    "short": "Supportive belts for hernias.",
+    "note": "Medical supports consisting of a pad and belt intended to hold a hernia in place.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/truss",
+        "label": "Dictionary.com · truss"
+      }
+    ],
+    "evidence": "story/p-010: e would wander about the store one at a time looking at the trusses and contraceptives we had no use for, and pretending to drink a carbonated liquid until t"
   }
 ]

@@ -58,5 +58,45 @@
       "paragraph": "p-007",
       "index": 0
     }
+  },
+  {
+    "id": "hassock",
+    "term": "hassock",
+    "aliases": [],
+    "short": "A firm cushioned footrest.",
+    "note": "A thick cushion used as a footstool or for kneeling; also an upholstered ottoman.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/hassock",
+        "label": "Dictionary.com · hassock"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-048",
+      "index": 0
+    }
+  },
+  {
+    "id": "jetes",
+    "term": "jetés",
+    "aliases": [],
+    "short": "Ballet leaps from one foot to the other.",
+    "note": "Jumps in which the dancer takes off from one foot and lands on the other, moving forward, backward, or sideways.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/jete",
+        "label": "Dictionary.com · jete"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-051",
+      "index": 0
+    }
   }
 ]

@@ -489,5 +489,155 @@
       }
     ],
     "evidence": "story/p-117: ulity of a householder who finds himself savaged by his own bandog, and he threw up his arms as much to shut out the sight as to counter the blow."
+  },
+  {
+    "id": "thalamegus",
+    "term": "thalamegus",
+    "aliases": [],
+    "short": "An ancient type of luxurious river barge.",
+    "note": "The name of Ptolemy IV Philopator’s palatial Nile vessel, described by Athenaeus as a carrier of the king’s bedchamber, with elaborate accommodations.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.attalus.org/old/athenaeus5b.html",
+        "label": "Athenaeus · Deipnosophists, book 5"
+      }
+    ],
+    "evidence": "story/p-049: p-049 To starboard, a high-pooped thalamegus made its way up the river, glittering in the sunlight like a scarab, all gilding and lapi"
+  },
+  {
+    "id": "windlass",
+    "term": "windlass",
+    "aliases": [],
+    "short": "A winch that winds a rope around a drum.",
+    "note": "A hauling or lifting device in which a rope, cable, or chain winds around a rotating drum, commonly on a horizontal axis.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/windlass",
+        "label": "Dictionary.com · windlass"
+      }
+    ],
+    "evidence": "story/p-048: . “There’s a meander coming up.” The stranger heaved at the windlass, and the boom crept back."
+  },
+  {
+    "id": "jerkin",
+    "term": "jerkin",
+    "aliases": [],
+    "short": "A close-fitting, usually sleeveless jacket.",
+    "note": "A short fitted jacket, often of leather and without sleeves, particularly associated with sixteenth- and seventeenth-century dress.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/jerkin",
+        "label": "Dictionary.com · jerkin"
+      }
+    ],
+    "evidence": "story/p-060: shade it gave him, he was sweating. He unlaced his cordwain jerkin."
+  },
+  {
+    "id": "gaffsail",
+    "term": "gaffsail",
+    "aliases": [],
+    "short": "A four-sided fore-and-aft sail.",
+    "note": "A quadrilateral sail set along the vessel’s length rather than square across it, its upper edge supported by a spar called a gaff.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/gaffsail",
+        "label": "Dictionary.com · gaffsail"
+      }
+    ],
+    "evidence": "story/p-022: and Eata’s boat heeled a bit under the pressure of her wide gaffsail. The old sun, well above the tallest towers now, painted the sail’s black image on the oi"
+  },
+  {
+    "id": "jib-boom",
+    "term": "jib-boom",
+    "aliases": [],
+    "short": "A spar extending the bowsprit.",
+    "note": "An additional spar projecting forward from the bowsprit at a sailing vessel’s bow.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/jib-boom",
+        "label": "Dictionary.com · jib-boom"
+      }
+    ],
+    "evidence": "story/p-068: e overhang of the half-deck, their heads thrusting past the jib-boom mountings."
+  },
+  {
+    "id": "lapis-lazuli",
+    "term": "lapis lazuli",
+    "aliases": [],
+    "short": "A richly blue ornamental stone.",
+    "note": "A deep-blue stone composed chiefly of lazurite with other minerals, used in ornaments and historically as a source of blue pigment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/lapis-lazuli",
+        "label": "Dictionary.com · lapis-lazuli"
+      }
+    ],
+    "evidence": "story/p-049: , glittering in the sunlight like a scarab, all gilding and lapis lazuli. The wind was fair for it now, and as they watched (Eata with one eye to their own sail) "
+  },
+  {
+    "id": "panicles",
+    "term": "panicles",
+    "aliases": [],
+    "short": "Branching clusters of flowers.",
+    "note": "Loose, branched flower clusters, with smaller stalks branching from a main axis.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/panicle",
+        "label": "Dictionary.com · panicle"
+      }
+    ],
+    "evidence": "story/p-086: t? He could not remember. Lilacs nodded their honey-charged panicles."
+  },
+  {
+    "id": "vellum",
+    "term": "vellum",
+    "aliases": [],
+    "short": "Prepared animal skin used as parchment.",
+    "note": "Fine animal skin, traditionally calfskin, treated to serve as a durable writing surface.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/vellum",
+        "label": "Dictionary.com · vellum"
+      }
+    ],
+    "evidence": "story/p-109: llen stone and took out the map. He had wrapped it in oiled vellum, and the slight wetting the packet had received had not penetrated."
+  },
+  {
+    "id": "shallop",
+    "term": "shallop",
+    "aliases": [],
+    "short": "A small boat for shallow water.",
+    "note": "An older term for a light boat used for rowing or sailing in shallow water; some historical shallops carried two masts.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/shallop",
+        "label": "Dictionary.com · shallop"
+      }
+    ],
+    "evidence": "story/p-072: d easily have touched the water with his hands. No skiff or shallop launched from the silent shore."
+  },
+  {
+    "id": "capstan",
+    "term": "capstan",
+    "aliases": [],
+    "short": "A vertical-axis winch for hauling ropes.",
+    "note": "A rotating upright drum that winds in rope or cable, traditionally turned by sailors pushing horizontal bars.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/capstan",
+        "label": "Dictionary.com · capstan"
+      }
+    ],
+    "evidence": "story/p-095: p-095 Together they turned the little capstan that drew up the anchor. The stranger broke out the jib while Eata heaved at the mainsail"
   }
 ]

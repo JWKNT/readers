@@ -193,5 +193,65 @@
       }
     ],
     "evidence": "story/p-002: sually you don’t get them. Sarg had them. The light ran to sienna and umber and ocher, so that everything looked older than it was and made you think of waxed oak and tarnishe"
+  },
+  {
+    "id": "falsetto",
+    "term": "falsetto",
+    "aliases": [],
+    "short": "An artificially high vocal register.",
+    "note": "A high, light register extending above the ordinary full voice, especially associated with male singers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/falsetto",
+        "label": "Merriam-Webster: falsetto"
+      }
+    ],
+    "evidence": "story/p-027: d—I did only male voices. And the false female speaking singsong, the falsetto. Then I married and little Maria, I mean Signora Stromboli my wife, began to help. In those days I "
+  },
+  {
+    "id": "carmine",
+    "term": "carmine",
+    "aliases": [],
+    "short": "A vivid crimson-red color.",
+    "note": "A rich red pigment traditionally derived from cochineal, or the color of that pigment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carmine",
+        "label": "Merriam-Webster: carmine"
+      }
+    ],
+    "evidence": "story/p-037: r head to show me her profile—a tip-tilted nose, generous lips salved carmine. “My bust is still good. I’m perhaps a little thicker at the waist, but my thighs are heavier too, "
+  },
+  {
+    "id": "sienna",
+    "term": "sienna",
+    "aliases": [],
+    "short": "A yellow-brown or reddish-brown earth color.",
+    "note": "An iron-rich earth pigment, brownish yellow when raw and reddish brown when heated; also the color it produces.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sienna",
+        "label": "Merriam-Webster: sienna"
+      }
+    ],
+    "evidence": "story/p-002:  air, and usually you don’t get them. Sarg had them. The light ran to sienna and umber and ocher, so that everything looked older than it was and made you think of waxed oak an"
+  },
+  {
+    "id": "ocher",
+    "term": "ocher",
+    "aliases": [],
+    "short": "An earthy yellow or reddish pigment.",
+    "note": "A natural iron-rich earth used as a pigment; the word often denotes its yellow form. Also spelled ochre.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ocher",
+        "label": "Merriam-Webster: ocher"
+      }
+    ],
+    "evidence": "story/p-002:  don’t get them. Sarg had them. The light ran to sienna and umber and ocher, so that everything looked older than it was and made you think of waxed oak and tarnished gold. Th"
   }
 ]

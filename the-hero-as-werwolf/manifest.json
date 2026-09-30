@@ -18,7 +18,7 @@
   ],
   "totalWords": 6448,
   "defaultChapter": "story",
-  "glossaryCount": 5,
+  "glossaryCount": 8,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -180,6 +180,18 @@
         {
           "term": "intellection",
           "paragraph": "p-019"
+        },
+        {
+          "term": "metalanguage",
+          "paragraph": "p-058"
+        },
+        {
+          "term": "columniated",
+          "paragraph": "p-113"
+        },
+        {
+          "term": "hugo-de-vries",
+          "paragraph": "p-115"
         },
         {
           "term": "cephalopods",

@@ -18,7 +18,7 @@
   ],
   "totalWords": 1848,
   "defaultChapter": "story",
-  "glossaryCount": 7,
+  "glossaryCount": 8,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -165,6 +165,10 @@
         {
           "term": "hansom",
           "paragraph": "p-059"
+        },
+        {
+          "term": "beelzebub",
+          "paragraph": "p-083"
         }
       ],
       "words": 1848,

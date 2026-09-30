@@ -258,5 +258,85 @@
       "paragraph": "p-002",
       "index": 0
     }
+  },
+  {
+    "id": "falsetto",
+    "term": "falsetto",
+    "aliases": [],
+    "short": "An artificially high vocal register.",
+    "note": "A high, light register extending above the ordinary full voice, especially associated with male singers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/falsetto",
+        "label": "Merriam-Webster: falsetto"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-027",
+      "index": 0
+    }
+  },
+  {
+    "id": "carmine",
+    "term": "carmine",
+    "aliases": [],
+    "short": "A vivid crimson-red color.",
+    "note": "A rich red pigment traditionally derived from cochineal, or the color of that pigment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carmine",
+        "label": "Merriam-Webster: carmine"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-037",
+      "index": 0
+    }
+  },
+  {
+    "id": "sienna",
+    "term": "sienna",
+    "aliases": [],
+    "short": "A yellow-brown or reddish-brown earth color.",
+    "note": "An iron-rich earth pigment, brownish yellow when raw and reddish brown when heated; also the color it produces.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sienna",
+        "label": "Merriam-Webster: sienna"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-002",
+      "index": 0
+    }
+  },
+  {
+    "id": "ocher",
+    "term": "ocher",
+    "aliases": [],
+    "short": "An earthy yellow or reddish pigment.",
+    "note": "A natural iron-rich earth used as a pigment; the word often denotes its yellow form. Also spelled ochre.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ocher",
+        "label": "Merriam-Webster: ocher"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-002",
+      "index": 0
+    }
   }
 ]

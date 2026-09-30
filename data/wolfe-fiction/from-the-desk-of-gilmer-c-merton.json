@@ -13,5 +13,35 @@
       }
     ],
     "evidence": "o note that I have borrowed enough on my signature to trade in my old Underwood for a used word processor. (These are used words, ha, ha!) Interest is 18 percent, but th"
+  },
+  {
+    "id": "oar-scottson-curd",
+    "term": "Oar Scottson Curd",
+    "aliases": [],
+    "short": "Possibly a pun on Orson Scott Card.",
+    "note": "Possibly a rearrangement of the name Orson Scott Card, the American science-fiction and fantasy writer best known for Ender’s Game.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://us.macmillan.com/author/orsonscottcard/",
+        "label": "Macmillan: Orson Scott Card"
+      }
+    ],
+    "evidence": "story/p-037: opt a zippier pen name, something along the lines of Berry Longear or Oar Scottson Curd. Whatever you like, but please, not Robert A. anything. (Gil Donadil might be nice???) The choice i"
+  },
+  {
+    "id": "berry-longear",
+    "term": "Berry Longear",
+    "aliases": [],
+    "short": "Possibly a pun on Barry B. Longyear.",
+    "note": "Possibly a play on the name Barry B. Longyear, the American science-fiction writer whose novella Enemy Mine won Hugo and Nebula awards.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://sf-encyclopedia.com/entry/longyear_barry_b",
+        "label": "The Encyclopedia of Science Fiction: Barry B. Longyear"
+      }
+    ],
+    "evidence": "story/p-037: ike to see you adopt a zippier pen name, something along the lines of Berry Longear or Oar Scottson Curd. Whatever you like, but please, not Robert A. anything. (Gil Donadil might be "
   }
 ]

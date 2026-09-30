@@ -12,7 +12,7 @@
   ],
   "totalWords": 3110,
   "defaultChapter": "story",
-  "glossaryCount": 9,
+  "glossaryCount": 11,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -123,12 +123,20 @@
           "paragraph": "p-005"
         },
         {
+          "term": "darwin",
+          "paragraph": "p-008"
+        },
+        {
           "term": "sombelen",
           "paragraph": "p-009"
         },
         {
           "term": "peirithous",
           "paragraph": "p-009"
+        },
+        {
+          "term": "sternwheeler",
+          "paragraph": "p-018"
         },
         {
           "term": "galilean",

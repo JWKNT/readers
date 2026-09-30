@@ -12,7 +12,7 @@
   ],
   "totalWords": 2185,
   "defaultChapter": "story",
-  "glossaryCount": 2,
+  "glossaryCount": 3,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -102,6 +102,10 @@
         {
           "term": "an-incident-at-krechetovka-station",
           "paragraph": "p-007"
+        },
+        {
+          "term": "disincarnate",
+          "paragraph": "p-032"
         }
       ],
       "words": 2185,

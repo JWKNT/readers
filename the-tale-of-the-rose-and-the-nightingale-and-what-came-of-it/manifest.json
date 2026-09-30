@@ -12,7 +12,7 @@
   ],
   "totalWords": 9544,
   "defaultChapter": "story",
-  "glossaryCount": 24,
+  "glossaryCount": 29,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -385,6 +385,10 @@
           "paragraph": "p-046"
         },
         {
+          "term": "muezzins",
+          "paragraph": "p-055"
+        },
+        {
           "term": "obelisk",
           "paragraph": "p-076"
         },
@@ -397,8 +401,20 @@
           "paragraph": "p-078"
         },
         {
+          "term": "piasters",
+          "paragraph": "p-081"
+        },
+        {
           "term": "lateen",
           "paragraph": "p-082"
+        },
+        {
+          "term": "chibouque",
+          "paragraph": "p-082"
+        },
+        {
+          "term": "wazir",
+          "paragraph": "p-093"
         },
         {
           "term": "ashlar",
@@ -415,6 +431,10 @@
         {
           "term": "rustam",
           "paragraph": "p-157"
+        },
+        {
+          "term": "darabukka",
+          "paragraph": "p-172"
         },
         {
           "term": "osiris",

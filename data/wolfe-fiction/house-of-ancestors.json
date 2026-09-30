@@ -62,5 +62,20 @@
       }
     ],
     "evidence": "story/p-162: as missing. It seemed to have been torn or hacked away; the plastisol flesh was ragged around the amputation, and color-coded wires, blue and yellow, dangled f"
+  },
+  {
+    "id": "lamarck",
+    "term": "Lamarck",
+    "aliases": [],
+    "short": "Jean-Baptiste Lamarck, an early theorist of evolution.",
+    "note": "Jean-Baptiste Lamarck (1744–1829), the French naturalist who proposed species transformation and incorporated the inheritance of acquired characteristics into his theory.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ucmp.berkeley.edu/history/lamarck.html",
+        "label": "University of California Museum of Paleontology · Lamarck"
+      }
+    ],
+    "evidence": "story/p-161: . “I am Jean Baptiste Pierre Antoine De Monet, Chevalier de Lamarck.” He made a courtly bow."
   }
 ]

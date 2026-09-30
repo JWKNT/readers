@@ -260,5 +260,45 @@
       "paragraph": "p-107",
       "index": 0
     }
+  },
+  {
+    "id": "asgard",
+    "term": "Asgard",
+    "aliases": [],
+    "short": "The fortified home of the Norse gods.",
+    "note": "In Norse mythology, the dwelling of the Æsir gods, containing such places as Valhalla.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Asgard",
+        "label": "Asgard: Norse mythological sources"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-061",
+      "index": 0
+    }
+  },
+  {
+    "id": "cravat",
+    "term": "cravat",
+    "aliases": [],
+    "short": "A scarf or band tied around the neck.",
+    "note": "An ornamental neckcloth, a predecessor and relative of the modern necktie.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cravat",
+        "label": "Merriam-Webster: cravat"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-032",
+      "index": 0
+    }
   }
 ]

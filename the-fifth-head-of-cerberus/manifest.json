@@ -18,7 +18,7 @@
   ],
   "totalWords": 78068,
   "defaultChapter": "fifth-head",
-  "glossaryCount": 69,
+  "glossaryCount": 99,
   "correctionCount": 1,
   "editionVersion": 13,
   "chapters": [
@@ -481,6 +481,10 @@
           "paragraph": "p-005"
         },
         {
+          "term": "lintel",
+          "paragraph": "p-012"
+        },
+        {
           "term": "saltimbanque",
           "paragraph": "p-019"
         },
@@ -509,6 +513,10 @@
           "paragraph": "p-025"
         },
         {
+          "term": "cybernetics",
+          "paragraph": "p-026"
+        },
+        {
           "term": "weir",
           "paragraph": "p-042"
         },
@@ -533,6 +541,10 @@
           "paragraph": "p-051"
         },
         {
+          "term": "areaway",
+          "paragraph": "p-055"
+        },
+        {
           "term": "maison-du-chien",
           "paragraph": "p-058"
         },
@@ -543,6 +555,10 @@
         {
           "term": "parterre",
           "paragraph": "p-087"
+        },
+        {
+          "term": "prurience",
+          "paragraph": "p-088"
         },
         {
           "term": "david-copperfield",
@@ -567,6 +583,14 @@
         {
           "term": "cerberus",
           "paragraph": "p-138"
+        },
+        {
+          "term": "maidenhead",
+          "paragraph": "p-138"
+        },
+        {
+          "term": "carmine",
+          "paragraph": "p-139"
         },
         {
           "term": "contralto",
@@ -613,12 +637,20 @@
           "paragraph": "p-228"
         },
         {
+          "term": "corinthian",
+          "paragraph": "p-228"
+        },
+        {
           "term": "carapace",
           "paragraph": "p-228"
         },
         {
           "term": "chasseurs",
           "paragraph": "p-230"
+        },
+        {
+          "term": "crenelated",
+          "paragraph": "p-240"
         },
         {
           "term": "egouts",
@@ -629,6 +661,10 @@
           "paragraph": "p-265"
         },
         {
+          "term": "pallets",
+          "paragraph": "p-266"
+        },
+        {
           "term": "arms-and-the-man",
           "paragraph": "p-306"
         },
@@ -637,8 +673,20 @@
           "paragraph": "p-375"
         },
         {
+          "term": "outcrossing",
+          "paragraph": "p-390"
+        },
+        {
+          "term": "chattels",
+          "paragraph": "p-407"
+        },
+        {
           "term": "servitor",
           "paragraph": "p-407"
+        },
+        {
+          "term": "pralines",
+          "paragraph": "p-422"
         }
       ],
       "words": 25332,
@@ -1220,6 +1268,14 @@
         {
           "term": "john-of-the-cross",
           "paragraph": "p-010"
+        },
+        {
+          "term": "acolyte",
+          "paragraph": "p-041"
+        },
+        {
+          "term": "ungulate",
+          "paragraph": "p-053"
         },
         {
           "term": "gobbet",
@@ -2299,6 +2355,14 @@
           "paragraph": "p-063"
         },
         {
+          "term": "paleolithic",
+          "paragraph": "p-077"
+        },
+        {
+          "term": "garrotte",
+          "paragraph": "p-094"
+        },
+        {
           "term": "culot",
           "paragraph": "p-105"
         },
@@ -2327,6 +2391,10 @@
           "paragraph": "p-210"
         },
         {
+          "term": "lintel",
+          "paragraph": "p-221"
+        },
+        {
           "term": "sinecure",
           "paragraph": "p-231"
         },
@@ -2351,6 +2419,18 @@
           "paragraph": "p-365"
         },
         {
+          "term": "litany",
+          "paragraph": "p-378"
+        },
+        {
+          "term": "knapping",
+          "paragraph": "p-382"
+        },
+        {
+          "term": "tgallant",
+          "paragraph": "p-400"
+        },
+        {
           "term": "les-eyzies",
           "paragraph": "p-414"
         },
@@ -2363,16 +2443,40 @@
           "paragraph": "p-414"
         },
         {
+          "term": "portage",
+          "paragraph": "p-414"
+        },
+        {
           "term": "maitre",
           "paragraph": "p-446"
+        },
+        {
+          "term": "gingham",
+          "paragraph": "p-448"
         },
         {
           "term": "reveille",
           "paragraph": "p-452"
         },
         {
+          "term": "radiogram",
+          "paragraph": "p-722"
+        },
+        {
           "term": "saltimbanque",
           "paragraph": "p-754"
+        },
+        {
+          "term": "ballisticians",
+          "paragraph": "p-786"
+        },
+        {
+          "term": "haberdasher",
+          "paragraph": "p-802"
+        },
+        {
+          "term": "prophylactic",
+          "paragraph": "p-806"
         },
         {
           "term": "dollos-law",
@@ -2383,16 +2487,36 @@
           "paragraph": "p-812"
         },
         {
+          "term": "colonnades",
+          "paragraph": "p-819"
+        },
+        {
+          "term": "laissez-faire",
+          "paragraph": "p-831"
+        },
+        {
           "term": "carding",
           "paragraph": "p-862"
+        },
+        {
+          "term": "pewter",
+          "paragraph": "p-863"
         },
         {
           "term": "maison-du-chien",
           "paragraph": "p-928"
         },
         {
+          "term": "heterodox",
+          "paragraph": "p-933"
+        },
+        {
           "term": "marquis-of-carabas",
           "paragraph": "p-971"
+        },
+        {
+          "term": "eoliths",
+          "paragraph": "p-972"
         }
       ],
       "words": 34245,

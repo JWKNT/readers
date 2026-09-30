@@ -105,5 +105,50 @@
       }
     ],
     "evidence": "story/p-022: p that night with the descant of that icy purity sounding through the plainsong of the rails, and I woke in the station of I——, the old capital of J——, now a province of K——."
+  },
+  {
+    "id": "schloss",
+    "term": "Schloss",
+    "aliases": [],
+    "short": "German: castle or palace.",
+    "note": "A German noun for a castle or palatial residence.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.larousse.com/en/dictionaries/german-english/Schloss/36627",
+        "label": "Larousse German–English Dictionary: Schloss"
+      }
+    ],
+    "evidence": "story/p-063: arble chips, because it is white in the moonlight. Ahead of me is the Schloss—a great building. There is music coming from inside.”"
+  },
+  {
+    "id": "rathaus",
+    "term": "Rathaus",
+    "aliases": [],
+    "short": "German: town hall.",
+    "note": "The municipal government building of a German-speaking town or city.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.langenscheidt.com/german-english/rathaus",
+        "label": "Langenscheidt German–English Dictionary: Rathaus"
+      }
+    ],
+    "evidence": "story/p-165: “But on state occasions we sometimes ride in a glass coach to the Rathaus. There are uhlans all around us to protect us then. I am certain that—before the dreams began—I saw"
+  },
+  {
+    "id": "hauptstrasse",
+    "term": "Hauptstrasse",
+    "aliases": [],
+    "short": "German: main street.",
+    "note": "Hauptstraße means the main street of a town, or a principal road; ss may be used in place of ß.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/de/worterbuch/deutsch-englisch/hauptstrasse",
+        "label": "Cambridge German–English Dictionary: Hauptstraße"
+      }
+    ],
+    "evidence": "story/p-183: question of the route of the countess’s glass coach—straight down the Hauptstrasse, the only street in the city wide enough to take a carriage surrounded by cavalrymen. The most prob"
   }
 ]

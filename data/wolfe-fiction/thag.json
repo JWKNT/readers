@@ -217,5 +217,20 @@
       }
     ],
     "evidence": "story/p-009: are a magician,” the king said, “and that that bird is your puissant familiar; and I confess that it has always seemed to me that were I a magician I would ch"
+  },
+  {
+    "id": "morgenstern",
+    "term": "morgenstern",
+    "aliases": [],
+    "short": "A spiked club or mace.",
+    "note": "A European striking weapon whose wooden or metal head is studded with iron spikes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.schlosstirol.it/en/south-tyrolean-museum/morgenstern/",
+        "label": "South Tyrolean Museum of Culture · Morgenstern"
+      }
+    ],
+    "evidence": "story/p-037: ight,” the woman called Frigg advised him, and with a spiky morgenstern he pounded the iron-shod shaft until the head was nearly buried in the wood."
   }
 ]

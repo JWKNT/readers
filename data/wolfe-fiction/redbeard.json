@@ -13,5 +13,20 @@
       }
     ],
     "evidence": "ad kind of reddish hair, so the paper called him Redbeard. Because of Bluebeard, you know, and him not wanting his wife to look inside that cellar room. They called the "
+  },
+  {
+    "id": "barbarossa",
+    "term": "Barbarossa",
+    "aliases": [],
+    "short": "Italian: “red beard.”",
+    "note": "An Italian name meaning “red beard,” historically borne by Frederick I, Holy Roman Emperor, and the Ottoman admiral Hayreddin.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Barbarossa",
+        "label": "Barbarossa: historical names"
+      }
+    ],
+    "evidence": "story/p-006: I thought it was a family name, perhaps an anglicization of Barbarossa. I said, “It looks like a haunted house.”"
   }
 ]

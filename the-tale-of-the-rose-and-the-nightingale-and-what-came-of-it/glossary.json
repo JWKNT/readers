@@ -498,5 +498,105 @@
       "paragraph": "p-129",
       "index": 0
     }
+  },
+  {
+    "id": "chibouque",
+    "term": "chibouque",
+    "aliases": [],
+    "short": "A long-stemmed Turkish tobacco pipe.",
+    "note": "A Turkish smoking pipe with a long, rigid stem, sometimes more than a metre in length.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/chibouk",
+        "label": "Dictionary.com · chibouk"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-082",
+      "index": 0
+    }
+  },
+  {
+    "id": "muezzins",
+    "term": "muezzins",
+    "aliases": [],
+    "short": "Those who call Muslims to prayer.",
+    "note": "The officials who recite the call to the five daily Muslim prayers, traditionally from a mosque’s minaret.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/muezzin",
+        "label": "Dictionary.com · muezzin"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-055",
+      "index": 0
+    }
+  },
+  {
+    "id": "wazir",
+    "term": "wazir",
+    "aliases": [],
+    "short": "A high-ranking minister or adviser.",
+    "note": "An Arabic form of vizier: a senior government official or minister serving a ruler in various Muslim states.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/vizier",
+        "label": "Dictionary.com · vizier"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-093",
+      "index": 0
+    }
+  },
+  {
+    "id": "darabukka",
+    "term": "darabukka",
+    "aliases": [],
+    "short": "A single-headed goblet-shaped drum.",
+    "note": "A hand-played drum with a goblet-shaped body, traditionally made of pottery or wood, widespread in North Africa and the Middle East.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/500960",
+        "label": "The Metropolitan Museum of Art · Darabukka"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-172",
+      "index": 0
+    }
+  },
+  {
+    "id": "piasters",
+    "term": "piasters",
+    "aliases": [],
+    "short": "Coins or currency units used in Egypt and nearby countries.",
+    "note": "Also spelled piastres: a name used for coins and monetary units in Egypt and the former Ottoman world; its value depends on the country and period.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/piaster",
+        "label": "Dictionary.com · piaster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-081",
+      "index": 0
+    }
   }
 ]
