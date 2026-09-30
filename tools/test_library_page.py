@@ -41,13 +41,15 @@ class LibraryPage(unittest.TestCase):
         for book in self.library:
             self.assertEqual(1, self.catalog.links.count(book['id'] + '/'), book['id'])
         self.assertEqual(73, sum(book.get('kind') == 'story' for book in self.library))
-        self.assertEqual(96, sum(not link.startswith('#') for link in self.catalog.links))
+        self.assertEqual(96, sum(not urlsplit(link).scheme and not link.startswith('#') for link in self.catalog.links))
 
     def test_every_catalog_link_resolves(self):
         self.assertEqual(len(self.catalog.ids), len(set(self.catalog.ids)))
         for link in self.catalog.links:
             url = urlsplit(link)
-            self.assertFalse(url.scheme)
+            if url.scheme:
+                self.assertEqual('https://jehlp.net/', link)
+                continue
             if not url.path:
                 self.assertIn(url.fragment, self.catalog.ids)
             else:
@@ -84,7 +86,7 @@ class LibraryPage(unittest.TestCase):
         self.assertIn('data-theme-toggle', buttons[0])
 
     def test_landing_styles_do_not_load_book_typography(self):
-        self.assertEqual(['assets/theme/base.css?v=theme-20260930-dial',
+        self.assertEqual(['assets/theme/base.css?v=theme-20260930-home',
                           'assets/library.css?v=library-20260930-nav'], self.catalog.styles)
         for page in ROOT.glob('*/index.html'):
             self.assertNotIn('assets/library.css', page.read_text(), str(page))

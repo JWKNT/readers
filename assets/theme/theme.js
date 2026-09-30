@@ -61,12 +61,33 @@
     }
   }
 
+  function createHomeControl() {
+    // The game is intentionally independent of the shared site navigation.
+    if (/^\/ndb-idle(?:\/|$)/.test(window.location?.pathname || "")) return;
+    if (document.querySelector(".site-home")) return;
+    const dock = document.createElement("nav");
+    dock.className = "site-home-dock";
+    dock.setAttribute("aria-label", "Site");
+    const link = document.createElement("a");
+    link.className = "site-home";
+    link.href = "https://jehlp.net/";
+    link.setAttribute("aria-label", "Home · jehlp.net");
+    link.title = "Home · jehlp.net";
+    const mark = document.createElement("span");
+    mark.setAttribute("aria-hidden", "true");
+    mark.textContent = "⌂";
+    link.append(mark);
+    dock.append(link);
+    document.body.append(dock);
+  }
+
   const stored = savedTheme();
   followsSystem = !stored;
   applyTheme(stored || (media.matches ? "dark" : "light"));
 
   function setup() {
     createControl();
+    createHomeControl();
     updateControls(root.dataset.theme);
     document.querySelectorAll("[data-theme-toggle]").forEach((button) => {
       if (button.dataset.themeBound) return;

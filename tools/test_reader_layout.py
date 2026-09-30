@@ -9,7 +9,7 @@ import unittest
 
 ROOT = Path(__file__).resolve().parents[1]
 CSS = (ROOT / 'assets/reader.css').read_text()
-STYLE_VERSION = 'layout-20260930'
+STYLE_VERSION = 'layout-20260930-home'
 
 
 class ReaderLayout(unittest.TestCase):

@@ -258,6 +258,13 @@
   popup.addEventListener('focusin',()=>clearTimeout(closeTimer));popup.addEventListener('focusout',delayClose);
   $('#word-close').addEventListener('click',()=>closePopup(true));
   document.addEventListener('pointerdown',e=>{if(!popup.hidden&&!popup.contains(e.target)&&!anchor?.contains(e.target))closePopup(false);});
+  // Reuse the native no-JS link, so only one Home is ever present.
+  function moveHome() {
+    const dock=$('.site-home-dock'),tools=$('.mobile-tools');
+    if(!dock||!tools)return;
+    if(desktop.matches)document.body.prepend(dock);
+    else tools.insertBefore(dock,$('#search-button'));
+  }
   function moveSearch() {
     const hadFocus=$('#search-panel').contains(document.activeElement)||document.body.dataset.searching==='true';requestMarginLayout();
     const dest=desktop.matches?$('#margin-search-slot'):$('#search-dialog-slot');dest.append($('#search-panel'));
@@ -295,8 +302,10 @@
   });
   window.addEventListener('hashchange',navigate);
   window.addEventListener('scroll',()=>{if(scrollFrame)return;scrollFrame=requestAnimationFrame(()=>{scrollFrame=null;progress();maskSidenotes();if(!popup.hidden)positionPopup();});},{passive:true});
-  window.addEventListener('resize',()=>{positionPopup();progress();requestMarginLayout();});desktop.addEventListener('change',moveSearch);
+  window.addEventListener('resize',()=>{positionPopup();progress();requestMarginLayout();});desktop.addEventListener('change',()=>{moveHome();moveSearch();});
   async function init() {
+    moveHome();
+    document.body.classList.add('reader-controls-ready');
     moveSearch();
     try {const [m,g]=await Promise.all([getJSON('manifest.json'),getJSON('glossary.json')]);state.manifest=m;state.terms=new Map(g.map(x=>[x.id,x]));toc($('#desktop-contents'));toc($('#mobile-contents'));await navigate();}
     catch(e){showError(e);}
