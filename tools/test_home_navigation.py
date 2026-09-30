@@ -1,4 +1,5 @@
-"""Native Home links survive static exports, cache refreshes and no-JS readers."""
+"""Native header Home links survive exports, cache refreshes and no-JS readers."""
+from html.parser import HTMLParser
 from pathlib import Path
 import re
 import unittest
@@ -8,80 +9,126 @@ from series_readers import static_page as series_page
 from library_page import render_library
 
 ROOT = Path(__file__).resolve().parents[1]
-HOME = ('<nav class="site-home-dock" aria-label="Site"><a class="site-home" '
-        'href="https://jehlp.net/" aria-label="Home · jehlp.net" '
-        'title="Home · jehlp.net"><span aria-hidden="true">⌂</span></a></nav>')
-THEME_VERSION = 'theme-20260930-home2'
-THEME_SCRIPT_VERSION = 'theme-20260930-home3'
+HOME = ('<a class="site-home" href="https://jehlp.net/" '
+        'aria-label="Home — jehlp.net" title="Home — jehlp.net">'
+        '<span aria-hidden="true">✳</span></a>')
+THEME_VERSION = 'theme-20260930-header-home'
+
+
+class Headers(HTMLParser):
+    def __init__(self, source):
+        super().__init__()
+        self.headers, self.spans, self.homes = [], [], []
+        self.feed(source)
+
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        if tag == 'header':
+            self.headers.append(attrs)
+        if tag == 'span':
+            self.spans.append(attrs)
+        if tag == 'a' and attrs.get('class') == 'site-home':
+            self.homes.append((self.headers[-1] if self.headers else {},
+                               any(span.get('class') == 'site-utility-pair' for span in self.spans)))
+
+    def handle_endtag(self, tag):
+        if tag == 'header' and self.headers:
+            self.headers.pop()
+        if tag == 'span' and self.spans:
+            self.spans.pop()
 
 
 class HomeNavigation(unittest.TestCase):
-    def test_every_html_page_has_one_native_home(self):
+    def test_every_html_page_has_one_native_header_home(self):
         pages = list(ROOT.rglob('*.html'))
         self.assertEqual(912, len(pages))
+        aliases = 0
         for page in pages:
             source = page.read_text()
             with self.subTest(page=str(page.relative_to(ROOT))):
                 self.assertEqual(1, source.count(HOME))
                 self.assertEqual(1, source.count('class="site-home"'))
-                self.assertRegex(source, r'<body\b[^>]*>' + re.escape(HOME))
+                self.assertNotIn('site-home-dock', source)
+                homes = Headers(source).homes
+                self.assertEqual(1, len(homes))
+                header, paired = homes[0]
+                classes = header.get('class', '').split()
+                self.assertTrue(set(classes) & {'appearance', 'static-header', 'library-header', 'site-utilities'})
+                if 'site-utilities' in classes:
+                    aliases += 1
+                    self.assertIn('data-theme-toggle-slot', header)
+                else:
+                    self.assertTrue(paired)
+                    self.assertIn('<span class="site-utility-pair">' + HOME + '<button', source)
+        self.assertEqual(3, aliases)
 
     def test_every_shared_asset_reference_has_current_cache_key(self):
         for page in ROOT.rglob('*.html'):
             source = page.read_text()
             with self.subTest(page=str(page.relative_to(ROOT))):
-                refs = re.findall(r'assets/theme/(base\.css|theme\.js)([^"\s>]*)', source)
+                refs = re.findall(r'assets/theme/(?:base\.css|theme\.js)([^"\s>]*)', source)
                 self.assertTrue(refs)
-                for asset, ref in refs:
-                    version = THEME_VERSION if asset == 'base.css' else THEME_SCRIPT_VERSION
-                    self.assertEqual('?v=' + version, ref)
+                self.assertTrue(all(ref == '?v=' + THEME_VERSION for ref in refs))
                 if 'assets/reader.js' in source:
-                    self.assertIn('assets/reader.js?v=reader-20260930-home', source)
+                    self.assertIn('assets/reader.js?v=reader-20260930-header-home', source)
 
-    def test_generated_catalog_and_static_exports_keep_native_home(self):
+    def test_generated_catalog_and_static_exports_keep_native_header_home(self):
         pages = [render_library(), imported_page('Test', '<p>Book text</p>', ''),
                  series_page('Test', '<p>Book text</p>', '', [])]
         for source in pages:
             self.assertEqual(1, source.count(HOME))
-            self.assertRegex(source, r'<body\b[^>]*>' + re.escape(HOME))
+            self.assertIn('<span class="site-utility-pair">' + HOME + '<button', source)
+            self.assertTrue(Headers(source).homes[0][1])
             self.assertIn('assets/theme/base.css?v=' + THEME_VERSION, source)
-            self.assertIn('assets/theme/theme.js?v=' + THEME_SCRIPT_VERSION, source)
+            self.assertIn('assets/theme/theme.js?v=' + THEME_VERSION, source)
 
-    def test_redirect_generator_keeps_native_home(self):
+    def test_redirect_generator_keeps_in_flow_header_home(self):
         source = (ROOT / 'tools/series_readers.py').read_text()
         redirect_template = source[source.index('# Keep every old hash'):]
-        self.assertIn(HOME, redirect_template)
+        self.assertIn('<header class="site-utilities" data-theme-toggle-slot>' + HOME + '</header>', redirect_template)
         self.assertIn('assets/theme/base.css?v=' + THEME_VERSION, redirect_template)
+        self.assertNotIn('site-home-dock', redirect_template)
 
     def test_numeric_edition_rebuilds_preserve_named_chrome_keys(self):
         source = (ROOT / 'book-of-the-short-sun/index.html').read_text()
         rebuilt = re.sub(r'\?v=\d+', '?v=99', source)
-        for asset, version in [('theme/base.css', THEME_VERSION), ('theme/theme.js', THEME_SCRIPT_VERSION),
-                               ('reader.css', 'layout-20260930-home'), ('reader.js', 'reader-20260930-home')]:
+        for asset, version in [('theme/base.css', THEME_VERSION), ('theme/theme.js', THEME_VERSION),
+                               ('reader.css', 'layout-20260930-header-home'), ('reader.js', 'reader-20260930-header-home')]:
             self.assertIn('assets/' + asset + '?v=' + version, rebuilt)
         self.assertIn('assets/initials/initials.css?v=99', rebuilt)
 
-    def test_mobile_controls_require_enhancement_and_reuse_native_nav(self):
+    def test_mobile_toolbar_is_unchanged_and_home_stays_in_header(self):
         css = (ROOT / 'assets/reader.css').read_text()
         js = (ROOT / 'assets/reader.js').read_text()
-        self.assertIn('.mobile-tools{display:none}', css)
-        self.assertIn('.reader-controls-ready .mobile-tools{position:fixed;display:flex;', css)
-        self.assertIn('.mobile-tools .site-home-dock{display:contents}', css)
-        self.assertIn("document.body.classList.add('reader-controls-ready')", js)
-        self.assertIn("tools.insertBefore(dock,$('#search-button'))", js)
-        self.assertIn('document.body.prepend(dock)', js)
-        self.assertNotIn('cloneNode', js)
+        self.assertIn('.mobile-tools{position:fixed;display:flex;', css)
+        self.assertNotIn('reader-controls-ready', css + js)
+        self.assertNotIn('moveHome', js)
+        self.assertNotIn('site-home', js)
+        self.assertNotIn('.mobile-tools .site-home', css)
+        self.assertIn('.appearance{display:flex;align-items:center;gap:.5rem;position:absolute;', css)
+        self.assertIn('.static-header .site-utility-pair{margin-left:auto}', css)
 
-    def test_home_icon_and_print_clearance_are_vendored(self):
+    def test_narrow_static_headers_wrap_in_flow_without_old_top_spacer(self):
+        css = (ROOT / 'assets/reader.css').read_text()
+        self.assertIn('@media(max-width:919px){.static-header{position:static;flex-wrap:wrap;', css)
+        self.assertIn('column-gap:clamp(.75rem,2.5vw,1.5rem);row-gap:.5rem;margin:15px 24px 0', css)
+        self.assertIn('.static-header+.static-reading,.static-header+.document{margin-top:2rem}', css)
+        base = (ROOT / 'assets/theme/base.css').read_text()
+        self.assertIn('.site-utility-pair { display: inline-flex; align-items: center; flex: none;', base)
+
+    def test_home_icon_is_vendored_without_footer_spacing(self):
         css = (ROOT / 'assets/theme/base.css').read_text()
-        self.assertTrue((ROOT / 'assets/theme/icons/home.svg').is_file())
-        self.assertIn('mask: url("icons/home.svg")', css)
-        self.assertIn('min-height: calc(3.5rem + env(safe-area-inset-bottom, 0px))', css)
-        self.assertIn('padding: .375rem max(.75rem, env(safe-area-inset-right, 0px))', css)
-        self.assertIn('min-width: 44px', css)
-        self.assertIn('min-height: 44px', css)
-        self.assertIn('body:has(.site-home)::after { display: none; }', css)
-        self.assertIn('.site-home-dock, .site-home, .theme-toggle', css)
+        self.assertTrue((ROOT / 'assets/theme/icons/home-emblem.svg').is_file())
+        self.assertIn('icons/home-emblem.svg', css)
+        self.assertNotIn('--site-home-clearance', css)
+        self.assertNotIn('body:has(.site-home)::after', css)
+        self.assertNotIn('.site-home-dock', css)
+        self.assertIn('.site-home', css)
+        home_block = css[css.index('/* A header colophon'):css.index('details {')]
+        self.assertNotRegex(home_block, r'position:\s*(?:fixed|sticky)')
+        self.assertIn('min-width: 44px', home_block)
+        self.assertIn('min-height: 44px', home_block)
+        self.assertIn('.site-home, .site-utility-pair, .site-utilities, .theme-toggle', css)
 
 
 if __name__ == '__main__':

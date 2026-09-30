@@ -1,35 +1,31 @@
-# Persistent Home navigation — 2026-09-30
+# Header Home navigation — 2026-09-30
 
-Every one of the 912 HTML pages includes one native, accessible Home link to
-`https://jehlp.net/` immediately after the opening body tag. This includes the
-catalog, enhanced readers, plain chapters, contents, documentation and redirects.
-The shared theme's house icon, 44px target, keyboard outline, safe-area offsets
-and print hiding are vendored locally; existing Readers typography is preserved.
+All 912 HTML pages include one native, accessible Home link to
+`https://jehlp.net/`. On the 909 pages with an existing appearance control,
+Home and the theme button form one no-wrap header pair. The three redirect
+aliases have a minimal, in-flow utilities header. Home remains usable without
+JavaScript and scrolls away with its header.
 
-On narrow enhanced readers, the existing Home navigation moves between Contents
-and Search in the bottom toolbar. Desktop restores that same element to its
-standalone fixed corner. Other narrow pages give Home a shallow bottom strip
-so it does not sit over the end of a text line or field. The toolbar is enabled only after reader JavaScript
-wires it, leaving the standalone native Home visible without JavaScript. There
-is no second Home or extra toolbar. Appearance controls still scroll with the
-page. Focused controls that intersect the standalone Home dock are scrolled
-clear; open dialogs and the integrated mobile toolbar are left to their existing
-focus handling.
+The shared emblem and 44px target are vendored locally. Existing Readers
+colors, typography, page-bound appearance position and book content remain
+unchanged. Narrow plain-chapter headers wrap in normal document flow, with
+matching top spacing so they cannot cover the chapter heading. The original Contents/Search mobile toolbar is restored with no
+Home integration. The earlier floating dock, footer strip, body spacer and
+focused-field scroll handler are removed.
 
-The catalog/static export/redirect generators retain the native markup. The
-shared theme, reader stylesheet and reader script have named cache versions,
-which numeric edition rebuilds preserve. Prose, annotations, paragraph IDs,
-search data, source records and all other page content are unchanged.
+Catalog, static export and redirect generators retain the native header
+markup. Named cache versions survive numeric edition rebuilds. Prose,
+annotations, paragraph IDs, search data and source records are unchanged.
 
 ## Checks
 
-- 51 Python tests pass, including seven new Home/export/cache regressions
-- Four Node DOM unit tests cover desktop, mobile, repeated breakpoint changes
-  and absent optional controls: `node --test tools/test_home_navigation.cjs`
-- `python3 tools/validate.py --baseline b81c90a` passes all edition checks
-- All 912 HTML pages match the baseline byte-for-byte after removing only the
-  new Home markup and cache-key changes; no JSON data changed
-- Both JavaScript syntax checks and `git diff --check` pass
+- 52 Python tests cover the edition plus eight header Home/export/cache contracts
+- Four Node source-contract tests check header positioning, unchanged mobile
+  toolbar behavior and removal of the footer/scroll behavior
+- Full edition validation uses `python3 tools/validate.py --baseline b81c90a`
+- All HTML content is compared byte-for-byte with the baseline after removing
+  only added Home/header-pair markup and asset cache-key changes
+- JavaScript syntax and `git diff --check` are checked before publication
 
-These are source and DOM contract checks. They do not claim rendered browser
-or native iOS Safari coverage; deployed browser review is performed separately.
+Source and contract tests do not claim rendered browser or native iOS Safari
+coverage. The header design is reviewed separately before publication.

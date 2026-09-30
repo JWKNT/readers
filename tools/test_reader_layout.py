@@ -9,7 +9,7 @@ import unittest
 
 ROOT = Path(__file__).resolve().parents[1]
 CSS = (ROOT / 'assets/reader.css').read_text()
-STYLE_VERSION = 'layout-20260930-home'
+STYLE_VERSION = 'layout-20260930-header-home'
 
 
 class ReaderLayout(unittest.TestCase):
@@ -18,7 +18,7 @@ class ReaderLayout(unittest.TestCase):
             rules = re.findall(re.escape(selector) + r'\{([^}]+)\}', CSS)
             positions = [re.search(r'(?:^|;)position:([^;]+)', rule)[1]
                          for rule in rules if re.search(r'(?:^|;)position:', rule)]
-            self.assertEqual(['absolute'], positions, selector)
+            self.assertEqual(['absolute', 'static'] if selector == '.static-header' else ['absolute'], positions, selector)
         # The reader's deliberately persistent navigation still works.
         self.assertIn('.mobile-tools{position:fixed;', CSS)
         self.assertIn('.word-popup{position:fixed;', CSS)

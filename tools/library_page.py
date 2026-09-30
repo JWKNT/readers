@@ -58,13 +58,13 @@ def render_library(root=ROOT, library=None):
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow,noarchive">
 <title>Readers</title>
-<script src="assets/theme/theme.js?v=theme-20260930-home3"></script>
-<link rel="stylesheet" href="assets/theme/base.css?v=theme-20260930-home2">
+<script src="assets/theme/theme.js?v=theme-20260930-header-home"></script>
+<link rel="stylesheet" href="assets/theme/base.css?v=theme-20260930-header-home">
 <link rel="stylesheet" href="assets/library.css?v=library-20260930-nav">
 <link rel="icon" href="assets/theme/favicons/readers.png">
 <script defer src="assets/retire-offline.js"></script>
 </head>
-<body class="library-page"><nav class="site-home-dock" aria-label="Site"><a class="site-home" href="https://jehlp.net/" aria-label="Home · jehlp.net" title="Home · jehlp.net"><span aria-hidden="true">⌂</span></a></nav>
+<body class="library-page">
 <a class="skip-link" href="#catalog">Skip to books</a>
 <header class="site-header site-header--identity library-header">
 <div class="site-brand">
@@ -74,7 +74,7 @@ def render_library(root=ROOT, library=None):
 <nav class="author-nav" aria-label="Authors">
 ''' + navigation + '''
 </nav>
-<button class="theme-toggle" data-theme-toggle aria-label="Change theme"></button>
+<span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" data-theme-toggle aria-label="Change theme"></button></span>
 </header>
 <main class="library" id="catalog" tabindex="-1">
 ''' + '\n'.join(groups) + '''

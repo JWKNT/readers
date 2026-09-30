@@ -1,76 +1,33 @@
-/* Unit-test the real responsive relocation function without browser automation. */
+/* Source contracts for header-only Home; rendered browser QA is separate. */
 const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const path = require('node:path');
 const test = require('node:test');
-const vm = require('node:vm');
-const source = fs.readFileSync(path.join(__dirname, '../assets/reader.js'), 'utf8');
-const fn = source.match(/  function moveHome\(\) \{[\s\S]*?\n  \}(?=\n  function moveSearch)/)[0];
+const read = file => fs.readFileSync(path.join(__dirname, '..', file), 'utf8');
+const reader = read('assets/reader.js');
+const css = read('assets/reader.css');
+const theme = read('assets/theme/theme.js');
+const base = read('assets/theme/base.css');
 
-function fixture(matches = true) {
-  function element(id) {
-    return { id, parent: null, children: [],
-      insertBefore(child, next) {
-        if (child === next) return;
-        if (child.parent) child.parent.children.splice(child.parent.children.indexOf(child), 1);
-        const index = next ? this.children.indexOf(next) : this.children.length;
-        assert.notEqual(index, -1, 'Insertion reference must belong to its parent');
-        this.children.splice(index, 0, child);
-        child.parent = this;
-      },
-      prepend(child) { this.insertBefore(child, this.children[0] || null); },
-    };
-  }
-  const body = element('body'), dock = element('home-nav'), tools = element('mobile-tools');
-  const contents = element('contents-button'), search = element('search-button');
-  const home = element('home-link');
-  dock.insertBefore(home, null);
-  tools.insertBefore(contents, null);
-  tools.insertBefore(search, null);
-  body.insertBefore(dock, null);
-  body.insertBefore(tools, null);
-  const nodes = { '.site-home-dock': dock, '.mobile-tools': tools, '#search-button': search };
-  const desktop = { matches };
-  const moveHome = vm.runInNewContext(fn + '\nmoveHome', {
-    $: selector => nodes[selector], desktop, document: { body },
-  });
-  return { body, dock, tools, contents, search, home, nodes, desktop, moveHome };
-}
-
-test('desktop retains the same native dock at the beginning of the document', () => {
-  const f = fixture();
-  f.moveHome();
-  assert.equal(f.body.children[0], f.dock);
-  assert.equal(f.dock.children[0], f.home);
-  assert.deepEqual(f.tools.children.map(x => x.id), ['contents-button', 'search-button']);
+test('reader never moves or duplicates the native header Home', () => {
+  for (const removed of ['moveHome', 'site-home', 'reader-controls-ready']) assert.ok(!reader.includes(removed));
+  assert.match(reader, /desktop\.addEventListener\('change',moveSearch\)/);
 });
 
-test('mobile puts the native Home between Contents and Search', () => {
-  const f = fixture(false);
-  f.moveHome();
-  assert.deepEqual(f.tools.children.map(x => x.id), ['contents-button', 'home-nav', 'search-button']);
-  assert.equal(f.dock.children[0], f.home);
-  assert.equal(f.body.children.includes(f.dock), false);
+test('Contents and Search retain their original mobile toolbar behavior', () => {
+  assert.ok(css.includes('.mobile-tools{position:fixed;display:flex;'));
+  assert.ok(!css.includes('.mobile-tools .site-home'));
+  assert.ok(!css.includes('reader-controls-ready'));
 });
 
-test('repeated mobile/desktop switches never clone or strand the Home link', () => {
-  const f = fixture();
-  for (const matches of [false, false, true, true, false, true, false]) {
-    f.desktop.matches = matches;
-    f.moveHome();
-    assert.equal(f.dock.parent, matches ? f.body : f.tools);
-    assert.equal(f.dock.children.length, 1);
-    assert.equal(f.dock.children[0], f.home);
-    assert.equal([...f.body.children, ...f.tools.children].filter(x => x === f.dock).length, 1);
-  }
+test('header control area scrolls with the reader document', () => {
+  assert.ok(css.includes('.appearance{display:flex;align-items:center;gap:.5rem;position:absolute;'));
+  assert.ok(css.includes('.static-header .site-utility-pair{margin-left:auto}'));
 });
 
-test('missing optional dock or toolbar leaves the native document alone', () => {
-  for (const selector of ['.site-home-dock', '.mobile-tools']) {
-    const f = fixture(false);
-    f.nodes[selector] = null;
-    f.moveHome();
-    assert.equal(f.dock.parent, f.body);
-    assert.deepEqual(f.tools.children.map(x => x.id), ['contents-button', 'search-button']);
-  }
+test('shared Home has no footer spacer or focused-field scrolling handler', () => {
+  assert.ok(!base.includes('--site-home-clearance'));
+  assert.ok(!base.includes('body:has(.site-home)::after'));
+  assert.ok(!theme.includes('keepFocusedControlClear'));
+  assert.ok(!theme.includes('homeFocusBound'));
 });

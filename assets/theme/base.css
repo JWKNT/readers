@@ -194,23 +194,18 @@ button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-
   [data-theme-toggle].theme-toggle::before { background: ButtonText; forced-color-adjust: none; }
 }
 
-/* A small way home, separate from project-local controls. The native anchor is
-   useful without JavaScript; its full square remains the pointer/focus target. */
-:root { --site-home-clearance: calc(4.5rem + env(safe-area-inset-bottom, 0px)); }
-html:has(.site-home) { scroll-padding-bottom: var(--site-home-clearance); }
-body:has(.site-home)::after { content: ""; display: block; height: var(--site-home-clearance); flex: none; }
-.site-home-dock {
-  position: fixed;
-  right: max(.75rem, env(safe-area-inset-right, 0px));
-  bottom: max(.75rem, env(safe-area-inset-bottom, 0px));
-  z-index: 90;
-  width: 2.75rem;
-  background: var(--paper);
-  border-top: 1px solid var(--line);
-}
+/* A header colophon: a bold, bracketed asterisk echoes the homepage's
+   typographic studies. It stays with the existing theme control, never fixed. */
+:root { --home-accent: #a04f38; }
+:root[data-theme="dark"] { --home-accent: #d99070; }
+.site-utility-pair { display: inline-flex; align-items: center; flex: none; gap: .375rem; }
+.site-utility-pair .theme-toggle { margin-left: 0; }
+.site-utilities { display: flex; justify-content: flex-end; padding: .75rem var(--gutter); }
 a.site-home {
+  position: relative;
   display: inline-grid;
   place-items: center;
+  justify-content: center;
   flex: none;
   width: 2.75rem;
   height: 2.75rem;
@@ -218,39 +213,37 @@ a.site-home {
   min-height: 44px;
   padding: 0;
   border: 0;
-  background: var(--paper);
-  color: var(--muted-strong);
+  background: transparent;
+  color: var(--ink);
   text-decoration: none;
   line-height: 0;
 }
+.site-utility-pair > a.site-home { color: var(--ink); }
 a.site-home > span { font-size: 0; }
 a.site-home::before {
   content: "";
   grid-area: 1 / 1;
-  width: 1.5rem;
-  height: 1.5rem;
+  width: 2rem;
+  height: 2rem;
   background: currentColor;
-  -webkit-mask: url("icons/home.svg") center / contain no-repeat;
-  mask: url("icons/home.svg") center / contain no-repeat;
+  -webkit-mask: url("icons/home-emblem.svg") center / contain no-repeat;
+  mask: url("icons/home-emblem.svg") center / contain no-repeat;
 }
-a.site-home:hover { color: var(--ink); box-shadow: inset 0 -1px var(--line-strong); }
+a.site-home::after {
+  content: "";
+  position: absolute;
+  left: calc(50% + .275rem);
+  top: calc(50% + .625rem);
+  width: .2rem;
+  height: .2rem;
+  border-radius: 50%;
+  background: var(--home-accent);
+}
+a.site-home:hover, .site-utility-pair > a.site-home:hover { color: var(--home-accent); }
 a.site-home:focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; }
-/* Narrow pages have no spare side gutter. Give the persistent symbol its own
-   edge strip instead of placing it over the right end of a field or line. */
-@media (max-width: 42rem) {
-  .site-home-dock {
-    right: 0;
-    bottom: 0;
-    display: flex;
-    justify-content: flex-end;
-    width: 100%;
-    min-height: calc(3.5rem + env(safe-area-inset-bottom, 0px));
-    padding: .375rem max(.75rem, env(safe-area-inset-right, 0px)) calc(.375rem + env(safe-area-inset-bottom, 0px));
-  }
-}
-
 @media (forced-colors: active) {
   a.site-home::before { background: LinkText; forced-color-adjust: none; }
+  a.site-home::after { background: LinkText; }
 }
 
 details { border-top: 1px solid var(--line); }
@@ -291,7 +284,6 @@ th { color: var(--muted-strong); font: 600 var(--text-ui)/1.4 var(--sans); }
     color-scheme: light !important;
   }
   body { background: #fff !important; color: #000 !important; }
-  .site-home-dock, .site-home, .theme-toggle, .section-index, .site-divider { display: none !important; }
-  body:has(.site-home)::after { display: none; }
+  .site-home, .site-utility-pair, .site-utilities, .theme-toggle, .section-index, .site-divider { display: none !important; }
   a { color: inherit; }
 }

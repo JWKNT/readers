@@ -6,7 +6,6 @@
   const media = window.matchMedia("(prefers-color-scheme: dark)");
   const root = document.documentElement;
   let followsSystem = true;
-  let homeFocusBound = false;
 
   function savedTheme() {
     try {
@@ -47,6 +46,16 @@
     window.dispatchEvent(new CustomEvent("jwknt:themechange", detail));
   }
 
+  function utilityHeader() {
+    let header = document.querySelector(".site-utilities");
+    if (!header) {
+      header = document.createElement("header");
+      header.className = "site-utilities";
+      document.body.prepend(header);
+    }
+    return header;
+  }
+
   function createControl() {
     if (document.querySelector("[data-theme-toggle]")) return;
     const button = document.createElement("button");
@@ -54,52 +63,39 @@
     button.type = "button";
     button.dataset.themeToggle = "";
     button.textContent = "◐";
-    const slot = document.querySelector("[data-theme-toggle-slot], .site-header nav, header nav, .toolbar, .detail-nav");
-    if (slot) slot.append(button);
-    else {
-      button.classList.add("theme-toggle--floating");
-      document.body.prepend(button);
-    }
+    const slot = document.querySelector("[data-theme-toggle-slot], .site-header nav, header nav, .index-tools, .appearance, .static-header, .toolbar, .detail-nav");
+    (slot || utilityHeader()).append(button);
   }
 
   function createHomeControl() {
     // The game is intentionally independent of the shared site navigation.
     if (/^\/ndb-idle(?:\/|$)/.test(window.location?.pathname || "")) return;
-    if (document.querySelector(".site-home")) return;
-    const dock = document.createElement("nav");
-    dock.className = "site-home-dock";
-    dock.setAttribute("aria-label", "Site");
-    const link = document.createElement("a");
-    link.className = "site-home";
+    let link = document.querySelector(".site-home");
+    if (link?.closest(".site-utility-pair")) return;
+    const oldDock = link?.closest(".site-home-dock");
+    if (!link) {
+      link = document.createElement("a");
+      link.className = "site-home";
+      const mark = document.createElement("span");
+      mark.setAttribute("aria-hidden", "true");
+      mark.textContent = "✳";
+      link.append(mark);
+    }
     link.href = "https://jehlp.net/";
-    link.setAttribute("aria-label", "Home · jehlp.net");
-    link.title = "Home · jehlp.net";
-    const mark = document.createElement("span");
-    mark.setAttribute("aria-hidden", "true");
-    mark.textContent = "⌂";
-    link.append(mark);
-    dock.append(link);
-    document.body.append(dock);
-  }
-
-  function keepFocusedControlClear(event) {
-    const target = event.target;
-    if (!target?.closest || target.closest(".site-home-dock, dialog[open], [aria-modal='true']")) return;
-    window.requestAnimationFrame(() => {
-      if (document.activeElement !== target) return;
-      const dock = document.querySelector(".site-home-dock");
-      if (!dock) return;
-      const edge = dock.getBoundingClientRect();
-      // Readers' integrated mobile dock uses display:contents, so its own
-      // toolbar/focus handling owns clearance instead of this edge control.
-      if (!edge.height || !edge.width) return;
-      const box = target.getBoundingClientRect();
-      const intersects = box.right > edge.left && box.left < edge.right &&
-        box.bottom > edge.top && box.top < edge.bottom;
-      if (!intersects) return;
-      const shift = Math.min(box.bottom - edge.top + 8, Math.max(0, box.top - 8));
-      if (shift > 0) window.scrollBy({ top: shift, behavior: "instant" });
-    });
+    link.setAttribute("aria-label", "Home — jehlp.net");
+    link.title = "Home — jehlp.net";
+    const theme = document.querySelector("[data-theme-toggle]");
+    if (theme) {
+      const pair = document.createElement("span");
+      pair.className = "site-utility-pair";
+      if (theme.classList.contains("theme-toggle--floating")) {
+        theme.classList.remove("theme-toggle--floating");
+        utilityHeader().append(pair);
+      } else theme.before(pair);
+      pair.append(link, theme);
+    } else utilityHeader().append(link);
+    // Repair cached first-release HTML without leaving an empty footer landmark.
+    if (oldDock) oldDock.remove();
   }
 
   const stored = savedTheme();
@@ -109,10 +105,6 @@
   function setup() {
     createControl();
     createHomeControl();
-    if (!homeFocusBound) {
-      document.addEventListener("focusin", keepFocusedControlClear);
-      homeFocusBound = true;
-    }
     updateControls(root.dataset.theme);
     document.querySelectorAll("[data-theme-toggle]").forEach((button) => {
       if (button.dataset.themeBound) return;
