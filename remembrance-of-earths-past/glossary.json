@@ -2508,6 +2508,170 @@
     }
   },
   {
+    "id": "three-body-problem-hubbles-law",
+    "term": "Hubble’s law",
+    "aliases": [],
+    "short": "More distant galaxies generally recede faster.",
+    "note": "The relationship linking a galaxy’s recession speed to its distance: on cosmological scales, recession speed is proportional to distance, with the Hubble constant as the proportionality factor.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-constant-and-tension/",
+        "label": "NASA: Hubble constant and cosmic expansion"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "three-body-problem-section-06",
+      "paragraph": "p-053",
+      "index": 0
+    }
+  },
+  {
+    "id": "three-body-problem-very-long-baseline-interferometry",
+    "term": "very-long-baseline interferometry",
+    "aliases": [
+      "VLBI"
+    ],
+    "short": "Combining widely separated radio telescopes.",
+    "note": "A technique that combines precisely timed observations from distant antennas to obtain much finer angular detail than a single dish can resolve. Abbreviated VLBI.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.aoc.nrao.edu/intro/faq.html",
+        "label": "National Radio Astronomy Observatory: radio-astronomy FAQ"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "three-body-problem-section-19",
+      "paragraph": "p-027",
+      "index": 12
+    }
+  },
+  {
+    "id": "three-body-problem-euclidean-geometry",
+    "term": "Euclidean geometry",
+    "aliases": [],
+    "short": "The geometry of Euclid’s postulates.",
+    "note": "The classical geometry of lines, planes, and solids developed from the axioms and postulates of Euclid’s Elements, including the parallel postulate.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Euclid/",
+        "label": "University of St Andrews: Euclid and the Elements"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "three-body-problem-section-19",
+      "paragraph": "p-061",
+      "index": 12
+    }
+  },
+  {
+    "id": "three-body-problem-leonardo-da-vinci",
+    "term": "Leonardo da Vinci",
+    "aliases": [
+      "Leonardo"
+    ],
+    "short": "Renaissance artist, engineer, and scientific investigator.",
+    "note": "Leonardo (1452–1519) combined painting and sculpture with studies of anatomy, geometry, machinery, and flight. His paintings include the Mona Lisa and The Last Supper.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nationalgallery.org.uk/artists/leonardo-da-vinci",
+        "label": "National Gallery: Leonardo da Vinci"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "three-body-problem-section-21",
+      "paragraph": "p-038",
+      "index": 14
+    }
+  },
+  {
+    "id": "three-body-problem-bach",
+    "term": "Bach",
+    "aliases": [],
+    "short": "Johann Sebastian Bach, composer and organist.",
+    "note": "The German composer (1685–1750), long based in Leipzig, wrote music for voices, orchestra, organ, and other keyboard instruments.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.bach-leipzig.de/en/neutral/johann-sebastian-bach-%E2%94%80-chronology",
+        "label": "Bach Archive Leipzig: Bach chronology"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "three-body-problem-section-14",
+      "paragraph": "p-034",
+      "index": 7
+    }
+  },
+  {
+    "id": "three-body-problem-mozart",
+    "term": "Mozart",
+    "aliases": [],
+    "short": "Wolfgang Amadeus Mozart, composer from Salzburg.",
+    "note": "The composer (1756–1791) was a celebrated childhood performer who later worked in Vienna; his output includes operas, symphonies, concertos, and chamber music.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mozarteum.at/en/wolfgang-amade-mozart",
+        "label": "Mozarteum Foundation: Wolfgang Amadé Mozart"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "three-body-problem-section-25",
+      "paragraph": "p-004",
+      "index": 18
+    }
+  },
+  {
+    "id": "three-body-problem-hemingway",
+    "term": "Hemingway",
+    "aliases": [],
+    "short": "Ernest Hemingway, noted for economical prose.",
+    "note": "A twentieth-century American writer whose unadorned sentences and understated dialogue often leave important meaning implicit rather than explicitly explained.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.arts.gov/sites/default/files/Hemingway_TG2014.pdf",
+        "label": "US National Endowment for the Arts: Hemingway’s writing style"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "three-body-problem-section-12",
+      "paragraph": "p-060",
+      "index": 5
+    }
+  },
+  {
+    "id": "three-body-problem-turing-award",
+    "term": "Turing Award",
+    "aliases": [],
+    "short": "ACM’s leading award in computing.",
+    "note": "The Association for Computing Machinery’s prestigious technical award, often compared with a Nobel Prize for computing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.acm.org/binaries/content/assets/press-releases/2017/june/turing-50-media-advisory.pdf",
+        "label": "Association for Computing Machinery: Turing Award anniversary"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "three-body-problem-section-28",
+      "paragraph": "p-020",
+      "index": 20
+    }
+  },
+  {
     "id": "dark-forest-qin-shi-huang",
     "term": "Qin Shi Huang",
     "aliases": [],
@@ -3751,7 +3915,7 @@
     "id": "dark-forest-achondrite",
     "term": "achondrite",
     "aliases": [],
-    "short": "A stony meteorite without rounded mineral grains.",
+    "short": "A stony meteorite lacking chondrules.",
     "note": "A stony meteorite lacking the small rounded grains called chondrules; achondrites include rocks from differentiated asteroids, Mars, and the Moon.",
     "possible": false,
     "sources": [
@@ -4436,6 +4600,186 @@
     }
   },
   {
+    "id": "dark-forest-euclid",
+    "term": "Euclid",
+    "aliases": [],
+    "short": "The ancient Greek mathematician associated with the Elements.",
+    "note": "Euclid of Alexandria organized geometry into a deductive system in the Elements, beginning from definitions, postulates, and common notions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Euclid/",
+        "label": "University of St Andrews: Euclid biography"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "dark-forest-section-05",
+      "paragraph": "p-048",
+      "index": 40
+    }
+  },
+  {
+    "id": "dark-forest-euclidean-geometry",
+    "term": "Euclidean geometry",
+    "aliases": [],
+    "short": "The geometry of Euclid’s postulates.",
+    "note": "The classical geometry of lines, planes, and solids developed from the axioms and postulates of Euclid’s Elements, including the parallel postulate.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Euclid/",
+        "label": "University of St Andrews: Euclid and the Elements"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "dark-forest-section-05",
+      "paragraph": "p-040",
+      "index": 40
+    }
+  },
+  {
+    "id": "dark-forest-gogol",
+    "term": "Gogol",
+    "aliases": [],
+    "short": "Nikolai Gogol, author of The Overcoat.",
+    "note": "Gogol’s The Overcoat, also translated as The Mantle, portrays an impoverished copying clerk, Akaky Akakievich, subjected to the petty cruelties of official life.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/36238/pg36238-images.html",
+        "label": "Project Gutenberg: Gogol, The Mantle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "dark-forest-section-12",
+      "paragraph": "p-006",
+      "index": 42
+    }
+  },
+  {
+    "id": "dark-forest-charon",
+    "term": "Charon",
+    "aliases": [],
+    "short": "Pluto’s largest moon.",
+    "note": "Charon is about half Pluto’s diameter. The two bodies are mutually tidally locked, so each always presents the same face to the other.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/dwarf-planets/pluto/moons/charon/",
+        "label": "NASA: Charon"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "dark-forest-section-17",
+      "paragraph": "p-818",
+      "index": 45
+    }
+  },
+  {
+    "id": "dark-forest-callisto",
+    "term": "Callisto",
+    "aliases": [],
+    "short": "A large, heavily cratered moon of Jupiter.",
+    "note": "The second-largest Jovian moon and the third-largest moon in the Solar System, discovered with the other Galilean satellites in 1610.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/jupiter/jupiter-moons/callisto/",
+        "label": "NASA: Callisto"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "dark-forest-section-17",
+      "paragraph": "p-757",
+      "index": 45
+    }
+  },
+  {
+    "id": "dark-forest-europa",
+    "term": "Europa",
+    "aliases": [],
+    "short": "Jupiter’s icy moon with evidence of a subsurface ocean.",
+    "note": "One of the Galilean moons of Jupiter. Its icy surface overlies a likely saltwater ocean, making it an important target for investigating potentially habitable environments.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/jupiter/jupiter-moons/europa/",
+        "label": "NASA: Europa"
+      }
+    ],
+    "occurrences": 8,
+    "first": {
+      "chapter": "dark-forest-section-08",
+      "paragraph": "p-1543",
+      "index": 41
+    }
+  },
+  {
+    "id": "dark-forest-ceres",
+    "term": "Ceres",
+    "aliases": [],
+    "short": "The dwarf planet in the main asteroid belt.",
+    "note": "The largest body in the asteroid belt between Mars and Jupiter, classified as a dwarf planet. It contains substantial water-bearing material.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/dwarf-planets/ceres/facts/",
+        "label": "NASA: Ceres facts"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "dark-forest-section-08",
+      "paragraph": "p-1543",
+      "index": 41
+    }
+  },
+  {
+    "id": "dark-forest-au",
+    "term": "AU",
+    "aliases": [],
+    "short": "An astronomical unit, roughly 150 million kilometres.",
+    "note": "A distance unit approximately equal to Earth’s average distance from the Sun, often used for dimensions and distances within a planetary system.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/astronomical%20unit",
+        "label": "Merriam-Webster: astronomical unit"
+      }
+    ],
+    "occurrences": 12,
+    "first": {
+      "chapter": "dark-forest-section-08",
+      "paragraph": "p-983",
+      "index": 41
+    }
+  },
+  {
+    "id": "dark-forest-darwin",
+    "term": "Darwin",
+    "aliases": [],
+    "short": "Charles Darwin, theorist of evolution by natural selection.",
+    "note": "The naturalist explained how inherited variation and differences in survival and reproduction can gradually alter species. His 1857 abstract outlines natural selection and the divergence of living forms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.darwinproject.ac.uk/people/about-darwin/origin-species/abstract-darwin-s-theory",
+        "label": "University of Cambridge: Darwin’s abstract of his theory"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "dark-forest-section-12",
+      "paragraph": "p-316",
+      "index": 42
+    }
+  },
+  {
     "id": "deaths-end-constantine-xi",
     "term": "Constantine XI",
     "aliases": [],
@@ -4665,23 +5009,20 @@
   {
     "id": "deaths-end-poe-maelstrom",
     "term": "A Descent into the Maelstrom",
-    "aliases": [
-      "Edgar Allan Poe",
-      "Poe"
-    ],
+    "aliases": [],
     "short": "Poe’s tale of a survivor of a Norwegian whirlpool.",
     "note": "Edgar Allan Poe’s A Descent into the Maelström recounts a fisherman’s terrifying encounter with an immense Norwegian whirlpool. The survivor studies the motions of floating objects to find a way out.",
     "possible": false,
     "sources": [
       {
-        "url": "https://poemuseum.org/2021/12/18/",
+        "url": "https://poemuseum.org/a-descent-into-the-maelstrom/",
         "label": "Poe Museum: A Descent into the Maelström"
       }
     ],
-    "occurrences": 6,
+    "occurrences": 1,
     "first": {
       "chapter": "deaths-end-section-65",
-      "paragraph": "p-114",
+      "paragraph": "p-117",
       "index": 105
     }
   },
@@ -4770,9 +5111,13 @@
     "term": "Clerical Script",
     "aliases": [],
     "short": "Lishu, a form of Chinese writing developed for scribal use.",
-    "note": "Clerical script, or lishu, is a Chinese writing style that developed under the Han dynasty. Its flattened forms and distinctive spreading strokes became important models for later calligraphy.",
+    "note": "Clerical script, or lishu, evolved in the late first millennium BCE and became widely used under the Han dynasty. Its flattened forms and distinctive spreading strokes became important models for later calligraphy.",
     "possible": false,
     "sources": [
+      {
+        "url": "https://asia-archive.si.edu/learn/chinas-calligraphic-arts/clerical-script/",
+        "label": "Smithsonian: Clerical Script"
+      },
       {
         "url": "https://www.metmuseum.org/it/essays/chinese-calligraphy",
         "label": "Metropolitan Museum: Chinese Calligraphy"
@@ -4788,9 +5133,7 @@
   {
     "id": "deaths-end-starry-night",
     "term": "Starry Night",
-    "aliases": [
-      "Van Gogh"
-    ],
+    "aliases": [],
     "short": "Van Gogh’s 1889 painting of a turbulent night sky.",
     "note": "Vincent van Gogh painted The Starry Night at Saint-Rémy in June 1889. Its swirling blue sky, bright celestial bodies, village, and dark cypress combine observation with an imaginative reconstruction of the view.",
     "possible": false,
@@ -4800,7 +5143,7 @@
         "label": "Museum of Modern Art: The Starry Night"
       }
     ],
-    "occurrences": 10,
+    "occurrences": 3,
     "first": {
       "chapter": "deaths-end-section-80",
       "paragraph": "p-122",
@@ -6692,6 +7035,166 @@
       "chapter": "deaths-end-section-35",
       "paragraph": "p-010",
       "index": 76
+    }
+  },
+  {
+    "id": "deaths-end-nurhaci",
+    "term": "Nurhaci",
+    "aliases": [],
+    "short": "Jurchen ruler who founded the Later Jin state.",
+    "note": "Nurhaci (1559–1626) united Jurchen groups and proclaimed the Later Jin dynasty in 1616. His successors developed this state into the Qing dynasty.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pages.ucsd.edu/~dkjordan/chin/chinahistory/MingChingTransition.html",
+        "label": "UC San Diego: transition from Ming to Qing"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "deaths-end-section-11",
+      "paragraph": "p-003",
+      "index": 53
+    }
+  },
+  {
+    "id": "deaths-end-blachernae",
+    "term": "Blachernae",
+    "aliases": [],
+    "short": "A district in northwestern Constantinople.",
+    "note": "A quarter near the Golden Horn associated with an important church and a Byzantine palace complex that became a principal imperial residence.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.thebyzantinelegacy.com/blachernai-palace",
+        "label": "The Byzantine Legacy: palace of Blachernai"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "deaths-end-section-09",
+      "paragraph": "p-095",
+      "index": 51
+    }
+  },
+  {
+    "id": "deaths-end-longjing",
+    "term": "Longjing",
+    "aliases": [],
+    "short": "Dragon Well green tea from the Hangzhou region.",
+    "note": "A Chinese green tea originating around Longjing village near Hangzhou, known for its flat leaves and fresh fragrance. West Lake Longjing is a particularly renowned variety.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.ehangzhou.gov.cn/2025-03/17/c_293231.htm",
+        "label": "Hangzhou municipal portal: Longjing tea"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "deaths-end-section-85",
+      "paragraph": "p-034",
+      "index": 122
+    }
+  },
+  {
+    "id": "deaths-end-charon",
+    "term": "Charon",
+    "aliases": [],
+    "short": "Pluto’s largest moon.",
+    "note": "Charon is about half Pluto’s diameter. The two bodies are mutually tidally locked, so each always presents the same face to the other.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/dwarf-planets/pluto/moons/charon/",
+        "label": "NASA: Charon"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "deaths-end-section-80",
+      "paragraph": "p-045",
+      "index": 118
+    }
+  },
+  {
+    "id": "deaths-end-europa",
+    "term": "Europa",
+    "aliases": [],
+    "short": "Jupiter’s icy moon with evidence of a subsurface ocean.",
+    "note": "One of the Galilean moons of Jupiter. Its icy surface overlies a likely saltwater ocean, making it an important target for investigating potentially habitable environments.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/jupiter/jupiter-moons/europa/",
+        "label": "NASA: Europa"
+      }
+    ],
+    "occurrences": 13,
+    "first": {
+      "chapter": "deaths-end-section-62",
+      "paragraph": "p-014",
+      "index": 102
+    }
+  },
+  {
+    "id": "deaths-end-au",
+    "term": "AU",
+    "aliases": [],
+    "short": "An astronomical unit, roughly 150 million kilometres.",
+    "note": "A distance unit approximately equal to Earth’s average distance from the Sun, often used for dimensions and distances within a planetary system.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/astronomical%20unit",
+        "label": "Merriam-Webster: astronomical unit"
+      }
+    ],
+    "occurrences": 33,
+    "first": {
+      "chapter": "deaths-end-section-23",
+      "paragraph": "p-006",
+      "index": 64
+    }
+  },
+  {
+    "id": "deaths-end-general-relativity",
+    "term": "general relativity",
+    "aliases": [],
+    "short": "Einstein’s theory of gravity as spacetime geometry.",
+    "note": "A theory in which mass and energy affect the geometry of spacetime, and that geometry determines the paths of freely moving bodies and light.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.einstein-online.info/en/GeomGravity/",
+        "label": "Max Planck Institute: Einstein’s geometric gravity"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "deaths-end-section-74",
+      "paragraph": "p-042",
+      "index": 113
+    }
+  },
+  {
+    "id": "deaths-end-cuneiforms",
+    "term": "cuneiforms",
+    "aliases": [],
+    "short": "Wedge-shaped written characters.",
+    "note": "Characters made from arrangements of wedge-like strokes; cuneiform is a form of writing rather than the name of a spoken language.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cuneiform",
+        "label": "Merriam-Webster: cuneiform"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "deaths-end-section-80",
+      "paragraph": "p-099",
+      "index": 118
     }
   }
 ]

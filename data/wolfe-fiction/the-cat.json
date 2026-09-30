@@ -183,23 +183,6 @@
     "evidence": "Reused previously sourced external note, context checked c16: ng man acknowledges, mighty powers move through this dark universe of Briah, though for the most part hidden from us by its infinite night. Is it not every man’s duty to recor"
   },
   {
-    "id": "exultant",
-    "term": "exultant",
-    "short": "Triumphantly joyful.",
-    "note": "Rejoicing intensely or triumphantly; from Latin exsultare, to leap up or rejoice.",
-    "sources": [
-      {
-        "url": "https://www.merriam-webster.com/dictionary/exultant",
-        "label": "Merriam-Webster · exultant"
-      }
-    ],
-    "aliases": [
-      "exultants"
-    ],
-    "possible": false,
-    "evidence": "Reused previously sourced external note, context checked c16: d I think by no means by his wish. It has ever been the custom of the exultants resident in our House Absolute to keep their children closely confined to their own apartments and "
-  },
-  {
     "id": "gnome",
     "term": "gnome",
     "short": "An earth spirit; a wizened little figure.",
@@ -556,5 +539,24 @@
       }
     ],
     "evidence": "story/p-003: d half or more, with a kitchen boy or three and a gaggle of scullery maids, sat about the dying fire, seeking, as such people will, to amuse one another by di"
+  },
+  {
+    "id": "giddypate",
+    "term": "giddypate",
+    "aliases": [],
+    "short": "A frivolous or thoughtless person.",
+    "note": "An older term for a flighty, heedless person; also written giddy-pate or giddy-head.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordnik.com/words/giddy-pate",
+        "label": "The Century Dictionary via Wordnik · giddy-pate"
+      },
+      {
+        "url": "https://www.dictionary.com/browse/giddy",
+        "label": "Dictionary.com · giddy"
+      }
+    ],
+    "evidence": "story/p-013: self; but that, I think, was spite; and Aude was but a giddypate, who knew the Chatelaine only when she was old."
   }
 ]

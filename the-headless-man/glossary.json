@@ -58,5 +58,25 @@
       "paragraph": "p-011",
       "index": 0
     }
+  },
+  {
+    "id": "thalidomide",
+    "term": "thalidomide",
+    "aliases": [],
+    "short": "A drug linked to a major birth-defect tragedy.",
+    "note": "Marketed as a sleeping medicine in the mid-twentieth century, thalidomide caused severe birth defects in thousands of babies after use during pregnancy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.fda.gov/about-fda/histories-product-regulation/promoting-safe-effective-drugs-100-years",
+        "label": "FDA · Promoting Safe and Effective Drugs for 100 Years"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-006",
+      "index": 0
+    }
   }
 ]

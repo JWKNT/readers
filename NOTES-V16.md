@@ -1,6 +1,6 @@
 # Version 16 — Hyperion and series readers
 
-2026-09-30. Baseline: `337d71b`.
+2026-09-30. Initial baseline: `337d71b`; final integration baseline: `4559554`.
 
 ## Reader organization
 
@@ -11,7 +11,7 @@
 - Remembrance of Earth’s Past now shares one reader at
   `/remembrance-of-earths-past/`. All three books, their part headings and their
   supplementary material remain separately identifiable. This is assembly only:
-  all 129 source chapters, 12,884 paragraph addresses and 325 existing notes are
+  all 129 source chapters, 12,884 paragraph addresses and 350 existing notes are
   preserved, with book prefixes added to the combined chapter and note IDs.
 - The three former Liu entry URLs forward into the corresponding volume while
   retaining paragraph hashes and query parameters, including `wording=source`.
@@ -34,7 +34,7 @@ uncertain namesakes begin “Possibly.” Invented terms without a useful extern
 referent are omitted, including a speculative Schrödinger explanation for Schrön.
 Sources and occurrence evidence are stored with the authored entries.
 
-Fifteen additional external notes are spread across seven Endangered stories.
+Fourteen additional external notes are spread across seven Endangered stories.
 They include river-nymph vocabulary, an APS journal, German academic terminology,
 Soviet terms, historic media and real Alaskan communities. Existing definitions
 are unchanged.
@@ -74,8 +74,8 @@ part images were inspected and contain only the part numbers and decorative rule
 - All 66 readers / 604 sections pass the full validator against the baseline:
   original wording recovery, paragraph IDs, static equivalents, local links,
   notes, word counts and offsets. All 57 Hyperion sections match source hashes
-  when documented corrections are restored. There are 2,705 notes overall.
-- Eight annotation regression tests, three series-integrity tests and 22 theme
+  when documented corrections are restored. There are 2,763 notes overall.
+- Eight annotation regression tests, three series-integrity tests and 25 theme
   tests pass. Syntax and whitespace checks pass. An independent source audit
   verified the Liu migration, Hyperion boundaries, all inline images and repeated
   builds. The final corrected import is byte-identical to the maintenance output;
@@ -89,5 +89,11 @@ part images were inspected and contain only the part numbers and decorative rule
   were found and removed from both new combined readers.
 - Native 200% text enlargement and print preview were not available in the
   browser surface; neither is claimed as completed visual validation.
+
+The independent annotation audit at `4559554` was integrated before release. Its
+authored additions and contextual revisions remain intact, including the three
+Liu note files, which are copied into the combined reader without further research
+or definition edits. The duplicate Odysseus proposal was omitted in favor of the
+already-published Odysseus’s wax note.
 
 Public deployment and file verification follow the release commit.

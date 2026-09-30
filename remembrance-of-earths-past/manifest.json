@@ -25,7 +25,7 @@
   ],
   "totalWords": 522571,
   "defaultChapter": "three-body-problem-section-06",
-  "glossaryCount": 325,
+  "glossaryCount": 350,
   "correctionCount": 0,
   "editionVersion": 16,
   "chapters": [
@@ -215,6 +215,10 @@
         {
           "term": "three-body-problem-wave-function",
           "paragraph": "p-046"
+        },
+        {
+          "term": "three-body-problem-hubbles-law",
+          "paragraph": "p-053"
         },
         {
           "term": "three-body-problem-cosmic-microwave-background",
@@ -990,6 +994,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "three-body-problem-hemingway",
+          "paragraph": "p-060"
+        },
+        {
           "term": "three-body-problem-nanomaterials",
           "paragraph": "p-072"
         },
@@ -1296,6 +1304,10 @@
         {
           "term": "three-body-problem-wu-chien-shiung",
           "paragraph": "p-032"
+        },
+        {
+          "term": "three-body-problem-bach",
+          "paragraph": "p-034"
         },
         {
           "term": "three-body-problem-cosmic-microwave-background",
@@ -1999,6 +2011,14 @@
           "paragraph": "p-026"
         },
         {
+          "term": "three-body-problem-very-long-baseline-interferometry",
+          "paragraph": "p-027"
+        },
+        {
+          "term": "three-body-problem-euclidean-geometry",
+          "paragraph": "p-061"
+        },
+        {
           "term": "three-body-problem-esperanto",
           "paragraph": "p-062"
         },
@@ -2180,6 +2200,10 @@
         {
           "term": "three-body-problem-three-body-problem",
           "paragraph": "p-023"
+        },
+        {
+          "term": "three-body-problem-leonardo-da-vinci",
+          "paragraph": "p-038"
         },
         {
           "term": "three-body-problem-giordano-bruno",
@@ -2768,6 +2792,10 @@
           "paragraph": "p-002"
         },
         {
+          "term": "three-body-problem-mozart",
+          "paragraph": "p-004"
+        },
+        {
           "term": "three-body-problem-copernicus",
           "paragraph": "p-010"
         },
@@ -2958,6 +2986,10 @@
         {
           "term": "three-body-problem-three-body-problem",
           "paragraph": "p-002"
+        },
+        {
+          "term": "three-body-problem-turing-award",
+          "paragraph": "p-020"
         },
         {
           "term": "three-body-problem-nanomaterials",
@@ -4763,6 +4795,14 @@
         {
           "term": "dark-forest-firmament",
           "paragraph": "p-037"
+        },
+        {
+          "term": "dark-forest-euclidean-geometry",
+          "paragraph": "p-040"
+        },
+        {
+          "term": "dark-forest-euclid",
+          "paragraph": "p-048"
         },
         {
           "term": "dark-forest-gunwale",
@@ -6594,6 +6634,10 @@
           "paragraph": "p-939"
         },
         {
+          "term": "dark-forest-au",
+          "paragraph": "p-983"
+        },
+        {
           "term": "dark-forest-oort-cloud",
           "paragraph": "p-985"
         },
@@ -6636,6 +6680,14 @@
         {
           "term": "dark-forest-foundation",
           "paragraph": "p-1526"
+        },
+        {
+          "term": "dark-forest-europa",
+          "paragraph": "p-1543"
+        },
+        {
+          "term": "dark-forest-ceres",
+          "paragraph": "p-1543"
         },
         {
           "term": "dark-forest-dunhuang",
@@ -7166,7 +7218,23 @@
       ],
       "noteAnchors": [
         {
+          "term": "dark-forest-europa",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "dark-forest-ceres",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "dark-forest-gogol",
+          "paragraph": "p-006"
+        },
+        {
           "term": "dark-forest-kuiper-belt",
+          "paragraph": "p-011"
+        },
+        {
+          "term": "dark-forest-au",
           "paragraph": "p-011"
         },
         {
@@ -7200,6 +7268,10 @@
         {
           "term": "dark-forest-quantum-mechanics",
           "paragraph": "p-269"
+        },
+        {
+          "term": "dark-forest-darwin",
+          "paragraph": "p-316"
         },
         {
           "term": "dark-forest-qin-shi-huang",
@@ -7975,6 +8047,10 @@
         {
           "term": "dark-forest-photosphere",
           "paragraph": "p-283"
+        },
+        {
+          "term": "dark-forest-au",
+          "paragraph": "p-285"
         },
         {
           "term": "dark-forest-simon-bolivar",
@@ -9816,6 +9892,14 @@
           "paragraph": "p-517"
         },
         {
+          "term": "dark-forest-europa",
+          "paragraph": "p-521"
+        },
+        {
+          "term": "dark-forest-au",
+          "paragraph": "p-661"
+        },
+        {
           "term": "dark-forest-oort-cloud",
           "paragraph": "p-670"
         },
@@ -9828,8 +9912,16 @@
           "paragraph": "p-680"
         },
         {
+          "term": "dark-forest-callisto",
+          "paragraph": "p-757"
+        },
+        {
           "term": "dark-forest-genghis-khan",
           "paragraph": "p-789"
+        },
+        {
+          "term": "dark-forest-charon",
+          "paragraph": "p-818"
         },
         {
           "term": "dark-forest-sirius",
@@ -10463,6 +10555,10 @@
           "paragraph": "p-088"
         },
         {
+          "term": "deaths-end-blachernae",
+          "paragraph": "p-095"
+        },
+        {
           "term": "deaths-end-minaret",
           "paragraph": "p-096"
         }
@@ -10680,6 +10776,10 @@
         "p-111"
       ],
       "noteAnchors": [
+        {
+          "term": "deaths-end-nurhaci",
+          "paragraph": "p-003"
+        },
         {
           "term": "deaths-end-barbitone",
           "paragraph": "p-050"
@@ -11586,6 +11686,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "deaths-end-au",
+          "paragraph": "p-006"
+        },
+        {
           "term": "deaths-end-kuiper-belt",
           "paragraph": "p-006"
         },
@@ -11728,6 +11832,10 @@
         {
           "term": "deaths-end-geosynchronous",
           "paragraph": "p-001"
+        },
+        {
+          "term": "deaths-end-au",
+          "paragraph": "p-035"
         },
         {
           "term": "deaths-end-third-wave",
@@ -12115,6 +12223,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "deaths-end-au",
+          "paragraph": "p-002"
+        },
+        {
           "term": "deaths-end-oort-cloud",
           "paragraph": "p-003"
         },
@@ -12297,6 +12409,10 @@
           "paragraph": "p-003"
         },
         {
+          "term": "deaths-end-au",
+          "paragraph": "p-005"
+        },
+        {
           "term": "deaths-end-klaxons",
           "paragraph": "p-113"
         }
@@ -12405,6 +12521,10 @@
         {
           "term": "deaths-end-kuiper-belt",
           "paragraph": "p-012"
+        },
+        {
+          "term": "deaths-end-au",
+          "paragraph": "p-016"
         }
       ],
       "words": 1204,
@@ -12732,7 +12852,12 @@
         "p-011",
         "p-012"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "deaths-end-au",
+          "paragraph": "p-010"
+        }
+      ],
       "words": 704,
       "startWords": 363898,
       "sourceReader": "deaths-end",
@@ -13209,6 +13334,10 @@
           "paragraph": "p-013"
         },
         {
+          "term": "deaths-end-au",
+          "paragraph": "p-022"
+        },
+        {
           "term": "deaths-end-neutrino",
           "paragraph": "p-036"
         },
@@ -13484,6 +13613,10 @@
           "paragraph": "p-049"
         },
         {
+          "term": "deaths-end-au",
+          "paragraph": "p-053"
+        },
+        {
           "term": "deaths-end-neutrino",
           "paragraph": "p-063"
         },
@@ -13716,6 +13849,10 @@
         {
           "term": "deaths-end-gravitational-wave",
           "paragraph": "p-014"
+        },
+        {
+          "term": "deaths-end-au",
+          "paragraph": "p-016"
         },
         {
           "term": "deaths-end-photosphere",
@@ -14726,6 +14863,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "deaths-end-au",
+          "paragraph": "p-010"
+        },
+        {
           "term": "deaths-end-kuiper-belt",
           "paragraph": "p-010"
         },
@@ -14739,6 +14880,10 @@
         },
         {
           "term": "deaths-end-ecliptic-plane",
+          "paragraph": "p-014"
+        },
+        {
+          "term": "deaths-end-europa",
           "paragraph": "p-014"
         }
       ],
@@ -15028,7 +15173,7 @@
         },
         {
           "term": "deaths-end-poe-maelstrom",
-          "paragraph": "p-114"
+          "paragraph": "p-117"
         },
         {
           "term": "deaths-end-schwarzschild-radius",
@@ -15073,6 +15218,10 @@
         "p-010"
       ],
       "noteAnchors": [
+        {
+          "term": "deaths-end-au",
+          "paragraph": "p-003"
+        },
         {
           "term": "deaths-end-strong-interaction",
           "paragraph": "p-004"
@@ -15289,7 +15438,12 @@
         "p-006",
         "p-007"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "deaths-end-au",
+          "paragraph": "p-005"
+        }
+      ],
       "words": 505,
       "startWords": 444052,
       "sourceReader": "deaths-end",
@@ -15363,6 +15517,10 @@
         {
           "term": "deaths-end-mount-emei",
           "paragraph": "p-014"
+        },
+        {
+          "term": "deaths-end-au",
+          "paragraph": "p-017"
         },
         {
           "term": "deaths-end-neutrino",
@@ -15512,6 +15670,10 @@
         {
           "term": "deaths-end-cyclopean",
           "paragraph": "p-009"
+        },
+        {
+          "term": "deaths-end-au",
+          "paragraph": "p-040"
         }
       ],
       "words": 3319,
@@ -15666,6 +15828,10 @@
           "paragraph": "p-049"
         },
         {
+          "term": "deaths-end-europa",
+          "paragraph": "p-073"
+        },
+        {
           "term": "deaths-end-qingming-scroll",
           "paragraph": "p-104"
         }
@@ -15755,6 +15921,10 @@
         {
           "term": "deaths-end-event-horizon",
           "paragraph": "p-032"
+        },
+        {
+          "term": "deaths-end-general-relativity",
+          "paragraph": "p-042"
         },
         {
           "term": "deaths-end-neutrino",
@@ -15911,6 +16081,10 @@
         {
           "term": "deaths-end-lagrangian-point",
           "paragraph": "p-014"
+        },
+        {
+          "term": "deaths-end-au",
+          "paragraph": "p-016"
         },
         {
           "term": "deaths-end-tokamak",
@@ -16277,12 +16451,20 @@
           "paragraph": "p-004"
         },
         {
+          "term": "deaths-end-au",
+          "paragraph": "p-006"
+        },
+        {
           "term": "deaths-end-phalanx",
           "paragraph": "p-017"
         },
         {
           "term": "deaths-end-nuclear-fusion",
           "paragraph": "p-020"
+        },
+        {
+          "term": "deaths-end-europa",
+          "paragraph": "p-034"
         },
         {
           "term": "deaths-end-pinnace",
@@ -16463,6 +16645,10 @@
           "paragraph": "p-006"
         },
         {
+          "term": "deaths-end-charon",
+          "paragraph": "p-045"
+        },
+        {
           "term": "deaths-end-carpe-diem",
           "paragraph": "p-067"
         },
@@ -16473,6 +16659,10 @@
         {
           "term": "deaths-end-rousseau",
           "paragraph": "p-091"
+        },
+        {
+          "term": "deaths-end-cuneiforms",
+          "paragraph": "p-099"
         },
         {
           "term": "deaths-end-great-seal-script",
@@ -16783,6 +16973,10 @@
           "paragraph": "p-042"
         },
         {
+          "term": "deaths-end-au",
+          "paragraph": "p-060"
+        },
+        {
           "term": "deaths-end-kuiper-belt",
           "paragraph": "p-078"
         },
@@ -16795,8 +16989,12 @@
           "paragraph": "p-095"
         },
         {
+          "term": "deaths-end-charon",
+          "paragraph": "p-122"
+        },
+        {
           "term": "deaths-end-starry-night",
-          "paragraph": "p-128"
+          "paragraph": "p-133"
         },
         {
           "term": "deaths-end-oort-cloud",
@@ -17187,6 +17385,10 @@
           "paragraph": "p-004"
         },
         {
+          "term": "deaths-end-au",
+          "paragraph": "p-022"
+        },
+        {
           "term": "deaths-end-gravitational-wave",
           "paragraph": "p-050"
         },
@@ -17493,6 +17695,10 @@
         {
           "term": "deaths-end-charles-misner",
           "paragraph": "p-018"
+        },
+        {
+          "term": "deaths-end-longjing",
+          "paragraph": "p-034"
         },
         {
           "term": "deaths-end-gone-with-wind",

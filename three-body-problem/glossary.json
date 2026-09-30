@@ -2506,5 +2506,169 @@
       "paragraph": "p-033",
       "index": 4
     }
+  },
+  {
+    "id": "hubbles-law",
+    "term": "Hubble’s law",
+    "aliases": [],
+    "short": "More distant galaxies generally recede faster.",
+    "note": "The relationship linking a galaxy’s recession speed to its distance: on cosmological scales, recession speed is proportional to distance, with the Hubble constant as the proportionality factor.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-constant-and-tension/",
+        "label": "NASA: Hubble constant and cosmic expansion"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-06",
+      "paragraph": "p-053",
+      "index": 0
+    }
+  },
+  {
+    "id": "very-long-baseline-interferometry",
+    "term": "very-long-baseline interferometry",
+    "aliases": [
+      "VLBI"
+    ],
+    "short": "Combining widely separated radio telescopes.",
+    "note": "A technique that combines precisely timed observations from distant antennas to obtain much finer angular detail than a single dish can resolve. Abbreviated VLBI.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.aoc.nrao.edu/intro/faq.html",
+        "label": "National Radio Astronomy Observatory: radio-astronomy FAQ"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-19",
+      "paragraph": "p-027",
+      "index": 12
+    }
+  },
+  {
+    "id": "euclidean-geometry",
+    "term": "Euclidean geometry",
+    "aliases": [],
+    "short": "The geometry of Euclid’s postulates.",
+    "note": "The classical geometry of lines, planes, and solids developed from the axioms and postulates of Euclid’s Elements, including the parallel postulate.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Euclid/",
+        "label": "University of St Andrews: Euclid and the Elements"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-19",
+      "paragraph": "p-061",
+      "index": 12
+    }
+  },
+  {
+    "id": "leonardo-da-vinci",
+    "term": "Leonardo da Vinci",
+    "aliases": [
+      "Leonardo"
+    ],
+    "short": "Renaissance artist, engineer, and scientific investigator.",
+    "note": "Leonardo (1452–1519) combined painting and sculpture with studies of anatomy, geometry, machinery, and flight. His paintings include the Mona Lisa and The Last Supper.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nationalgallery.org.uk/artists/leonardo-da-vinci",
+        "label": "National Gallery: Leonardo da Vinci"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "section-21",
+      "paragraph": "p-038",
+      "index": 14
+    }
+  },
+  {
+    "id": "bach",
+    "term": "Bach",
+    "aliases": [],
+    "short": "Johann Sebastian Bach, composer and organist.",
+    "note": "The German composer (1685–1750), long based in Leipzig, wrote music for voices, orchestra, organ, and other keyboard instruments.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.bach-leipzig.de/en/neutral/johann-sebastian-bach-%E2%94%80-chronology",
+        "label": "Bach Archive Leipzig: Bach chronology"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-14",
+      "paragraph": "p-034",
+      "index": 7
+    }
+  },
+  {
+    "id": "mozart",
+    "term": "Mozart",
+    "aliases": [],
+    "short": "Wolfgang Amadeus Mozart, composer from Salzburg.",
+    "note": "The composer (1756–1791) was a celebrated childhood performer who later worked in Vienna; his output includes operas, symphonies, concertos, and chamber music.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mozarteum.at/en/wolfgang-amade-mozart",
+        "label": "Mozarteum Foundation: Wolfgang Amadé Mozart"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-25",
+      "paragraph": "p-004",
+      "index": 18
+    }
+  },
+  {
+    "id": "hemingway",
+    "term": "Hemingway",
+    "aliases": [],
+    "short": "Ernest Hemingway, noted for economical prose.",
+    "note": "A twentieth-century American writer whose unadorned sentences and understated dialogue often leave important meaning implicit rather than explicitly explained.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.arts.gov/sites/default/files/Hemingway_TG2014.pdf",
+        "label": "US National Endowment for the Arts: Hemingway’s writing style"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-12",
+      "paragraph": "p-060",
+      "index": 5
+    }
+  },
+  {
+    "id": "turing-award",
+    "term": "Turing Award",
+    "aliases": [],
+    "short": "ACM’s leading award in computing.",
+    "note": "The Association for Computing Machinery’s prestigious technical award, often compared with a Nobel Prize for computing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.acm.org/binaries/content/assets/press-releases/2017/june/turing-50-media-advisory.pdf",
+        "label": "Association for Computing Machinery: Turing Award anniversary"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-28",
+      "paragraph": "p-020",
+      "index": 20
+    }
   }
 ]

@@ -195,21 +195,6 @@
     "evidence": "story/p-007: O’er the green waves which gently bend and swell, Fair Amphitrite steers her silver shell; Her playful dolphins stretch the silken rein, Hear her swee"
   },
   {
-    "id": "odysseus",
-    "term": "Odysseus",
-    "aliases": [],
-    "short": "The Greek hero who passes the Sirens with wax and bonds.",
-    "note": "The hero of Homer’s Odyssey. In Book 12 he plugs his companions’ ears with wax against the Sirens’ song, while they bind him to the mast so he can listen without following the singers.",
-    "possible": false,
-    "sources": [
-      {
-        "url": "https://www.theoi.com/Text/HomerOdyssey12.html",
-        "label": "Homer · Odyssey, Book 12"
-      }
-    ],
-    "evidence": "story/p-009:  voice, Anderson said aloud, “They sell everything but Odysseus’s wax. But then, I don’t need wax.” He had been thinking of the man-headed bull, Nin"
-  },
-  {
     "id": "anubis",
     "term": "Anubis",
     "aliases": [],
@@ -238,5 +223,20 @@
       }
     ],
     "evidence": "story/p-070: derson said. “There are other possibilities—Anubis and Set, perhaps even Narashimha, the lion-man of the Vedas. Whatever they are, we’re going "
+  },
+  {
+    "id": "odysseus-wax",
+    "term": "Odysseus’s wax",
+    "aliases": [],
+    "short": "Wax used to block the Sirens’ song.",
+    "note": "In book 12 of Homer’s Odyssey, Odysseus stops his companions’ ears with wax to protect them from the Sirens; he listens while bound to the mast.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://classics.mit.edu/Homer/odyssey.12.xii.html",
+        "label": "Homer · Odyssey, book 12"
+      }
+    ],
+    "evidence": "story/p-009:  voice, Anderson said aloud, “They sell everything but Odysseus’s wax. But then, I don’t need wax.” He had been thinking of the man-headed bull, Nin, of A"
   }
 ]

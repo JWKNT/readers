@@ -163,16 +163,13 @@
   {
     "id": "poe-maelstrom",
     "term": "A Descent into the Maelstrom",
-    "aliases": [
-      "Edgar Allan Poe",
-      "Poe"
-    ],
+    "aliases": [],
     "short": "Poe’s tale of a survivor of a Norwegian whirlpool.",
     "note": "Edgar Allan Poe’s A Descent into the Maelström recounts a fisherman’s terrifying encounter with an immense Norwegian whirlpool. The survivor studies the motions of floating objects to find a way out.",
     "possible": false,
     "sources": [
       {
-        "url": "https://poemuseum.org/2021/12/18/",
+        "url": "https://poemuseum.org/a-descent-into-the-maelstrom/",
         "label": "Poe Museum: A Descent into the Maelström"
       }
     ]
@@ -238,9 +235,13 @@
     "term": "Clerical Script",
     "aliases": [],
     "short": "Lishu, a form of Chinese writing developed for scribal use.",
-    "note": "Clerical script, or lishu, is a Chinese writing style that developed under the Han dynasty. Its flattened forms and distinctive spreading strokes became important models for later calligraphy.",
+    "note": "Clerical script, or lishu, evolved in the late first millennium BCE and became widely used under the Han dynasty. Its flattened forms and distinctive spreading strokes became important models for later calligraphy.",
     "possible": false,
     "sources": [
+      {
+        "url": "https://asia-archive.si.edu/learn/chinas-calligraphic-arts/clerical-script/",
+        "label": "Smithsonian: Clerical Script"
+      },
       {
         "url": "https://www.metmuseum.org/it/essays/chinese-calligraphy",
         "label": "Metropolitan Museum: Chinese Calligraphy"
@@ -250,9 +251,7 @@
   {
     "id": "starry-night",
     "term": "Starry Night",
-    "aliases": [
-      "Van Gogh"
-    ],
+    "aliases": [],
     "short": "Van Gogh’s 1889 painting of a turbulent night sky.",
     "note": "Vincent van Gogh painted The Starry Night at Saint-Rémy in June 1889. Its swirling blue sky, bright celestial bodies, village, and dark cypress combine observation with an imaginative reconstruction of the view.",
     "possible": false,
@@ -1143,8 +1142,7 @@
         "paragraph": "p-065",
         "context": "ty in a brilliant flash. She looked at the golden bandoliers hanging over the chests of every soldier: These were the chains of the god of Death."
       }
-    ],
-    "occurrences": 6
+    ]
   },
   {
     "id": "geiger-counter",
@@ -1167,8 +1165,7 @@
         "paragraph": "p-006",
         "context": "g Xin swept Vadimov’s office and apartment with a Geiger counter, but discovered nothing unusual. She saw the picture of Vadimov’s family he kept und"
       }
-    ],
-    "occurrences": 1
+    ]
   },
   {
     "id": "doppler-effect",
@@ -1194,8 +1191,7 @@
         "paragraph": "p-212",
         "context": "rom the direction of the Solar System. Due to the Doppler effect, the brief bursts of voices sounded strange, like singing."
       }
-    ],
-    "occurrences": 2
+    ]
   },
   {
     "id": "firmament",
@@ -1221,8 +1217,7 @@
         "paragraph": "p-041",
         "context": " turned east and disappeared in the depths of the firmament. New white lines continuously shot up from the ground and extended into air, each li"
       }
-    ],
-    "occurrences": 2
+    ]
   },
   {
     "id": "ecliptic-plane",
@@ -1255,8 +1250,7 @@
         "paragraph": "p-031",
         "context": "rom her reading: The photoid was coming along the ecliptic plane. There were conflicting reports concerning its exact direction and distance from the"
       }
-    ],
-    "occurrences": 3
+    ]
   },
   {
     "id": "geosynchronous",
@@ -1287,8 +1281,7 @@
         "paragraph": "p-081",
         "context": "eave Earth again. Although Bronze Age had reached geosynchronous orbit, the prisoners were doomed never to travel the last thirty thousand kilometers"
       }
-    ],
-    "occurrences": 10
+    ]
   },
   {
     "id": "minaret",
@@ -1321,8 +1314,7 @@
         "paragraph": "p-108",
         "context": "Phrantzes and his men stopped in front of the minaret in the Blachernae quarter and dismounted from their horses."
       }
-    ],
-    "occurrences": 12
+    ]
   },
   {
     "id": "nonpareil",
@@ -1343,8 +1335,7 @@
         "paragraph": "p-026",
         "context": "dy drawn in my heart an image of you, and of your nonpareil loveliness. These I will transfer to the painting.”"
       }
-    ],
-    "occurrences": 1
+    ]
   },
   {
     "id": "queen-regnant",
@@ -1370,8 +1361,7 @@
         "paragraph": "p-025",
         "context": "“Look at the princess, the future queen regnant. You must paint her as well.”"
       }
-    ],
-    "occurrences": 2
+    ]
   },
   {
     "id": "umbral-cone",
@@ -1392,8 +1382,7 @@
         "paragraph": "p-006",
         "context": "At this altitude, the Earth’s umbral cone was narrower, and the Sun thus became visible. Everything outside was submerged in t"
       }
-    ],
-    "occurrences": 1
+    ]
   },
   {
     "id": "parallax",
@@ -1414,8 +1403,7 @@
         "paragraph": "p-129",
         "context": "ce points were too far away, so they couldn’t see parallax in a short time frame. However, the ship’s navigation system could detect even tiny "
       }
-    ],
-    "occurrences": 1
+    ]
   },
   {
     "id": "tamarisk",
@@ -1441,8 +1429,7 @@
         "paragraph": "p-004",
         "context": "overed over the Gobi, revealing burning stands of tamarisk here and there. Though few people lived out here they occasionally saw old buildings"
       }
-    ],
-    "occurrences": 2
+    ]
   },
   {
     "id": "neutrino",
@@ -1475,8 +1462,7 @@
         "paragraph": "p-008",
         "context": "ravity had to communicate with Earth through only neutrinos and radio. Transmissions from Gravity now took a year and three months to reach the "
       }
-    ],
-    "occurrences": 15
+    ]
   },
   {
     "id": "event-horizon",
@@ -1509,8 +1495,7 @@
         "paragraph": "p-032",
         "context": "remained stable, and its Schwarzschild radius, or event horizon radius, had grown from the size of a fundamental particle to twenty-one nanometers."
       }
-    ],
-    "occurrences": 13
+    ]
   },
   {
     "id": "gravitational-wave",
@@ -1543,8 +1528,7 @@
         "paragraph": "p-009",
         "context": "If the crew of Bronze Age had seen the gravitational wave antennas on the Earth, they would have recognized Gravity as an almost perfect repli"
       }
-    ],
-    "occurrences": 76
+    ]
   },
   {
     "id": "katana",
@@ -1577,8 +1561,7 @@
         "paragraph": "p-015",
         "context": "Cheng Xin remembered that she had seen Sophon’s katana in that eastern leaf-house shrouded in fog and cloud. Back then, it, and two shorter"
       }
-    ],
-    "occurrences": 9
+    ]
   },
   {
     "id": "photosphere",
@@ -1599,8 +1582,7 @@
         "paragraph": "p-016",
         "context": "otoid struck the star and tore a hole through the photosphere and the convection zone. The hole was about fifty thousand kilometers in diameter, w"
       }
-    ],
-    "occurrences": 1
+    ]
   },
   {
     "id": "klaxons",
@@ -1633,8 +1615,7 @@
         "paragraph": "p-041",
         "context": "rol cabin. When he was about ten meters away, the klaxons for the droplet attack started blaring. Due to his rank, the information window appe"
       }
-    ],
-    "occurrences": 4
+    ]
   },
   {
     "id": "cryoprotectant",
@@ -1657,8 +1638,7 @@
         "paragraph": "p-006",
         "context": "replaced the blood in the body with an antifreeze cryoprotectant, then brought the body temperature down to minus-fifty-degrees Celsius. Relying on a"
       }
-    ],
-    "occurrences": 1
+    ]
   },
   {
     "id": "taiaha",
@@ -1684,8 +1664,7 @@
         "paragraph": "p-016",
         "context": "enemy first with his eyes, then kill him with the taiaha.” He came back and stood in front of Cheng Xin. “Child, you failed to hold the enemy"
       }
-    ],
-    "occurrences": 2
+    ]
   },
   {
     "id": "barnards-star",
@@ -1706,8 +1685,7 @@
         "paragraph": "p-098",
         "context": "almost impossible for anyone to hear it. To reach Barnard’s Star, the nearest star that Blue Space could use as a superantenna to repeat Ye Wenjie’s "
       }
-    ],
-    "occurrences": 1
+    ]
   },
   {
     "id": "phalanx",
@@ -1728,8 +1706,7 @@
         "paragraph": "p-017",
         "context": "llar-class warships that had formed a magnificent phalanx all those years ago? Now, there were just these two lonely ships with a complement o"
       }
-    ],
-    "occurrences": 1
+    ]
   },
   {
     "id": "infrasonic",
@@ -1760,8 +1737,7 @@
         "paragraph": "p-079",
         "context": "um, thereby preventing the crew from death in the infrasonic nuclear bomb attack. Even now, public opinion on Earth remained divided as to whethe"
       }
-    ],
-    "occurrences": 3
+    ]
   },
   {
     "id": "mitral-and-tricuspid-valves",
@@ -1786,8 +1762,7 @@
         "paragraph": "p-016",
         "context": "ia of the heart, the openings and closings of the mitral and tricuspid valves. When gazing at each other, they could see clearly the interior structure of the len"
       }
-    ],
-    "occurrences": 1
+    ]
   },
   {
     "id": "skiffs",
@@ -1815,8 +1790,7 @@
         "paragraph": "p-030",
         "context": "-dimensional space in the information window: the skiffs and dinghies that had left Europe VI earlier. Their fusion reactors were operating a"
       }
-    ],
-    "occurrences": 2
+    ]
   },
   {
     "id": "sconces",
@@ -1839,8 +1813,7 @@
         "paragraph": "p-038",
         "context": "d Helena down a long flight of stairs. Torches in sconces along the way cast dim circles of light. Under every torch stood two armed soldiers "
       }
-    ],
-    "occurrences": 1
+    ]
   },
   {
     "id": "flagon",
@@ -1863,8 +1836,7 @@
         "paragraph": "p-093",
         "context": "that umbrella away from her.” Ice Sand lifted his flagon."
       }
-    ],
-    "occurrences": 1
+    ]
   },
   {
     "id": "tatami",
@@ -1890,8 +1862,7 @@
         "paragraph": "p-011",
         "context": "e pavilionlike parlor. Then the three sat down on tatami mats, and Sophon began to set out the implements for the Way of Tea. Time passed tra"
       }
-    ],
-    "occurrences": 2
+    ]
   },
   {
     "id": "barbitone",
@@ -1912,8 +1883,7 @@
         "paragraph": "p-050",
         "context": "houlder. “It’s a combination of a massive dose of barbitone, muscle relaxant, and potassium chloride. The barbitone takes effect first and puts "
       }
-    ],
-    "occurrences": 1
+    ]
   },
   {
     "id": "chromosphere",
@@ -1934,8 +1904,7 @@
         "paragraph": "p-016",
         "context": "ugh the convection zone, the photosphere, and the chromosphere; and struck the planet directly. All life outdoors on the hemisphere exposed to the "
       }
-    ],
-    "occurrences": 1
+    ]
   },
   {
     "id": "antimatter",
@@ -1966,8 +1935,7 @@
         "paragraph": "p-064",
         "context": "r basic research experiments, but also to produce antimatter. In the last four years, we’ve used it to make antimatter practically the entire tim"
       }
-    ],
-    "occurrences": 15
+    ]
   },
   {
     "id": "degenerate-matter",
@@ -1998,8 +1966,7 @@
         "paragraph": "p-008",
         "context": "t be refreshed; when the vibrating string made of degenerate matter that ran the length of the ship reached its fifty-year half-life limit, a completely"
       }
-    ],
-    "occurrences": 5
+    ]
   },
   {
     "id": "kenjutsu",
@@ -2020,7 +1987,214 @@
         "paragraph": "p-010",
         "context": " wielder’s skill; but the fatal blows of Japanese kenjutsu. Real Japanese sword fights often ended after a very brief struggle lasting no more "
       }
+    ]
+  },
+  {
+    "id": "nurhaci",
+    "term": "Nurhaci",
+    "aliases": [],
+    "short": "Jurchen ruler who founded the Later Jin state.",
+    "note": "Nurhaci (1559–1626) united Jurchen groups and proclaimed the Later Jin dynasty in 1616. His successors developed this state into the Qing dynasty.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pages.ucsd.edu/~dkjordan/chin/chinahistory/MingChingTransition.html",
+        "label": "UC San Diego: transition from Ming to Qing"
+      }
     ],
-    "occurrences": 1
+    "evidence": [
+      {
+        "chapter": "section-11",
+        "paragraph": "p-003",
+        "context": " Ming Dynasty, and he thought—he wasn’t sure—that Nurhaci had just founded the empire that would end up replacing the Ming, after slaughtering"
+      }
+    ]
+  },
+  {
+    "id": "blachernae",
+    "term": "Blachernae",
+    "aliases": [],
+    "short": "A district in northwestern Constantinople.",
+    "note": "A quarter near the Golden Horn associated with an important church and a Byzantine palace complex that became a principal imperial residence.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.thebyzantinelegacy.com/blachernai-palace",
+        "label": "The Byzantine Legacy: palace of Blachernai"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-09",
+        "paragraph": "p-095",
+        "context": " own path multiple times until she arrived in the Blachernae quarter, the part of the city where bombardment from the Turkish cannons was heavies"
+      },
+      {
+        "chapter": "section-09",
+        "paragraph": "p-098",
+        "context": "anyone who might be following her, headed for the Blachernae quarter."
+      },
+      {
+        "chapter": "section-09",
+        "paragraph": "p-108",
+        "context": "nd his men stopped in front of the minaret in the Blachernae quarter and dismounted from their horses."
+      }
+    ]
+  },
+  {
+    "id": "longjing",
+    "term": "Longjing",
+    "aliases": [],
+    "short": "Dragon Well green tea from the Hangzhou region.",
+    "note": "A Chinese green tea originating around Longjing village near Hangzhou, known for its flat leaves and fresh fragrance. West Lake Longjing is a particularly renowned variety.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.ehangzhou.gov.cn/2025-03/17/c_293231.htm",
+        "label": "Hangzhou municipal portal: Longjing tea"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-85",
+        "paragraph": "p-034",
+        "context": "ps of the Way of Tea. The tea leaves seemed to be Longjing, and they stood up at the bottom of the cups like a tiny green forest, giving off a "
+      }
+    ]
+  },
+  {
+    "id": "charon",
+    "term": "Charon",
+    "aliases": [],
+    "short": "Pluto’s largest moon.",
+    "note": "Charon is about half Pluto’s diameter. The two bodies are mutually tidally locked, so each always presents the same face to the other.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/dwarf-planets/pluto/moons/charon/",
+        "label": "NASA: Charon"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-80",
+        "paragraph": "p-045",
+        "context": " large, but the surface was shrouded in darkness: Charon, Pluto’s moon. Its mass was a tenth of Pluto’s, and the two almost formed a double-p"
+      },
+      {
+        "chapter": "section-81",
+        "paragraph": "p-122",
+        "context": "le. Halo passed through the gap between Pluto and Charon as though flying through a canyon, the two celestial bodies were so close."
+      },
+      {
+        "chapter": "section-81",
+        "paragraph": "p-123",
+        "context": " kilometers, and the glow from its nozzles lit up Charon’s smooth surface. They could clearly see its triangular hull and the nearly ten-kilo"
+      }
+    ]
+  },
+  {
+    "id": "europa",
+    "term": "Europa",
+    "aliases": [],
+    "short": "Jupiter’s icy moon with evidence of a subsurface ocean.",
+    "note": "One of the Galilean moons of Jupiter. Its icy surface overlies a likely saltwater ocean, making it an important target for investigating potentially habitable environments.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/jupiter/jupiter-moons/europa/",
+        "label": "NASA: Europa"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-62",
+        "paragraph": "p-014",
+        "context": "but there was a 160-kilometer-deep ocean covering Europa, providing a source of water greater in volume than the Earth’s oceans, and capable "
+      },
+      {
+        "chapter": "section-73",
+        "paragraph": "p-073",
+        "context": "“Europa?”"
+      },
+      {
+        "chapter": "section-73",
+        "paragraph": "p-075",
+        "context": "satellite but remained stationary relative to it. Europa, on the other hand, was a satellite that moved very fast. She remembered its speed w"
+      }
+    ]
+  },
+  {
+    "id": "au",
+    "term": "AU",
+    "aliases": [],
+    "short": "An astronomical unit, roughly 150 million kilometres.",
+    "note": "A distance unit approximately equal to Earth’s average distance from the Sun, often used for dimensions and distances within a planetary system.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/astronomical%20unit",
+        "label": "Merriam-Webster: astronomical unit"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-23",
+        "paragraph": "p-006",
+        "context": "rently in outer space, about twenty-three hundred AU from the Earth, far beyond the Kuiper Belt but still some distance from the Oort Clo"
+      },
+      {
+        "chapter": "section-24",
+        "paragraph": "p-035",
+        "context": "you boarded Bronze Age and sailed twenty thousand AU from the Solar System, or even farther, you still wouldn’t understand."
+      },
+      {
+        "chapter": "section-30",
+        "paragraph": "p-002",
+        "context": "It finally approached its target. Only three AU separated the hunter and the hunted. Compared to the 1.5 light-years that the two sh"
+      }
+    ]
+  },
+  {
+    "id": "general-relativity",
+    "term": "general relativity",
+    "aliases": [],
+    "short": "Einstein’s theory of gravity as spacetime geometry.",
+    "note": "A theory in which mass and energy affect the geometry of spacetime, and that geometry determines the paths of freely moving bodies and light.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.einstein-online.info/en/GeomGravity/",
+        "label": "Max Planck Institute: Einstein’s geometric gravity"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-74",
+        "paragraph": "p-042",
+        "context": "“Under general relativity, a distant observer would see a clock near the event horizon slow down, and the proc"
+      }
+    ]
+  },
+  {
+    "id": "cuneiforms",
+    "term": "cuneiforms",
+    "aliases": [],
+    "short": "Wedge-shaped written characters.",
+    "note": "Characters made from arrangements of wedge-like strokes; cuneiform is a form of writing rather than the name of a spoken language.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cuneiform",
+        "label": "Merriam-Webster: cuneiform"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-80",
+        "paragraph": "p-099",
+        "context": "r the man and the woman came some hieroglyphs and cuneiforms, probably copied from ancient artifacts—it was possible that some of them were not e"
+      }
+    ]
   }
 ]

@@ -12,7 +12,7 @@
   ],
   "totalWords": 5946,
   "defaultChapter": "story",
-  "glossaryCount": 3,
+  "glossaryCount": 4,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -290,6 +290,10 @@
         {
           "term": "gioconda",
           "paragraph": "p-152"
+        },
+        {
+          "term": "nicht-wahr",
+          "paragraph": "p-222"
         }
       ],
       "words": 5946,

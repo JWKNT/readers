@@ -229,23 +229,20 @@
   {
     "id": "poe-maelstrom",
     "term": "A Descent into the Maelstrom",
-    "aliases": [
-      "Edgar Allan Poe",
-      "Poe"
-    ],
+    "aliases": [],
     "short": "Poe’s tale of a survivor of a Norwegian whirlpool.",
     "note": "Edgar Allan Poe’s A Descent into the Maelström recounts a fisherman’s terrifying encounter with an immense Norwegian whirlpool. The survivor studies the motions of floating objects to find a way out.",
     "possible": false,
     "sources": [
       {
-        "url": "https://poemuseum.org/2021/12/18/",
+        "url": "https://poemuseum.org/a-descent-into-the-maelstrom/",
         "label": "Poe Museum: A Descent into the Maelström"
       }
     ],
-    "occurrences": 6,
+    "occurrences": 1,
     "first": {
       "chapter": "section-65",
-      "paragraph": "p-114",
+      "paragraph": "p-117",
       "index": 55
     }
   },
@@ -334,9 +331,13 @@
     "term": "Clerical Script",
     "aliases": [],
     "short": "Lishu, a form of Chinese writing developed for scribal use.",
-    "note": "Clerical script, or lishu, is a Chinese writing style that developed under the Han dynasty. Its flattened forms and distinctive spreading strokes became important models for later calligraphy.",
+    "note": "Clerical script, or lishu, evolved in the late first millennium BCE and became widely used under the Han dynasty. Its flattened forms and distinctive spreading strokes became important models for later calligraphy.",
     "possible": false,
     "sources": [
+      {
+        "url": "https://asia-archive.si.edu/learn/chinas-calligraphic-arts/clerical-script/",
+        "label": "Smithsonian: Clerical Script"
+      },
       {
         "url": "https://www.metmuseum.org/it/essays/chinese-calligraphy",
         "label": "Metropolitan Museum: Chinese Calligraphy"
@@ -352,9 +353,7 @@
   {
     "id": "starry-night",
     "term": "Starry Night",
-    "aliases": [
-      "Van Gogh"
-    ],
+    "aliases": [],
     "short": "Van Gogh’s 1889 painting of a turbulent night sky.",
     "note": "Vincent van Gogh painted The Starry Night at Saint-Rémy in June 1889. Its swirling blue sky, bright celestial bodies, village, and dark cypress combine observation with an imaginative reconstruction of the view.",
     "possible": false,
@@ -364,7 +363,7 @@
         "label": "Museum of Modern Art: The Starry Night"
       }
     ],
-    "occurrences": 10,
+    "occurrences": 3,
     "first": {
       "chapter": "section-80",
       "paragraph": "p-122",
@@ -2256,6 +2255,166 @@
       "chapter": "section-35",
       "paragraph": "p-010",
       "index": 26
+    }
+  },
+  {
+    "id": "nurhaci",
+    "term": "Nurhaci",
+    "aliases": [],
+    "short": "Jurchen ruler who founded the Later Jin state.",
+    "note": "Nurhaci (1559–1626) united Jurchen groups and proclaimed the Later Jin dynasty in 1616. His successors developed this state into the Qing dynasty.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pages.ucsd.edu/~dkjordan/chin/chinahistory/MingChingTransition.html",
+        "label": "UC San Diego: transition from Ming to Qing"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-11",
+      "paragraph": "p-003",
+      "index": 3
+    }
+  },
+  {
+    "id": "blachernae",
+    "term": "Blachernae",
+    "aliases": [],
+    "short": "A district in northwestern Constantinople.",
+    "note": "A quarter near the Golden Horn associated with an important church and a Byzantine palace complex that became a principal imperial residence.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.thebyzantinelegacy.com/blachernai-palace",
+        "label": "The Byzantine Legacy: palace of Blachernai"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "section-09",
+      "paragraph": "p-095",
+      "index": 1
+    }
+  },
+  {
+    "id": "longjing",
+    "term": "Longjing",
+    "aliases": [],
+    "short": "Dragon Well green tea from the Hangzhou region.",
+    "note": "A Chinese green tea originating around Longjing village near Hangzhou, known for its flat leaves and fresh fragrance. West Lake Longjing is a particularly renowned variety.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.ehangzhou.gov.cn/2025-03/17/c_293231.htm",
+        "label": "Hangzhou municipal portal: Longjing tea"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-85",
+      "paragraph": "p-034",
+      "index": 72
+    }
+  },
+  {
+    "id": "charon",
+    "term": "Charon",
+    "aliases": [],
+    "short": "Pluto’s largest moon.",
+    "note": "Charon is about half Pluto’s diameter. The two bodies are mutually tidally locked, so each always presents the same face to the other.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/dwarf-planets/pluto/moons/charon/",
+        "label": "NASA: Charon"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "section-80",
+      "paragraph": "p-045",
+      "index": 68
+    }
+  },
+  {
+    "id": "europa",
+    "term": "Europa",
+    "aliases": [],
+    "short": "Jupiter’s icy moon with evidence of a subsurface ocean.",
+    "note": "One of the Galilean moons of Jupiter. Its icy surface overlies a likely saltwater ocean, making it an important target for investigating potentially habitable environments.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/jupiter/jupiter-moons/europa/",
+        "label": "NASA: Europa"
+      }
+    ],
+    "occurrences": 13,
+    "first": {
+      "chapter": "section-62",
+      "paragraph": "p-014",
+      "index": 52
+    }
+  },
+  {
+    "id": "au",
+    "term": "AU",
+    "aliases": [],
+    "short": "An astronomical unit, roughly 150 million kilometres.",
+    "note": "A distance unit approximately equal to Earth’s average distance from the Sun, often used for dimensions and distances within a planetary system.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/astronomical%20unit",
+        "label": "Merriam-Webster: astronomical unit"
+      }
+    ],
+    "occurrences": 33,
+    "first": {
+      "chapter": "section-23",
+      "paragraph": "p-006",
+      "index": 14
+    }
+  },
+  {
+    "id": "general-relativity",
+    "term": "general relativity",
+    "aliases": [],
+    "short": "Einstein’s theory of gravity as spacetime geometry.",
+    "note": "A theory in which mass and energy affect the geometry of spacetime, and that geometry determines the paths of freely moving bodies and light.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.einstein-online.info/en/GeomGravity/",
+        "label": "Max Planck Institute: Einstein’s geometric gravity"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-74",
+      "paragraph": "p-042",
+      "index": 63
+    }
+  },
+  {
+    "id": "cuneiforms",
+    "term": "cuneiforms",
+    "aliases": [],
+    "short": "Wedge-shaped written characters.",
+    "note": "Characters made from arrangements of wedge-like strokes; cuneiform is a form of writing rather than the name of a spoken language.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cuneiform",
+        "label": "Merriam-Webster: cuneiform"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-80",
+      "paragraph": "p-099",
+      "index": 68
     }
   }
 ]

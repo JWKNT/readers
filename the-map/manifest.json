@@ -12,7 +12,7 @@
   ],
   "totalWords": 5027,
   "defaultChapter": "story",
-  "glossaryCount": 40,
+  "glossaryCount": 41,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -289,6 +289,10 @@
         },
         {
           "term": "virescence",
+          "paragraph": "p-070"
+        },
+        {
+          "term": "hecatonchires",
           "paragraph": "p-070"
         },
         {
