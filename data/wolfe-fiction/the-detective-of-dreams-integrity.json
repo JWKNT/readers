@@ -14,8 +14,9 @@
         "index_split_023.html"
       ],
       "sourceTextSha256": "fc26e4423f8a6a6789ca21889afa11adcefe3984ca6668ad42d8e901b1fdc493",
-      "textSha256": "fc26e4423f8a6a6789ca21889afa11adcefe3984ca6668ad42d8e901b1fdc493",
-      "blocks": 190
+      "textSha256": "19f1a9a6fc049d4c190a29327af59ac50ed581e6ea6ba6fb7164c00d968c9aca",
+      "blocks": 190,
+      "preEditorialTextSha256": "fc26e4423f8a6a6789ca21889afa11adcefe3984ca6668ad42d8e901b1fdc493"
     },
     {
       "chapter": "author-note",
@@ -30,5 +31,214 @@
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-117",
+      "before": "rosescented",
+      "after": "rose-scented",
+      "reason": "Probable lost hyphen fuses the two components of this ordinary compound. The duplicate story in Endangered Species reads rose-scented.",
+      "id": "v14-55861817838a"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-006",
+      "before": "D——told",
+      "after": "D—— told",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-aa616179cd42"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-019",
+      "before": "D——was",
+      "after": "D—— was",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-8ed1bfc88f32"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-029",
+      "before": "M——a",
+      "after": "M—— a",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-25cd9761554c"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-034",
+      "before": "A——herself",
+      "after": "A—— herself",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-e9e7b6be69fa"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-094",
+      "before": "R——was",
+      "after": "R—— was",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-4f1d2020d55a"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-094",
+      "before": "R——and",
+      "after": "R—— and",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-5b20978397d1"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-095",
+      "before": "R——was",
+      "after": "R—— was",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-060e5789d9e5"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-099",
+      "before": "H——has",
+      "after": "H—— has",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-83385efce2b7"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-101",
+      "before": "R——leaned",
+      "after": "R—— leaned",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-5ccead385fe3"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-107",
+      "before": "R——nodded",
+      "after": "R—— nodded",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-da4701fa3799"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-120",
+      "before": "R——paused",
+      "after": "R—— paused",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-0fe4b768b8cc"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-132",
+      "before": "R——rose",
+      "after": "R—— rose",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-10003ed68459"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-141",
+      "before": "R——drew",
+      "after": "R—— drew",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-310bb0d93ae2"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-145",
+      "before": "R——threw",
+      "after": "R—— threw",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-80a6d939650d"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-153",
+      "before": "R——that",
+      "after": "R—— that",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-d364150c6bde"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-154",
+      "before": "H——began",
+      "after": "H—— began",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-a8fbdd982334"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-161",
+      "before": "H——has",
+      "after": "H—— has",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-296c3b32204f"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-172",
+      "before": "H——calls",
+      "after": "H—— calls",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-da72d60d07c8"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-183",
+      "before": "R——might",
+      "after": "R—— might",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-c2896da4a02f"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-183",
+      "before": "A——would",
+      "after": "A—— would",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-3881232025f9"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-184",
+      "before": "V——fired",
+      "after": "V—— fired",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-93beaa3db658"
+    },
+    {
+      "book": "the-detective-of-dreams",
+      "chapter": "story",
+      "paragraph": "p-184",
+      "before": "I——walk",
+      "after": "I—— walk",
+      "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+      "id": "v14-e0e3d7532952"
+    }
+  ]
 }

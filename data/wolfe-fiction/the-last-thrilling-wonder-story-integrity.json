@@ -14,11 +14,23 @@
         "OEBPS/e9781429966214_c11.html"
       ],
       "sourceTextSha256": "ceb0a836150464fb7376800b1d77bf3fe7365487231f274be7f3a0cbd9bb4d7f",
-      "textSha256": "ceb0a836150464fb7376800b1d77bf3fe7365487231f274be7f3a0cbd9bb4d7f",
-      "blocks": 416
+      "textSha256": "f8f7be6de87c6a9e56311332247f6bb6e830bef35c9cc191e98b5c0103fd4ef7",
+      "blocks": 416,
+      "preEditorialTextSha256": "ceb0a836150464fb7376800b1d77bf3fe7365487231f274be7f3a0cbd9bb4d7f"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-last-thrilling-wonder-story",
+      "chapter": "story",
+      "paragraph": "p-019",
+      "before": "“Sirl”",
+      "after": "“Sir!”",
+      "reason": "OCR lowercase l for exclamation mark in an exclamation addressed to the writer.",
+      "id": "v14-b822f8334891"
+    }
+  ]
 }

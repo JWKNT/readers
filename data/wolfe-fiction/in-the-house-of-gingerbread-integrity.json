@@ -14,11 +14,23 @@
         "OEBPS/e9781429966214_c09.html"
       ],
       "sourceTextSha256": "248001d042ffe62944fc154f5d1286e75bcb44b1a5f378a85ae06067919b01e5",
-      "textSha256": "248001d042ffe62944fc154f5d1286e75bcb44b1a5f378a85ae06067919b01e5",
-      "blocks": 247
+      "textSha256": "28a5d666bd98a8c1bf3b63d82097ae2715f1b35c9366795f57511f15f523f5b5",
+      "blocks": 247,
+      "preEditorialTextSha256": "248001d042ffe62944fc154f5d1286e75bcb44b1a5f378a85ae06067919b01e5"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "in-the-house-of-gingerbread",
+      "chapter": "story",
+      "paragraph": "p-155",
+      "before": "forgotton",
+      "after": "forgotten",
+      "reason": "Clear source misspelling; forgotten is correctly spelled later in this same sentence.",
+      "id": "v14-7a3c1996a95c"
+    }
+  ]
 }

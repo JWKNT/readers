@@ -14,8 +14,9 @@
         "index_split_018.html"
       ],
       "sourceTextSha256": "79cc1067edea9e392c9f6b8c1a5a82d4bab7f49f3bc6a329e74a5d055ff90611",
-      "textSha256": "79cc1067edea9e392c9f6b8c1a5a82d4bab7f49f3bc6a329e74a5d055ff90611",
-      "blocks": 131
+      "textSha256": "57a872338b86244d0f1eba5ed303a7ec99a53579217e729b8413d45e07ce7168",
+      "blocks": 131,
+      "preEditorialTextSha256": "79cc1067edea9e392c9f6b8c1a5a82d4bab7f49f3bc6a329e74a5d055ff90611"
     },
     {
       "chapter": "author-note",
@@ -30,5 +31,16 @@
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-hero-as-werwolf",
+      "chapter": "story",
+      "paragraph": "p-063",
+      "before": "There has been quite a few",
+      "after": "“There has been quite a few",
+      "reason": "Missing opening quotation mark before direct speech, with closing mark and dialogue attribution present. Present in EPUB, including several drop-cap openings. Preserve speech grammar.",
+      "id": "v14-b505b1c71594"
+    }
+  ]
 }

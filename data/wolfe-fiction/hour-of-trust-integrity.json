@@ -14,8 +14,9 @@
         "index_split_013.html"
       ],
       "sourceTextSha256": "4e80e802620bd2ac07b9daad0559344c9b37a247623ff5d72a0f1de55cb617ac",
-      "textSha256": "4e80e802620bd2ac07b9daad0559344c9b37a247623ff5d72a0f1de55cb617ac",
-      "blocks": 374
+      "textSha256": "31031716b80221a8766cd37f63496a859354f237100278aa6ef1d1000740893f",
+      "blocks": 374,
+      "preEditorialTextSha256": "4e80e802620bd2ac07b9daad0559344c9b37a247623ff5d72a0f1de55cb617ac"
     },
     {
       "chapter": "author-note",
@@ -24,11 +25,104 @@
         "index_split_013.html"
       ],
       "sourceTextSha256": "2454cc4c1527e0c0ed816f0c5afc7081fd7fdcc7be0a243f5b412d528300fc35",
-      "textSha256": "2454cc4c1527e0c0ed816f0c5afc7081fd7fdcc7be0a243f5b412d528300fc35",
-      "blocks": 2
+      "textSha256": "db01676afeff77de65e3e23e8b6941175080bd64f1bdd66c5a7ee9ec85541854",
+      "blocks": 2,
+      "preEditorialTextSha256": "2454cc4c1527e0c0ed816f0c5afc7081fd7fdcc7be0a243f5b412d528300fc35"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "hour-of-trust",
+      "chapter": "story",
+      "paragraph": "p-244",
+      "before": "could not longer encompass",
+      "after": "could no longer encompass",
+      "reason": "Spurious t changes the standard no longer construction; neither grammar nor context supports not longer.",
+      "id": "v14-4fe2f65a906e"
+    },
+    {
+      "book": "hour-of-trust",
+      "chapter": "story",
+      "paragraph": "p-131",
+      "before": "nada has guaranteed— machine tools and electron",
+      "after": "nada has guaranteed—machine tools and electron",
+      "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+      "id": "v14-7eed28786487"
+    },
+    {
+      "book": "hour-of-trust",
+      "chapter": "story",
+      "paragraph": "p-152",
+      "before": "e can pay something— the companies have bankrol",
+      "after": "e can pay something—the companies have bankrol",
+      "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+      "id": "v14-0d7bbc696b9f"
+    },
+    {
+      "book": "hour-of-trust",
+      "chapter": "story",
+      "paragraph": "p-229",
+      "before": " “That’s up to them— whether I die or not. I do",
+      "after": " “That’s up to them—whether I die or not. I do",
+      "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+      "id": "v14-34bcb2b0fa65"
+    },
+    {
+      "book": "hour-of-trust",
+      "chapter": "story",
+      "paragraph": "p-229",
+      "before": "ard if they kill me— of course not. But somethi",
+      "after": "ard if they kill me—of course not. But somethi",
+      "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+      "id": "v14-b25ededf9d89"
+    },
+    {
+      "book": "hour-of-trust",
+      "chapter": "story",
+      "paragraph": "p-229",
+      "before": "hin and featherless— “we could do without.”",
+      "after": "hin and featherless—“we could do without.”",
+      "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+      "id": "v14-38b1c5e4ec2c"
+    },
+    {
+      "book": "hour-of-trust",
+      "chapter": "story",
+      "paragraph": "p-267",
+      "before": "t it was impossible— equally impossible to expl",
+      "after": "t it was impossible—equally impossible to expl",
+      "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+      "id": "v14-43f329d7a4cc"
+    },
+    {
+      "book": "hour-of-trust",
+      "chapter": "story",
+      "paragraph": "p-295",
+      "before": "out l’ancien régime— the winners are those who ",
+      "after": "out l’ancien régime—the winners are those who ",
+      "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+      "id": "v14-170f78aae719"
+    },
+    {
+      "book": "hour-of-trust",
+      "chapter": "story",
+      "paragraph": "p-363",
+      "before": "g else to shoot for— that’s something I didn’t ",
+      "after": "g else to shoot for—that’s something I didn’t ",
+      "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+      "id": "v14-04d461ccca9a"
+    },
+    {
+      "book": "hour-of-trust",
+      "chapter": "author-note",
+      "paragraph": "p-002",
+      "before": "wear, and plowed on— eventually throwing out ju",
+      "after": "wear, and plowed on—eventually throwing out ju",
+      "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+      "id": "v14-2aa4298fc6de"
+    }
+  ]
 }

@@ -14,8 +14,9 @@
         "index_split_036.html"
       ],
       "sourceTextSha256": "baa468dec4bd78f43d87cfbe79b3f7a2da078e7e85639f8df6d1101df7dde745",
-      "textSha256": "baa468dec4bd78f43d87cfbe79b3f7a2da078e7e85639f8df6d1101df7dde745",
-      "blocks": 256
+      "textSha256": "8d7986b095bb155c8265462490a86f6493c5233d2d46759366f32684b9152778",
+      "blocks": 256,
+      "preEditorialTextSha256": "baa468dec4bd78f43d87cfbe79b3f7a2da078e7e85639f8df6d1101df7dde745"
     },
     {
       "chapter": "author-note",
@@ -30,5 +31,16 @@
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-tree-is-my-hat",
+      "chapter": "story",
+      "paragraph": "p-061",
+      "before": "T his",
+      "after": "This",
+      "reason": "Spurious space between drop-cap T and italicized remainder of This. Preserve Bad, the established abbreviation of Baden.",
+      "id": "v14-0b9531af2f3b"
+    }
+  ]
 }

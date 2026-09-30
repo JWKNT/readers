@@ -14,8 +14,9 @@
         "index_split_021.html"
       ],
       "sourceTextSha256": "767b6e34b7d3590aeab3947ce8f91aa7605e2523fee6bed054314a5b708226f1",
-      "textSha256": "767b6e34b7d3590aeab3947ce8f91aa7605e2523fee6bed054314a5b708226f1",
-      "blocks": 850
+      "textSha256": "475617dcdcfbaf32b7d8e4435ff8358910ba8d8b330a90bb86294a00ccbbb82e",
+      "blocks": 850,
+      "preEditorialTextSha256": "767b6e34b7d3590aeab3947ce8f91aa7605e2523fee6bed054314a5b708226f1"
     },
     {
       "chapter": "author-note",
@@ -30,5 +31,16 @@
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-eyeflash-miracles",
+      "chapter": "story",
+      "paragraph": "p-091",
+      "before": "Christmastree",
+      "after": "Christmas-tree",
+      "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+      "id": "v14-a81297a555ee"
+    }
+  ]
 }

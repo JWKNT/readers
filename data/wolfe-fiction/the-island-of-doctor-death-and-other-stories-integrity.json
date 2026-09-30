@@ -14,8 +14,9 @@
         "index_split_008.html"
       ],
       "sourceTextSha256": "c496e3ed3a1e54cab7495acc19a5eba8da8ca9667ee55f3fb39f4f4189c40136",
-      "textSha256": "c496e3ed3a1e54cab7495acc19a5eba8da8ca9667ee55f3fb39f4f4189c40136",
-      "blocks": 184
+      "textSha256": "fd950b614d57a3b0e33980d5b2c51a23a0aea17608df9c536f42e18d8993247a",
+      "blocks": 184,
+      "preEditorialTextSha256": "c496e3ed3a1e54cab7495acc19a5eba8da8ca9667ee55f3fb39f4f4189c40136"
     },
     {
       "chapter": "author-note",
@@ -30,5 +31,16 @@
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-island-of-doctor-death-and-other-stories",
+      "chapter": "story",
+      "paragraph": "p-109",
+      "before": "pitchdark",
+      "after": "pitch-dark",
+      "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+      "id": "v14-fae4d06df5d1"
+    }
+  ]
 }

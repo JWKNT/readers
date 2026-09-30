@@ -14,11 +14,23 @@
         "OEBPS/e9781429966214_c26.html"
       ],
       "sourceTextSha256": "1cd377e4c2d9439380afa0adb33df1c7906141c75e6f6c6ae84a3f1fcbb65625",
-      "textSha256": "1cd377e4c2d9439380afa0adb33df1c7906141c75e6f6c6ae84a3f1fcbb65625",
-      "blocks": 37
+      "textSha256": "3a928a617eb3b55fd3fb6b285d8a437d4de4894090e77dbec8d64d3bb971c9f1",
+      "blocks": 37,
+      "preEditorialTextSha256": "1cd377e4c2d9439380afa0adb33df1c7906141c75e6f6c6ae84a3f1fcbb65625"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "procreation",
+      "chapter": "story",
+      "paragraph": "p-015",
+      "before": "amounts��parity",
+      "after": "amounts—parity",
+      "reason": "Two replacement characters corrupt the dash introducing the explanatory clause; surrounding sentence already uses an aside to discuss parity.",
+      "id": "v14-34ea3fff743d"
+    }
+  ]
 }

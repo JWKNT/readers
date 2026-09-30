@@ -14,11 +14,23 @@
         "OEBPS/e9781429966214_c08.html"
       ],
       "sourceTextSha256": "25cf356224d41a6fdadbc8cf1878be7f57072252dca5bbba61fbfe77a27b9b18",
-      "textSha256": "25cf356224d41a6fdadbc8cf1878be7f57072252dca5bbba61fbfe77a27b9b18",
-      "blocks": 76
+      "textSha256": "f7d553fcb40f325533c897d81d36f116a65080fb3e9588d2680e067f42b7cb30",
+      "blocks": 76,
+      "preEditorialTextSha256": "25cf356224d41a6fdadbc8cf1878be7f57072252dca5bbba61fbfe77a27b9b18"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-nebraskan-and-the-nereid",
+      "chapter": "story",
+      "paragraph": "p-003",
+      "before": "Pacific —and",
+      "after": "Pacific—and",
+      "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+      "id": "v14-77d476bbb3f7"
+    }
+  ]
 }

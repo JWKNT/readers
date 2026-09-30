@@ -14,8 +14,9 @@
         "index_split_032.html"
       ],
       "sourceTextSha256": "8fda20d9d696e452634ce16b3c28f4785cfe18c1817ddf65ce9cc89c43d20197",
-      "textSha256": "8fda20d9d696e452634ce16b3c28f4785cfe18c1817ddf65ce9cc89c43d20197",
-      "blocks": 100
+      "textSha256": "5953f81ecc4b395d5bf1062f1e4aad89c5e816eb77861444e2620dcca466fce0",
+      "blocks": 100,
+      "preEditorialTextSha256": "8fda20d9d696e452634ce16b3c28f4785cfe18c1817ddf65ce9cc89c43d20197"
     },
     {
       "chapter": "author-note",
@@ -30,5 +31,25 @@
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "game-in-the-popes-head",
+      "chapter": "story",
+      "paragraph": "p-059",
+      "before": "the the leaden",
+      "after": "the leaden",
+      "reason": "Accidentally duplicated article; the surrounding Leadenhall allusion remains intact.",
+      "id": "v14-d3fc2defb9e3"
+    },
+    {
+      "book": "game-in-the-popes-head",
+      "chapter": "story",
+      "paragraph": "p-005",
+      "before": "Look how yellow, the leaves are.",
+      "after": "Look how yellow the leaves are.",
+      "reason": "Stray comma separates predicative adjective from its subject within a single exclamatory clause.",
+      "id": "v14-bdaaa4b775f9"
+    }
+  ]
 }

@@ -14,11 +14,32 @@
         "OEBPS/e9781429966214_c07.html"
       ],
       "sourceTextSha256": "e92d25d52ea7ad1972500df2c4c25bbbe5c91ba17efe60e7ae682399c92a98fb",
-      "textSha256": "e92d25d52ea7ad1972500df2c4c25bbbe5c91ba17efe60e7ae682399c92a98fb",
-      "blocks": 44
+      "textSha256": "714892bbaea898586321d39a1d11dcfdb1da15a2706cd32d147857abe818c670",
+      "blocks": 44,
+      "preEditorialTextSha256": "e92d25d52ea7ad1972500df2c4c25bbbe5c91ba17efe60e7ae682399c92a98fb"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "thag",
+      "chapter": "story",
+      "paragraph": "p-005",
+      "before": "men-atarms",
+      "after": "men-at-arms",
+      "reason": "Dropped second hyphen in the established compound men-at-arms.",
+      "id": "v14-3bc72eb773d5"
+    },
+    {
+      "book": "thag",
+      "chapter": "story",
+      "paragraph": "p-002",
+      "before": "him —again—about",
+      "after": "him—again—about",
+      "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+      "id": "v14-7de12732d201"
+    }
+  ]
 }

@@ -57,7 +57,7 @@
   "defaultChapter": "section-07",
   "glossaryCount": 76,
   "correctionCount": 0,
-  "editionVersion": 13,
+  "editionVersion": 14,
   "chapters": [
     {
       "id": "section-07",
@@ -6973,5 +6973,6 @@
       "words": 208,
       "startWords": 221631
     }
-  ]
+  ],
+  "editorialCorrectionCount": 1
 }

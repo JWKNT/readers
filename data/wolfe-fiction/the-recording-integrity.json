@@ -14,8 +14,9 @@
         "index_split_012.html"
       ],
       "sourceTextSha256": "317983576b7950adaebd3c38baa66d0087bf6b4789a8ffee4728540f25ae0ff1",
-      "textSha256": "317983576b7950adaebd3c38baa66d0087bf6b4789a8ffee4728540f25ae0ff1",
-      "blocks": 16
+      "textSha256": "a71a568a485a4b936a5e2e06723dec90c2e1ba9e715b60a0b6b655e06006ff66",
+      "blocks": 16,
+      "preEditorialTextSha256": "317983576b7950adaebd3c38baa66d0087bf6b4789a8ffee4728540f25ae0ff1"
     },
     {
       "chapter": "author-note",
@@ -30,5 +31,16 @@
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-recording",
+      "chapter": "story",
+      "paragraph": "p-008",
+      "before": "pom-pommned",
+      "after": "pom-pommed",
+      "reason": "Extra n corrupts pom-pommed, describing the pom-pom on a French sailor’s cap.",
+      "id": "v14-7a797a5858e7"
+    }
+  ]
 }

@@ -14,11 +14,23 @@
         "OEBPS/e9781429966214_c02.html"
       ],
       "sourceTextSha256": "b1fcac8832211b4bce386a2ac432c4c947067623cb8742b7f333312a1dd4f5f3",
-      "textSha256": "b1fcac8832211b4bce386a2ac432c4c947067623cb8742b7f333312a1dd4f5f3",
-      "blocks": 159
+      "textSha256": "089625dab56a85dc5fc4a7a2fa3d47461e1a88ea82831712e11d40fd5ad0fa8d",
+      "blocks": 159,
+      "preEditorialTextSha256": "b1fcac8832211b4bce386a2ac432c4c947067623cb8742b7f333312a1dd4f5f3"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-map",
+      "chapter": "story",
+      "paragraph": "p-148",
+      "before": "orichalk hell lock",
+      "after": "orichalk he’ll lock",
+      "reason": "Missing apostrophe in he will; the sentence describes a goldsmith who will lock money in his strongroom.",
+      "id": "v14-4c3c0ef94412"
+    }
+  ]
 }

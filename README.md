@@ -79,6 +79,10 @@ Liu omnibus lives in `tools/import_earths_past.py`; it is not a general EPUB app
 can be made in assets/reader.css. Preserve chapter/paragraph IDs when editing text.
 Documented corrections retain their original strings in `data-original` attributes;
 adding `?wording=source` before a chapter hash displays that wording.
+Reviewed transcription repairs live in `data/editorial-corrections.json`; run
+`python3 tools/editorial.py` to replay them after editing an older export. The EPUB
+importers invoke this step automatically. Version 15 adds 335 repairs and restores
+verse, epigraph, transcript and inline-emphasis formatting; see `NOTES-V15.md`.
 
 ## Hosting
 

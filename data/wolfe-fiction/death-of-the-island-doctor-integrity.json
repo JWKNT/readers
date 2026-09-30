@@ -14,8 +14,9 @@
         "index_split_028.html"
       ],
       "sourceTextSha256": "5eee61c317cfa7a4110ccf94d68de0b4b4899a97f119eb5017f18280cae979e7",
-      "textSha256": "5eee61c317cfa7a4110ccf94d68de0b4b4899a97f119eb5017f18280cae979e7",
-      "blocks": 67
+      "textSha256": "e9fc55b2340944ef2d204f891dbdc0495465f18b20ebd8faa6197ca5e0b1b917",
+      "blocks": 67,
+      "preEditorialTextSha256": "5eee61c317cfa7a4110ccf94d68de0b4b4899a97f119eb5017f18280cae979e7"
     },
     {
       "chapter": "author-note",
@@ -30,5 +31,16 @@
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "death-of-the-island-doctor",
+      "chapter": "story",
+      "paragraph": "p-013",
+      "before": "airconditioning",
+      "after": "air-conditioning",
+      "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+      "id": "v14-8896bfef9c45"
+    }
+  ]
 }

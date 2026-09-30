@@ -14,11 +14,23 @@
         "OEBPS/e9781429966214_c23.html"
       ],
       "sourceTextSha256": "62b08580dcce782f090e930ea117347a343c6c799cd69746a76ce239a8f92235",
-      "textSha256": "62b08580dcce782f090e930ea117347a343c6c799cd69746a76ce239a8f92235",
-      "blocks": 217
+      "textSha256": "a04a06f0cc543ebfe68c4dabc393f495f6085fac4db0fb258f49bca736754515",
+      "blocks": 217,
+      "preEditorialTextSha256": "62b08580dcce782f090e930ea117347a343c6c799cd69746a76ce239a8f92235"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-woman-the-unicorn-loved",
+      "chapter": "story",
+      "paragraph": "p-014",
+      "before": "in —well,",
+      "after": "in—well,",
+      "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+      "id": "v14-32ffba1ba7fb"
+    }
+  ]
 }

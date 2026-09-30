@@ -14,8 +14,9 @@
         "index_split_017.html"
       ],
       "sourceTextSha256": "f29a3b02ba583f422a28aef87b0f2122378f3873843f627c321cc45e1f7ba1c8",
-      "textSha256": "f29a3b02ba583f422a28aef87b0f2122378f3873843f627c321cc45e1f7ba1c8",
-      "blocks": 109
+      "textSha256": "12cdf19315acf0d24c27a9128806ad2d66cfbd99dccd94814f9e53bd320ee8da",
+      "blocks": 109,
+      "preEditorialTextSha256": "f29a3b02ba583f422a28aef87b0f2122378f3873843f627c321cc45e1f7ba1c8"
     },
     {
       "chapter": "author-note",
@@ -30,5 +31,16 @@
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "westwind",
+      "chapter": "story",
+      "paragraph": "p-037",
+      "before": "I have a little money,”",
+      "after": "“I have a little money,”",
+      "reason": "Missing opening quotation mark before direct speech, with closing mark and dialogue attribution present. Present in EPUB, including several drop-cap openings. Preserve speech grammar.",
+      "id": "v14-62b27c282b9b"
+    }
+  ]
 }

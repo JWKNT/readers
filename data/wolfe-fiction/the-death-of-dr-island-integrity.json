@@ -14,8 +14,9 @@
         "index_split_014.html"
       ],
       "sourceTextSha256": "22e4b4a397c6dfa18951fd8d5295a26c5b8f74d2885102a32971ee279ac992a4",
-      "textSha256": "22e4b4a397c6dfa18951fd8d5295a26c5b8f74d2885102a32971ee279ac992a4",
-      "blocks": 819
+      "textSha256": "2ccc502a823995597f224615b5c0f51452b1d2f964784d1b91ac121081a8d7d7",
+      "blocks": 819,
+      "preEditorialTextSha256": "22e4b4a397c6dfa18951fd8d5295a26c5b8f74d2885102a32971ee279ac992a4"
     },
     {
       "chapter": "author-note",
@@ -30,5 +31,106 @@
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-death-of-dr-island",
+      "chapter": "story",
+      "paragraph": "p-010",
+      "before": "Agrain",
+      "after": "A grain",
+      "reason": "Missing word space after isolated EPUB drop-cap A; narrative opening.",
+      "id": "v14-fcef6f2f841e"
+    },
+    {
+      "book": "the-death-of-dr-island",
+      "chapter": "story",
+      "paragraph": "p-571",
+      "before": "Don’t go farther,”",
+      "after": "“Don’t go farther,”",
+      "reason": "Missing opening quotation mark before direct speech, with closing mark and dialogue attribution present. Present in EPUB, including several drop-cap openings. Preserve speech grammar.",
+      "id": "v14-71ed553d14d8"
+    },
+    {
+      "book": "the-death-of-dr-island",
+      "chapter": "story",
+      "paragraph": "p-142",
+      "before": "What else would you call us?",
+      "after": "“What else would you call us?",
+      "reason": "The preceding paragraph begins a speech continued in this paragraph, which closes that speech. Restore the opening continuation quotation mark while retaining source paragraph boundaries.",
+      "id": "v14-fc2a5c112fde"
+    },
+    {
+      "book": "the-death-of-dr-island",
+      "chapter": "story",
+      "paragraph": "p-226",
+      "before": "This is what mankind has always wanted.”",
+      "after": "“This is what mankind has always wanted.”",
+      "reason": "The preceding paragraph begins a speech continued in this paragraph, which closes that speech. Restore the opening continuation quotation mark while retaining source paragraph boundaries.",
+      "id": "v14-2b4c617e3e92"
+    },
+    {
+      "book": "the-death-of-dr-island",
+      "chapter": "story",
+      "paragraph": "p-315",
+      "before": "They showed it to me—I just sat there",
+      "after": "“They showed it to me—I just sat there",
+      "reason": "The preceding paragraph begins a speech continued in this paragraph, which closes that speech. Restore the opening continuation quotation mark while retaining source paragraph boundaries.",
+      "id": "v14-593ad4132865"
+    },
+    {
+      "book": "the-death-of-dr-island",
+      "chapter": "story",
+      "paragraph": "p-688",
+      "before": "” “It will soon be dark",
+      "after": "“It will soon be dark",
+      "reason": "Extraneous closing quotation mark before the next speaker; preceding p-687 already closes its speech.",
+      "id": "v14-d753ba63d725"
+    },
+    {
+      "book": "the-death-of-dr-island",
+      "chapter": "story",
+      "paragraph": "p-674",
+      "before": "anxities",
+      "after": "anxieties",
+      "reason": "Clear dropped-e spelling error in ordinary psychological description.",
+      "id": "v14-09a4eaee0bd1"
+    },
+    {
+      "book": "the-death-of-dr-island",
+      "chapter": "story",
+      "paragraph": "p-489",
+      "before": "betterthan-average",
+      "after": "better-than-average",
+      "reason": "Lost first hyphen in the compound adjective better-than-average.",
+      "id": "v14-1b5008ea9cc0"
+    },
+    {
+      "book": "the-death-of-dr-island",
+      "chapter": "story",
+      "paragraph": "p-014",
+      "before": "kneedeep",
+      "after": "knee-deep",
+      "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+      "id": "v14-a1c111294051"
+    },
+    {
+      "book": "the-death-of-dr-island",
+      "chapter": "story",
+      "paragraph": "p-007",
+      "before": "Where the green swell is in the heavens dumb",
+      "after": "Where the green swell is in the havens dumb",
+      "reason": "Probable extra e in the Hopkins epigraph: the original poem Heaven–Haven has havens, not heavens. Primary text: https://www.gutenberg.org/cache/epub/22403/pg22403-images.html .",
+      "id": "v14-d28150708c1c"
+    },
+    {
+      "book": "the-death-of-dr-island",
+      "chapter": "story",
+      "paragraph": "p-004",
+      "before": "And a few lilies blow",
+      "after": "And a few lilies blow.",
+      "reason": "Missing full stop at the end of the first stanza of the Hopkins epigraph. Primary text: https://www.gutenberg.org/cache/epub/22403/pg22403-images.html .",
+      "id": "v14-9a330ef1c722"
+    }
+  ]
 }

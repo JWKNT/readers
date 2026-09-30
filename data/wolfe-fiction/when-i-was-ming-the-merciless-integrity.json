@@ -14,11 +14,23 @@
         "OEBPS/e9781429966214_c14.html"
       ],
       "sourceTextSha256": "09745d17228fea4dcc338f19271f6b12647dd0bbe75ba53ed24f6ca24ab708b1",
-      "textSha256": "09745d17228fea4dcc338f19271f6b12647dd0bbe75ba53ed24f6ca24ab708b1",
-      "blocks": 35
+      "textSha256": "8978928ea09251dee1b7de5c274e8fb3bb3de1f10d68c965c74034c92019d3c5",
+      "blocks": 35,
+      "preEditorialTextSha256": "09745d17228fea4dcc338f19271f6b12647dd0bbe75ba53ed24f6ca24ab708b1"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "when-i-was-ming-the-merciless",
+      "chapter": "story",
+      "paragraph": "p-020",
+      "before": "much —do",
+      "after": "much—do",
+      "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+      "id": "v14-25943c9abaa0"
+    }
+  ]
 }

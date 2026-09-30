@@ -14,11 +14,23 @@
         "OEBPS/e9781429966214_c21.html"
       ],
       "sourceTextSha256": "7d270ca1459152d9ecd786b507afb69e28a6a0969fdd4f4b2abfd27b476c3c01",
-      "textSha256": "7d270ca1459152d9ecd786b507afb69e28a6a0969fdd4f4b2abfd27b476c3c01",
-      "blocks": 23
+      "textSha256": "c6f3ce07b6404cb5a652029cd94e0759e7207dbe4989cc28f6aeac015ba12716",
+      "blocks": 23,
+      "preEditorialTextSha256": "7d270ca1459152d9ecd786b507afb69e28a6a0969fdd4f4b2abfd27b476c3c01"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "peritonitis",
+      "chapter": "story",
+      "paragraph": "p-018",
+      "before": "shameless —of",
+      "after": "shameless—of",
+      "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+      "id": "v14-17e8933b8a82"
+    }
+  ]
 }

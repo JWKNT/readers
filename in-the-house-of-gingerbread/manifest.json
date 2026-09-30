@@ -14,7 +14,7 @@
   "defaultChapter": "story",
   "glossaryCount": 2,
   "correctionCount": 0,
-  "editionVersion": 13,
+  "editionVersion": 14,
   "chapters": [
     {
       "id": "story",
@@ -291,5 +291,6 @@
       "words": 5946,
       "startWords": 0
     }
-  ]
+  ],
+  "editorialCorrectionCount": 1
 }

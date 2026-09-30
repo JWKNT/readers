@@ -10,11 +10,11 @@
       "chapters": 1
     }
   ],
-  "totalWords": 4670,
+  "totalWords": 4669,
   "defaultChapter": "story",
   "glossaryCount": 3,
   "correctionCount": 0,
-  "editionVersion": 13,
+  "editionVersion": 14,
   "chapters": [
     {
       "id": "story",
@@ -229,8 +229,9 @@
           "paragraph": "p-173"
         }
       ],
-      "words": 4670,
+      "words": 4669,
       "startWords": 0
     }
-  ]
+  ],
+  "editorialCorrectionCount": 3
 }

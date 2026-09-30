@@ -14,8 +14,9 @@
         "index_split_034.html"
       ],
       "sourceTextSha256": "f99648eb9c33db78a68c14878e06ceae6ed2cf32497014661c8b8d233c6f732e",
-      "textSha256": "f99648eb9c33db78a68c14878e06ceae6ed2cf32497014661c8b8d233c6f732e",
-      "blocks": 322
+      "textSha256": "5209be739971feae621ce845f0e0ed1542c6df7bc6b4c3ea0c9883ae5170c19f",
+      "blocks": 322,
+      "preEditorialTextSha256": "f99648eb9c33db78a68c14878e06ceae6ed2cf32497014661c8b8d233c6f732e"
     },
     {
       "chapter": "author-note",
@@ -30,5 +31,25 @@
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "bed-and-breakfast",
+      "chapter": "story",
+      "paragraph": "p-001",
+      "before": "Iknow",
+      "after": "I know",
+      "reason": "Missing word space after isolated EPUB drop-cap I; ordinary opening sentence.",
+      "id": "v14-aeac1956fe1a"
+    },
+    {
+      "book": "bed-and-breakfast",
+      "chapter": "story",
+      "paragraph": "p-164",
+      "before": "Istarted",
+      "after": "I started",
+      "reason": "Missing word space after isolated EPUB drop-cap I at a scene opening.",
+      "id": "v14-f7b78a6eaf6b"
+    }
+  ]
 }

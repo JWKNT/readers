@@ -14,11 +14,32 @@
         "OEBPS/e9781429966214_c06.html"
       ],
       "sourceTextSha256": "cd8b44f9ca44311fe477ca9905cbb55b866eeaafdd2375c19ecac392d59b73ce",
-      "textSha256": "cd8b44f9ca44311fe477ca9905cbb55b866eeaafdd2375c19ecac392d59b73ce",
-      "blocks": 57
+      "textSha256": "14196b9bb02a5cd52b769e071f6d8d481ca5b9562353736ed6b33c043e738f2c",
+      "blocks": 57,
+      "preEditorialTextSha256": "cd8b44f9ca44311fe477ca9905cbb55b866eeaafdd2375c19ecac392d59b73ce"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "from-the-notebook-of-dr-stein",
+      "chapter": "story",
+      "paragraph": "p-007",
+      "before": "woman —is",
+      "after": "woman—is",
+      "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+      "id": "v14-428e10c844bf"
+    },
+    {
+      "book": "from-the-notebook-of-dr-stein",
+      "chapter": "story",
+      "paragraph": "p-048",
+      "before": "electrodes —to",
+      "after": "electrodes—to",
+      "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+      "id": "v14-0f28f88a311d"
+    }
+  ]
 }

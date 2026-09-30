@@ -14,8 +14,9 @@
         "index_split_022.html"
       ],
       "sourceTextSha256": "102bcb12d4e6d927b0b29a4e41756fc6b758d0ad092ebd3fa3fcd3fe25511de5",
-      "textSha256": "102bcb12d4e6d927b0b29a4e41756fc6b758d0ad092ebd3fa3fcd3fe25511de5",
-      "blocks": 393
+      "textSha256": "351578f5975f92be7cca0eb6d36e48b097420a6c66c34663ad8614417438de38",
+      "blocks": 393,
+      "preEditorialTextSha256": "102bcb12d4e6d927b0b29a4e41756fc6b758d0ad092ebd3fa3fcd3fe25511de5"
     },
     {
       "chapter": "author-note",
@@ -30,5 +31,25 @@
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "seven-american-nights",
+      "chapter": "story",
+      "paragraph": "p-386",
+      "before": "halffull",
+      "after": "half-full",
+      "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+      "id": "v14-9709031f08e5"
+    },
+    {
+      "book": "seven-american-nights",
+      "chapter": "story",
+      "paragraph": "p-310",
+      "before": "heavylooking",
+      "after": "heavy-looking",
+      "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+      "id": "v14-0100b7eca571"
+    }
+  ]
 }

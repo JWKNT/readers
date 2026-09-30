@@ -14,11 +14,23 @@
         "OEBPS/e9781429966214_c18.html"
       ],
       "sourceTextSha256": "2d62363d102a5c7013fc7d48708897efd17df1bbed6c1002146faa1d143dce36",
-      "textSha256": "2d62363d102a5c7013fc7d48708897efd17df1bbed6c1002146faa1d143dce36",
-      "blocks": 58
+      "textSha256": "8c5bf12b257571ea361026f9285b60a25c9a18352f34194b0e1cca7d5fed6c44",
+      "blocks": 58,
+      "preEditorialTextSha256": "2d62363d102a5c7013fc7d48708897efd17df1bbed6c1002146faa1d143dce36"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "eyebem",
+      "chapter": "story",
+      "paragraph": "p-048",
+      "before": "colds-hortness",
+      "after": "cold-shortness",
+      "reason": "Misplaced hyphen splits shortness after its first letter; cold-shortness is the brittleness explicitly defined immediately afterward.",
+      "id": "v14-9cd116f059b2"
+    }
+  ]
 }

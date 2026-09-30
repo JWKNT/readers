@@ -16,11 +16,11 @@
       "referenceTitle": "Afterword"
     }
   ],
-  "totalWords": 20670,
+  "totalWords": 20671,
   "defaultChapter": "story",
   "glossaryCount": 7,
   "correctionCount": 0,
-  "editionVersion": 13,
+  "editionVersion": 14,
   "chapters": [
     {
       "id": "story",
@@ -886,7 +886,7 @@
           "paragraph": "p-751"
         }
       ],
-      "words": 20670,
+      "words": 20671,
       "startWords": 0
     },
     {
@@ -909,7 +909,8 @@
       "headingHtml": "Afterword",
       "noteAnchors": [],
       "words": 125,
-      "startWords": 20670
+      "startWords": 20671
     }
-  ]
+  ],
+  "editorialCorrectionCount": 11
 }

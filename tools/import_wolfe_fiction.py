@@ -20,7 +20,7 @@ from import_earths_past import tag, txt, norm, save, inner, append_text
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'data/wolfe-fiction'
-EDITION = 13
+EDITION = 15
 
 
 def body(z, filename):
@@ -80,6 +80,7 @@ def clean(source, edition):
         elif cls == 'calibre2': classes.append('center')
     if name == 'div' and cls in ('calibre_5','p-blanc'): classes.append('source-space')
     if name == 'div' and cls in ('blocktext','author-blocktext'): classes.append('blocktext')
+    if edition == 'endangered' and cls in ('author-blocktext','illustype_fullpage_image'): classes.append('center')
     if name == 'sup' or cls == 'calibre14' and edition == 'best': out.tag = 'sup'
     if cls == 'calibre7' and edition == 'endangered': out.tag = 'sub'
     if classes: out.set('class', ' '.join(classes))
@@ -138,16 +139,82 @@ def mark_epigraphs(tree, record, source, slug):
     elif record == 'a-story': count = 10  # nine verse lines and attribution
     elif record == 'vrt': count = 2
     elif record == 'story' and slug == 'the-eyeflash-miracles': count = 2
+    elif record == 'story' and slug in {'and-when-they-appear','the-death-of-dr-island','the-hero-as-werwolf','hour-of-trust','game-in-the-popes-head'}:
+        count={'and-when-they-appear':2,'the-death-of-dr-island':9,'the-hero-as-werwolf':6,'hour-of-trust':3,'game-in-the-popes-head':4}[slug]
+    elif record == 'story' and slug == 'silhouette':
+        for e in list(tree.iter('p'))[:4]:e.set('class',e.get('class','')+' epigraph')
+        return
     else: return
-    meaningful = [e for e in tree if norm(txt(e))]
+    meaningful = [e for e in tree.iter('p') if norm(txt(e))]
     for e in meaningful[:count]:
         e.set('class',e.get('class','')+' epigraph')
+        if len(e) and e[0].tag=='br' and not norm(e.text or ''):
+            first=e[0];e.text=(e.text or '')+(first.tail or '');e.remove(first)
         # The anthology encodes verse line endings as long runs of nonbreaking spaces.
         for x in list(e.iter()):
             if x.text and re.search(r' {4,}', x.text):
-                lines = re.split(r' {4,}',x.text);x.text=lines[0]
+                lines = re.split(r' {4,}',x.text)
+                if sum(bool(line.strip()) for line in lines)<2:
+                    x.text=re.sub(r' {4,}', ' ',x.text)
+                    continue
+                x.text=lines[0]
                 for i,line in enumerate(lines[1:]):
                     br=ET.Element('br');br.tail=' '+line;x.insert(i,br)
+    for e in tree.iter():
+        if e.tag=='blockquote' and all('epigraph' in p.get('class','') for p in e.iter('p') if norm(txt(p))):
+            e.tag='div';e.set('class','epigraph-container' if e in tree else 'epigraph-inner')
+
+
+def format_transcript(tree, slug):
+    if slug != 'from-the-notebook-of-dr-stein': return
+    # Retain paragraph addresses, but let each speaker turn flow at reader width.
+    for p in tree.iter('p'):
+        value=inner(p)
+        if not any(label in txt(p) for label in ('Dr. S','DW:','Nurse Johnson:')):continue
+        def reflow_break(match):
+            following=value[match.end():].lstrip()
+            turn=re.match(r'(?:<strong>)?(?:Dr\. (?:Stein|S)|DW)(?:</strong>)?:',following)
+            return match[0] if turn else match[1]
+        value=re.sub(r'<br>(\s*)', reflow_break, value)
+        value=re.sub(r'(^|<br>\s*)(Dr\. Stein:|Dr\. S:|DW:)',r'\1<strong>\2</strong>',value)
+        value=re.sub(r'(?<!>)(Dr\. Stein:|Dr\. S:|DW:|Nurse Johnson:)',r'<strong>\1</strong>',value)
+        value=value.replace(' <strong>Nurse Johnson:</strong>',' <br><strong>Nurse Johnson:</strong>')
+        parsed=ET.fromstring('<p>'+value.replace('<br>','<br/>')+'</p>')
+        p.text=parsed.text
+        for child in list(p):p.remove(child)
+        for child in parsed:p.append(child)
+        p.set('class',p.get('class','')+' transcript')
+
+
+def join_source_fragments(tree, slug, chapter):
+    """Reflow confirmed OCR paragraph splits while retaining each old address."""
+    if slug!='the-fifth-head-of-cerberus':return
+    groups={'a-story':[['p-123','p-124'],['p-127','p-128']],
+            'vrt':[['p-188','p-189'],['p-401','p-402'],['p-786','p-787'],
+                   ['p-034','p-035','p-036'],['p-468','p-469','p-470'],
+                   ['p-489','p-490'],['p-540','p-541'],['p-584','p-585'],['p-606','p-607']]}.get(chapter,[])
+    claimed={pid for group in groups for pid in group}
+    children=list(tree)
+    for i,e in enumerate(children[:-1]):
+        if e.tag=='p' and norm(txt(e)) in ('Q:','A:') and e.get('id') not in claimed:
+            following=children[i+1]
+            if following.tag=='p' and following.get('id') not in claimed and norm(txt(following)) not in ('Q:','A:'):
+                groups.append([e.get('id'),following.get('id')])
+                claimed.update((e.get('id'),following.get('id')))
+    by_id={e.get('id'):e for e in tree if e.get('id')}
+    for group in groups:
+        nodes=[by_id[pid] for pid in group]
+        start=list(tree).index(nodes[0])
+        assert list(tree)[start:start+len(nodes)]==nodes,(slug,chapter,group)
+        transcript=bool(re.match(r'^[AQ]:',norm(txt(nodes[0]))))
+        wrapper=ET.Element('div',{'class':'continued-passage'+(' transcript' if transcript else '')})
+        for i,e in enumerate(nodes):
+            tree.remove(e);e.tag='span';e.set('class',e.get('class','')+' paragraph-fragment')
+            wrapper.append(e)
+            if i+1<len(nodes):
+                space=ET.SubElement(wrapper,'span',{'class':'text-fix','data-correction':f'layout-{chapter}-{group[0]}-{i}','data-original':''})
+                space.text=' '
+        tree.insert(start,wrapper)
 
 
 def add_initial(tree, family):
@@ -191,6 +258,10 @@ def build(spec, archives, source_info):
                 e.set('src','../images/'+name);e.set('class','source-glyph')
                 e.set('alt','one third' if name=='00005.jpg' else 'square')
         mark_epigraphs(tree,cid,source,slug)
+        if kind!='reference':format_transcript(tree,slug)
+        if slug=='the-woman-who-loved-the-centaur-pholus':
+            for e in tree.iter('p'):
+                if 'inset' in e.get('class','') or any(x.tag=='br' for x in e):e.set('class',e.get('class','')+' verse')
         section_openings=[e for e in tree if 'source-section-opening' in e.get('class','')]
         for e in section_openings[1:]:
             divider=ET.Element('div');ET.SubElement(divider,'span',{'class':'scene-divider'})
@@ -206,6 +277,40 @@ def build(spec, archives, source_info):
         for e in tree.iter():
             if e.tag in ('p','h2','h3','table') and (norm(txt(e)) or any(tag(x)=='img' for x in e.iter())):
                 pid=f'p-{len(blocks)+1:03d}';blocks.append(pid);e.set('id',pid);e.set('data-block',pid)
+        join_source_fragments(tree,slug,cid)
+        if slug=='the-fifth-head-of-cerberus' and cid=='vrt':
+            for e in tree.iter('p'):
+                if re.match(r'^[AQ]:',norm(txt(e))):e.set('class',e.get('class','')+' transcript')
+        verse_ids={
+            'the-woman-the-unicorn-loved':{'p-005','p-038','p-150','p-185','p-196','p-215'},
+            'in-the-house-of-gingerbread':{'p-150'},'silhouette':{'p-096','p-098'}
+        }.get(slug,set()) if cid=='story' else set()
+        for e in tree.iter('p'):
+            if e.get('id') in verse_ids:e.set('class',e.get('class','')+' verse')
+            if slug=='the-hero-as-werwolf' and cid=='author-note':
+                if e.get('id')=='p-002':e.set('class',e.get('class','')+' verse')
+                if e.get('id')=='p-003':e.set('class',e.get('class','')+' right')
+            if slug=='the-woman-who-loved-the-centaur-pholus' and cid=='story' and e.get('id') in ('p-019','p-020'):
+                e.set('class',e.get('class','')+' verse-line')
+            if slug=='the-tree-is-my-hat' and cid=='story' and e.get('id') in ('p-061','p-063'):
+                assert e[0].tag=='em'
+                e[0].text=(e.text or '')+(e[0].text or '');e.text=''
+            if slug=='the-death-of-dr-island' and cid=='story' and e.get('id')=='p-005':
+                e.set('class',e.get('class','')+' stanza-start')
+            if slug=='the-death-of-dr-island' and cid=='story' and e.get('id')=='p-687':
+                for em in e.iter('em'):
+                    if em.text=='Patrão.”':em.text='Patrão.';em.tail='”'+(em.tail or '')
+        if slug=='the-woman-the-unicorn-loved':
+            for e in tree.iter('p'):
+                if e.get('id')=='p-005' and e.text and 'spares, Who' in e.text:
+                    first,last=e.text.split('spares, ',1);e.text=first+'spares, '
+                    line=ET.Element('br');line.tail=last;e.insert(0,line)
+                    e.set('class',e.get('class','')+' verse')
+        if slug=='the-detective-of-dreams' and cid=='story':
+            e=next(p for p in tree.iter('p') if p.get('id')=='p-145')
+            first,second=e.text.split('“You have this experience each night?”')
+            e.text=first
+            ET.SubElement(e,'span',{'class':'dialogue-turn'}).text='“You have this experience each night?”'+second
         sections=[{'title':norm(txt(e)),'paragraph':e.get('data-block')} for e in tree.iter('h2') if e.get('data-block')]
         r=dict(id=cid,title=ctitle,volume='sources' if kind=='reference' else 'text',volumeTitle='Supplementary material' if kind=='reference' else title,number=i+1,label=('I','II','III')[i] if spec['kind']=='book' and kind=='chapter' else '',kind=kind,index=i,layout='prose',blocks=blocks,sections=sections)
         records.append(r);documents[cid]=tree
@@ -290,6 +395,8 @@ def main():
     existing=[b for b in library if b['id'] not in ids]
     library=[b for b in existing if b['author']=='Gene Wolfe']+additions+[b for b in existing if b['author']!='Gene Wolfe']
     save(ROOT/'library.json',library);library_page(library)
+    from editorial import apply
+    apply(ids)
 
 
 if __name__=='__main__':main()

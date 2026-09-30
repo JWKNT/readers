@@ -14,11 +14,86 @@
         "OEBPS/e9781429966214_c35.html"
       ],
       "sourceTextSha256": "f1664e8faefab28cdd0f5a07a01bae3bcfaf5eac9915aff70312703f88f8a165",
-      "textSha256": "f1664e8faefab28cdd0f5a07a01bae3bcfaf5eac9915aff70312703f88f8a165",
-      "blocks": 650
+      "textSha256": "fe56cee82f5aaa70d3e43a75d17d97cc29e3d6e19d7f2095b8eddbc76f68ff3c",
+      "blocks": 650,
+      "preEditorialTextSha256": "f1664e8faefab28cdd0f5a07a01bae3bcfaf5eac9915aff70312703f88f8a165"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "silhouette",
+      "chapter": "story",
+      "paragraph": "p-270",
+      "before": "Reponse",
+      "after": "Response",
+      "reason": "Missing s in the repeated computer-output label Response; nearby p-272 etc. supply the correct spelling.",
+      "id": "v14-84769a785efa"
+    },
+    {
+      "book": "silhouette",
+      "chapter": "story",
+      "paragraph": "p-367",
+      "before": "“’Lying",
+      "after": "“‘Lying",
+      "reason": "A nested quotation begins with a closing single quote rather than an opening single quote; its matching closing single quote is retained.",
+      "id": "v14-c2edfad2c114"
+    },
+    {
+      "book": "silhouette",
+      "chapter": "story",
+      "paragraph": "p-586",
+      "before": "tegs..“",
+      "after": "legs. “",
+      "reason": "OCR t for l in legs, followed by a duplicated period and lost word-space before the next quotation. Context explicitly describes the welts on his legs.",
+      "id": "v14-17a58ec1b0a7"
+    },
+    {
+      "book": "silhouette",
+      "chapter": "story",
+      "paragraph": "p-178",
+      "before": "language —freedom—the",
+      "after": "language—freedom—the",
+      "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+      "id": "v14-f5fe58adcc4a"
+    },
+    {
+      "book": "silhouette",
+      "chapter": "story",
+      "paragraph": "p-288",
+      "before": "ship —into",
+      "after": "ship—into",
+      "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+      "id": "v14-0a069e201e7b"
+    },
+    {
+      "book": "silhouette",
+      "chapter": "story",
+      "paragraph": "p-464",
+      "before": "parted —perhaps",
+      "after": "parted—perhaps",
+      "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+      "id": "v14-8d2b15d63244"
+    },
+    {
+      "book": "silhouette",
+      "chapter": "story",
+      "paragraph": "p-510",
+      "before": "apparatus —not",
+      "after": "apparatus—not",
+      "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+      "id": "v14-98994ecb0e09"
+    },
+    {
+      "book": "silhouette",
+      "chapter": "story",
+      "paragraph": "p-554",
+      "before": "marines —by",
+      "after": "marines—by",
+      "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+      "id": "v14-3206e7bb15c2"
+    }
+  ]
 }

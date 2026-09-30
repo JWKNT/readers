@@ -8,6 +8,7 @@ from pathlib import Path
 import re
 import subprocess
 import tarfile
+from editorial import restore
 from urllib.parse import unquote, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -62,9 +63,13 @@ def main():
         integrity_path = ROOT / 'data' / 'earths-past' / (book.name + '-integrity.json')
         if not integrity_path.exists(): integrity_path = ROOT / 'data' / 'wolfe-fiction' / (book.name + '-integrity.json')
         integrity = {c['chapter']: c for c in json.loads(integrity_path.read_text())['chapters']} if integrity_path.exists() else {}
+        running_words=0
         for chapter in manifest['chapters']:
             path = book / 'chapters' / (chapter['id'] + '.json')
             data = json.loads(path.read_text())
+            assert data['startWords']==chapter['startWords']==running_words,(path,'word offset')
+            assert data['words']==chapter['words'],(path,'word metadata')
+            if data['kind']!='reference':running_words+=data['words']
             current = Inspect(data['html'])
             if integrity:
                 import hashlib
@@ -98,14 +103,20 @@ def main():
             if baseline and str(path.relative_to(ROOT)) in baseline_names:
                 old = json.loads(baseline.extractfile(str(path.relative_to(ROOT))).read())
                 previous = Inspect(old['html'])
-                assert ''.join(current.text) == ''.join(previous.text), (path, 'text changed')
-                for key in ('blocks', 'words', 'startWords', 'id'):
+                original=Inspect(restore(data['html']))
+                old_original=Inspect(restore(old['html']))
+                assert ' '.join(''.join(original.text).split()) == ' '.join(''.join(old_original.text).split()), (path, 'unrecorded text changed')
+                for key in ('blocks', 'id'):
                     assert data[key] == old[key], (path, key)
+                count_words=lambda value:len(re.findall(r"\b[\w’'-]+\b",value))
+                expected_words=old['words']+count_words(''.join(current.text))-count_words(''.join(previous.text))
+                assert data['words']==expected_words,(path,'word-count delta')
             for term, paragraph, flag, local in heading.annotations + current.annotations:
                 assert term in terms, (path, term)
                 counts[term] += 1
                 first.setdefault(term, {'chapter': chapter['id'], 'paragraph': paragraph, 'index': chapter['index']})
                 first_flags[term] += flag == 'true'
+        assert running_words==manifest['totalWords']==library[book.name]['totalWords'],(book,'total words')
         for entry in glossary:
             tid = entry['id']
             assert counts[tid] == entry['occurrences'], (book, tid, 'count')
@@ -133,7 +144,7 @@ def main():
                 assert (path.parent / unquote(url.path)).exists(), (path, link)
     print('PASS: glossary metadata, paragraph IDs, static text, first appearances, and local links')
     if baseline:
-        print('PASS: chapter text preserved against ' + args.baseline)
+        print('PASS: original chapter wording and paragraph IDs preserved against ' + args.baseline + '; only recorded repairs and whitespace changed')
 
 
 if __name__ == '__main__':

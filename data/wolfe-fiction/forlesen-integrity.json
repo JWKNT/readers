@@ -14,8 +14,9 @@
         "index_split_016.html"
       ],
       "sourceTextSha256": "79eb091def28077585074b55ace53e33f213cf4838b83fb0b8afdebd633ba5cb",
-      "textSha256": "79eb091def28077585074b55ace53e33f213cf4838b83fb0b8afdebd633ba5cb",
-      "blocks": 560
+      "textSha256": "ac3b9c11121179045bf1d906d08f2860e02a6a325b62b576321ad29c6fb055dc",
+      "blocks": 560,
+      "preEditorialTextSha256": "79eb091def28077585074b55ace53e33f213cf4838b83fb0b8afdebd633ba5cb"
     },
     {
       "chapter": "author-note",
@@ -24,11 +25,41 @@
         "index_split_016.html"
       ],
       "sourceTextSha256": "fda5de9078ef9ecf8ca00839020a66d483e94ae55c2cd5cbb1ad1474519caf73",
-      "textSha256": "fda5de9078ef9ecf8ca00839020a66d483e94ae55c2cd5cbb1ad1474519caf73",
-      "blocks": 3
+      "textSha256": "cc33d2abf19708c2b50cd38ee78f86be7d0778a069df24334efb98342e9148ce",
+      "blocks": 3,
+      "preEditorialTextSha256": "fda5de9078ef9ecf8ca00839020a66d483e94ae55c2cd5cbb1ad1474519caf73"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "forlesen",
+      "chapter": "story",
+      "paragraph": "p-203",
+      "before": "Lastnight",
+      "after": "Last night",
+      "reason": "Fused ordinary temporal phrase in a telephone conversation, unrelated to invented time units elsewhere.",
+      "id": "v14-3c6226e2552b"
+    },
+    {
+      "book": "forlesen",
+      "chapter": "story",
+      "paragraph": "p-169",
+      "before": "closecropped",
+      "after": "close-cropped",
+      "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+      "id": "v14-bc79f6ee0ab2"
+    },
+    {
+      "book": "forlesen",
+      "chapter": "author-note",
+      "paragraph": "p-002",
+      "before": "this world recons things",
+      "after": "this world reckons things",
+      "reason": "Probable source misspelling of reckons in the author’s ordinary prose about counting working days.",
+      "id": "v14-7a8f25481d6e"
+    }
+  ]
 }

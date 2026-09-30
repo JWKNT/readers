@@ -14,8 +14,9 @@
         "index_split_033.html"
       ],
       "sourceTextSha256": "5db964c1ac11bea8e58ceb5778c9237166066d9a4d540de5944434f462124413",
-      "textSha256": "5db964c1ac11bea8e58ceb5778c9237166066d9a4d540de5944434f462124413",
-      "blocks": 295
+      "textSha256": "f98921de6080e657cd01b44a03fae6eb78ffada44cce5ce2f811d56b6624fa6d",
+      "blocks": 295,
+      "preEditorialTextSha256": "5db964c1ac11bea8e58ceb5778c9237166066d9a4d540de5944434f462124413"
     },
     {
       "chapter": "author-note",
@@ -30,5 +31,16 @@
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "and-when-they-appear",
+      "chapter": "story",
+      "paragraph": "p-005",
+      "before": "selflubricating",
+      "after": "self-lubricating",
+      "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+      "id": "v14-236fdbee853b"
+    }
+  ]
 }

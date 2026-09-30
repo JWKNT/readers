@@ -14,11 +14,23 @@
         "OEBPS/e9781429966214_c05.html"
       ],
       "sourceTextSha256": "05ec8d91eed4791f378689e3d42e52263d1ffbf70405f98d2ecc785a3850a5a5",
-      "textSha256": "05ec8d91eed4791f378689e3d42e52263d1ffbf70405f98d2ecc785a3850a5a5",
-      "blocks": 35
+      "textSha256": "07bbdd3d0838e60dc43d68fec1182bffe41752d8023564dad57fcc9a64c752aa",
+      "blocks": 35,
+      "preEditorialTextSha256": "05ec8d91eed4791f378689e3d42e52263d1ffbf70405f98d2ecc785a3850a5a5"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-death-of-hyle",
+      "chapter": "story",
+      "paragraph": "p-035",
+      "before": "gold —were",
+      "after": "gold—were",
+      "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+      "id": "v14-942d5340c23c"
+    }
+  ]
 }

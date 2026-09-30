@@ -14,11 +14,41 @@
         "OEBPS/e9781429966214_c25.html"
       ],
       "sourceTextSha256": "501dfa82d145760d6d505b6f50b67cd5f886f67a9a14845c5fa8e36b7f1cfde3",
-      "textSha256": "501dfa82d145760d6d505b6f50b67cd5f886f67a9a14845c5fa8e36b7f1cfde3",
-      "blocks": 184
+      "textSha256": "ef3ef2b3b6ab017cb4afe55ebbf530202ab9ab9cb1b1cb4c8243549be1d00709",
+      "blocks": 184,
+      "preEditorialTextSha256": "501dfa82d145760d6d505b6f50b67cd5f886f67a9a14845c5fa8e36b7f1cfde3"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "all-the-hues-of-hell",
+      "chapter": "story",
+      "paragraph": "p-005",
+      "before": "Isn��t",
+      "after": "Isn’t",
+      "reason": "Two replacement characters corrupt the apostrophe in the negative contraction. Present in supplied EPUB.",
+      "id": "v14-4e686298dd0f"
+    },
+    {
+      "book": "all-the-hues-of-hell",
+      "chapter": "story",
+      "paragraph": "p-032",
+      "before": "JANSEN l’S",
+      "after": "JANSEN 1’S",
+      "reason": "OCR lower-case l for numeral 1; the same numbered JANSEN 1 and JANSEN 2 identifiers are explicit at p-041 and p-045.",
+      "id": "v14-6ee510e8acf1"
+    },
+    {
+      "book": "all-the-hues-of-hell",
+      "chapter": "story",
+      "paragraph": "p-035",
+      "before": "color gradiations",
+      "after": "color gradations",
+      "reason": "Probable source misspelling of gradations, the successive shades assigned to measurement data.",
+      "id": "v14-6bca228d389e"
+    }
+  ]
 }

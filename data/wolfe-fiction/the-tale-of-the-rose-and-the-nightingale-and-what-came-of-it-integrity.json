@@ -15,11 +15,41 @@
         "OEBPS/e9781429966214_c34.html"
       ],
       "sourceTextSha256": "cb640fe91719af0c378f3525fe6f976e4d493d6cb9df5426a1b74439b0fddcd3",
-      "textSha256": "cb640fe91719af0c378f3525fe6f976e4d493d6cb9df5426a1b74439b0fddcd3",
-      "blocks": 302
+      "textSha256": "5e84851e028b4cc218837b039f9cd981465c7e63b3e02555cf2f2d19b0014579",
+      "blocks": 302,
+      "preEditorialTextSha256": "cb640fe91719af0c378f3525fe6f976e4d493d6cb9df5426a1b74439b0fddcd3"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-tale-of-the-rose-and-the-nightingale-and-what-came-of-it",
+      "chapter": "story",
+      "paragraph": "p-178",
+      "before": "“No, nol”",
+      "after": "“No, no!”",
+      "reason": "OCR lowercase l for exclamation mark in a repeated negative protest.",
+      "id": "v14-a434f8f46bec"
+    },
+    {
+      "book": "the-tale-of-the-rose-and-the-nightingale-and-what-came-of-it",
+      "chapter": "story",
+      "paragraph": "p-215",
+      "before": "emptiness —dark—dampness—and",
+      "after": "emptiness—dark—dampness—and",
+      "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+      "id": "v14-4f6e18de5486"
+    },
+    {
+      "book": "the-tale-of-the-rose-and-the-nightingale-and-what-came-of-it",
+      "chapter": "story",
+      "paragraph": "p-233",
+      "before": "still —darker",
+      "after": "still—darker",
+      "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+      "id": "v14-e432f7c3c3d7"
+    }
+  ]
 }

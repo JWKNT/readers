@@ -10,11 +10,11 @@
       "chapters": 1
     }
   ],
-  "totalWords": 8640,
+  "totalWords": 8639,
   "defaultChapter": "story",
   "glossaryCount": 3,
   "correctionCount": 0,
-  "editionVersion": 13,
+  "editionVersion": 14,
   "chapters": [
     {
       "id": "story",
@@ -305,8 +305,9 @@
           "paragraph": "p-178"
         }
       ],
-      "words": 8640,
+      "words": 8639,
       "startWords": 0
     }
-  ]
+  ],
+  "editorialCorrectionCount": 1
 }

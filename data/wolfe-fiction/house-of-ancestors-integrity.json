@@ -14,11 +14,23 @@
         "OEBPS/e9781429966214_c12.html"
       ],
       "sourceTextSha256": "ec52e5470d8f537db331cbcca6df408c31c79e958ea3411374fcaa77631f6958",
-      "textSha256": "ec52e5470d8f537db331cbcca6df408c31c79e958ea3411374fcaa77631f6958",
-      "blocks": 235
+      "textSha256": "d5fd129d528a6389ef29d1ed4decfa7a4f9634f210ddfcd52012e7ed47ba3d40",
+      "blocks": 235,
+      "preEditorialTextSha256": "ec52e5470d8f537db331cbcca6df408c31c79e958ea3411374fcaa77631f6958"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "house-of-ancestors",
+      "chapter": "story",
+      "paragraph": "p-049",
+      "before": "everybody’ d",
+      "after": "everybody’d",
+      "reason": "Extraneous internal space splits the contraction everybody would.",
+      "id": "v14-25b372da90f6"
+    }
+  ]
 }

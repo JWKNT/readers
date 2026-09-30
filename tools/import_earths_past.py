@@ -17,7 +17,7 @@ import xml.etree.ElementTree as ET
 from zipfile import ZipFile
 
 ROOT = Path(__file__).resolve().parents[1]
-EDITION = 13
+EDITION = 15
 BOOKS = [('three-body-problem', 'The Three-Body Problem', 1, 'shadow'),
          ('dark-forest', 'The Dark Forest', 2, 'claw'),
          ('deaths-end', 'Death’s End', 3, 'sword')]
@@ -330,3 +330,5 @@ if __name__=='__main__':
         books=[build(z,toc,s) for s in BOOKS]
         source_css(z)
     library=json.loads((ROOT/'library.json').read_text());library=[b for b in library if b['id'] not in {s[0] for s in BOOKS}]+books;save(ROOT/'library.json',library)
+    from editorial import apply
+    apply({s[0] for s in BOOKS})

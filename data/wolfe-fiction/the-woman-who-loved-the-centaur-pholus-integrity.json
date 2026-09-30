@@ -14,11 +14,23 @@
         "OEBPS/e9781429966214_c22.html"
       ],
       "sourceTextSha256": "6e27d4d361a1391ee44bb2356bff46f4695495885abd582b175130ac3821fd5e",
-      "textSha256": "6e27d4d361a1391ee44bb2356bff46f4695495885abd582b175130ac3821fd5e",
-      "blocks": 77
+      "textSha256": "d9f3792b0a0b4a4f514fab00203b957146556f708f3ac73ad7be062c8848b3ae",
+      "blocks": 77,
+      "preEditorialTextSha256": "6e27d4d361a1391ee44bb2356bff46f4695495885abd582b175130ac3821fd5e"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-woman-who-loved-the-centaur-pholus",
+      "chapter": "story",
+      "paragraph": "p-019",
+      "before": "Will thou yet take all",
+      "after": "Wilt thou yet take all",
+      "reason": "Probable OCR l for t in the quotation from Swinburne’s Hymn to Proserpine. Verified against https://www.gutenberg.org/files/35402/35402-h/35402-h.htm and https://victorianweb.org/authors/swinburne/hymn.html; source EPUB itself has Will.",
+      "id": "v14-00d01afd53ed"
+    }
+  ]
 }

@@ -306,8 +306,9 @@
     {
       "chapter": "section-60",
       "source": "B3060.html",
-      "textSha256": "49b51d5e9fe7ad641142ae970153314221edae2add006dd48e13b662fb2daedb",
-      "blocks": 142
+      "textSha256": "cfcc86257aa9f2a1c99130b87b16322bca33e9b9c3fd6b6fd0cff2e5bcfbcc54",
+      "blocks": 142,
+      "preEditorialTextSha256": "49b51d5e9fe7ad641142ae970153314221edae2add006dd48e13b662fb2daedb"
     },
     {
       "chapter": "section-61",
@@ -479,5 +480,16 @@
     }
   ],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only; original translator notes retained separately."
+  "notePolicy": "External referents only; original translator notes retained separately.",
+  "editorialCorrections": [
+    {
+      "book": "deaths-end",
+      "chapter": "section-60",
+      "paragraph": "p-048",
+      "before": "made of canvas. like the prince himself.",
+      "after": "made of canvas, like the prince himself.",
+      "reason": "A period incorrectly splits the comparative clause from its sentence; lowercase like and the comparison make a comma the clear reading.",
+      "id": "v14-c1b05616ee25"
+    }
+  ]
 }

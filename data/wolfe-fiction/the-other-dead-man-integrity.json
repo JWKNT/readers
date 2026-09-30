@@ -14,11 +14,23 @@
         "OEBPS/e9781429966214_c31.html"
       ],
       "sourceTextSha256": "1f1c80376a33bb0c5ba1971510d21f469e18692f69ac91871a46ca55495df10c",
-      "textSha256": "1f1c80376a33bb0c5ba1971510d21f469e18692f69ac91871a46ca55495df10c",
-      "blocks": 268
+      "textSha256": "3725fb453cf3f0fcec16beeecb2a1ae392867edd9c364df5c2ac5765c69cfd0e",
+      "blocks": 268,
+      "preEditorialTextSha256": "1f1c80376a33bb0c5ba1971510d21f469e18692f69ac91871a46ca55495df10c"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-other-dead-man",
+      "chapter": "story",
+      "paragraph": "p-237",
+      "before": "what they. call",
+      "after": "what they call",
+      "reason": "Spurious period interrupts the subject and verb inside a single clause.",
+      "id": "v14-24e4d7fd4f89"
+    }
+  ]
 }

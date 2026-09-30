@@ -14,8 +14,9 @@
         "index_split_009.html"
       ],
       "sourceTextSha256": "ed2f8d4676a0b716cc3563629cbca8d0f9d7b01d3e20e6347b4ab5dfcb610144",
-      "textSha256": "ed2f8d4676a0b716cc3563629cbca8d0f9d7b01d3e20e6347b4ab5dfcb610144",
-      "blocks": 67
+      "textSha256": "5aac275291d3e4566c1425a1bbe87adb1ba02992ff161cbbd0af51db3ac2aec6",
+      "blocks": 67,
+      "preEditorialTextSha256": "ed2f8d4676a0b716cc3563629cbca8d0f9d7b01d3e20e6347b4ab5dfcb610144"
     },
     {
       "chapter": "author-note",
@@ -30,5 +31,16 @@
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-toy-theater",
+      "chapter": "story",
+      "paragraph": "p-056",
+      "before": "secondbest",
+      "after": "second-best",
+      "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+      "id": "v14-f5a57f20dc65"
+    }
+  ]
 }

@@ -4,6 +4,22 @@
 .chapter-body .inset{margin-inline:1.3em;text-indent:0}
 .chapter-body .epigraph{font-size:.88em;line-height:1.55;text-indent:0;margin-inline:1.5em;text-align:left;text-align-last:left}
 .chapter-body .epigraph+.chapter-opening{margin-top:1.6em}
+.chapter-body .epigraph.center{text-align:center;text-align-last:center}
+.chapter-body .epigraph.right{text-align:right;text-align-last:right}
+.chapter-body .epigraph-container{margin:1em 1.5em 1.6em}
+.chapter-body .epigraph-container .epigraph{margin-inline:0}
+.chapter-body .stanza-start{margin-top:1em}
+.chapter-body .verse{ text-indent:0 }
+.chapter-body .verse-line{margin-block:0}
+.chapter-body .verse-line:not(.verse-line+.verse-line){margin-top:1em}
+.chapter-body .verse-line:has(+p:not(.verse-line)){margin-bottom:1em}
+.chapter-body .transcript{text-indent:0;text-align:left;text-align-last:left;hyphens:manual}
+.chapter-body .transcript strong{font-weight:600}
+.chapter-body .continued-passage{margin:0;text-indent:1.55em}
+.chapter-body .continued-passage.transcript{text-indent:0;text-align:left;text-align-last:left}
+.chapter-body .paragraph-fragment{display:inline}
+.chapter-body .dialogue-turn{display:block;text-indent:1.55em}
+.chapter-body .scene-break+.scene-break{height:0;margin:0;overflow:hidden}
 .chapter-body .source-glyph{display:inline-block;width:auto;max-width:1.3em;height:1em!important;vertical-align:baseline}
 [data-theme="dark"] .chapter-body .source-glyph{filter:invert(1);mix-blend-mode:screen}
 .chapter-body .chapter-opening{text-indent:0}

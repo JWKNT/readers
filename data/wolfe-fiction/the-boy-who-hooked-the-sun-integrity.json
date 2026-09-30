@@ -14,8 +14,9 @@
         "index_split_030.html"
       ],
       "sourceTextSha256": "afe2d0d0d2200b3e054bcf926dd1586a7f99500c3b6620aa16a4f65f69eda2a4",
-      "textSha256": "afe2d0d0d2200b3e054bcf926dd1586a7f99500c3b6620aa16a4f65f69eda2a4",
-      "blocks": 19
+      "textSha256": "7f3be087410d7c698701d673b622728c25cc4feb71391db1a899cce55ecb1a08",
+      "blocks": 19,
+      "preEditorialTextSha256": "afe2d0d0d2200b3e054bcf926dd1586a7f99500c3b6620aa16a4f65f69eda2a4"
     },
     {
       "chapter": "author-note",
@@ -30,5 +31,16 @@
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-boy-who-hooked-the-sun",
+      "chapter": "story",
+      "paragraph": "p-011",
+      "before": "alexanderites",
+      "after": "alexandrites",
+      "reason": "Probable misspelling of the gemstone alexandrite among agates, moonstones, rubies, and sapphires. Verified standard gemstone spelling with GIA: https://www.gia.edu/alexandrite .",
+      "id": "v14-f175d4c0fbe3"
+    }
+  ]
 }

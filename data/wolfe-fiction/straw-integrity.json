@@ -14,8 +14,9 @@
         "index_split_020.html"
       ],
       "sourceTextSha256": "4fc72d316f2dbaf4270926e2be6cb684085fe5aedc5c247421fc77b513d51e4a",
-      "textSha256": "4fc72d316f2dbaf4270926e2be6cb684085fe5aedc5c247421fc77b513d51e4a",
-      "blocks": 76
+      "textSha256": "2580900bca35d875c23f833d855e0afa4a9d51cb6fdb9c4928e8214c9927f7ab",
+      "blocks": 76,
+      "preEditorialTextSha256": "4fc72d316f2dbaf4270926e2be6cb684085fe5aedc5c247421fc77b513d51e4a"
     },
     {
       "chapter": "author-note",
@@ -30,5 +31,16 @@
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "straw",
+      "chapter": "story",
+      "paragraph": "p-047",
+      "before": "pincermace",
+      "after": "pincer-mace",
+      "reason": "The same weapon is consistently pincer-mace at p-035 (twice); restore the lost hyphen here.",
+      "id": "v14-4a567b3c4d59"
+    }
+  ]
 }

@@ -14,11 +14,23 @@
         "OEBPS/e9781429966214_c28.html"
       ],
       "sourceTextSha256": "d4741e0bcfee3ab532f9345d89421b7ae2ce0d73d6ab4111eff2b32296dd76cd",
-      "textSha256": "d4741e0bcfee3ab532f9345d89421b7ae2ce0d73d6ab4111eff2b32296dd76cd",
-      "blocks": 18
+      "textSha256": "a8a377e808ab5c5c8ef2e4c3772ee0e90f664b9346c7fc14d9c4218d95ac62d7",
+      "blocks": 18,
+      "preEditorialTextSha256": "d4741e0bcfee3ab532f9345d89421b7ae2ce0d73d6ab4111eff2b32296dd76cd"
     }
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "suzanne-delage",
+      "chapter": "story",
+      "paragraph": "p-015",
+      "before": "her —but",
+      "after": "her—but",
+      "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+      "id": "v14-aa4a580f821b"
+    }
+  ]
 }

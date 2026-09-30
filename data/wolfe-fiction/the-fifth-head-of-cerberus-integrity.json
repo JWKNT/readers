@@ -18,8 +18,9 @@
         "index_split_010.html"
       ],
       "sourceTextSha256": "0907d929f6160aa27cd235e54906a63dfa720c2a0c0b1382400d720f36caeeda",
-      "textSha256": "0907d929f6160aa27cd235e54906a63dfa720c2a0c0b1382400d720f36caeeda",
-      "blocks": 425
+      "textSha256": "fe580ef29ae38e04c0fe33902abc51ab3d7dbfcf1aed777e25c6ab0a137cd44a",
+      "blocks": 425,
+      "preEditorialTextSha256": "0907d929f6160aa27cd235e54906a63dfa720c2a0c0b1382400d720f36caeeda"
     },
     {
       "chapter": "a-story",
@@ -29,8 +30,9 @@
         "index_split_001.html"
       ],
       "sourceTextSha256": "79893aecf4e0a7f7ca8773ea5334a2334f4c645606b183fe0bb207a01df859f2",
-      "textSha256": "79893aecf4e0a7f7ca8773ea5334a2334f4c645606b183fe0bb207a01df859f2",
-      "blocks": 557
+      "textSha256": "0c18d4c682f6cdf8893b5332e38b3ddbd944972869685eab8c4adcd448bd63ec",
+      "blocks": 557,
+      "preEditorialTextSha256": "79893aecf4e0a7f7ca8773ea5334a2334f4c645606b183fe0bb207a01df859f2"
     },
     {
       "chapter": "vrt",
@@ -40,8 +42,9 @@
         "index_split_002.html"
       ],
       "sourceTextSha256": "9ccc320eec2d325341fedacaefc4356a671e99600f4feb225ef53b1e6c089b2c",
-      "textSha256": "bb714b248f441b42d3fdcae6ae557f0f8a110c6e1b8ea7288b81f098843ef868",
-      "blocks": 1013
+      "textSha256": "bfd801dee8cff536e370f11ba56dd6d548ed920cae543565bb60f179a36e7c37",
+      "blocks": 1013,
+      "preEditorialTextSha256": "bb714b248f441b42d3fdcae6ae557f0f8a110c6e1b8ea7288b81f098843ef868"
     },
     {
       "chapter": "author-note",
@@ -63,5 +66,753 @@
     }
   ],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-063",
+      "before": "to.us",
+      "after": "to us",
+      "reason": "Stray OCR period joins a preposition to its object.",
+      "confidence": "high",
+      "id": "v14-a8dd8348eee5"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-066",
+      "before": "theii short legs",
+      "after": "their short legs",
+      "reason": "Final r misread as i in a possessive.",
+      "confidence": "high",
+      "id": "v14-a63057a09784"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-068",
+      "before": "said. T only want",
+      "after": "said. “I only want",
+      "reason": "Opening quotation mark plus capital I misread together as T; speech resumes after the attribution.",
+      "confidence": "high",
+      "id": "v14-d09354c66ccd"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-095",
+      "before": "none may corne",
+      "after": "none may come",
+      "reason": "rn is an OCR substitution for m.",
+      "confidence": "high",
+      "id": "v14-3b7f1adff3aa"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-111",
+      "before": "moun-tains",
+      "after": "mountains",
+      "reason": "Residual print line-end hyphen inside an ordinary word.",
+      "confidence": "high",
+      "id": "v14-b633d9461ed1"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-131",
+      "before": "I’m’not",
+      "after": "I’m not",
+      "reason": "Spurious apostrophe replaces the interword space.",
+      "confidence": "high",
+      "id": "v14-6511726c4f84"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-140",
+      "before": "misdemeanor, I haven’t",
+      "after": "misdemeanor, “I haven’t",
+      "reason": "Missing opening quotation mark before the girl’s direct speech; closing quotation is present.",
+      "confidence": "high",
+      "id": "v14-2778f1dcde82"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-165",
+      "before": "north by, east",
+      "after": "north by east",
+      "reason": "The compass direction north by east has an intrusive internal comma.",
+      "confidence": "high",
+      "id": "v14-778f46fbc0f8"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-165",
+      "before": "sisterwor’d’s",
+      "after": "sisterworld’s",
+      "reason": "Missing l plus apostrophe substitution in repeated sisterworld.",
+      "confidence": "high",
+      "id": "v14-ff1badef3436"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-175",
+      "before": "broad halfmile",
+      "after": "broad half-mile",
+      "reason": "Lost hyphen in the measure compound.",
+      "confidence": "probable",
+      "id": "v14-57d75c690d86"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-200",
+      "before": "his progress,,.was",
+      "after": "his progress was",
+      "reason": "Three stray punctuation marks interrupt the subject and verb.",
+      "confidence": "high",
+      "id": "v14-a6e5ebaad2ad"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-202",
+      "before": "lightshoneonlyfitfully. Heslept",
+      "after": "light shone only fitfully. He slept",
+      "reason": "Five omitted word spaces in continuous narration.",
+      "confidence": "high",
+      "id": "v14-5ce35afd1f5e"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-287",
+      "before": "slopingxsand",
+      "after": "sloping sand",
+      "reason": "Stray x occupies the space between adjective and noun.",
+      "confidence": "high",
+      "id": "v14-57a263fafe85"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-325",
+      "before": "a lot of iuice",
+      "after": "a lot of juice",
+      "reason": "Initial j misread as i; nearby phrase juicy drink confirms the word.",
+      "confidence": "high",
+      "id": "v14-5ae247fb9499"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-332",
+      "before": "Talk,” said",
+      "after": "“Talk,” said",
+      "reason": "Opening quotation mark missing from the complete spoken answer.",
+      "confidence": "high",
+      "id": "v14-80f8c018c364"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-334",
+      "before": "discussjng",
+      "after": "discussing",
+      "reason": "j misread for i inside discussing.",
+      "confidence": "high",
+      "id": "v14-1f63b7cc6ea3"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-365",
+      "before": "“Why the Neagle Never Flies’",
+      "after": "“Why the Neagle Never Flies”",
+      "reason": "Mismatched closing single quote after a title opened with a double quote.",
+      "confidence": "high",
+      "id": "v14-fa643ee7ece6"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-376",
+      "before": "becam>e",
+      "after": "became",
+      "reason": "Intrusive greater-than sign within became.",
+      "confidence": "high",
+      "id": "v14-2012472b7316"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-391",
+      "before": "better than lifd But once",
+      "after": "better than life. But once",
+      "reason": "OCR merged the final e and sentence stop into d.",
+      "confidence": "high",
+      "id": "v14-e5c7425c9d06"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-406",
+      "before": "without sJtin",
+      "after": "without skin",
+      "reason": "Malformed OCR letters in skin; parallel without eyes confirms the body-part contrast.",
+      "confidence": "high",
+      "id": "v14-4ef0ac07fafc"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-437",
+      "before": "came acrass",
+      "after": "came across",
+      "reason": "o misread as a in across.",
+      "confidence": "high",
+      "id": "v14-016fb3d4eb7a"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-471",
+      "before": "Leaves you-can-eat",
+      "after": "Leaves-you-can-eat",
+      "reason": "Missing first hyphen in a repeatedly hyphenated personal name.",
+      "confidence": "high",
+      "id": "v14-2fad3ed764f7"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-001",
+      "before": "think .that",
+      "after": "think that",
+      "reason": "Stray OCR period before the conjunction in the epigraph.",
+      "confidence": "high",
+      "id": "v14-470723285b58"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-071",
+      "before": "andSainte Anne",
+      "after": "and Sainte Anne",
+      "reason": "Missing word boundary before the place name.",
+      "confidence": "high",
+      "id": "v14-5e8023b937f0"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-072",
+      "before": "Mattre, agirlfrom",
+      "after": "Maître, a girl from",
+      "reason": "The repeatedly used honorific Maître has î misread as tt, followed by two missing spaces.",
+      "confidence": "high",
+      "id": "v14-0585ed32321d"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-078",
+      "before": "anyone who’might",
+      "after": "anyone who might",
+      "reason": "Stray apostrophe in an ordinary relative clause.",
+      "confidence": "high",
+      "id": "v14-044d7149de26"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-078",
+      "before": "nthhand",
+      "after": "nth-hand",
+      "reason": "Lost hyphen in nth-hand; the surrounding clause contrasts thirdhand with increasingly remote reports.",
+      "confidence": "probable",
+      "id": "v14-544e5be53482"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-095",
+      "before": "com- mandant",
+      "after": "commandant",
+      "reason": "Residual line-end hyphen and space split commandant.",
+      "confidence": "high",
+      "id": "v14-f19af833a9b3"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-180",
+      "before": "rop.es",
+      "after": "ropes",
+      "reason": "Stray OCR period within ropes.",
+      "confidence": "high",
+      "id": "v14-706eafb84a50"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-181",
+      "before": "skin back then- thick lips",
+      "after": "skin back their thick lips",
+      "reason": "Possessive their misread as then-; the mules draw back their lips.",
+      "confidence": "high",
+      "id": "v14-db8ada4651af"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-187",
+      "before": "ever seen He ij. better",
+      "after": "ever seen. He is better",
+      "reason": "Missing sentence stop after seen, then s misread as j plus an intrusive period.",
+      "confidence": "high",
+      "id": "v14-3cdba0e313fb"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-193",
+      "before": "stole- eggs",
+      "after": "stole eggs",
+      "reason": "Extraneous hyphen between verb and object.",
+      "confidence": "high",
+      "id": "v14-086845f19f31"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-207",
+      "before": "the.tape",
+      "after": "the tape",
+      "reason": "Stray OCR period replaces a space.",
+      "confidence": "high",
+      "id": "v14-4cb328dbc822"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-212",
+      "before": "Annese“temple”",
+      "after": "Annese “temple”",
+      "reason": "Missing space before the quoted noun.",
+      "confidence": "high",
+      "id": "v14-308c6911195f"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-242",
+      "before": "DON“T KNOW.",
+      "after": "DON’T KNOW.",
+      "reason": "Opening double quote misread for the apostrophe in DON’T.",
+      "confidence": "high",
+      "id": "v14-84db741b1599"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-289",
+      "before": "pocjcets",
+      "after": "pockets",
+      "reason": "Malformed OCR letter group inside pockets; patting pockets is the stated action.",
+      "confidence": "high",
+      "id": "v14-011bcb40365c"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-327",
+      "before": "probabities",
+      "after": "probabilities",
+      "reason": "Dropped ili in probabilities.",
+      "confidence": "high",
+      "id": "v14-9d0e955a26c1"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-359",
+      "before": "undrmkable",
+      "after": "undrinkable",
+      "reason": "in misread as m inside undrinkable.",
+      "confidence": "high",
+      "id": "v14-ac04a8c800b1"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-393",
+      "before": "three good- sized specimen",
+      "after": "three good-sized specimens",
+      "reason": "Residual hyphen spacing, and lost plural s after the explicit count three.",
+      "confidence": "probable",
+      "id": "v14-1e847fb6d4da"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-411",
+      "before": "certainly .intelligently",
+      "after": "certainly intelligently",
+      "reason": "Stray period between adverb and modified word.",
+      "confidence": "high",
+      "id": "v14-982f52909928"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-412",
+      "before": "sketclwnap",
+      "after": "sketch-map",
+      "reason": "OCR confuses h and m with lw/n in the compound describing the plotted positions.",
+      "confidence": "probable",
+      "id": "v14-b10c010347a7"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-433",
+      "before": "musclesof",
+      "after": "muscles of",
+      "reason": "Missing word space.",
+      "confidence": "high",
+      "id": "v14-5724139c945e"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-433",
+      "before": "wayshe walked andheldher hands",
+      "after": "way she walked and held her hands",
+      "reason": "Three missing word spaces.",
+      "confidence": "high",
+      "id": "v14-ea57b0eb88da"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-440",
+      "before": "Doctor? Tn the back",
+      "after": "Doctor? In the back",
+      "reason": "Capital I misread as T at the beginning of a sentence.",
+      "confidence": "high",
+      "id": "v14-da1bdae4e86d"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-448",
+      "before": "slender amd",
+      "after": "slender and",
+      "reason": "n misread as m in and.",
+      "confidence": "high",
+      "id": "v14-58a1d871e75e"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-558",
+      "before": "asked,” What’s",
+      "after": "asked, “What’s",
+      "reason": "Opening double quotation is reversed and misplaced before the space.",
+      "confidence": "high",
+      "id": "v14-5441580f1148"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-562",
+      "before": "DrMarsch",
+      "after": "Dr Marsch",
+      "reason": "Missing space between title and surname; Dr Marsch is the edition’s prevailing form.",
+      "confidence": "high",
+      "id": "v14-fc375e9e2986"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-782",
+      "before": "seemslike",
+      "after": "seems like",
+      "reason": "Missing word boundary between verb and preposition.",
+      "confidence": "high",
+      "id": "v14-9c142c55c02f"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-821",
+      "before": "thejr children",
+      "after": "their children",
+      "reason": "i misread as j in possessive their.",
+      "confidence": "high",
+      "id": "v14-061fc38287dd"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-823",
+      "before": "the femal pelvis",
+      "after": "the female pelvis",
+      "reason": "Missing final e in female.",
+      "confidence": "high",
+      "id": "v14-4137c0b3bb4a"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-824",
+      "before": "herself .of",
+      "after": "herself of",
+      "reason": "Stray period before the preposition.",
+      "confidence": "high",
+      "id": "v14-e0f17b71a806"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-824",
+      "before": "dis- robes her",
+      "after": "disrobes her",
+      "reason": "Residual line-end hyphen and space inside disrobes.",
+      "confidence": "high",
+      "id": "v14-f9a2196b4d8f"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-864",
+      "before": "I thought, theiy that",
+      "after": "I thought, then, that",
+      "reason": "OCR merges n and a comma into iy in the parenthetical then.",
+      "confidence": "probable",
+      "id": "v14-1dad55960ec4"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-885",
+      "before": "Wfiere the mule’s",
+      "after": "Where the mule’s",
+      "reason": "h misread as fi at a sentence opening.",
+      "confidence": "high",
+      "id": "v14-c94fb8b33b80"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-895",
+      "before": "them .questions",
+      "after": "them questions",
+      "reason": "Stray period between indirect object and direct object.",
+      "confidence": "high",
+      "id": "v14-55deb57e51fd"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-913",
+      "before": "everything Is false",
+      "after": "everything is false",
+      "reason": "Spurious mid-sentence capitalization of is.",
+      "confidence": "high",
+      "id": "v14-407bd96ccec8"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-913",
+      "before": "the iong dreaming days",
+      "after": "the long dreaming days",
+      "reason": "Lowercase l misread as i in long.",
+      "confidence": "high",
+      "id": "v14-b645d9d18231"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-922",
+      "before": "or fHe lodginghouse",
+      "after": "or the lodginghouse",
+      "reason": "Malformed t/h OCR in the definite article.",
+      "confidence": "high",
+      "id": "v14-864b53d1324f"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-940",
+      "before": "but just to feel it",
+      "after": "but just to feel it.",
+      "reason": "Missing sentence stop before the source section break.",
+      "confidence": "probable",
+      "id": "v14-f22a80e3b803"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-945",
+      "before": "they w,ere closing",
+      "after": "they were closing",
+      "reason": "Stray comma within were.",
+      "confidence": "high",
+      "id": "v14-07be8ca9022c"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-955",
+      "before": "Thecat I killed",
+      "after": "The cat I killed",
+      "reason": "Missing space between article and noun.",
+      "confidence": "high",
+      "id": "v14-c81785283b70"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-957",
+      "before": "since -he died",
+      "after": "since he died",
+      "reason": "Extraneous hyphen before he.",
+      "confidence": "high",
+      "id": "v14-df1a5fed21c3"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-958",
+      "before": "Annese.of",
+      "after": "Annese of",
+      "reason": "Stray period replaces a word space.",
+      "confidence": "high",
+      "id": "v14-dd4560ba5f82"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-963",
+      "before": "Soon., though",
+      "after": "Soon, though",
+      "reason": "Redundant stop before the comma.",
+      "confidence": "high",
+      "id": "v14-d03a9c0aeee4"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-970",
+      "before": "Porr-Mimizon",
+      "after": "Port-Mimizon",
+      "reason": "Final t in Port misread as r; the same city is named consistently elsewhere.",
+      "confidence": "high",
+      "id": "v14-0ce5359ba11e"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-988",
+      "before": "“You may go.",
+      "after": "“You may go.”",
+      "reason": "Missing closing quotation at the end of a self-contained order; the next paragraph opens a new utterance.",
+      "confidence": "high",
+      "id": "v14-88277d0414e6"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-989",
+      "before": "Port-Mimizan",
+      "after": "Port-Mimizon",
+      "reason": "Isolated vowel mismatch in the same named destination, spelled Port-Mimizon in the immediate reply and throughout.",
+      "confidence": "probable",
+      "id": "v14-b1d5a691d39f"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-990",
+      "before": "Slpugh Desmond",
+      "after": "Slough Desmond",
+      "reason": "p misread for o in the vessel name; Slpugh has no plausible reading.",
+      "confidence": "probable",
+      "id": "v14-ead217f5eb0a"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-1000",
+      "before": "Citadei,",
+      "after": "Citadel,",
+      "reason": "Final l misread as i in the address.",
+      "confidence": "high",
+      "id": "v14-e37a0cfc81a0"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-1004",
+      "before": "continue yout efforts",
+      "after": "continue your efforts",
+      "reason": "Final r misread as t in your.",
+      "confidence": "high",
+      "id": "v14-3d1922133b65"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-1013",
+      "before": "dropped it ffttt the window",
+      "after": "dropped it out the window",
+      "reason": "Garbled OCR word; out completes the locally unambiguous action of dropping the tape into the flower bed.",
+      "confidence": "probable",
+      "id": "v14-01b343c0a62b"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "fifth-head",
+      "paragraph": "p-216",
+      "before": "He owned, most of the time, large sums",
+      "after": "He owed, most of the time, large sums",
+      "reason": "The sums are debts owed to lenders, not money owned; the separate supplied Fifth Head EPUB also reads owed.",
+      "id": "v14-2c7a162b3e2f"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "fifth-head",
+      "paragraph": "p-263",
+      "before": "misshappen",
+      "after": "misshapen",
+      "reason": "Ordinary misshapen is corroborated by the separate supplied Fifth Head EPUB.",
+      "id": "v14-feae4b1a2af5"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "fifth-head",
+      "paragraph": "p-265",
+      "before": "Départment",
+      "after": "Département",
+      "reason": "Dropped e in the French word département, correctly spelled in the address at p-175 of this reader.",
+      "id": "v14-03a60cf5528e"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "fifth-head",
+      "paragraph": "p-059",
+      "before": "hatchetfaced",
+      "after": "hatchet-faced",
+      "reason": "Probable lost hyphen fuses the two components of this ordinary compound. Corroborated by the separate supplied Fifth Head EPUB.",
+      "id": "v14-34fefa7cc603"
+    }
+  ]
 }

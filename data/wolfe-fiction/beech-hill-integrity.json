@@ -14,8 +14,9 @@
         "index_split_011.html"
       ],
       "sourceTextSha256": "7335c835906043d9e2c7ab141ca8ed5b03664f1222edb6c824325bef03be74c9",
-      "textSha256": "7335c835906043d9e2c7ab141ca8ed5b03664f1222edb6c824325bef03be74c9",
-      "blocks": 75
+      "textSha256": "80d1634ece87765d626d12d9cce06226f5a7067b5609624240d2b22287e45fd4",
+      "blocks": 75,
+      "preEditorialTextSha256": "7335c835906043d9e2c7ab141ca8ed5b03664f1222edb6c824325bef03be74c9"
     },
     {
       "chapter": "author-note",
@@ -30,5 +31,16 @@
   ],
   "corrections": [],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "beech-hill",
+      "chapter": "story",
+      "paragraph": "p-001",
+      "before": "Bubba goes off",
+      "after": "“Bubba goes off",
+      "reason": "Missing opening quotation mark before direct speech, with closing mark and dialogue attribution present. Present in EPUB, including several drop-cap openings. Preserve speech grammar.",
+      "id": "v14-4bc66400c2ca"
+    }
+  ]
 }

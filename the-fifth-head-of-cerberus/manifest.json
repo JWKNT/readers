@@ -16,11 +16,11 @@
       "referenceTitle": "Afterword"
     }
   ],
-  "totalWords": 78068,
+  "totalWords": 78077,
   "defaultChapter": "fifth-head",
   "glossaryCount": 58,
   "correctionCount": 1,
-  "editionVersion": 13,
+  "editionVersion": 14,
   "chapters": [
     {
       "id": "fifth-head",
@@ -1234,7 +1234,7 @@
           "paragraph": "p-367"
         }
       ],
-      "words": 18491,
+      "words": 18495,
       "startWords": 25332
     },
     {
@@ -2351,8 +2351,8 @@
           "paragraph": "p-971"
         }
       ],
-      "words": 34245,
-      "startWords": 43823
+      "words": 34250,
+      "startWords": 43827
     },
     {
       "id": "author-note",
@@ -2375,7 +2375,8 @@
       "headingHtml": "Afterword to The Fifth Head of Cerberus",
       "noteAnchors": [],
       "words": 201,
-      "startWords": 78068
+      "startWords": 78077
     }
-  ]
+  ],
+  "editorialCorrectionCount": 75
 }

@@ -1,0 +1,3192 @@
+[
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-063",
+    "before": "to.us",
+    "after": "to us",
+    "reason": "Stray OCR period joins a preposition to its object.",
+    "confidence": "high",
+    "id": "v14-a8dd8348eee5"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-066",
+    "before": "theii short legs",
+    "after": "their short legs",
+    "reason": "Final r misread as i in a possessive.",
+    "confidence": "high",
+    "id": "v14-a63057a09784"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-068",
+    "before": "said. T only want",
+    "after": "said. “I only want",
+    "reason": "Opening quotation mark plus capital I misread together as T; speech resumes after the attribution.",
+    "confidence": "high",
+    "id": "v14-d09354c66ccd"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-095",
+    "before": "none may corne",
+    "after": "none may come",
+    "reason": "rn is an OCR substitution for m.",
+    "confidence": "high",
+    "id": "v14-3b7f1adff3aa"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-111",
+    "before": "moun-tains",
+    "after": "mountains",
+    "reason": "Residual print line-end hyphen inside an ordinary word.",
+    "confidence": "high",
+    "id": "v14-b633d9461ed1"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-131",
+    "before": "I’m’not",
+    "after": "I’m not",
+    "reason": "Spurious apostrophe replaces the interword space.",
+    "confidence": "high",
+    "id": "v14-6511726c4f84"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-140",
+    "before": "misdemeanor, I haven’t",
+    "after": "misdemeanor, “I haven’t",
+    "reason": "Missing opening quotation mark before the girl’s direct speech; closing quotation is present.",
+    "confidence": "high",
+    "id": "v14-2778f1dcde82"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-165",
+    "before": "north by, east",
+    "after": "north by east",
+    "reason": "The compass direction north by east has an intrusive internal comma.",
+    "confidence": "high",
+    "id": "v14-778f46fbc0f8"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-165",
+    "before": "sisterwor’d’s",
+    "after": "sisterworld’s",
+    "reason": "Missing l plus apostrophe substitution in repeated sisterworld.",
+    "confidence": "high",
+    "id": "v14-ff1badef3436"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-175",
+    "before": "broad halfmile",
+    "after": "broad half-mile",
+    "reason": "Lost hyphen in the measure compound.",
+    "confidence": "probable",
+    "id": "v14-57d75c690d86"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-200",
+    "before": "his progress,,.was",
+    "after": "his progress was",
+    "reason": "Three stray punctuation marks interrupt the subject and verb.",
+    "confidence": "high",
+    "id": "v14-a6e5ebaad2ad"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-202",
+    "before": "lightshoneonlyfitfully. Heslept",
+    "after": "light shone only fitfully. He slept",
+    "reason": "Five omitted word spaces in continuous narration.",
+    "confidence": "high",
+    "id": "v14-5ce35afd1f5e"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-287",
+    "before": "slopingxsand",
+    "after": "sloping sand",
+    "reason": "Stray x occupies the space between adjective and noun.",
+    "confidence": "high",
+    "id": "v14-57a263fafe85"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-325",
+    "before": "a lot of iuice",
+    "after": "a lot of juice",
+    "reason": "Initial j misread as i; nearby phrase juicy drink confirms the word.",
+    "confidence": "high",
+    "id": "v14-5ae247fb9499"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-332",
+    "before": "Talk,” said",
+    "after": "“Talk,” said",
+    "reason": "Opening quotation mark missing from the complete spoken answer.",
+    "confidence": "high",
+    "id": "v14-80f8c018c364"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-334",
+    "before": "discussjng",
+    "after": "discussing",
+    "reason": "j misread for i inside discussing.",
+    "confidence": "high",
+    "id": "v14-1f63b7cc6ea3"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-365",
+    "before": "“Why the Neagle Never Flies’",
+    "after": "“Why the Neagle Never Flies”",
+    "reason": "Mismatched closing single quote after a title opened with a double quote.",
+    "confidence": "high",
+    "id": "v14-fa643ee7ece6"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-376",
+    "before": "becam>e",
+    "after": "became",
+    "reason": "Intrusive greater-than sign within became.",
+    "confidence": "high",
+    "id": "v14-2012472b7316"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-391",
+    "before": "better than lifd But once",
+    "after": "better than life. But once",
+    "reason": "OCR merged the final e and sentence stop into d.",
+    "confidence": "high",
+    "id": "v14-e5c7425c9d06"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-406",
+    "before": "without sJtin",
+    "after": "without skin",
+    "reason": "Malformed OCR letters in skin; parallel without eyes confirms the body-part contrast.",
+    "confidence": "high",
+    "id": "v14-4ef0ac07fafc"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-437",
+    "before": "came acrass",
+    "after": "came across",
+    "reason": "o misread as a in across.",
+    "confidence": "high",
+    "id": "v14-016fb3d4eb7a"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-471",
+    "before": "Leaves you-can-eat",
+    "after": "Leaves-you-can-eat",
+    "reason": "Missing first hyphen in a repeatedly hyphenated personal name.",
+    "confidence": "high",
+    "id": "v14-2fad3ed764f7"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-001",
+    "before": "think .that",
+    "after": "think that",
+    "reason": "Stray OCR period before the conjunction in the epigraph.",
+    "confidence": "high",
+    "id": "v14-470723285b58"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-071",
+    "before": "andSainte Anne",
+    "after": "and Sainte Anne",
+    "reason": "Missing word boundary before the place name.",
+    "confidence": "high",
+    "id": "v14-5e8023b937f0"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-072",
+    "before": "Mattre, agirlfrom",
+    "after": "Maître, a girl from",
+    "reason": "The repeatedly used honorific Maître has î misread as tt, followed by two missing spaces.",
+    "confidence": "high",
+    "id": "v14-0585ed32321d"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-078",
+    "before": "anyone who’might",
+    "after": "anyone who might",
+    "reason": "Stray apostrophe in an ordinary relative clause.",
+    "confidence": "high",
+    "id": "v14-044d7149de26"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-078",
+    "before": "nthhand",
+    "after": "nth-hand",
+    "reason": "Lost hyphen in nth-hand; the surrounding clause contrasts thirdhand with increasingly remote reports.",
+    "confidence": "probable",
+    "id": "v14-544e5be53482"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-095",
+    "before": "com- mandant",
+    "after": "commandant",
+    "reason": "Residual line-end hyphen and space split commandant.",
+    "confidence": "high",
+    "id": "v14-f19af833a9b3"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-180",
+    "before": "rop.es",
+    "after": "ropes",
+    "reason": "Stray OCR period within ropes.",
+    "confidence": "high",
+    "id": "v14-706eafb84a50"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-181",
+    "before": "skin back then- thick lips",
+    "after": "skin back their thick lips",
+    "reason": "Possessive their misread as then-; the mules draw back their lips.",
+    "confidence": "high",
+    "id": "v14-db8ada4651af"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-187",
+    "before": "ever seen He ij. better",
+    "after": "ever seen. He is better",
+    "reason": "Missing sentence stop after seen, then s misread as j plus an intrusive period.",
+    "confidence": "high",
+    "id": "v14-3cdba0e313fb"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-193",
+    "before": "stole- eggs",
+    "after": "stole eggs",
+    "reason": "Extraneous hyphen between verb and object.",
+    "confidence": "high",
+    "id": "v14-086845f19f31"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-207",
+    "before": "the.tape",
+    "after": "the tape",
+    "reason": "Stray OCR period replaces a space.",
+    "confidence": "high",
+    "id": "v14-4cb328dbc822"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-212",
+    "before": "Annese“temple”",
+    "after": "Annese “temple”",
+    "reason": "Missing space before the quoted noun.",
+    "confidence": "high",
+    "id": "v14-308c6911195f"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-242",
+    "before": "DON“T KNOW.",
+    "after": "DON’T KNOW.",
+    "reason": "Opening double quote misread for the apostrophe in DON’T.",
+    "confidence": "high",
+    "id": "v14-84db741b1599"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-289",
+    "before": "pocjcets",
+    "after": "pockets",
+    "reason": "Malformed OCR letter group inside pockets; patting pockets is the stated action.",
+    "confidence": "high",
+    "id": "v14-011bcb40365c"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-327",
+    "before": "probabities",
+    "after": "probabilities",
+    "reason": "Dropped ili in probabilities.",
+    "confidence": "high",
+    "id": "v14-9d0e955a26c1"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-359",
+    "before": "undrmkable",
+    "after": "undrinkable",
+    "reason": "in misread as m inside undrinkable.",
+    "confidence": "high",
+    "id": "v14-ac04a8c800b1"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-393",
+    "before": "three good- sized specimen",
+    "after": "three good-sized specimens",
+    "reason": "Residual hyphen spacing, and lost plural s after the explicit count three.",
+    "confidence": "probable",
+    "id": "v14-1e847fb6d4da"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-411",
+    "before": "certainly .intelligently",
+    "after": "certainly intelligently",
+    "reason": "Stray period between adverb and modified word.",
+    "confidence": "high",
+    "id": "v14-982f52909928"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-412",
+    "before": "sketclwnap",
+    "after": "sketch-map",
+    "reason": "OCR confuses h and m with lw/n in the compound describing the plotted positions.",
+    "confidence": "probable",
+    "id": "v14-b10c010347a7"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-433",
+    "before": "musclesof",
+    "after": "muscles of",
+    "reason": "Missing word space.",
+    "confidence": "high",
+    "id": "v14-5724139c945e"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-433",
+    "before": "wayshe walked andheldher hands",
+    "after": "way she walked and held her hands",
+    "reason": "Three missing word spaces.",
+    "confidence": "high",
+    "id": "v14-ea57b0eb88da"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-440",
+    "before": "Doctor? Tn the back",
+    "after": "Doctor? In the back",
+    "reason": "Capital I misread as T at the beginning of a sentence.",
+    "confidence": "high",
+    "id": "v14-da1bdae4e86d"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-448",
+    "before": "slender amd",
+    "after": "slender and",
+    "reason": "n misread as m in and.",
+    "confidence": "high",
+    "id": "v14-58a1d871e75e"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-558",
+    "before": "asked,” What’s",
+    "after": "asked, “What’s",
+    "reason": "Opening double quotation is reversed and misplaced before the space.",
+    "confidence": "high",
+    "id": "v14-5441580f1148"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-562",
+    "before": "DrMarsch",
+    "after": "Dr Marsch",
+    "reason": "Missing space between title and surname; Dr Marsch is the edition’s prevailing form.",
+    "confidence": "high",
+    "id": "v14-fc375e9e2986"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-782",
+    "before": "seemslike",
+    "after": "seems like",
+    "reason": "Missing word boundary between verb and preposition.",
+    "confidence": "high",
+    "id": "v14-9c142c55c02f"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-821",
+    "before": "thejr children",
+    "after": "their children",
+    "reason": "i misread as j in possessive their.",
+    "confidence": "high",
+    "id": "v14-061fc38287dd"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-823",
+    "before": "the femal pelvis",
+    "after": "the female pelvis",
+    "reason": "Missing final e in female.",
+    "confidence": "high",
+    "id": "v14-4137c0b3bb4a"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-824",
+    "before": "herself .of",
+    "after": "herself of",
+    "reason": "Stray period before the preposition.",
+    "confidence": "high",
+    "id": "v14-e0f17b71a806"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-824",
+    "before": "dis- robes her",
+    "after": "disrobes her",
+    "reason": "Residual line-end hyphen and space inside disrobes.",
+    "confidence": "high",
+    "id": "v14-f9a2196b4d8f"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-864",
+    "before": "I thought, theiy that",
+    "after": "I thought, then, that",
+    "reason": "OCR merges n and a comma into iy in the parenthetical then.",
+    "confidence": "probable",
+    "id": "v14-1dad55960ec4"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-885",
+    "before": "Wfiere the mule’s",
+    "after": "Where the mule’s",
+    "reason": "h misread as fi at a sentence opening.",
+    "confidence": "high",
+    "id": "v14-c94fb8b33b80"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-895",
+    "before": "them .questions",
+    "after": "them questions",
+    "reason": "Stray period between indirect object and direct object.",
+    "confidence": "high",
+    "id": "v14-55deb57e51fd"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-913",
+    "before": "everything Is false",
+    "after": "everything is false",
+    "reason": "Spurious mid-sentence capitalization of is.",
+    "confidence": "high",
+    "id": "v14-407bd96ccec8"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-913",
+    "before": "the iong dreaming days",
+    "after": "the long dreaming days",
+    "reason": "Lowercase l misread as i in long.",
+    "confidence": "high",
+    "id": "v14-b645d9d18231"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-922",
+    "before": "or fHe lodginghouse",
+    "after": "or the lodginghouse",
+    "reason": "Malformed t/h OCR in the definite article.",
+    "confidence": "high",
+    "id": "v14-864b53d1324f"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-940",
+    "before": "but just to feel it",
+    "after": "but just to feel it.",
+    "reason": "Missing sentence stop before the source section break.",
+    "confidence": "probable",
+    "id": "v14-f22a80e3b803"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-945",
+    "before": "they w,ere closing",
+    "after": "they were closing",
+    "reason": "Stray comma within were.",
+    "confidence": "high",
+    "id": "v14-07be8ca9022c"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-955",
+    "before": "Thecat I killed",
+    "after": "The cat I killed",
+    "reason": "Missing space between article and noun.",
+    "confidence": "high",
+    "id": "v14-c81785283b70"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-957",
+    "before": "since -he died",
+    "after": "since he died",
+    "reason": "Extraneous hyphen before he.",
+    "confidence": "high",
+    "id": "v14-df1a5fed21c3"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-958",
+    "before": "Annese.of",
+    "after": "Annese of",
+    "reason": "Stray period replaces a word space.",
+    "confidence": "high",
+    "id": "v14-dd4560ba5f82"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-963",
+    "before": "Soon., though",
+    "after": "Soon, though",
+    "reason": "Redundant stop before the comma.",
+    "confidence": "high",
+    "id": "v14-d03a9c0aeee4"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-970",
+    "before": "Porr-Mimizon",
+    "after": "Port-Mimizon",
+    "reason": "Final t in Port misread as r; the same city is named consistently elsewhere.",
+    "confidence": "high",
+    "id": "v14-0ce5359ba11e"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-988",
+    "before": "“You may go.",
+    "after": "“You may go.”",
+    "reason": "Missing closing quotation at the end of a self-contained order; the next paragraph opens a new utterance.",
+    "confidence": "high",
+    "id": "v14-88277d0414e6"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-989",
+    "before": "Port-Mimizan",
+    "after": "Port-Mimizon",
+    "reason": "Isolated vowel mismatch in the same named destination, spelled Port-Mimizon in the immediate reply and throughout.",
+    "confidence": "probable",
+    "id": "v14-b1d5a691d39f"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-990",
+    "before": "Slpugh Desmond",
+    "after": "Slough Desmond",
+    "reason": "p misread for o in the vessel name; Slpugh has no plausible reading.",
+    "confidence": "probable",
+    "id": "v14-ead217f5eb0a"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-1000",
+    "before": "Citadei,",
+    "after": "Citadel,",
+    "reason": "Final l misread as i in the address.",
+    "confidence": "high",
+    "id": "v14-e37a0cfc81a0"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-1004",
+    "before": "continue yout efforts",
+    "after": "continue your efforts",
+    "reason": "Final r misread as t in your.",
+    "confidence": "high",
+    "id": "v14-3d1922133b65"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-1013",
+    "before": "dropped it ffttt the window",
+    "after": "dropped it out the window",
+    "reason": "Garbled OCR word; out completes the locally unambiguous action of dropping the tape into the flower bed.",
+    "confidence": "probable",
+    "id": "v14-01b343c0a62b"
+  },
+  {
+    "book": "all-the-hues-of-hell",
+    "chapter": "story",
+    "paragraph": "p-005",
+    "before": "Isn��t",
+    "after": "Isn’t",
+    "reason": "Two replacement characters corrupt the apostrophe in the negative contraction. Present in supplied EPUB.",
+    "id": "v14-4e686298dd0f"
+  },
+  {
+    "book": "all-the-hues-of-hell",
+    "chapter": "story",
+    "paragraph": "p-032",
+    "before": "JANSEN l’S",
+    "after": "JANSEN 1’S",
+    "reason": "OCR lower-case l for numeral 1; the same numbered JANSEN 1 and JANSEN 2 identifiers are explicit at p-041 and p-045.",
+    "id": "v14-6ee510e8acf1"
+  },
+  {
+    "book": "all-the-hues-of-hell",
+    "chapter": "story",
+    "paragraph": "p-035",
+    "before": "color gradiations",
+    "after": "color gradations",
+    "reason": "Probable source misspelling of gradations, the successive shades assigned to measurement data.",
+    "id": "v14-6bca228d389e"
+  },
+  {
+    "book": "eyebem",
+    "chapter": "story",
+    "paragraph": "p-048",
+    "before": "colds-hortness",
+    "after": "cold-shortness",
+    "reason": "Misplaced hyphen splits shortness after its first letter; cold-shortness is the brittleness explicitly defined immediately afterward.",
+    "id": "v14-9cd116f059b2"
+  },
+  {
+    "book": "house-of-ancestors",
+    "chapter": "story",
+    "paragraph": "p-049",
+    "before": "everybody’ d",
+    "after": "everybody’d",
+    "reason": "Extraneous internal space splits the contraction everybody would.",
+    "id": "v14-25b372da90f6"
+  },
+  {
+    "book": "in-the-house-of-gingerbread",
+    "chapter": "story",
+    "paragraph": "p-155",
+    "before": "forgotton",
+    "after": "forgotten",
+    "reason": "Clear source misspelling; forgotten is correctly spelled later in this same sentence.",
+    "id": "v14-7a3c1996a95c"
+  },
+  {
+    "book": "the-last-thrilling-wonder-story",
+    "chapter": "story",
+    "paragraph": "p-019",
+    "before": "“Sirl”",
+    "after": "“Sir!”",
+    "reason": "OCR lowercase l for exclamation mark in an exclamation addressed to the writer.",
+    "id": "v14-b822f8334891"
+  },
+  {
+    "book": "the-map",
+    "chapter": "story",
+    "paragraph": "p-148",
+    "before": "orichalk hell lock",
+    "after": "orichalk he’ll lock",
+    "reason": "Missing apostrophe in he will; the sentence describes a goldsmith who will lock money in his strongroom.",
+    "id": "v14-4c3c0ef94412"
+  },
+  {
+    "book": "the-other-dead-man",
+    "chapter": "story",
+    "paragraph": "p-237",
+    "before": "what they. call",
+    "after": "what they call",
+    "reason": "Spurious period interrupts the subject and verb inside a single clause.",
+    "id": "v14-24e4d7fd4f89"
+  },
+  {
+    "book": "procreation",
+    "chapter": "story",
+    "paragraph": "p-015",
+    "before": "amounts��parity",
+    "after": "amounts—parity",
+    "reason": "Two replacement characters corrupt the dash introducing the explanatory clause; surrounding sentence already uses an aside to discuss parity.",
+    "id": "v14-34ea3fff743d"
+  },
+  {
+    "book": "silhouette",
+    "chapter": "story",
+    "paragraph": "p-270",
+    "before": "Reponse",
+    "after": "Response",
+    "reason": "Missing s in the repeated computer-output label Response; nearby p-272 etc. supply the correct spelling.",
+    "id": "v14-84769a785efa"
+  },
+  {
+    "book": "silhouette",
+    "chapter": "story",
+    "paragraph": "p-367",
+    "before": "“’Lying",
+    "after": "“‘Lying",
+    "reason": "A nested quotation begins with a closing single quote rather than an opening single quote; its matching closing single quote is retained.",
+    "id": "v14-c2edfad2c114"
+  },
+  {
+    "book": "silhouette",
+    "chapter": "story",
+    "paragraph": "p-586",
+    "before": "tegs..“",
+    "after": "legs. “",
+    "reason": "OCR t for l in legs, followed by a duplicated period and lost word-space before the next quotation. Context explicitly describes the welts on his legs.",
+    "id": "v14-17a58ec1b0a7"
+  },
+  {
+    "book": "the-tale-of-the-rose-and-the-nightingale-and-what-came-of-it",
+    "chapter": "story",
+    "paragraph": "p-178",
+    "before": "“No, nol”",
+    "after": "“No, no!”",
+    "reason": "OCR lowercase l for exclamation mark in a repeated negative protest.",
+    "id": "v14-a434f8f46bec"
+  },
+  {
+    "book": "thag",
+    "chapter": "story",
+    "paragraph": "p-005",
+    "before": "men-atarms",
+    "after": "men-at-arms",
+    "reason": "Dropped second hyphen in the established compound men-at-arms.",
+    "id": "v14-3bc72eb773d5"
+  },
+  {
+    "book": "the-woman-who-loved-the-centaur-pholus",
+    "chapter": "story",
+    "paragraph": "p-019",
+    "before": "Will thou yet take all",
+    "after": "Wilt thou yet take all",
+    "reason": "Probable OCR l for t in the quotation from Swinburne’s Hymn to Proserpine. Verified against https://www.gutenberg.org/files/35402/35402-h/35402-h.htm and https://victorianweb.org/authors/swinburne/hymn.html; source EPUB itself has Will.",
+    "id": "v14-00d01afd53ed"
+  },
+  {
+    "book": "the-death-of-hyle",
+    "chapter": "story",
+    "paragraph": "p-035",
+    "before": "gold —were",
+    "after": "gold—were",
+    "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+    "id": "v14-942d5340c23c"
+  },
+  {
+    "book": "from-the-notebook-of-dr-stein",
+    "chapter": "story",
+    "paragraph": "p-007",
+    "before": "woman —is",
+    "after": "woman—is",
+    "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+    "id": "v14-428e10c844bf"
+  },
+  {
+    "book": "from-the-notebook-of-dr-stein",
+    "chapter": "story",
+    "paragraph": "p-048",
+    "before": "electrodes —to",
+    "after": "electrodes—to",
+    "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+    "id": "v14-0f28f88a311d"
+  },
+  {
+    "book": "the-nebraskan-and-the-nereid",
+    "chapter": "story",
+    "paragraph": "p-003",
+    "before": "Pacific —and",
+    "after": "Pacific—and",
+    "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+    "id": "v14-77d476bbb3f7"
+  },
+  {
+    "book": "peritonitis",
+    "chapter": "story",
+    "paragraph": "p-018",
+    "before": "shameless —of",
+    "after": "shameless—of",
+    "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+    "id": "v14-17e8933b8a82"
+  },
+  {
+    "book": "silhouette",
+    "chapter": "story",
+    "paragraph": "p-178",
+    "before": "language —freedom—the",
+    "after": "language—freedom—the",
+    "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+    "id": "v14-f5fe58adcc4a"
+  },
+  {
+    "book": "silhouette",
+    "chapter": "story",
+    "paragraph": "p-288",
+    "before": "ship —into",
+    "after": "ship—into",
+    "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+    "id": "v14-0a069e201e7b"
+  },
+  {
+    "book": "silhouette",
+    "chapter": "story",
+    "paragraph": "p-464",
+    "before": "parted —perhaps",
+    "after": "parted—perhaps",
+    "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+    "id": "v14-8d2b15d63244"
+  },
+  {
+    "book": "silhouette",
+    "chapter": "story",
+    "paragraph": "p-510",
+    "before": "apparatus —not",
+    "after": "apparatus—not",
+    "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+    "id": "v14-98994ecb0e09"
+  },
+  {
+    "book": "silhouette",
+    "chapter": "story",
+    "paragraph": "p-554",
+    "before": "marines —by",
+    "after": "marines—by",
+    "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+    "id": "v14-3206e7bb15c2"
+  },
+  {
+    "book": "suzanne-delage",
+    "chapter": "story",
+    "paragraph": "p-015",
+    "before": "her —but",
+    "after": "her—but",
+    "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+    "id": "v14-aa4a580f821b"
+  },
+  {
+    "book": "the-tale-of-the-rose-and-the-nightingale-and-what-came-of-it",
+    "chapter": "story",
+    "paragraph": "p-215",
+    "before": "emptiness —dark—dampness—and",
+    "after": "emptiness—dark—dampness—and",
+    "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+    "id": "v14-4f6e18de5486"
+  },
+  {
+    "book": "the-tale-of-the-rose-and-the-nightingale-and-what-came-of-it",
+    "chapter": "story",
+    "paragraph": "p-233",
+    "before": "still —darker",
+    "after": "still—darker",
+    "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+    "id": "v14-e432f7c3c3d7"
+  },
+  {
+    "book": "thag",
+    "chapter": "story",
+    "paragraph": "p-002",
+    "before": "him —again—about",
+    "after": "him—again—about",
+    "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+    "id": "v14-7de12732d201"
+  },
+  {
+    "book": "when-i-was-ming-the-merciless",
+    "chapter": "story",
+    "paragraph": "p-020",
+    "before": "much —do",
+    "after": "much—do",
+    "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+    "id": "v14-25943c9abaa0"
+  },
+  {
+    "book": "the-woman-the-unicorn-loved",
+    "chapter": "story",
+    "paragraph": "p-014",
+    "before": "in —well,",
+    "after": "in—well,",
+    "reason": "Stray one-sided space before an em dash; close up the dash to match its paired dash and the prevailing typography. No wording changes.",
+    "id": "v14-32ffba1ba7fb"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-07",
+    "paragraph": "p-015",
+    "before": "still- ness",
+    "after": "stillness",
+    "reason": "Remove clear line-break/OCR damage or accidental duplicated text.",
+    "id": "v14-3c0ebe3c66d1"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-07",
+    "paragraph": "p-022",
+    "before": "de- liberately",
+    "after": "deliberately",
+    "reason": "Remove clear line-break/OCR damage or accidental duplicated text.",
+    "id": "v14-11f9ec1a85db"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-07",
+    "paragraph": "p-029",
+    "before": "steers- man",
+    "after": "steersman",
+    "reason": "Remove clear line-break/OCR damage or accidental duplicated text.",
+    "id": "v14-7622ca9fce04"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-07",
+    "paragraph": "p-117",
+    "before": "Sea- wrack",
+    "after": "Seawrack",
+    "reason": "Remove clear line-break/OCR damage or accidental duplicated text.",
+    "id": "v14-5100fbfd9a9f"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-11",
+    "paragraph": "p-066",
+    "before": "sing- ing",
+    "after": "singing",
+    "reason": "Remove clear line-break/OCR damage or accidental duplicated text.",
+    "id": "v14-61896fbff0ef"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-11",
+    "paragraph": "p-130",
+    "before": "con- versed",
+    "after": "conversed",
+    "reason": "Remove clear line-break/OCR damage or accidental duplicated text.",
+    "id": "v14-f3c4f19176af"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-11",
+    "paragraph": "p-147",
+    "before": "nod- ded",
+    "after": "nodded",
+    "reason": "Remove clear line-break/OCR damage or accidental duplicated text.",
+    "id": "v14-3af6cd0df553"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-11",
+    "paragraph": "p-162",
+    "before": "be- ing",
+    "after": "being",
+    "reason": "Remove clear line-break/OCR damage or accidental duplicated text.",
+    "id": "v14-e6786b1ace89"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-10",
+    "paragraph": "p-021",
+    "before": "ť",
+    "after": "”",
+    "reason": "Remove clear line-break/OCR damage or accidental duplicated text.",
+    "id": "v14-505a027ce269"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-10",
+    "paragraph": "p-241",
+    "before": "al- though",
+    "after": "although",
+    "reason": "Remove clear line-break/OCR damage or accidental duplicated text.",
+    "id": "v14-5dfdb602e143"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "return-06",
+    "paragraph": "p-385",
+    "before": "way way",
+    "after": "way",
+    "reason": "Remove clear line-break/OCR damage or accidental duplicated text.",
+    "id": "v14-f467624953b5"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-241",
+    "before": "boy- hood",
+    "after": "boyhood",
+    "reason": "Remove clear line-break/OCR damage or accidental duplicated text.",
+    "id": "v14-e53d88bb86f0"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-15",
+    "paragraph": "p-004",
+    "before": "some- where",
+    "after": "somewhere",
+    "reason": "Remove clear line-break/OCR damage or accidental duplicated text.",
+    "id": "v14-dd720caa040f"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "green-21",
+    "paragraph": "p-007",
+    "before": "and and",
+    "after": "and",
+    "reason": "Remove clear line-break/OCR damage or accidental duplicated text.",
+    "id": "v14-2a6bb0c2528c"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "return-14",
+    "paragraph": "p-051",
+    "before": "they they",
+    "after": "they",
+    "reason": "Remove clear line-break/OCR damage or accidental duplicated text.",
+    "id": "v14-4e199525171c"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "return-05",
+    "paragraph": "p-112",
+    "before": ",?",
+    "after": "?",
+    "reason": "Remove clear line-break/OCR damage or accidental duplicated text.",
+    "id": "v14-b5a18bd948c8"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-09",
+    "paragraph": "p-007",
+    "before": "scatter- ing",
+    "after": "scattering",
+    "reason": "Remove clear line-break/OCR damage or accidental duplicated text.",
+    "id": "v14-26cad2712efd"
+  },
+  {
+    "book": "bed-and-breakfast",
+    "chapter": "story",
+    "paragraph": "p-001",
+    "before": "Iknow",
+    "after": "I know",
+    "reason": "Missing word space after isolated EPUB drop-cap I; ordinary opening sentence.",
+    "id": "v14-aeac1956fe1a"
+  },
+  {
+    "book": "bed-and-breakfast",
+    "chapter": "story",
+    "paragraph": "p-164",
+    "before": "Istarted",
+    "after": "I started",
+    "reason": "Missing word space after isolated EPUB drop-cap I at a scene opening.",
+    "id": "v14-f7b78a6eaf6b"
+  },
+  {
+    "book": "the-death-of-dr-island",
+    "chapter": "story",
+    "paragraph": "p-010",
+    "before": "Agrain",
+    "after": "A grain",
+    "reason": "Missing word space after isolated EPUB drop-cap A; narrative opening.",
+    "id": "v14-fcef6f2f841e"
+  },
+  {
+    "book": "the-tree-is-my-hat",
+    "chapter": "story",
+    "paragraph": "p-061",
+    "before": "T his",
+    "after": "This",
+    "reason": "Spurious space between drop-cap T and italicized remainder of This. Preserve Bad, the established abbreviation of Baden.",
+    "id": "v14-0b9531af2f3b"
+  },
+  {
+    "book": "beech-hill",
+    "chapter": "story",
+    "paragraph": "p-001",
+    "before": "Bubba goes off",
+    "after": "“Bubba goes off",
+    "reason": "Missing opening quotation mark before direct speech, with closing mark and dialogue attribution present. Present in EPUB, including several drop-cap openings. Preserve speech grammar.",
+    "id": "v14-4bc66400c2ca"
+  },
+  {
+    "book": "the-death-of-dr-island",
+    "chapter": "story",
+    "paragraph": "p-571",
+    "before": "Don’t go farther,”",
+    "after": "“Don’t go farther,”",
+    "reason": "Missing opening quotation mark before direct speech, with closing mark and dialogue attribution present. Present in EPUB, including several drop-cap openings. Preserve speech grammar.",
+    "id": "v14-71ed553d14d8"
+  },
+  {
+    "book": "the-hero-as-werwolf",
+    "chapter": "story",
+    "paragraph": "p-063",
+    "before": "There has been quite a few",
+    "after": "“There has been quite a few",
+    "reason": "Missing opening quotation mark before direct speech, with closing mark and dialogue attribution present. Present in EPUB, including several drop-cap openings. Preserve speech grammar.",
+    "id": "v14-b505b1c71594"
+  },
+  {
+    "book": "the-marvelous-brass-chessplaying-automaton",
+    "chapter": "story",
+    "paragraph": "p-129",
+    "before": "But,” the professor",
+    "after": "“But,” the professor",
+    "reason": "Missing opening quotation mark before direct speech, with closing mark and dialogue attribution present. Present in EPUB, including several drop-cap openings. Preserve speech grammar.",
+    "id": "v14-d57d848f87ab"
+  },
+  {
+    "book": "westwind",
+    "chapter": "story",
+    "paragraph": "p-037",
+    "before": "I have a little money,”",
+    "after": "“I have a little money,”",
+    "reason": "Missing opening quotation mark before direct speech, with closing mark and dialogue attribution present. Present in EPUB, including several drop-cap openings. Preserve speech grammar.",
+    "id": "v14-62b27c282b9b"
+  },
+  {
+    "book": "the-death-of-dr-island",
+    "chapter": "story",
+    "paragraph": "p-142",
+    "before": "What else would you call us?",
+    "after": "“What else would you call us?",
+    "reason": "The preceding paragraph begins a speech continued in this paragraph, which closes that speech. Restore the opening continuation quotation mark while retaining source paragraph boundaries.",
+    "id": "v14-fc2a5c112fde"
+  },
+  {
+    "book": "the-death-of-dr-island",
+    "chapter": "story",
+    "paragraph": "p-226",
+    "before": "This is what mankind has always wanted.”",
+    "after": "“This is what mankind has always wanted.”",
+    "reason": "The preceding paragraph begins a speech continued in this paragraph, which closes that speech. Restore the opening continuation quotation mark while retaining source paragraph boundaries.",
+    "id": "v14-2b4c617e3e92"
+  },
+  {
+    "book": "the-death-of-dr-island",
+    "chapter": "story",
+    "paragraph": "p-315",
+    "before": "They showed it to me—I just sat there",
+    "after": "“They showed it to me—I just sat there",
+    "reason": "The preceding paragraph begins a speech continued in this paragraph, which closes that speech. Restore the opening continuation quotation mark while retaining source paragraph boundaries.",
+    "id": "v14-593ad4132865"
+  },
+  {
+    "book": "the-death-of-dr-island",
+    "chapter": "story",
+    "paragraph": "p-688",
+    "before": "” “It will soon be dark",
+    "after": "“It will soon be dark",
+    "reason": "Extraneous closing quotation mark before the next speaker; preceding p-687 already closes its speech.",
+    "id": "v14-d753ba63d725"
+  },
+  {
+    "book": "the-death-of-dr-island",
+    "chapter": "story",
+    "paragraph": "p-674",
+    "before": "anxities",
+    "after": "anxieties",
+    "reason": "Clear dropped-e spelling error in ordinary psychological description.",
+    "id": "v14-09a4eaee0bd1"
+  },
+  {
+    "book": "the-death-of-dr-island",
+    "chapter": "story",
+    "paragraph": "p-489",
+    "before": "betterthan-average",
+    "after": "better-than-average",
+    "reason": "Lost first hyphen in the compound adjective better-than-average.",
+    "id": "v14-1b5008ea9cc0"
+  },
+  {
+    "book": "forlesen",
+    "chapter": "story",
+    "paragraph": "p-203",
+    "before": "Lastnight",
+    "after": "Last night",
+    "reason": "Fused ordinary temporal phrase in a telephone conversation, unrelated to invented time units elsewhere.",
+    "id": "v14-3c6226e2552b"
+  },
+  {
+    "book": "forlesen",
+    "chapter": "author-note",
+    "paragraph": "p-002",
+    "before": "this world recons things",
+    "after": "this world reckons things",
+    "reason": "Probable source misspelling of reckons in the author’s ordinary prose about counting working days.",
+    "id": "v14-7a8f25481d6e"
+  },
+  {
+    "book": "the-recording",
+    "chapter": "story",
+    "paragraph": "p-008",
+    "before": "pom-pommned",
+    "after": "pom-pommed",
+    "reason": "Extra n corrupts pom-pommed, describing the pom-pom on a French sailor’s cap.",
+    "id": "v14-7a797a5858e7"
+  },
+  {
+    "book": "the-boy-who-hooked-the-sun",
+    "chapter": "story",
+    "paragraph": "p-011",
+    "before": "alexanderites",
+    "after": "alexandrites",
+    "reason": "Probable misspelling of the gemstone alexandrite among agates, moonstones, rubies, and sapphires. Verified standard gemstone spelling with GIA: https://www.gia.edu/alexandrite .",
+    "id": "v14-f175d4c0fbe3"
+  },
+  {
+    "book": "the-marvelous-brass-chessplaying-automaton",
+    "chapter": "story",
+    "paragraph": "p-182",
+    "before": "Dr. Eckhardt",
+    "after": "Dr. Eckardt",
+    "reason": "Isolated inconsistent spelling of the same doctor; all 16 other references use Eckardt.",
+    "id": "v14-ee3af7a21c85"
+  },
+  {
+    "book": "hour-of-trust",
+    "chapter": "story",
+    "paragraph": "p-244",
+    "before": "could not longer encompass",
+    "after": "could no longer encompass",
+    "reason": "Spurious t changes the standard no longer construction; neither grammar nor context supports not longer.",
+    "id": "v14-4fe2f65a906e"
+  },
+  {
+    "book": "game-in-the-popes-head",
+    "chapter": "story",
+    "paragraph": "p-059",
+    "before": "the the leaden",
+    "after": "the leaden",
+    "reason": "Accidentally duplicated article; the surrounding Leadenhall allusion remains intact.",
+    "id": "v14-d3fc2defb9e3"
+  },
+  {
+    "book": "game-in-the-popes-head",
+    "chapter": "story",
+    "paragraph": "p-005",
+    "before": "Look how yellow, the leaves are.",
+    "after": "Look how yellow the leaves are.",
+    "reason": "Stray comma separates predicative adjective from its subject within a single exclamatory clause.",
+    "id": "v14-bdaaa4b775f9"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "fifth-head",
+    "paragraph": "p-216",
+    "before": "He owned, most of the time, large sums",
+    "after": "He owed, most of the time, large sums",
+    "reason": "The sums are debts owed to lenders, not money owned; the separate supplied Fifth Head EPUB also reads owed.",
+    "id": "v14-2c7a162b3e2f"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "fifth-head",
+    "paragraph": "p-263",
+    "before": "misshappen",
+    "after": "misshapen",
+    "reason": "Ordinary misshapen is corroborated by the separate supplied Fifth Head EPUB.",
+    "id": "v14-feae4b1a2af5"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "fifth-head",
+    "paragraph": "p-265",
+    "before": "Départment",
+    "after": "Département",
+    "reason": "Dropped e in the French word département, correctly spelled in the address at p-175 of this reader.",
+    "id": "v14-03a60cf5528e"
+  },
+  {
+    "book": "and-when-they-appear",
+    "chapter": "story",
+    "paragraph": "p-005",
+    "before": "selflubricating",
+    "after": "self-lubricating",
+    "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+    "id": "v14-236fdbee853b"
+  },
+  {
+    "book": "death-of-the-island-doctor",
+    "chapter": "story",
+    "paragraph": "p-013",
+    "before": "airconditioning",
+    "after": "air-conditioning",
+    "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+    "id": "v14-8896bfef9c45"
+  },
+  {
+    "book": "the-eyeflash-miracles",
+    "chapter": "story",
+    "paragraph": "p-091",
+    "before": "Christmastree",
+    "after": "Christmas-tree",
+    "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+    "id": "v14-a81297a555ee"
+  },
+  {
+    "book": "forlesen",
+    "chapter": "story",
+    "paragraph": "p-169",
+    "before": "closecropped",
+    "after": "close-cropped",
+    "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+    "id": "v14-bc79f6ee0ab2"
+  },
+  {
+    "book": "seven-american-nights",
+    "chapter": "story",
+    "paragraph": "p-386",
+    "before": "halffull",
+    "after": "half-full",
+    "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+    "id": "v14-9709031f08e5"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "fifth-head",
+    "paragraph": "p-059",
+    "before": "hatchetfaced",
+    "after": "hatchet-faced",
+    "reason": "Probable lost hyphen fuses the two components of this ordinary compound. Corroborated by the separate supplied Fifth Head EPUB.",
+    "id": "v14-34fefa7cc603"
+  },
+  {
+    "book": "seven-american-nights",
+    "chapter": "story",
+    "paragraph": "p-310",
+    "before": "heavylooking",
+    "after": "heavy-looking",
+    "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+    "id": "v14-0100b7eca571"
+  },
+  {
+    "book": "the-death-of-dr-island",
+    "chapter": "story",
+    "paragraph": "p-014",
+    "before": "kneedeep",
+    "after": "knee-deep",
+    "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+    "id": "v14-a1c111294051"
+  },
+  {
+    "book": "the-island-of-doctor-death-and-other-stories",
+    "chapter": "story",
+    "paragraph": "p-109",
+    "before": "pitchdark",
+    "after": "pitch-dark",
+    "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+    "id": "v14-fae4d06df5d1"
+  },
+  {
+    "book": "the-toy-theater",
+    "chapter": "story",
+    "paragraph": "p-056",
+    "before": "secondbest",
+    "after": "second-best",
+    "reason": "Probable lost hyphen fuses the two components of this ordinary compound.",
+    "id": "v14-f5a57f20dc65"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-117",
+    "before": "rosescented",
+    "after": "rose-scented",
+    "reason": "Probable lost hyphen fuses the two components of this ordinary compound. The duplicate story in Endangered Species reads rose-scented.",
+    "id": "v14-55861817838a"
+  },
+  {
+    "book": "straw",
+    "chapter": "story",
+    "paragraph": "p-047",
+    "before": "pincermace",
+    "after": "pincer-mace",
+    "reason": "The same weapon is consistently pincer-mace at p-035 (twice); restore the lost hyphen here.",
+    "id": "v14-4a567b3c4d59"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-006",
+    "before": "D——told",
+    "after": "D—— told",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-aa616179cd42"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-019",
+    "before": "D——was",
+    "after": "D—— was",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-8ed1bfc88f32"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-029",
+    "before": "M——a",
+    "after": "M—— a",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-25cd9761554c"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-034",
+    "before": "A——herself",
+    "after": "A—— herself",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-e9e7b6be69fa"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-094",
+    "before": "R——was",
+    "after": "R—— was",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-4f1d2020d55a"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-094",
+    "before": "R——and",
+    "after": "R—— and",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-5b20978397d1"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-095",
+    "before": "R——was",
+    "after": "R—— was",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-060e5789d9e5"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-099",
+    "before": "H——has",
+    "after": "H—— has",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-83385efce2b7"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-101",
+    "before": "R——leaned",
+    "after": "R—— leaned",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-5ccead385fe3"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-107",
+    "before": "R——nodded",
+    "after": "R—— nodded",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-da4701fa3799"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-120",
+    "before": "R——paused",
+    "after": "R—— paused",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-0fe4b768b8cc"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-132",
+    "before": "R——rose",
+    "after": "R—— rose",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-10003ed68459"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-141",
+    "before": "R——drew",
+    "after": "R—— drew",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-310bb0d93ae2"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-145",
+    "before": "R——threw",
+    "after": "R—— threw",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-80a6d939650d"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-153",
+    "before": "R——that",
+    "after": "R—— that",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-d364150c6bde"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-154",
+    "before": "H——began",
+    "after": "H—— began",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-a8fbdd982334"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-161",
+    "before": "H——has",
+    "after": "H—— has",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-296c3b32204f"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-172",
+    "before": "H——calls",
+    "after": "H—— calls",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-da72d60d07c8"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-183",
+    "before": "R——might",
+    "after": "R—— might",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-c2896da4a02f"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-183",
+    "before": "A——would",
+    "after": "A—— would",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-3881232025f9"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-184",
+    "before": "V——fired",
+    "after": "V—— fired",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-93beaa3db658"
+  },
+  {
+    "book": "the-detective-of-dreams",
+    "chapter": "story",
+    "paragraph": "p-184",
+    "before": "I——walk",
+    "after": "I—— walk",
+    "reason": "Restore the missing space after a redacted proper name. The double dash replaces the remaining letters of the name and is not parenthetical punctuation; Endangered Species corroborates word separation.",
+    "id": "v14-e0e3d7532952"
+  },
+  {
+    "book": "hour-of-trust",
+    "chapter": "story",
+    "paragraph": "p-131",
+    "before": "nada has guaranteed— machine tools and electron",
+    "after": "nada has guaranteed—machine tools and electron",
+    "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+    "id": "v14-7eed28786487"
+  },
+  {
+    "book": "hour-of-trust",
+    "chapter": "story",
+    "paragraph": "p-152",
+    "before": "e can pay something— the companies have bankrol",
+    "after": "e can pay something—the companies have bankrol",
+    "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+    "id": "v14-0d7bbc696b9f"
+  },
+  {
+    "book": "hour-of-trust",
+    "chapter": "story",
+    "paragraph": "p-229",
+    "before": " “That’s up to them— whether I die or not. I do",
+    "after": " “That’s up to them—whether I die or not. I do",
+    "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+    "id": "v14-34bcb2b0fa65"
+  },
+  {
+    "book": "hour-of-trust",
+    "chapter": "story",
+    "paragraph": "p-229",
+    "before": "ard if they kill me— of course not. But somethi",
+    "after": "ard if they kill me—of course not. But somethi",
+    "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+    "id": "v14-b25ededf9d89"
+  },
+  {
+    "book": "hour-of-trust",
+    "chapter": "story",
+    "paragraph": "p-229",
+    "before": "hin and featherless— “we could do without.”",
+    "after": "hin and featherless—“we could do without.”",
+    "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+    "id": "v14-38b1c5e4ec2c"
+  },
+  {
+    "book": "hour-of-trust",
+    "chapter": "story",
+    "paragraph": "p-267",
+    "before": "t it was impossible— equally impossible to expl",
+    "after": "t it was impossible—equally impossible to expl",
+    "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+    "id": "v14-43f329d7a4cc"
+  },
+  {
+    "book": "hour-of-trust",
+    "chapter": "story",
+    "paragraph": "p-295",
+    "before": "out l’ancien régime— the winners are those who ",
+    "after": "out l’ancien régime—the winners are those who ",
+    "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+    "id": "v14-170f78aae719"
+  },
+  {
+    "book": "hour-of-trust",
+    "chapter": "story",
+    "paragraph": "p-363",
+    "before": "g else to shoot for— that’s something I didn’t ",
+    "after": "g else to shoot for—that’s something I didn’t ",
+    "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+    "id": "v14-04d461ccca9a"
+  },
+  {
+    "book": "hour-of-trust",
+    "chapter": "author-note",
+    "paragraph": "p-002",
+    "before": "wear, and plowed on— eventually throwing out ju",
+    "after": "wear, and plowed on—eventually throwing out ju",
+    "reason": "Remove stray post-em-dash spacing, matching the closed-em-dash typography used throughout the collection; retain the punctuation itself.",
+    "id": "v14-2aa4298fc6de"
+  },
+  {
+    "book": "the-death-of-dr-island",
+    "chapter": "story",
+    "paragraph": "p-007",
+    "before": "Where the green swell is in the heavens dumb",
+    "after": "Where the green swell is in the havens dumb",
+    "reason": "Probable extra e in the Hopkins epigraph: the original poem Heaven–Haven has havens, not heavens. Primary text: https://www.gutenberg.org/cache/epub/22403/pg22403-images.html .",
+    "id": "v14-d28150708c1c"
+  },
+  {
+    "book": "the-death-of-dr-island",
+    "chapter": "story",
+    "paragraph": "p-004",
+    "before": "And a few lilies blow",
+    "after": "And a few lilies blow.",
+    "reason": "Missing full stop at the end of the first stanza of the Hopkins epigraph. Primary text: https://www.gutenberg.org/cache/epub/22403/pg22403-images.html .",
+    "id": "v14-9a330ef1c722"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-036",
+    "before": "diat",
+    "after": "that",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-faa34bdac7f9"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-256",
+    "before": "littie",
+    "after": "little",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-7f368da000fe"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-02",
+    "paragraph": "p-014",
+    "before": "gready",
+    "after": "greatly",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-19fd0369661f"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-02",
+    "paragraph": "p-094",
+    "before": "rusding",
+    "after": "rustling",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-0eb6b4e077df"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-02",
+    "paragraph": "p-095",
+    "before": "rusding",
+    "after": "rustling",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-4d3570d3f7f6"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-04",
+    "paragraph": "p-133",
+    "before": "aig",
+    "after": "dig",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-18bbc5eb0e04"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-04",
+    "paragraph": "p-157",
+    "before": "ror",
+    "after": "for",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-d7074d5556b7"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-05",
+    "paragraph": "p-025",
+    "before": "insistcd",
+    "after": "insisted",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-a52405067bfe"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-10",
+    "paragraph": "p-088",
+    "before": "tiiis",
+    "after": "this",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-fc77661e4cc2"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-10",
+    "paragraph": "p-306",
+    "before": "sornpday",
+    "after": "someday",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-16106a4f5ec2"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-11",
+    "paragraph": "p-169",
+    "before": "noj",
+    "after": "not",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-2b3f24b2d5be"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-12",
+    "paragraph": "p-109",
+    "before": "sandlewood",
+    "after": "sandalwood",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-d6682667c404"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-12",
+    "paragraph": "p-125",
+    "before": "gende",
+    "after": "gentle",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-288c88cd9e7e"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-12",
+    "paragraph": "p-134",
+    "before": "diought",
+    "after": "thought",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-7a3c08d3e906"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-12",
+    "paragraph": "p-134",
+    "before": "eidier",
+    "after": "either",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-4336a3793536"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-13",
+    "paragraph": "p-119",
+    "before": "appreached",
+    "after": "approached",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-983acd34977d"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-13",
+    "paragraph": "p-252",
+    "before": "diat",
+    "after": "that",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-49d879f5e710"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-13",
+    "paragraph": "p-268",
+    "before": "exacdy",
+    "after": "exactly",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-82baccf0daf9"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-13",
+    "paragraph": "p-269",
+    "before": "wrestiing",
+    "after": "wrestling",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-949e565ca793"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-15",
+    "paragraph": "p-010",
+    "before": "diere",
+    "after": "there",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-b9f4c6eaac17"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-15",
+    "paragraph": "p-018",
+    "before": "mostiy",
+    "after": "mostly",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-11c5cef6bd19"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "green-13",
+    "paragraph": "p-203",
+    "before": "lieutentants",
+    "after": "lieutenants",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-f0c46e557cc9"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "return-06",
+    "paragraph": "p-151",
+    "before": "thousanth",
+    "after": "thousandth",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-014cbfd5796d"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "return-08",
+    "paragraph": "p-298",
+    "before": "slrylight",
+    "after": "skylight",
+    "reason": "Clear OCR or typographic misspelling in context; restore the ordinary word. Deliberate dialect forms were excluded.",
+    "id": "v14-3b16ffa4fcce"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-273",
+    "before": "^uilt",
+    "after": "built",
+    "reason": "Caret replaces the initial b in built together, with no mathematical or notational role.",
+    "id": "v14-258edaab146e"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-04",
+    "paragraph": "p-283",
+    "before": "thief s tracks",
+    "after": "thief’s tracks",
+    "reason": "Missing possessive apostrophe; retain the speaker’s unusual word order.",
+    "id": "v14-4bcfc92d7fe5"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-09",
+    "paragraph": "p-204",
+    "before": "a few |i days",
+    "after": "a few days",
+    "reason": "Extraneous OCR strokes between few and days.",
+    "id": "v14-d48e6d8f446b"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-09",
+    "paragraph": "p-206",
+    "before": "give him | their money",
+    "after": "give him their money",
+    "reason": "Extraneous vertical OCR stroke interrupts the object phrase.",
+    "id": "v14-032cfac58fec"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-09",
+    "paragraph": "p-206",
+    "before": "fees from, anyone",
+    "after": "fees from anyone",
+    "reason": "Spurious comma separates from and its object.",
+    "id": "v14-3fe0713fab0a"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-09",
+    "paragraph": "p-211",
+    "before": "the ring. |j|",
+    "after": "the ring.",
+    "reason": "Extraneous OCR strokes after the completed sentence.",
+    "id": "v14-296028f6b720"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-reference",
+    "paragraph": "p-076",
+    "before": "fig, a mercenary",
+    "after": "Pig, a mercenary",
+    "reason": "OCR corruption of the proper name Pig in the cast list; Pig is the mercenary named throughout Return to the Whorl. This is source apparatus, not an added annotation.",
+    "id": "v14-8647cef61c7d"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "citadel-12",
+    "paragraph": "p-053",
+    "before": "asked him..",
+    "after": "asked him.",
+    "reason": "Duplicated period at end of sentence, not an ellipsis.",
+    "id": "v14-0856488e711e"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "sword-06",
+    "paragraph": "p-009",
+    "before": "pitied her..",
+    "after": "pitied her.",
+    "reason": "Duplicated period at end of sentence, not an ellipsis.",
+    "id": "v14-36d6994fb151"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "claw-15",
+    "paragraph": "p-044",
+    "before": "friends on the outside. or politics",
+    "after": "friends on the outside, or politics",
+    "reason": "A period interrupts a coordinated list; replace it with a comma.",
+    "id": "v14-b07c0e6fd8a7"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "shadow-21",
+    "paragraph": "p-031",
+    "before": "much. authority",
+    "after": "much authority",
+    "reason": "Spurious period inside a noun phrase.",
+    "id": "v14-76fb9a498e09"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "shadow-28",
+    "paragraph": "p-015",
+    "before": "far. away",
+    "after": "far away",
+    "reason": "Spurious period splits the adverbial expression.",
+    "id": "v14-81880064403c"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "sword-22",
+    "paragraph": "p-046",
+    "before": "restore it. to them",
+    "after": "restore it to them",
+    "reason": "Spurious period separates the verb’s direct object and recipient.",
+    "id": "v14-3412ecc3d351"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "citadel-37",
+    "paragraph": "p-028",
+    "before": "somebody’ d",
+    "after": "somebody’d",
+    "reason": "An extraneous space splits the contraction somebody had.",
+    "id": "v14-e1574c0cc932"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "claw-24",
+    "paragraph": "p-330",
+    "before": "INQUISITOR’ s",
+    "after": "INQUISITOR’s",
+    "reason": "An extraneous space splits the possessive suffix in a stage direction; preserves existing suffix case.",
+    "id": "v14-e29e64de957a"
+  },
+  {
+    "book": "deaths-end",
+    "chapter": "section-60",
+    "paragraph": "p-048",
+    "before": "made of canvas. like the prince himself.",
+    "after": "made of canvas, like the prince himself.",
+    "reason": "A period incorrectly splits the comparative clause from its sentence; lowercase like and the comparison make a comma the clear reading.",
+    "id": "v14-c1b05616ee25"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-037",
+    "before": "abouttheir",
+    "after": "about their",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-616c7d50b366"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-238",
+    "before": "axoth",
+    "after": "azoth",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-616171597418"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-227",
+    "before": "maintained by citems",
+    "after": "maintained by chems",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-11a99af2569d"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-02",
+    "paragraph": "p-037",
+    "before": "clioose",
+    "after": "choose",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-34431910d8b7"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "exodus-10",
+    "paragraph": "p-268",
+    "before": "delared",
+    "after": "declared",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-c8184b4152cc"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "exodus-11",
+    "paragraph": "p-207",
+    "before": "cloud-dimned",
+    "after": "cloud-dimmed",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-10bad7d3c17c"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-032",
+    "before": "diree or four",
+    "after": "three or four",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-13381c5bf5d7"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "exodus-13",
+    "paragraph": "p-184",
+    "before": "verbal discription",
+    "after": "verbal description",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-03824d475525"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-01",
+    "paragraph": "p-121",
+    "before": "eveiyone",
+    "after": "everyone",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-8ed0ebcf6cda"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-04",
+    "paragraph": "p-039",
+    "before": "fbrthrightly",
+    "after": "forthrightly",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-3bb985847a1c"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-03",
+    "paragraph": "p-088",
+    "before": "sacrifice fhere",
+    "after": "sacrifice there",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-a102224e6c0e"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-03",
+    "paragraph": "p-187",
+    "before": "itwas",
+    "after": "it was",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-311b65a9a363"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-133",
+    "before": "stronger liere",
+    "after": "stronger here",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-aba5202e85ed"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-138",
+    "before": "I lioped",
+    "after": "I hoped",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-de237415cc77"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-183",
+    "before": "liowcver, could lie take off",
+    "after": "however, could he take off",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-6acb6fcf08f5"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-131",
+    "before": "Lemur lold them",
+    "after": "Lemur told them",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-aea320aa57cd"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-220",
+    "before": "manteicm",
+    "after": "manteion",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-10a6df9da5de"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-09",
+    "paragraph": "p-038",
+    "before": "notjust",
+    "after": "not just",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-3935fee03c4d"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-08",
+    "paragraph": "p-010",
+    "before": "recloscd",
+    "after": "reclosed",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-bee40a0ff664"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-074",
+    "before": "sidebum",
+    "after": "sideburn",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-cd60320284a8"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-06",
+    "paragraph": "p-208",
+    "before": "slirine ofScylla's",
+    "after": "shrine of Scylla's",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-91dfb4c362aa"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-011",
+    "before": "terribly sony",
+    "after": "terribly sorry",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-651b2ea9ffa2"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-11",
+    "paragraph": "p-191",
+    "before": "from tlie cot",
+    "after": "from the cot",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-2c29df7b64cf"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-11",
+    "paragraph": "p-228",
+    "before": "to be toyal",
+    "after": "to be loyal",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-db9037c05230"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-04",
+    "paragraph": "p-223",
+    "before": "tumbuckle",
+    "after": "turnbuckle",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-f4b88895c3f2"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-235",
+    "before": "ungovemed",
+    "after": "ungoverned",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-135947bd45d9"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-189",
+    "before": "witli us",
+    "after": "with us",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-1f3889e84a52"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-101",
+    "before": "wliat",
+    "after": "what",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-44a60f2b91b9"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-204",
+    "before": "wliispered",
+    "after": "whispered",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-7c2c7ecdadbe"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-178",
+    "before": "will.lolar",
+    "after": "will Iolar",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-7fc88befddeb"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-222",
+    "before": "lolar",
+    "after": "Iolar",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-f04b63447fb2"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-038",
+    "before": "poor lolar",
+    "after": "poor Iolar",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-46addd4f88fa"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-03",
+    "paragraph": "p-012",
+    "before": "quite sq private",
+    "after": "quite so private",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-0a8d817cfa8e"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-099",
+    "before": "recite them again for you new",
+    "after": "recite them again for you now",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-26ba31325482"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-05",
+    "paragraph": "p-209",
+    "before": "what lie's said to them",
+    "after": "what he's said to them",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-1278cdd21cc4"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-08",
+    "paragraph": "p-010",
+    "before": "Soon lie found",
+    "after": "Soon he found",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-12ab2e993f36"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-08",
+    "paragraph": "p-098",
+    "before": "familiar; lie stared",
+    "after": "familiar; he stared",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-57f862545d0c"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-10",
+    "paragraph": "p-098",
+    "before": "could not lie certain",
+    "after": "could not be certain",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-ccfc3e1103e9"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-03",
+    "paragraph": "p-117",
+    "before": "in a comer",
+    "after": "in a corner",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-9192f095203e"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-04",
+    "paragraph": "p-209",
+    "before": "to the comer",
+    "after": "to the corner",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-c740c7df216d"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-04",
+    "paragraph": "p-236",
+    "before": "the other comer",
+    "after": "the other corner",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-ed61130e2eea"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-07",
+    "paragraph": "p-178",
+    "before": "from the comer of one eye",
+    "after": "from the corner of one eye",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-5c5c2fbc4704"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-11",
+    "paragraph": "p-166",
+    "before": "with a comer of his robe",
+    "after": "with a corner of his robe",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-b4746849f248"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-080",
+    "before": "on every comer",
+    "after": "on every corner",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-71a19fb6ce1e"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-03",
+    "paragraph": "p-114",
+    "before": "in the comer:",
+    "after": "in the corner:",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-90ab5586bff8"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-10",
+    "paragraph": "p-086",
+    "before": "passed a comer up",
+    "after": "passed a corner up",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-ade620fc317d"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-06",
+    "paragraph": "p-046",
+    "before": "Maybe they don't bum.",
+    "after": "Maybe they don't burn.",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-c0e75e1486f6"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-08",
+    "paragraph": "p-154",
+    "before": "hot enough to bum up the bones",
+    "after": "hot enough to burn up the bones",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-8d984be376d4"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-03",
+    "paragraph": "p-176",
+    "before": "I was bom right here",
+    "after": "I was born right here",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-a76d67dbe487"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-073",
+    "before": "he was bom blind",
+    "after": "he was born blind",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-07c4d0c167ca"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-105",
+    "before": "One bom a biological man",
+    "after": "One born a biological man",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-c150743e8d53"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-118",
+    "before": "call nun the Outsider",
+    "after": "call him the Outsider",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-64b82855a642"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-09",
+    "paragraph": "p-138",
+    "before": "Crane told nun,",
+    "after": "Crane told him,",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-136d2c0d2a14"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-12",
+    "paragraph": "p-041",
+    "before": "wanted to murder nun;",
+    "after": "wanted to murder him;",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-f11a0188680a"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-02",
+    "paragraph": "p-086",
+    "before": "whorl in then-time-and",
+    "after": "whorl in their time-and",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-515ed62862ff"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-03",
+    "paragraph": "p-123",
+    "before": "all then- beauty",
+    "after": "all their beauty",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-bbf4b4415c9f"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-05",
+    "paragraph": "p-155",
+    "before": "Hy'sjust right",
+    "after": "Hy's just right",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-212ed5122de0"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-12",
+    "paragraph": "p-002",
+    "before": "You're lumping, I've seen you.",
+    "after": "You're limping, I've seen you.",
+    "reason": "OCR letter substitution; corrected word is unambiguous in context.",
+    "confidence": "high",
+    "id": "v14-203b83c56492"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "exodus-16",
+    "paragraph": "p-214",
+    "before": "portentious",
+    "after": "portentous",
+    "reason": "Probable misspelling or lost hyphen; standard spelling fits the sentence.",
+    "confidence": "probable",
+    "id": "v14-74d69aeafa59"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "calde-07",
+    "paragraph": "p-237",
+    "before": "proferred",
+    "after": "proffered",
+    "reason": "Probable misspelling or lost hyphen; standard spelling fits the sentence.",
+    "confidence": "probable",
+    "id": "v14-b64b26832d9d"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "calde-05",
+    "paragraph": "p-454",
+    "before": "selfdefense",
+    "after": "self-defense",
+    "reason": "Probable misspelling or lost hyphen; standard spelling fits the sentence.",
+    "confidence": "probable",
+    "id": "v14-7cb928cbbf2e"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-008",
+    "before": "re- member",
+    "after": "remember",
+    "reason": "Typesetting line-break hyphen has been retained inside a continuous word.",
+    "confidence": "high",
+    "id": "v14-78434f4ede42"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-097",
+    "before": "proba- bly",
+    "after": "probably",
+    "reason": "Typesetting line-break hyphen has been retained inside a continuous word.",
+    "confidence": "high",
+    "id": "v14-473acb287b75"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-209",
+    "before": "inn- keeper",
+    "after": "innkeeper",
+    "reason": "Typesetting line-break hyphen has been retained inside a continuous word.",
+    "confidence": "high",
+    "id": "v14-f4822da9c16b"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-228",
+    "before": "mante- ion",
+    "after": "manteion",
+    "reason": "Typesetting line-break hyphen has been retained inside a continuous word.",
+    "confidence": "high",
+    "id": "v14-dce8c8a0587a"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-249",
+    "before": "him- self",
+    "after": "himself",
+    "reason": "Typesetting line-break hyphen has been retained inside a continuous word.",
+    "confidence": "high",
+    "id": "v14-6f3d2335644f"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-09",
+    "paragraph": "p-225",
+    "before": "under- stood",
+    "after": "understood",
+    "reason": "Typesetting line-break hyphen has been retained inside a continuous word.",
+    "confidence": "high",
+    "id": "v14-963eb1f0afda"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-04",
+    "paragraph": "p-258",
+    "before": "under- ground",
+    "after": "underground",
+    "reason": "Typesetting line-break hyphen has been retained inside a continuous word.",
+    "confidence": "high",
+    "id": "v14-1037a59391f0"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-113",
+    "before": "forth- right",
+    "after": "forthright",
+    "reason": "Typesetting line-break hyphen has been retained inside a continuous word.",
+    "confidence": "high",
+    "id": "v14-311361803eae"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-224",
+    "before": "mo- mentarily",
+    "after": "momentarily",
+    "reason": "Typesetting line-break hyphen has been retained inside a continuous word.",
+    "confidence": "high",
+    "id": "v14-453736d12b4e"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-01",
+    "paragraph": "p-117",
+    "before": "some- times",
+    "after": "sometimes",
+    "reason": "Typesetting line-break hyphen has been retained inside a continuous word.",
+    "confidence": "high",
+    "id": "v14-074cd787580f"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-10",
+    "paragraph": "p-098",
+    "before": "keen- ing",
+    "after": "keening",
+    "reason": "Typesetting line-break hyphen has been retained inside a continuous word.",
+    "confidence": "high",
+    "id": "v14-3213472b29bf"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-10",
+    "paragraph": "p-100",
+    "before": "Squat- ting",
+    "after": "Squatting",
+    "reason": "Typesetting line-break hyphen has been retained inside a continuous word.",
+    "confidence": "high",
+    "id": "v14-444a0fdd581b"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-109",
+    "before": "re-ach",
+    "after": "reach",
+    "reason": "Typesetting line-break hyphen has been retained inside a continuous word.",
+    "confidence": "high",
+    "id": "v14-8ed86932f927"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-194",
+    "before": "theJuzgado",
+    "after": "the Juzgado",
+    "reason": "OCR has joined a function word to the following proper name.",
+    "confidence": "high",
+    "id": "v14-97c4bbe76a41"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-227",
+    "before": "theJuzgado",
+    "after": "the Juzgado",
+    "reason": "OCR has joined a function word to the following proper name.",
+    "confidence": "high",
+    "id": "v14-77bad803ad8f"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-05",
+    "paragraph": "p-204",
+    "before": "theJuzgado",
+    "after": "the Juzgado",
+    "reason": "OCR has joined a function word to the following proper name.",
+    "confidence": "high",
+    "id": "v14-1aedfdc52e5e"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-06",
+    "paragraph": "p-292",
+    "before": "theJuzgado",
+    "after": "the Juzgado",
+    "reason": "OCR has joined a function word to the following proper name.",
+    "confidence": "high",
+    "id": "v14-a7a3250cebe4"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-05",
+    "paragraph": "p-102",
+    "before": "ofSphigx",
+    "after": "of Sphigx",
+    "reason": "OCR has joined a function word to the following proper name.",
+    "confidence": "high",
+    "id": "v14-529b12376f2e"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-09",
+    "paragraph": "p-193",
+    "before": "ofPhaea",
+    "after": "of Phaea",
+    "reason": "OCR has joined a function word to the following proper name.",
+    "confidence": "high",
+    "id": "v14-d4cd497c6b1f"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-157",
+    "before": "ofViron",
+    "after": "of Viron",
+    "reason": "OCR has joined a function word to the following proper name.",
+    "confidence": "high",
+    "id": "v14-16037824d7e1"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "calde-04",
+    "paragraph": "p-148",
+    "before": "Viron peace:. Tell Loris",
+    "after": "Viron peace. Tell Loris",
+    "reason": "Locally unambiguous stray OCR punctuation or missing sentence stop.",
+    "confidence": "high",
+    "id": "v14-c1576d9239be"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-01",
+    "paragraph": "p-047",
+    "before": "get.close",
+    "after": "get close",
+    "reason": "Locally unambiguous stray OCR punctuation or missing sentence stop.",
+    "confidence": "high",
+    "id": "v14-9a65fefc8e9f"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-02",
+    "paragraph": "p-025",
+    "before": "He.opened",
+    "after": "He opened",
+    "reason": "Locally unambiguous stray OCR punctuation or missing sentence stop.",
+    "confidence": "high",
+    "id": "v14-ff53de64fd52"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-11",
+    "paragraph": "p-090",
+    "before": "thirty cubits,.yet",
+    "after": "thirty cubits, yet",
+    "reason": "Locally unambiguous stray OCR punctuation or missing sentence stop.",
+    "confidence": "high",
+    "id": "v14-ca704b136682"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-11",
+    "paragraph": "p-158",
+    "before": "It was.ten years",
+    "after": "It was ten years",
+    "reason": "Locally unambiguous stray OCR punctuation or missing sentence stop.",
+    "confidence": "high",
+    "id": "v14-e3d4e8204cc0"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-010",
+    "before": "cast them,, I",
+    "after": "cast them, I",
+    "reason": "Locally unambiguous stray OCR punctuation or missing sentence stop.",
+    "confidence": "high",
+    "id": "v14-84dac7383893"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-237",
+    "before": "Si.lk",
+    "after": "Silk",
+    "reason": "Locally unambiguous stray OCR punctuation or missing sentence stop.",
+    "confidence": "high",
+    "id": "v14-e5f4567abf0c"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-155",
+    "before": "Kypris,,who",
+    "after": "Kypris, who",
+    "reason": "Locally unambiguous stray OCR punctuation or missing sentence stop.",
+    "confidence": "high",
+    "id": "v14-2908851851eb"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-220",
+    "before": "people, too\\As many",
+    "after": "people, too. As many",
+    "reason": "Locally unambiguous stray OCR punctuation or missing sentence stop.",
+    "confidence": "high",
+    "id": "v14-1d9828b19543"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-254",
+    "before": "all these\\wrongs forgiven",
+    "after": "all these wrongs forgiven",
+    "reason": "Locally unambiguous stray OCR punctuation or missing sentence stop.",
+    "confidence": "high",
+    "id": "v14-486c72117db7"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-11",
+    "paragraph": "p-045",
+    "before": "that,,' if some were",
+    "after": "that, if some were",
+    "reason": "Locally unambiguous stray OCR punctuation or missing sentence stop.",
+    "confidence": "high",
+    "id": "v14-8e9f41e51153"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-12",
+    "paragraph": "p-180",
+    "before": "for example, or.,.",
+    "after": "for example, or…",
+    "reason": "Locally unambiguous stray OCR punctuation or missing sentence stop.",
+    "confidence": "high",
+    "id": "v14-dd9a4e3b802f"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-118",
+    "before": "could be correct Perhaps",
+    "after": "could be correct. Perhaps",
+    "reason": "Locally unambiguous stray OCR punctuation or missing sentence stop.",
+    "confidence": "high",
+    "id": "v14-2882debeee7f"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-10",
+    "paragraph": "p-107",
+    "before": "people who saw her do it But",
+    "after": "people who saw her do it. But",
+    "reason": "Locally unambiguous stray OCR punctuation or missing sentence stop.",
+    "confidence": "high",
+    "id": "v14-0c642b925f82"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-07",
+    "paragraph": "p-010",
+    "before": "Your Eminence- that: they had come",
+    "after": "Your Eminence- that they had come",
+    "reason": "Locally unambiguous stray OCR punctuation or missing sentence stop.",
+    "confidence": "high",
+    "id": "v14-703be78a4cfd"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-12",
+    "paragraph": "p-016",
+    "before": "It doesn't bother me any more Have you",
+    "after": "It doesn't bother me any more. Have you",
+    "reason": "Locally unambiguous stray OCR punctuation or missing sentence stop.",
+    "confidence": "high",
+    "id": "v14-eb30284f3602"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-235",
+    "before": "Some hours later. Silk would think",
+    "after": "Some hours later, Silk would think",
+    "reason": "Probable full stop misread for comma inside an unbroken sentence.",
+    "confidence": "probable",
+    "id": "v14-28657023e343"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-189",
+    "before": "Are you aware. My Caldé,",
+    "after": "Are you aware, My Caldé,",
+    "reason": "Probable full stop misread for comma inside an unbroken sentence.",
+    "confidence": "probable",
+    "id": "v14-55add1f5c8bd"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-03",
+    "paragraph": "p-006",
+    "before": "For he loved her he had loved his mother",
+    "after": "For he loved her as he had loved his mother",
+    "reason": "Missing comparative as; the following parallel phrase is as he might have loved the sister.",
+    "confidence": "probable",
+    "id": "v14-8df51c3702e2"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-03",
+    "paragraph": "p-006",
+    "before": "when he had been small and there been",
+    "after": "when he had been small and there had been",
+    "reason": "Missing auxiliary had in a past-perfect clause.",
+    "confidence": "probable",
+    "id": "v14-931be3945ac0"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-03",
+    "paragraph": "p-006",
+    "before": "How lonely he would have in the midst",
+    "after": "How lonely he would have been in the midst",
+    "reason": "Missing been after would have, required by the adjective lonely.",
+    "confidence": "probable",
+    "id": "v14-9428b84d2906"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-03",
+    "paragraph": "p-006",
+    "before": "draw forth the shy she achieved",
+    "after": "draw forth the shy smile she achieved",
+    "reason": "Probable local OCR loss: the surrounding comparison and approving inclination of her head require a shy smile and her approval. Accepted under the owner’s instruction to repair malformed transcription.",
+    "confidence": "probable",
+    "id": "v14-adf4010cbf15"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-03",
+    "paragraph": "p-006",
+    "before": "to win viler approval",
+    "after": "to win her approval",
+    "reason": "Probable local OCR loss: the surrounding comparison and approving inclination of her head require a shy smile and her approval. Accepted under the owner’s instruction to repair malformed transcription.",
+    "confidence": "probable",
+    "id": "v14-8372cff91271"
+  }
+]
