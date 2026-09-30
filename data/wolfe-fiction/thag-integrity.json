@@ -1,0 +1,24 @@
+{
+  "book": "thag",
+  "sourceFiles": {
+    "endangered": {
+      "file": "_OceanofPDF.com_Endangered_Species_-_Gene_Wolfe.epub",
+      "sha256": "4b14835109c591ac7460743370fe051fad2785f9ad0e6567b9cf41f89e060c4b"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "endangered",
+      "files": [
+        "OEBPS/e9781429966214_c07.html"
+      ],
+      "sourceTextSha256": "e92d25d52ea7ad1972500df2c4c25bbbe5c91ba17efe60e7ae682399c92a98fb",
+      "textSha256": "e92d25d52ea7ad1972500df2c4c25bbbe5c91ba17efe60e7ae682399c92a98fb",
+      "blocks": 44
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

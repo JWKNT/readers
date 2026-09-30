@@ -1,0 +1,22 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 145,
+  "startWords": 2425,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">Long, long ago, when Rosemary and I were still a young couple with small children, we moved to a tiny town out in the country. If I remember right, the population was under three hundred. Everyone in town—except for us—knew everyone else. Half the time, they’d gone to kindergarten together. More than half the time, they were at least distantly related. Rosemary and I were outsiders, and very much so. It was much lonelier than an isolated house would have been, and lonelier too than any city apartment.</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">Often I drove past a big white house in which no one lived. Most of its windows were broken; one shutter hung from a single hinge. The yard was full of weeds. I never found out why the house had been abandoned or who had abandoned it, but it has come to haunt my fiction.</p>\n</div></blockquote></blockquote>"
+}

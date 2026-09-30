@@ -1,0 +1,34 @@
+{
+  "book": "beech-hill",
+  "sourceFiles": {
+    "best": {
+      "file": "_OceanofPDF.com_The_Best_of_Gene_Wolfe_A_Definitive_Retrospective_of_His_Finest_Short_Fiction_-_Gene_Wolfe.epub",
+      "sha256": "2f72b914961e311c7d12bfc81fe6c39f2138e087c0daca32f8e717a195f8b664"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "best",
+      "files": [
+        "index_split_011.html"
+      ],
+      "sourceTextSha256": "7335c835906043d9e2c7ab141ca8ed5b03664f1222edb6c824325bef03be74c9",
+      "textSha256": "7335c835906043d9e2c7ab141ca8ed5b03664f1222edb6c824325bef03be74c9",
+      "blocks": 75
+    },
+    {
+      "chapter": "author-note",
+      "source": "best",
+      "files": [
+        "index_split_011.html"
+      ],
+      "sourceTextSha256": "e216a999d76e831d571003cd68e0a53b8f7df1ce5178f491a4d63cb6642ac8a4",
+      "textSha256": "e216a999d76e831d571003cd68e0a53b8f7df1ce5178f491a4d63cb6642ac8a4",
+      "blocks": 3
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

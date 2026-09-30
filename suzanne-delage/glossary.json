@@ -1,0 +1,42 @@
+[
+  {
+    "id": "hamlet",
+    "term": "Hamlet",
+    "aliases": [],
+    "short": "Shakespeare’s tragedy about the prince of Denmark.",
+    "note": "William Shakespeare’s tragedy Hamlet. In Act 1, scene 5, the prince tells Horatio that reality contains more than his philosophy encompasses.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/",
+        "label": "Folger Shakespeare Library · Hamlet"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-002",
+      "index": 0
+    }
+  },
+  {
+    "id": "zouave",
+    "term": "Zouave",
+    "aliases": [],
+    "short": "A soldier wearing a North African-inspired uniform.",
+    "note": "A member of an infantry unit modeled on French troops in North Africa. American Civil War Zouave units adopted distinctive uniforms including short jackets and loose trousers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://home.nps.gov/articles/000/george-murray.htm",
+        "label": "National Park Service · Zouave regiments"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-012",
+      "index": 0
+    }
+  }
+]

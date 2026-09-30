@@ -1,0 +1,62 @@
+[
+  {
+    "id": "control-data-corporation",
+    "term": "Control Data Corporation",
+    "aliases": [],
+    "short": "An American computer company founded in 1957.",
+    "note": "Control Data Corporation (CDC), a Minneapolis company founded in 1957 and known for large scientific computers, including systems designed by Seymour Cray.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.computerhistory.org/brochures/a-c/com-42b9d5af185f1/",
+        "label": "Computer History Museum · Control Data Corporation"
+      }
+    ],
+    "evidence": "c18: es, of course, derive from the dawn age of cybernetics: Ceedeesy’s from the old Control Data Corporation computers, and “Mark” from the famous series which included the Mark VII and Mark VIII. At any rate I had been expecting one of us, and the"
+  },
+  {
+    "id": "eyebem",
+    "term": "Eyebem",
+    "aliases": [],
+    "short": "Possibly a phonetic rendering of IBM.",
+    "note": "Possibly a phonetic rendering of IBM, the initials of International Business Machines, the American computing company that adopted that name in 1924.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.ibm.com/history/logo?lang=en",
+        "label": "IBM · corporate name and logo history"
+      }
+    ],
+    "evidence": "c18:  Endangered Species Eyebem I AM lying, I say again, in the dark; in the dark in the hut Mark has built of frozen earth and pounded snow. My pack transformer ratio .06"
+  },
+  {
+    "id": "kobuk-river",
+    "term": "Kobuk River",
+    "aliases": [],
+    "short": "A river of northwestern Alaska.",
+    "note": "A river of northwestern Alaska, flowing from the Brooks Range toward the Arctic coast and through the region protected by Kobuk Valley National Park.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nps.gov/gaar/kobukriver.htm",
+        "label": "National Park Service · Kobuk River"
+      }
+    ],
+    "evidence": "c18:  asked where we were going. “Main station,” he said. “About thirty miles up the Kobuk River.” I could tell that he wasn’t accustomed to talking a great deal, but he was perfectly friendly. I asked if it were far, and he said two hu"
+  },
+  {
+    "id": "ceedeesy",
+    "term": "Ceedeesy",
+    "aliases": [],
+    "short": "Possibly a phonetic rendering of CDC.",
+    "note": "Possibly a phonetic rendering of CDC, the initials of Control Data Corporation, the American scientific-computing company founded in 1957.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.computerhistory.org/brochures/a-c/com-42b9d5af185f1/",
+        "label": "Computer History Museum · Control Data Corporation"
+      }
+    ],
+    "evidence": "c18: when you are young you think you will live forever. I remember very clearly old Ceedeesy describing this interior looped tape all of us contain. (I think setting my pack transformer ratio so low has called all these memories for"
+  }
+]

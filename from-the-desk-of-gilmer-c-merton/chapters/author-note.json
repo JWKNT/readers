@@ -1,0 +1,23 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002",
+    "p-003"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 94,
+  "startWords": 1547,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">This is my editor’s favorite. For the sake of such attorneys as he may employ, I desire to state now, and categorically, that there is no connection whatsoever between editor David G. Hartwell and “Saul Hearwell.”</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">None!</p>\n<p class=\"prose\" id=\"p-003\" data-block=\"p-003\">My agent, who was still very much alive when this was written, was Virginia Kidd. “Georgia Morgan” is only a slight exaggeration. I have no idea whether Virginia liked this story, but I liked her a lot. I miss her terribly, and in that I have a whole bunch of company—including, I believe, David G. Hartwell.</p></div></blockquote></blockquote>"
+}

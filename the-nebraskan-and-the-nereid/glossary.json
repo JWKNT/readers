@@ -1,0 +1,171 @@
+[
+  {
+    "id": "cortez",
+    "term": "Cortez",
+    "aliases": [],
+    "short": "Hernán Cortés, named in Keats’s sonnet about Homer.",
+    "note": "Hernán Cortés, the Spanish conqueror of Mexico, appears as “stout Cortez” in John Keats’s On First Looking into Chapman’s Homer (1816), a sonnet comparing the discovery of poetry to geographical exploration.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poems/44481/on-first-looking-into-chapmans-homer",
+        "label": "John Keats · On First Looking into Chapman’s Homer"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-003",
+      "index": 0
+    }
+  },
+  {
+    "id": "miss-minerva-and-william-green-hill",
+    "term": "Miss Minerva and William Green Hill",
+    "aliases": [
+      "Miss Minerva"
+    ],
+    "short": "Frances Boyd Calhoun’s novel about an aunt and nephew.",
+    "note": "A novel by Frances Boyd Calhoun about the strict Miss Minerva and her mischievous young nephew, William Green Hill.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/5187/5187-h/5187-h.htm",
+        "label": "Frances Boyd Calhoun · original text"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-014",
+      "index": 0
+    }
+  },
+  {
+    "id": "nereids",
+    "term": "Nereids",
+    "aliases": [
+      "Nereid",
+      "Nereides"
+    ],
+    "short": "The sea nymphs of Greek mythology.",
+    "note": "Sea nymphs, traditionally fifty daughters of Nereus and Doris, associated with the Mediterranean Sea and the company of Poseidon.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Pontios/Nereides.html",
+        "label": "Theoi · Nereids, classical source passages"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "story",
+      "paragraph": "chapter-title",
+      "index": 0
+    }
+  },
+  {
+    "id": "oreads",
+    "term": "Oreads",
+    "aliases": [
+      "Oriads"
+    ],
+    "short": "Mountain nymphs in Greek mythology.",
+    "note": "Nymphs of mountains and mountain woods; Greek oreias means a mountain-dwelling nymph.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Nymphe/Dryades.html",
+        "label": "Theoi · Dryads and Oreads, classical source passages"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-024",
+      "index": 0
+    }
+  },
+  {
+    "id": "dryads",
+    "term": "Dryads",
+    "aliases": [],
+    "short": "Tree nymphs in Greek mythology.",
+    "note": "Nymphs associated with trees and woods. The name comes from Greek drys, oak or tree.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Nymphe/Dryades.html",
+        "label": "Theoi · Dryads, classical source passages"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-024",
+      "index": 0
+    }
+  },
+  {
+    "id": "meliae",
+    "term": "Meliae",
+    "aliases": [],
+    "short": "Ash-tree nymphs in Greek mythology.",
+    "note": "Ash-tree nymphs. Hesiod’s Theogony describes their birth from Earth after the blood of the wounded Uranus fell upon her.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Nymphe/NymphaiMeliai.html",
+        "label": "Theoi · Meliae, Hesiod passages"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-024",
+      "index": 0
+    }
+  },
+  {
+    "id": "naiades",
+    "term": "Naiades",
+    "aliases": [
+      "Naiads"
+    ],
+    "short": "Nymphs of fresh water.",
+    "note": "Naiads: nymphs of springs, streams, rivers, lakes, and other fresh waters in Greek mythology.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Nymphe/Naiades.html",
+        "label": "Theoi · Naiads, classical source passages"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-026",
+      "index": 0
+    }
+  },
+  {
+    "id": "thoe",
+    "term": "Thoe",
+    "aliases": [],
+    "short": "Possibly Thoë, one of the Nereids in Homer.",
+    "note": "Possibly Thoë, a sea nymph named among the daughters of Nereus in Book 18 of Homer’s Iliad.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/nodes/urn%3Acts%3AgreekLit%3Atlg0012.tlg001.perseus-eng3%3A18.22/",
+        "label": "Homer · Iliad 18"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
+  }
+]

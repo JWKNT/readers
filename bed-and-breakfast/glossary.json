@@ -1,0 +1,164 @@
+[
+  {
+    "id": "gehenna",
+    "term": "Gehenna",
+    "aliases": [],
+    "short": "A biblical name for the place of final punishment.",
+    "note": "A name derived from the Valley of Hinnom near Jerusalem, used in the New Testament for the place of final punishment. Mark 9 associates it with unquenchable fire.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/matthew/5",
+        "label": "USCCB: Matthew 5, note on Gehenna"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-018",
+      "index": 0
+    }
+  },
+  {
+    "id": "archangel-raphael",
+    "term": "Archangel Raphael",
+    "aliases": [
+      "Raphael"
+    ],
+    "short": "The angel who guides and heals in Tobit.",
+    "note": "The angel who accompanies Tobiah and helps restore Tobit’s sight. In Tobit 12 he identifies himself as one of the seven angels who stand before God.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/tobit/12",
+        "label": "USCCB: Tobit 12"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-055",
+      "index": 0
+    }
+  },
+  {
+    "id": "ephyra",
+    "term": "Ephyra",
+    "aliases": [],
+    "short": "An ancient town beside an oracle of the dead.",
+    "note": "An ancient town in Epirus associated with the Nekromanteion of Acheron, where worshippers sought communication with the dead.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://allofgreeceone.culture.gov.gr/en/venues/nekromanteion-of-acheron-preveza/",
+        "label": "Hellenic Ministry of Culture: Nekromanteion of Acheron"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-033",
+      "index": 0
+    }
+  },
+  {
+    "id": "acheron",
+    "term": "Acheron",
+    "aliases": [],
+    "short": "A Greek river associated with the underworld.",
+    "note": "A river in Epirus and, in Greek and Roman mythology, a river of the realm of the dead, crossed by the ferryman Charon.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Khthonios/Kharon.html",
+        "label": "Theoi: ancient sources on Charon"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-033",
+      "index": 0
+    }
+  },
+  {
+    "id": "dodona",
+    "term": "Dodona",
+    "aliases": [],
+    "short": "The ancient oracle of Zeus in Epirus.",
+    "note": "An ancient sanctuary and oracle of Zeus and Dione in northwestern Greece, famed for divination associated with its sacred oak.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Titan/TitanisDione.html",
+        "label": "Theoi: ancient sources on Dione and Dodona"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-033",
+      "index": 0
+    }
+  },
+  {
+    "id": "averno",
+    "term": "Averno",
+    "aliases": [],
+    "short": "Lake Avernus, a classical entrance to the underworld.",
+    "note": "The Italian name for Lake Avernus, a volcanic lake near Naples associated with the entrance to the underworld in Virgil’s Aeneid.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://parcodeicampiflegrei.it/wp-content/uploads/2023/08/IL-SOGNO-DI-VIRGILIO-PROGRAMMA-PIEGHEVOLE-OK-SCABEC-V-20230819_optimize.pdf",
+        "label": "Campi Flegrei archaeological park: Virgil’s places"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-033",
+      "index": 0
+    }
+  },
+  {
+    "id": "frankenstein",
+    "term": "Frankenstein",
+    "aliases": [],
+    "short": "Mary Shelley’s creator of an artificial human.",
+    "note": "Victor Frankenstein, the scientist in Mary Shelley’s Frankenstein; or, The Modern Prometheus (1818), who creates a living being and abandons it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/84",
+        "label": "Mary Shelley: Frankenstein"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-284",
+      "index": 0
+    }
+  },
+  {
+    "id": "lasciate-ogni-speranza",
+    "term": "Lasciate ogni speranza",
+    "aliases": [],
+    "short": "The warning over Dante’s gate of Hell.",
+    "note": "Italian for abandon all hope, the opening of the gate’s final warning in Dante’s Inferno, canto III: those who enter must leave hope behind.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_III",
+        "label": "Dante: Inferno, canto III"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-252",
+      "index": 0
+    }
+  }
+]

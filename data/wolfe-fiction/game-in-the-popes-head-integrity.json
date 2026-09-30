@@ -1,0 +1,34 @@
+{
+  "book": "game-in-the-popes-head",
+  "sourceFiles": {
+    "best": {
+      "file": "_OceanofPDF.com_The_Best_of_Gene_Wolfe_A_Definitive_Retrospective_of_His_Finest_Short_Fiction_-_Gene_Wolfe.epub",
+      "sha256": "2f72b914961e311c7d12bfc81fe6c39f2138e087c0daca32f8e717a195f8b664"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "best",
+      "files": [
+        "index_split_032.html"
+      ],
+      "sourceTextSha256": "8fda20d9d696e452634ce16b3c28f4785cfe18c1817ddf65ce9cc89c43d20197",
+      "textSha256": "8fda20d9d696e452634ce16b3c28f4785cfe18c1817ddf65ce9cc89c43d20197",
+      "blocks": 100
+    },
+    {
+      "chapter": "author-note",
+      "source": "best",
+      "files": [
+        "index_split_032.html"
+      ],
+      "sourceTextSha256": "45994f9cb923b5890074fa622f74e4ade6a0bbb180966c27d24da28b7de97968",
+      "textSha256": "45994f9cb923b5890074fa622f74e4ade6a0bbb180966c27d24da28b7de97968",
+      "blocks": 3
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

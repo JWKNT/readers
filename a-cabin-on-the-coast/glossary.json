@@ -1,0 +1,82 @@
+[
+  {
+    "id": "domdaniel",
+    "term": "Domdaniel",
+    "aliases": [],
+    "short": "A submarine cavern of sorcerers.",
+    "note": "A legendary undersea cavern of magicians, prominent in Robert Southey’s Thalaba the Destroyer (1801), where it is placed beneath the ocean near Tunis.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/39804/39804-h/39804-h.htm",
+        "label": "Robert Southey: Thalaba the Destroyer"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-157",
+      "index": 0
+    }
+  },
+  {
+    "id": "naiads",
+    "term": "naiads",
+    "aliases": [],
+    "short": "Freshwater nymphs of Greek mythology.",
+    "note": "Female divinities associated with springs, rivers, lakes, and other fresh waters.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-155",
+      "index": 0
+    }
+  },
+  {
+    "id": "dryads",
+    "term": "dryads",
+    "aliases": [],
+    "short": "Tree and woodland nymphs.",
+    "note": "Female spirits of trees or woodland in Greek mythology.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-155",
+      "index": 0
+    }
+  },
+  {
+    "id": "deeny-shee",
+    "term": "Deeny Shee",
+    "aliases": [],
+    "short": "An English phonetic form of Irish daoine sí.",
+    "note": "Daoine sí, the fairy people of Irish tradition; older spellings include daoine sidhe, rendered phonetically as deenee shee.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/33887/33887-h/33887-h.htm",
+        "label": "W. B. Yeats: Fairy and Folk Tales of the Irish Peasantry"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-155",
+      "index": 0
+    }
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 106,
+  "startWords": 8575,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">Because its demons are evil, this story is a favorite of Kathe Koja’s.</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">I know how she feels. The first writer who presented Satan as a cheerful companion with supernatural powers was giving us an interesting novelty; that novelty has become the norm. Speaking not for Kathe but for myself alone, I have had it with little giants, chatty dragons, bumbling invaders, and their ilk. If you enjoyed this story, I hope you’ll look into <em>The Knight</em>, a book that tries to return giants, dragons, and invaders to their roots—a book in which the knights who wage war on all three are hard-bitten fighting men.</p>\n</div></blockquote></blockquote>"
+}

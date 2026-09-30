@@ -1,0 +1,34 @@
+{
+  "book": "westwind",
+  "sourceFiles": {
+    "best": {
+      "file": "_OceanofPDF.com_The_Best_of_Gene_Wolfe_A_Definitive_Retrospective_of_His_Finest_Short_Fiction_-_Gene_Wolfe.epub",
+      "sha256": "2f72b914961e311c7d12bfc81fe6c39f2138e087c0daca32f8e717a195f8b664"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "best",
+      "files": [
+        "index_split_017.html"
+      ],
+      "sourceTextSha256": "f29a3b02ba583f422a28aef87b0f2122378f3873843f627c321cc45e1f7ba1c8",
+      "textSha256": "f29a3b02ba583f422a28aef87b0f2122378f3873843f627c321cc45e1f7ba1c8",
+      "blocks": 109
+    },
+    {
+      "chapter": "author-note",
+      "source": "best",
+      "files": [
+        "index_split_017.html"
+      ],
+      "sourceTextSha256": "04ea40c0b914efb8bc5a939afe0e15b87cbfcf8a5233e4770a773a33e576919f",
+      "textSha256": "04ea40c0b914efb8bc5a939afe0e15b87cbfcf8a5233e4770a773a33e576919f",
+      "blocks": 3
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

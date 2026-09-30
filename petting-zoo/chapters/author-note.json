@@ -1,0 +1,21 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 77,
+  "startWords": 2220,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">I think I must have taken my mental picture of a boy riding a dinosaur from the <em>Calvin and Hobbes</em> Sunday strip. With it came another picture, one of that same boy grown to manhood staring at his caged dinosaur. Animals in zoos (we are told) believe that their bars protect them. We Americans have forged our own bars, built our own cage, and live in it more or less content as long as someone feeds us.</p>\n</div></blockquote></blockquote>"
+}

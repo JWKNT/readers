@@ -1,0 +1,67 @@
+{
+  "schema": 1,
+  "id": "peritonitis",
+  "title": "Peritonitis",
+  "author": "Gene Wolfe",
+  "volumes": [
+    {
+      "id": "text",
+      "title": "Peritonitis",
+      "chapters": 1
+    }
+  ],
+  "totalWords": 2218,
+  "defaultChapter": "story",
+  "glossaryCount": 1,
+  "correctionCount": 0,
+  "editionVersion": 13,
+  "chapters": [
+    {
+      "id": "story",
+      "title": "Peritonitis",
+      "volume": "text",
+      "volumeTitle": "Peritonitis",
+      "number": 1,
+      "label": "",
+      "kind": "chapter",
+      "index": 0,
+      "layout": "prose",
+      "blocks": [
+        "p-001",
+        "p-002",
+        "p-003",
+        "p-004",
+        "p-005",
+        "p-006",
+        "p-007",
+        "p-008",
+        "p-009",
+        "p-010",
+        "p-011",
+        "p-012",
+        "p-013",
+        "p-014",
+        "p-015",
+        "p-016",
+        "p-017",
+        "p-018",
+        "p-019",
+        "p-020",
+        "p-021",
+        "p-022",
+        "p-023"
+      ],
+      "sections": [],
+      "headingNoteAnchors": [
+        {
+          "term": "peritonitis",
+          "paragraph": "chapter-title"
+        }
+      ],
+      "headingHtml": "<span class=\"word\" data-term=\"peritonitis\" data-first=\"true\" data-local-first=\"true\">Peritonitis</span>",
+      "noteAnchors": [],
+      "words": 2218,
+      "startWords": 0
+    }
+  ]
+}

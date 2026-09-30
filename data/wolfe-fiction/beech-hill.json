@@ -1,0 +1,17 @@
+[
+  {
+    "id": "bond",
+    "term": "Bond",
+    "aliases": [],
+    "short": "Ian Fleming’s British secret agent.",
+    "note": "James Bond, Agent 007, the British intelligence officer introduced in Ian Fleming’s Casino Royale (1953).",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ianfleming.com/meet-the-man/",
+        "label": "Ian Fleming Publications: Ian Fleming"
+      }
+    ],
+    "evidence": "Pleased to meet you, Dr. Potts. I know your work.” “Looks a lot like Bond, doesn’t he?” he overheard Bishop say as the two of them left him. “But he’s different in"
+  }
+]

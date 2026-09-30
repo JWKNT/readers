@@ -1,0 +1,82 @@
+[
+  {
+    "id": "nra",
+    "term": "NRA",
+    "aliases": [],
+    "short": "The New Deal National Recovery Administration.",
+    "note": "The United States National Recovery Administration, created in 1933 to promote recovery through industrial codes governing competition, wages, and working conditions. Its emblem was a blue eagle.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.archives.gov/milestone-documents/national-industrial-recovery-act",
+        "label": "National Archives: National Industrial Recovery Act"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-003",
+      "index": 0
+    }
+  },
+  {
+    "id": "mount-kaf",
+    "term": "Mount Kaf",
+    "aliases": [],
+    "short": "The world-encircling mountain of Islamic cosmology.",
+    "note": "Qāf, the legendary mountain encircling the earth in medieval Islamic geographical traditions, often described as emerald and bordering the unknown regions beyond the inhabited world.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://persian.packhum.org/text/016301012/3",
+        "label": "Hamdallah Mustawfi: Nuzhat-al-Qulub"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-009",
+      "index": 0
+    }
+  },
+  {
+    "id": "golden-mountain-land",
+    "term": "Golden-Mountain-Land",
+    "aliases": [],
+    "short": "Possibly the Chinese immigrant name Gold Mountain.",
+    "note": "Possibly Gold Mountain, or Gum San, the Chinese name associated with California after the gold discoveries that drew nineteenth-century emigrants across the Pacific.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.nps.gov/goga/learn/historyculture/vestiges-china-beach.htm",
+        "label": "National Park Service: China Beach and Gold Mountain"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
+  },
+  {
+    "id": "okies",
+    "term": "Okies",
+    "aliases": [],
+    "short": "Depression-era migrants from the southern Great Plains.",
+    "note": "A frequently derogatory name applied to migrants from Oklahoma and other southern Great Plains states, many driven west during the Dust Bowl and Great Depression.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.loc.gov/collections/todd-and-sonkin-migrant-workers-from-1940-to-1941/articles-and-essays/the-migrant-experience/",
+        "label": "Library of Congress: The Migrant Experience"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-009",
+      "index": 0
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "rudy-vallee",
+    "term": "Rudy Vallee",
+    "aliases": [],
+    "short": "American singer, bandleader, and radio entertainer.",
+    "note": "Rudy Vallée was an American singer, bandleader, and actor whose intimate crooning style and radio performances made him a popular entertainer in the early sound era.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.loc.gov/nls/services-and-resources/music-service-and-materials/music-appreciation/nostalgia-popular-music/",
+        "label": "Library of Congress: popular music"
+      }
+    ],
+    "evidence": "dly say the voice is not Uncle Bill’s. It is instead (of all people!) Rudy Vallee’s. I have started the recording again and can hear it from where I write: “My time is you"
+  },
+  {
+    "id": "model-a",
+    "term": "Model A",
+    "aliases": [],
+    "short": "Ford’s successor to the Model T.",
+    "note": "The Ford automobile introduced in late 1927 to replace the Model T. Nearly five million of the 1928–1931 models were produced.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.thehenryford.org/collections/explore/artifact/149977",
+        "label": "The Henry Ford: Model A"
+      }
+    ],
+    "evidence": ". Let me explain. When I was a small boy—in those dear, dead days of Model A Ford touring cars, horse-drawn milk trucks, and hand-cranked ice-cream freezers—I had an "
+  },
+  {
+    "id": "seersucker",
+    "term": "seersucker",
+    "aliases": [],
+    "short": "A lightweight fabric with a puckered surface.",
+    "note": "A light woven fabric with alternating smooth and puckered stripes, commonly made of cotton.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "evidence": "e trudged through the heat, he in a straw boater and a blue and white seersucker suit as loose and voluminous as the robes worn by the women in the plates of our family B"
+  }
+]

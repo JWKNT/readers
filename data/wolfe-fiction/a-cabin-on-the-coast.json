@@ -1,0 +1,62 @@
+[
+  {
+    "id": "domdaniel",
+    "term": "Domdaniel",
+    "aliases": [],
+    "short": "A submarine cavern of sorcerers.",
+    "note": "A legendary undersea cavern of magicians, prominent in Robert Southey’s Thalaba the Destroyer (1801), where it is placed beneath the ocean near Tunis.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/39804/39804-h/39804-h.htm",
+        "label": "Robert Southey: Thalaba the Destroyer"
+      }
+    ],
+    "evidence": "ll the hell that’s under their sea?” Tim shook his head. “Why, ’tis Domdaniel. I wonder why that is, now. Tim, ye say ye want this girl.” “That’s right.” “An’ ye say"
+  },
+  {
+    "id": "naiads",
+    "term": "naiads",
+    "aliases": [],
+    "short": "Freshwater nymphs of Greek mythology.",
+    "note": "Female divinities associated with springs, rivers, lakes, and other fresh waters.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "evidence": " we don’t always know just which shape’s the best for a place, so the naiads and the dryads might as well be the ladies o’ the Deeny Shee? Do ye know what the folk o’"
+  },
+  {
+    "id": "dryads",
+    "term": "dryads",
+    "aliases": [],
+    "short": "Tree and woodland nymphs.",
+    "note": "Female spirits of trees or woodland in Greek mythology.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "evidence": "s know just which shape’s the best for a place, so the naiads and the dryads might as well be the ladies o’ the Deeny Shee? Do ye know what the folk o’ the Barb’ry Co"
+  },
+  {
+    "id": "deeny-shee",
+    "term": "Deeny Shee",
+    "aliases": [],
+    "short": "An English phonetic form of Irish daoine sí.",
+    "note": "Daoine sí, the fairy people of Irish tradition; older spellings include daoine sidhe, rendered phonetically as deenee shee.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/33887/33887-h/33887-h.htm",
+        "label": "W. B. Yeats: Fairy and Folk Tales of the Irish Peasantry"
+      }
+    ],
+    "evidence": "lace, so the naiads and the dryads might as well be the ladies o’ the Deeny Shee? Do ye know what the folk o’ the Barb’ry Coast call the hell that’s under their sea?” Ti"
+  }
+]

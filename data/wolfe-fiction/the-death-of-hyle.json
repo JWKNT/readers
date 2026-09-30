@@ -1,0 +1,77 @@
+[
+  {
+    "id": "piombi",
+    "term": "Piombi",
+    "aliases": [],
+    "short": "The prison beneath the lead roof of Venice’s Doge’s Palace.",
+    "note": "The “Leads”: prison cells beneath the lead-covered roof of the Doge’s Palace in Venice. Giacomo Casanova was imprisoned there and escaped in 1756.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://palazzoducale.visitmuve.it/en/layout-and-collections/special-itineraries/",
+        "label": "Doge’s Palace · Secret Itineraries"
+      }
+    ],
+    "evidence": "c05:  for fear the old man in the picture above the mantel would imprison her in the Piombi with Casanova. The dark-haired woman, whose eyes are blue and whose name is Laurel, said, “She has broken; we all break to some extent, and"
+  },
+  {
+    "id": "casanova",
+    "term": "Casanova",
+    "aliases": [],
+    "short": "Giacomo Casanova, Venetian adventurer and memoirist.",
+    "note": "Giacomo Casanova (1725–1798), Venetian adventurer and memoirist, famous for his love affairs and his escape from the Piombi prison in 1756.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.casanovaofficialmuseum.com/en/",
+        "label": "Casanova Museum"
+      }
+    ],
+    "evidence": "c05: e old man in the picture above the mantel would imprison her in the Piombi with Casanova. The dark-haired woman, whose eyes are blue and whose name is Laurel, said, “She has broken; we all break to some extent, and you have brou"
+  },
+  {
+    "id": "hyle",
+    "term": "Hyle",
+    "aliases": [],
+    "short": "Possibly Greek hylē: matter or material.",
+    "note": "Possibly Greek hylē (ὕλη), originally wood or timber and, in philosophy, the matter or material from which something is made.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Amiddle-liddell.perseus-eng2-n33458/",
+        "label": "Liddell–Scott · ὕλη"
+      }
+    ],
+    "evidence": "c05:  Endangered Species The Death of Hyle I HAVE never been a religious man, and I am not a religious man now. I have known all my life—at least, since I was seven or eight, when I "
+  },
+  {
+    "id": "maya",
+    "term": "maya",
+    "aliases": [],
+    "short": "Illusion or the world of appearances in Indian philosophy.",
+    "note": "In Vedanta, the manifold world perceived by the senses insofar as it conceals the unity of absolute being; more broadly, illusion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/maya",
+        "label": "Merriam-Webster · maya"
+      }
+    ],
+    "evidence": "c05: o have said, appeared) so solid to my admittedly bemused eyes—eyes enchained by maya, as the Hindus have been telling us for four thousand years—is insubstantial as vapor. Not only because what we have self-indulgently calle"
+  },
+  {
+    "id": "hogarth",
+    "term": "Hogarth",
+    "aliases": [],
+    "short": "William Hogarth, the English painter and engraver.",
+    "note": "William Hogarth (1697–1764), English painter and engraver known for satirical sequences of modern life, including A Rake’s Progress and Marriage A-la-Mode.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nationalgallery.org.uk/artists/william-hogarth",
+        "label": "National Gallery · William Hogarth"
+      }
+    ],
+    "evidence": "c05: rass inkstand with its devil face, desk, chair, books, walls, my bronze bust of Hogarth, had become unreal as the angel faces seen in clouds. The truth is otherwise: what I felt was no feeling, but certainty. I knew that I had "
+  }
+]

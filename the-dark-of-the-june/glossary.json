@@ -1,0 +1,45 @@
+[
+  {
+    "id": "bellini",
+    "term": "Bellini",
+    "aliases": [
+      "Portrait of Doge Loredano",
+      "Doge Loredano"
+    ],
+    "short": "Giovanni Bellini, the Venetian Renaissance painter.",
+    "note": "Giovanni Bellini (c. 1435–1516), a leading Venetian painter. His portrait of Doge Leonardo Loredan, made around 1501–1502, shows the elected ruler of Venice in ceremonial brocade and a distinctive horned cap.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nationalgallery.org.uk/paintings/giovanni-bellini-doge-leonardo-loredan",
+        "label": "National Gallery · Doge Leonardo Loredan"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-007",
+      "index": 0
+    }
+  },
+  {
+    "id": "an-incident-at-krechetovka-station",
+    "term": "An Incident at Krechetovka Station",
+    "aliases": [],
+    "short": "A 1963 work by Aleksandr Solzhenitsyn.",
+    "note": "A short work by Aleksandr Solzhenitsyn, first published in Russia in 1963 and collected in Stories and Prose Poems.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://us.macmillan.com/books/9780374712150/storiesandprosepoems/",
+        "label": "Macmillan · Stories and Prose Poems"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-007",
+      "index": 0
+    }
+  }
+]

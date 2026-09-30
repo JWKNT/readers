@@ -1,0 +1,615 @@
+[
+  {
+    "id": "the-fifth-head-of-cerberus",
+    "title": "The Fifth Head of Cerberus",
+    "kind": "book",
+    "source": "fifth-head",
+    "files": [
+      "index_split_000.html",
+      "index_split_001.html",
+      "index_split_002.html"
+    ],
+    "initial": "citadel"
+  },
+  {
+    "id": "all-the-hues-of-hell",
+    "title": "All the Hues of Hell",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c25.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "and-when-they-appear",
+    "title": "And When They Appear",
+    "source": "best",
+    "files": [
+      "index_split_033.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "bed-and-breakfast",
+    "title": "Bed and Breakfast",
+    "source": "best",
+    "files": [
+      "index_split_034.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "beech-hill",
+    "title": "Beech Hill",
+    "source": "best",
+    "files": [
+      "index_split_011.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "the-boy-who-hooked-the-sun",
+    "title": "The Boy Who Hooked the Sun",
+    "source": "best",
+    "files": [
+      "index_split_030.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "a-cabin-on-the-coast",
+    "title": "A Cabin on the Coast",
+    "source": "best",
+    "files": [
+      "index_split_038.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "the-cat",
+    "title": "The Cat",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c16.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "the-dark-of-the-june",
+    "title": "The Dark of the June",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c04.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "the-death-of-dr-island",
+    "title": "The Death of Dr. Island",
+    "source": "best",
+    "files": [
+      "index_split_014.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "the-death-of-hyle",
+    "title": "The Death of Hyle",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c05.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "death-of-the-island-doctor",
+    "title": "Death of the Island Doctor",
+    "source": "best",
+    "files": [
+      "index_split_028.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "the-detective-of-dreams",
+    "title": "The Detective of Dreams",
+    "source": "best",
+    "files": [
+      "index_split_023.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "eyebem",
+    "title": "Eyebem",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c18.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "the-eyeflash-miracles",
+    "title": "The Eyeflash Miracles",
+    "source": "best",
+    "files": [
+      "index_split_021.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "forlesen",
+    "title": "Forlesen",
+    "source": "best",
+    "files": [
+      "index_split_016.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "from-the-desk-of-gilmer-c-merton",
+    "title": "From the Desk of Gilmer C. Merton",
+    "source": "best",
+    "files": [
+      "index_split_027.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "from-the-notebook-of-dr-stein",
+    "title": "From the Notebook of Dr. Stein",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c06.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "game-in-the-popes-head",
+    "title": "Game in the Pope’s Head",
+    "source": "best",
+    "files": [
+      "index_split_032.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "the-god-and-his-man",
+    "title": "The God and His Man",
+    "source": "best",
+    "files": [
+      "index_split_025.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "has-anybody-seen-junie-moon",
+    "title": "Has Anybody Seen Junie Moon?",
+    "source": "best",
+    "files": [
+      "index_split_037.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "the-headless-man",
+    "title": "The Headless Man",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c10.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "the-hero-as-werwolf",
+    "title": "The Hero as Werwolf",
+    "source": "best",
+    "files": [
+      "index_split_018.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "the-horars-of-war",
+    "title": "The HORARS of War",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c19.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "hour-of-trust",
+    "title": "Hour of Trust",
+    "source": "best",
+    "files": [
+      "index_split_013.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "house-of-ancestors",
+    "title": "House of Ancestors",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c12.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "in-the-house-of-gingerbread",
+    "title": "In the House of Gingerbread",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c09.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "the-island-of-doctor-death-and-other-stories",
+    "title": "The Island of Doctor Death and Other Stories",
+    "source": "best",
+    "files": [
+      "index_split_008.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "kevin-malone",
+    "title": "Kevin Malone",
+    "source": "best",
+    "files": [
+      "index_split_024.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "la-befana",
+    "title": "La Befana",
+    "source": "best",
+    "files": [
+      "index_split_015.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "the-last-thrilling-wonder-story",
+    "title": "The Last Thrilling Wonder Story",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c11.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "lukora",
+    "title": "Lukora",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c27.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "the-map",
+    "title": "The Map",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c02.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "the-marvelous-brass-chessplaying-automaton",
+    "title": "The Marvelous Brass Chessplaying Automaton",
+    "source": "best",
+    "files": [
+      "index_split_019.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "the-most-beautiful-woman-on-the-world",
+    "title": "The Most Beautiful Woman on the World",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c32.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "my-book",
+    "title": "My Book",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c30.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "the-nebraskan-and-the-nereid",
+    "title": "The Nebraskan and the Nereid",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c08.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "on-the-train",
+    "title": "On the Train",
+    "source": "best",
+    "files": [
+      "index_split_026.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "the-other-dead-man",
+    "title": "The Other Dead Man",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c31.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "our-neighbour-by-david-copperfield",
+    "title": "Our Neighbour by David Copperfield",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c13.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "parkroads-a-review",
+    "title": "Parkroads—a Review",
+    "source": "best",
+    "files": [
+      "index_split_031.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "the-peace-spy",
+    "title": "The Peace Spy",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c24.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "peritonitis",
+    "title": "Peritonitis",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c21.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "petting-zoo",
+    "title": "Petting Zoo",
+    "source": "best",
+    "files": [
+      "index_split_035.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "procreation",
+    "title": "Procreation",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c26.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "the-recording",
+    "title": "The Recording",
+    "source": "best",
+    "files": [
+      "index_split_012.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "redbeard",
+    "title": "Redbeard",
+    "source": "best",
+    "files": [
+      "index_split_029.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "seven-american-nights",
+    "title": "Seven American Nights",
+    "source": "best",
+    "files": [
+      "index_split_022.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "silhouette",
+    "title": "Silhouette",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c35.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "straw",
+    "title": "Straw",
+    "source": "best",
+    "files": [
+      "index_split_020.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "suzanne-delage",
+    "title": "Suzanne Delage",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c28.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "sweet-forest-maid",
+    "title": "Sweet Forest Maid",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c29.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "the-tale-of-the-rose-and-the-nightingale-and-what-came-of-it",
+    "title": "The Tale of the Rose and the Nightingale (And What Came of It)",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c33.html",
+      "OEBPS/e9781429966214_c34.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "thag",
+    "title": "Thag",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c07.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "the-toy-theater",
+    "title": "The Toy Theater",
+    "source": "best",
+    "files": [
+      "index_split_009.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "the-tree-is-my-hat",
+    "title": "The Tree Is My Hat",
+    "source": "best",
+    "files": [
+      "index_split_036.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "war-beneath-the-tree",
+    "title": "War Beneath the Tree",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c17.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "westwind",
+    "title": "Westwind",
+    "source": "best",
+    "files": [
+      "index_split_017.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "when-i-was-ming-the-merciless",
+    "title": "When I Was Ming the Merciless",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c14.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "the-woman-the-unicorn-loved",
+    "title": "The Woman the Unicorn Loved",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c23.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "the-woman-who-loved-the-centaur-pholus",
+    "title": "The Woman Who Loved the Centaur Pholus",
+    "source": "endangered",
+    "files": [
+      "OEBPS/e9781429966214_c22.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  }
+]

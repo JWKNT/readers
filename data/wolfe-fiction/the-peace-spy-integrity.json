@@ -1,0 +1,24 @@
+{
+  "book": "the-peace-spy",
+  "sourceFiles": {
+    "endangered": {
+      "file": "_OceanofPDF.com_Endangered_Species_-_Gene_Wolfe.epub",
+      "sha256": "4b14835109c591ac7460743370fe051fad2785f9ad0e6567b9cf41f89e060c4b"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "endangered",
+      "files": [
+        "OEBPS/e9781429966214_c24.html"
+      ],
+      "sourceTextSha256": "49722929c1176bb7c9130cf8d0b9de7e82325fb50cd5837697679e9a55538af4",
+      "textSha256": "49722929c1176bb7c9130cf8d0b9de7e82325fb50cd5837697679e9a55538af4",
+      "blocks": 104
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

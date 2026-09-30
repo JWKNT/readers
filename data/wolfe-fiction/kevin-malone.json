@@ -1,0 +1,34 @@
+[
+  {
+    "id": "klipspringer",
+    "term": "Klipspringer",
+    "aliases": [],
+    "short": "Gatsby’s long-staying houseguest.",
+    "note": "Ewing Klipspringer is the houseguest nicknamed “the boarder” in F. Scott Fitzgerald’s The Great Gatsby (1925); he makes Gatsby’s mansion his home and plays its piano.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/64317",
+        "label": "F. Scott Fitzgerald: The Great Gatsby"
+      }
+    ],
+    "evidence": "ter that, from day to day, and at last from week to week. I felt like Klipspringer, the man who was Jay Gatsby’s guest for so long that he had no other home—except that Kli"
+  },
+  {
+    "id": "jay-gatsby",
+    "term": "Jay Gatsby",
+    "aliases": [
+      "Gatsby"
+    ],
+    "short": "Fitzgerald’s wealthy, self-invented dreamer.",
+    "note": "The enigmatic millionaire at the center of F. Scott Fitzgerald’s The Great Gatsby (1925), renowned for his extravagant Long Island parties and his attachment to Daisy Buchanan.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/64317",
+        "label": "F. Scott Fitzgerald: The Great Gatsby"
+      }
+    ],
+    "evidence": " at last from week to week. I felt like Klipspringer, the man who was Jay Gatsby’s guest for so long that he had no other home—except that Klipspringer, presumably, saw G"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "book": "death-of-the-island-doctor",
+  "sourceFiles": {
+    "best": {
+      "file": "_OceanofPDF.com_The_Best_of_Gene_Wolfe_A_Definitive_Retrospective_of_His_Finest_Short_Fiction_-_Gene_Wolfe.epub",
+      "sha256": "2f72b914961e311c7d12bfc81fe6c39f2138e087c0daca32f8e717a195f8b664"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "best",
+      "files": [
+        "index_split_028.html"
+      ],
+      "sourceTextSha256": "5eee61c317cfa7a4110ccf94d68de0b4b4899a97f119eb5017f18280cae979e7",
+      "textSha256": "5eee61c317cfa7a4110ccf94d68de0b4b4899a97f119eb5017f18280cae979e7",
+      "blocks": 67
+    },
+    {
+      "chapter": "author-note",
+      "source": "best",
+      "files": [
+        "index_split_028.html"
+      ],
+      "sourceTextSha256": "4d1b9956b79ff1c8b017e69dcaecd5377aca1101ba9a2a604ba4c31cea951934",
+      "textSha256": "4d1b9956b79ff1c8b017e69dcaecd5377aca1101ba9a2a604ba4c31cea951934",
+      "blocks": 1
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

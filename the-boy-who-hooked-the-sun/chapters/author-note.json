@@ -1,0 +1,27 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002",
+    "p-003",
+    "p-004",
+    "p-005",
+    "p-006",
+    "p-007"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 305,
+  "startWords": 1130,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">Every so often I get optimistic and explain the best method of learning to write to students. I don’t believe any of them has ever tried it, but I will explain it to you now. After all, you may be the exception. When I read about this method, it was attributed to Benjamin Franklin, who invented and discovered so much. Certainly I did not invent it.</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">But I did it, and it worked. That is more than can be said for most creative writing classes.</p>\n<p class=\"prose\" id=\"p-003\" data-block=\"p-003\">Find a very short story by a writer you admire. Read it over and over until you understand everything in it. Then read it over a lot more.</p>\n<p class=\"prose\" id=\"p-004\" data-block=\"p-004\">Here’s the key part. You <em>must</em> do this. Put it away where you cannot get at it. You will have to find a way to do it that works for you. Mail the story to a friend and ask him to keep it for you, or whatever. I left the story I had studied in my desk on Friday. Having no weekend access to the building in which I worked, I could not get to it until Monday morning.</p>\n<p class=\"prose\" id=\"p-005\" data-block=\"p-005\">When you cannot see it again, write it yourself. You know who the characters are. You know what happens. You write it. Make it as good as you can.</p>\n<p class=\"prose\" id=\"p-006\" data-block=\"p-006\">Compare your story to the original, when you have access to the original again. Is your version longer? Shorter? Why? Read both versions out loud. There will be places where you had trouble. Now you can see how the author handled those problems.</p>\n<p class=\"prose\" id=\"p-007\" data-block=\"p-007\">If you want to learn to write fiction, and are among those rare people willing to work at it, you might want to use the little story you have just finished as one of your models. It’s about the right length.</p>\n</div></blockquote></blockquote>"
+}

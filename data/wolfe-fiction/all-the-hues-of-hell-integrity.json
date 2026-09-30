@@ -1,0 +1,24 @@
+{
+  "book": "all-the-hues-of-hell",
+  "sourceFiles": {
+    "endangered": {
+      "file": "_OceanofPDF.com_Endangered_Species_-_Gene_Wolfe.epub",
+      "sha256": "4b14835109c591ac7460743370fe051fad2785f9ad0e6567b9cf41f89e060c4b"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "endangered",
+      "files": [
+        "OEBPS/e9781429966214_c25.html"
+      ],
+      "sourceTextSha256": "501dfa82d145760d6d505b6f50b67cd5f886f67a9a14845c5fa8e36b7f1cfde3",
+      "textSha256": "501dfa82d145760d6d505b6f50b67cd5f886f67a9a14845c5fa8e36b7f1cfde3",
+      "blocks": 184
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

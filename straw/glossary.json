@@ -1,0 +1,162 @@
+[
+  {
+    "id": "donjon",
+    "term": "donjon",
+    "aliases": [],
+    "short": "The central stronghold of a castle.",
+    "note": "The central fortified tower or keep of a medieval castle.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/donjon",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-040",
+      "index": 0
+    }
+  },
+  {
+    "id": "hauberk",
+    "term": "hauberk",
+    "aliases": [],
+    "short": "A shirt of mail armor.",
+    "note": "A long shirt of mail armor, usually protecting the body and upper legs.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hauberk",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-034",
+      "index": 0
+    }
+  },
+  {
+    "id": "windlass",
+    "term": "windlass",
+    "aliases": [],
+    "short": "A winding drum used for hauling.",
+    "note": "A machine that pulls or lifts by winding a rope or chain around a rotating drum.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/windlass",
+        "label": "Merriam-Webster: windlass"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "bailiff",
+    "term": "bailiff",
+    "aliases": [],
+    "short": "An estate’s supervising official.",
+    "note": "An officer who administers an estate or farm; in other settings, an official who carries out court business.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bailiff",
+        "label": "Merriam-Webster: bailiff"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-044",
+      "index": 0
+    }
+  },
+  {
+    "id": "breeks",
+    "term": "breeks",
+    "aliases": [],
+    "short": "Scots and northern English for breeches.",
+    "note": "A Scots and northern English word for breeches or trousers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/breeks",
+        "label": "Merriam-Webster: breeks"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-046",
+      "index": 0
+    }
+  },
+  {
+    "id": "wattle",
+    "term": "wattle",
+    "aliases": [],
+    "short": "A framework of interwoven branches.",
+    "note": "A woven framework of flexible rods or branches, used for fences and for walls often covered with daub.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/wattle",
+        "label": "Merriam-Webster: wattle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-060",
+      "index": 0
+    }
+  },
+  {
+    "id": "gorget",
+    "term": "gorget",
+    "aliases": [],
+    "short": "Armor protecting the throat.",
+    "note": "A piece of armor worn over the throat and upper chest.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-047",
+      "index": 0
+    }
+  },
+  {
+    "id": "hostlers",
+    "term": "hostlers",
+    "aliases": [],
+    "short": "Grooms who tend horses at an inn or stable.",
+    "note": "People employed to look after horses, especially at an inn or stable.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-052",
+      "index": 0
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "three-wise-men",
+    "term": "three wise men",
+    "aliases": [],
+    "short": "The Magi who visit the infant Jesus.",
+    "note": "The eastern visitors in Matthew 2 who follow a star and bring gold, frankincense, and myrrh to Jesus. The Gospel names three gifts but gives neither the visitors’ number nor their names.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/matthew/2",
+        "label": "USCCB: Matthew 2"
+      }
+    ],
+    "evidence": ". “I like stories.” “She says it’s almost Christmas and on Christmas three wise men went looking for the Baby and they stopped at the old witch’s door and they asked which w"
+  },
+  {
+    "id": "befana",
+    "term": "Befana",
+    "aliases": [
+      "La Befana"
+    ],
+    "short": "Italy’s gift-bringing visitor at Epiphany.",
+    "note": "An old woman of Italian folklore who travels on a broom and fills children’s stockings with sweets or coal on the night of January 5–6, the eve of Epiphany.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.italia.it/en/italy/things-to-do/epiphany-in-italy-befana-meaning-and-traditions",
+        "label": "Italia.it: Befana traditions"
+      }
+    ],
+    "evidence": " The Best of Gene Wolfe LA BEFANA When Zozz, home from the pit, had licked his fur clean, he howled before John"
+  }
+]

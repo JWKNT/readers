@@ -1,0 +1,42 @@
+[
+  {
+    "id": "howdah",
+    "term": "howdah",
+    "aliases": [],
+    "short": "A seat carried on an elephant’s back.",
+    "note": "A seat or covered platform carried on a large animal’s back, traditionally an elephant or camel.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/howdah",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-045",
+      "index": 0
+    }
+  },
+  {
+    "id": "moeritherium",
+    "term": "Moeritherium",
+    "aliases": [],
+    "short": "An extinct early relative of elephants.",
+    "note": "A genus of small early proboscideans, relatives of elephants, known from African fossils around the Eocene–Oligocene boundary.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://data.nhm.ac.uk/dataset/collection-specimens/resource/05ff2255-c38a-40c9-b657-4ccb55ab2feb/record/10575402/dwc",
+        "label": "Natural History Museum: Moeritherium lyonsi"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-039",
+      "index": 0
+    }
+  }
+]

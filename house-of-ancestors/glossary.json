@@ -1,0 +1,66 @@
+[
+  {
+    "id": "mendel",
+    "term": "Mendel",
+    "aliases": [
+      "Gregor Mendel"
+    ],
+    "short": "Gregor Mendel, pioneer of the science of heredity.",
+    "note": "Gregor Mendel (1822–1884), the Augustinian monk whose experiments with pea plants established basic patterns of inheritance. His results were presented in 1865.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Gregor-Johann-Mendel",
+        "label": "National Human Genome Research Institute · Gregor Mendel"
+      }
+    ],
+    "occurrences": 13,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-116",
+      "index": 0
+    }
+  },
+  {
+    "id": "darwin",
+    "term": "Darwin",
+    "aliases": [
+      "Charles Darwin"
+    ],
+    "short": "Charles Darwin, naturalist and theorist of evolution.",
+    "note": "Charles Darwin (1809–1882), British naturalist whose voyage aboard HMS Beagle helped shape his later work on evolution by natural selection.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.darwinproject.ac.uk/voyage-beagle",
+        "label": "Cambridge University · Darwin Correspondence Project"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-178",
+      "index": 0
+    }
+  },
+  {
+    "id": "automaton",
+    "term": "automaton",
+    "aliases": [],
+    "short": "A self-moving mechanism or artificial figure.",
+    "note": "A self-moving mechanism or artificial figure. Automata is the Greek-derived plural.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/automaton",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-078",
+      "index": 0
+    }
+  }
+]

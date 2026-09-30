@@ -1,0 +1,23 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002",
+    "p-003"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 197,
+  "startWords": 1848,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">There is a daydream, I believe, common to all of us who read mysteries. We are in a small group that is somehow isolated. A member of our group is murdered, and it is we who determine the identity of the killer.</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">In the course of a life that has now grown lengthy, I have known three people who have actually been murdered. In one case, an old schoolmate was shot by her third husband. In another, a wealthy young woman who often came into my father’s café was murdered. Her husband was tried, acquitted, and subsequently murdered himself. The third was so fantastic that were I to describe it you would feel sure I was lying. There is a book about it: <em>Eros, Magic, and the Murder of Professor Culianu.</em> You will find my friend Jennifer Stevenson’s name in the index; Jennifer introduced me to Ioan Culianu.</p>\n<p class=\"prose\" id=\"p-003\" data-block=\"p-003\">You see that I have excuses for my interest in murder, but if I had none I would be just as interested. At one time, I considered designing a board game based on serial murders; that game never really took shape, but this story came out of the idea.</p>\n</div></blockquote></blockquote>"
+}

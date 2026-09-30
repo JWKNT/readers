@@ -1,0 +1,34 @@
+{
+  "book": "from-the-desk-of-gilmer-c-merton",
+  "sourceFiles": {
+    "best": {
+      "file": "_OceanofPDF.com_The_Best_of_Gene_Wolfe_A_Definitive_Retrospective_of_His_Finest_Short_Fiction_-_Gene_Wolfe.epub",
+      "sha256": "2f72b914961e311c7d12bfc81fe6c39f2138e087c0daca32f8e717a195f8b664"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "best",
+      "files": [
+        "index_split_027.html"
+      ],
+      "sourceTextSha256": "708e33fbbc2654d40513aa40ea953f56078f3b51b1061b3e907cd76bca10a56d",
+      "textSha256": "708e33fbbc2654d40513aa40ea953f56078f3b51b1061b3e907cd76bca10a56d",
+      "blocks": 79
+    },
+    {
+      "chapter": "author-note",
+      "source": "best",
+      "files": [
+        "index_split_027.html"
+      ],
+      "sourceTextSha256": "5583d226bf1055eb3cc940a3e8cce27e9d9678930c1cbfe7f4927e064ddcc79f",
+      "textSha256": "5583d226bf1055eb3cc940a3e8cce27e9d9678930c1cbfe7f4927e064ddcc79f",
+      "blocks": 3
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

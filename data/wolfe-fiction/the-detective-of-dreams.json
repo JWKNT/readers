@@ -1,0 +1,64 @@
+[
+  {
+    "id": "uhlan",
+    "term": "uhlan",
+    "aliases": [
+      "uhlans"
+    ],
+    "short": "A cavalry lancer.",
+    "note": "A lancer in cavalry traditions associated especially with Poland and later other European armies.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/uhlan",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "ccasions we sometimes ride in a glass coach to the Rathaus. There are uhlans all around us to protect us then. I am certain that—before the dreams began—I saw the fac"
+  },
+  {
+    "id": "freud",
+    "term": "Freud",
+    "aliases": [],
+    "short": "The founder of psychoanalysis.",
+    "note": "Sigmund Freud, the Viennese physician who developed psychoanalysis. His The Interpretation of Dreams treats dreams as expressions of unconscious mental processes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/",
+        "label": "Freud Museum London: The Interpretation of Dreams"
+      }
+    ],
+    "evidence": "so narrow I can hardly get through. Have you read the writings of Dr. Freud of Vienna? One of the women here mentioned once that he had written concerning dreams, an"
+  },
+  {
+    "id": "bayreuth",
+    "term": "Bayreuth",
+    "aliases": [],
+    "short": "The Bavarian home of Wagner’s opera festival.",
+    "note": "The German city where Richard Wagner established a theatre and festival devoted to his operas; the first festival took place in 1876.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.bayreuther-festspiele.de/festspiele/historie/",
+        "label": "Bayreuth Festival: history"
+      }
+    ],
+    "evidence": "heater orchestra. A great symphony. I have never been to the opera at Bayreuth, but I think it must be like that—yet a happy, quick tune.” She paused, and for an insta"
+  },
+  {
+    "id": "merloned",
+    "term": "merloned",
+    "aliases": [],
+    "short": "Fitted with the solid uprights of battlements.",
+    "note": "Having merlons: the solid portions of a battlemented parapet between the open gaps.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "evidence": "er than lingered. The city wall was complete on three sides, with its merloned towers in repair, and the cobbled streets surely dated from a period when wheeled traffic"
+  }
+]

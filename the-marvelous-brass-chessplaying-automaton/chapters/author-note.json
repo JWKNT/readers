@@ -1,0 +1,24 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002",
+    "p-003",
+    "p-004"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 285,
+  "startWords": 7147,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">Most games do not inspire the human imagination. A few—a very few—do. Or so it seems to me. There may be a good football story, but I have never come across it. My guess is that there are some good cricket stories, but I couldn’t name even one. Ditto for soccer stories. But baseball! We could start with Michael Bishop’s novel <em>Brittle Innings</em>, then go down a whole list of Ring Lardner short stories—see his collection <em>You Know Me Al.</em> I’ve even committed a baseball story myself, “The On-Deck Circle.”</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">Chess is like that. Can anybody name a checkers story? I can’t. Monopoly? Dominoes? But chess! <em>Through the Looking-Glass</em> alone would make my point; and there’s Rex Stout’s chess mystery, <em>Gambit</em>, and a whole host of short stories, including this one. One of these days I want to write a chess story that returns chess to its origin, a story in which the rooks are war elephants, the knights chariots, the bishops cavalry, the queens viziers commanding elite corps, and the kings rajas with their bodyguards. If you don’t play chess, you should learn; and then, perhaps, you will see the tall swordsmen we call pawns, nearly naked behind their big rhinoceros-hide shields, see the chariots charging—then wheeling like a flock of birds to rain javelins and arrows upon the enemy’s line.</p>\n<p class=\"prose\" id=\"p-003\" data-block=\"p-003\">Hear those trumpetings? No metal horn ever voiced such music. Hear the thunder of their feet? Tigers cower before these soldiers. Their faces are painted a score of colors and their tusks made longer and sharper by steel blades; each bears a painted wooden castle manned by half a dozen archers.</p>\n<p class=\"prose\" id=\"p-004\" data-block=\"p-004\">No wonder there are so many chess stories!</p>\n</div></blockquote></blockquote>"
+}

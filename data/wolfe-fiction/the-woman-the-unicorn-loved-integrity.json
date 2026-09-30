@@ -1,0 +1,24 @@
+{
+  "book": "the-woman-the-unicorn-loved",
+  "sourceFiles": {
+    "endangered": {
+      "file": "_OceanofPDF.com_Endangered_Species_-_Gene_Wolfe.epub",
+      "sha256": "4b14835109c591ac7460743370fe051fad2785f9ad0e6567b9cf41f89e060c4b"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "endangered",
+      "files": [
+        "OEBPS/e9781429966214_c23.html"
+      ],
+      "sourceTextSha256": "62b08580dcce782f090e930ea117347a343c6c799cd69746a76ce239a8f92235",
+      "textSha256": "62b08580dcce782f090e930ea117347a343c6c799cd69746a76ce239a8f92235",
+      "blocks": 217
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

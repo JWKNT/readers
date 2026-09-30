@@ -1,0 +1,34 @@
+{
+  "book": "the-detective-of-dreams",
+  "sourceFiles": {
+    "best": {
+      "file": "_OceanofPDF.com_The_Best_of_Gene_Wolfe_A_Definitive_Retrospective_of_His_Finest_Short_Fiction_-_Gene_Wolfe.epub",
+      "sha256": "2f72b914961e311c7d12bfc81fe6c39f2138e087c0daca32f8e717a195f8b664"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "best",
+      "files": [
+        "index_split_023.html"
+      ],
+      "sourceTextSha256": "fc26e4423f8a6a6789ca21889afa11adcefe3984ca6668ad42d8e901b1fdc493",
+      "textSha256": "fc26e4423f8a6a6789ca21889afa11adcefe3984ca6668ad42d8e901b1fdc493",
+      "blocks": 190
+    },
+    {
+      "chapter": "author-note",
+      "source": "best",
+      "files": [
+        "index_split_023.html"
+      ],
+      "sourceTextSha256": "0ec9cf9295c41f3474af60df1b4dcaf06ba9f947ef187b2f44311cd3774823f6",
+      "textSha256": "0ec9cf9295c41f3474af60df1b4dcaf06ba9f947ef187b2f44311cd3774823f6",
+      "blocks": 3
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

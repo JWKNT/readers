@@ -1,0 +1,923 @@
+[
+  {
+    "id": "cerberus",
+    "term": "Cerberus",
+    "aliases": [],
+    "short": "The hound guarding the Greek underworld.",
+    "note": "The monstrous dog guarding the entrance to Hades, commonly depicted with three heads. Bringing Cerberus to the upper world was the last of Heracles’ twelve labors.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Ther/KuonKerberos.html",
+        "label": "Theoi: classical sources on Cerberus"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third):  realms of light.’ ” I made some trivial remark about his having miscounted. “Oh, no. Old Cerberus has four heads; don’t you know that? The fourth’s her maidenhead, and she’s such a bitch no dog can take it from her.” Even Mr. Million chuckled, but"
+  },
+  {
+    "id": "phaedria",
+    "term": "Phaedria",
+    "aliases": [],
+    "short": "Possibly Spenser’s alluring boatwoman in The Faerie Queene.",
+    "note": "Possibly Phaedria, the pleasure-loving woman who ferries travelers across the Idle Lake in Book II of Edmund Spenser’s The Faerie Queene. The name is associated with Greek phaidros, “bright” or “cheerful.”",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://talus.artsci.wustl.edu/spenserArchivePrototype/html/fq1590.bk2_canto_6.html",
+        "label": "Washington University: Spenser Archive, Book II, Canto VI"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): behind him, leaving me standing openmouthed in the corridor.  I mentioned the incident to Phaedria the next time we met, but she was more interested in learning about my father’s house. Phaedria, if I have not used her name before now, was the girl"
+  },
+  {
+    "id": "nerissa",
+    "term": "Nerissa",
+    "aliases": [],
+    "short": "Possibly Portia’s attendant in The Merchant of Venice.",
+    "note": "Possibly Nerissa, Portia’s attendant and confidante in Shakespeare’s The Merchant of Venice. She accompanies Portia to Venice in disguise and marries Gratiano.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.folger.edu/explore/shakespeares-works/the-merchant-of-venice/read/",
+        "label": "Folger Shakespeare Library: The Merchant of Venice"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third):  iron dog in our front garden. The maid who had previously carried them out, a girl named Nerissa who had been selected because she was not only one of the prettiest but one of the tallest and strongest of the maids as well, a large-boned, long-fa"
+  },
+  {
+    "id": "monday-or-tuesday",
+    "term": "Monday or Tuesday",
+    "aliases": [],
+    "short": "Virginia Woolf’s 1921 collection of experimental short fiction.",
+    "note": "A collection of eight short stories by Virginia Woolf, published by the Hogarth Press in 1921 with woodcuts by Vanessa Bell. It includes “Kew Gardens,” “A Haunted House,” and “A Society.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.smith.edu/libraries/libs/rarebook/exhibitions/penandpress/case6a.htm",
+        "label": "Smith College Libraries: Monday or Tuesday"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): misplaced astronautics text, The Mile-Long Spaceship, by some German) only a lorn copy of Monday or Tuesday leaning against a book about the assassination of Trotsky, and a crumbling volume of Vernor Vinge’s short stories that owed its presence there, or so"
+  },
+  {
+    "id": "poictesme",
+    "term": "Poictesme",
+    "aliases": [],
+    "short": "James Branch Cabell’s imaginary medieval French province.",
+    "note": "The setting of James Branch Cabell’s interconnected fantasies, collectively called the Biography of the Life of Manuel. Its name combines suggestions of Poitiers and Angoulême.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://jamesbranchcabell.library.vcu.edu/inspired-by-cabell/maps-of-poictesme/",
+        "label": "Virginia Commonwealth University Libraries: Maps of Poictesme"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): to our songs. It is possible that our home was named Atlantis or Mu—Gondwanaland, Africa, Poictesme, or The Country Of Friends. I, for five, remember all these names.” “Yes,” said Sandwalker. He had enjoyed the names, but the Old Wise One’s referrin"
+  },
+  {
+    "id": "marquis-of-carabas",
+    "term": "Marquis of Carabas",
+    "aliases": [],
+    "short": "The invented noble title in Puss in Boots.",
+    "note": "In Charles Perrault’s Puss in Boots, a resourceful cat presents his poor master as the wealthy Marquis of Carabas and contrives to obtain a castle and royal marriage for him.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/33511/pg33511-images.html",
+        "label": "Charles Perrault: Tales of Passed Time"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third):  her that she was a good cat and could eat it herself, but she only said, “My master, the Marquis of Carabas, sends you greetings.” And disappeared again. The little animal had a pointed snout and round ears, but its teeth were the even, biting teeth of a hu"
+  },
+  {
+    "id": "gondwanaland",
+    "term": "Gondwanaland",
+    "aliases": [],
+    "short": "The ancient southern supercontinent, also called Gondwana.",
+    "note": "A former supercontinent that joined the landmasses now represented by South America, Africa, Antarctica, Australia, India, and neighboring regions. Its breakup helped produce the modern arrangement of continents.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.usgs.gov/educational-resources/plate-tectonics",
+        "label": "U.S. Geological Survey: Plate Tectonics"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): he tenacity and expansionist tendencies of a hypothetical technological culture occupying Gondwanaland. When I have finished, Mr. Million says, “Now reverse. David, affirmative without repeating.” My brother, of course, has been looking at his book ins"
+  },
+  {
+    "id": "roncevaux",
+    "term": "Roncevaux",
+    "aliases": [],
+    "short": "Possibly Roncesvalles, the Pyrenean pass associated with Roland.",
+    "note": "Possibly the French name of Roncesvalles in the Pyrenees, associated with the defeat of Charlemagne’s rearguard in 778 and the medieval Song of Roland.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.visitnavarra.es/fr/roncesvalles/",
+        "label": "Navarre Tourist Board: Orreaga–Roncevaux"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): feeling, which the too-long days and stretched nights don’t help. I wake up—I did even in Roncevaux—hours before dawn. Anyway it’s a cool climate, so the thermometer tells me; but it does not seem cool—the whole effect is of the tropics. The sun, th"
+  },
+  {
+    "id": "dollos-law",
+    "term": "Dollo’s Law",
+    "aliases": [
+      "Law of the Irreversibility of Evolution"
+    ],
+    "short": "A historical principle of evolutionary irreversibility.",
+    "note": "Louis Dollo’s principle that evolution does not exactly retrace its earlier course, often expressed as the improbability of regaining a lost complex feature. Modern research identifies exceptions to a strict ban on reacquisition.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39443236/",
+        "label": "Elmer and Clobert: Dollo’s law in the post-genomic age"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): ying that system, for the first time in years, and find I still cannot do it. Do you know Dollo’s Law? From his studies of the carapaces of fossil turtles, the great Belgian formulated the Law of the Irreversibility of Evolution: An organ which degene"
+  },
+  {
+    "id": "saltimbanque",
+    "term": "Saltimbanque",
+    "aliases": [],
+    "short": "French: a street entertainer or acrobat.",
+    "note": "A French word for an itinerant performer, acrobat, or fairground entertainer; also used figuratively for a buffoon or charlatan.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://cnrtl.fr/definition/academie4/saltimbanque",
+        "label": "CNRTL / Académie française: saltimbanque"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): ng time this route to the library was the only part of the city I knew. Three blocks down Saltimbanque Street where our house stood, right at the rue d’Asticot to the slave market, and a block beyond that to the library. A child, not knowing what is ex"
+  },
+  {
+    "id": "asticot",
+    "term": "Asticot",
+    "aliases": [],
+    "short": "French: a maggot or small worm used as fishing bait.",
+    "note": "A French word for a fly larva or maggot, particularly one used as fishing bait. Its ultimate origin is uncertain.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cnrtl.fr/etymologie/asticot",
+        "label": "CNRTL: asticot"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): y I knew. Three blocks down Saltimbanque Street where our house stood, right at the rue d’Asticot to the slave market, and a block beyond that to the library. A child, not knowing what is extraordinary and what commonplace, usually lights midway b"
+  },
+  {
+    "id": "angelus",
+    "term": "angelus",
+    "aliases": [],
+    "short": "A Christian devotion recalling the Annunciation.",
+    "note": "A Christian devotion recalling the Annunciation, traditionally recited morning, noon, and evening.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/angelus",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third):  called on him, and, since the place was known not to open its doors until after the last Angelus, we had come the next day a little after the second and entered through one of the skylights. I find it difficult to describe what we saw when we des"
+  },
+  {
+    "id": "fennec",
+    "term": "fennec",
+    "aliases": [
+      "fennecs"
+    ],
+    "short": "A small desert fox with very large ears.",
+    "note": "A small desert fox distinguished by very large ears.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/fennec",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): y Field Guide to the Animals of Sainte Anne, I have decided is most probably Hutchesson’s fennec, a fox or coyote-like creature with immense ears and a liking for poultry and carrion.  After this little interlude of backtracking we made good prog"
+  },
+  {
+    "id": "divan",
+    "term": "divan",
+    "aliases": [
+      "divans"
+    ],
+    "short": "A low couch or cushioned seat.",
+    "note": "A long, low couch, often without a back or arms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/divan",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): and. Or Ireland.” “What?” my aunt said. One of the girls giggled; they were seated on the divan now, their long, gleaming legs crossed before them like the varnished staffs of flags. “It doesn’t matter.” My aunt looked at me acutely and said, “Y"
+  },
+  {
+    "id": "carapace",
+    "term": "carapace",
+    "aliases": [
+      "carapaces"
+    ],
+    "short": "A hard protective shell.",
+    "note": "The hard protective covering over an animal’s back, especially the upper shell of a turtle.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carapace",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): ad noticed that each column was carved with a word—the only one that I could remember was carapace—and that the paving stones of the courtyard were mortuary tablets like those set into the floors in some of the old French churches, with my own name"
+  },
+  {
+    "id": "sotto-voce",
+    "term": "sotto voce",
+    "aliases": [],
+    "short": "In a quiet or lowered voice.",
+    "note": "In a low, quiet voice.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sotto%20voce",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): times. We called them by nicknames that were used only here (of which Nerissa informed me sotto voce as they came up the walk), hung up their coats, and directed them—or if necessary conducted them—to the various parts of the establishment. Nerissa f"
+  },
+  {
+    "id": "serried",
+    "term": "serried",
+    "aliases": [],
+    "short": "Closely packed in rows.",
+    "note": "Packed closely together in rows or ranks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/serried",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): ooked at the sky, hoping to take a bearing from the Eye of Cold—but the clouds, rank upon serried rank, allowed no star more than an instant. He walked and splashed, then halted, embarrassed by his own noise. Around him the marsh seemed to listen."
+  },
+  {
+    "id": "escritoire",
+    "term": "escritoire",
+    "aliases": [
+      "escritoires"
+    ],
+    "short": "A small writing desk.",
+    "note": "A small writing desk with drawers or compartments for papers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/escritoire",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): aedria to meet at ten, and before going to my father’s library I had posted a note on the escritoire beside my bed, asking that I be awakened an hour earlier; and that night I slept with the fragrance in my nostrils and the thought—half plan, half dr"
+  },
+  {
+    "id": "sinecure",
+    "term": "sinecure",
+    "aliases": [
+      "sinecures"
+    ],
+    "short": "A paid position requiring little work.",
+    "note": "A paid position requiring little or no work.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sinecure",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): r, it is a clever sophistry, but invalid; my tutorial position at Columbia was a manifest sinecure given me to enable me to complete my graduate work, and for my expedition to Sainte Anne I received my expenses only. You see? And who would know bet"
+  },
+  {
+    "id": "weir",
+    "term": "weir",
+    "aliases": [
+      "weirs"
+    ],
+    "short": "A low barrier controlling water or fish.",
+    "note": "A low dam or barrier across flowing water, used to divert or regulate it. A weir can also be a fence-like structure arranged to trap fish.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/weir",
+        "label": "Merriam-Webster · weir"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third):  certain plants, and for primitive people the most effective way to fish is probably with weirs, or with nets of rawhide or vegetable fiber. Just the same way, trapping or driving animals with fire would be more effective than hunting; and anywa"
+  },
+  {
+    "id": "parterre",
+    "term": "parterre",
+    "aliases": [
+      "parterre",
+      "par-terre",
+      "parterres"
+    ],
+    "short": "An ornamental arrangement of garden beds.",
+    "note": "A formal arrangement of garden beds, often divided by paths and laid out in decorative patterns.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third):  insisted on privacy, twenty or thirty bushes and small trees had to be rearranged on the parterre to make a little grove around them. I helped the waiters carry some of the smaller tubs and pots, and managed to duck into the structure as it was co"
+  },
+  {
+    "id": "carabao",
+    "term": "carabao",
+    "aliases": [
+      "carabao",
+      "Carabao",
+      "carabaos"
+    ],
+    "short": "A water buffalo.",
+    "note": "A carabao is a water buffalo. The name entered English through Philippine Spanish from a Visayan word, karabáw.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carabao",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): f the trip to date, dropping a huge brute—not described in the Field Guide—similar to the carabao of Asian Earth; this with a single brain shot from the heavy rifle. I paced the distance when the animal was down and found it to be a full three hun"
+  },
+  {
+    "id": "vernor-vinge",
+    "term": "Vernor Vinge",
+    "aliases": [
+      "V. Vinge"
+    ],
+    "short": "American science-fiction author and mathematician (1944–2024).",
+    "note": "A science-fiction writer and mathematics professor whose work explored artificial intelligence, virtual worlds, and technological transformation. His books won multiple Hugo Awards.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://sfwa.org/2024/04/04/in-memoriam-vernor-vinge/",
+        "label": "Science Fiction and Fantasy Writers Association: Vernor Vinge"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): sday leaning against a book about the assassination of Trotsky, and a crumbling volume of Vernor Vinge’s short stories that owed its presence there, or so I suspect, to some long-dead librarian’s mistaking the faded V. Vinge on the spine for Winge. I n"
+  },
+  {
+    "id": "trotsky",
+    "term": "Trotsky",
+    "aliases": [],
+    "short": "Leon Trotsky, Russian revolutionary assassinated in exile in 1940.",
+    "note": "A leading Bolshevik and organizer of the Red Army, later expelled from the Soviet Union after his struggle with Stalin. He was assassinated in Mexico in 1940 by a Soviet agent.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.hoover.org/research/trotsky-exile",
+        "label": "Hoover Institution: Trotsky in Exile"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): ) only a lorn copy of Monday or Tuesday leaning against a book about the assassination of Trotsky, and a crumbling volume of Vernor Vinge’s short stories that owed its presence there, or so I suspect, to some long-dead librarian’s mistaking the fa"
+  },
+  {
+    "id": "ancient-mariner",
+    "term": "The Rime of the Ancient Mariner",
+    "aliases": [
+      "Rime of the Ancient Mariner",
+      "SAMUEL TAYLOR COLERIDGE"
+    ],
+    "short": "Samuel Taylor Coleridge’s poem about a seafarer’s transgression and ordeal.",
+    "note": "Coleridge’s long supernatural poem follows a mariner who kills an albatross and survives a terrible voyage. The hermit and the ivy-covered cushion belong to its final section.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poems/43997/the-rime-of-the-ancient-mariner-text-of-1834",
+        "label": "Poetry Foundation: The Rime of the Ancient Mariner"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): heavy with snow, And the owlet whoops to the wolf below, That eats the she-wolf’s young. —SAMUEL TAYLOR COLERIDGE, “The Rime of the Ancient Mariner”  When I was a boy my brother David and I had to go to bed early whether we were sleepy or not. In summer particula"
+  },
+  {
+    "id": "ivy-tod",
+    "term": "ivy-tod",
+    "aliases": [],
+    "short": "A bush or thick clump of ivy.",
+    "note": "An old word for an ivy bush or dense growth of ivy; tod is a bush, tuft, or tangled mass of vegetation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordnik.com/words/ivy-tod",
+        "label": "Century Dictionary via Wordnik: ivy-tod"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): When the ivy-tod is heavy with snow, And the owlet whoops to the wolf below, That eats the she-wolf’s young. —SAMUEL TAYLOR COLERIDGE, “The Rime of the Ancient Marine"
+  },
+  {
+    "id": "john-of-the-cross",
+    "term": "St. John of the Cross",
+    "aliases": [
+      "ST. JOHN OF THE CROSS",
+      "St John of the Cross",
+      "Saint John of the Cross"
+    ],
+    "short": "Spanish Carmelite mystic and poet (1542–1591).",
+    "note": "A Carmelite reformer and religious poet whose writings describe spiritual purification, detachment, and union with God. His major works include The Ascent of Mount Carmel and The Dark Night.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.vatican.va/content/benedict-xvi/en/audiences/2011/documents/hf_ben-xvi_aud_20110216.pdf",
+        "label": "Vatican: Saint John of the Cross"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): ng.  For if you desire to possess anything, you cannot possess God as your only treasure. St John of the Cross  A girl named Cedar Branches Waving lived in the country of sliding stones where the years are longer, and it came to her as it comes to women. Her b"
+  },
+  {
+    "id": "karel-capek",
+    "term": "Karel Čapek",
+    "aliases": [
+      "Karel C�apek",
+      "Karel Capek",
+      "KAREL C�APEK",
+      "Čapek"
+    ],
+    "short": "Czech writer; the quotation comes from his account of a cat’s viewpoint.",
+    "note": "The Czech writer Karel Čapek wrote the humorous essay From the Point of View of a Cat. Its feline narrator treats a human housemate as a source of warmth before returning to the voices outside.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://yggdrasille.com/2023/01/27/from-the-point-of-view-of-a-cat-by-karel-capek/",
+        "label": "Karel Čapek: From the Point of View of a Cat (reprint)"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): ed in you. You have warmed me, and now I will go out again and listen to the dark voices. Karel C�apek  It was a brown box, a dispatch box, of decayed dark brown leather with brass reinforced corners. The brass had been painted a brownish green when th"
+  },
+  {
+    "id": "arms-and-the-man",
+    "term": "Arms and the man I sing",
+    "aliases": [],
+    "short": "The opening of Virgil’s Aeneid in John Dryden’s translation.",
+    "note": "John Dryden’s rendering of Arma virumque cano, the opening of Virgil’s Aeneid. The epic follows Aeneas from fallen Troy to Italy, where his descendants are destined to found Rome.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/64337/pg64337-images.html",
+        "label": "John Dryden: translation of Virgil’s Aeneid"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): ered and tried to sit up, the three of us simply stared at him. Then David quoted wryly:  Arms and the man I sing, who forc’d by fate, And haughty Juno’s unrelenting hate, Expell’d and exil’d, left the Trojan shore.  Neither Phaedria nor I laughed, but Phaedria l"
+  },
+  {
+    "id": "polyphemus",
+    "term": "Polyphemus",
+    "aliases": [
+      "Polyphemos"
+    ],
+    "short": "The Cyclops blinded by Odysseus in the Odyssey.",
+    "note": "A one-eyed giant, son of Poseidon, who traps Odysseus and his companions in a cave. Odysseus escapes by intoxicating and blinding him, then hiding his men beneath the giant’s sheep.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Gigante/GigantePolyphemos.html",
+        "label": "Theoi: classical sources on Polyphemus"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): ing, isn’t it?” Mr. Million says, “No personalities, David.” (David is already peeking at Polyphemus the Cyclops and Odysseus, hoping I’ll go on for a long time. I feel challenged and decide to do so.) I begin, “The argument which holds descent from "
+  },
+  {
+    "id": "cyclops",
+    "term": "Cyclops",
+    "aliases": [
+      "Cyclopes"
+    ],
+    "short": "A one-eyed giant in Greek mythology.",
+    "note": "Greek mythology includes several groups of Cyclopes: divine craftsmen associated with Zeus’s thunderbolts, and the pastoral giants encountered by Odysseus. Polyphemus belongs to the latter group.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Titan/Kyklopes.html",
+        "label": "Theoi: classical sources on the Cyclopes"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third):  Mr. Million says, “No personalities, David.” (David is already peeking at Polyphemus the Cyclops and Odysseus, hoping I’ll go on for a long time. I feel challenged and decide to do so.) I begin, “The argument which holds descent from Terrestrial "
+  },
+  {
+    "id": "betsey-trotwood",
+    "term": "Betsey Trotwood",
+    "aliases": [],
+    "short": "David Copperfield’s formidable but generous great-aunt.",
+    "note": "A character in Charles Dickens’s David Copperfield. Though brusque and eccentric, she takes in the young David and becomes his protector and benefactor.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/dirs/7/6/766/766-h/766-h.htm",
+        "label": "Charles Dickens: David Copperfield"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): opperfield, and when she said this she reminded me so strikingly and unexpectedly of Aunt Betsey Trotwood that I shouted with laughter. “There’s nothing absurd about it. Your father had a sister—why shouldn’t you? You have none?” “No, ma’am, but I have a "
+  },
+  {
+    "id": "david-copperfield",
+    "term": "David Copperfield",
+    "aliases": [],
+    "short": "Charles Dickens’s novel of a boy’s growth into a writer.",
+    "note": "Published in 1849–1850, Dickens’s first-person novel follows David’s childhood, education, friendships, work, and marriages. Its characters include Betsey Trotwood, Mr. Micawber, and Uriah Heep.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/dirs/7/6/766/766-h/766-h.htm",
+        "label": "Charles Dickens: David Copperfield"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): nting the simulator. Have you a sister, Number Five?” Mr. Million had been having us read David Copperfield, and when she said this she reminded me so strikingly and unexpectedly of Aunt Betsey Trotwood that I shouted with laughter. “There’s nothing absurd "
+  },
+  {
+    "id": "etruscans",
+    "term": "Etruscans",
+    "aliases": [
+      "Etruscan"
+    ],
+    "short": "An ancient people of central Italy, influential on early Rome.",
+    "note": "The people of Etruria, chiefly in present-day Tuscany and neighboring regions. Their cities, tombs, art, and inscriptions preserve evidence of a distinctive civilization gradually absorbed into Roman power.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/it/essays/etruscan-art",
+        "label": "Metropolitan Museum of Art: Etruscan Art"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): e myself to arguments of higher probability if I were you.” I nevertheless gloss upon the Etruscans, Atlantis, and the tenacity and expansionist tendencies of a hypothetical technological culture occupying Gondwanaland. When I have finished, Mr. Mil"
+  },
+  {
+    "id": "atlantis",
+    "term": "Atlantis",
+    "aliases": [],
+    "short": "The island civilization described by Plato as lost beneath the sea.",
+    "note": "A powerful island state in Plato’s Timaeus and Critias. His account places it beyond the Pillars of Heracles and describes its destruction by earthquakes and flooding.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://classics.mit.edu/Plato/timaeus.html",
+        "label": "Plato: Timaeus, MIT Internet Classics Archive"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third):  arguments of higher probability if I were you.” I nevertheless gloss upon the Etruscans, Atlantis, and the tenacity and expansionist tendencies of a hypothetical technological culture occupying Gondwanaland. When I have finished, Mr. Million says,"
+  },
+  {
+    "id": "mu",
+    "term": "Mu",
+    "aliases": [],
+    "short": "A legendary lost continent imagined in the Pacific.",
+    "note": "A supposed sunken Pacific continent used in speculative explanations of ancient civilizations. It belongs to lost-continent speculation, rather than established geological history.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/55434/55434-h/55434-h.htm",
+        "label": "Kenneth Macgowan: Early Man in the New World"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): ut these thoughts come into our songs. It is possible that our home was named Atlantis or Mu—Gondwanaland, Africa, Poictesme, or The Country Of Friends. I, for five, remember all these names.” “Yes,” said Sandwalker. He had enjoyed the names,"
+  },
+  {
+    "id": "uranie",
+    "term": "Uranie",
+    "aliases": [],
+    "short": "Possibly Urania, the Greek Muse of astronomy.",
+    "note": "Possibly the French form of Urania, the Muse associated with astronomy and the heavens. She is commonly represented with a celestial globe and a pointing rod.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Ouranios/MousaOurania.html",
+        "label": "Theoi: Urania"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): on my cool cheek. “So you see,” Phaedria was saying, “that’s how it is with me. When Aunt Uranie—she’s only a poor cousin of mother’s, really—got home and told him about you he found out who you are, and here I am.” “Yes,” I said, and she laughed"
+  },
+  {
+    "id": "mendelian",
+    "term": "Mendelian",
+    "aliases": [],
+    "short": "Relating to Gregor Mendel’s principles of inheritance.",
+    "note": "Named for Gregor Mendel, whose pea experiments established basic patterns of inheritance. Mendelian inheritance concerns traits transmitted according to such patterns, including dominant and recessive forms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Mendelian-Inheritance",
+        "label": "National Human Genome Research Institute: Mendelian Inheritance"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third):  had to remain dominant, and people are not garden peas—few things are governed by simple Mendelian pairs.” Marsch asked, “You destroyed your failures?” I said, “He sold them. When I was a child I used to wonder why Mr. Million stopped to look at th"
+  },
+  {
+    "id": "demimondaines",
+    "term": "demimondaines",
+    "aliases": [
+      "demimondaine"
+    ],
+    "short": "Women maintained by wealthy lovers; courtesans.",
+    "note": "A historical French-derived term for courtesans or women supported by wealthy lovers. It comes from demi-monde, literally “half-world,” a socially disreputable circle bordering fashionable society.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/demimondaine",
+        "label": "Merriam-Webster: demimondaine"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): isfied my curiosity in another form by racing her to answer the knock. Two of my father’s demimondaines were waiting in the hall, costumed and painted until they seemed more alien than any abos, stately as Lombardy poplars and inhuman as specters, with "
+  },
+  {
+    "id": "chasseurs",
+    "term": "chasseurs",
+    "aliases": [
+      "chasseur"
+    ],
+    "short": "French light infantry or cavalry; literally “hunters.”",
+    "note": "Soldiers of French light infantry or light cavalry units, traditionally valued for speed and maneuverability. The word is the plural of chasseur, “hunter.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chasseur",
+        "label": "Merriam-Webster: chasseur"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): play the crippled daughter of the French governor; David, her lover (a dashing captain of chasseurs); and I, the governor himself—a part I accepted readily because it was a much better one than David’s, and offered scope for a great deal of fatherly"
+  },
+  {
+    "id": "maitre",
+    "term": "Maître",
+    "aliases": [
+      "Maitre"
+    ],
+    "short": "French: master, teacher, or a professional title of respect.",
+    "note": "A French word meaning master or teacher. It also serves as a title of address for certain professionals, especially lawyers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/us/dictionary/french-english/ma%C3%AEtre",
+        "label": "Collins French–English Dictionary: maître"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): interest to me. I knew that the tall, hatchetfaced man who ruled our house and was called Maitre by the girls and servants was my father. I had known for as long as I could remember that there was somewhere a fearsome woman—the servants were in t"
+  },
+  {
+    "id": "la-fange",
+    "term": "La Fange",
+    "aliases": [],
+    "short": "French: “the mire” or “the mud.”",
+    "note": "Fange is a literary French word for mire or mud, also used figuratively for degradation or moral filth. La is the feminine definite article, “the.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/french-english/fange",
+        "label": "Collins French–English Dictionary: fange"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): cross the yellowish, salt-tinged flood toward a huddle of even less presentable buildings—La Fange—on the bank opposite. Sainte Anne’s twin world of Sainte Croix creates fifteen-foot tides all over the planet, and these affect the river far upstrea"
+  },
+  {
+    "id": "tempus",
+    "term": "Tempus",
+    "aliases": [],
+    "short": "Latin: time.",
+    "note": "The Latin noun tempus means time, a period or occasion, and sometimes an appropriate moment or season.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://logeion.uchicago.edu/tempus",
+        "label": "University of Chicago Logeion: tempus"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): mple; especially if water stood at the roots, as it usually did. Where the river here—the Tempus—enters the sea, that was a very sacred spot to them.” Self: “Where were some others?” M. d’F: “There was a cave, far up the river, in the cliffs. I d"
+  },
+  {
+    "id": "lascaux",
+    "term": "Lascaux",
+    "aliases": [],
+    "short": "A cave complex in southwestern France renowned for Paleolithic paintings.",
+    "note": "A decorated cave in the Vézère Valley, discovered in 1940, whose walls preserve striking prehistoric images of animals. It forms part of a UNESCO World Heritage group of prehistoric sites.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/85",
+        "label": "UNESCO: Prehistoric Sites and Decorated Caves of the Vézère Valley"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): helter of Les Eyzies, the grottoes of the Périgord and the cave paintings of Altamira and Lascaux, the idea of an Annese sacred cave is irresistible. A swamp like the meadowmeres will, except maybe in one case out often thousand, completely destro"
+  },
+  {
+    "id": "les-eyzies",
+    "term": "Les Eyzies",
+    "aliases": [],
+    "short": "A French village and district central to the study of prehistory.",
+    "note": "Les Eyzies lies in the Vézère Valley of southwestern France, amid Paleolithic shelters, archaeological deposits, and decorated caves. Nearby sites form part of the valley’s World Heritage designation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/document/205807",
+        "label": "UNESCO: Vézère Valley World Heritage documentation"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): cribed. To some like me, raised on accounts of Windmill Hill Cave and the rock shelter of Les Eyzies, the grottoes of the Périgord and the cave paintings of Altamira and Lascaux, the idea of an Annese sacred cave is irresistible. A swamp like the mea"
+  },
+  {
+    "id": "egouts",
+    "term": "Egouts",
+    "aliases": [
+      "Égouts"
+    ],
+    "short": "French égouts: sewers or drains.",
+    "note": "The French plural of égout, an underground sewer or drainage channel.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/french-english/%C3%A9gout",
+        "label": "Collins French–English Dictionary: égout"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): tions. The building had been originally designed as a warehouse, and stood on the rue des Egouts close to the bay. Its owner supplied those enthusiasts who staged combats of all kinds for sport, and was credited with maintaining the largest assem"
+  },
+  {
+    "id": "altamira",
+    "term": "Altamira",
+    "aliases": [],
+    "short": "A Spanish cave famous for Paleolithic art.",
+    "note": "The cave of Altamira in northern Spain preserves outstanding prehistoric paintings and engravings. It is a major example of Paleolithic cave art and a UNESCO World Heritage site.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cultura.gob.es/mnaltamira/en/cueva-altamira/patrimonio-mundial.html",
+        "label": "Spanish Ministry of Culture: Altamira World Heritage"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): nd the rock shelter of Les Eyzies, the grottoes of the Périgord and the cave paintings of Altamira and Lascaux, the idea of an Annese sacred cave is irresistible. A swamp like the meadowmeres will, except maybe in one case out often thousand, compl"
+  },
+  {
+    "id": "nephrite",
+    "term": "nephrite",
+    "aliases": [],
+    "short": "A tough, fibrous variety of jade.",
+    "note": "One of the two principal materials called jade, the other being jadeite. Nephrite consists of tightly intergrown amphibole fibers and occurs in colors including white and several shades of green.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17486166/nephrite",
+        "label": "Office québécois de la langue française: nephrite"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third):  on their heads and arms and ankles, abos shaking their shields of woven rushes and their nephrite-tipped spears until the motion affected my bed and became, in shabby red cloth, the arms of my father’s valet come to summon me, as he did almost eve"
+  },
+  {
+    "id": "ha-ha",
+    "term": "ha-ha",
+    "aliases": [
+      "ha-has"
+    ],
+    "short": "A recessed boundary wall that leaves a landscape view unobstructed.",
+    "note": "A ditch containing a wall or fence below the normal ground level, creating a barrier without an ordinary above-ground fence breaking the view.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/ha-ha",
+        "label": "Collins English Dictionary via Dictionary.com: ha-ha"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): to flicker in the emptiness, dreams of fences and walls and the concealing ditches called ha-has, that contain a barrier you do not see until you are about to tumble on it. Once I had dreamed of standing in a paved court fenced with Corinthian pi"
+  },
+  {
+    "id": "parthenogenesis",
+    "term": "parthenogenesis",
+    "aliases": [
+      "parthenogenetically",
+      "Parthenogenetically"
+    ],
+    "short": "Development from an unfertilized egg.",
+    "note": "A form of reproduction in which an embryo develops from an egg without fertilization by a male reproductive cell.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/parthenogenesis",
+        "label": "Cambridge Dictionary: parthenogenesis"
+      }
+    ],
+    "evidence": "Verified in combined supplied prose (Best first novella; standalone second/third): anted to impress someone with my intelligence, nothing came. I felt like a stupid child. “Parthenogenetically reproduced, so that the new individual—or individuals; you can have a thousand if you want—will have a genetic structure identical to the parent. It’"
+  },
+  {
+    "id": "cave-canem",
+    "term": "Cave Canem",
+    "aliases": [],
+    "short": "Latin: “beware of the dog.”",
+    "note": "A Latin warning meaning “beware of the dog.” A famous example accompanies the dog mosaic at the entrance to the House of the Tragic Poet in Pompeii.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pompeiisites.org/wp-content/uploads/A-Guide-to-the-Pompeii-Excavations-2.pdf",
+        "label": "Pompeii Archaeological Park"
+      }
+    ]
+  },
+  {
+    "id": "sainte-anne",
+    "term": "Sainte Anne",
+    "aliases": [],
+    "short": "Possibly Saint Anne, traditionally the mother of Mary.",
+    "note": "Possibly Saint Anne, the traditional mother of the Virgin Mary and grandmother of Jesus. Her name and life come from early Christian apocryphal writings. Sainte Anne is the French form.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.newadvent.org/cathen/01538a.htm",
+        "label": "Catholic Encyclopedia"
+      }
+    ]
+  },
+  {
+    "id": "sainte-croix",
+    "term": "Sainte Croix",
+    "aliases": [],
+    "short": "French: “Holy Cross.”",
+    "note": "French for “Holy Cross”: sainte means holy or sacred, and croix means cross. The phrase commonly designates the cross of Christ in Christian place names and dedications.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cnrtl.fr/definition/croix",
+        "label": "CNRTL"
+      }
+    ]
+  },
+  {
+    "id": "port-mimizon",
+    "term": "Port-Mimizon",
+    "aliases": [],
+    "short": "Possibly Mimizan, a town on France’s Atlantic coast.",
+    "note": "Possibly Mimizan, a coastal town in the Landes region of southwestern France. Its name closely resembles Mimizon; port is the French word for a harbor.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.mimizan-tourisme.com/en/i-discover/",
+        "label": "Mimizan Tourist Office"
+      }
+    ]
+  },
+  {
+    "id": "maison-du-chien",
+    "term": "Maison du Chien",
+    "aliases": [],
+    "short": "French: “House of the Dog.”",
+    "note": "French for “House of the Dog”: maison means house, du means “of the,” and chien means dog.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cnrtl.fr/definition/chien",
+        "label": "CNRTL"
+      },
+      {
+        "url": "https://www.cnrtl.fr/definition/maison",
+        "label": "CNRTL: maison"
+      }
+    ]
+  },
+  {
+    "id": "mile-long-spaceship",
+    "term": "The Mile-Long Spaceship",
+    "aliases": [],
+    "short": "Kate Wilhelm’s first science-fiction collection, published in 1963.",
+    "note": "A collection of science-fiction stories by Kate Wilhelm, published in 1963. Its title tale first appeared in Astounding in April 1957.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://sf-encyclopedia.com/entry/wilhelm_kate",
+        "label": "The Encyclopedia of Science Fiction"
+      }
+    ]
+  },
+  {
+    "id": "number-of-beast",
+    "term": "666",
+    "aliases": [],
+    "short": "Possibly the number of the beast in Revelation 13:18.",
+    "note": "Possibly the number assigned to the beast in Revelation 13:18. The passage invites the reader to calculate a human name through its numerical value.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/revelation/13",
+        "label": "Revelation 13"
+      }
+    ]
+  },
+  {
+    "id": "culot",
+    "term": "Culot",
+    "aliases": [],
+    "short": "Possibly French culot: impudence or audacity.",
+    "note": "Possibly the French noun culot, meaning impudence, cheek, or audacity. The same word can also mean the base or bottom of an object.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.cnrtl.fr/definition/culot",
+        "label": "CNRTL"
+      }
+    ]
+  }
+]

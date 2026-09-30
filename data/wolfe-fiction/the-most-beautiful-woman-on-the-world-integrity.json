@@ -1,0 +1,24 @@
+{
+  "book": "the-most-beautiful-woman-on-the-world",
+  "sourceFiles": {
+    "endangered": {
+      "file": "_OceanofPDF.com_Endangered_Species_-_Gene_Wolfe.epub",
+      "sha256": "4b14835109c591ac7460743370fe051fad2785f9ad0e6567b9cf41f89e060c4b"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "endangered",
+      "files": [
+        "OEBPS/e9781429966214_c32.html"
+      ],
+      "sourceTextSha256": "0899bb5d40de8c0b7c456b6e53091f2582fb108b8fcdc65e7d579b3b24d1fc56",
+      "textSha256": "0899bb5d40de8c0b7c456b6e53091f2582fb108b8fcdc65e7d579b3b24d1fc56",
+      "blocks": 147
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

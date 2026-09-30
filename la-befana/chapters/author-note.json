@@ -1,0 +1,22 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 110,
+  "startWords": 1350,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">This story is based on playful theological speculation. If Jesus came into the world to save it, what about other worlds? Wouldn’t he have to come into those worlds too, if he wanted to save them? (I am misinterpreting <em>world</em> here in order to get a story.) Fine, and if the Savior is to be descended from King David . . .</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">It’s the sort of thing proposed in religion classes to get the students thinking. I’ve included it here, knowing that it will offend some people, for the same reason, and because I like it a lot. Besides, the legend of La Befana is quite real and ought to be better known.</p>\n</div></blockquote></blockquote>"
+}

@@ -1,0 +1,523 @@
+[
+  {
+    "id": "autarch",
+    "term": "autarch",
+    "aliases": [
+      "autarch",
+      "autarchs"
+    ],
+    "note": "A ruler with absolute power.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/autarch",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "An absolute ruler.",
+    "possible": false,
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "orichalcum",
+    "term": "orichalcum",
+    "aliases": [
+      "orichalk",
+      "orichalks",
+      "orichalc"
+    ],
+    "note": "An ancient copper alloy, commonly identified with brass, made from copper and zinc. Also spelled orichalk.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/orichalcum",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "An ancient copper alloy, commonly brass.",
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-020",
+      "index": 0
+    }
+  },
+  {
+    "id": "optimate",
+    "term": "optimate",
+    "aliases": [
+      "optimates"
+    ],
+    "note": "A member of the aristocracy or ruling elite. The Roman optimates defended the authority of the Senate and established aristocracy.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/optimate",
+        "label": "Wiktionary"
+      }
+    ],
+    "short": "A member of the ruling aristocracy.",
+    "possible": false,
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-123",
+      "index": 0
+    }
+  },
+  {
+    "id": "omophagist",
+    "term": "omophagist",
+    "aliases": [
+      "omophagist",
+      "omophagists"
+    ],
+    "note": "A person who eats raw meat.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/omophagist",
+        "label": "Wiktionary"
+      }
+    ],
+    "short": "Someone who eats raw meat.",
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-044",
+      "index": 0
+    }
+  },
+  {
+    "id": "increate",
+    "term": "increate",
+    "aliases": [
+      "increate"
+    ],
+    "note": "Uncreated; existing without having been made.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/increate",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Uncreated; existing without having been made.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-147",
+      "index": 0
+    }
+  },
+  {
+    "id": "halyard",
+    "term": "halyard",
+    "aliases": [
+      "halyard",
+      "halyards"
+    ],
+    "note": "A rope used to hoist or lower a sail, flag, or spar.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/halyard",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A rope used to raise a sail or flag.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-095",
+      "index": 0
+    }
+  },
+  {
+    "id": "berylline",
+    "term": "berylline",
+    "aliases": [],
+    "note": "Resembling beryl, especially its pale green coloring.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/berylline",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Resembling beryl, especially in color.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-076",
+      "index": 0
+    }
+  },
+  {
+    "id": "carrack",
+    "term": "carrack",
+    "aliases": [
+      "carracks"
+    ],
+    "note": "A large, high-sided sailing ship used in European trade during the later Middle Ages and Renaissance.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carrack",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A large, high-sided medieval sailing ship.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-064",
+      "index": 0
+    }
+  },
+  {
+    "id": "nones",
+    "term": "nones",
+    "aliases": [],
+    "note": "The traditional Christian office of prayer around three in the afternoon.",
+    "sources": [
+      {
+        "label": "None · canonical hour",
+        "url": "https://en.wikipedia.org/wiki/None_(liturgy)"
+      }
+    ],
+    "short": "A traditional afternoon office of prayer.",
+    "possible": false,
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-032",
+      "index": 0
+    }
+  },
+  {
+    "id": "lateen",
+    "term": "lateen",
+    "aliases": [],
+    "note": "Describing a triangular sail hung from a long, slanting yard.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lateen",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A triangular sail on a slanting yard.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-049",
+      "index": 0
+    }
+  },
+  {
+    "id": "eata",
+    "term": "Eata",
+    "aliases": [
+      "Eata"
+    ],
+    "note": "Possibly Saint Eata, a seventh-century Northumbrian monk, pupil of Aidan, abbot of Melrose, and bishop of Lindisfarne and Hexham.",
+    "sources": [
+      {
+        "url": "https://www.newadvent.org/cathen/05240c.htm",
+        "label": "Catholic Encyclopedia: St. Eata"
+      }
+    ],
+    "short": "Possibly Saint Eata, a Northumbrian bishop.",
+    "possible": true,
+    "occurrences": 59,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-010",
+      "index": 0
+    }
+  },
+  {
+    "id": "gurloes",
+    "term": "Gurloes",
+    "aliases": [
+      "Gurloes"
+    ],
+    "note": "Possibly Saint Gurloës, also called Urlo, the first abbot of Sainte-Croix at Quimperlé in Brittany. He died in 1057.",
+    "sources": [
+      {
+        "url": "https://fr.wikipedia.org/wiki/Saint_Gurlo%C3%ABs",
+        "label": "Saint Gurloës"
+      }
+    ],
+    "short": "Possibly Saint Gurloës, the abbot of Quimperlé.",
+    "possible": true,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-003",
+      "index": 0
+    }
+  },
+  {
+    "id": "gyoll",
+    "term": "Gyoll",
+    "aliases": [
+      "Gyoll"
+    ],
+    "note": "Gjöll, the river on the road to Hel in Norse mythology. Its bridge, Gjallarbrú, is guarded by Móðguðr. Hermóðr crosses it when he journeys to the dead to seek Baldr.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gj%C3%B6ll",
+        "label": "Gjöll"
+      }
+    ],
+    "short": "Gjöll, the Norse river on the road to Hel.",
+    "possible": false,
+    "occurrences": 8,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-018",
+      "index": 0
+    }
+  },
+  {
+    "id": "nessus",
+    "term": "Nessus",
+    "aliases": [
+      "Nessus"
+    ],
+    "note": "A centaur and ferryman in Greek mythology. Heracles shot him after he attacked Deianira. Before dying, Nessus persuaded her that his blood was a love charm; the poisoned garment she later sent Heracles caused his death.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Georgikos/KentaurosNessos.html",
+        "label": "Theoi: Nessus — ancient sources"
+      }
+    ],
+    "short": "A centaur and ferryman of Greek mythology.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-074",
+      "index": 0
+    }
+  },
+  {
+    "id": "lune",
+    "term": "Lune",
+    "aliases": [
+      "Lune"
+    ],
+    "note": "French for “moon,” from Latin luna.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/lune#French",
+        "label": "Wiktionary: lune — French"
+      }
+    ],
+    "short": "French for moon.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-070",
+      "index": 0
+    }
+  },
+  {
+    "id": "asimi",
+    "term": "asimi",
+    "short": "Greek: silver.",
+    "note": "Modern Greek asími (ασήμι): silver, the metal.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/%CE%B1%CF%83%CE%AE%CE%BC%CE%B9#Greek",
+        "label": "Wiktionary · ασήμι"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 10,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-019",
+      "index": 0
+    }
+  },
+  {
+    "id": "maxellindis",
+    "term": "Maxellindis",
+    "short": "Possibly Saint Maxellende of Caudry.",
+    "note": "Possibly Saint Maxellende of Caudry, a seventh-century martyr. In her legend, she refuses an arranged marriage after choosing a religious life; her rejected suitor kills her and becomes blind. His sight returns after repentance. She is traditionally invoked for eye ailments.",
+    "sources": [
+      {
+        "url": "https://nominis.cef.fr/contenus/saint/97/Sainte-Maxellende.html",
+        "label": "Nominis · Saint Maxellende"
+      }
+    ],
+    "aliases": [],
+    "possible": true,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-146",
+      "index": 0
+    }
+  },
+  {
+    "id": "severian",
+    "term": "Severian",
+    "short": "Possibly Saint Severian of Scythopolis.",
+    "note": "Possibly Saint Severian, the fifth-century bishop of Scythopolis killed during the disputes following the Council of Chalcedon. Severianus is a Roman name derived from Severus, stern or serious.",
+    "sources": [
+      {
+        "url": "https://www.catholic.org/saints/saint.php?saint_id=5720",
+        "label": "Catholic Online · Severian of Scythopolis"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/Severus#Latin",
+        "label": "Wiktionary · Severus"
+      }
+    ],
+    "aliases": [],
+    "possible": true,
+    "occurrences": 6,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-003",
+      "index": 0
+    }
+  },
+  {
+    "id": "catamite",
+    "term": "catamite",
+    "short": "A boy or young man kept for sexual use.",
+    "note": "A historical, derogatory term for a boy or young man kept for sexual use by an older man. From Latin Catamitus, the Roman form of Ganymede’s name.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/catamite",
+        "label": "Merriam-Webster · catamite"
+      }
+    ],
+    "aliases": [
+      "catamites"
+    ],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-007",
+      "index": 0
+    }
+  },
+  {
+    "id": "cordwain",
+    "term": "cordwain",
+    "aliases": [
+      "cordwain"
+    ],
+    "short": "Cordovan leather.",
+    "note": "An old English name for cordovan leather, with a word history running through French to Spanish cordobán.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cordwain",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-060",
+      "index": 0
+    }
+  },
+  {
+    "id": "chrisos",
+    "term": "chrisos",
+    "aliases": [
+      "chrisos"
+    ],
+    "short": "Possibly Greek chrysos: gold.",
+    "note": "Possibly Greek chrysos (χρυσός), gold, also used collectively for objects made from gold.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Alsj-n114972/",
+        "label": "Liddell–Scott–Jones Greek lexicon · Perseus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-127",
+      "index": 0
+    }
+  },
+  {
+    "id": "aes",
+    "term": "aes",
+    "aliases": [
+      "aes"
+    ],
+    "short": "Latin: copper, bronze, or money.",
+    "note": "Latin aes means copper or bronze and, by extension, objects made from those metals, including money.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n1359/",
+        "label": "Lewis and Short Latin dictionary · Perseus"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-121",
+      "index": 0
+    }
+  },
+  {
+    "id": "syntyche",
+    "term": "Syntyche",
+    "aliases": [],
+    "short": "Possibly Paul’s fellow worker named in Philippians.",
+    "note": "Possibly Syntyche, an early Christian woman named with Euodia in Philippians 4:2–3; Paul describes them as fellow workers in spreading the gospel.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Philippians+4&version=WEB",
+        "label": "Bible · Philippians 4"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-003",
+      "index": 0
+    }
+  },
+  {
+    "id": "laetus",
+    "term": "Laetus",
+    "aliases": [],
+    "short": "Possibly Latin laetus: joyful or glad.",
+    "note": "Possibly Latin laetus, joyful, glad, or happy; it can also describe something fertile, flourishing, or pleasing.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Aelementary-latin-n8913/",
+        "label": "Lewis · Elementary Latin Dictionary"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-001",
+      "index": 0
+    }
+  }
+]

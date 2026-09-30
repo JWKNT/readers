@@ -32,6 +32,18 @@
   }
   function toc(container) {
     container.replaceChildren();
+    if(document.body.dataset.fiction==='story') {
+      for(const c of state.manifest.chapters) {
+        const a=document.createElement('a');a.href='#'+c.id;a.dataset.chapter=c.id;
+        a.className='story-link'+(c.kind==='reference'?' story-note':'');
+        a.textContent=c.kind==='reference'?c.title:'Text';container.append(a);
+        for(const section of c.sections||[]) {
+          const link=document.createElement('a');link.className='story-link story-section';
+          link.href='#'+c.id+'/'+section.paragraph;link.textContent=section.title;container.append(link);
+        }
+      }
+      return;
+    }
     for(const v of state.manifest.volumes) {
       const detail=document.createElement('details');detail.dataset.volume=v.id;
       const head=document.createElement('summary');head.textContent=v.title.replace(/^The /,'');detail.append(head);
@@ -78,7 +90,7 @@
     }
   }
   function activateNotes() {
-    for(const el of $$('.word[data-first="true"]',$('#chapter-body'))) {
+    for(const el of $$('.word[data-first="true"]',$('#reading'))) {
       if(!state.terms.has(el.dataset.term))continue;
       el.tabIndex=0;el.setAttribute('role','button');el.setAttribute('aria-haspopup','dialog');el.setAttribute('aria-expanded','false');
       el.setAttribute('aria-label',el.textContent+' — definition');
@@ -99,7 +111,7 @@
   }
   function makeSidenotes() {
     $('#sidenotes').replaceChildren();$('#note-leaders').replaceChildren();marginItems=[];
-    for(const word of $$('.word[data-first="true"][tabindex]',$('#chapter-body'))) {
+    for(const word of $$('.word[data-first="true"][tabindex]',$('#reading'))) {
       const term=state.terms.get(word.dataset.term);if(!term)continue;
       const note=document.createElement('section');note.className='margin-note';note.dataset.term=term.id;
       const head=document.createElement('button');head.type='button';head.className='margin-term';head.dataset.term=term.id;
@@ -178,7 +190,7 @@
     try {
       let c=state.cache.get(id);if(!c){c=await getJSON('chapters/'+id+'.json');state.cache.set(id,c);if(state.cache.size>8)state.cache.delete(state.cache.keys().next().value);}
       if(token!==state.token)return;
-      state.chapter=c;$('#chapter-title').textContent=c.title;document.title=c.title+' · '+state.manifest.title;
+      state.chapter=c;if(c.headingHtml)$('#chapter-title').innerHTML=c.headingHtml;else $('#chapter-title').textContent=c.title;document.title=c.title+' · '+state.manifest.title;
       $('#chapter-body').innerHTML=c.html;$('#chapter-body').dataset.volume=c.volume;$('#chapter-body').classList.toggle('dramatic-chapter',c.layout==='drama');
       for(const img of $$('#chapter-body img')){const src=img.getAttribute('src');if(src.startsWith('../images/'))img.setAttribute('src',src.slice(3));else if(src.startsWith('../../assets/'))img.setAttribute('src',src.slice(3));}
       for(const img of $$('#chapter-body .initial-image')){if(edition){const u=new URL(img.src);u.searchParams.set('v',edition);img.src=u.href;}}
@@ -196,7 +208,7 @@
     }catch(e){if(token===state.token){state.loading=false;$('#reading').setAttribute('aria-busy','false');showError(e);}}
   }
   function scrollToPassage(id) {
-    const el=id?$('#chapter-body').querySelector('#'+CSS.escape(id)):null;
+    const el=id?$('#reading').querySelector('#'+CSS.escape(id)):null;
     if(el){el.scrollIntoView({block:'start',behavior:'instant'});window.scrollBy(0,-28);}
     else window.scrollTo({top:0,behavior:'instant'});
   }
@@ -227,12 +239,12 @@
   }
   function delayClose(){clearTimeout(showTimer);clearTimeout(closeTimer);closeTimer=setTimeout(()=>{if(!popup.matches(':hover')&&!popup.contains(document.activeElement)&&!anchor?.matches(':hover'))closePopup(false);},340);}
   function noteTarget(e) {return e.target.closest?.('.word[data-first="true"][tabindex]');}
-  $('#chapter-body').addEventListener('pointerover',e=>{if(e.pointerType==='touch')return;const el=noteTarget(e);if(!el)return;clearTimeout(closeTimer);clearTimeout(showTimer);showTimer=setTimeout(()=>showPopup(el),90);});
-  $('#chapter-body').addEventListener('pointerout',e=>{const el=noteTarget(e);if(el&&!el.contains(e.relatedTarget))delayClose();});
-  $('#chapter-body').addEventListener('focusin',e=>{const el=noteTarget(e);if(el&&el!==ignoreFocus)showPopup(el);});
-  $('#chapter-body').addEventListener('focusout',e=>{if(noteTarget(e))delayClose();});
-  $('#chapter-body').addEventListener('click',e=>{const el=noteTarget(e);if(el){e.preventDefault();showPopup(el);}});
-  $('#chapter-body').addEventListener('keydown',e=>{const el=noteTarget(e);if(!el)return;if(e.key==='Enter'||e.key===' '){e.preventDefault();showPopup(el);}else if(e.key==='Tab'&&!e.shiftKey&&!popup.hidden&&anchor===el){e.preventDefault();(popup.querySelector('a')||$('#word-close')).focus();}});
+  $('#reading').addEventListener('pointerover',e=>{if(e.pointerType==='touch')return;const el=noteTarget(e);if(!el)return;clearTimeout(closeTimer);clearTimeout(showTimer);showTimer=setTimeout(()=>showPopup(el),90);});
+  $('#reading').addEventListener('pointerout',e=>{const el=noteTarget(e);if(el&&!el.contains(e.relatedTarget))delayClose();});
+  $('#reading').addEventListener('focusin',e=>{const el=noteTarget(e);if(el&&el!==ignoreFocus)showPopup(el);});
+  $('#reading').addEventListener('focusout',e=>{if(noteTarget(e))delayClose();});
+  $('#reading').addEventListener('click',e=>{const el=noteTarget(e);if(el){e.preventDefault();showPopup(el);}});
+  $('#reading').addEventListener('keydown',e=>{const el=noteTarget(e);if(!el)return;if(e.key==='Enter'||e.key===' '){e.preventDefault();showPopup(el);}else if(e.key==='Tab'&&!e.shiftKey&&!popup.hidden&&anchor===el){e.preventDefault();(popup.querySelector('a')||$('#word-close')).focus();}});
   popup.addEventListener('pointerenter',()=>clearTimeout(closeTimer));popup.addEventListener('pointerleave',delayClose);
   popup.addEventListener('focusin',()=>clearTimeout(closeTimer));popup.addEventListener('focusout',delayClose);
   $('#word-close').addEventListener('click',()=>closePopup(true));

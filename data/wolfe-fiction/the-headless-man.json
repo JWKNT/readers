@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pliny",
+    "term": "Pliny",
+    "aliases": [],
+    "short": "The Roman author of the Natural History.",
+    "note": "Pliny the Elder (23–79 CE), author of the encyclopedic Natural History. Its accounts of distant peoples include the Blemmyae, described as having no heads and faces in their chests.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/57493",
+        "label": "Pliny the Elder · Natural History"
+      }
+    ],
+    "evidence": "c10: ry about an execution. I was born this way. I don’t remember it, of course. But Pliny (Pliny the elder, I think; you could look it up) told all about us. He said we lived in India. (I live in Indiana, which shouldn’t be the s"
+  },
+  {
+    "id": "marco-polo",
+    "term": "Marco Polo",
+    "aliases": [],
+    "short": "The Venetian traveler whose journeys were recorded in the Travels.",
+    "note": "Marco Polo, a thirteenth-century Venetian traveler whose account of Asian lands became one of medieval Europe’s most influential travel books.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/12410/12410-h/12410-h.htm",
+        "label": "Marco Polo · Travels"
+      }
+    ],
+    "evidence": "c10:  the same thing at all, but somehow is.) And in old manuscript illustrations of Marco Polo we appear. (I say we because I feel a kinship. It’s a lovely little picture, a miniature, and there is also a man—he’s Pliny’s too—shading "
+  }
+]

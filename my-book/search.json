@@ -1,0 +1,47 @@
+[
+  {
+    "id": "story",
+    "index": 0,
+    "title": "My Book",
+    "volume": "text",
+    "kind": "chapter",
+    "paragraphs": [
+      {
+        "id": "chapter-title",
+        "text": "My Book"
+      },
+      {
+        "id": "p-001",
+        "text": "I HAVE been writing my book for a long time now. In the morning, before anyone else is up, I wake to Mahler on the clock radio, shave, and go to my desk. On weekends, while the others are watching baseball, I am there too, scoring my own hits, my own runs. And in the evenings. “It keeps me off the streets,” I say, though only to myself. To my manuscript. At night, when I cannot sleep, I come here too, and that is best of all. I do not hear the cry of the solitary owl; but I wish I did, which is almost as good."
+      },
+      {
+        "id": "p-002",
+        "text": "Sometimes—indeed, usually—I do not write. A great deal of time is consumed by research, by planning. I heat water in my yellow electric pot, sharpen pencils, and turn over a thousand old books, most of them quite worthless. They fascinate me. Valuable books are like diamonds, iridescent and unchanging. It is in the ephemeral that I see the changing face of Nature reflected. The day darkens; the very leaves fall."
+      },
+      {
+        "id": "p-003",
+        "text": "I mark certain passages in all these books, as Tom Sawyer marked similar passages in Injun Joe’s Cave. It is often years before I find them again, with an archaeologist’s thrill of rediscovery. No doubt there are many more I never find."
+      },
+      {
+        "id": "p-004",
+        "text": "Quite recently, in an essay by Philip Rahv, I came across the passage that began it all. My writing has been influenced by many other passages: “I’ve progressed, in one sense, rather alarmingly. I’m now thinking of reconstructing the whole thing,” by Oliver Onions, and Stout’s, “It was nice to know the next step was obvious, but it would have been even nicer to know what it was.” But it was this (forgotten now for so many years) that set me off: “Man is now unaware of the real powers that govern his life; insofar as he has any knowledge of divinity it is as of something purely historical.” The unreeling of human history is implied, and from that thought I have taken my method. Of every book, there must be a last word as well as a first, and as the last—infinitely, in the scale of mere words, removed from the first—is also infinitely more important, I determined to write it first. I at once discovered that it scarcely mattered what it was. But after long contemplation of the book I had conceived, and somewhat, I admit, in a spirit of jocular defiance, I settled on the word preface."
+      },
+      {
+        "id": "p-005",
+        "text": "At once I found that the whole book had changed, shifting like a kaleidoscope to become something novel and strange. The last word decided, it crystallized without solidification. The penultimate word seemed foreordained yet enigmatic: begin. The ending would be pregnant with the origins of things, raveling history to the finish. Everything altered again, as ice shifts upon a river, groaning, cracking in the night. I returned to find the white sheets destroyed, though each was where I had left it. I began the search for the antepenultimate word."
+      },
+      {
+        "id": "p-006",
+        "text": "It was will, the word of purpose, the impulse that began the universe."
+      },
+      {
+        "id": "p-007",
+        "text": "And then the preantepenultimate word …"
+      },
+      {
+        "id": "p-008",
+        "text": "And so I have proceeded, step by laborous (delightful) step, chapter by chapter, until soon, perhaps this very year, surely before the coronation, I will begin the preface."
+      }
+    ]
+  }
+]

@@ -30,3 +30,11 @@ The Three-Body Problem and Death’s End translated by Ken Liu, The Dark Forest
 translated by Joel Martinsen. Original copyright pages, translator notes, and
 postscripts are retained as supplementary material. Source illustrations remain
 credited to their original rights holders.
+
+The additional Gene Wolfe readers transform the three supplied Fifth Head,
+Best of Gene Wolfe, and Endangered Species EPUBs. The first Fifth Head novella
+uses the more complete Best text; the remaining novellas use the standalone
+EPUB. Original story afterwords, epigraphs, and meaningful inline illustrations
+are retained. Source selection and OCR limitations are recorded in NOTES-V13.md.
+The 64 new scene ornaments are original project SVG artwork, reproducible with
+tools/reader_ornaments.py. New readers reuse approved historical initial assets.

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "barbican",
+    "term": "barbican",
+    "aliases": [
+      "barbican",
+      "barbicans"
+    ],
+    "note": "An outer fortification protecting a gate or bridge: a defensive entrance before the main entrance.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/barbican",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "An outer fortification guarding an entrance.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-010",
+      "index": 0
+    }
+  },
+  {
+    "id": "falchion",
+    "term": "falchion",
+    "aliases": [
+      "falchions"
+    ],
+    "note": "A single-edged sword with a blade suited to cutting.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/falchion",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A single-edged cutting sword.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "undine",
+    "term": "undine",
+    "aliases": [
+      "undines"
+    ],
+    "note": "A water spirit in European elemental lore and literature, commonly imagined in female form.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/undine",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A water spirit of European elemental lore.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-010",
+      "index": 0
+    }
+  },
+  {
+    "id": "galleass",
+    "term": "galleass",
+    "aliases": [
+      "galleasses"
+    ],
+    "note": "A large war galley propelled by both oars and sails and equipped with heavy guns.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/galleass",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A large galley powered by oars and sails.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
+  },
+  {
+    "id": "scramasax",
+    "term": "scramasax",
+    "aliases": [],
+    "short": "A large single-edged knife of early medieval Europe.",
+    "note": "A seax: a single-edged knife or short sword associated with early medieval Germanic peoples, including the Anglo-Saxons.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.britishmuseum.org/collection/object/H_1857-0623-1",
+        "label": "British Museum · seax"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-002",
+      "index": 0
+    }
+  },
+  {
+    "id": "woden",
+    "term": "Woden",
+    "aliases": [],
+    "short": "The Old English counterpart of Odin.",
+    "note": "Woden is the Old English form of Odin, the chief god of the Norse pantheon, associated with wisdom, poetry, and warfare.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/18947/18947-h/18947-h.htm",
+        "label": "Snorri Sturluson · The Prose Edda"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-021",
+      "index": 0
+    }
+  },
+  {
+    "id": "frigg",
+    "term": "Frigg",
+    "aliases": [],
+    "short": "Odin’s wife in Norse mythology.",
+    "note": "A leading goddess of the Æsir, wife of Odin and mother of Baldr in Norse mythology.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/18947/18947-h/18947-h.htm",
+        "label": "Snorri Sturluson · The Prose Edda"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-021",
+      "index": 0
+    }
+  },
+  {
+    "id": "freya",
+    "term": "Freya",
+    "aliases": [],
+    "short": "The Norse goddess Freyja.",
+    "note": "Freyja, a goddess of the Vanir associated with love and beauty. In the Prose Edda she rides in a chariot drawn by cats and receives a share of those slain in battle.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/18947/18947-h/18947-h.htm",
+        "label": "Snorri Sturluson · The Prose Edda"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-021",
+      "index": 0
+    }
+  },
+  {
+    "id": "solzhenitsyn",
+    "term": "Solzhenitsyn",
+    "aliases": [],
+    "short": "The Russian writer and 1970 Nobel laureate.",
+    "note": "Aleksandr Solzhenitsyn (1918–2008), Russian novelist and chronicler of the Soviet prison-camp system, awarded the 1970 Nobel Prize in Literature.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.solzhenitsyncenter.org/his-life-overview/biography",
+        "label": "Aleksandr Solzhenitsyn Center · biography"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-031",
+      "index": 0
+    }
+  }
+]

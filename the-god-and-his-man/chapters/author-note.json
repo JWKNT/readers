@@ -1,0 +1,23 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002",
+    "p-003"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 122,
+  "startWords": 2205,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">This is a story about which I cannot say anything of real substance. On its first publication, the word <em>maser</em> was changed by the proofreader (I was told, at least, that it was by the proofreader) to <em>master</em>. Not all the time, only sometimes. The stories of other writers have suffered worse things, but when I read this one (or simply think about it) I can focus on nothing else. Most of you will already know what a maser is: a microwave amplifier.</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">Let us say you have this microwave, one that will scarcely hold a sixteen-inch frozen pizza. With a maser, you could make it a great big house-sized thing you might induce a proofreader to walk into. . . .</p>\n<p class=\"prose\" id=\"p-003\" data-block=\"p-003\">Oh, never mind!</p>\n</div></blockquote></blockquote>"
+}

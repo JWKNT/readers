@@ -1,0 +1,25 @@
+{
+  "book": "the-tale-of-the-rose-and-the-nightingale-and-what-came-of-it",
+  "sourceFiles": {
+    "endangered": {
+      "file": "_OceanofPDF.com_Endangered_Species_-_Gene_Wolfe.epub",
+      "sha256": "4b14835109c591ac7460743370fe051fad2785f9ad0e6567b9cf41f89e060c4b"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "endangered",
+      "files": [
+        "OEBPS/e9781429966214_c33.html",
+        "OEBPS/e9781429966214_c34.html"
+      ],
+      "sourceTextSha256": "cb640fe91719af0c378f3525fe6f976e4d493d6cb9df5426a1b74439b0fddcd3",
+      "textSha256": "cb640fe91719af0c378f3525fe6f976e4d493d6cb9df5426a1b74439b0fddcd3",
+      "blocks": 302
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

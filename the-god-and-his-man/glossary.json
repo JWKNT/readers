@@ -1,0 +1,62 @@
+[
+  {
+    "id": "maser",
+    "term": "Maser",
+    "aliases": [],
+    "short": "Possibly the microwave counterpart of a laser.",
+    "note": "Possibly maser, a device using stimulated emission to amplify or generate microwaves. Its name abbreviates microwave amplification by stimulated emission of radiation.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/time-frequency-z/time-and-frequency-z-h",
+        "label": "NIST: hydrogen maser"
+      }
+    ],
+    "occurrences": 8,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
+  },
+  {
+    "id": "spinney",
+    "term": "spinney",
+    "aliases": [],
+    "short": "A small grove or thicket.",
+    "note": "A small wood or dense thicket of trees and undergrowth.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-015",
+      "index": 0
+    }
+  },
+  {
+    "id": "fastness",
+    "term": "fastness",
+    "aliases": [],
+    "short": "A stronghold or secure retreat.",
+    "note": "A strongly protected place, especially a remote refuge difficult to approach.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-009",
+      "index": 0
+    }
+  }
+]

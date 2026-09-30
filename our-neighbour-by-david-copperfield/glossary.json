@@ -1,0 +1,84 @@
+[
+  {
+    "id": "david-copperfield",
+    "term": "David Copperfield",
+    "aliases": [
+      "Copperfield"
+    ],
+    "short": "Dickens’s novel about a boy’s growth into a writer.",
+    "note": "Charles Dickens’s novel David Copperfield (1849–1850), narrated as its title character’s autobiography. Dora Spenlow and her small dog Jip are among its characters.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/766",
+        "label": "Charles Dickens · David Copperfield"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "chapter-title",
+      "index": 0
+    }
+  },
+  {
+    "id": "franz-joseph-gall",
+    "term": "Franz Joseph Gall",
+    "aliases": [],
+    "short": "The physician associated with phrenology.",
+    "note": "Franz Joseph Gall (1758–1828), German physician whose work helped establish phrenology: the now-discredited practice of inferring character and mental faculties from the shape of the skull.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co134363",
+        "label": "Science Museum · phrenological head of Gall"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-061",
+      "index": 0
+    }
+  },
+  {
+    "id": "lincolns-inn",
+    "term": "Lincolns Inn",
+    "aliases": [],
+    "short": "One of London’s four Inns of Court.",
+    "note": "Lincoln’s Inn, one of the four professional societies of barristers in England and Wales. Its surviving institutional records begin in 1422.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.lincolnsinn.org.uk/about-us/the-history-of-the-inn/",
+        "label": "Lincoln’s Inn · institutional history"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-008",
+      "index": 0
+    }
+  },
+  {
+    "id": "sere",
+    "term": "sere",
+    "short": "Dry and withered.",
+    "note": "Dry, withered, or stripped of freshness, especially of vegetation. A literary description of leaves or land, rather than a statement about temperature alone.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sere",
+        "label": "Merriam-Webster · sere"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-027",
+      "index": 0
+    }
+  }
+]

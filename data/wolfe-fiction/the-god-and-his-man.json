@@ -1,0 +1,47 @@
+[
+  {
+    "id": "maser",
+    "term": "Maser",
+    "aliases": [],
+    "short": "Possibly the microwave counterpart of a laser.",
+    "note": "Possibly maser, a device using stimulated emission to amplify or generate microwaves. Its name abbreviates microwave amplification by stimulated emission of radiation.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/time-frequency-z/time-and-frequency-z-h",
+        "label": "NIST: hydrogen maser"
+      }
+    ],
+    "evidence": " when he did not wish to be seen, and he gave Man the enchanted sword Maser, whose blade is as long as the wielder wishes it (though it weighs nothing) and against w"
+  },
+  {
+    "id": "spinney",
+    "term": "spinney",
+    "aliases": [],
+    "short": "A small grove or thicket.",
+    "note": "A small wood or dense thicket of trees and undergrowth.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "evidence": "he blade of his shovel into the earth and turned his back to it. In a spinney he drew out Maser (which he had not drawn for so long that he feared its magic was no mor"
+  },
+  {
+    "id": "fastness",
+    "term": "fastness",
+    "aliases": [],
+    "short": "A stronghold or secure retreat.",
+    "note": "A strongly protected place, especially a remote refuge difficult to approach.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "evidence": "wers venerated him. At last he grew rich, and built a citadel in the fastness of the mountains. It stood upon a cliff and was rimmed with mighty walls. A thousand spea"
+  }
+]

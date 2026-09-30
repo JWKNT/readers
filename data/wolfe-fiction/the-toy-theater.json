@@ -1,0 +1,182 @@
+[
+  {
+    "id": "sarg",
+    "term": "Sarg",
+    "aliases": [],
+    "short": "Possibly puppeteer Tony Sarg.",
+    "note": "Possibly Tony Sarg, the puppeteer and illustrator who created touring marionette productions and designed the giant balloons used in Macy’s Thanksgiving parade.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.aaa.si.edu/collections/tony-sarg-papers-8615",
+        "label": "Smithsonian Archives of American Art: Tony Sarg"
+      }
+    ],
+    "evidence": "THE TOY THEATER Eight hours before we were due to land on Sarg they dropped a pamphlet into the receiving tray of the two-by-four plastic closet that wa"
+  },
+  {
+    "id": "zanni",
+    "term": "Zanni",
+    "aliases": [],
+    "short": "The comic servants of commedia dell’arte.",
+    "note": "The servant characters of Italian commedia dell’arte, whose jokes, tricks, and acrobatics drive its improvised comedies. The English word zany derives from their name.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/en/essays/commedia-dellarte",
+        "label": "The Metropolitan Museum of Art: commedia dell’arte"
+      }
+    ],
+    "evidence": "ing of his that I had heard described, except the famous comic butler Zanni. Stromboli showed me how to keep five figures in motion at a time, differentiating their "
+  },
+  {
+    "id": "columbine",
+    "term": "Columbine",
+    "aliases": [],
+    "short": "The clever maid of commedia dell’arte.",
+    "note": "Colombina or Columbine is the quick-witted maidservant of Italian commedia dell’arte, commonly associated with Harlequin.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/en/essays/commedia-dellarte",
+        "label": "The Metropolitan Museum of Art: commedia dell’arte"
+      }
+    ],
+    "evidence": "the dolls pitched high. But now listen.” He made Julia, Lucinda, and Columbine, three of his girls, step forward. For a moment they simply giggled; then, after a whispe"
+  },
+  {
+    "id": "sarah-van-fleet",
+    "term": "Sarah Van Fleet",
+    "aliases": [],
+    "short": "A fragrant pink rugosa rose cultivar.",
+    "note": "Rosa ‘Sarah van Fleet’ is a vigorous, thorny shrub rose with fragrant, semi-double pink flowers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.rhs.org.uk/plants/39337/rosa-sarah-van-fleet-ru/details",
+        "label": "Royal Horticultural Society: Sarah van Fleet"
+      }
+    ],
+    "evidence": "aw Colorado spruce, and a lot of the old, hardy, half-wild roses like Sarah Van Fleet and Amelie Gravereaux. Stromboli, the man I was coming to see, had sent a buggy and a dr"
+  },
+  {
+    "id": "joruri",
+    "term": "Joruri",
+    "aliases": [],
+    "short": "Japanese chanted puppet-theatre narration.",
+    "note": "Jōruri is dramatic narration performed with shamisen accompaniment. In ningyō jōruri, also called bunraku, chanters and musicians work with puppeteers to perform the drama.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bunraku.library.columbia.edu/texts-of-bunraku/",
+        "label": "Columbia University: texts of bunraku"
+      }
+    ],
+    "evidence": "hile his fingers flew over the levers of Zanni’s controller. I said, “Joruri.” “Joruri, sir?” “The Japanese puppet theater. The operators stand in full view of the "
+  },
+  {
+    "id": "craquelure",
+    "term": "craquelure",
+    "aliases": [],
+    "short": "A network of fine surface cracks.",
+    "note": "The fine cracking of paint, varnish, glaze, or enamel on an artwork, often produced as its layers age.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/craquelure",
+        "label": "Merriam-Webster: craquelure"
+      }
+    ],
+    "evidence": "was, though the delicately tinted cheeks beneath the cosmetics showed craquelure. “Very beautiful but older than you.” “A few years, maybe.” “Much more. But you find m"
+  },
+  {
+    "id": "under-the-rose",
+    "term": "under the rose",
+    "aliases": [],
+    "short": "In secrecy; the English form of sub rosa.",
+    "note": "An expression meaning confidentially or in secret, translating the Latin sub rosa, literally “under the rose.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sub%20rosa",
+        "label": "Merriam-Webster: sub rosa"
+      }
+    ],
+    "evidence": "consider a part of what you have learned here—at least a part, sir—as under the rose.” I nodded. I had found Stromboli at last, standing in a corner. His face was perfectly "
+  },
+  {
+    "id": "coloratura-soprano",
+    "term": "coloratura soprano",
+    "aliases": [],
+    "short": "A high voice agile in elaborate ornament.",
+    "note": "A soprano suited to elaborate runs, leaps, trills, and other rapid vocal ornament.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://operabox.nationalopera.gr/en/ti-einai-i-opera/fones-kai-eidikotites/",
+        "label": "Greek National Opera: voice types"
+      }
+    ],
+    "evidence": "hey burst into Rosine’s song from The Barber of Seville—Julia singing coloratura soprano, Columbine mezzo-soprano, and Lucinda contralto. “Don’t record,” Stromboli admonished me"
+  },
+  {
+    "id": "mezzo-soprano",
+    "term": "mezzo-soprano",
+    "aliases": [],
+    "short": "The middle female classical voice range.",
+    "note": "A classical singing voice lying between soprano and contralto in range and characteristic tone.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://operabox.nationalopera.gr/en/ti-einai-i-opera/fones-kai-eidikotites/",
+        "label": "Greek National Opera: voice types"
+      }
+    ],
+    "evidence": "rom The Barber of Seville—Julia singing coloratura soprano, Columbine mezzo-soprano, and Lucinda contralto. “Don’t record,” Stromboli admonished me. “It is easy to record a"
+  },
+  {
+    "id": "contralto",
+    "term": "contralto",
+    "aliases": [],
+    "short": "The lowest standard female classical voice.",
+    "note": "The lowest of the usual female classical voice categories, below mezzo-soprano and soprano.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://operabox.nationalopera.gr/en/ti-einai-i-opera/fones-kai-eidikotites/",
+        "label": "Greek National Opera: voice types"
+      }
+    ],
+    "evidence": "ulia singing coloratura soprano, Columbine mezzo-soprano, and Lucinda contralto. “Don’t record,” Stromboli admonished me. “It is easy to record and cheat; but a good au"
+  },
+  {
+    "id": "stromboli",
+    "term": "Stromboli",
+    "aliases": [],
+    "short": "Possibly the puppet-show proprietor in Pinocchio.",
+    "note": "Possibly Stromboli, the puppet-show proprietor in Disney’s animated Pinocchio (1940).",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://d23.com/a-to-z/stromboli/",
+        "label": "Disney D23: Stromboli"
+      }
+    ],
+    "evidence": ", hardy, half-wild roses like Sarah Van Fleet and Amelie Gravereaux. Stromboli, the man I was coming to see, had sent a buggy and a driver for me (if you don’t want ind"
+  },
+  {
+    "id": "the-barber-of-seville",
+    "term": "The Barber of Seville",
+    "aliases": [],
+    "short": "The Figaro comedy made famous by Rossini’s opera.",
+    "note": "Beaumarchais’s comedy about the resourceful barber Figaro and the courtship of Rosine, called Rosina in Rossini’s 1816 operatic adaptation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metopera.org/learn/education/timeline-rossini/",
+        "label": "Metropolitan Opera: The Barber of Seville"
+      }
+    ],
+    "evidence": " whispered but audible conference, they burst into Rosine’s song from The Barber of Seville—Julia singing coloratura soprano, Columbine mezzo-soprano, and Lucinda contralto. “Don’t"
+  }
+]

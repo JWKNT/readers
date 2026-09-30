@@ -1,0 +1,107 @@
+{
+  "schema": 1,
+  "id": "the-boy-who-hooked-the-sun",
+  "title": "The Boy Who Hooked the Sun",
+  "author": "Gene Wolfe",
+  "volumes": [
+    {
+      "id": "text",
+      "title": "The Boy Who Hooked the Sun",
+      "chapters": 1
+    },
+    {
+      "id": "sources",
+      "title": "Supplementary material",
+      "chapters": 0,
+      "referenceTitle": "Afterword"
+    }
+  ],
+  "totalWords": 1130,
+  "defaultChapter": "story",
+  "glossaryCount": 4,
+  "correctionCount": 0,
+  "editionVersion": 13,
+  "chapters": [
+    {
+      "id": "story",
+      "title": "The Boy Who Hooked the Sun",
+      "volume": "text",
+      "volumeTitle": "The Boy Who Hooked the Sun",
+      "number": 1,
+      "label": "",
+      "kind": "chapter",
+      "index": 0,
+      "layout": "prose",
+      "blocks": [
+        "p-001",
+        "p-002",
+        "p-003",
+        "p-004",
+        "p-005",
+        "p-006",
+        "p-007",
+        "p-008",
+        "p-009",
+        "p-010",
+        "p-011",
+        "p-012",
+        "p-013",
+        "p-014",
+        "p-015",
+        "p-016",
+        "p-017",
+        "p-018",
+        "p-019"
+      ],
+      "sections": [],
+      "headingNoteAnchors": [],
+      "headingHtml": "The Boy Who Hooked the Sun",
+      "noteAnchors": [
+        {
+          "term": "sabaoth",
+          "paragraph": "p-010"
+        },
+        {
+          "term": "kronos",
+          "paragraph": "p-010"
+        },
+        {
+          "term": "uranus",
+          "paragraph": "p-010"
+        },
+        {
+          "term": "tchataka",
+          "paragraph": "p-010"
+        }
+      ],
+      "words": 1130,
+      "startWords": 0
+    },
+    {
+      "id": "author-note",
+      "title": "Afterword",
+      "volume": "sources",
+      "volumeTitle": "Supplementary material",
+      "number": 2,
+      "label": "",
+      "kind": "reference",
+      "index": 1,
+      "layout": "prose",
+      "blocks": [
+        "p-001",
+        "p-002",
+        "p-003",
+        "p-004",
+        "p-005",
+        "p-006",
+        "p-007"
+      ],
+      "sections": [],
+      "headingNoteAnchors": [],
+      "headingHtml": "Afterword",
+      "noteAnchors": [],
+      "words": 305,
+      "startWords": 1130
+    }
+  ]
+}

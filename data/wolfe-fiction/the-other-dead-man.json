@@ -1,0 +1,51 @@
+[
+  {
+    "id": "spiracle",
+    "term": "spiracle",
+    "aliases": [
+      "spiracles"
+    ],
+    "note": "An opening that lets air enter or escape; an air vent.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/spiracle",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A breathing hole.",
+    "possible": false,
+    "evidence": "Reused previously sourced external note, context checked c31: w,” Jan said. “He hasn’t told us anything.” He followed her along the spiracle. Paula was bent over Hap, and Dawson was bent over Paula, a hand on her shoulder. Both looked up wh"
+  },
+  {
+    "id": "helios",
+    "term": "Helios",
+    "aliases": [
+      "Helios"
+    ],
+    "short": "Helios, the Greek sun god.",
+    "note": "Helios, the Greek personification of the sun, traditionally pictured driving a radiant chariot across the sky.",
+    "possible": false,
+    "sources": [
+      {
+        "label": "Homeric and other classical sources on Helios · Theoi",
+        "url": "https://www.theoi.com/Titan/Helios.html"
+      }
+    ],
+    "evidence": "Reused previously sourced external note, context checked c31: ust have knelt and sung and sacrificed to it. It had been Ra, Apollo, Helios, Heimdall, and a hundred more, this medium-sized yellow star in a remote arm of the galaxy, this ol"
+  },
+  {
+    "id": "heimdall",
+    "term": "Heimdall",
+    "aliases": [],
+    "short": "The watchman of the gods in Norse mythology.",
+    "note": "Heimdall guards the gods’ realm at the rainbow bridge Bifröst. His senses are extraordinarily keen, and he sounds the horn Gjallarhorn at Ragnarök.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/18947/18947-h/18947-h.htm",
+        "label": "Snorri Sturluson · The Prose Edda"
+      }
+    ],
+    "evidence": "c31:  must have knelt and sung and sacrificed to it. It had been Ra, Apollo, Helios, Heimdall, and a hundred more, this medium-sized yellow star in a remote arm of the galaxy, this old gas-burner, this space heater laboring to warm i"
+  }
+]

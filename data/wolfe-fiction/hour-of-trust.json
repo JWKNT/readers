@@ -1,0 +1,111 @@
+[
+  {
+    "id": "candelabrum",
+    "term": "candelabrum",
+    "aliases": [
+      "candelabra"
+    ],
+    "short": "A branched candleholder.",
+    "note": "A branched stand holding several candles.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/candelabrum",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "elf) in dull red tile. Flanking this door were elaborate wrought-iron candelabra; their candles would be lit later that night by Clio Morris, on signal from Lowell Lewis,"
+  },
+  {
+    "id": "ashlar",
+    "term": "ashlar",
+    "aliases": [
+      "ashlars"
+    ],
+    "short": "Squared stone cut for regular masonry.",
+    "note": "Stone cut into squared blocks with finished faces for building walls.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ashlar",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "ed in the same way. It depicted a barren hill topped with the tumbled ashlars of another (but equally demolished) stone building. The atmosphere of this photograph was"
+  },
+  {
+    "id": "clio",
+    "term": "Clio",
+    "aliases": [],
+    "short": "Possibly Clio, the Greek Muse of history.",
+    "note": "Possibly Clio, the Muse of history in Greek tradition, conventionally portrayed with a scroll or book.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.britishmuseum.org/collection/object/P_1898-0401-24",
+        "label": "British Museum: Clio writing history"
+      }
+    ],
+    "evidence": "ought-iron candelabra; their candles would be lit later that night by Clio Morris, on signal from Lowell Lewis, when Force Cougar was pinned down near the 75–94 int"
+  },
+  {
+    "id": "joe-nuxhall",
+    "term": "Joe Nuxhall",
+    "aliases": [],
+    "short": "A famously young baseball debutant.",
+    "note": "Cincinnati Reds pitcher who made his major-league debut aged fifteen in 1944.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.mlb.com/amp/news/joe-nuxhall-youngest-player-in-al-nl-history.html",
+        "label": "Major League Baseball: Joe Nuxhall"
+      }
+    ],
+    "evidence": "s-Browns game in New York. The youngest big leaguer ever was Hamilton Joe Nuxhall—he pitched for Cincinnati when he was fifteen. Don’t you guys care about anything?” The c"
+  },
+  {
+    "id": "dick-whittington",
+    "term": "Dick Whittington",
+    "aliases": [],
+    "short": "The London folk hero whose cat makes his fortune.",
+    "note": "The legendary poor boy who goes to London and becomes wealthy through his remarkable cat, eventually serving as Lord Mayor. The legend attaches to the historical merchant Richard Whittington.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/17652/pg17652-images.html",
+        "label": "The History of Sir Richard Whittington"
+      }
+    ],
+    "evidence": " ‘Going to be manager there, Mums, and good-bye for a bit, eh?’ Tear. Dick Whittington and all that. Tear.” “ ‘Bye, Dad,’ ” Peters said, getting into the spirit of the thing. "
+  },
+  {
+    "id": "potemkin-village",
+    "term": "Potemkin village",
+    "aliases": [],
+    "short": "A deceptive show of prosperity or success.",
+    "note": "An impressive outward display intended to conceal an undesirable reality; named for allegedly staged villages shown to Catherine the Great by Grigory Potemkin.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Potemkin%20village",
+        "label": "Merriam-Webster: Potemkin village"
+      }
+    ],
+    "evidence": ", “Some believe we have been brought here to witness a show victory—a Potemkin village of war.” Peters had been trying to guess the tall man’s nationality, thus far without suc"
+  },
+  {
+    "id": "kali",
+    "term": "Kali",
+    "aliases": [],
+    "short": "A fierce Hindu goddess and divine mother.",
+    "note": "A Hindu goddess associated with destruction, protection, and the power of the divine mother, often depicted with weapons and a garland of severed heads.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/24318",
+        "label": "The Metropolitan Museum of Art: Kali and sacrificial weapons"
+      }
+    ],
+    "evidence": "t Buddhist and Christian spiritual centers, and also at the temple of Kali just off the Edsel Ford Express-way. Also in the basement of——[—he named a well-known dep"
+  }
+]

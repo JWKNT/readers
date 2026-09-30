@@ -1,0 +1,21 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 73,
+  "startWords": 2229,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">I love this story. In truth, I like all the stories in this book (although not all the stories I have written), but this is a special favorite. Not because it ended the cycle I began with “The Island of Doctor Death and Other Stories,” but because it so resolutely refuses to be like other stories. It is its own wistful self, always, weeping as it smiles. I hope you love it, too.</p></div></blockquote></blockquote>"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "typhoid-mary",
+    "term": "Typhoid Mary",
+    "aliases": [],
+    "short": "Mary Mallon, an asymptomatic typhoid carrier.",
+    "note": "Mary Mallon, the cook whose symptomless carriage of Salmonella Typhi became a notorious example of how a person can transmit an infection without appearing ill.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section10.html",
+        "label": "CDC: chain of infection"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-297",
+      "index": 0
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ylem",
+    "term": "Ylem",
+    "aliases": [
+      "Ylem"
+    ],
+    "short": "The primordial matter of cosmological theories.",
+    "note": "A name for the original substance from which matter and the elements were thought to develop, ultimately related to Greek hylē, matter.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ylem",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "Reused previously sourced external note, context checked c26:  Bang. I saw that primordial supersun the old philosophers called the Ylem—saw it open like a milkweed pod and scatter the galaxies. And then it was gone. But here’s the part"
+  },
+  {
+    "id": "magnetic-monopole",
+    "term": "magnetic monopole",
+    "aliases": [
+      "monopole",
+      "monopoles"
+    ],
+    "short": "A hypothetical particle carrying one magnetic pole.",
+    "note": "A hypothetical particle with an isolated magnetic charge, equivalent to a north or south pole alone. Ordinary magnets always have both poles.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://home.web.cern.ch/science/experiments/moedal-mapp/",
+        "label": "CERN · MoEDAL-MAPP"
+      }
+    ],
+    "evidence": "c26: d been mulling over Gott’s (Harvard) notion that the universe contains just one magnetic monopole—because that’s its seed, the same way each raindrop holds just one dust particle. (Means the guys at Berkeley and U. of Houston are wrong a"
+  },
+  {
+    "id": "john-cramer",
+    "term": "John Cramer",
+    "aliases": [
+      "Cramer"
+    ],
+    "short": "An American physicist and science-fiction writer.",
+    "note": "John G. Cramer, an American physicist at the University of Washington, known for research on nuclear physics and the foundations of quantum mechanics, and for his science writing and fiction.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://faculty.washington.edu/jcramer/",
+        "label": "John G. Cramer · University of Washington"
+      }
+    ],
+    "evidence": "c26: as by gravity, leaving some solids dry. Gravity interuniversal. Wanted to phone John Cramer about it, but he’s off Gastprofessoring in West Berlin. Had to lecture, didn’t get much done. 4 August, Thursday. Rigged up light in lab so"
+  }
+]

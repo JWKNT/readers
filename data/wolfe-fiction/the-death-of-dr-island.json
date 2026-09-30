@@ -1,0 +1,107 @@
+[
+  {
+    "id": "spume",
+    "term": "spume",
+    "aliases": [],
+    "short": "Foam or froth.",
+    "note": "Foam or froth, especially on rough water.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/spume",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "p and down the beach, rubbing himself with his hands. A thin rain, or spume (it was hard to tell which), was blowing in the wind, clouding the light to gray radiance"
+  },
+  {
+    "id": "callisto",
+    "term": "Callisto",
+    "aliases": [],
+    "short": "One of Jupiter’s four large Galilean moons.",
+    "note": "The outermost of Jupiter’s four large Galilean moons, discovered in 1610. Its icy surface is heavily cratered.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.jpl.nasa.gov/news/galileo-makes-close-pass-by-callisto/",
+        "label": "NASA JPL: Callisto"
+      }
+    ],
+    "evidence": "he had been taught to swim in the great quartanary treatment tanks on Callisto to improve his coordination, and spluttered and snorted until he learned to deal with the"
+  },
+  {
+    "id": "corpus-callosum",
+    "term": "corpus callosum",
+    "aliases": [],
+    "short": "The nerve-fiber bridge between brain hemispheres.",
+    "note": "A broad band of nerve fibers connecting corresponding regions of the cerebral cortex across the brain’s two hemispheres.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/mesh/68003337",
+        "label": "National Library of Medicine: corpus callosum"
+      }
+    ],
+    "evidence": "his knife and cut all the way through my corpus . . . corpus . . .” “Corpus callosum,” muttered a dry palm frond. “—corpus callosum,” finished Nicholas. “See, your brain is "
+  },
+  {
+    "id": "huckleberry-finn",
+    "term": "Huckleberry",
+    "aliases": [],
+    "short": "Mark Twain’s Huckleberry Finn.",
+    "note": "Huckleberry Finn is the boy who narrates Mark Twain’s Mississippi novel, traveling with Jim, an enslaved man seeking freedom.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/76",
+        "label": "Mark Twain: Adventures of Huckleberry Finn"
+      }
+    ],
+    "evidence": " it was only as long as a man’s hand. I caught it in the big river.” Huckleberry— “I know, the Mississippi; it was a catfish. Or a sunfish.” — Finn. “Possibly that is wh"
+  },
+  {
+    "id": "trojan-planets",
+    "term": "Trojan Planets",
+    "aliases": [],
+    "short": "Possibly Jupiter’s co-orbiting Trojan asteroids.",
+    "note": "Possibly the Trojan asteroids, minor planets sharing Jupiter’s orbit in groups roughly sixty degrees ahead of and behind the planet. Many take their names from figures of the Trojan War.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.nasa.gov/missions/how-were-the-trojan-asteroids-discovered-and-named/",
+        "label": "NASA: Trojan asteroid discovery and naming"
+      }
+    ],
+    "evidence": "olas finished for her. “Were you listening? I mean, are you from the Trojan Planets? Do you know my mother?” “I only live in these places,” Nicholas said. “That’s for a lon"
+  },
+  {
+    "id": "a-turtle-and-a-hedgehog",
+    "term": "a turtle and a hedgehog",
+    "aliases": [],
+    "short": "Kipling’s “The Beginning of the Armadilloes.”",
+    "note": "Rudyard Kipling’s Just So tale in which a tortoise and a hedgehog learn each other’s defenses and become armadillos.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.kiplingsociety.co.uk/tale/rk_armadilloes.htm",
+        "label": "Kipling Society: The Beginning of the Armadilloes"
+      }
+    ],
+    "evidence": "s a parrot singing in a straw hat from the comview cartoons, and then a turtle and a hedgehog that turned into armadillos for the love of God, Montresor. Nicholas said, “Why didn’t he"
+  },
+  {
+    "id": "montresor",
+    "term": "Montresor",
+    "aliases": [],
+    "short": "The avenger in Poe’s “The Cask of Amontillado.”",
+    "note": "The narrator of Edgar Allan Poe’s “The Cask of Amontillado” (1846), who lures Fortunato into a wine cellar and entombs him alive.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.eapoe.org/works/mabbott/tom3t030.htm",
+        "label": "Edgar Allan Poe Society: The Cask of Amontillado"
+      }
+    ],
+    "evidence": "urtle and a hedgehog that turned into armadillos for the love of God, Montresor. Nicholas said, “Why didn’t he stay here?” “Did I tell you about the bird, Nicholas?” Sh"
+  }
+]

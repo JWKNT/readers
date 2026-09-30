@@ -1,0 +1,286 @@
+[
+  {
+    "id": "obelisk",
+    "term": "obelisk",
+    "aliases": [],
+    "short": "A tall stone pillar tapering to a pyramid.",
+    "note": "A tall, four-sided stone pillar that tapers toward a small pyramidal top.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/obelisk",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-053",
+      "index": 0
+    }
+  },
+  {
+    "id": "lambent",
+    "term": "lambent",
+    "aliases": [],
+    "short": "Flickering softly or lightly luminous.",
+    "note": "Playing lightly over a surface, as a small flame does; by extension, softly glowing or radiant. The underlying Latin verb means to lick, an image of flame touching a surface without consuming it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lambent",
+        "label": "Merriam-Webster · lambent"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-137",
+      "index": 0
+    }
+  },
+  {
+    "id": "flambeau",
+    "term": "flambeau",
+    "aliases": [
+      "flambeaux"
+    ],
+    "short": "A flaming torch.",
+    "note": "A flaming torch, especially one carried in a procession.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/flambeau",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-060",
+      "index": 0
+    }
+  },
+  {
+    "id": "wain",
+    "term": "wain",
+    "aliases": [
+      "wains"
+    ],
+    "short": "A wagon or cart.",
+    "note": "A large, heavy wagon used for carrying goods.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/wain",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-012",
+      "index": 0
+    }
+  },
+  {
+    "id": "sigil",
+    "term": "sigil",
+    "aliases": [],
+    "short": "A seal, sign, or magical symbol.",
+    "note": "A seal, emblem, or written sign, often one used in magic.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sigil",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-339",
+      "index": 0
+    }
+  },
+  {
+    "id": "paphian",
+    "term": "paphian",
+    "aliases": [],
+    "short": "Relating to sensual or illicit love.",
+    "note": "Of Paphos, the Cypriot center of Aphrodite’s worship; by extension, an adjective for sensual or illicit love.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/paphian",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-077",
+      "index": 0
+    }
+  },
+  {
+    "id": "mary-rose",
+    "term": "Mary Rose",
+    "aliases": [],
+    "short": "J. M. Barrie’s supernatural play.",
+    "note": "A play by J. M. Barrie about a woman’s mysterious disappearances on a Scottish island and the dislocation between her age and the time experienced by her family.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/71067/pg71067-images.html",
+        "label": "J. M. Barrie: Mary Rose"
+      }
+    ],
+    "occurrences": 17,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-127",
+      "index": 0
+    }
+  },
+  {
+    "id": "mirza-ahmak",
+    "term": "Mirza Ahmak",
+    "aliases": [],
+    "short": "Possibly Morier’s satirical Persian physician.",
+    "note": "Possibly Mirza Ahmak, the self-important royal physician in James Morier’s The Adventures of Hajji Baba of Ispahan (1824).",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/The_adventures_of_Hajji_Baba_of_Ispahan/28",
+        "label": "James Morier: Hajji Baba of Ispahan, chapter 28"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-215",
+      "index": 0
+    }
+  },
+  {
+    "id": "mount-kaf",
+    "term": "Mount Kaf",
+    "aliases": [],
+    "short": "The world-encircling mountain of Islamic cosmology.",
+    "note": "Qāf, the legendary mountain encircling the earth in medieval Islamic geographical traditions, often described as emerald and bordering the unknown regions beyond the inhabited world.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://persian.packhum.org/text/016301012/3",
+        "label": "Hamdallah Mustawfi: Nuzhat-al-Qulub"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-274",
+      "index": 0
+    }
+  },
+  {
+    "id": "domdaniel",
+    "term": "Domdaniel",
+    "aliases": [],
+    "short": "A submarine cavern of sorcerers.",
+    "note": "A legendary undersea cavern of magicians, prominent in Robert Southey’s Thalaba the Destroyer (1801), where it is placed beneath the ocean near Tunis.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/39804/39804-h/39804-h.htm",
+        "label": "Robert Southey: Thalaba the Destroyer"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-161",
+      "index": 0
+    }
+  },
+  {
+    "id": "visit-to-a-small-planet",
+    "term": "Visit to a Small Planet",
+    "aliases": [],
+    "short": "Gore Vidal’s comedy about an alien visitor.",
+    "note": "A stage comedy by Gore Vidal in which an alien arrives on Earth hoping to observe a war and becomes involved in twentieth-century American life.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.concordtheatricals.com/p/98122/visit-to-a-small-planet",
+        "label": "Concord Theatricals: Visit to a Small Planet"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-059",
+      "index": 0
+    }
+  },
+  {
+    "id": "shah-namah",
+    "term": "Shah Namah",
+    "aliases": [],
+    "short": "Ferdowsi’s Persian Book of Kings.",
+    "note": "The Shahnameh or Book of Kings, Ferdowsi’s great Persian epic recounting the legendary and historical rulers and heroes of Iran.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/447307",
+        "label": "The Metropolitan Museum of Art: Shahnama of Firdausi"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-338",
+      "index": 0
+    }
+  },
+  {
+    "id": "congress-of-birds",
+    "term": "Congress of Birds",
+    "aliases": [],
+    "short": "Attar’s Conference of the Birds.",
+    "note": "The Persian Sufi poem Mantiq al-Tayr by Farid al-Din Attar, also translated as The Conference of the Birds, about birds seeking their sovereign, the Simurgh.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/ja/perspectives/conference-birds-seeking-unity-with-divine",
+        "label": "The Metropolitan Museum of Art: The Conference of the Birds"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-161",
+      "index": 0
+    }
+  },
+  {
+    "id": "carpinus-caroliniana",
+    "term": "Carpinus caroliniana",
+    "aliases": [],
+    "short": "The American hornbeam or musclewood.",
+    "note": "A small deciduous tree of eastern North America, also called musclewood or blue-beech, with smooth, fluted gray bark.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://research.fs.usda.gov/feis/species-reviews/carcar",
+        "label": "US Forest Service: American hornbeam"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-029",
+      "index": 0
+    }
+  }
+]

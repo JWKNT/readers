@@ -1,0 +1,82 @@
+[
+  {
+    "id": "control-data-corporation",
+    "term": "Control Data Corporation",
+    "aliases": [],
+    "short": "An American computer company founded in 1957.",
+    "note": "Control Data Corporation (CDC), a Minneapolis company founded in 1957 and known for large scientific computers, including systems designed by Seymour Cray.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.computerhistory.org/brochures/a-c/com-42b9d5af185f1/",
+        "label": "Computer History Museum · Control Data Corporation"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-027",
+      "index": 0
+    }
+  },
+  {
+    "id": "eyebem",
+    "term": "Eyebem",
+    "aliases": [],
+    "short": "Possibly a phonetic rendering of IBM.",
+    "note": "Possibly a phonetic rendering of IBM, the initials of International Business Machines, the American computing company that adopted that name in 1924.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.ibm.com/history/logo?lang=en",
+        "label": "IBM · corporate name and logo history"
+      }
+    ],
+    "occurrences": 8,
+    "first": {
+      "chapter": "story",
+      "paragraph": "chapter-title",
+      "index": 0
+    }
+  },
+  {
+    "id": "kobuk-river",
+    "term": "Kobuk River",
+    "aliases": [],
+    "short": "A river of northwestern Alaska.",
+    "note": "A river of northwestern Alaska, flowing from the Brooks Range toward the Arctic coast and through the region protected by Kobuk Valley National Park.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nps.gov/gaar/kobukriver.htm",
+        "label": "National Park Service · Kobuk River"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-028",
+      "index": 0
+    }
+  },
+  {
+    "id": "ceedeesy",
+    "term": "Ceedeesy",
+    "aliases": [],
+    "short": "Possibly a phonetic rendering of CDC.",
+    "note": "Possibly a phonetic rendering of CDC, the initials of Control Data Corporation, the American scientific-computing company founded in 1957.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.computerhistory.org/brochures/a-c/com-42b9d5af185f1/",
+        "label": "Computer History Museum · Control Data Corporation"
+      }
+    ],
+    "occurrences": 18,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-002",
+      "index": 0
+    }
+  }
+]

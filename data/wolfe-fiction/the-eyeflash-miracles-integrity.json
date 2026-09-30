@@ -1,0 +1,34 @@
+{
+  "book": "the-eyeflash-miracles",
+  "sourceFiles": {
+    "best": {
+      "file": "_OceanofPDF.com_The_Best_of_Gene_Wolfe_A_Definitive_Retrospective_of_His_Finest_Short_Fiction_-_Gene_Wolfe.epub",
+      "sha256": "2f72b914961e311c7d12bfc81fe6c39f2138e087c0daca32f8e717a195f8b664"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "best",
+      "files": [
+        "index_split_021.html"
+      ],
+      "sourceTextSha256": "767b6e34b7d3590aeab3947ce8f91aa7605e2523fee6bed054314a5b708226f1",
+      "textSha256": "767b6e34b7d3590aeab3947ce8f91aa7605e2523fee6bed054314a5b708226f1",
+      "blocks": 850
+    },
+    {
+      "chapter": "author-note",
+      "source": "best",
+      "files": [
+        "index_split_021.html"
+      ],
+      "sourceTextSha256": "93e7b438f4c5b452caed4c59295907ae4ad3a9516e5b6cac1fdb0b9af8765db2",
+      "textSha256": "93e7b438f4c5b452caed4c59295907ae4ad3a9516e5b6cac1fdb0b9af8765db2",
+      "blocks": 5
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

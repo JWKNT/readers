@@ -1,0 +1,28 @@
+/* Retain source structure while using the established Readers typography. */
+.chapter-body .source-spaced{margin-top:1em}
+.chapter-body .hanging{text-indent:-1em;margin-left:1em}
+.chapter-body .inset{margin-inline:1.3em;text-indent:0}
+.chapter-body .epigraph{font-size:.88em;line-height:1.55;text-indent:0;margin-inline:1.5em;text-align:left;text-align-last:left}
+.chapter-body .epigraph+.chapter-opening{margin-top:1.6em}
+.chapter-body .source-glyph{display:inline-block;width:auto;max-width:1.3em;height:1em!important;vertical-align:baseline}
+[data-theme="dark"] .chapter-body .source-glyph{filter:invert(1);mix-blend-mode:screen}
+.chapter-body .chapter-opening{text-indent:0}
+.source-divider-text{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:pre}
+.story-tailpiece{clear:both;text-align:center;text-align-last:center;margin:2.4em auto 1em}
+.story-tailpiece img{display:inline-block;width:2.5em;height:2.2em!important;object-fit:contain}
+[data-theme="dark"] .story-tailpiece img{filter:invert(1);opacity:.82}
+.chapter-turns:empty{display:none}
+.toc .story-link{display:block;padding:.5em 0}
+.toc .story-section{font-size:.9em;padding-left:.8em}
+.toc .story-note{margin-top:1.1em;color:var(--muted)}
+.toc details[data-volume="sources"] a{display:block}
+.static-header{flex-wrap:wrap;column-gap:1.1rem;row-gap:.5rem}
+.library #additional-wolfe>article{margin-top:2.7rem}
+.library .short-stories{margin-top:3.3rem}
+.library .short-stories h3{font:700 21px/1.3 var(--regal);margin-bottom:1.2rem}
+.library .story-list{list-style:none;padding:0;margin:0;columns:2;column-gap:2.6rem}
+.library .story-list li{break-inside:avoid;margin:0 0 .85rem;font:400 17px/1.5 var(--book-serif)}
+.library .story-list a{text-decoration:none;color:var(--muted-strong)}
+.library .story-list a:hover,.library .story-list a:focus-visible{color:var(--ink);text-decoration:underline;text-underline-offset:.2em}
+@media(max-width:600px){.library .story-list{columns:1}.chapter-body .epigraph{margin-inline:.8em}}
+@media print{.story-tailpiece img,.chapter-body .source-glyph{filter:none!important}}

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "mahler",
+    "term": "Mahler",
+    "aliases": [],
+    "short": "Gustav Mahler, composer of symphonies and songs.",
+    "note": "Gustav Mahler (1860–1911), Austrian composer and conductor whose works include large-scale symphonies and orchestral song cycles.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mahlerfoundation.org/mahler/the-man/",
+        "label": "Mahler Foundation · biography"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-001",
+      "index": 0
+    }
+  },
+  {
+    "id": "oliver-onions",
+    "term": "Oliver Onions",
+    "aliases": [],
+    "short": "A British writer associated with supernatural fiction.",
+    "note": "Oliver Onions (1873–1961), British novelist and writer of supernatural fiction. His collection Widdershins includes The Beckoning Fair One, about a writer and an uncanny presence.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/14168",
+        "label": "Oliver Onions · Widdershins"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "antepenultimate",
+    "term": "antepenultimate",
+    "aliases": [],
+    "short": "Third from last.",
+    "note": "Third from the end. Penultimate means second from last; ante- adds the sense of before.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.ahdictionary.com/word/search.html?q=antepenultimate",
+        "label": "American Heritage Dictionary · antepenultimate"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
+  },
+  {
+    "id": "philip-rahv",
+    "term": "Philip Rahv",
+    "aliases": [],
+    "short": "A literary critic and co-founder of Partisan Review.",
+    "note": "Philip Rahv, American literary critic and one of the founders and editors of Partisan Review, the influential literary and political magazine.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.bu.edu/partisanreview/books/PR1949V16N8/HTML/files/assets/basic-html/page99.html",
+        "label": "Partisan Review · 1949 issue"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "stout",
+    "term": "Stout",
+    "aliases": [],
+    "short": "Possibly Rex Stout, the American mystery writer.",
+    "note": "Possibly Rex Stout (1886–1975), the American mystery writer best known for books featuring detective Nero Wolfe and his assistant Archie Goodwin.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.penguinrandomhouse.com/authors/30057/rex-stout/",
+        "label": "Penguin Random House · Rex Stout"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  }
+]

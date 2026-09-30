@@ -1,0 +1,32 @@
+[
+  {
+    "id": "hunting-song-of-the-seeonee-pack",
+    "term": "Hunting Song of the Seeonee Pack",
+    "aliases": [],
+    "short": "Kipling’s poem of a wolf-pack hunt.",
+    "note": "The hunting chant of the Seeonee wolves in Rudyard Kipling’s The Jungle Book (1894).",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/236/pg236-images.html",
+        "label": "Rudyard Kipling: The Jungle Book"
+      }
+    ],
+    "evidence": " “Hunting Song of the Seeonee Pack” An owl shrieked, and Paul flinched. Fear, pavement, flesh, death, stone, dark, lo"
+  },
+  {
+    "id": "tarsus",
+    "term": "tarsus",
+    "aliases": [],
+    "short": "The cluster of bones at the ankle.",
+    "note": "The ankle region, especially the bones between the lower leg and the metatarsals of the foot.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "evidence": "s over, she began to tear at the ligaments that held the bones of the tarsus to the leg. Over the pain he could feel the hot tears washing the blood from his foot. "
+  }
+]

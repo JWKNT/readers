@@ -1,0 +1,22 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 122,
+  "startWords": 8457,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">Do you know how M. R. James came to write all those great old ghost stories? He wrote one a year, no less and no more, to read to his family at Christmas. We associate ghost stories with Halloween now—see Neil Gaiman’s marvelous “October in the Chair”—but ghosts at Christmas are far older. The three seen by Ebenezer Scrooge are not the beginning but almost the end of a lengthy tradition. If you were to return as a ghost, wouldn’t you rather revisit your family at Christmas?</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">So I hope you noticed the ghosts, and that you noticed (as only a few readers do) that there is an anti-Santa, too. Poor Sherby rejects Santa Claus and gets someone much worse.</p>\n</div></blockquote></blockquote>"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "donjon",
+    "term": "donjon",
+    "aliases": [],
+    "short": "The central stronghold of a castle.",
+    "note": "The central fortified tower or keep of a medieval castle.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/donjon",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "k it at a clean jump and came thundering up to us looking as big as a donjon on wheels. “Greetings,” Miles called. “If this be your land, Lord, we give thanks for yo"
+  },
+  {
+    "id": "hauberk",
+    "term": "hauberk",
+    "aliases": [],
+    "short": "A shirt of mail armor.",
+    "note": "A long shirt of mail armor, usually protecting the body and upper legs.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hauberk",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "control and was treading it down. Miles was up too, straightening his hauberk and sword belt. “Look like a soldier,” he called to me. “Where are your weapons?” A pinc"
+  },
+  {
+    "id": "windlass",
+    "term": "windlass",
+    "aliases": [],
+    "short": "A winding drum used for hauling.",
+    "note": "A machine that pulls or lifts by winding a rope or chain around a rotating drum.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/windlass",
+        "label": "Merriam-Webster: windlass"
+      }
+    ],
+    "evidence": "der him. He can hear everything—pigs and chickens, and the squeak the windlass makes drawing water from a well. “Good flying weather,” Clow said to me. I nodded. Sole"
+  },
+  {
+    "id": "bailiff",
+    "term": "bailiff",
+    "aliases": [],
+    "short": "An estate’s supervising official.",
+    "note": "An officer who administers an estate or farm; in other settings, an official who carries out court business.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bailiff",
+        "label": "Merriam-Webster: bailiff"
+      }
+    ],
+    "evidence": ", waving a mail-clad arm at the fields around us, “yet I feel sure my bailiff could find you some. Come up to the hall for a taste of meat and a glass of wine, and you"
+  },
+  {
+    "id": "breeks",
+    "term": "breeks",
+    "aliases": [],
+    "short": "Scots and northern English for breeches.",
+    "note": "A Scots and northern English word for breeches or trousers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/breeks",
+        "label": "Merriam-Webster: breeks"
+      }
+    ],
+    "evidence": "If that boy is high hearted, or a fierce fighter either, I’ll eat his breeks.” Of course, I should not have done it. I have been too mettlesome all my life, and it h"
+  },
+  {
+    "id": "wattle",
+    "term": "wattle",
+    "aliases": [],
+    "short": "A framework of interwoven branches.",
+    "note": "A woven framework of flexible rods or branches, used for fences and for walls often covered with daub.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/wattle",
+        "label": "Merriam-Webster: wattle"
+      }
+    ],
+    "evidence": "d hold, the white-haired fat man led us out a side door and over to a wattle-walled building full of bunks—I suppose it was kept for the extra laborers needed at harv"
+  },
+  {
+    "id": "gorget",
+    "term": "gorget",
+    "aliases": [],
+    "short": "Armor protecting the throat.",
+    "note": "A piece of armor worn over the throat and upper chest.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "evidence": "d have cracked his neck for him properly if he had not been wearing a gorget. As it was, I jerked him off his horse pretty handily and got out the little dagger that "
+  },
+  {
+    "id": "hostlers",
+    "term": "hostlers",
+    "aliases": [],
+    "short": "Grooms who tend horses at an inn or stable.",
+    "note": "People employed to look after horses, especially at an inn or stable.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "evidence": " had ever seen up till then, a fat man with white hair—set two of the hostlers to watch our balloon while it was taken back to the stable yard. Venison and beef were o"
+  }
+]

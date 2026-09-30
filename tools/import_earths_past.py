@@ -17,7 +17,7 @@ import xml.etree.ElementTree as ET
 from zipfile import ZipFile
 
 ROOT = Path(__file__).resolve().parents[1]
-EDITION = 12
+EDITION = 13
 BOOKS = [('three-body-problem', 'The Three-Body Problem', 1, 'shadow'),
          ('dark-forest', 'The Dark Forest', 2, 'claw'),
          ('deaths-end', 'Death’s End', 3, 'sword')]
@@ -146,7 +146,7 @@ def annotate(tree, entries, counts, first, ch):
         out.append(s[last:]); return out
     def walk(e, block=None):
         block = e.get('data-block', block)
-        if e.tag in ('a','sup','script','style') or any(x in e.get('class','') for x in ('initial', 'source-note')): return
+        if e.tag in ('a','sup','script','style') or any(x in e.get('class','') for x in ('initial', 'source-note', 'source-address')): return
         children = list(e)
         if block and e.text:
             content = fragments(e.text, block); e.text = ''; at=0
@@ -238,7 +238,10 @@ def build(z, toc, spec):
                     else:
                         # Packaging links (contents/cover) become navigation to this book.
                         e.set('href','../contents.html')
-        if r['kind']!='reference': initial(tree,family)
+        if r['kind']!='reference':
+            from reader_ornaments import decorate
+            initial(tree,family)
+            decorate(tree,slug)
         r['noteAnchors']=annotate(tree,entries,counts,first,r) if r['kind']!='reference' else []
         assert hashlib.sha256(norm(txt(tree)).encode()).hexdigest()==next(x['textSha256'] for x in sources if x['chapter']==r['id']),(r['source'],'annotation changed text')
     glossary=[]
@@ -267,7 +270,8 @@ def build(z, toc, spec):
     template=re.sub(r'<article\b[^>]*>.*?</article>',lambda m:'<article class="chapter-body" id="chapter-body">'+inner(documents[records[0]['id']])+'</article>',template,flags=re.S)
     template=re.sub(r'<h1 id="chapter-title">.*?</h1>',lambda m:'<h1 id="chapter-title">'+html.escape(records[0]['title'])+'</h1>',template)
     template=re.sub(r'<nav aria-label="Books" class="series-switch">.*?</nav>','',template)
-    template=template.replace('chapters/blue-prelude.html','chapters/'+records[0]['id']+'.html').replace('?v=11',f'?v={EDITION}').replace('initials/initials.css"',f'initials/initials.css?v={EDITION}"')
+    template=template.replace('chapters/blue-prelude.html','chapters/'+records[0]['id']+'.html')
+    template=re.sub(r'\?v=\d+',f'?v={EDITION}',template)
     template=template.replace('</head>',f'<link rel="stylesheet" href="../assets/earths-past.css?v={EDITION}"></head>')
     # Static initial screen uses paths relative to the book, including original notes.
     start,end=template.index('<article'),template.index('</article>')
@@ -304,6 +308,7 @@ def source_css(z):
 .chapter-body table{width:100%;border-collapse:collapse;font-size:.85em;line-height:1.5;margin:1.5em 0}
 .chapter-body td,.chapter-body th{padding:.4em .6em;border-bottom:1px solid var(--line);text-align:left}
 .chapter-body .scene-divider{display:block;border:0;width:3em;margin:2em auto;border-top:1px solid currentColor;opacity:.25}
+.source-divider-text{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:pre}
 .chapter-body .chapter-opening{text-indent:0!important}
 .chapter-body .ep1-ePub-SUP,.chapter-body .ep2-t5,.chapter-body .ep2-t10,.chapter-body .ep2-t15,.chapter-body .ep3-t5{font-size:.7em;vertical-align:super;line-height:0}
 .chapter-body .ep1-ePub-I,.chapter-body .ep1-ePub-Sans-I{font-style:italic}

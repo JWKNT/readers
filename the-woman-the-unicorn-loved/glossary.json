@@ -1,0 +1,165 @@
+[
+  {
+    "id": "lamia",
+    "term": "lamia",
+    "aliases": [
+      "lamiae",
+      "lamias"
+    ],
+    "note": "A child-devouring female monster in Greek tradition; later uses often give lamias serpentine features.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lamia",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A child-devouring monster of Greek tradition.",
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-067",
+      "index": 0
+    }
+  },
+  {
+    "id": "balios",
+    "term": "Balios",
+    "aliases": [],
+    "short": "One of Achilles’s immortal horses.",
+    "note": "Balius, paired with Xanthus: the immortal horses that draw Achilles’s chariot in the Iliad, offspring of the West Wind and the Harpy Podarge.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Ther/HippoiBaliosXanthos.html",
+        "label": "Theoi · Balius and Xanthus, Homer passages"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-093",
+      "index": 0
+    }
+  },
+  {
+    "id": "xanthos",
+    "term": "Xanthos",
+    "aliases": [],
+    "short": "One of Achilles’s immortal horses.",
+    "note": "Xanthus, paired with Balius: an immortal horse of Achilles. In Iliad 19, Hera grants Xanthus speech, and he foretells Achilles’s death.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Ther/HippoiBaliosXanthos.html",
+        "label": "Theoi · Balius and Xanthus, Homer passages"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-093",
+      "index": 0
+    }
+  },
+  {
+    "id": "bernadotte",
+    "term": "Bernadotte",
+    "aliases": [],
+    "short": "Napoleon’s marshal who became king of Sweden and Norway.",
+    "note": "Jean-Baptiste Bernadotte (1763–1844), a marshal under Napoleon, later King Charles XIV John of Sweden and Charles III John of Norway.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.kungahuset.se/english/royal-house/the-bernadotte-dynasty/karl-xiv-johan",
+        "label": "Swedish Royal Court · Karl XIV Johan"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-054",
+      "index": 0
+    }
+  },
+  {
+    "id": "pumpernickel",
+    "term": "pumpernickel",
+    "aliases": [],
+    "short": "A dark German rye bread.",
+    "note": "A dark, dense rye bread. The German name combines pumpern, to break wind, with Nickel, a goblin or devil.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/wordplay/fart-words-and-euphemisms/farting-crackers",
+        "label": "Merriam-Webster · pumpernickel etymology"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-050",
+      "index": 0
+    }
+  },
+  {
+    "id": "pegasus",
+    "term": "Pegasus",
+    "aliases": [],
+    "short": "The winged horse of Greek mythology.",
+    "note": "The winged horse of Greek mythology, associated with the Muses. His hoof was said to have struck the Hippocrene spring from Mount Helicon, linking him with poetic inspiration.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/195356",
+        "label": "Metropolitan Museum · Pegasus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-109",
+      "index": 0
+    }
+  },
+  {
+    "id": "john-gardner",
+    "term": "John Gardner",
+    "aliases": [],
+    "short": "The American novelist who wrote Grendel.",
+    "note": "John Gardner, American novelist and scholar of medieval literature, author of Grendel (1971) and The Sunlight Dialogues (1972).",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://opensiuc.lib.siu.edu/ua_docs/38/",
+        "label": "Southern Illinois University · John Gardner"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-148",
+      "index": 0
+    }
+  },
+  {
+    "id": "james-branch-cabell",
+    "term": "James Branch Cabell",
+    "aliases": [],
+    "short": "The American writer whose papers and library are held at VCU.",
+    "note": "James Branch Cabell, American writer whose personal library and papers are preserved at Virginia Commonwealth University. His working library contains extensive material on mythology, folklore, and the occult.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://jamesbranchcabell.library.vcu.edu/cabell-at-vcu/cabells-personal-library/",
+        "label": "VCU Libraries · Cabell’s personal library"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-148",
+      "index": 0
+    }
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 148,
+  "startWords": 6338,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">One of life’s principal lessons is that intelligence is a minor virtue. The cardinal virtues are prudence, justice, temperance, and fortitude. Sam is not bright; no doubt you are, and if you are you could probably swindle him without much difficulty. But would it be prudent?</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">You will probably not need to be told that Roy T. Laffer is a thinly fictionalized Raphael Aloysius Lafferty. His byline was R. A. Lafferty, and we called him Ray in consequence. I didn’t know him well, and I know of no one who did. He was enormously learned and terribly shy, and drank too much when he had to appear in public. Other than that, I suggest you consult <em>Faces of Science Fiction</em>, if you can find a copy. There is a fine photograph of him there, with a few paragraphs of autobiography. He is a great writer who remains undiscovered.</p>\n</div></blockquote></blockquote>"
+}

@@ -57,7 +57,10 @@ def main():
         assert manifest['glossaryCount'] == library[book.name]['glossaryCount'] == len(glossary)
         counts, first_flags, first = Counter(), Counter(), {}
         chapter_ids = {c['id']: set(c['blocks']) for c in manifest['chapters']}
+        for c in manifest['chapters']:
+            if 'headingHtml' in c: chapter_ids[c['id']].add('chapter-title')
         integrity_path = ROOT / 'data' / 'earths-past' / (book.name + '-integrity.json')
+        if not integrity_path.exists(): integrity_path = ROOT / 'data' / 'wolfe-fiction' / (book.name + '-integrity.json')
         integrity = {c['chapter']: c for c in json.loads(integrity_path.read_text())['chapters']} if integrity_path.exists() else {}
         for chapter in manifest['chapters']:
             path = book / 'chapters' / (chapter['id'] + '.json')
@@ -72,10 +75,19 @@ def main():
                 assert parts[0] in chapter_ids, (path, 'unknown note chapter', route)
                 assert len(parts) == 1 or parts[1] in chapter_ids[parts[0]], (path, 'unknown note paragraph', route)
             static = Inspect(article(path.with_suffix('.html').read_text()))
+            heading = Inspect('<h1 id="chapter-title" data-block="chapter-title">'+data.get('headingHtml','')+'</h1>')
+            static_heading = Inspect('')
+            if 'headingHtml' in data:
+                assert ''.join(heading.text) == data['title'], (path,'heading text changed')
+                source_heading = re.search(r'<h1 id="chapter-title">(.*?)</h1>',path.with_suffix('.html').read_text(),re.S)[1]
+                static_heading=Inspect('<h1 id="chapter-title" data-block="chapter-title">'+source_heading+'</h1>')
+                assert heading.annotations==static_heading.annotations,(path,'static heading annotations')
+                assert ''.join(heading.text)==''.join(static_heading.text),(path,'static heading text')
+                assert [{'term':t,'paragraph':p} for t,p,f,local in heading.annotations if local=='true']==data['headingNoteAnchors'],(path,'heading anchors')
             assert ''.join(current.text) == ''.join(static.text), (path, 'static text mismatch')
             assert current.ids == static.ids == data['blocks'], (path, 'paragraph mismatch')
             assert current.annotations == static.annotations, (path, 'static annotations mismatch')
-            for attrs in static.annotation_attrs:
+            for attrs in static_heading.annotation_attrs + static.annotation_attrs:
                 if attrs.get('data-first') == 'true':
                     entry = terms[attrs['data-term']]
                     assert attrs.get('title') == entry['note'], (path, entry['id'], 'static definition')
@@ -89,7 +101,7 @@ def main():
                 assert ''.join(current.text) == ''.join(previous.text), (path, 'text changed')
                 for key in ('blocks', 'words', 'startWords', 'id'):
                     assert data[key] == old[key], (path, key)
-            for term, paragraph, flag, local in current.annotations:
+            for term, paragraph, flag, local in heading.annotations + current.annotations:
                 assert term in terms, (path, term)
                 counts[term] += 1
                 first.setdefault(term, {'chapter': chapter['id'], 'paragraph': paragraph, 'index': chapter['index']})
@@ -104,7 +116,9 @@ def main():
             if entry.get('possible'):
                 assert all(entry[k].startswith('Possibly') for k in ('short', 'note')), (book, tid, 'uncertainty qualifier')
             for key in ('short', 'note'):
-                assert not re.search(r'\b(?:Wolfe|the story|in these books)\b', entry[key], re.I), (book, tid, 'editorial framing')
+                # Nero Wolfe is Rex Stout's external literary character, not
+                # commentary about Gene Wolfe's intentions.
+                assert not re.search(r'(?<!Nero )\b(?:Wolfe|the story|in these books)\b', entry[key], re.I), (book, tid, 'editorial framing')
             for source in entry['sources']:
                 assert urlsplit(source['url']).scheme in ('http', 'https')
         index = (book / 'index.html').read_text()

@@ -1,0 +1,25 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002",
+    "p-003",
+    "p-004",
+    "p-005"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 154,
+  "startWords": 23757,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">This story began when I mentioned Sugar Land at some science fiction convention and the woman I was talking to thought it an imaginary land, like Cockaigne.</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">Or Oz for that matter.</p>\n<p class=\"prose\" id=\"p-003\" data-block=\"p-003\">Sugar Land is a perfectly real town in Texas; there is or was a big sugar mill there.</p>\n<p class=\"prose\" id=\"p-004\" data-block=\"p-004\">For years there was a sad sign quite near my house: <small>BLIND CHILD AREA</small>. I used to tell visitors that I had never seen the blind child, nor had the child seen me. Most would nod sympathetically and move on to other topics.</p>\n<p class=\"prose\" id=\"p-005\" data-block=\"p-005\">Now and then I wished that I could; blindness is one of those haunting tragedies no writer ever deals with adequately. I won’t pretend I have in this story; I only say that the thought of the blind child, who must have been kept inside day and night for years, no longer haunts me quite as much as it once did.</p>\n</div></blockquote></blockquote>"
+}

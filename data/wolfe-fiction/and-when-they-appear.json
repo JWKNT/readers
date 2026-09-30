@@ -1,0 +1,169 @@
+[
+  {
+    "id": "father-eddi",
+    "term": "Father Eddi",
+    "aliases": [],
+    "short": "The priest in Kipling’s “Eddi’s Service.”",
+    "note": "Eddi is Saint Wilfred’s priest in Rudyard Kipling’s poem “Eddi’s Service” (1910). When no congregation arrives on a stormy Christmas night, he conducts the service for an ox and an ass.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.kiplingsociety.co.uk/wp-content/uploads/pdf/KJ358.pdf",
+        "label": "Kipling Society: Eddi’s Service"
+      }
+    ],
+    "evidence": " him very much. “There is one, at least, my son. He was speaking with Father Eddi when last I saw him. Perhaps Father Eddi can help you.” Sherby, still leading Smoky, had"
+  },
+  {
+    "id": "christmas-rose",
+    "term": "Christmas Rose",
+    "aliases": [
+      "Black Hellebore"
+    ],
+    "short": "Helleborus niger, the winter-flowering hellebore.",
+    "note": "Helleborus niger, also called black hellebore: an evergreen perennial in the buttercup family, bearing white or pink-flushed flowers in winter and early spring.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.rhs.org.uk/plants/8575/helleborus-niger/details",
+        "label": "Royal Horticultural Society: Helleborus niger"
+      }
+    ],
+    "evidence": "her Eddi?” The blond lady nodded and smiled, offering her hand. “I’m Christmas Rose. And you are . . . ?” “Sherby.” She smiled again; she was lovely when she smiled, and h"
+  },
+  {
+    "id": "knecht-rupprecht",
+    "term": "Knecht Rupprecht",
+    "aliases": [],
+    "short": "A stern visitor in German Christmas custom.",
+    "note": "Knecht Ruprecht, literally “Servant Ruprecht,” is a German Christmas visitor who questions children about their behavior and carries gifts for the good and rods for the naughty.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/70142/pg70142-images.html",
+        "label": "William S. Walsh: Santa Klaus traditions"
+      }
+    ],
+    "evidence": "in, and he’d like this little horse of yours very much. Did my friend Knecht Rupprecht startle you?” “Is he your friend?” Sherby considered. “I’d like him better if he wasn’t "
+  },
+  {
+    "id": "ebenezer",
+    "term": "Ebenezer",
+    "aliases": [],
+    "short": "Ebenezer Scrooge of A Christmas Carol.",
+    "note": "The miser transformed by supernatural Christmas visits in Charles Dickens’s A Christmas Carol (1843).",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/46/46-h/46-h.htm",
+        "label": "Charles Dickens: A Christmas Carol"
+      }
+    ],
+    "evidence": "ery best houses do on cold nights, and Sherby added tardily, “Sir.” “Ebenezer,” said the old man, and offered Sherby his hand in the most friendly fashion possible. “"
+  },
+  {
+    "id": "tiny-tim",
+    "term": "Tiny Tim",
+    "aliases": [],
+    "short": "Bob Cratchit’s young son in A Christmas Carol.",
+    "note": "The frail, cheerful youngest son of Bob and Mrs. Cratchit in Charles Dickens’s A Christmas Carol (1843).",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/46/46-h/46-h.htm",
+        "label": "Charles Dickens: A Christmas Carol"
+      }
+    ],
+    "evidence": " some other kids would come.” “Some have,” Father Eddi assured him. “Tiny Tim’s over there with Mr. and Mrs. Cratchit, and Greg—the doctor’s son, you know, who helped "
+  },
+  {
+    "id": "cratchit",
+    "term": "Cratchit",
+    "aliases": [],
+    "short": "The family of Scrooge’s clerk in A Christmas Carol.",
+    "note": "Bob Cratchit is Scrooge’s poorly paid clerk in Charles Dickens’s A Christmas Carol; his loving family includes his wife and their son Tiny Tim.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/46/46-h/46-h.htm",
+        "label": "Charles Dickens: A Christmas Carol"
+      }
+    ],
+    "evidence": "e,” Father Eddi assured him. “Tiny Tim’s over there with Mr. and Mrs. Cratchit, and Greg—the doctor’s son, you know, who helped to make the pasteboard star—is about som"
+  },
+  {
+    "id": "ali-baba",
+    "term": "Ali Baba",
+    "aliases": [],
+    "short": "The woodcutter who discovers the forty thieves’ treasure.",
+    "note": "The hero of the Arabian Nights tale “Ali Baba and the Forty Thieves,” who discovers a treasure cave opened by a magic password.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/37679/37679-h/37679-h.htm",
+        "label": "Ali Baba, or the Forty Thieves"
+      }
+    ],
+    "evidence": "ng a little black donkey laden with wood up the moonlit drive. “It’s Ali Baba,” the old man explained. “Dear old honest Ali Baba! He did come to see me one Christmas, "
+  },
+  {
+    "id": "nutcracker",
+    "term": "Nutcracker",
+    "aliases": [],
+    "short": "Hoffmann’s enchanted toy and Tchaikovsky’s ballet hero.",
+    "note": "The toy soldier in E. T. A. Hoffmann’s The Nutcracker and the Mouse King (1816), whose adventures later inspired Tchaikovsky’s ballet.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://etahoffmann.staatsbibliothek-berlin.de/portfolio-item/nussknacker-und-mausekoenig/",
+        "label": "Berlin State Library: The Nutcracker and the Mouse King"
+      }
+    ],
+    "evidence": "as people too. There are a great many of them, live toy soldiers, the Nutcracker, and countless others.” Sherby looked down sadly at the light pen, which felt very heavy"
+  },
+  {
+    "id": "saint-nicholas",
+    "term": "Saint Nicholas",
+    "aliases": [],
+    "short": "The bishop of Myra associated with gift-giving.",
+    "note": "A Christian bishop of Myra in Lycia, traditionally placed in the fourth century, whose legends of secret generosity helped shape later Christmas gift-giving customs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.newadvent.org/cathen/11063b.htm",
+        "label": "Catholic Encyclopedia: Saint Nicholas of Myra"
+      }
+    ],
+    "evidence": "e burned, poor little fellow, so it is a good name for him. My own is Saint Nicholas, now. It used to be Bishop Nicholas. I was Bishop of Myra, in Lycia; and though I am not "
+  },
+  {
+    "id": "frey",
+    "term": "Frey",
+    "aliases": [],
+    "short": "The Norse god of fertility and prosperity.",
+    "note": "Freyr or Frey, a Norse deity associated with fertility, good harvests, and peace; his possessions include the golden-bristled boar Gullinbursti.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/46118/old/46118-h/46118-h.htm",
+        "label": "W. A. Craigie: The Religion of Ancient Scandinavia"
+      }
+    ],
+    "evidence": ".” She hurried away in the direction of the kitchen. “The boar’s for Frey,” the fox whispered. “Frey rides a boar with golden bristles, a dwarfgift. When he left A"
+  },
+  {
+    "id": "erchou",
+    "term": "erchou",
+    "aliases": [],
+    "short": "Greek for “come!”",
+    "note": "The Greek imperative ἔρχου, a command meaning come, from the verb erchomai.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.billmounce.com/greek-dictionary/erchomai",
+        "label": "Mounce Greek Dictionary: erchomai"
+      }
+    ],
+    "evidence": ", and if he does not follow at once, jerk the rope, not too hard. Say erchou!” Sherby tried it, making the word almost as guttural and rasping as Saint Nicholas had,"
+  }
+]

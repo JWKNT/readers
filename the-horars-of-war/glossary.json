@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pinocchio",
+    "term": "Pinocchio",
+    "aliases": [],
+    "short": "The wooden puppet in Carlo Collodi’s book.",
+    "note": "The animated wooden puppet in Carlo Collodi’s The Adventures of Pinocchio, first published in installments in the 1880s.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.loc.gov/item/04022857/",
+        "label": "Library of Congress · The Adventures of Pinocchio"
+      }
+    ],
+    "occurrences": 30,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-003",
+      "index": 0
+    }
+  },
+  {
+    "id": "punch",
+    "term": "Punch",
+    "aliases": [
+      "Mr. Punch"
+    ],
+    "short": "The comic puppet associated with Punch and Judy.",
+    "note": "Mr. Punch, the combative comic puppet of Punch and Judy, descended from the Italian Pulcinella. Early English versions used marionettes; the familiar later performances use glove puppets.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.vam.ac.uk/articles/thats-the-way-to-do-it-a-history-of-punch-and-judy/",
+        "label": "Victoria and Albert Museum · Punch and Judy"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-060",
+      "index": 0
+    }
+  }
+]

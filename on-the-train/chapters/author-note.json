@@ -1,0 +1,23 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002",
+    "p-003"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 203,
+  "startWords": 460,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">Back before the deluge, Rosemary and I rode Amtrak to Seattle and back—northern route out, southern route back. Between meals, I busied myself by sitting high up in the observation car and writing a bunch of short-short stories. When I got home, I asked my agent to send them all to <em>The New Yorker.</em> To my pleased surprise, this one was accepted.</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">Flip was the ruffian clown who woke Little Nemo from his wonderful dreams, in one of the finest Sunday comics ever. My father gave Flip’s name to the fox terrier we owned when I was very small: Flip’s barking always woke my father up.</p>\n<p class=\"prose\" id=\"p-003\" data-block=\"p-003\">There was no reason for you to care, to be sure, but for both you readers who have stuck with this until now—The earliest memory I have of my mother is that of a lovely young woman bending over me as I lie abed on the seat of a railway car. Her eyes are blue. She wears a gray cloche; from under it peeps a stray lock of auburn hair. Would the year be 1934? I can’t say for certain, but about that. Now I must stop, lest the afterword grow longer than the story.</p>\n</div></blockquote></blockquote>"
+}

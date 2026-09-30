@@ -1,0 +1,124 @@
+[
+  {
+    "id": "falchion",
+    "term": "falchion",
+    "aliases": [],
+    "short": "A single-edged cutting sword.",
+    "note": "A single-edged sword with a blade suited to cutting.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/falchion",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-042",
+      "index": 0
+    }
+  },
+  {
+    "id": "randolph-carter",
+    "term": "Randolph Carter",
+    "aliases": [],
+    "short": "Lovecraft’s recurring dream-traveler.",
+    "note": "A recurring character in H. P. Lovecraft’s fiction, including The Dream-Quest of Unknown Kadath, in which he seeks a marvelous city glimpsed in dreams.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/dq.aspx",
+        "label": "H. P. Lovecraft: The Dream-Quest of Unknown Kadath"
+      }
+    ],
+    "occurrences": 8,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-023",
+      "index": 0
+    }
+  },
+  {
+    "id": "gate-of-deeper-slumber",
+    "term": "Gate of Deeper Slumber",
+    "aliases": [
+      "Enchanted Wood"
+    ],
+    "short": "A threshold of Lovecraft’s dream realm.",
+    "note": "The gate reached by descending seven hundred steps in H. P. Lovecraft’s The Dream-Quest of Unknown Kadath; beyond it lies the Enchanted Wood.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/dq.aspx",
+        "label": "H. P. Lovecraft: The Dream-Quest of Unknown Kadath"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-040",
+      "index": 0
+    }
+  },
+  {
+    "id": "sacnoth",
+    "term": "Sacnoth",
+    "aliases": [],
+    "short": "The enchanted sword in a Lord Dunsany tale.",
+    "note": "The magical sword wielded by Leothric in Lord Dunsany’s “The Fortress Unvanquishable, Save for Sacnoth” (1908), able to overcome an otherwise impregnable fortress.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://teachers.americanliterature.com/author/lord-dunsany/short-story/the-fortress-unvanquishable-save-for-sacnoth",
+        "label": "Lord Dunsany: The Fortress Unvanquishable, Save for Sacnoth"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-040",
+      "index": 0
+    }
+  },
+  {
+    "id": "thomas-olney",
+    "term": "Thomas Olney",
+    "aliases": [],
+    "short": "A visitor to Lovecraft’s uncanny hilltop house.",
+    "note": "The philosopher who visits a mysterious house above Kingsport in H. P. Lovecraft’s “The Strange High House in the Mist” (1926).",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/shh.aspx",
+        "label": "H. P. Lovecraft: The Strange High House in the Mist"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-025",
+      "index": 0
+    }
+  },
+  {
+    "id": "kingsport",
+    "term": "Kingsport",
+    "aliases": [],
+    "short": "Lovecraft’s fictional Massachusetts seaport.",
+    "note": "A fictional Massachusetts coastal town in H. P. Lovecraft’s fiction, including “The Strange High House in the Mist.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/shh.aspx",
+        "label": "H. P. Lovecraft: The Strange High House in the Mist"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-036",
+      "index": 0
+    }
+  }
+]

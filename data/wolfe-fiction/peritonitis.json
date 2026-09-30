@@ -1,0 +1,21 @@
+[
+  {
+    "id": "peritonitis",
+    "term": "Peritonitis",
+    "aliases": [],
+    "short": "Inflammation of the membrane lining the abdomen.",
+    "note": "Inflammation of the peritoneum, the membrane lining the abdominal cavity and covering its organs; infection is a common cause.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/peritoneal-dialysis",
+        "label": "NIDDK · peritoneum and peritonitis"
+      },
+      {
+        "url": "https://www.cancer.gov/publications/dictionaries/cancer-terms/def/peritonitis",
+        "label": "National Cancer Institute · peritonitis"
+      }
+    ],
+    "evidence": "c21:  Endangered Species Peritonitis Now this is the story Greylock told before the Men of the Neck were scattered forever, before the great exodus and the wandering in the col"
+  }
+]

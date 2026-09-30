@@ -1,0 +1,528 @@
+[
+  {
+    "id": "autarch",
+    "term": "autarch",
+    "aliases": [
+      "autarch",
+      "autarchs"
+    ],
+    "note": "A ruler with absolute power.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/autarch",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "An absolute ruler.",
+    "possible": false,
+    "occurrences": 4,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-001",
+      "index": 0
+    }
+  },
+  {
+    "id": "armiger",
+    "term": "armiger",
+    "aliases": [
+      "armigers",
+      "armigerial"
+    ],
+    "note": "A person entitled to bear a coat of arms.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/armiger",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Someone entitled to bear a coat of arms.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-022",
+      "index": 0
+    }
+  },
+  {
+    "id": "seneschal",
+    "term": "seneschal",
+    "aliases": [
+      "seneschals"
+    ],
+    "note": "A steward or high household official, sometimes also exercising administrative or judicial powers.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/seneschal",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A steward or high household official.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-015",
+      "index": 0
+    }
+  },
+  {
+    "id": "autochthon",
+    "term": "autochthon",
+    "aliases": [
+      "autochthons"
+    ],
+    "note": "An original or indigenous inhabitant of a place.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/autochthon",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "An original or indigenous inhabitant.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-019",
+      "index": 0
+    }
+  },
+  {
+    "id": "chatelaine",
+    "term": "chatelaine",
+    "aliases": [
+      "chatelaines"
+    ],
+    "note": "The mistress of a castle or large estate.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chatelaine",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "The mistress of a castle or great house.",
+    "possible": false,
+    "occurrences": 18,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
+  },
+  {
+    "id": "hypogeum",
+    "term": "hypogeum",
+    "aliases": [
+      "hypogea"
+    ],
+    "note": "An underground chamber or complex, particularly one used for burial.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hypogeum",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "An underground chamber, often a tomb.",
+    "possible": false,
+    "occurrences": 8,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-001",
+      "index": 0
+    }
+  },
+  {
+    "id": "apotropaic",
+    "term": "apotropaic",
+    "aliases": [],
+    "note": "Intended to ward off evil or harmful influences.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/apotropaic",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Intended to ward off evil.",
+    "possible": false,
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-001",
+      "index": 0
+    }
+  },
+  {
+    "id": "alouatte",
+    "term": "alouatte",
+    "aliases": [
+      "alouattes"
+    ],
+    "note": "A howler monkey.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/alouatte",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A howler monkey.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-011",
+      "index": 0
+    }
+  },
+  {
+    "id": "odilo",
+    "term": "Odilo",
+    "aliases": [],
+    "note": "Possibly Saint Odilo, an abbot of Cluny who established an annual commemoration of the faithful departed, an observance that developed into All Souls’ Day.",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Odilo_of_Cluny",
+        "label": "Odilo of Cluny"
+      }
+    ],
+    "short": "Possibly Saint Odilo, the abbot of Cluny.",
+    "possible": true,
+    "occurrences": 4,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-001",
+      "index": 0
+    }
+  },
+  {
+    "id": "nessus",
+    "term": "Nessus",
+    "aliases": [
+      "Nessus"
+    ],
+    "note": "A centaur and ferryman in Greek mythology. Heracles shot him after he attacked Deianira. Before dying, Nessus persuaded her that his blood was a love charm; the poisoned garment she later sent Heracles caused his death.",
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Georgikos/KentaurosNessos.html",
+        "label": "Theoi: Nessus — ancient sources"
+      }
+    ],
+    "short": "A centaur and ferryman of Greek mythology.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-008",
+      "index": 0
+    }
+  },
+  {
+    "id": "briah",
+    "term": "Briah",
+    "aliases": [],
+    "note": "Beri’ah, the “World of Creation” in Kabbalah. One of the four worlds, it lies below Atzilut, the World of Emanation. Here created beings are understood as distinct, though still dependent on the divine.",
+    "sources": [
+      {
+        "url": "https://www.chabad.org/kabbalah/article_cdo/aid/431125/jewish/The-World-of-Creation.htm",
+        "label": "Chabad: Beriya, the World of Creation"
+      }
+    ],
+    "short": "The Kabbalistic World of Creation.",
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
+  },
+  {
+    "id": "exultant",
+    "term": "exultant",
+    "short": "Triumphantly joyful.",
+    "note": "Rejoicing intensely or triumphantly; from Latin exsultare, to leap up or rejoice.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/exultant",
+        "label": "Merriam-Webster · exultant"
+      }
+    ],
+    "aliases": [
+      "exultants"
+    ],
+    "possible": false,
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-008",
+      "index": 0
+    }
+  },
+  {
+    "id": "gnome",
+    "term": "gnome",
+    "short": "An earth spirit; a wizened little figure.",
+    "note": "An earth spirit in Renaissance accounts of elemental beings, often imagined as guarding underground treasure; also a small, wizened person.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gnome",
+        "label": "Merriam-Webster · gnome"
+      }
+    ],
+    "aliases": [
+      "gnomes"
+    ],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-011",
+      "index": 0
+    }
+  },
+  {
+    "id": "inire",
+    "term": "Inire",
+    "short": "Latin: to enter or begin.",
+    "note": "Latin inīre, the infinitive of ineo: to enter, begin, undertake, or form an agreement.",
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/ineo#Latin",
+        "label": "Wiktionary · ineo"
+      }
+    ],
+    "aliases": [],
+    "possible": false,
+    "occurrences": 17,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-002",
+      "index": 0
+    }
+  },
+  {
+    "id": "severian",
+    "term": "Severian",
+    "short": "Possibly Saint Severian of Scythopolis.",
+    "note": "Possibly Saint Severian, the fifth-century bishop of Scythopolis killed during the disputes following the Council of Chalcedon. Severianus is a Roman name derived from Severus, stern or serious.",
+    "sources": [
+      {
+        "url": "https://www.catholic.org/saints/saint.php?saint_id=5720",
+        "label": "Catholic Online · Severian of Scythopolis"
+      },
+      {
+        "url": "https://en.wiktionary.org/wiki/Severus#Latin",
+        "label": "Wiktionary · Severus"
+      }
+    ],
+    "aliases": [],
+    "possible": true,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-001",
+      "index": 0
+    }
+  },
+  {
+    "id": "lomer",
+    "term": "Lomer",
+    "aliases": [
+      "Lomer"
+    ],
+    "short": "Possibly Saint Lomer, a sixth-century French abbot.",
+    "note": "Possibly Saint Lomer, also called Launomar or Laudomarus. An abbot associated with the region of Chartres, remembered in monastic tradition for miracles.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n189/mode/2up?q=Lomer"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-015",
+      "index": 0
+    }
+  },
+  {
+    "id": "leocadia",
+    "term": "Leocadia",
+    "aliases": [
+      "Leocadia"
+    ],
+    "short": "Possibly Saint Leocadia, a martyr of Toledo.",
+    "note": "Possibly Saint Leocadia of Toledo. A Spanish martyr traditionally dated to Diocletian’s persecution, honored as a patron saint of Toledo.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n187/mode/2up?q=Leocadia"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-015",
+      "index": 0
+    }
+  },
+  {
+    "id": "dis",
+    "term": "Dis",
+    "aliases": [
+      "Dis"
+    ],
+    "short": "Possibly Dis, the Roman god of the underworld.",
+    "note": "Possibly Dis, or Dis Pater, a Roman name for the ruler of the underworld, identified with Pluto and the Greek Hades.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Theoi · Hades, Pluto, and Dis",
+        "url": "https://www.theoi.com/Khthonios/Haides.html"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-009",
+      "index": 0
+    }
+  },
+  {
+    "id": "nympha",
+    "term": "Nympha",
+    "aliases": [
+      "Nympha"
+    ],
+    "short": "Possibly Saint Nympha, remembered with Tryphon and Respicius.",
+    "note": "Possibly Saint Nympha, an early Christian saint whose relics were venerated in Rome. Her commemoration became associated with those of Tryphon and Respicius; little reliable biography survives.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Monks of Ramsgate · The Book of Saints (1921)",
+        "url": "https://archive.org/details/bookofsaintsdict00stau/page/n283/mode/2up?q=Nympha"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-015",
+      "index": 0
+    }
+  },
+  {
+    "id": "sancha",
+    "term": "Sancha",
+    "aliases": [
+      "Sancha"
+    ],
+    "short": "Possibly Blessed Sancha, a Portuguese princess and nun.",
+    "note": "Possibly Blessed Sancha, a daughter of King Sancho I of Portugal who adopted a monastic life at Alenquer and later retired to the monastery of Celas near Coimbra.",
+    "possible": true,
+    "sources": [
+      {
+        "label": "Portuguese National Liturgy Office · June 20",
+        "url": "https://www.liturgia.pt/lh/pdf/0906Jun.pdf"
+      }
+    ],
+    "occurrences": 18,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
+  },
+  {
+    "id": "fors",
+    "term": "Fors",
+    "aliases": [
+      "Fors"
+    ],
+    "short": "Latin: chance or luck.",
+    "note": "Latin fors means chance, luck, or accident; it is related to fortuna, fortune.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n18623/",
+        "label": "Lewis and Short · Perseus"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-016",
+      "index": 0
+    }
+  },
+  {
+    "id": "prolocutor",
+    "term": "prolocutor",
+    "short": "A presiding officer or spokesman.",
+    "note": "A person appointed to speak for others, or to preside over an assembly. In ecclesiastical usage the title belongs to the chair of a convocation.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/prolocutor",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "prolocutor",
+      "prolocutors",
+      "Proloctor"
+    ],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-023",
+      "index": 0
+    }
+  },
+  {
+    "id": "gligua",
+    "term": "gligua",
+    "aliases": [],
+    "short": "A diviner in historical accounts of the Araucanian peoples of Chile.",
+    "note": "A name recorded for Araucanian diviners in Chile. Juan Ignacio Molina’s history describes the interpretation of dreams and the songs and flight of birds as omens.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/The_geographical%2C_natural_and_civil_history_of_Chili_%28IA_geographicalnatu21808moli%29.pdf",
+        "label": "Juan Ignacio Molina · History of Chili, vol. 2 (1808), p. 78"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-019",
+      "index": 0
+    }
+  },
+  {
+    "id": "diakka",
+    "term": "diakka",
+    "aliases": [],
+    "short": "Deceptive spirits in Andrew Jackson Davis’s Spiritualist writings.",
+    "note": "Andrew Jackson Davis’s name for mischievous or morally undeveloped spirits that deceive the living. He describes them in The Diakka and Their Earthly Victims (1873).",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://books.google.com/books?id=29I0AAAAMAAJ",
+        "label": "Andrew Jackson Davis · The Diakka and Their Earthly Victims"
+      },
+      {
+        "url": "https://clements.umich.edu/publication/embracing-online-possibilities/embracing-online-possibilities/",
+        "label": "University of Michigan Clements Library · The Diakka (1873)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-019",
+      "index": 0
+    }
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "id": "paean",
+    "term": "paean",
+    "short": "A song or expression of praise.",
+    "note": "A celebratory song of praise or thanksgiving; by extension, an enthusiastic tribute. The word comes from Greek hymns associated with Apollo.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/paean",
+        "label": "Word meaning · Merriam-Webster"
+      }
+    ],
+    "aliases": [
+      "paean",
+      "paeans"
+    ],
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-020",
+      "index": 0
+    }
+  },
+  {
+    "id": "spume",
+    "term": "spume",
+    "aliases": [
+      "spume"
+    ],
+    "note": "Foam or froth, especially on rough water.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/spume",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Foam or froth.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-074",
+      "index": 0
+    }
+  },
+  {
+    "id": "pholus",
+    "term": "Pholus",
+    "aliases": [],
+    "short": "The centaur who welcomed Heracles.",
+    "note": "A centaur of Greek mythology who gave hospitality to Heracles. In the ancient accounts, opening the centaurs’ shared wine jar brings the other centaurs to his cave.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Georgikos/KentaurosPholos.html",
+        "label": "Theoi · Pholus, classical source passages"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "story",
+      "paragraph": "chapter-title",
+      "index": 0
+    }
+  },
+  {
+    "id": "galilean",
+    "term": "Galilean",
+    "aliases": [],
+    "short": "An epithet for Jesus; a reference in Swinburne’s Hymn to Proserpine.",
+    "note": "A person from Galilee, especially Jesus. Algernon Charles Swinburne’s Hymn to Proserpine addresses the “Galilean” while lamenting the displacement of the ancient pagan gods by Christianity.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poems/45292/hymn-to-proserpine-after-the-proclamation-in-rome-of-the-christian-faith",
+        "label": "Swinburne · Hymn to Proserpine"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-019",
+      "index": 0
+    }
+  },
+  {
+    "id": "narashimha",
+    "term": "Narashimha",
+    "aliases": [],
+    "short": "Narasimha, Vishnu’s man-lion incarnation.",
+    "note": "Narasimha, the man-lion avatar of Vishnu in Hindu tradition, who defeats the tyrant Hiranyakashipu.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/38470",
+        "label": "Metropolitan Museum · Narasimha"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-070",
+      "index": 0
+    }
+  },
+  {
+    "id": "so-like-they-were",
+    "term": "So like they were",
+    "aliases": [],
+    "short": "Lines from Macaulay’s The Battle of the Lake Regillus.",
+    "note": "The verse describes the divine twins Castor and Pollux in Thomas Babington Macaulay’s The Battle of the Lake Regillus, one of the Lays of Ancient Rome.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/847/pg847-images.html",
+        "label": "Macaulay · Lays of Ancient Rome"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-003",
+      "index": 0
+    }
+  },
+  {
+    "id": "actaeon",
+    "term": "Actaeon",
+    "aliases": [],
+    "short": "The hunter transformed into a stag in Greek myth.",
+    "note": "Actaeon, the hunter transformed into a stag and killed by his own hounds. Percy Bysshe Shelley invokes him in stanza 31 of Adonais, his elegy for John Keats.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/10119/10119-h/10119-h.htm",
+        "label": "Shelley · Adonais and notes"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-077",
+      "index": 0
+    }
+  },
+  {
+    "id": "sombelen",
+    "term": "Sombelenë",
+    "aliases": [
+      "Sombelene"
+    ],
+    "short": "Possibly Sombelenë in Lord Dunsany’s The Book of Wonder.",
+    "note": "Possibly Sombelenë, the beautiful, long-lived woman in Lord Dunsany’s The Bride of the Man-Horse, collected in The Book of Wonder. Her ancestry joins a god, a centaur, a lion, and a sphinx.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/7477/old/old-2023-12-30/7477-h/7477-h.htm",
+        "label": "Lord Dunsany · The Book of Wonder"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-009",
+      "index": 0
+    }
+  },
+  {
+    "id": "peirithous",
+    "term": "Peirithous",
+    "aliases": [],
+    "short": "Pirithous, the mythological companion of Theseus.",
+    "note": "Pirithous, companion of Theseus in Greek mythology. The two descend to the underworld in an attempt to obtain Persephone as Pirithous’s bride.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Khthonios/Persephone.html",
+        "label": "Theoi · Persephone, classical source passages"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-009",
+      "index": 0
+    }
+  }
+]

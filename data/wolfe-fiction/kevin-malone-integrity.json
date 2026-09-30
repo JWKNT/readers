@@ -1,0 +1,34 @@
+{
+  "book": "kevin-malone",
+  "sourceFiles": {
+    "best": {
+      "file": "_OceanofPDF.com_The_Best_of_Gene_Wolfe_A_Definitive_Retrospective_of_His_Finest_Short_Fiction_-_Gene_Wolfe.epub",
+      "sha256": "2f72b914961e311c7d12bfc81fe6c39f2138e087c0daca32f8e717a195f8b664"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "best",
+      "files": [
+        "index_split_024.html"
+      ],
+      "sourceTextSha256": "b5f3181c2a996366edb065f0f41f76c102e7e982f84ef0afd26eec7dce642890",
+      "textSha256": "b5f3181c2a996366edb065f0f41f76c102e7e982f84ef0afd26eec7dce642890",
+      "blocks": 124
+    },
+    {
+      "chapter": "author-note",
+      "source": "best",
+      "files": [
+        "index_split_024.html"
+      ],
+      "sourceTextSha256": "a00e30558257faede3ada49fb4cef921d9204d2404b2520c5ae07e09007a2a6d",
+      "textSha256": "a00e30558257faede3ada49fb4cef921d9204d2404b2520c5ae07e09007a2a6d",
+      "blocks": 2
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

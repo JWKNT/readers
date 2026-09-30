@@ -1,0 +1,84 @@
+[
+  {
+    "id": "merlins-cave",
+    "term": "Merlin’s cave",
+    "aliases": [
+      "Merlin’s Cave"
+    ],
+    "short": "The sea cave beneath Tintagel Castle.",
+    "note": "A sea cave beneath Tintagel in Cornwall, associated in local legend with Merlin. Tintagel’s Arthurian fame derives from medieval accounts of Arthur’s conception there.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.english-heritage.org.uk/visit/places/tintagel-castle/",
+        "label": "English Heritage: Tintagel Castle and Merlin’s Cave"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-065",
+      "index": 0
+    }
+  },
+  {
+    "id": "hercules",
+    "term": "Hercules",
+    "aliases": [],
+    "short": "The classical hero famed for his strength.",
+    "note": "The Roman name of Greek Heracles, son of Zeus and Alcmena, renowned for his twelve labors and extraordinary strength.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Text/Apollodorus2.html",
+        "label": "Apollodorus: Library, book 2"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-016",
+      "index": 0
+    }
+  },
+  {
+    "id": "thespius",
+    "term": "Thespius",
+    "aliases": [],
+    "short": "The king whose fifty daughters bore Heracles’s children.",
+    "note": "The king of Thespiae in Greek mythology who had fifty daughters and arranged for Heracles to father children with them.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Text/Apollodorus2.html",
+        "label": "Apollodorus: Library, book 2"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-025",
+      "index": 0
+    }
+  },
+  {
+    "id": "keplers-laws",
+    "term": "Kepler’s Laws",
+    "aliases": [],
+    "short": "Three mathematical laws of planetary motion.",
+    "note": "Planets follow ellipses with the Sun at one focus; equal areas are swept out in equal times; and the square of an orbital period is proportional to the cube of the orbit’s semimajor axis.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pwg.gsfc.nasa.gov/stargaze/Skeplaws.htm",
+        "label": "NASA: Kepler and his laws"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-074",
+      "index": 0
+    }
+  }
+]

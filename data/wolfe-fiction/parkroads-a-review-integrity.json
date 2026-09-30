@@ -1,0 +1,34 @@
+{
+  "book": "parkroads-a-review",
+  "sourceFiles": {
+    "best": {
+      "file": "_OceanofPDF.com_The_Best_of_Gene_Wolfe_A_Definitive_Retrospective_of_His_Finest_Short_Fiction_-_Gene_Wolfe.epub",
+      "sha256": "2f72b914961e311c7d12bfc81fe6c39f2138e087c0daca32f8e717a195f8b664"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "best",
+      "files": [
+        "index_split_031.html"
+      ],
+      "sourceTextSha256": "9d6a0b77f5644c8c8f2ab23a7089ac89cf13bff9ebe8a474743fed66094ecb17",
+      "textSha256": "9d6a0b77f5644c8c8f2ab23a7089ac89cf13bff9ebe8a474743fed66094ecb17",
+      "blocks": 13
+    },
+    {
+      "chapter": "author-note",
+      "source": "best",
+      "files": [
+        "index_split_031.html"
+      ],
+      "sourceTextSha256": "2216c3bd65099d5495b94f8f33507a9c4bda1f1eab5e738cf4cdb8687afefff7",
+      "textSha256": "2216c3bd65099d5495b94f8f33507a9c4bda1f1eab5e738cf4cdb8687afefff7",
+      "blocks": 2
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

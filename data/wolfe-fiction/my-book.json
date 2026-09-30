@@ -1,0 +1,77 @@
+[
+  {
+    "id": "mahler",
+    "term": "Mahler",
+    "aliases": [],
+    "short": "Gustav Mahler, composer of symphonies and songs.",
+    "note": "Gustav Mahler (1860–1911), Austrian composer and conductor whose works include large-scale symphonies and orchestral song cycles.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mahlerfoundation.org/mahler/the-man/",
+        "label": "Mahler Foundation · biography"
+      }
+    ],
+    "evidence": "c30: y book for a long time now. In the morning, before anyone else is up, I wake to Mahler on the clock radio, shave, and go to my desk. On weekends, while the others are watching baseball, I am there too, scoring my own hits, my "
+  },
+  {
+    "id": "oliver-onions",
+    "term": "Oliver Onions",
+    "aliases": [],
+    "short": "A British writer associated with supernatural fiction.",
+    "note": "Oliver Onions (1873–1961), British novelist and writer of supernatural fiction. His collection Widdershins includes The Beckoning Fair One, about a writer and an uncanny presence.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/14168",
+        "label": "Oliver Onions · Widdershins"
+      }
+    ],
+    "evidence": "c30: nse, rather alarmingly. I’m now thinking of reconstructing the whole thing,” by Oliver Onions, and Stout’s, “It was nice to know the next step was obvious, but it would have been even nicer to know what it was.” But it was this (forg"
+  },
+  {
+    "id": "antepenultimate",
+    "term": "antepenultimate",
+    "aliases": [],
+    "short": "Third from last.",
+    "note": "Third from the end. Penultimate means second from last; ante- adds the sense of before.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.ahdictionary.com/word/search.html?q=antepenultimate",
+        "label": "American Heritage Dictionary · antepenultimate"
+      }
+    ],
+    "evidence": "c30: eets destroyed, though each was where I had left it. I began the search for the antepenultimate word. It was will, the word of purpose, the impulse that began the universe. And then the preantepenultimate word … And so I have proceede"
+  },
+  {
+    "id": "philip-rahv",
+    "term": "Philip Rahv",
+    "aliases": [],
+    "short": "A literary critic and co-founder of Partisan Review.",
+    "note": "Philip Rahv, American literary critic and one of the founders and editors of Partisan Review, the influential literary and political magazine.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.bu.edu/partisanreview/books/PR1949V16N8/HTML/files/assets/basic-html/page99.html",
+        "label": "Partisan Review · 1949 issue"
+      }
+    ],
+    "evidence": "c30: ery. No doubt there are many more I never find. Quite recently, in an essay by Philip Rahv, I came across the passage that began it all. My writing has been influenced by many other passages: “I’ve progressed, in one sense, rather"
+  },
+  {
+    "id": "stout",
+    "term": "Stout",
+    "aliases": [],
+    "short": "Possibly Rex Stout, the American mystery writer.",
+    "note": "Possibly Rex Stout (1886–1975), the American mystery writer best known for books featuring detective Nero Wolfe and his assistant Archie Goodwin.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.penguinrandomhouse.com/authors/30057/rex-stout/",
+        "label": "Penguin Random House · Rex Stout"
+      }
+    ],
+    "evidence": "c30: gly. I’m now thinking of reconstructing the whole thing,” by Oliver Onions, and Stout’s, “It was nice to know the next step was obvious, but it would have been even nicer to know what it was.” But it was this (forgotten now f"
+  }
+]

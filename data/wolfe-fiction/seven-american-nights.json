@@ -1,0 +1,216 @@
+[
+  {
+    "id": "obelisk",
+    "term": "obelisk",
+    "aliases": [],
+    "short": "A tall stone pillar tapering to a pyramid.",
+    "note": "A tall, four-sided stone pillar that tapers toward a small pyramidal top.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/obelisk",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": " I have opened the shutters so that I can look across the city to the obelisk and catch the light of the dying sun. Its fields and valleys of fire do not seem more ali"
+  },
+  {
+    "id": "lambent",
+    "term": "lambent",
+    "aliases": [],
+    "short": "Flickering softly or lightly luminous.",
+    "note": "Playing lightly over a surface, as a small flame does; by extension, softly glowing or radiant. The underlying Latin verb means to lick, an image of flame touching a surface without consuming it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lambent",
+        "label": "Merriam-Webster · lambent"
+      }
+    ],
+    "evidence": " was full and high in the southern sky, showering the street with the lambent white fluid of its light. If it had not been for the sharp, unclean odor so characteristi"
+  },
+  {
+    "id": "flambeau",
+    "term": "flambeau",
+    "aliases": [
+      "flambeaux"
+    ],
+    "short": "A flaming torch.",
+    "note": "A flaming torch, especially one carried in a procession.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/flambeau",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": " would provide an admirable excuse. I tried the gambit as soon as the flambeaux were relit, and it worked as well as I could have wished. When I returned with a paper tr"
+  },
+  {
+    "id": "wain",
+    "term": "wain",
+    "aliases": [
+      "wains"
+    ],
+    "short": "A wagon or cart.",
+    "note": "A large, heavy wagon used for carrying goods.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/wain",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "rying fish and fruits under my shuttered window, and the great wooden wains the Americans call trucks rumbling over the broken concrete on their wide iron wheels, br"
+  },
+  {
+    "id": "sigil",
+    "term": "sigil",
+    "aliases": [],
+    "short": "A seal, sign, or magical symbol.",
+    "note": "A seal, emblem, or written sign, often one used in magic.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sigil",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "rder), then, after we had lifted into place the heavy bar that is the sigil of every American dwelling, put her arms about me. Her breath was fragrant with the arrac"
+  },
+  {
+    "id": "paphian",
+    "term": "paphian",
+    "aliases": [],
+    "short": "Relating to sensual or illicit love.",
+    "note": "Of Paphos, the Cypriot center of Aphrodite’s worship; by extension, an adjective for sensual or illicit love.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/paphian",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "d naïveté and Kreton’s clear desire for her illuminated perfectly the Paphian difficulties that would confront a powerful telepath, were such persons to exist. On the"
+  },
+  {
+    "id": "mary-rose",
+    "term": "Mary Rose",
+    "aliases": [],
+    "short": "J. M. Barrie’s supernatural play.",
+    "note": "A play by J. M. Barrie about a woman’s mysterious disappearances on a Scottish island and the dislocation between her age and the time experienced by her family.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/71067/pg71067-images.html",
+        "label": "J. M. Barrie: Mary Rose"
+      }
+    ],
+    "evidence": " my seat that I realized that the bill had changed. The new play was Mary Rose. I saw it done by an English company several years ago, with great authenticity, and it s"
+  },
+  {
+    "id": "mirza-ahmak",
+    "term": "Mirza Ahmak",
+    "aliases": [],
+    "short": "Possibly Morier’s satirical Persian physician.",
+    "note": "Possibly Mirza Ahmak, the self-important royal physician in James Morier’s The Adventures of Hajji Baba of Ispahan (1824).",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/The_adventures_of_Hajji_Baba_of_Ispahan/28",
+        "label": "James Morier: Hajji Baba of Ispahan, chapter 28"
+      }
+    ],
+    "evidence": "at reputation in your own country, no doubt?” “I am a pupil of Akhon Mirza Ahmak; he has a great reputation, surely. He even came here, thirty years ago, to examine the m"
+  },
+  {
+    "id": "mount-kaf",
+    "term": "Mount Kaf",
+    "aliases": [],
+    "short": "The world-encircling mountain of Islamic cosmology.",
+    "note": "Qāf, the legendary mountain encircling the earth in medieval Islamic geographical traditions, often described as emerald and bordering the unknown regions beyond the inhabited world.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://persian.packhum.org/text/016301012/3",
+        "label": "Hamdallah Mustawfi: Nuzhat-al-Qulub"
+      }
+    ],
+    "evidence": "?” “Then I will take you home—yes, though you lived in Kazvin. Or on Mount Kaf.” She smiled. “Get dressed, then. I’ll wait outside, and I’ll show you my apartment; per"
+  },
+  {
+    "id": "domdaniel",
+    "term": "Domdaniel",
+    "aliases": [],
+    "short": "A submarine cavern of sorcerers.",
+    "note": "A legendary undersea cavern of magicians, prominent in Robert Southey’s Thalaba the Destroyer (1801), where it is placed beneath the ocean near Tunis.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/39804/39804-h/39804-h.htm",
+        "label": "Robert Southey: Thalaba the Destroyer"
+      }
+    ],
+    "evidence": "speculations of the Congress of Birds or the affairs of the demons in Domdaniel, or any other subject on which neither I nor anyone else knows or can know a thing. O Boo"
+  },
+  {
+    "id": "visit-to-a-small-planet",
+    "term": "Visit to a Small Planet",
+    "aliases": [],
+    "short": "Gore Vidal’s comedy about an alien visitor.",
+    "note": "A stage comedy by Gore Vidal in which an alien arrives on Earth hoping to observe a war and becomes involved in twentieth-century American life.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.concordtheatricals.com/p/98122/visit-to-a-small-planet",
+        "label": "Concord Theatricals: Visit to a Small Planet"
+      }
+    ],
+    "evidence": "ntil the lights were extinguished and the play began. It was Vidal’s Visit to a Small Planet, one of the classics of the old American theater, a play I have often read about but neve"
+  },
+  {
+    "id": "shah-namah",
+    "term": "Shah Namah",
+    "aliases": [],
+    "short": "Ferdowsi’s Persian Book of Kings.",
+    "note": "The Shahnameh or Book of Kings, Ferdowsi’s great Persian epic recounting the legendary and historical rulers and heroes of Iran.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/447307",
+        "label": "The Metropolitan Museum of Art: Shahnama of Firdausi"
+      }
+    ],
+    "evidence": "and so I passed it off as the result of having been brought up on the Shah Namah, of which I found she had never heard. We went to her apartment. I was determined to tak"
+  },
+  {
+    "id": "congress-of-birds",
+    "term": "Congress of Birds",
+    "aliases": [],
+    "short": "Attar’s Conference of the Birds.",
+    "note": "The Persian Sufi poem Mantiq al-Tayr by Farid al-Din Attar, also translated as The Conference of the Birds, about birds seeking their sovereign, the Simurgh.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/ja/perspectives/conference-birds-seeking-unity-with-divine",
+        "label": "The Metropolitan Museum of Art: The Conference of the Birds"
+      }
+    ],
+    "evidence": "ight as well have been writing of the philosophic speculations of the Congress of Birds or the affairs of the demons in Domdaniel, or any other subject on which neither I nor an"
+  },
+  {
+    "id": "carpinus-caroliniana",
+    "term": "Carpinus caroliniana",
+    "aliases": [],
+    "short": "The American hornbeam or musclewood.",
+    "note": "A small deciduous tree of eastern North America, also called musclewood or blue-beech, with smooth, fluted gray bark.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://research.fs.usda.gov/feis/species-reviews/carcar",
+        "label": "US Forest Service: American hornbeam"
+      }
+    ],
+    "evidence": "d sagging porticos, and in several places small trees (mostly the sad Carpinus caroliniana, I believe) have rooted in the crevices of walls. Still, if it is true, as has been writt"
+  }
+]

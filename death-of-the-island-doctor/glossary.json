@@ -1,0 +1,322 @@
+[
+  {
+    "id": "our-fabled-shores-none-ever-reach",
+    "term": "Our fabled shores none ever reach",
+    "aliases": [],
+    "short": "A line from Thoreau’s “The Atlantides.”",
+    "note": "A line from Henry David Thoreau’s poem “The Atlantides,” which imagines friendship through the image of elusive, unexplored islands.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/Poems_of_Nature/The_Atlantides",
+        "label": "Henry David Thoreau: The Atlantides"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-041",
+      "index": 0
+    }
+  },
+  {
+    "id": "thomson",
+    "term": "Thomson",
+    "aliases": [],
+    "short": "James Thomson, author of The Seasons.",
+    "note": "The Scottish poet James Thomson (1700–1748), whose long poem The Seasons includes the stormy northern-island passage in its section “Autumn.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/Page:The_Seasons_-_Thomson_(1791).djvu/184",
+        "label": "James Thomson: The Seasons, 1791 edition"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-020",
+      "index": 0
+    }
+  },
+  {
+    "id": "lucian-of-samosata",
+    "term": "Lucian of Samosata",
+    "aliases": [],
+    "short": "The Greek-language satirist of True History.",
+    "note": "A second-century satirist from Samosata. His True History parodies extravagant travel writing with impossible voyages, including a journey to the Moon.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/10430/10430-h/10430-h.htm",
+        "label": "Lucian: True History and other works"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-033",
+      "index": 0
+    }
+  },
+  {
+    "id": "avalon",
+    "term": "Avalon",
+    "aliases": [],
+    "short": "The legendary island associated with King Arthur.",
+    "note": "The island to which Arthur is taken after his final battle in medieval romance. Glastonbury became associated with Avalon; its monks claimed in 1191 to have found Arthur’s grave.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.glastonburyabbey.com/myths-and-legends.php",
+        "label": "Glastonbury Abbey: King Arthur and Avalon"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-027",
+      "index": 0
+    }
+  },
+  {
+    "id": "high-brasail",
+    "term": "High Brasail",
+    "aliases": [],
+    "short": "The phantom island Hy-Brasil.",
+    "note": "Hy-Brasil, a legendary island west of Ireland, said to appear only once every seven years. It remained on European maps for centuries despite never being found.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://blogs.loc.gov/maps/2020/06/hy-brasil-the-supernatural-island/",
+        "label": "Library of Congress: Hy-Brasil"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-040",
+      "index": 0
+    }
+  },
+  {
+    "id": "conchis",
+    "term": "Conchis",
+    "aliases": [],
+    "short": "The enigmatic host in John Fowles’s The Magus.",
+    "note": "Maurice Conchis, the wealthy recluse who conducts elaborate psychological performances on the Greek island of Phraxos in John Fowles’s The Magus (1965).",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.modernista.se/bocker/illusionisten",
+        "label": "Modernista: John Fowles’s The Magus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-034",
+      "index": 0
+    }
+  },
+  {
+    "id": "to-cleave-that-sea",
+    "term": "To cleave that sea",
+    "aliases": [],
+    "short": "A passage from Kazantzakis’s Zorba the Greek.",
+    "note": "A passage from Nikos Kazantzakis’s Zorba the Greek (1946), celebrating travel among the Aegean islands.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://api.pageplace.de/preview/DT0400.9781472904690_A25416063/preview-9781472904690_A25416063.pdf",
+        "label": "Bloomsbury preview: Harry Mount quotes Zorba the Greek"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-034",
+      "index": 0
+    }
+  },
+  {
+    "id": "moans-round-with-many-voices",
+    "term": "Moans round with many voices",
+    "aliases": [],
+    "short": "Tennyson’s dramatic monologue “Ulysses.”",
+    "note": "A line from Alfred, Lord Tennyson’s “Ulysses,” in which the aging voyager urges his companions toward one more journey beyond the known world.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poems/45392/ulysses",
+        "label": "Poetry Foundation: Ulysses"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-050",
+      "index": 0
+    }
+  },
+  {
+    "id": "eyots",
+    "term": "eyots",
+    "aliases": [],
+    "short": "Small islands in rivers or lakes.",
+    "note": "Small islands, especially within rivers; also spelled aits.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-007",
+      "index": 0
+    }
+  },
+  {
+    "id": "holms",
+    "term": "holms",
+    "aliases": [],
+    "short": "Small islands or low river meadows.",
+    "note": "An older northern English and Scots term for small islands, also used for low-lying land beside water.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-007",
+      "index": 0
+    }
+  },
+  {
+    "id": "insula",
+    "term": "Insula",
+    "aliases": [],
+    "short": "Latin for an island.",
+    "note": "The Latin noun insula means island, whether in the sea, a river, or a lake.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n24040/",
+        "label": "Lewis and Short: insula"
+      }
+    ],
+    "occurrences": 21,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-002",
+      "index": 0
+    }
+  },
+  {
+    "id": "prince-valiant",
+    "term": "Prince Valiant",
+    "aliases": [],
+    "short": "Hal Foster’s Arthurian comic-strip hero.",
+    "note": "The adventuring prince from Thule in Hal Foster’s comic strip, first published in 1937 and set in the age of King Arthur.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://comicskingdom.com/prince-valiant/about",
+        "label": "Comics Kingdom: Prince Valiant"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-026",
+      "index": 0
+    }
+  },
+  {
+    "id": "delos",
+    "term": "Delos",
+    "aliases": [],
+    "short": "The sacred Greek island of Apollo and Artemis.",
+    "note": "A small Cycladic island honored as the birthplace of Apollo and Artemis in Greek mythology and the site of a major sanctuary of Apollo.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/530/",
+        "label": "UNESCO: Delos"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-034",
+      "index": 0
+    }
+  },
+  {
+    "id": "patmos",
+    "term": "Patmos",
+    "aliases": [],
+    "short": "The Aegean island associated with Revelation.",
+    "note": "The Greek island named in Revelation 1:9 as John’s place of exile, traditionally associated with his visions of the Apocalypse.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/942/",
+        "label": "UNESCO: Patmos and the Cave of the Apocalypse"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-034",
+      "index": 0
+    }
+  },
+  {
+    "id": "utopia",
+    "term": "Utopia",
+    "aliases": [],
+    "short": "Thomas More’s imagined island commonwealth.",
+    "note": "The island society described in Thomas More’s Utopia (1516), a political fiction examining property, government, religion, and social organization.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/2130/pg2130-images.html",
+        "label": "Thomas More: Utopia"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-040",
+      "index": 0
+    }
+  },
+  {
+    "id": "phraxos",
+    "term": "Phraxos",
+    "aliases": [],
+    "short": "The fictional Greek island in Fowles’s The Magus.",
+    "note": "The Greek island setting of John Fowles’s The Magus, where the young English teacher Nicholas Urfe encounters the wealthy Maurice Conchis.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.modernista.se/bocker/illusionisten",
+        "label": "Modernista: John Fowles’s The Magus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-034",
+      "index": 0
+    }
+  }
+]

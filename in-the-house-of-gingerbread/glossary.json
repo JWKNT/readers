@@ -1,0 +1,44 @@
+[
+  {
+    "id": "gioconda",
+    "term": "Gioconda",
+    "aliases": [
+      "Lucio Settala"
+    ],
+    "short": "D’Annunzio’s drama about a sculptor and his model.",
+    "note": "La Gioconda, a play by Gabriele D’Annunzio, features the sculptor Lucio Settala, his wife Silvia, and the model Gioconda Dianti.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/23297/pg23297-images.html",
+        "label": "Gabriele D’Annunzio · La Gioconda"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-152",
+      "index": 0
+    }
+  },
+  {
+    "id": "automaton",
+    "term": "automaton",
+    "aliases": [],
+    "short": "A self-moving mechanism or artificial figure.",
+    "note": "A self-moving mechanism or artificial figure. Automata is the Greek-derived plural.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/automaton",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-019",
+      "index": 0
+    }
+  }
+]

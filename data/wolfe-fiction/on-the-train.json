@@ -1,0 +1,17 @@
+[
+  {
+    "id": "great-circle",
+    "term": "Great Circle",
+    "aliases": [],
+    "short": "A circle dividing a sphere into equal halves.",
+    "note": "The intersection of a sphere with a plane through its center. The shorter great-circle arc gives the shortest surface route between two non-antipodal points on a sphere.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathworld.wolfram.com/GreatCircle.html",
+        "label": "Wolfram MathWorld: great circle"
+      }
+    ],
+    "evidence": "an open infinity. If the track were extended ever westward, forming a Great Circle, and all that track were filled with cars, would not the spinning earth rush past them en"
+  }
+]

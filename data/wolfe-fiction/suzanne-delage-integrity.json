@@ -1,0 +1,24 @@
+{
+  "book": "suzanne-delage",
+  "sourceFiles": {
+    "endangered": {
+      "file": "_OceanofPDF.com_Endangered_Species_-_Gene_Wolfe.epub",
+      "sha256": "4b14835109c591ac7460743370fe051fad2785f9ad0e6567b9cf41f89e060c4b"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "endangered",
+      "files": [
+        "OEBPS/e9781429966214_c28.html"
+      ],
+      "sourceTextSha256": "d4741e0bcfee3ab532f9345d89421b7ae2ce0d73d6ab4111eff2b32296dd76cd",
+      "textSha256": "d4741e0bcfee3ab532f9345d89421b7ae2ce0d73d6ab4111eff2b32296dd76cd",
+      "blocks": 18
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

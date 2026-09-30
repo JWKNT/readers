@@ -1,0 +1,476 @@
+[
+  {
+    "id": "story",
+    "index": 0,
+    "title": "Westwind",
+    "volume": "text",
+    "kind": "chapter",
+    "paragraphs": [
+      {
+        "id": "chapter-title",
+        "text": "Westwind"
+      },
+      {
+        "id": "p-001",
+        "text": "“. . . to all of you, my dearly loved fellow countrymen. And most particularly—as ever—to my eyes, Westwind.”"
+      },
+      {
+        "id": "p-002",
+        "text": "One wall of the steaming, stinking room began to waver, the magic portal that had opened upon a garden of almost inconceivable beauty beginning to mist and change. Fountains of marble waved like grass, and rose trees, whose flowery branches wore strands of pearl and diamond, faded to soft old valentines. The ruler’s chair turned to bronze, then to umber, and the ruler himself, fatherly and cunning, wise and unknowable, underwent a succession of transformations, becoming at first a picture, then a poster, and at last a postage stamp."
+      },
+      {
+        "id": "p-003",
+        "text": "The lame old woman who ran the place turned the wall off and several people protested. “You heard what he said,” she told them. “You know your duty. Why do you have to listen to some simpleton from the Department of Truth say everything over in longer words and spread his spittle on it?”"
+      },
+      {
+        "id": "p-004",
+        "text": "The protestors, having registered their postures, were silent. The old woman looked at the clock behind the tiny bar she served."
+      },
+      {
+        "id": "p-005",
+        "text": "“Game in twenty minutes,” she said. “Folks will be coming in then, rain or no rain, wanting drinks. You want some, you better get them now.”"
+      },
+      {
+        "id": "p-006",
+        "text": "Only two did: hulking, dirty men who might have been of any dishonest trade. A few people were already discussing the coming game. A few others talked about the address they had just heard—not its content, which could not have meant much to most of them, but the ruler and his garden, exchanging at hundredth hand bits of palace gossip of untold age. The door opened and the storm came in and a young man with it."
+      },
+      {
+        "id": "p-007",
+        "text": "He was tall and thin. He wore a raincoat that had soaked through and an old felt hat covered with a transparent plastic protection whose elastic had forced the hat’s splayed brim into a tight bell around his head. One side of the young man’s face was a blue scar; the old woman asked him what he wanted."
+      },
+      {
+        "id": "p-008",
+        "text": "“You have rooms,” he said."
+      },
+      {
+        "id": "p-009",
+        "text": "“Yes, we do. Very cheap too. You ought to wear something over that.”"
+      },
+      {
+        "id": "p-010",
+        "text": "“If it bothers you,” he said, “don’t look at it.”"
+      },
+      {
+        "id": "p-011",
+        "text": "“You think I’ve got to rent to you?” She looked around at her customers, lining up support, should the young man with the scar decide to resent her remarks. “All I’ve got to do if you complain is say we’re full. You can walk to the police station then—it’s twenty blocks—and maybe they’ll let you sleep in a cell.”"
+      },
+      {
+        "id": "p-012",
+        "text": "“I’d like a room and something to eat. What do you have?”"
+      },
+      {
+        "id": "p-013",
+        "text": "“Ham sandwich,” she said. She named a price. “Your room—” She named another."
+      },
+      {
+        "id": "p-014",
+        "text": "“All right,” he said. “I’d like two sandwiches. And coffee.”"
+      },
+      {
+        "id": "p-015",
+        "text": "“The room is only half if you share with somebody—if you want me to I can yell out and see if anybody wants to split.”"
+      },
+      {
+        "id": "p-016",
+        "text": "“No.”"
+      },
+      {
+        "id": "p-017",
+        "text": "She ripped the top from a can of coffee. The handle popped out and the contents began to steam. She gave it to him and said, “I guess they won’t take you in the other places, huh? With that face.”"
+      },
+      {
+        "id": "p-018",
+        "text": "He turned away from her, sipping his coffee, looking the room over. The door by which he had just entered (water still streamed from his coat and he could feel it in his shoes, sucking and gurgling with his every movement) opened again and a blind girl came in."
+      },
+      {
+        "id": "p-019",
+        "text": "He saw that she was blind before he saw anything else about her. She wore black glasses, which on that impenetrable, rain-wracked night would have been clue enough, and as she entered she looked (in the second most terrible and truest sense) at Nothing."
+      },
+      {
+        "id": "p-020",
+        "text": "The old woman asked, “Where did you come from?”"
+      },
+      {
+        "id": "p-021",
+        "text": "“From the terminal,” the girl said. “I walked.” She carried a white cane, which she swung before her as she sidled toward the sound of the old woman."
+      },
+      {
+        "id": "p-022",
+        "text": "“I need a place to sleep,” the girl said."
+      },
+      {
+        "id": "p-023",
+        "text": "Her voice was clear and sweet and the young man decided that even before the rain had scrubbed her face she hadn’t worn makeup."
+      },
+      {
+        "id": "p-024",
+        "text": "He said, “You don’t want to stay here. I’ll call you a cab.”"
+      },
+      {
+        "id": "p-025",
+        "text": "“I want to stay here,” the girl said in her clear voice. “I have to stay somewhere.”"
+      },
+      {
+        "id": "p-026",
+        "text": "“I have a communicator,” the young man said. He opened his coat to show it to her—a black box with a speaker, keys, and a tiny screen—then realized that he had made a fool of himself. Someone laughed."
+      },
+      {
+        "id": "p-027",
+        "text": "“They’re not running.”"
+      },
+      {
+        "id": "p-028",
+        "text": "The old woman said, “What’s not running?”"
+      },
+      {
+        "id": "p-029",
+        "text": "“The cabs. Or the buses. There’s high water in a lot of places all over the city and they’ve been shorting out. I have a communicator too”—the blind girl touched her waist—“and the ruler made a speech just a few minutes ago. I listened to him as I walked and there was a newscast afterward. But I knew anyway because a gentleman tried to call one for me from the terminal, but they wouldn’t come.”"
+      },
+      {
+        "id": "p-030",
+        "text": "“You shouldn’t stay here,” the young man said."
+      },
+      {
+        "id": "p-031",
+        "text": "The old woman said, “I got a room if you want it—the only one left.”"
+      },
+      {
+        "id": "p-032",
+        "text": "“I want it,” the girl told her."
+      },
+      {
+        "id": "p-033",
+        "text": "“You’ve got it. Wait a minute now—I’ve got to fix this fellow some sandwiches.”"
+      },
+      {
+        "id": "p-034",
+        "text": "Someone swore at the old woman and said that the game was about to start."
+      },
+      {
+        "id": "p-035",
+        "text": "“Five minutes yet.” She took a piece of boiled ham from under the counter and put it between two slices of bread, then repeated the process."
+      },
+      {
+        "id": "p-036",
+        "text": "The young man said, “These look eatable. Not fancy, but eatable. Would you like to have one?”"
+      },
+      {
+        "id": "p-037",
+        "text": "I have a little money,” the blind girl said. “I can pay for my own.” And to the old woman: “I would like some coffee.”"
+      },
+      {
+        "id": "p-038",
+        "text": "“How about a sandwich?”"
+      },
+      {
+        "id": "p-039",
+        "text": "“I’m too tired to eat.”"
+      },
+      {
+        "id": "p-040",
+        "text": "The door was opening almost constantly now as people from the surrounding tenements braved the storm and splashed in to watch the game. The old woman turned the wall on and they crowded near it, watching the pregame warm-up, practicing and perfecting the intentness they would use on the game itself. The scarred young man and the blind girl were edged away and found themselves nearest the door in a room now grown very silent save for the sound from the wall."
+      },
+      {
+        "id": "p-041",
+        "text": "The young man said, “This is really a bad place—you shouldn’t be here.”"
+      },
+      {
+        "id": "p-042",
+        "text": "“Then what are you doing here?”"
+      },
+      {
+        "id": "p-043",
+        "text": "“I don’t have much money,” he said. “It’s cheap.”"
+      },
+      {
+        "id": "p-044",
+        "text": "“You don’t have a job?”"
+      },
+      {
+        "id": "p-045",
+        "text": "“I was hurt in an accident. I’m well now, but they wouldn’t keep me on—they say I would frighten the others. I suppose I would.”"
+      },
+      {
+        "id": "p-046",
+        "text": "“Isn’t there insurance for that?”"
+      },
+      {
+        "id": "p-047",
+        "text": "“I wasn’t there long enough to qualify.”"
+      },
+      {
+        "id": "p-048",
+        "text": "“I see,” she said. She raised her coffee carefully, holding it with both hands. He wanted to tell her that it was about to spill—she did not hold it quite straight—but dared not. Just as it was at the point of running over the edge it found her lips."
+      },
+      {
+        "id": "p-049",
+        "text": "“You listened to the ruler,” he said, “while you were walking in the storm. I like that.”"
+      },
+      {
+        "id": "p-050",
+        "text": "“Did they listen here?” she asked."
+      },
+      {
+        "id": "p-051",
+        "text": "“I don’t know. I wasn’t here. The wall was off when I came in.”"
+      },
+      {
+        "id": "p-052",
+        "text": "“Everyone should,” she said. “He does his best for us.”"
+      },
+      {
+        "id": "p-053",
+        "text": "The scarred young man nodded."
+      },
+      {
+        "id": "p-054",
+        "text": "“People won’t cooperate,” she said. “Don’t cooperate. Look at the crime problem—everyone complains about it, but it is the people themselves who commit the crimes. He tries to clean the air, the water, all for us—”"
+      },
+      {
+        "id": "p-055",
+        "text": "“But they burn in the open whenever they think they won’t be caught,” the young man finished for her, “and throw filth in the rivers. The bosses live in luxury because of him, but they cheat on the standards whenever they can. He should destroy them.”"
+      },
+      {
+        "id": "p-056",
+        "text": "“He loves them,” the girl said simply. “He loves everyone. When we say that, it sounds like we’re saying he loves no one, but that’s not true. He loves everyone.”"
+      },
+      {
+        "id": "p-057",
+        "text": "“Yes,” the scarred young man said after a moment, “but he loves Westwind the best. Loving everyone does not exclude loving someone more than others. Tonight he called Westwind ‘my eyes.’ ”"
+      },
+      {
+        "id": "p-058",
+        "text": "“Westwind observes for him,” the girl said softly, “and reports. Do you think Westwind is someone very important?”"
+      },
+      {
+        "id": "p-059",
+        "text": "“He is important,” the young man said, “because the ruler listens to him—and after all, it’s next to impossible for anyone else to get an audience. But I think you mean ‘does he look important to us?’ I don’t think so—he’s probably some very obscure person you’ve never heard of.”"
+      },
+      {
+        "id": "p-060",
+        "text": "“I think you’re right,” she said."
+      },
+      {
+        "id": "p-061",
+        "text": "He was finishing his second sandwich and he nodded, then realized that she could not see him. She was pretty, he decided, in a slender way, not too tall, wore no rings. Her nails were unpainted, which made her hands look, to him, like a schoolgirl’s. He remembered watching the girls playing volleyball when he had been in school—how he had ached for them. He said, “You should have stayed in the terminal tonight. I don’t think this is a safe place for you.”"
+      },
+      {
+        "id": "p-062",
+        "text": "“Do the rooms lock?”"
+      },
+      {
+        "id": "p-063",
+        "text": "“I don’t know. I haven’t seen them.”"
+      },
+      {
+        "id": "p-064",
+        "text": "“If they don’t I’ll put a chair under the knob or something. Move the furniture. At the terminal I tried to sleep on a bench—I didn’t want to walk here through all that rain, believe me. But every time I fell asleep I could feel someone’s hand on me—once I grabbed him, but he pulled away. I’m not very strong.”"
+      },
+      {
+        "id": "p-065",
+        "text": "“Wasn’t anyone else there?”"
+      },
+      {
+        "id": "p-066",
+        "text": "“Some men, but they were trying to sleep too—of course it was one of them, and perhaps they were all doing it together. One of them told the others that if they didn’t let me alone he’d kill someone—that was when I left. I was afraid he wasn’t doing it—that somebody would be killed or at least that there would be a fight. He was the one who called about the cab for me. He said he’d pay.”"
+      },
+      {
+        "id": "p-067",
+        "text": "“I don’t think it was him, then.”"
+      },
+      {
+        "id": "p-068",
+        "text": "“I don’t either.” The girl was silent for a moment, then said, “I wouldn’t have minded it so much if I hadn’t been so tired.”"
+      },
+      {
+        "id": "p-069",
+        "text": "“I understand.”"
+      },
+      {
+        "id": "p-070",
+        "text": "“Would you find the lady and ask her to show me to my room?”"
+      },
+      {
+        "id": "p-071",
+        "text": "“Maybe we could meet in the morning for breakfast.”"
+      },
+      {
+        "id": "p-072",
+        "text": "The blind girl smiled, the first time the scarred young man had seen her smile. “That would be nice,” she said."
+      },
+      {
+        "id": "p-073",
+        "text": "He went behind the bar and touched the old woman’s arm. “I hate to interrupt the game,” he said, “but the young lady would like to go to her room.”"
+      },
+      {
+        "id": "p-074",
+        "text": "“I don’t care about the game,” the old woman said. “I just watch it because everybody else does. I’ll get Obie to take care of things.”"
+      },
+      {
+        "id": "p-075",
+        "text": "“She’s coming,” the scarred young man said to the blind girl. “I’ll go up with you. I’m ready to turn in myself.”"
+      },
+      {
+        "id": "p-076",
+        "text": "The woman was already motioning for them and they followed her up a narrow staircase filled with foul odors. “They pee in here,” she said. “There’s toilets down at the end of the hall, but they don’t bother to use them.”"
+      },
+      {
+        "id": "p-077",
+        "text": "“How terrible,” the girl said."
+      },
+      {
+        "id": "p-078",
+        "text": "“Yes, it is. But that way they’re getting away with something—they’re putting one over on me because they know if I was to catch them I’d throw them out. I try and catch them, but at the same time I feel sorry for them—it’s pretty bad when the only wins you have left are the games on the wall and cheating an old woman by dirtying her steps.” She paused at the top of the stairs for breath. “You two are going to be just side-by-side—you don’t mind that?”"
+      },
+      {
+        "id": "p-079",
+        "text": "The girl said, “No,” and the scarred young man shook his head."
+      },
+      {
+        "id": "p-080",
+        "text": "“I didn’t think you would and they’re the last I’ve got anyway.”"
+      },
+      {
+        "id": "p-081",
+        "text": "The scarred young man was looking down the narrow corridor. It was lined with doors, most of them shut."
+      },
+      {
+        "id": "p-082",
+        "text": "“I’ll put you closest to the bathroom,” the old woman was saying to the girl. “There’s a hook on the bathroom door, so don’t you worry. But if you stay in there too long somebody’ll start pounding.”"
+      },
+      {
+        "id": "p-083",
+        "text": "“I’ll be all right,” the girl said."
+      },
+      {
+        "id": "p-084",
+        "text": "“Sure you will. Here’s your room.”"
+      },
+      {
+        "id": "p-085",
+        "text": "The rooms had been parts of much larger rooms once. Now they were subdivided with green-painted partitions of some stuff like heavy cardboard. The old woman went into the girl’s place and turned on the light. “Bed’s here; dresser’s there,” she said. “Washstand in the corner, but you have to bring your water from the bathroom. No bugs—we fumigate twice a year. Clean sheets.”"
+      },
+      {
+        "id": "p-086",
+        "text": "The girl was feeling the edge of the door. Her fingers found a chain lock and she smiled."
+      },
+      {
+        "id": "p-087",
+        "text": "“There’s a dead bolt too,” the scarred young man said."
+      },
+      {
+        "id": "p-088",
+        "text": "The old woman said, “Your room’s next door. Come on.”"
+      },
+      {
+        "id": "p-089",
+        "text": "His room was much like the girl’s, save that the cardboard partition (it had been liberally scratched with obscene words and pictures) was on the left instead of the right. He found that he was acutely aware of her moving behind it, the tap of her stick as she established the positions of the bed, the dresser, the washstand. He locked his door and took off his soaked coat and hung it on a hook, then took off his shoes and stockings. He disliked the thought of walking on the gritty floor in his wet feet, but there was no alternative except the soggy shoes. With his legs folded under him he sat on the bed, then unhooked the communicator from his belt and pushed 555-333-4477, the ruler’s number."
+      },
+      {
+        "id": "p-090",
+        "text": "“This is Westwind,” the scarred young man whispered."
+      },
+      {
+        "id": "p-091",
+        "text": "The ruler’s face appeared in the screen, tiny and perfect. Again, as he had so often before, the young man felt that this was the ruler’s real size, this tiny, bright figure—he knew it was not true."
+      },
+      {
+        "id": "p-092",
+        "text": "“This is Westwind and I’ve got a place to sleep tonight. I haven’t found another job yet, but I met a girl and think she likes me.”"
+      },
+      {
+        "id": "p-093",
+        "text": "“Exciting news,” the ruler said. He smiled."
+      },
+      {
+        "id": "p-094",
+        "text": "The scarred young man smiled too, on his unscarred side. “It’s raining very hard here,” he said. “I think this girl is very loyal to you, sir. The rest of the people here—well, I don’t know. She told me about a man in the terminal who tried to molest her and another man who wanted to protect her. I was going to ask you to reward him and punish the other one, but I’m afraid they were the same man—that he wanted to meet her and this gave him the chance.”"
+      },
+      {
+        "id": "p-095",
+        "text": "“They are often the same man,” the ruler said. He paused as though lost in thought. “You are all right?”"
+      },
+      {
+        "id": "p-096",
+        "text": "“If I don’t find something tomorrow I won’t be able to afford to stay, but yes, I’m all right tonight.”"
+      },
+      {
+        "id": "p-097",
+        "text": "“You are very cheerful, Westwind. I love cheerfulness.”"
+      },
+      {
+        "id": "p-098",
+        "text": "The good side of the scarred young man’s face blushed. “It’s easy for me,” he said. “I’ve known all my life that I was your spy, your confidant—it’s like knowing where a treasure is hidden. Often I feel sorry for the others. I hope you’re not too severe with them.”"
+      },
+      {
+        "id": "p-099",
+        "text": "“I don’t want to aid you openly unless I must,” the ruler said. “But I’ll find ways that aren’t open. Don’t worry.” He winked."
+      },
+      {
+        "id": "p-100",
+        "text": "“I know you will, sir.”"
+      },
+      {
+        "id": "p-101",
+        "text": "“Just don’t pawn your communicator.”"
+      },
+      {
+        "id": "p-102",
+        "text": "The image was gone, leaving only a blank screen. The young man turned out the light and continued to undress, taking off everything but his shorts. He was lying down on the bed when he heard a thump from the other side of the cardboard partition. The blind girl, feeling her way about the room, must have bumped into it. He was about to call, “Are you hurt?” when he saw that one of the panels, a section perhaps three feet by four, was teetering in its frame. He caught it as it fell and laid it on floor."
+      },
+      {
+        "id": "p-103",
+        "text": "The light the old woman had turned on still burned in the girl’s room and he saw that she had hung up her coat and wrapped her hair in a strip of paper towels from the washstand. While he watched she removed her black glasses, set them on the bureau, and rubbed the bridge of her nose. One of her eyes showed only white; the iris of the other was the poisoned blue color of watered milk and turned in and down. Her face was lovely. While he watched she unbuttoned her blouse and hung it up. Then she unhooked her communicator from her belt, ran her fingers over the buttons once, and, without looking, pressed a number."
+      },
+      {
+        "id": "p-104",
+        "text": "“This is Westwind,” she said."
+      },
+      {
+        "id": "p-105",
+        "text": "He could not hear the voice that answered her, but the face in the screen, small and bright, was the face of the ruler. “I’m all right,” she said. “At first I didn’t think I was going to be able to find a place to stay tonight, but I have. And I’ve met someone.”"
+      },
+      {
+        "id": "p-106",
+        "text": "The scarred young man lifted the panel back into place as gently as he could and lay down again upon his bed. When he heard the rattle of her cane again he tapped the partition and called, “Breakfast tomorrow. Don’t forget.”"
+      },
+      {
+        "id": "p-107",
+        "text": "“I won’t. Good night.”"
+      },
+      {
+        "id": "p-108",
+        "text": "“Good night,” he said."
+      },
+      {
+        "id": "p-109",
+        "text": "In the room below them the old woman was patting her straggling hair into place with one hand while she punched a number with the other. “Hello,” she said, “this is Westwind. I saw you tonight.”"
+      }
+    ]
+  },
+  {
+    "id": "author-note",
+    "index": 1,
+    "title": "Afterword",
+    "volume": "sources",
+    "kind": "reference",
+    "paragraphs": [
+      {
+        "id": "chapter-title",
+        "text": "Afterword"
+      },
+      {
+        "id": "p-001",
+        "text": "It was not until I prepared to write this author’s note that I realized that long before I wrote this story the great G. K. Chesterton had written an entire book in which all the members of a gang of revolutionaries, save its head and one other, were spies for assorted police agencies and government bureaus."
+      },
+      {
+        "id": "p-002",
+        "text": "Its head was God."
+      },
+      {
+        "id": "p-003",
+        "text": "The book is The Man Who Was Thursday. You can find a copy if you look, and I suggest you read it."
+      }
+    ]
+  }
+]

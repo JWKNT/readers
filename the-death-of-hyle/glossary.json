@@ -1,0 +1,102 @@
+[
+  {
+    "id": "piombi",
+    "term": "Piombi",
+    "aliases": [],
+    "short": "The prison beneath the lead roof of Venice’s Doge’s Palace.",
+    "note": "The “Leads”: prison cells beneath the lead-covered roof of the Doge’s Palace in Venice. Giacomo Casanova was imprisoned there and escaped in 1756.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://palazzoducale.visitmuve.it/en/layout-and-collections/special-itineraries/",
+        "label": "Doge’s Palace · Secret Itineraries"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-035",
+      "index": 0
+    }
+  },
+  {
+    "id": "casanova",
+    "term": "Casanova",
+    "aliases": [],
+    "short": "Giacomo Casanova, Venetian adventurer and memoirist.",
+    "note": "Giacomo Casanova (1725–1798), Venetian adventurer and memoirist, famous for his love affairs and his escape from the Piombi prison in 1756.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.casanovaofficialmuseum.com/en/",
+        "label": "Casanova Museum"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-035",
+      "index": 0
+    }
+  },
+  {
+    "id": "hyle",
+    "term": "Hyle",
+    "aliases": [],
+    "short": "Possibly Greek hylē: matter or material.",
+    "note": "Possibly Greek hylē (ὕλη), originally wood or timber and, in philosophy, the matter or material from which something is made.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Amiddle-liddell.perseus-eng2-n33458/",
+        "label": "Liddell–Scott · ὕλη"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "chapter-title",
+      "index": 0
+    }
+  },
+  {
+    "id": "maya",
+    "term": "maya",
+    "aliases": [],
+    "short": "Illusion or the world of appearances in Indian philosophy.",
+    "note": "In Vedanta, the manifold world perceived by the senses insofar as it conceals the unity of absolute being; more broadly, illusion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/maya",
+        "label": "Merriam-Webster · maya"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-001",
+      "index": 0
+    }
+  },
+  {
+    "id": "hogarth",
+    "term": "Hogarth",
+    "aliases": [],
+    "short": "William Hogarth, the English painter and engraver.",
+    "note": "William Hogarth (1697–1764), English painter and engraver known for satirical sequences of modern life, including A Rake’s Progress and Marriage A-la-Mode.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nationalgallery.org.uk/artists/william-hogarth",
+        "label": "National Gallery · William Hogarth"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  }
+]

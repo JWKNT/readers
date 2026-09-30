@@ -1,0 +1,47 @@
+[
+  {
+    "id": "captain-cook",
+    "term": "Captain Cook",
+    "aliases": [],
+    "short": "James Cook, British navigator of the Pacific.",
+    "note": "James Cook (1728–1779), the British naval captain who led three major voyages of exploration in the Pacific.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-154020",
+        "label": "Royal Museums Greenwich: Cook’s Pacific voyages"
+      }
+    ],
+    "evidence": "ynesians are scattered all over the South Pacific. Did you know that? Captain Cook, a British naval officer, was the first to explore the Pacific with any thoroughness, and"
+  },
+  {
+    "id": "stonehenge",
+    "term": "Stonehenge",
+    "aliases": [],
+    "short": "The prehistoric stone monument on Salisbury Plain.",
+    "note": "The prehistoric stone monument in southern England whose main axis aligns with midsummer sunrise and midwinter sunset.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.english-heritage.org.uk/visit/places/stonehenge/things-to-do/solstice",
+        "label": "English Heritage: Stonehenge and the solstices"
+      }
+    ],
+    "evidence": "en more.” Rob kept quiet, so I explained that I had been thinking of Stonehenge. Stonehenge was a circle of big rocks, but the idea had been to look at the positions of "
+  },
+  {
+    "id": "cotton-mather",
+    "term": "Cotton Mather",
+    "aliases": [],
+    "short": "The New England minister who wrote about witchcraft.",
+    "note": "The Boston Puritan minister whose The Wonders of the Invisible World (1693) defended the Salem witchcraft proceedings and described alleged demonic activity.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/28513/28513-h/28513-h.htm",
+        "label": "Cotton Mather: The Wonders of the Invisible World"
+      }
+    ],
+    "evidence": "and monuments to rival Ancient Egypt’s, and gods worse than any demon Cotton Mather could have imagined. The time . . .” He shrugged. “After Moses but before Christ.” “Baby"
+  }
+]

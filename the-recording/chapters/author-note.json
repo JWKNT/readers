@@ -1,0 +1,21 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 103,
+  "startWords": 1498,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">There is very little I can say about this story without sounding maudlin. Uncle Bill is based on a substitute teacher I had now and then in high school. The seed of the story came from my father’s funeral. As I sat in the funeral parlor seeing Dad’s corpse in its coffin and only half-hearing his eulogies, it came to me that I was next in line. The small children who sat with me now, a little ashamed because their father wept, would sit through another funeral when they were older. Then they would weep, perhaps. Or at least, some of them might.</p>\n</div></blockquote></blockquote>"
+}

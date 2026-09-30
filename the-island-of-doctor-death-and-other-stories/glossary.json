@@ -1,0 +1,84 @@
+[
+  {
+    "id": "barnacle-goose",
+    "term": "barnacle goose",
+    "aliases": [],
+    "short": "An Arctic goose with a medieval shellfish legend.",
+    "note": "Branta leucopsis, a migratory goose breeding in northern regions. Medieval Europeans, unfamiliar with its nesting grounds, believed it developed from barnacles attached to driftwood.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wildlifetrusts.org/wildlife-explorer/birds/waterfowl/barnacle-goose",
+        "label": "The Wildlife Trusts: barnacle goose"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-003",
+      "index": 0
+    }
+  },
+  {
+    "id": "not-to-walk-all-four-on-ground",
+    "term": "Not to walk all-four-on-ground",
+    "aliases": [
+      "all-four-on-ground"
+    ],
+    "short": "The animal-people’s Law in The Island of Doctor Moreau.",
+    "note": "A commandment recited by the Beast Folk in H. G. Wells’s 1896 novel The Island of Doctor Moreau, whose Law requires animals transformed by surgery to behave like human beings.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/159",
+        "label": "H. G. Wells: The Island of Doctor Moreau"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-054",
+      "index": 0
+    }
+  },
+  {
+    "id": "cyclopean",
+    "term": "cyclopean",
+    "aliases": [],
+    "short": "Massive, like the work of the Cyclopes.",
+    "note": "Enormous or built from huge irregular stones. The architectural term comes from the Cyclopes, the giants credited in Greek tradition with building massive ancient walls.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cyclopean",
+        "label": "Merriam-Webster: cyclopean"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-081",
+      "index": 0
+    }
+  },
+  {
+    "id": "lemuria",
+    "term": "Lemuria",
+    "aliases": [],
+    "short": "A hypothetical lost land in the Indian Ocean.",
+    "note": "A landmass proposed by zoologist Philip Sclater in 1864 to explain the distribution of lemurs and their relatives across Madagascar and Asia; the name later entered lost-continent literature.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://people.wku.edu/charles.smith/biogeog/SCLA1878.htm",
+        "label": "Philip Sclater: Some Difficulties in Zoological Distribution"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-132",
+      "index": 0
+    }
+  }
+]

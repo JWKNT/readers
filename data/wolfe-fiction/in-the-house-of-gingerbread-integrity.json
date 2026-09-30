@@ -1,0 +1,24 @@
+{
+  "book": "in-the-house-of-gingerbread",
+  "sourceFiles": {
+    "endangered": {
+      "file": "_OceanofPDF.com_Endangered_Species_-_Gene_Wolfe.epub",
+      "sha256": "4b14835109c591ac7460743370fe051fad2785f9ad0e6567b9cf41f89e060c4b"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "endangered",
+      "files": [
+        "OEBPS/e9781429966214_c09.html"
+      ],
+      "sourceTextSha256": "248001d042ffe62944fc154f5d1286e75bcb44b1a5f378a85ae06067919b01e5",
+      "textSha256": "248001d042ffe62944fc154f5d1286e75bcb44b1a5f378a85ae06067919b01e5",
+      "blocks": 247
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

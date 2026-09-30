@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "id": "my-book",
+  "title": "My Book",
+  "author": "Gene Wolfe",
+  "volumes": [
+    {
+      "id": "text",
+      "title": "My Book",
+      "chapters": 1
+    }
+  ],
+  "totalWords": 558,
+  "defaultChapter": "story",
+  "glossaryCount": 5,
+  "correctionCount": 0,
+  "editionVersion": 13,
+  "chapters": [
+    {
+      "id": "story",
+      "title": "My Book",
+      "volume": "text",
+      "volumeTitle": "My Book",
+      "number": 1,
+      "label": "",
+      "kind": "chapter",
+      "index": 0,
+      "layout": "prose",
+      "blocks": [
+        "p-001",
+        "p-002",
+        "p-003",
+        "p-004",
+        "p-005",
+        "p-006",
+        "p-007",
+        "p-008"
+      ],
+      "sections": [],
+      "headingNoteAnchors": [],
+      "headingHtml": "My Book",
+      "noteAnchors": [
+        {
+          "term": "mahler",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "philip-rahv",
+          "paragraph": "p-004"
+        },
+        {
+          "term": "oliver-onions",
+          "paragraph": "p-004"
+        },
+        {
+          "term": "stout",
+          "paragraph": "p-004"
+        },
+        {
+          "term": "antepenultimate",
+          "paragraph": "p-005"
+        }
+      ],
+      "words": 558,
+      "startWords": 0
+    }
+  ]
+}

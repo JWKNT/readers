@@ -1,0 +1,34 @@
+{
+  "book": "has-anybody-seen-junie-moon",
+  "sourceFiles": {
+    "best": {
+      "file": "_OceanofPDF.com_The_Best_of_Gene_Wolfe_A_Definitive_Retrospective_of_His_Finest_Short_Fiction_-_Gene_Wolfe.epub",
+      "sha256": "2f72b914961e311c7d12bfc81fe6c39f2138e087c0daca32f8e717a195f8b664"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "best",
+      "files": [
+        "index_split_037.html"
+      ],
+      "sourceTextSha256": "4239d21bc00fc5e850dea181d7dbdc9f06e11f18f479448155f95371846dc84c",
+      "textSha256": "4239d21bc00fc5e850dea181d7dbdc9f06e11f18f479448155f95371846dc84c",
+      "blocks": 116
+    },
+    {
+      "chapter": "author-note",
+      "source": "best",
+      "files": [
+        "index_split_037.html"
+      ],
+      "sourceTextSha256": "e4650a206df6e844c563ef2abdef889b3b25ce7b90ba52c5cbe26e53a01692f0",
+      "textSha256": "e4650a206df6e844c563ef2abdef889b3b25ce7b90ba52c5cbe26e53a01692f0",
+      "blocks": 2
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

@@ -1,0 +1,535 @@
+[
+  {
+    "id": "story",
+    "index": 0,
+    "title": "Our Neighbour by David Copperfield",
+    "volume": "text",
+    "kind": "chapter",
+    "paragraphs": [
+      {
+        "id": "chapter-title",
+        "text": "Our Neighbour by David Copperfield"
+      },
+      {
+        "id": "p-001",
+        "text": "SOME earlier sketches of mine having been received with some slight approbation by the public, my good friend the Editor has asked me, for the benefit of the previously named influential group, to prefix this one with some explanation of the means by which the affecting circumstances here related reached my attention—a thing I would not otherwise undertake to do, the relation being of so commonplace a nature that only my esteemed friend’s request could embolden me to inflict it on my readers."
+      },
+      {
+        "id": "p-002",
+        "text": "I am lately married, and dwell with my dear wife Dora and a single servant in a beautiful little house. It fronts upon a beautiful road; and on the other side of the beautiful road stands another beautiful house—not as beautiful as ours, perhaps, but somewhat larger. As certain of my indulgent readers may know, I am engaged in the business of reporting the debates of Parliament for a Morning Newspaper; but when I am not recording predictions that never come to pass, professions that are never fulfilled, and explanations that are only meant to mystify, I busy myself with tales of my own, things no more false, and much more innocent, than those I must often report as fact. My desk is in the parlour, where the light from the mullioned window renders writing easy and pleasant. That same window provides me with an excellent view of our road—when I care to use it—and of all the carriages and wagons, and travellers on foot and horse."
+      },
+      {
+        "id": "p-003",
+        "text": "There is danger in such a window, and particularly to one like myself, whose trade it is to scribble down the doings of mankind. One wants a character—very well, a suitable one will soon pass by … . Then it is time for tea, which Dora and her dog Jip bring in, together with an hour and a half of conversation. I was sinking into just this ooze of difficulty, chewing on my pen and staring out the window, and wondering—without daring to look at my watch—if it were not time for my two afternoon visitors, when I noticed a lean and shabby young fellow lounging against my gate and staring (as it appeared to me) at the traffic in the street with far more concentration than myself."
+      },
+      {
+        "id": "p-004",
+        "text": "Of course, that was the end of passer-by watching for me. From that time forward, for the better part of an hour, I watched him—and those who passed before him only incidentally. By the time my darling Dora had entered with her little blue delft pot in its cozy, and the biscuits, and the bread spread with fish-paste and butter, I was quite certain that the fellow had no interest whatsoever in the carters and peddlers and porters and costermongers passing up and down our street, however fascinating this gentry seemed to me. He was looking instead, I felt certain, at the house opposite; and was only vexed when a wagonload of old furniture or one of those useful but wildly mis-named vehicles called hansoms blocked his view of it."
+      },
+      {
+        "id": "p-005",
+        "text": "Now this was a more serious matter. I had not the least idea who our neighbour might be, and no desire to know. But I conceived a responsibility to him based on our recent propinquity. In an excess of intimate spirit, I supposed the watcher might have been dispatched by some sinister enemy to spy on him, or might mean to rob his house. Thus, as soon as my darling Dora was gone, leaving (as her custom is) what remained of the tea things behind her, I went outside, where, laying a firm hand on the fellow’s shoulder, I invited him in."
+      },
+      {
+        "id": "p-006",
+        "text": "He came willingly enough, and seemed bemused rather than dismayed. “Sir,” said I, “you must give me your name. There’s nothing else for it.”"
+      },
+      {
+        "id": "p-007",
+        "text": "“Tom Tipsing,” said he; and he gave me his hand as well. It was a large hand, and rather soft, but it had the small callus upon the index finger that betrays those who wield a pen by night and day. I know that callus well, for I bear it myself. “You are a clerk,” said I."
+      },
+      {
+        "id": "p-008",
+        "text": "“Of Lincolns Inn,” said he."
+      },
+      {
+        "id": "p-009",
+        "text": "And now, dear reader, it is time, almost, for me to bow out of this story, which I have already encumbered far too long. Suffice it to say that my visitor was tall and thin and not more than three-and-twenty; that he had ink-stains on his waistcoat, and a round, smiling face; and that though I discharged him as innocent when he explained to me the origin of his interest in my neighbour, yet he returned thereafter to share a late tea with Dora and me, and recount his adventures."
+      },
+      {
+        "id": "p-010",
+        "text": "I have already alluded to Tom’s employment. He was an articled clerk. I shall not mention it again—or at least, no more than is necessary. Suffice it to say that it required long hours of tedious work, and left him just enough money for the maintenance of what he chose to call a suite of rooms, in a tumble-down building near Oldham Stairs. It was there that he repaired when he left me at last. He found a ragged old woman waiting him, and asked her in."
+      },
+      {
+        "id": "p-011",
+        "text": "“This is good of you, Master Thomas,” she said when she had seated herself in Tom’s second-best chair. “For an old body like myself. There’s not many young people that would do it. Do you think I’m mad? I own that suspicion occurs to me sometimes—particular bad, it is, just before I sleeps. For how could a living man contrive such a thing?”"
+      },
+      {
+        "id": "p-012",
+        "text": "“You’re sound as a nut,” Tom told her stoutly, “and will be until the day you die.”"
+      },
+      {
+        "id": "p-013",
+        "text": "“Have you learnt ought?”"
+      },
+      {
+        "id": "p-014",
+        "text": "Tom shook his head."
+      },
+      {
+        "id": "p-015",
+        "text": "“Another day wasted then. Had he no one in?”"
+      },
+      {
+        "id": "p-016",
+        "text": "“Four visitors,” Tom told her. He wore a long, snuff-coloured bodycoat, and was unbuttoning it as he spoke. “A poor woman with a child, a City merchant, and a gentleman of the legal profession—his name is Brass, I know, for he comes to our offices sometimes.”"
+      },
+      {
+        "id": "p-017",
+        "text": "“Could you ask him what he did there?” the old woman inquired eagerly."
+      },
+      {
+        "id": "p-018",
+        "text": "Tom shook his head. “I doubt that he would speak to me on the street.”"
+      },
+      {
+        "id": "p-019",
+        "text": "“He’s rich?”"
+      },
+      {
+        "id": "p-020",
+        "text": "“Very rich.” Tom’s round cheeks, red from the chill without, seemed to wax redder still. He seated himself opposite the old woman, and leaned toward her, rubbing his hands. “There’s money in the law, Mrs. Nedels. Heaps of it. Why, some of these cases drag on for fifty years. A hundred years!”"
+      },
+      {
+        "id": "p-021",
+        "text": "“I know, Master Tom.”"
+      },
+      {
+        "id": "p-022",
+        "text": "“One or two good ones—that’s all a fellow requires, once he has passed the bar. You may see me riding in my carriage yet.”"
+      },
+      {
+        "id": "p-023",
+        "text": "“I hope and pray so. Master Thomas, I think we must question some of them.”"
+      },
+      {
+        "id": "p-024",
+        "text": "“The poor ones, you mean,” said Tom. “It would be a rash action, Mrs. Nedels.”"
+      },
+      {
+        "id": "p-025",
+        "text": "Outside, the light had nearly faded; but the last of it fell on the old woman’s hands, picking at her skirt. “We can’t ask the rich, Master Thomas—they don’t even tell the truth to each other, for all I hear. And think of all the time you’ve spent, and nothing to show for it.”"
+      },
+      {
+        "id": "p-026",
+        "text": "“Is Jenny telling us everything that passed while she was there?”"
+      },
+      {
+        "id": "p-027",
+        "text": "“I do think so,” said the old woman. “She’s not a truthful girl—I know that for all she’s my own daughter. But I believe she’s been truthful about that. And she never touched a drop, I swear, for a fortnight after she left that house. It’s all back again now; but that fortnight was the happiest of my life. Never touched it, and said she didn’t want it, she didn’t know why. And him? The servants won’t even let me talk to him. I took what we had, and bought flowers—oh, I’ve told you all this.” She had begun to rock back and forth in her chair, with an excitement that was strange to see in one so old and sere."
+      },
+      {
+        "id": "p-028",
+        "text": "“That’s all right,” Tom told her."
+      },
+      {
+        "id": "p-029",
+        "text": "“You don’t know what it is to go looking after a daughter at night—hoping to find her asleep under a bench in some cellar, and nothing worse. You don’t know, Master Thomas. The butler, he wouldn’t even allow me to bring them in—the flowers, I mean. Daisies they were, chiefly; I had them from a friend in Covent Garden Market. He took them from me.” She sighed. “I’ll go now, though, and let you sleep. You must be tired after watching all day. Will you follow one of the poor ones next time, though, and ask questions of her? Promise me?”"
+      },
+      {
+        "id": "p-030",
+        "text": "“If the chance allows,” Tom said. He got up to open the door for the old woman. When she had gone, he took a rusty match box from his waistcoat pocket and struck a light to kindle the room’s one lamp. An open law-book lay on the table before it; for his supper he applied himself to that and a pipe of tobacco."
+      },
+      {
+        "id": "p-031",
+        "text": "For three days, his employment kept Tom’s eye from my neighbour’s door; but on the fourth he was back again, leaning on my gatepost. Winter was setting in, and the weather had turned dark as well as chill. For an hour or more his stoicism went unrewarded—then, like a shower of gold, the rich came. Four equipages, one after another, drew up to the door that had been the object of his faithful scrutiny. Then it began to rain—one of our fine, cold autumn rains. He knocked on my door hoping for shelter (so he told us later) but Dora and I had gone a-visiting, and Mary Anne, our “ordinary,” would not admit him. She reported afterward that he had said something about a poor man coming; she thought that he meant himself, but I by that time knew enough of the mystery that engaged him to understand that he referred to the destitute person whom he expected to see admitted to my neighbour’s house, together with the wealthy callers."
+      },
+      {
+        "id": "p-032",
+        "text": "Tom was just leaving my premises, as it would happen, when he was accosted by my neighbour himself. He had never seen the man before, but he knew his name (which was Dr. McApple) from inquiries he had made of the tradesmen; and his appearance from the testimony of Mrs. Nedels’ daughter Jenny—a tall, sharp-faced, hollow-cheeked old man, with snapping black eyes. He wore a fine hat, Tom said, but had a square of oilcloth draped over it to keep off the rain; so that he looked like a Spanish duenna in a play."
+      },
+      {
+        "id": "p-033",
+        "text": "“Sir!” this Dr. McApple called out, as if Tom were a furlong off instead of a foot away. “Sir, what do you here?”"
+      },
+      {
+        "id": "p-034",
+        "text": "“Why,” said Tom, who thought himself discovered, “I came to call on my acquaintance Mr. Copperfield, but I find him not at home.”"
+      },
+      {
+        "id": "p-035",
+        "text": "“So?” Dr. McApple stepped back and seemed to examine the unfortunate clerk as though he intended to buy him. “May I ask your business, sir, and place of lodging?”"
+      },
+      {
+        "id": "p-036",
+        "text": "“My business here,” Tom said, having recovered somewhat from the initial shock of near discovery, “I have already told you. I have rooms at Number 27 Perry Lane—near Oldham Stairs; you may inquire for me there.” And with that he turned and made as if to go."
+      },
+      {
+        "id": "p-037",
+        "text": "“Wait!” the old man cried. “You might almost do yourself—sir, would you engage to find a pauper for me? I would pay a pound—that is,” he added hastily, “ten shillings to you, and ten to him.”"
+      },
+      {
+        "id": "p-038",
+        "text": "Tom’s first impulse was to accept this offer; but he reflected that too quick an agreement might awaken the Scottish doctor’s suspicions. “I am a gentleman, sir,” he said, “and gentlemen do not act for shillings. If you wish me to do as you ask, it must be for a guinea. But if your purposes are philanthropic, explain them to me; then should I approve, I’ll be your confederate for nothing.”"
+      },
+      {
+        "id": "p-039",
+        "text": "“My friend,” Dr. McApple said, “they are the most philanthropic in the world; but I cannot explain them to you.”"
+      },
+      {
+        "id": "p-040",
+        "text": "“What,” said Tom, “must charity be hid?”"
+      },
+      {
+        "id": "p-041",
+        "text": "“At times it must. You will find me a poor man, you say, for a guinea. It is not a fair price, but I must accept—I had a beggar engaged to come, but it would appear that he has been detained, and my servant, who performs these offices for me, is on holiday. I cannot desert my guests, or be seen bringing such into my house, so I must ask help of you. A woman will suit me as well as a man, but no better. Bring who you will, but whomever you bring must be sober or nearly, and no Bedlamite. And destitute, you understand. They’ll have a good meal with me—you may tell them that. But be swift; you have no more than an hour, and, sir, it would be to our benefit if the thing were done in less.”"
+      },
+      {
+        "id": "p-042",
+        "text": "Tom nodded and made off through the rain. His first thought was to fetch Mrs. Nedels herself, though he was by no means certain that he could find her and return with her in an hour’s time. He had gone but a few streets over, however, when he saw just such a person as Dr. McApple seemed to require. He was tall, but much stooped; and as he was using his coat to cover what appeared to be a large box carried around his neck by a strap, his sodden shirt, clinging to his body, showed ribs as distinct and unpadded as the pickets of a fence. Tom approached him, and the poor fellow’s face brightened for a moment as he saw him."
+      },
+      {
+        "id": "p-043",
+        "text": "“Birds, sir?” said he. “Would you care to buy a bird, young sir? It will sing in your room even when it’s as dark as this out. They makes a fine gift to a young lady.”"
+      },
+      {
+        "id": "p-044",
+        "text": "“Birds?” asked Tom, for he did not at first quite understand what was meant."
+      },
+      {
+        "id": "p-045",
+        "text": "“Wrens!” said the birdman. “Robins and larks too. Just point out the chap you want, and I’ll have him out for you quick as a wink.” He drew his coat away from the box he carried, and Tom saw that there were indeed eight or ten damp, ruffle-feathered birds of various kinds inside, too tired and discouraged to flutter. “And I’ve a little basket wove that you can take the chap home in,” the coatless man continued, “though you must have a cage for him once you get him there.”"
+      },
+      {
+        "id": "p-046",
+        "text": "“I don’t want one of your birds—” began Tom."
+      },
+      {
+        "id": "p-047",
+        "text": "“Very well, sir. Perhaps some other time.”"
+      },
+      {
+        "id": "p-048",
+        "text": "“But I can put you in the way to earn ten shillings very easily. That’s as much as five of your birds cost, isn’t it?”"
+      },
+      {
+        "id": "p-049",
+        "text": "“Well, sir,” the birdman said, “more normal—if you take my meaning—I gets three for them. Howsomeever, because of the rain and all, I would take two. But that’s just to you, sir, special like.”"
+      },
+      {
+        "id": "p-050",
+        "text": "“But you’d rather have ten, wouldn’t you? Come along. You’ll get a good meal to boot.”"
+      },
+      {
+        "id": "p-051",
+        "text": "Tom took a step in the direction of Dr. McApple’s house, and the birdman followed him, limping. “Please, sir, what am I to do?”"
+      },
+      {
+        "id": "p-052",
+        "text": "“No heavy work, I promise you.”"
+      },
+      {
+        "id": "p-053",
+        "text": "“Ah,” said the birdman, “that’s well. I’ve got this timber leg, sir, and I can’t do it. I would if I could, and that’s the truth.”"
+      },
+      {
+        "id": "p-054",
+        "text": "“You seem to get along pretty well,” said Tom."
+      },
+      {
+        "id": "p-055",
+        "text": "“It’s not as bad as you would think, sir, for one that’s took off just below the hip,” said the birdman. He fell silent after this philosophical observation; and because Tom did not wish to encourage further questions, he was silent as well."
+      },
+      {
+        "id": "p-056",
+        "text": "It seemed odd to Tom to knock on the door he had watched so long; but he was eager to get out of the rain, and pounded violently. The birdman stood a pace or two behind him, tugging at his hat (Tom said) and looking doubtful. Dr. McApple himself let them in, paying no attention to Tom, but a great deal to the birdman, whom he shook most heartily by the hand, and directed to the kitchen, where he declared the cook had a meal waiting for him."
+      },
+      {
+        "id": "p-057",
+        "text": "When the birdman was gone, he turned to Tom. “There is a debt owing between us, sir,” he said, “that I will settle now,” (handing Tom two half-sovereigns and a shilling), “following which, I must ask you to leave.”"
+      },
+      {
+        "id": "p-058",
+        "text": "“Thank you, sir,” said Tom, and took the money. Then, seeing Dr. McApple turn away while his hand was still on the knob, he made a show of opening and closing the door, and stepped—exceedingly softly and silently, he says—behind the hall tree."
+      },
+      {
+        "id": "p-059",
+        "text": "For five minutes he remained there, hearing nothing and rather tickled about the nose by a greatcoat with a long nap. Then, venturing to peer out, he perceived that the doctor and his guests had assembled in a drawing room opening off the hall. Tiptoe he made his way to a spot near the entrance to this room, from whence he could hear all that was said."
+      },
+      {
+        "id": "p-060",
+        "text": "“It is very good of you, gentlemen, to assist me with my investigations.” This was Dr. McApple."
+      },
+      {
+        "id": "p-061",
+        "text": "“No, no.” “Not at all.” So said several voices; and another: “You are acquiring an outstanding reputation, Doctor. An acquaintance of mine in the City, Mr. Breedlove, has told me he considers you the only worthy successor to the great Franz Joseph Gall.”"
+      },
+      {
+        "id": "p-062",
+        "text": "“Hardly,” said the doctor. “Though I thank ye both kindly. But now we have finished your readings, I should like to demonstrate a second science to ye—that of Mesmerism.”"
+      },
+      {
+        "id": "p-063",
+        "text": "There was an excited murmur."
+      },
+      {
+        "id": "p-064",
+        "text": "“Or as others may call it,” continued Dr. McApple, “animal magnetism. In phrenology we deal with what I may call the most concrete of mental phenomena—the skull itself.”"
+      },
+      {
+        "id": "p-065",
+        "text": "“Concrete—that’s good,” said a jolly voice. “No wonder they call us hard-headed businessmen.” “Be quiet, Parsons, and let the doctor speak—we can hear you anytime.”"
+      },
+      {
+        "id": "p-066",
+        "text": "“As I was saying, we deal with the skull itself. Certain areas of the brain are responsible for specific mental qualities—humour, justice, judgment, temperance, strength of will, and the like. By palpating the skull, we can determine the development of these qualities in the individual under examination—just as I have done with you gentlemen. The elements of phrenology are now well established; the only thing left for researchers like myself is the resolution of apparent conflicts, the cases in which we find that a man’s behaviour does not correspond in all respects to what his skull tells us it should be.”"
+      },
+      {
+        "id": "p-067",
+        "text": "“Your science is not perfected, then, I take it,” said the jolly voice."
+      },
+      {
+        "id": "p-068",
+        "text": "“No. It sometimes occurs that a combination of other qualities may serve to stifle one that appears well developed.”"
+      },
+      {
+        "id": "p-069",
+        "text": "“I see. You said Waterford here was good-natured. But it might be that the bumps of argumentativeness and all-around obstinacy are so perfectly developed that no one would ever know it.”"
+      },
+      {
+        "id": "p-070",
+        "text": "There was half a minute of general laughter; then the doctor said, “Something like that, yes,” and a new voice asked, “But what about Mesmerism? I think we all understand phrenology well enough, thanks to the trouble you have put yourself to on our behalf.”"
+      },
+      {
+        "id": "p-071",
+        "text": "“It stands at the opposite pole,” declared Dr. McApple, “as I have already indicated. It is said to rely on the magnetic manipulation of impalpable ethers, and even that is dubious. But it can produce startling—though often short-lived—effects. You gentlemen have all been grist for one set of experiments, so I will not ask ye to volunteer yourselves for another—particularly since magnetic subjects seldom recall the experience afterward. There is a poor wretch in my kitchen whom I shall examine in your presence instead, allowing ye, as some small payment for the patience ye have shown me, to see how Mesmerism can be used as we have already used phrenology—to gauge the human qualities.”"
+      },
+      {
+        "id": "p-072",
+        "text": "As the doctor finished speaking, there came the tinkle of a bell, and Tom, guessing correctly that this was a signal to the cook indicating that the birdman was to be brought to the drawing room, made haste to conceal himself behind the clothes tree again. In a few seconds he heard the sound of footsteps—the thumping of the birdman’s wooden leg, and the stolid tread of another. When the birdman had entered the drawing room, and the cook’s steps had returned once more in the direction from whence they had come, Tom crept out again, and took up his old post near the drawing room door."
+      },
+      {
+        "id": "p-073",
+        "text": "One of the visitors was saying: “How can you be certain the trance is complete?”"
+      },
+      {
+        "id": "p-074",
+        "text": "“Watch.”"
+      },
+      {
+        "id": "p-075",
+        "text": "For a moment, as Tom said afterward, the room was quiet as a church. Then there came a collective gasp of amazement, and someone asked: “Didn’t that hurt him?”"
+      },
+      {
+        "id": "p-076",
+        "text": "“He feels nothing,” said Dr. McApple. “Now, John, you are bleeding, and it may get on my carpet. I want you to stop it.”"
+      },
+      {
+        "id": "p-077",
+        "text": "There was silence again, until one of the men who had spoken earlier said, “Astonishing!”"
+      },
+      {
+        "id": "p-078",
+        "text": "“In the trance state, ye see, even bodily functions that are involuntary in the normal course of things can be brought under the control of the magnetic operator. In this same way, we can learn the whole history of the poor man’s life—all with a veracity we could not be certain of were it not for the condition we have induced in him.”"
+      },
+      {
+        "id": "p-079",
+        "text": "“Will it take long?”"
+      },
+      {
+        "id": "p-080",
+        "text": "“I think not. That is another reason, ye understand, for employing a pauper as our subject—such poor people’s lives can be compressed into a simple narrative.”"
+      },
+      {
+        "id": "p-081",
+        "text": "There was a pause; then Dr. McApple said: “John, I want you to tell these fine gentlemen the first thing you can remember, and then the next thing, and so on, until the present moment.”"
+      },
+      {
+        "id": "p-082",
+        "text": "“That’s Mother.” (The birdman sounded sleepy, Tom thought, but not much different from the way he had on the street otherwise.) “She took in washin’, you know. I used to play in the water round her feet while she did it, and once I got hold of the soap and went to eat it, and she took it away—which perplexed me at the time, so I believe I cried. She had relatives in the country, I think, though I don’t know who they were. We used to go to see them when I was small, her carrying me part way. Sometimes we got a ride on a donkey cart goin’ home—possible they give her somethin’ to it, or possible it was them drivin’; I don’t know. Then when I was a big boy of six or seven I went to work in the rope-walk. ‘Twasn’t an apprenticeship properly, for there was none to be served; but there was twenty or thirty of us boys; and some women too, combin’ hemp. It was hard on the hands; you could always tell those that was newly come to it by the claret on their fingers—ruddy-mittens was what they called us. There was a boy there that was from Somerset that everyone made a guy of for not talkin’ proper. But I liked him and I used to set by him, and it was him that taught me how to lime the birds."
+      },
+      {
+        "id": "p-083",
+        "text": "“We were goin’ to make a lark pie, was what we said, when we’d caught enough. Only we never did. I misdoubt we had the coppers to buy flour for the crust if we had. But he showed me how to mix the lime, and the way to take the little chaps off without harming them when they were glued in it."
+      },
+      {
+        "id": "p-084",
+        "text": "“After a time I couldn’t stand the work no more, so I ran home to Mother; only she was gone, and no one couldn’t tell me where. It may be that I never did come to the right house—I was just a little lad, you know. However that may be, I never saw her after. It’s my hope she married well—possible a butcher, for she often spoke of marryin’ a butcher or a sausage maker, having a liking for those trades, as she said, for they knew you couldn’t never get all the stains from their aprons, and didn’t demand it. Then she might have sent for me when she’d have reconciled the master to it, but I’d have been gone by then. But of course as a lad I never thought on all that—it never so much as entered my head. Instead I met another boy that was goin’ to ’list as a powder-boy; so I ’listed too, on the Swiftsure."
+      },
+      {
+        "id": "p-085",
+        "text": "“It all went well enough for me after that, except one time when I was a young man and decided I’d stay on in Spain, havin’ tooken a liking to some people there. My captain got wind of that and sent eight marines after me, and I was flogged on four ships for it, and lucky to have lived. Then I lost my leg—wasn’t shot off like you might think, ’twas mashed when the slings broke and a gun fell on it."
+      },
+      {
+        "id": "p-086",
+        "text": "“So that was the end of sailorin’ for me. I’m a man what doesn’t know his letters, but I’d have said I knew a lot … . Why, I could manage most any sort of boat in any weather you please, and make rope or tie all kinds of knots you might wish, or mend sail, or do carpenter’s work. I can load a gun too, and fire it off, and before I got this spar limb I was a good hand for layin’ aloft. But the only thing that has been of any service to me lately was what that Somerset boy taught—liming birds."
+      },
+      {
+        "id": "p-087",
+        "text": "“I make my lime and carries it far enough out of the town to catch them (main hard that is, for it makes my stump sore), then brings them back and sells them as I can. Today was bad, the weather bein’ so chill and wet. There’s a place you can sleep in for threepence, but there’s another I like better for seven; and then I needed somethin’ to buy somethin’ for my birds with. Grain is good enough for some, but there’s others that requires a smatterin’ of meat. I can buy catsmeat for ha’pence, but that’s no help if I don’t have ha’pence.”"
+      },
+      {
+        "id": "p-088",
+        "text": "Dr. McApple said, “Do you know where you are now?” “In a gentleman’s house.”"
+      },
+      {
+        "id": "p-089",
+        "text": "“And how old are you?”"
+      },
+      {
+        "id": "p-090",
+        "text": "“That I don’t know for certain; but by my way of reconing, rising fifty years.”"
+      },
+      {
+        "id": "p-091",
+        "text": "“Have you ever wished to be young again, John?”"
+      },
+      {
+        "id": "p-092",
+        "text": "“Oh, aye. I suspose we all want that, one time or another.”"
+      },
+      {
+        "id": "p-093",
+        "text": "“You are going to get your wish. You are mistaken, you see, about your age. You are still only a boy—do you understand?”"
+      },
+      {
+        "id": "p-094",
+        "text": "“Aye aye, sir.”"
+      },
+      {
+        "id": "p-095",
+        "text": "“A small boy.”"
+      },
+      {
+        "id": "p-096",
+        "text": "“Yes, sir.”"
+      },
+      {
+        "id": "p-097",
+        "text": "“In fact, it is the day you came home from the rope-walk, looking for your mother. It is that very minute. You are knocking at the door of your old home.”"
+      },
+      {
+        "id": "p-098",
+        "text": "Tom said he held his breath when he heard this, for he didn’t know what would happen. For half a heartbeat or so, nothing did. Then he heard three knocks, tap … tap … tap … spaced a long time apart, and a voice that might have been a child’s say, “Mama?”Mama?”"
+      },
+      {
+        "id": "p-099",
+        "text": "Tap … tap."
+      },
+      {
+        "id": "p-100",
+        "text": "“Mama? Mama, are you in there? Mama? Mama, let me in.” (The tapping continuing all this time.)"
+      },
+      {
+        "id": "p-101",
+        "text": "One of the visitors said: “By heavens, he’s beginning to weep. This is quite amazing, Doctor.”"
+      },
+      {
+        "id": "p-102",
+        "text": "“MAMA!”"
+      },
+      {
+        "id": "p-103",
+        "text": "“How long will he remain like this?”"
+      },
+      {
+        "id": "p-104",
+        "text": "“For hours, unless I order him to desist.”"
+      },
+      {
+        "id": "p-105",
+        "text": "“It’s Johnny, Mama! Sir, please, sir, have you seen my mother? Do you know if she is to home?”"
+      },
+      {
+        "id": "p-106",
+        "text": "“He won’t become violent, will he?”"
+      },
+      {
+        "id": "p-107",
+        "text": "“It’s very unlikely.”"
+      },
+      {
+        "id": "p-108",
+        "text": "“Sir, please, sir, does she live here still?”"
+      },
+      {
+        "id": "p-109",
+        "text": "“I think we had better go. Are you coming, Parsons?”"
+      },
+      {
+        "id": "p-110",
+        "text": "The tapping continued, but Tom did not wait to hear more of it. He was on the point of secreting himself once more behind the hall tree, when he considered that as the guests took their departure they would also take their coats, leaving him revealed like the naked trunk of a beech in autumn. There was no other place in which he might conceal himself; he was about to throw open the door and run for it, when the first of the guests stepped into the corridor."
+      },
+      {
+        "id": "p-111",
+        "text": "Tom would still have decamped even then, but a bit of a law case he had recently read, in which flight was adduced in court as evidence of guilt, came into his head and convinced him that it might be better to stay. He had, after all, entered the house in its owner’s employ, and he could argue, if need be, that he had never been directly dismissed, and had remained in the hope of being of further service."
+      },
+      {
+        "id": "p-112",
+        "text": "With this in mind, he opened the door, and assisted the gentlemen with their coats, and otherwise acted as it might be expected a major-domo would. He saw the old Scottish doctor’s face harden when he saw him, but he said nothing, and Tom contrived to ignore him."
+      },
+      {
+        "id": "p-113",
+        "text": "When the last of the guests had gone, the doctor himself went to the door and shut it. “You’ve rain upon your cheeks,” said he."
+      },
+      {
+        "id": "p-114",
+        "text": "“I suppose I do,” responded Tom."
+      },
+      {
+        "id": "p-115",
+        "text": "“Possibly your eyes have been watering from the wind.”"
+      },
+      {
+        "id": "p-116",
+        "text": "“That may be. May I ask where my birdman is?”"
+      },
+      {
+        "id": "p-117",
+        "text": "“Sleeping now. I take it you were listening to us.”"
+      },
+      {
+        "id": "p-118",
+        "text": "“I was, yes.”"
+      },
+      {
+        "id": "p-119",
+        "text": "“It did him no harm, you may be sure. And he will remember naught when he wakes.”"
+      },
+      {
+        "id": "p-120",
+        "text": "“You think that I am a pryer and a spy,” said Tom, “and I don’t blame you for it. But I am a friend to the mother of a girl you have used as you used that unfortunate man tonight; it is at her instigation that I have taken the liberties I have today.”"
+      },
+      {
+        "id": "p-121",
+        "text": "“Did this girl suffer by coming here?” Dr. McApple inquired. His frown had lightened somewhat."
+      },
+      {
+        "id": "p-122",
+        "text": "“No, sir. She was greatly benefitted—at least, for a time.”"
+      },
+      {
+        "id": "p-123",
+        "text": "“I recall the girl. I made a suggestion I felt would be to her improvement while she was in the trance state. Can you tell me how long it remained effectual?”"
+      },
+      {
+        "id": "p-124",
+        "text": "“A fortnight, I believe.”"
+      },
+      {
+        "id": "p-125",
+        "text": "“That is longer than most. I attempt to help these people when I can, though that is not my real business.”"
+      },
+      {
+        "id": "p-126",
+        "text": "“May I be so bold,” said Tom, greatly daring, “as to ask what your real business may be?”"
+      },
+      {
+        "id": "p-127",
+        "text": "“Pity.” The doctor’s frown was entirely dispersed by this time, an expression of deep sadness having replaced it. “It is my theory that an area just here—” he reached up, and before Tom could object, touched the left side of his head, above and behind the ear, “controls pity of the sort that persons of wealth might be expected to feel toward the destitute.”"
+      },
+      {
+        "id": "p-128",
+        "text": "“I see,” said Tom. “Then you are trying to match that exhibited, with the degree of development found there in wealthy individuals.”"
+      },
+      {
+        "id": "p-129",
+        "text": "“No, sir,” replied the doctor. “Rather, I am attempting to determine why, no matter what the apparent development, the quality itself appears not to exist.”"
+      },
+      {
+        "id": "p-130",
+        "text": "After that, he said no more; but turned on his heel, leaving Tom standing alone in the hall—from whence he came, in time, to recount his adventure to Dora and me."
+      }
+    ]
+  }
+]

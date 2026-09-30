@@ -1,0 +1,344 @@
+[
+  {
+    "id": "hiranyakasipu",
+    "term": "Hiranyakasipu",
+    "aliases": [],
+    "short": "The demon king slain by Vishnu’s lion-man form.",
+    "note": "Hiranyakashipu is the demon king overcome by Narasimha, Vishnu’s incarnation with a human body and a lion’s head.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/38470",
+        "label": "The Metropolitan Museum of Art: Narasimha and Hiranyakashipu"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-477",
+      "index": 0
+    }
+  },
+  {
+    "id": "krishna",
+    "term": "Krishna",
+    "aliases": [],
+    "short": "Hindu deity and an incarnation of Vishnu.",
+    "note": "A widely worshipped Hindu deity, traditionally an incarnation of Vishnu. His youthful feats include lifting Mount Govardhana to shelter cowherds and cattle from Indra’s storm.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/sseasia.pdf",
+        "label": "The Metropolitan Museum of Art: South and Southeast Asian art"
+      }
+    ],
+    "occurrences": 12,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-487",
+      "index": 0
+    }
+  },
+  {
+    "id": "indra",
+    "term": "Indra",
+    "aliases": [],
+    "short": "Vedic god associated with storms and rain.",
+    "note": "A major Vedic deity associated with the heavens, rain, and the thunderbolt. In the Govardhana episode, Krishna shelters the cowherds from a storm sent by Indra.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/sseasia.pdf",
+        "label": "The Metropolitan Museum of Art: South and Southeast Asian art"
+      }
+    ],
+    "occurrences": 37,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-655",
+      "index": 0
+    }
+  },
+  {
+    "id": "kamsa",
+    "term": "Kamsa",
+    "aliases": [],
+    "short": "The ruler of Mathura opposed by Krishna.",
+    "note": "The tyrant of Mathura in Krishna’s childhood legends, who tries to destroy the infant destined to overthrow him.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/37812",
+        "label": "The Metropolitan Museum of Art: Krishna enters Mathura"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-657",
+      "index": 0
+    }
+  },
+  {
+    "id": "gnome-king",
+    "term": "Gnome King",
+    "aliases": [],
+    "short": "The Nome King of L. Frank Baum’s Oz books.",
+    "note": "The underground ruler called the Nome King in L. Frank Baum’s Oz books, notably Ozma of Oz (1907). His realm is rich in metals and jewels.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/486/486-h/486-h.htm",
+        "label": "L. Frank Baum: Ozma of Oz"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-421",
+      "index": 0
+    }
+  },
+  {
+    "id": "clothes-man",
+    "term": "Clothes Man",
+    "aliases": [],
+    "short": "Possibly the Scarecrow of The Wizard of Oz.",
+    "note": "Possibly the Scarecrow, the straw-filled companion who seeks brains in L. Frank Baum’s The Wonderful Wizard of Oz (1900).",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/55/55-h/55-h.htm",
+        "label": "L. Frank Baum: The Wonderful Wizard of Oz"
+      }
+    ],
+    "occurrences": 21,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-587",
+      "index": 0
+    }
+  },
+  {
+    "id": "metal-man",
+    "term": "Metal Man",
+    "aliases": [],
+    "short": "Possibly the Tin Woodman of The Wizard of Oz.",
+    "note": "Possibly the Tin Woodman, Dorothy’s metal-bodied companion who seeks a heart in L. Frank Baum’s The Wonderful Wizard of Oz (1900).",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/55/55-h/55-h.htm",
+        "label": "L. Frank Baum: The Wonderful Wizard of Oz"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-735",
+      "index": 0
+    }
+  },
+  {
+    "id": "dorothy",
+    "term": "Dorothy",
+    "aliases": [],
+    "short": "The Kansas girl of The Wizard of Oz.",
+    "note": "Dorothy is the Kansas girl carried by a cyclone to Oz in L. Frank Baum’s The Wonderful Wizard of Oz (1900), accompanied by her dog Toto.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/55/55-h/55-h.htm",
+        "label": "L. Frank Baum: The Wonderful Wizard of Oz"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-827",
+      "index": 0
+    }
+  },
+  {
+    "id": "skinnerian",
+    "term": "Skinnerian",
+    "aliases": [],
+    "short": "Relating to B. F. Skinner’s behavioral psychology.",
+    "note": "Relating to psychologist B. F. Skinner and his analysis of operant conditioning: behavior becomes more or less likely according to its consequences.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.bfskinner.org/about-behaviorism-chapter-4-operant-behavior-quote-1/",
+        "label": "B. F. Skinner Foundation: operant behavior"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-776",
+      "index": 0
+    }
+  },
+  {
+    "id": "deva",
+    "term": "Deva",
+    "aliases": [],
+    "short": "A god or divine being in Indian religions.",
+    "note": "A Sanskrit term for a god or celestial being, used in Hinduism and Buddhism.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.oxfordlearnersdictionaries.com/us/definition/english/deva",
+        "label": "Oxford Advanced Learner’s Dictionary: deva"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-376",
+      "index": 0
+    }
+  },
+  {
+    "id": "prithivi",
+    "term": "Prithivi",
+    "aliases": [],
+    "short": "Possibly Pṛthivī, the personified earth.",
+    "note": "Possibly Pṛthivī, Sanskrit for the earth or wide world and the name of its female divine personification.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/MWScanpdf/mw0646-pRthakparNI.pdf",
+        "label": "Monier-Williams Sanskrit-English Dictionary: pṛthivī"
+      }
+    ],
+    "occurrences": 45,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-387",
+      "index": 0
+    }
+  },
+  {
+    "id": "vishnu",
+    "term": "Vishnu",
+    "aliases": [],
+    "short": "The Hindu preserver of cosmic order.",
+    "note": "A major Hindu deity associated with preserving cosmic order, appearing in incarnations that include Krishna and the lion-man Narasimha.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/sseasia.pdf",
+        "label": "The Metropolitan Museum of Art: South and Southeast Asian art"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-477",
+      "index": 0
+    }
+  },
+  {
+    "id": "devaki",
+    "term": "Devaki",
+    "aliases": [],
+    "short": "Krishna’s mother in Hindu tradition.",
+    "note": "The mother of Krishna, who is taken from prison as a newborn and raised by Yashoda to protect him from King Kamsa.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://museumsofindia.gov.in/repository/record/nat_del-54-65-27-34719",
+        "label": "National Museum, New Delhi: birth of Krishna"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-657",
+      "index": 0
+    }
+  },
+  {
+    "id": "shintoism",
+    "term": "Shintoism",
+    "aliases": [
+      "Shinto"
+    ],
+    "short": "The Japanese tradition of reverence for kami.",
+    "note": "Shinto, Japan’s religious tradition centered on reverence for kami, including divine powers of nature and ancestral spirits, with worship at shrines called jinja.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.jinjahoncho.or.jp/en/shinto/",
+        "label": "Jinja Honcho: What is Shinto?"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-417",
+      "index": 0
+    }
+  },
+  {
+    "id": "katana",
+    "term": "katana",
+    "aliases": [],
+    "short": "A curved Japanese sword.",
+    "note": "A Japanese sword with a curved, single-edged blade, traditionally worn edge upward through the sash.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/24384",
+        "label": "The Metropolitan Museum of Art: katana"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-417",
+      "index": 0
+    }
+  },
+  {
+    "id": "saint-bridget-of-sweden",
+    "term": "Saint Bridget of Sweden",
+    "aliases": [],
+    "short": "The fourteenth-century Swedish mystic.",
+    "note": "Bridget or Birgitta of Sweden (1303–1373), a Christian mystic whose visions were collected as Revelations and who founded the religious order known as the Bridgettines.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20101027.html",
+        "label": "Vatican: Saint Bridget of Sweden"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-479",
+      "index": 0
+    }
+  },
+  {
+    "id": "c-s-lewis",
+    "term": "C. S. Lewis",
+    "aliases": [],
+    "short": "The author of the Narnia books.",
+    "note": "The British writer and Christian apologist whose Chronicles of Narnia feature Aslan, a great lion associated with creation, sacrifice, and resurrection.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cslewis.com/us/about-cs-lewis/",
+        "label": "C. S. Lewis official site: biography"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-479",
+      "index": 0
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "mendel",
+    "term": "Mendel",
+    "aliases": [
+      "Gregor Mendel"
+    ],
+    "short": "Gregor Mendel, pioneer of the science of heredity.",
+    "note": "Gregor Mendel (1822–1884), the Augustinian monk whose experiments with pea plants established basic patterns of inheritance. His results were presented in 1865.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Gregor-Johann-Mendel",
+        "label": "National Human Genome Research Institute · Gregor Mendel"
+      }
+    ],
+    "evidence": "c12: ng, sir,” the new guide said in a gentle, slightly accented voice. “I am Father Gregor Mendel. Good morning, madam.” With a start Joe turned to look behind him at the person the cybernaut “priest” was addressing. A young woman, almos"
+  },
+  {
+    "id": "darwin",
+    "term": "Darwin",
+    "aliases": [
+      "Charles Darwin"
+    ],
+    "short": "Charles Darwin, naturalist and theorist of evolution.",
+    "note": "Charles Darwin (1809–1882), British naturalist whose voyage aboard HMS Beagle helped shape his later work on evolution by natural selection.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.darwinproject.ac.uk/voyage-beagle",
+        "label": "Cambridge University · Darwin Correspondence Project"
+      }
+    ],
+    "evidence": "c12: least one of the two girls was following him. The atom into which he burst held Charles Darwin, but the great scientist lay tumbled on the floor, his midsection a mass of smashed circuit elements which a Galapagos tortoise near him ap"
+  },
+  {
+    "id": "automaton",
+    "term": "automaton",
+    "aliases": [],
+    "short": "A self-moving mechanism or artificial figure.",
+    "note": "A self-moving mechanism or artificial figure. Automata is the Greek-derived plural.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/automaton",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "Reused previously sourced external note, context checked c12: eeting, and it was an instant before Joe realized that the man was an automaton activated like the lights, by his entry. “Good day, sir,” the robot began. “Are you interested in a"
+  }
+]

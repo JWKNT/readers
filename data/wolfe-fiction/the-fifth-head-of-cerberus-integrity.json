@@ -1,0 +1,67 @@
+{
+  "book": "the-fifth-head-of-cerberus",
+  "sourceFiles": {
+    "fifth-head": {
+      "file": "_OceanofPDF.com_The_Fifth_Head_of_Cerberus_-_Gene_Wolfe.epub",
+      "sha256": "979899f9993ed528e1f230590b52b425f4331c960b996b0133a091aaeeb4b883"
+    },
+    "best": {
+      "file": "_OceanofPDF.com_The_Best_of_Gene_Wolfe_A_Definitive_Retrospective_of_His_Finest_Short_Fiction_-_Gene_Wolfe.epub",
+      "sha256": "2f72b914961e311c7d12bfc81fe6c39f2138e087c0daca32f8e717a195f8b664"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "fifth-head",
+      "source": "best",
+      "files": [
+        "index_split_010.html"
+      ],
+      "sourceTextSha256": "0907d929f6160aa27cd235e54906a63dfa720c2a0c0b1382400d720f36caeeda",
+      "textSha256": "0907d929f6160aa27cd235e54906a63dfa720c2a0c0b1382400d720f36caeeda",
+      "blocks": 425
+    },
+    {
+      "chapter": "a-story",
+      "source": "fifth-head",
+      "files": [
+        "index_split_000.html",
+        "index_split_001.html"
+      ],
+      "sourceTextSha256": "79893aecf4e0a7f7ca8773ea5334a2334f4c645606b183fe0bb207a01df859f2",
+      "textSha256": "79893aecf4e0a7f7ca8773ea5334a2334f4c645606b183fe0bb207a01df859f2",
+      "blocks": 557
+    },
+    {
+      "chapter": "vrt",
+      "source": "fifth-head",
+      "files": [
+        "index_split_001.html",
+        "index_split_002.html"
+      ],
+      "sourceTextSha256": "9ccc320eec2d325341fedacaefc4356a671e99600f4feb225ef53b1e6c089b2c",
+      "textSha256": "bb714b248f441b42d3fdcae6ae557f0f8a110c6e1b8ea7288b81f098843ef868",
+      "blocks": 1013
+    },
+    {
+      "chapter": "author-note",
+      "source": "best",
+      "files": [
+        "index_split_010.html"
+      ],
+      "sourceTextSha256": "cf9ff90e55cb0533d197f777faefbffc9b7701326e05c638039c479d0642021f",
+      "textSha256": "cf9ff90e55cb0533d197f777faefbffc9b7701326e05c638039c479d0642021f",
+      "blocks": 4
+    }
+  ],
+  "corrections": [
+    {
+      "chapter": "vrt",
+      "original": "C�apek",
+      "replacement": "Čapek",
+      "source": "https://www.britannica.com/biography/Karel-Capek"
+    }
+  ],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

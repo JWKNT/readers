@@ -1,0 +1,382 @@
+[
+  {
+    "id": "obelisk",
+    "term": "obelisk",
+    "aliases": [],
+    "short": "A tall stone pillar tapering to a pyramid.",
+    "note": "A tall, four-sided stone pillar that tapers toward a small pyramidal top.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/obelisk",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "Reused previously sourced external note, context checked c33: rs with it.” “Ah!” The old man nodded, smiling to himself. “That’s an obelisk, boy. Cleopatra erected that to the honor of her son by Julius Caesar.” “And right over there’s the"
+  },
+  {
+    "id": "divan",
+    "term": "divan",
+    "aliases": [
+      "divan",
+      "divans"
+    ],
+    "note": "A long, low couch, often without a back or arms.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/divan",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A low couch or cushioned seat.",
+    "possible": false,
+    "evidence": "Reused previously sourced external note, context checked c33:  and shot him through the heart. Next day, smoking his pipe upon the divan, Pasha Ali ben Hassan ordered that Mullah Ibrahim the Wise be brought before him. The captain of th"
+  },
+  {
+    "id": "scimitar",
+    "term": "scimitar",
+    "aliases": [],
+    "short": "A curved sword with one cutting edge.",
+    "note": "A sword whose blade curves and has its cutting edge on the outer, convex side. The name is traditionally applied to several kinds of Middle Eastern and Asian swords.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ahdictionary.com/word/search.html?q=scimitar",
+        "label": "American Heritage Dictionary: scimitar"
+      }
+    ],
+    "evidence": "Reused previously sourced external note, context checked c33: dvance as a battering ram leads a storming party, and he held a heavy scimitar at the ready. “I fear that you must die, my children. I … what is this?” “The secret road to a grea"
+  },
+  {
+    "id": "ashlar",
+    "term": "ashlar",
+    "aliases": [
+      "ashlar",
+      "ashlars"
+    ],
+    "note": "Stone cut into squared blocks with finished faces for building walls.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ashlar",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Squared stone cut for regular masonry.",
+    "possible": false,
+    "evidence": "Reused previously sourced external note, context checked c33: own.” “Not for me,” the old man told him. Before them stood a cracked ashlar from which the unholy glyphs of infidel times were almost weathered away, the refuse of the pasha’s"
+  },
+  {
+    "id": "fusil",
+    "term": "fusil",
+    "aliases": [
+      "fusils"
+    ],
+    "note": "An old term for a light musket or flintlock firearm.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/fusil",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "An old term for a light musket.",
+    "possible": false,
+    "evidence": "Reused previously sourced external note, context checked c33:  small black boy to carry his pipe, and angry janissary with a cocked fusil in one hand and a letter in the other. “Way!” shrilled Ali. “Way for the holy one! Way, make way fo"
+  },
+  {
+    "id": "jacinth",
+    "term": "jacinth",
+    "aliases": [
+      "jacinths"
+    ],
+    "note": "A reddish or orange variety of zircon used as a gemstone.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/jacinth",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A reddish or orange zircon gemstone.",
+    "possible": false,
+    "evidence": "Reused previously sourced external note, context checked c33: r than he had ever seen anything before. The stars were amethysts and jacinths, sapphires and hyacinths; the Nile a rich mocha sea, a crocodile on a distant mudbank a living emer"
+  },
+  {
+    "id": "lateen",
+    "term": "lateen",
+    "aliases": [],
+    "note": "Describing a triangular sail hung from a long, slanting yard.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lateen",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A triangular sail on a slanting yard.",
+    "possible": false,
+    "evidence": "Reused previously sourced external note, context checked c33: sts and freed the enormous rust-colored sails from the long, slanting lateen yards, and as quickly as a man lights his chibouque, the little canjiah was cracking up the river w"
+  },
+  {
+    "id": "importunate",
+    "term": "importunate",
+    "aliases": [],
+    "note": "Persistently demanding attention or making requests in an intrusive way.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/importunate",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Persistently or annoyingly demanding.",
+    "possible": false,
+    "evidence": "Reused previously sourced external note, context checked c33: rom you to say such a thing. I did not hear it.” “Nor did I hear your importunate demand for baksheesh,” the storyteller replied calmly, still tapping his drum. “Do not all good Mos"
+  },
+  {
+    "id": "baksheesh",
+    "term": "baksheesh",
+    "aliases": [],
+    "short": "A tip, gift, or alms.",
+    "note": "Money given as a gratuity, gift, or alms; from Persian bakhshīsh, a gift.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/baksheesh",
+        "label": "Collins · baksheesh"
+      }
+    ],
+    "evidence": "c33: And Ali ben Hassan, the beggar boy, who sometimes claimed his true name was Ali Baksheesh, the boy Ali who was—it was sometimes reported—more thief than beggar, turned to look. The new recounter of old tales was young and handsom"
+  },
+  {
+    "id": "ailaho-a-alam",
+    "term": "Ailaho A’alam",
+    "aliases": [],
+    "short": "Possibly Arabic Allāhu aʿlam: God knows best.",
+    "note": "Possibly a rendering of Arabic Allāhu aʿlam, “God knows best,” a formula acknowledging the limits of human knowledge.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://ignca.gov.in/Asi_data/65485.pdf",
+        "label": "Persian grammar · Arabic locutions, p. 73"
+      }
+    ],
+    "evidence": "c33: xtend cupped hands. “Baksheesh!” Ali whined. “Most noble lord, sultan of story! Ailaho A’alam! I have nothing—nothing!” “What!” exclaimed the storyteller, continuing to tap his little drum with his fingers. “You say you have nothing,"
+  },
+  {
+    "id": "pasha",
+    "term": "pasha",
+    "aliases": [],
+    "short": "An Ottoman title for a governor or other high official.",
+    "note": "A title of rank held by high civil or military officials in the Ottoman Empire, including provincial governors; from Turkish paşa.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/pasha",
+        "label": "Collins · pasha"
+      }
+    ],
+    "evidence": "c33:  the Nightingale Long, long ago (so the storyteller began) there bloomed in the pasha’s garden a lovely white rose, the most beautiful flower ever seen. Her waist was a date palm in the wind, her breasts twin white doves, her"
+  },
+  {
+    "id": "porte",
+    "term": "Porte",
+    "aliases": [],
+    "short": "The Ottoman court or central government.",
+    "note": "The Sublime Porte: the court or government of the Ottoman Empire. The expression comes through French from the Turkish name meaning High Gate.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/porte",
+        "label": "Collins · Porte"
+      }
+    ],
+    "evidence": "c33: m. And where the janissaries go the army will surely follow. A few gifts to the Porte should then secure your position.” The eunuch had been looking about distractedly as he spoke. By using both her hands, Zandra was able to "
+  },
+  {
+    "id": "janissaries",
+    "term": "janissaries",
+    "aliases": [
+      "janissary"
+    ],
+    "short": "The Ottoman sultan’s elite infantry.",
+    "note": "An elite corps of the Ottoman sultan, originally recruited largely from Christian boys taken as tribute, converted to Islam, and trained for military service.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/exhibitions/listings/2007/europe-and-the-islamic-world/photo-gallery",
+        "label": "Metropolitan Museum · Ottoman janissaries"
+      }
+    ],
+    "evidence": "c33: ans, and Jews, a proud Turk with a small black boy to carry his pipe, and angry janissary with a cocked fusil in one hand and a letter in the other. “Way!” shrilled Ali. “Way for the holy one! Way, make way for the Caliph’s favor"
+  },
+  {
+    "id": "jannat-al-na-im",
+    "term": "Jannat al-Na’im",
+    "aliases": [],
+    "short": "The Garden of Bliss, an Islamic name for paradise.",
+    "note": "Arabic for the Garden of Bliss or Delight. The related plural expression jannāt al-naʿīm, Gardens of Bliss, appears in the Qur’an for the paradise promised to the faithful.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://quran.com/en/31:8",
+        "label": "Qur’an · 31:8"
+      }
+    ],
+    "evidence": "c33:  with scarlet. “How odd!” he said to himself. And then, “But how lovely! By the Jannat al-Na’im! For the honor of all gardeners, such a bush must not be destroyed. What am I to do?” And so when he had thought upon the matter for a time"
+  },
+  {
+    "id": "yunus-the-scribe",
+    "term": "Yunus the Scribe",
+    "aliases": [
+      "Walid bin Sahl"
+    ],
+    "short": "A figure in the Arabian Nights.",
+    "note": "Yunus the Scribe and the Caliph Walid bin Sahl is a tale in The Thousand and One Nights, included in volume seven of Richard Burton’s translation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/54778/54778-h/54778-h.htm",
+        "label": "The Thousand and One Nights · Burton, volume 7"
+      }
+    ],
+    "evidence": "c33: fter this, the storyteller recounted many another strange tale, such as that of Yunus the Scribe and Walid bin Sahl, that of Gharib and his brother Ajib, that of the City of Brass, and that of the Four Accused. Listeners came and went, "
+  },
+  {
+    "id": "gharib",
+    "term": "Gharib",
+    "aliases": [
+      "Ajib"
+    ],
+    "short": "A hero of the Arabian Nights.",
+    "note": "Gharib and his brother Ajib are the title figures of a long adventure in The Thousand and One Nights. Richard Burton’s translation places its conclusion in volume seven.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/54778/54778-h/54778-h.htm",
+        "label": "The Thousand and One Nights · Burton, volume 7"
+      }
+    ],
+    "evidence": "c33: ther strange tale, such as that of Yunus the Scribe and Walid bin Sahl, that of Gharib and his brother Ajib, that of the City of Brass, and that of the Four Accused. Listeners came and went, idlers and porters, sherbet vendors"
+  },
+  {
+    "id": "city-of-brass",
+    "term": "City of Brass",
+    "aliases": [],
+    "short": "A legendary city in the Arabian Nights.",
+    "note": "The City of Brass is a tale in The Thousand and One Nights about an expedition that encounters an extraordinary abandoned city and the remains of vanished power.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/The_Book_of_the_Thousand_Nights_and_One_Night/The_City_of_Brass",
+        "label": "The Thousand and One Nights · The City of Brass"
+      }
+    ],
+    "evidence": "c33: the Scribe and Walid bin Sahl, that of Gharib and his brother Ajib, that of the City of Brass, and that of the Four Accused. Listeners came and went, idlers and porters, sherbet vendors, shopkeepers, soldiers, and the boatmen of the "
+  },
+  {
+    "id": "osiris",
+    "term": "Osiris",
+    "aliases": [],
+    "short": "The Egyptian god associated with death and the afterlife.",
+    "note": "An Egyptian funerary god and ruler of the underworld, commonly shown in a close-fitting mummiform garment and a tall atef crown.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/570644",
+        "label": "Metropolitan Museum · Osiris"
+      }
+    ],
+    "evidence": "c33: t, and I couldn’t read it anyway. But he says it says, ‘Here is the treasure of Osiris.’ That was a king of the infidels, I think. ‘I open to love alone.’ Prince Abdullah said it would open to the bearer of the rose. Where is "
+  },
+  {
+    "id": "sobek",
+    "term": "Sobek",
+    "aliases": [],
+    "short": "The crocodile god of ancient Egypt.",
+    "note": "An Egyptian god represented as a crocodile or a man with a crocodile’s head, associated with water and fertility and sometimes joined with the sun god as Sobek-Re.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/553403",
+        "label": "Metropolitan Museum · Sobek and Wadjet"
+      }
+    ],
+    "evidence": "c33: fe you had better tell me truly—what they read.” “They form the name of the god Sobek.” “And nothing more?” Ali asked. “And nothing more, boy,” the old man said. The captain of the janissaries raised his whip, but Ali shook h"
+  },
+  {
+    "id": "sutekh",
+    "term": "Sutekh",
+    "aliases": [],
+    "short": "A form of the name Seth, the Egyptian god.",
+    "note": "Sutekh, also called Set or Seth, an ancient Egyptian god associated with desert lands and disorder.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.getty.edu/cona/CONAIconographyRecord.aspx?iconid=901002156",
+        "label": "Getty · Sutekh iconographic record"
+      },
+      {
+        "url": "https://www.britishmuseum.org/learn/schools/ages-7-11/ancient-egypt/ancient-egyptian-gods-and-goddesses",
+        "label": "British Museum · Egyptian gods"
+      }
+    ],
+    "evidence": "c33: o, boy.” “And what befell Osiris?” “He had an enemy,” the old man said slowly. “Sutekh. It was well known in those times that crocodiles could steal magic, seizing the magician’s power and dragging it into the river. Sutekh to"
+  },
+  {
+    "id": "rustam",
+    "term": "Rustam",
+    "aliases": [],
+    "short": "The great hero of the Persian Book of Kings.",
+    "note": "Rustam, or Rostam, a central hero of Ferdowsi’s Shahnameh (Book of Kings), renowned for extraordinary strength and his adventures with his horse Rakhsh.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/452419",
+        "label": "Metropolitan Museum · Rustam Lassos Rakhsh"
+      }
+    ],
+    "evidence": "c33: he was a trifle the smaller, Ali knew that he was taller than the sky. What had Rustam, what had Akbar-Khan, that he had not? A horse? A sword? A banner and a thousand ragged rascals to follow it? They were trivialities and wo"
+  },
+  {
+    "id": "rose-and-the-nightingale",
+    "term": "Rose and the Nightingale",
+    "aliases": [],
+    "short": "A traditional Persian image of beloved and lover.",
+    "note": "Rose and nightingale form a longstanding pair in Persian poetry and decorative art: the beautiful rose represents the beloved, and the nightingale the yearning lover or poet.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.iranicaonline.org/articles/gol-o-bolbol/",
+        "label": "Encyclopaedia Iranica · Gol o Bolbol"
+      }
+    ],
+    "evidence": "c33:  Endangered Species The Tale of the Rose and the Nightingale (And What Came of It) “TUM, tum, tump!” sang the new storyteller’s drum. “TUMPTY, tum, tum, tup!” And Ali ben Hassan, the beggar boy, who s"
+  },
+  {
+    "id": "mullah",
+    "term": "mullah",
+    "aliases": [],
+    "short": "A Muslim religious teacher or learned leader.",
+    "note": "A Muslim religious teacher or leader, also used as a respectful form of address for such a person. The word comes through Persian from Arabic mawlā, master.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.ahdictionary.com/word/search.html?q=mullah",
+        "label": "American Heritage Dictionary · mullah"
+      }
+    ],
+    "evidence": "c33: . Are you a scholar? And so young?” “I’d a good master,” the storyteller said. “Mullah Ibrahim the Wise, that holy man.” “To teach you to tell stories in the bazaar? What are you going to give me?” “A story, of course. I’ve on"
+  },
+  {
+    "id": "jinnistan",
+    "term": "Jinnistan",
+    "aliases": [],
+    "short": "A legendary realm of spirits in Persian-inspired literature.",
+    "note": "A fabulous land of spirits, fairies, and demons in Persian-inspired literature. Isaac D’Israeli’s Romances places the peris and divs there.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://quod.lib.umich.edu/cgi/t/text/text-idx?c=ecco%3Bcc%3Decco%3Brgn%3Ddiv3%3Bview%3Dtext%3Bidno%3D004834323.0001.000%3Bnode%3D004834323.0001.000%3A5.2.1",
+        "label": "Isaac D’Israeli · Romances, University of Michigan edition"
+      }
+    ],
+    "evidence": "c33: e-hued ashlar. Fingering his beard, the storyteller said, “He sends his soul to Jinnistan, the Land of Sorcery.” “Is it near?” Ali inquired. “As close as the ground under our feet,” the storyteller told him. “And as distant as Mo"
+  }
+]

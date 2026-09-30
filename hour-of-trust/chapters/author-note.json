@@ -1,0 +1,22 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 105,
+  "startWords": 12017,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">This one taught me a lesson. I needed a story, lacked an idea, and resolved to steal one. Damon Runyon was good, and I had a Runyon collection; I would open the book at random, read the story, and rewrite it as SF. (If this sounds desperate, it was.)</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">Opened at random, the book palmed off on me “A Light in France,” which may well be the only bad story Runyon ever wrote. I clenched my teeth, swore a mighty swear, and plowed on— eventually throwing out just about everything in “A Light in France.” You have read the result. I hope you enjoyed it.</p>\n</div></blockquote></blockquote>"
+}

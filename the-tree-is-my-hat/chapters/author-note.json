@@ -1,0 +1,23 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002",
+    "p-003"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 105,
+  "startWords": 10265,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">Some things you may have thought fantastic in this are simply true. There really were Japanese detachments left behind on various Pacific islands, marooned detachments that stayed right where they were until the local people turned on them and killed those left alive.</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">And there really are mysterious ruins on many South Pacific islands.</p>\n<p class=\"prose\" id=\"p-003\" data-block=\"p-003\">This story was done as a radio play by Lawrence Santoro, with Neil Gaiman playing Rev. Robbins. Gahan Wilson was our announcer—but when we closed our eyes it was Boris Karloff. There was weird music, and the whole production was far grander than I could have imagined. Thank you, Larry!</p>\n</div></blockquote></blockquote>"
+}

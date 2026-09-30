@@ -1,0 +1,34 @@
+{
+  "book": "the-boy-who-hooked-the-sun",
+  "sourceFiles": {
+    "best": {
+      "file": "_OceanofPDF.com_The_Best_of_Gene_Wolfe_A_Definitive_Retrospective_of_His_Finest_Short_Fiction_-_Gene_Wolfe.epub",
+      "sha256": "2f72b914961e311c7d12bfc81fe6c39f2138e087c0daca32f8e717a195f8b664"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "best",
+      "files": [
+        "index_split_030.html"
+      ],
+      "sourceTextSha256": "afe2d0d0d2200b3e054bcf926dd1586a7f99500c3b6620aa16a4f65f69eda2a4",
+      "textSha256": "afe2d0d0d2200b3e054bcf926dd1586a7f99500c3b6620aa16a4f65f69eda2a4",
+      "blocks": 19
+    },
+    {
+      "chapter": "author-note",
+      "source": "best",
+      "files": [
+        "index_split_030.html"
+      ],
+      "sourceTextSha256": "c1f9a644c257ca237665df1579b7caabd8e088667f480e36431f3a3d62a11796",
+      "textSha256": "c1f9a644c257ca237665df1579b7caabd8e088667f480e36431f3a3d62a11796",
+      "blocks": 7
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

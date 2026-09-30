@@ -1,0 +1,94 @@
+{
+  "schema": 1,
+  "id": "the-recording",
+  "title": "The Recording",
+  "author": "Gene Wolfe",
+  "volumes": [
+    {
+      "id": "text",
+      "title": "The Recording",
+      "chapters": 1
+    },
+    {
+      "id": "sources",
+      "title": "Supplementary material",
+      "chapters": 0,
+      "referenceTitle": "Afterword"
+    }
+  ],
+  "totalWords": 1498,
+  "defaultChapter": "story",
+  "glossaryCount": 3,
+  "correctionCount": 0,
+  "editionVersion": 13,
+  "chapters": [
+    {
+      "id": "story",
+      "title": "The Recording",
+      "volume": "text",
+      "volumeTitle": "The Recording",
+      "number": 1,
+      "label": "",
+      "kind": "chapter",
+      "index": 0,
+      "layout": "prose",
+      "blocks": [
+        "p-001",
+        "p-002",
+        "p-003",
+        "p-004",
+        "p-005",
+        "p-006",
+        "p-007",
+        "p-008",
+        "p-009",
+        "p-010",
+        "p-011",
+        "p-012",
+        "p-013",
+        "p-014",
+        "p-015",
+        "p-016"
+      ],
+      "sections": [],
+      "headingNoteAnchors": [],
+      "headingHtml": "The Recording",
+      "noteAnchors": [
+        {
+          "term": "model-a",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "seersucker",
+          "paragraph": "p-008"
+        },
+        {
+          "term": "rudy-vallee",
+          "paragraph": "p-016"
+        }
+      ],
+      "words": 1498,
+      "startWords": 0
+    },
+    {
+      "id": "author-note",
+      "title": "Afterword",
+      "volume": "sources",
+      "volumeTitle": "Supplementary material",
+      "number": 2,
+      "label": "",
+      "kind": "reference",
+      "index": 1,
+      "layout": "prose",
+      "blocks": [
+        "p-001"
+      ],
+      "sections": [],
+      "headingNoteAnchors": [],
+      "headingHtml": "Afterword",
+      "noteAnchors": [],
+      "words": 103,
+      "startWords": 1498
+    }
+  ]
+}

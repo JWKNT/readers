@@ -87,6 +87,1107 @@
     "totalWords": 401962
   },
   {
+    "id": "the-fifth-head-of-cerberus",
+    "title": "The Fifth Head of Cerberus",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Fifth Head of Cerberus",
+        "chapters": 3
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 58,
+    "totalWords": 78068,
+    "kind": "book"
+  },
+  {
+    "id": "all-the-hues-of-hell",
+    "title": "All the Hues of Hell",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "All the Hues of Hell",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 3,
+    "totalWords": 4670,
+    "kind": "story"
+  },
+  {
+    "id": "and-when-they-appear",
+    "title": "And When They Appear",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "And When They Appear",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 11,
+    "totalWords": 8457,
+    "kind": "story"
+  },
+  {
+    "id": "bed-and-breakfast",
+    "title": "Bed and Breakfast",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Bed and Breakfast",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 8,
+    "totalWords": 8575,
+    "kind": "story"
+  },
+  {
+    "id": "beech-hill",
+    "title": "Beech Hill",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Beech Hill",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 1,
+    "totalWords": 2216,
+    "kind": "story"
+  },
+  {
+    "id": "the-boy-who-hooked-the-sun",
+    "title": "The Boy Who Hooked the Sun",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Boy Who Hooked the Sun",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 4,
+    "totalWords": 1130,
+    "kind": "story"
+  },
+  {
+    "id": "a-cabin-on-the-coast",
+    "title": "A Cabin on the Coast",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "A Cabin on the Coast",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 4,
+    "totalWords": 4350,
+    "kind": "story"
+  },
+  {
+    "id": "the-cat",
+    "title": "The Cat",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Cat",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 24,
+    "totalWords": 2651,
+    "kind": "story"
+  },
+  {
+    "id": "the-dark-of-the-june",
+    "title": "The Dark of the June",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Dark of the June",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 2,
+    "totalWords": 2185,
+    "kind": "story"
+  },
+  {
+    "id": "the-death-of-dr-island",
+    "title": "The Death of Dr. Island",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Death of Dr. Island",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 7,
+    "totalWords": 20670,
+    "kind": "story"
+  },
+  {
+    "id": "the-death-of-hyle",
+    "title": "The Death of Hyle",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Death of Hyle",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 5,
+    "totalWords": 2270,
+    "kind": "story"
+  },
+  {
+    "id": "death-of-the-island-doctor",
+    "title": "Death of the Island Doctor",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Death of the Island Doctor",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 16,
+    "totalWords": 2229,
+    "kind": "story"
+  },
+  {
+    "id": "the-detective-of-dreams",
+    "title": "The Detective of Dreams",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Detective of Dreams",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 4,
+    "totalWords": 6933,
+    "kind": "story"
+  },
+  {
+    "id": "eyebem",
+    "title": "Eyebem",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Eyebem",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 4,
+    "totalWords": 4225,
+    "kind": "story"
+  },
+  {
+    "id": "the-eyeflash-miracles",
+    "title": "The Eyeflash Miracles",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Eyeflash Miracles",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 17,
+    "totalWords": 23757,
+    "kind": "story"
+  },
+  {
+    "id": "forlesen",
+    "title": "Forlesen",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Forlesen",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 1,
+    "totalWords": 18724,
+    "kind": "story"
+  },
+  {
+    "id": "from-the-desk-of-gilmer-c-merton",
+    "title": "From the Desk of Gilmer C. Merton",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "From the Desk of Gilmer C. Merton",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 1,
+    "totalWords": 1547,
+    "kind": "story"
+  },
+  {
+    "id": "from-the-notebook-of-dr-stein",
+    "title": "From the Notebook of Dr. Stein",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "From the Notebook of Dr. Stein",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 5,
+    "totalWords": 2046,
+    "kind": "story"
+  },
+  {
+    "id": "game-in-the-popes-head",
+    "title": "Game in the Pope’s Head",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Game in the Pope’s Head",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 6,
+    "totalWords": 1848,
+    "kind": "story"
+  },
+  {
+    "id": "the-god-and-his-man",
+    "title": "The God and His Man",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The God and His Man",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 3,
+    "totalWords": 2205,
+    "kind": "story"
+  },
+  {
+    "id": "has-anybody-seen-junie-moon",
+    "title": "Has Anybody Seen Junie Moon?",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Has Anybody Seen Junie Moon?",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 4,
+    "totalWords": 6338,
+    "kind": "story"
+  },
+  {
+    "id": "the-headless-man",
+    "title": "The Headless Man",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Headless Man",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 2,
+    "totalWords": 2362,
+    "kind": "story"
+  },
+  {
+    "id": "the-hero-as-werwolf",
+    "title": "The Hero as Werwolf",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Hero as Werwolf",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 2,
+    "totalWords": 6448,
+    "kind": "story"
+  },
+  {
+    "id": "the-horars-of-war",
+    "title": "The HORARS of War",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The HORARS of War",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 2,
+    "totalWords": 6646,
+    "kind": "story"
+  },
+  {
+    "id": "hour-of-trust",
+    "title": "Hour of Trust",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Hour of Trust",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 7,
+    "totalWords": 12017,
+    "kind": "story"
+  },
+  {
+    "id": "house-of-ancestors",
+    "title": "House of Ancestors",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "House of Ancestors",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 3,
+    "totalWords": 8640,
+    "kind": "story"
+  },
+  {
+    "id": "in-the-house-of-gingerbread",
+    "title": "In the House of Gingerbread",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "In the House of Gingerbread",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 2,
+    "totalWords": 5946,
+    "kind": "story"
+  },
+  {
+    "id": "the-island-of-doctor-death-and-other-stories",
+    "title": "The Island of Doctor Death and Other Stories",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Island of Doctor Death and Other Stories",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 4,
+    "totalWords": 6199,
+    "kind": "story"
+  },
+  {
+    "id": "kevin-malone",
+    "title": "Kevin Malone",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Kevin Malone",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 2,
+    "totalWords": 3805,
+    "kind": "story"
+  },
+  {
+    "id": "la-befana",
+    "title": "La Befana",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "La Befana",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 2,
+    "totalWords": 1350,
+    "kind": "story"
+  },
+  {
+    "id": "the-last-thrilling-wonder-story",
+    "title": "The Last Thrilling Wonder Story",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Last Thrilling Wonder Story",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 2,
+    "totalWords": 9154,
+    "kind": "story"
+  },
+  {
+    "id": "lukora",
+    "title": "Lukora",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Lukora",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 3,
+    "totalWords": 2571,
+    "kind": "story"
+  },
+  {
+    "id": "the-map",
+    "title": "The Map",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Map",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 24,
+    "totalWords": 5027,
+    "kind": "story"
+  },
+  {
+    "id": "the-marvelous-brass-chessplaying-automaton",
+    "title": "The Marvelous Brass Chessplaying Automaton",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Marvelous Brass Chessplaying Automaton",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 3,
+    "totalWords": 7147,
+    "kind": "story"
+  },
+  {
+    "id": "the-most-beautiful-woman-on-the-world",
+    "title": "The Most Beautiful Woman on the World",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Most Beautiful Woman on the World",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 3,
+    "totalWords": 4899,
+    "kind": "story"
+  },
+  {
+    "id": "my-book",
+    "title": "My Book",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "My Book",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 5,
+    "totalWords": 558,
+    "kind": "story"
+  },
+  {
+    "id": "the-nebraskan-and-the-nereid",
+    "title": "The Nebraskan and the Nereid",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Nebraskan and the Nereid",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 8,
+    "totalWords": 3112,
+    "kind": "story"
+  },
+  {
+    "id": "on-the-train",
+    "title": "On the Train",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "On the Train",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 1,
+    "totalWords": 460,
+    "kind": "story"
+  },
+  {
+    "id": "the-other-dead-man",
+    "title": "The Other Dead Man",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Other Dead Man",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 3,
+    "totalWords": 6714,
+    "kind": "story"
+  },
+  {
+    "id": "our-neighbour-by-david-copperfield",
+    "title": "Our Neighbour by David Copperfield",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Our Neighbour by David Copperfield",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 4,
+    "totalWords": 5321,
+    "kind": "story"
+  },
+  {
+    "id": "parkroads-a-review",
+    "title": "Parkroads—a Review",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Parkroads—a Review",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 4,
+    "totalWords": 1062,
+    "kind": "story"
+  },
+  {
+    "id": "the-peace-spy",
+    "title": "The Peace Spy",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Peace Spy",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 1,
+    "totalWords": 2330,
+    "kind": "story"
+  },
+  {
+    "id": "peritonitis",
+    "title": "Peritonitis",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Peritonitis",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 1,
+    "totalWords": 2218,
+    "kind": "story"
+  },
+  {
+    "id": "petting-zoo",
+    "title": "Petting Zoo",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Petting Zoo",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 2,
+    "totalWords": 2220,
+    "kind": "story"
+  },
+  {
+    "id": "procreation",
+    "title": "Procreation",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Procreation",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 3,
+    "totalWords": 3167,
+    "kind": "story"
+  },
+  {
+    "id": "the-recording",
+    "title": "The Recording",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Recording",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 3,
+    "totalWords": 1498,
+    "kind": "story"
+  },
+  {
+    "id": "redbeard",
+    "title": "Redbeard",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Redbeard",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 1,
+    "totalWords": 2425,
+    "kind": "story"
+  },
+  {
+    "id": "seven-american-nights",
+    "title": "Seven American Nights",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Seven American Nights",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 14,
+    "totalWords": 22086,
+    "kind": "story"
+  },
+  {
+    "id": "silhouette",
+    "title": "Silhouette",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Silhouette",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 6,
+    "totalWords": 18202,
+    "kind": "story"
+  },
+  {
+    "id": "straw",
+    "title": "Straw",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Straw",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 8,
+    "totalWords": 3209,
+    "kind": "story"
+  },
+  {
+    "id": "suzanne-delage",
+    "title": "Suzanne Delage",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Suzanne Delage",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 2,
+    "totalWords": 2287,
+    "kind": "story"
+  },
+  {
+    "id": "sweet-forest-maid",
+    "title": "Sweet Forest Maid",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Sweet Forest Maid",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 2,
+    "totalWords": 1874,
+    "kind": "story"
+  },
+  {
+    "id": "the-tale-of-the-rose-and-the-nightingale-and-what-came-of-it",
+    "title": "The Tale of the Rose and the Nightingale (And What Came of It)",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Tale of the Rose and the Nightingale (And What Came of It)",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 24,
+    "totalWords": 9544,
+    "kind": "story"
+  },
+  {
+    "id": "thag",
+    "title": "Thag",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Thag",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 9,
+    "totalWords": 2493,
+    "kind": "story"
+  },
+  {
+    "id": "the-toy-theater",
+    "title": "The Toy Theater",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Toy Theater",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 12,
+    "totalWords": 2576,
+    "kind": "story"
+  },
+  {
+    "id": "the-tree-is-my-hat",
+    "title": "The Tree Is My Hat",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Tree Is My Hat",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 3,
+    "totalWords": 10265,
+    "kind": "story"
+  },
+  {
+    "id": "war-beneath-the-tree",
+    "title": "War Beneath the Tree",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "War Beneath the Tree",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 3,
+    "totalWords": 2104,
+    "kind": "story"
+  },
+  {
+    "id": "westwind",
+    "title": "Westwind",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Westwind",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 0,
+    "totalWords": 2999,
+    "kind": "story"
+  },
+  {
+    "id": "when-i-was-ming-the-merciless",
+    "title": "When I Was Ming the Merciless",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "When I Was Ming the Merciless",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 1,
+    "totalWords": 2895,
+    "kind": "story"
+  },
+  {
+    "id": "the-woman-the-unicorn-loved",
+    "title": "The Woman the Unicorn Loved",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Woman the Unicorn Loved",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 8,
+    "totalWords": 6335,
+    "kind": "story"
+  },
+  {
+    "id": "the-woman-who-loved-the-centaur-pholus",
+    "title": "The Woman Who Loved the Centaur Pholus",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Woman Who Loved the Centaur Pholus",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 9,
+    "totalWords": 3110,
+    "kind": "story"
+  },
+  {
     "id": "three-body-problem",
     "title": "The Three-Body Problem",
     "author": "Cixin Liu",

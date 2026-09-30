@@ -1,0 +1,24 @@
+{
+  "book": "house-of-ancestors",
+  "sourceFiles": {
+    "endangered": {
+      "file": "_OceanofPDF.com_Endangered_Species_-_Gene_Wolfe.epub",
+      "sha256": "4b14835109c591ac7460743370fe051fad2785f9ad0e6567b9cf41f89e060c4b"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "endangered",
+      "files": [
+        "OEBPS/e9781429966214_c12.html"
+      ],
+      "sourceTextSha256": "ec52e5470d8f537db331cbcca6df408c31c79e958ea3411374fcaa77631f6958",
+      "textSha256": "ec52e5470d8f537db331cbcca6df408c31c79e958ea3411374fcaa77631f6958",
+      "blocks": 235
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

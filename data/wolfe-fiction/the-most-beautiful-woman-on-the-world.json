@@ -1,0 +1,47 @@
+[
+  {
+    "id": "estampido",
+    "term": "Estampido",
+    "aliases": [],
+    "short": "Spanish: a bang, report, or crash.",
+    "note": "Spanish estampido means a loud bang or report, such as a gunshot, explosion, or thunderclap.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/es/diccionario/espanol-ingles/estampido",
+        "label": "Collins Spanish–English · estampido"
+      }
+    ],
+    "evidence": "c32: g. “Catalina was the girl, cabrón,” Garcia explained without rancor, “the horse Estampido.” Drafts had covered the tabletop with sifted red dust, almost invisible until it was disturbed. Garcia moistened a finger and wrote Catali"
+  },
+  {
+    "id": "mammoth-cave",
+    "term": "Mammoth Cave",
+    "aliases": [],
+    "short": "The extensive cave system in Kentucky.",
+    "note": "The immense limestone cave system in Kentucky protected by Mammoth Cave National Park, the world’s longest known cave system.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nps.gov/articles/000/exploring-the-worlds-longest-known-cave.htm",
+        "label": "National Park Service · Mammoth Cave"
+      }
+    ],
+    "evidence": "c32: eally a castle at all. She said it was like the time her folks had taken her to Mammoth Cave when she was a kid, and at first she’d thought it was just a hole like the neighborhood kids dug sometimes in the side of a hill; but when "
+  },
+  {
+    "id": "moloch",
+    "term": "Moloch",
+    "aliases": [],
+    "short": "A biblical name associated with child sacrifice.",
+    "note": "Moloch, also spelled Molech, a name associated in the Hebrew Bible with forbidden child sacrifice; Leviticus 18:21 prohibits giving children to Molech.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Leviticus+18%3A21&version=WEB",
+        "label": "Bible · Leviticus 18:21"
+      }
+    ],
+    "evidence": "c32: d under the vault; he said maybe it was a god like the one that the Bible calls Moloch, or Ansenef, the blood-drinker from Egypt.” Garcia said, “The husband was the lord of this castle?” “Sometimes. Sometimes his father’s ghos"
+  }
+]

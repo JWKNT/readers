@@ -1,0 +1,96 @@
+{
+  "schema": 1,
+  "id": "the-death-of-hyle",
+  "title": "The Death of Hyle",
+  "author": "Gene Wolfe",
+  "volumes": [
+    {
+      "id": "text",
+      "title": "The Death of Hyle",
+      "chapters": 1
+    }
+  ],
+  "totalWords": 2270,
+  "defaultChapter": "story",
+  "glossaryCount": 5,
+  "correctionCount": 0,
+  "editionVersion": 13,
+  "chapters": [
+    {
+      "id": "story",
+      "title": "The Death of Hyle",
+      "volume": "text",
+      "volumeTitle": "The Death of Hyle",
+      "number": 1,
+      "label": "",
+      "kind": "chapter",
+      "index": 0,
+      "layout": "prose",
+      "blocks": [
+        "p-001",
+        "p-002",
+        "p-003",
+        "p-004",
+        "p-005",
+        "p-006",
+        "p-007",
+        "p-008",
+        "p-009",
+        "p-010",
+        "p-011",
+        "p-012",
+        "p-013",
+        "p-014",
+        "p-015",
+        "p-016",
+        "p-017",
+        "p-018",
+        "p-019",
+        "p-020",
+        "p-021",
+        "p-022",
+        "p-023",
+        "p-024",
+        "p-025",
+        "p-026",
+        "p-027",
+        "p-028",
+        "p-029",
+        "p-030",
+        "p-031",
+        "p-032",
+        "p-033",
+        "p-034",
+        "p-035"
+      ],
+      "sections": [],
+      "headingNoteAnchors": [
+        {
+          "term": "hyle",
+          "paragraph": "chapter-title"
+        }
+      ],
+      "headingHtml": "The Death of <span class=\"word\" data-term=\"hyle\" data-first=\"true\" data-local-first=\"true\">Hyle</span>",
+      "noteAnchors": [
+        {
+          "term": "maya",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "hogarth",
+          "paragraph": "p-004"
+        },
+        {
+          "term": "piombi",
+          "paragraph": "p-035"
+        },
+        {
+          "term": "casanova",
+          "paragraph": "p-035"
+        }
+      ],
+      "words": 2270,
+      "startWords": 0
+    }
+  ]
+}

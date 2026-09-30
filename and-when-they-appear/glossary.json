@@ -1,0 +1,224 @@
+[
+  {
+    "id": "father-eddi",
+    "term": "Father Eddi",
+    "aliases": [],
+    "short": "The priest in Kipling’s “Eddi’s Service.”",
+    "note": "Eddi is Saint Wilfred’s priest in Rudyard Kipling’s poem “Eddi’s Service” (1910). When no congregation arrives on a stormy Christmas night, he conducts the service for an ox and an ass.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.kiplingsociety.co.uk/wp-content/uploads/pdf/KJ358.pdf",
+        "label": "Kipling Society: Eddi’s Service"
+      }
+    ],
+    "occurrences": 28,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-099",
+      "index": 0
+    }
+  },
+  {
+    "id": "christmas-rose",
+    "term": "Christmas Rose",
+    "aliases": [
+      "Black Hellebore"
+    ],
+    "short": "Helleborus niger, the winter-flowering hellebore.",
+    "note": "Helleborus niger, also called black hellebore: an evergreen perennial in the buttercup family, bearing white or pink-flushed flowers in winter and early spring.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.rhs.org.uk/plants/8575/helleborus-niger/details",
+        "label": "Royal Horticultural Society: Helleborus niger"
+      }
+    ],
+    "occurrences": 12,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-102",
+      "index": 0
+    }
+  },
+  {
+    "id": "knecht-rupprecht",
+    "term": "Knecht Rupprecht",
+    "aliases": [],
+    "short": "A stern visitor in German Christmas custom.",
+    "note": "Knecht Ruprecht, literally “Servant Ruprecht,” is a German Christmas visitor who questions children about their behavior and carries gifts for the good and rods for the naughty.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/70142/pg70142-images.html",
+        "label": "William S. Walsh: Santa Klaus traditions"
+      }
+    ],
+    "occurrences": 15,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-104",
+      "index": 0
+    }
+  },
+  {
+    "id": "ebenezer",
+    "term": "Ebenezer",
+    "aliases": [],
+    "short": "Ebenezer Scrooge of A Christmas Carol.",
+    "note": "The miser transformed by supernatural Christmas visits in Charles Dickens’s A Christmas Carol (1843).",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/46/46-h/46-h.htm",
+        "label": "Charles Dickens: A Christmas Carol"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-037",
+      "index": 0
+    }
+  },
+  {
+    "id": "tiny-tim",
+    "term": "Tiny Tim",
+    "aliases": [],
+    "short": "Bob Cratchit’s young son in A Christmas Carol.",
+    "note": "The frail, cheerful youngest son of Bob and Mrs. Cratchit in Charles Dickens’s A Christmas Carol (1843).",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/46/46-h/46-h.htm",
+        "label": "Charles Dickens: A Christmas Carol"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-142",
+      "index": 0
+    }
+  },
+  {
+    "id": "cratchit",
+    "term": "Cratchit",
+    "aliases": [],
+    "short": "The family of Scrooge’s clerk in A Christmas Carol.",
+    "note": "Bob Cratchit is Scrooge’s poorly paid clerk in Charles Dickens’s A Christmas Carol; his loving family includes his wife and their son Tiny Tim.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/46/46-h/46-h.htm",
+        "label": "Charles Dickens: A Christmas Carol"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-142",
+      "index": 0
+    }
+  },
+  {
+    "id": "ali-baba",
+    "term": "Ali Baba",
+    "aliases": [],
+    "short": "The woodcutter who discovers the forty thieves’ treasure.",
+    "note": "The hero of the Arabian Nights tale “Ali Baba and the Forty Thieves,” who discovers a treasure cave opened by a magic password.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/37679/37679-h/37679-h.htm",
+        "label": "Ali Baba, or the Forty Thieves"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-039",
+      "index": 0
+    }
+  },
+  {
+    "id": "nutcracker",
+    "term": "Nutcracker",
+    "aliases": [],
+    "short": "Hoffmann’s enchanted toy and Tchaikovsky’s ballet hero.",
+    "note": "The toy soldier in E. T. A. Hoffmann’s The Nutcracker and the Mouse King (1816), whose adventures later inspired Tchaikovsky’s ballet.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://etahoffmann.staatsbibliothek-berlin.de/portfolio-item/nussknacker-und-mausekoenig/",
+        "label": "Berlin State Library: The Nutcracker and the Mouse King"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-024",
+      "index": 0
+    }
+  },
+  {
+    "id": "saint-nicholas",
+    "term": "Saint Nicholas",
+    "aliases": [],
+    "short": "The bishop of Myra associated with gift-giving.",
+    "note": "A Christian bishop of Myra in Lycia, traditionally placed in the fourth century, whose legends of secret generosity helped shape later Christmas gift-giving customs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.newadvent.org/cathen/11063b.htm",
+        "label": "Catholic Encyclopedia: Saint Nicholas of Myra"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-086",
+      "index": 0
+    }
+  },
+  {
+    "id": "frey",
+    "term": "Frey",
+    "aliases": [],
+    "short": "The Norse god of fertility and prosperity.",
+    "note": "Freyr or Frey, a Norse deity associated with fertility, good harvests, and peace; his possessions include the golden-bristled boar Gullinbursti.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/46118/old/46118-h/46118-h.htm",
+        "label": "W. A. Craigie: The Religion of Ancient Scandinavia"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-061",
+      "index": 0
+    }
+  },
+  {
+    "id": "erchou",
+    "term": "erchou",
+    "aliases": [],
+    "short": "Greek for “come!”",
+    "note": "The Greek imperative ἔρχου, a command meaning come, from the verb erchomai.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.billmounce.com/greek-dictionary/erchomai",
+        "label": "Mounce Greek Dictionary: erchomai"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-094",
+      "index": 0
+    }
+  }
+]

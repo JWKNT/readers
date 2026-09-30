@@ -1,0 +1,24 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002",
+    "p-003",
+    "p-004"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 169,
+  "startWords": 6199,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">This story got me the friendship of Isaac Asimov and fathered three sequels, two of which are in this book. It was, you see, my first ever Nebula nomination, so Rosemary and I journeyed to New York for the banquet. Isaac was announcing the winners, beginning with Best Short Story. And he named this story.</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">I rose to accept, and the committee swarmed on Isaac. He had been given a list, not just the winner but the second-, third-, fourth-, and fifth-place finishers. The winner had been No Award—which Isaac, understandably assuming that some story would have won, had skipped. He apologized profusely, then and afterward, and I explained repeatedly that he had honored me.</p>\n<p class=\"prose\" id=\"p-003\" data-block=\"p-003\">He’d also gotten me a great deal of sympathy in SFWA. Grinning, John Jakes said, “You know, Gene, if you’d just write ‘The Death of Doctor Island’ now, you’d win.”</p>\n<p class=\"prose\" id=\"p-004\" data-block=\"p-004\"><em>He thinks I can’t do it</em>, I thought. <em>We’ll see about that!</em> But that’s another story, one you’ll find later in this book.</p>\n</div></blockquote></blockquote>"
+}

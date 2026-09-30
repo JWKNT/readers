@@ -1,0 +1,124 @@
+[
+  {
+    "id": "gehenna",
+    "term": "Gehenna",
+    "aliases": [],
+    "short": "A biblical name for the place of final punishment.",
+    "note": "A name derived from the Valley of Hinnom near Jerusalem, used in the New Testament for the place of final punishment. Mark 9 associates it with unquenchable fire.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/matthew/5",
+        "label": "USCCB: Matthew 5, note on Gehenna"
+      }
+    ],
+    "evidence": "lled a city, but it’s a region, actually. The Infernal Empire. Hades. Gehenna, where their worm dieth not, and the fire is not quenched. You know.” She laughed, the d"
+  },
+  {
+    "id": "archangel-raphael",
+    "term": "Archangel Raphael",
+    "aliases": [
+      "Raphael"
+    ],
+    "short": "The angel who guides and heals in Tobit.",
+    "note": "The angel who accompanies Tobiah and helps restore Tobit’s sight. In Tobit 12 he identifies himself as one of the seven angels who stand before God.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/tobit/12",
+        "label": "USCCB: Tobit 12"
+      }
+    ],
+    "evidence": "eresting question. There’s a suggestion in the Book of Tobit that the Archangel Raphael is actually an ancestor of Tobit’s. Angel means ‘messenger,’ as you probably know, so if "
+  },
+  {
+    "id": "ephyra",
+    "term": "Ephyra",
+    "aliases": [],
+    "short": "An ancient town beside an oracle of the dead.",
+    "note": "An ancient town in Epirus associated with the Nekromanteion of Acheron, where worshippers sought communication with the dead.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://allofgreeceone.culture.gov.gr/en/venues/nekromanteion-of-acheron-preveza/",
+        "label": "Hellenic Ministry of Culture: Nekromanteion of Acheron"
+      }
+    ],
+    "evidence": "“There are quite a number of entrances, as the ancients knew. Dodona, Ephyra, Acheron, Averno, and so forth. Dante went in through the crater of Vesuvius, or so rumor"
+  },
+  {
+    "id": "acheron",
+    "term": "Acheron",
+    "aliases": [],
+    "short": "A Greek river associated with the underworld.",
+    "note": "A river in Epirus and, in Greek and Roman mythology, a river of the realm of the dead, crossed by the ferryman Charon.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Khthonios/Kharon.html",
+        "label": "Theoi: ancient sources on Charon"
+      }
+    ],
+    "evidence": "re quite a number of entrances, as the ancients knew. Dodona, Ephyra, Acheron, Averno, and so forth. Dante went in through the crater of Vesuvius, or so rumor had it; "
+  },
+  {
+    "id": "dodona",
+    "term": "Dodona",
+    "aliases": [],
+    "short": "The ancient oracle of Zeus in Epirus.",
+    "note": "An ancient sanctuary and oracle of Zeus and Dione in northwestern Greece, famed for divination associated with its sacred oak.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Titan/TitanisDione.html",
+        "label": "Theoi: ancient sources on Dione and Dodona"
+      }
+    ],
+    "evidence": "hicken. “There are quite a number of entrances, as the ancients knew. Dodona, Ephyra, Acheron, Averno, and so forth. Dante went in through the crater of Vesuvius, or "
+  },
+  {
+    "id": "averno",
+    "term": "Averno",
+    "aliases": [],
+    "short": "Lake Avernus, a classical entrance to the underworld.",
+    "note": "The Italian name for Lake Avernus, a volcanic lake near Naples associated with the entrance to the underworld in Virgil’s Aeneid.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://parcodeicampiflegrei.it/wp-content/uploads/2023/08/IL-SOGNO-DI-VIRGILIO-PROGRAMMA-PIEGHEVOLE-OK-SCABEC-V-20230819_optimize.pdf",
+        "label": "Campi Flegrei archaeological park: Virgil’s places"
+      }
+    ],
+    "evidence": "a number of entrances, as the ancients knew. Dodona, Ephyra, Acheron, Averno, and so forth. Dante went in through the crater of Vesuvius, or so rumor had it; to the b"
+  },
+  {
+    "id": "frankenstein",
+    "term": "Frankenstein",
+    "aliases": [],
+    "short": "Mary Shelley’s creator of an artificial human.",
+    "note": "Victor Frankenstein, the scientist in Mary Shelley’s Frankenstein; or, The Modern Prometheus (1818), who creates a living being and abandons it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/84",
+        "label": "Mary Shelley: Frankenstein"
+      }
+    ],
+    "evidence": "e to learn, and to make myself a better man.” “Touching. You and Dr. Frankenstein.” I forced myself to smile. “I owed you thanks, as I said, and I do thank you. Now I’ll "
+  },
+  {
+    "id": "lasciate-ogni-speranza",
+    "term": "Lasciate ogni speranza",
+    "aliases": [],
+    "short": "The warning over Dante’s gate of Hell.",
+    "note": "Italian for abandon all hope, the opening of the gate’s final warning in Dante’s Inferno, canto III: those who enter must leave hope behind.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://it.wikisource.org/wiki/Divina_Commedia/Inferno/Canto_III",
+        "label": "Dante: Inferno, canto III"
+      }
+    ],
+    "evidence": "ere talking about the inscription Dante reported. I believe it ended: Lasciate ogni speranza, voi ch’entrate! ‘Leave all hope, you that enter!’ ” “I said I wouldn’t lie. It’s not ve"
+  }
+]

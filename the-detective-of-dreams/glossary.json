@@ -1,0 +1,84 @@
+[
+  {
+    "id": "uhlan",
+    "term": "uhlan",
+    "aliases": [
+      "uhlans"
+    ],
+    "short": "A cavalry lancer.",
+    "note": "A lancer in cavalry traditions associated especially with Poland and later other European armies.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/uhlan",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-165",
+      "index": 0
+    }
+  },
+  {
+    "id": "freud",
+    "term": "Freud",
+    "aliases": [],
+    "short": "The founder of psychoanalysis.",
+    "note": "Sigmund Freud, the Viennese physician who developed psychoanalysis. His The Interpretation of Dreams treats dreams as expressions of unconscious mental processes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/",
+        "label": "Freud Museum London: The Interpretation of Dreams"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-057",
+      "index": 0
+    }
+  },
+  {
+    "id": "bayreuth",
+    "term": "Bayreuth",
+    "aliases": [],
+    "short": "The Bavarian home of Wagner’s opera festival.",
+    "note": "The German city where Richard Wagner established a theatre and festival devoted to his operas; the first festival took place in 1876.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.bayreuther-festspiele.de/festspiele/historie/",
+        "label": "Bayreuth Festival: history"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-065",
+      "index": 0
+    }
+  },
+  {
+    "id": "merloned",
+    "term": "merloned",
+    "aliases": [],
+    "short": "Fitted with the solid uprights of battlements.",
+    "note": "Having merlons: the solid portions of a battlemented parapet between the open gaps.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-023",
+      "index": 0
+    }
+  }
+]

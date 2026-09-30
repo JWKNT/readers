@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bond",
+    "term": "Bond",
+    "aliases": [],
+    "short": "Ian Fleming’s British secret agent.",
+    "note": "James Bond, Agent 007, the British intelligence officer introduced in Ian Fleming’s Casino Royale (1953).",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ianfleming.com/meet-the-man/",
+        "label": "Ian Fleming Publications: Ian Fleming"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-018",
+      "index": 0
+    }
+  }
+]

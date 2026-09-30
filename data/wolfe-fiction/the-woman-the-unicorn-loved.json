@@ -1,0 +1,125 @@
+[
+  {
+    "id": "lamia",
+    "term": "lamia",
+    "aliases": [
+      "lamiae",
+      "lamias"
+    ],
+    "note": "A child-devouring female monster in Greek tradition; later uses often give lamias serpentine features.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lamia",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A child-devouring monster of Greek tradition.",
+    "possible": false,
+    "evidence": "Reused previously sourced external note, context checked c23: of the creatures of myth were partly human and had human intelligence—lamias, centaurs, fauns, satyrs, and so forth. Often that seems to appeal to the individuals who do this s"
+  },
+  {
+    "id": "balios",
+    "term": "Balios",
+    "aliases": [],
+    "short": "One of Achilles’s immortal horses.",
+    "note": "Balius, paired with Xanthus: the immortal horses that draw Achilles’s chariot in the Iliad, offspring of the West Wind and the Harpy Podarge.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Ther/HippoiBaliosXanthos.html",
+        "label": "Theoi · Balius and Xanthus, Homer passages"
+      }
+    ],
+    "evidence": "c23:  lighting his pipe; the mingled fumes of sulfur and tobacco filled the office. “Balios and Xanthos drew the chariot of Poseidon,” he said. “In fact, Poseidon was the god of horses as well as of the sea. His herds were the wave"
+  },
+  {
+    "id": "xanthos",
+    "term": "Xanthos",
+    "aliases": [],
+    "short": "One of Achilles’s immortal horses.",
+    "note": "Xanthus, paired with Balius: an immortal horse of Achilles. In Iliad 19, Hera grants Xanthus speech, and he foretells Achilles’s death.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Ther/HippoiBaliosXanthos.html",
+        "label": "Theoi · Balius and Xanthus, Homer passages"
+      }
+    ],
+    "evidence": "c23: is pipe; the mingled fumes of sulfur and tobacco filled the office. “Balios and Xanthos drew the chariot of Poseidon,” he said. “In fact, Poseidon was the god of horses as well as of the sea. His herds were the waves, in a myst"
+  },
+  {
+    "id": "bernadotte",
+    "term": "Bernadotte",
+    "aliases": [],
+    "short": "Napoleon’s marshal who became king of Sweden and Norway.",
+    "note": "Jean-Baptiste Bernadotte (1763–1844), a marshal under Napoleon, later King Charles XIV John of Sweden and Charles III John of Norway.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.kungahuset.se/english/royal-house/the-bernadotte-dynasty/karl-xiv-johan",
+        "label": "Swedish Royal Court · Karl XIV Johan"
+      }
+    ],
+    "evidence": "c23:  horses, you know, and pumpernickel. The general was one of Napoleon’s, I think Bernadotte, and he had a favorite charger named Nicole—we would say Nicholas or Nick. When the Grand Army occupied Germany and the officers ate at the"
+  },
+  {
+    "id": "pumpernickel",
+    "term": "pumpernickel",
+    "aliases": [],
+    "short": "A dark German rye bread.",
+    "note": "A dark, dense rye bread. The German name combines pumpern, to break wind, with Nickel, a goblin or devil.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/wordplay/fart-words-and-euphemisms/farting-crackers",
+        "label": "Merriam-Webster · pumpernickel etymology"
+      }
+    ],
+    "evidence": "c23: , I think.” Anderson nodded. “Yes, he is.” “That was white. That bread. This is pumpernickel. I thought he—the unicorn. I thought he might like it better.” Anderson could not keep from grinning at that, and she smiled too. “Well, an"
+  },
+  {
+    "id": "pegasus",
+    "term": "Pegasus",
+    "aliases": [],
+    "short": "The winged horse of Greek mythology.",
+    "note": "The winged horse of Greek mythology, associated with the Muses. His hoof was said to have struck the Hippocrene spring from Mount Helicon, linking him with poetic inspiration.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/195356",
+        "label": "Metropolitan Museum · Pegasus"
+      }
+    ],
+    "evidence": "c23: arried Sinbad.” “I see.” “If you decided on a winged horse instead, it would be Pegasus. I’ve never yet seen one of those that could actually fly, by the way. A winged human being would be an angel, or if it were more birdlike,"
+  },
+  {
+    "id": "john-gardner",
+    "term": "John Gardner",
+    "aliases": [],
+    "short": "The American novelist who wrote Grendel.",
+    "note": "John Gardner, American novelist and scholar of medieval literature, author of Grendel (1971) and The Sunlight Dialogues (1972).",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://opensiuc.lib.siu.edu/ua_docs/38/",
+        "label": "Southern Illinois University · John Gardner"
+      }
+    ],
+    "evidence": "c23: rst editions, for example, and a lot of his letters. And there’s some wonderful John Gardner material. So that’s where I put Nick.” Stamping among the books, Anderson thought to himself. Couchant at the frontiers of Overworld and Oz"
+  },
+  {
+    "id": "james-branch-cabell",
+    "term": "James Branch Cabell",
+    "aliases": [],
+    "short": "The American writer whose papers and library are held at VCU.",
+    "note": "James Branch Cabell, American writer whose personal library and papers are preserved at Virginia Commonwealth University. His working library contains extensive material on mythology, folklore, and the occult.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://jamesbranchcabell.library.vcu.edu/cabell-at-vcu/cabells-personal-library/",
+        "label": "VCU Libraries · Cabell’s personal library"
+      }
+    ],
+    "evidence": "c23: n the country, or even a famous collection. But it’s a jolly good one. It’s got James Branch Cabell in first editions, for example, and a lot of his letters. And there’s some wonderful John Gardner material. So that’s where I put Nick.” St"
+  }
+]

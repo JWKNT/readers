@@ -1,0 +1,1324 @@
+[
+  {
+    "id": "story",
+    "index": 0,
+    "title": "Bed and Breakfast",
+    "volume": "text",
+    "kind": "chapter",
+    "paragraphs": [
+      {
+        "id": "chapter-title",
+        "text": "Bed and Breakfast"
+      },
+      {
+        "id": "p-001",
+        "text": "Iknow an old couple who live near Hell. They have a small farm, and to supplement the meager income it provides (and to use up its bounty of chickens, ducks, and geese, of beefsteak tomatoes, bull-nose peppers, and roastin’ ears) open their spare bedrooms to paying guests. From time to time, I am one of those guests."
+      },
+      {
+        "id": "p-002",
+        "text": "Dinner comes with the room if one arrives before five, and leftovers, of which there are generally enough to feed two or three more persons, will be cheerfully warmed up afterward—provided that one gets there before nine, at which hour the old woman goes to bed. After nine (and I arrived long after nine last week) guests are free to forage in the kitchen and prepare whatever they choose for themselves."
+      },
+      {
+        "id": "p-003",
+        "text": "My own choices were modest: coleslaw, cold chicken, fresh bread, country butter, and buttermilk. I was just sitting down to this light repast when I heard the doorbell ring. I got up, thinking to answer it and save the old man the trouble, and heard his limping gait in the hallway. There was a murmur of voices, the old man’s and someone else’s; the second sounded like a deep-voiced woman’s, so I remained standing."
+      },
+      {
+        "id": "p-004",
+        "text": "Their conversation lasted longer than I had expected, and although I could not distinguish a single word, it seemed to me that the old man was saying, “No, no, no,” and the woman proposing various alternatives."
+      },
+      {
+        "id": "p-005",
+        "text": "At length he showed her into the kitchen, tall and tawny haired, with a figure rather too voluptuous to be categorized as athletic, and one of those interesting faces that one calls beautiful only after at least half an hour of study; I guessed her age near thirty. The old man introduced us with rustic courtesy, told her to make herself at home, and went back to his book."
+      },
+      {
+        "id": "p-006",
+        "text": "“He’s very kind, isn’t he?” she said. Her name was Eira something."
+      },
+      {
+        "id": "p-007",
+        "text": "I concurred, calling him a very good soul indeed."
+      },
+      {
+        "id": "p-008",
+        "text": "“Are you going to eat all that?” She was looking hungrily at the chicken. I assured her I would have only a piece or two. (I never sleep well after a heavy meal.) She opened the refrigerator, found the milk, and poured herself a glass that she pressed against her cheek. “I haven’t any money. I might as well tell you.”"
+      },
+      {
+        "id": "p-009",
+        "text": "That was not my affair, and I said so."
+      },
+      {
+        "id": "p-010",
+        "text": "“I don’t. I saw the sign, and I thought there must be a lot of work to do around such a big house, washing windows and making beds, and I’d offer to do it for food and a place to sleep.”"
+      },
+      {
+        "id": "p-011",
+        "text": "“He agreed?” I was rather surprised."
+      },
+      {
+        "id": "p-012",
+        "text": "“No.” She sat down and drank half her milk, seeming to pour it down her throat with no need of swallowing. “He said I could eat and stay in the empty room—they’ve got an empty room tonight—if nobody else comes. But if somebody does, I’ll have to leave.” She found a drumstick and nipped it with strong white teeth. “I’ll pay them when I get the money, but naturally he didn’t believe me. I don’t blame him. How much is it?”"
+      },
+      {
+        "id": "p-013",
+        "text": "I told her, and she said it was very cheap."
+      },
+      {
+        "id": "p-014",
+        "text": "“Yes,” I said, “but you have to consider the situation. They’re off the highway, with no way of letting people know they’re here. They get a few people on their way to Hell, and a few demons going out on assignments or returning. Regulars, as they call them. Other than that”—I shrugged—“eccentrics like me and passersby like you.”"
+      },
+      {
+        "id": "p-015",
+        "text": "“Did you say Hell?” She put down her chicken leg."
+      },
+      {
+        "id": "p-016",
+        "text": "“Yes. Certainly.”"
+      },
+      {
+        "id": "p-017",
+        "text": "“Is there a town around here called Hell?”"
+      },
+      {
+        "id": "p-018",
+        "text": "I shook my head. “It has been called a city, but it’s a region, actually. The Infernal Empire. Hades. Gehenna, where their worm dieth not, and the fire is not quenched. You know.”"
+      },
+      {
+        "id": "p-019",
+        "text": "She laughed, the delighted crow of a large, bored child who has been entertained at last."
+      },
+      {
+        "id": "p-020",
+        "text": "I buttered a second slice of bread. The bread is always very good, but this seemed better than usual."
+      },
+      {
+        "id": "p-021",
+        "text": "“ ‘Abandon hope, you who enter here.’ Isn’t that supposed to be the sign over the door?”"
+      },
+      {
+        "id": "p-022",
+        "text": "“More or less,” I said. “Over the gate Dante used, at any rate. It wasn’t this one, so the inscription here may be quite different, if there’s an inscription at all.”"
+      },
+      {
+        "id": "p-023",
+        "text": "“You haven’t been there.”"
+      },
+      {
+        "id": "p-024",
+        "text": "I shook my head. “Not yet.”"
+      },
+      {
+        "id": "p-025",
+        "text": "“But you’re going”—she laughed again, a deep, throaty, very feminine chuckle this time—“and it’s not very far.”"
+      },
+      {
+        "id": "p-026",
+        "text": "“Three miles, I’m told, by the old county road. A little less, two perhaps, if you were to cut across the fields, which almost no one does.”"
+      },
+      {
+        "id": "p-027",
+        "text": "“I’m not going,” she said."
+      },
+      {
+        "id": "p-028",
+        "text": "“Oh, but you are. So am I. Do you know what they do in Heaven?”"
+      },
+      {
+        "id": "p-029",
+        "text": "“Fly around playing harps?”"
+      },
+      {
+        "id": "p-030",
+        "text": "“There’s the Celestial Choir, which sings the praises of God throughout all eternity. Everyone else beholds His face.”"
+      },
+      {
+        "id": "p-031",
+        "text": "“That’s it?” She was skeptical but amused."
+      },
+      {
+        "id": "p-032",
+        "text": "“That’s it. It’s fine for contemplative saints. They go there, and they love it. They’re the only people suited to it, and it suits them. The unbaptized go to Limbo. All the rest of us go to Hell; and for a few, this is the last stop before they arrive.”"
+      },
+      {
+        "id": "p-033",
+        "text": "I waited for her reply, but she had a mouthful of chicken. “There are quite a number of entrances, as the ancients knew. Dodona, Ephyra, Acheron, Averno, and so forth. Dante went in through the crater of Vesuvius, or so rumor had it; to the best of my memory, he never specified the place in his poem.”"
+      },
+      {
+        "id": "p-034",
+        "text": "“You said demons stay here.”"
+      },
+      {
+        "id": "p-035",
+        "text": "I nodded. “If it weren’t for them, the old people would have to close, I imagine.”"
+      },
+      {
+        "id": "p-036",
+        "text": "“But you’re not a demon and neither am I. Isn’t it pretty dangerous for us? You certainly don’t look . . . I don’t mean to be offensive—”"
+      },
+      {
+        "id": "p-037",
+        "text": "“I don’t look courageous.” I sighed. “Nor am I. Let me concede that at once, because we need to establish it from the very beginning. I’m innately cautious, and have been accused of cowardice more than once. But don’t you understand that courage has nothing to do with appearances? You must watch a great deal of television; no one would say what you did who did not. Haven’t you ever seen a real hero on the news? Someone who had done something extraordinarily brave? The last one I saw looked very much like the black woman on the pancake mix used to, yet she’d run into a burning tenement to rescue three children. Not her own children, I should add.”"
+      },
+      {
+        "id": "p-038",
+        "text": "Eira got up and poured herself a second glass of milk. “I said I didn’t want to hurt your feelings, and I meant it. Just to start with, I can’t afford to tick off anybody just now—I need help. I’m sorry. I really am.”"
+      },
+      {
+        "id": "p-039",
+        "text": "“I’m not offended. I’m simply telling you the truth, that you cannot judge by appearances. One of the bravest men I’ve known was short and plump and inclined to be careless, not to say slovenly, about clothes and shaving and so on. A friend said that you couldn’t imagine anyone less military, and he was right. Yet that fat little man had served in combat with the navy and the marines, and with the Israeli Army.”"
+      },
+      {
+        "id": "p-040",
+        "text": "“But isn’t it dangerous? You said you weren’t brave to come here.”"
+      },
+      {
+        "id": "p-041",
+        "text": "“In the first place, one keeps one’s guard up here. There are precautions, and I take them. In the second, they’re not on duty, so to speak. If they were to commit murder or set the house on fire, the old people would realize immediately who had done it and shut down; so while they are here, they’re on their good behavior.”"
+      },
+      {
+        "id": "p-042",
+        "text": "“I see.” She picked up another piece of chicken. “Nice demons.”"
+      },
+      {
+        "id": "p-043",
+        "text": "“Not really. But the old man tells me that they usually overpay and are, well, businesslike in their dealings. Those are the best things about evil. It generally has ready money, and doesn’t expect to be trusted. There’s a third reason, as well. Do you want to hear it?”"
+      },
+      {
+        "id": "p-044",
+        "text": "“Sure.”"
+      },
+      {
+        "id": "p-045",
+        "text": "“Here one can discern them, and rather easily for the most part. When you’ve identified a demon, his ability to harm you is vastly reduced. But past this farm, identification is far more difficult; the demons vanish in the surging tide of mortal humanity that we have been taught by them to call life, and one tends to relax somewhat. Yet scarcely a week goes by in which one does not encounter a demon unaware.”"
+      },
+      {
+        "id": "p-046",
+        "text": "“All right, what about the people on their way to Hell? They’re dead, aren’t they?”"
+      },
+      {
+        "id": "p-047",
+        "text": "“Some are, and some aren’t.”"
+      },
+      {
+        "id": "p-048",
+        "text": "“What do you mean by that?”"
+      },
+      {
+        "id": "p-049",
+        "text": "“Exactly what I said. Some are and some are not. It can be difficult to tell. They aren’t ghosts in the conventional sense, you understand, any more than they are corpses, but the people who have left the corpse and the ghost behind.”"
+      },
+      {
+        "id": "p-050",
+        "text": "“Would you mind if I warmed up a couple of pieces of this, and toasted some of that bread? We could share it.”"
+      },
+      {
+        "id": "p-051",
+        "text": "I shook my head. “Not in the least, but I’m practically finished.”"
+      },
+      {
+        "id": "p-052",
+        "text": "She rose, and I wondered whether she realized just how graceful she was. “I’ve got a dead brother, my brother Eric.”"
+      },
+      {
+        "id": "p-053",
+        "text": "I said that I was sorry to hear it."
+      },
+      {
+        "id": "p-054",
+        "text": "“It was a long time ago, when I was a kid. He was four, I think, and he fell off the balcony. Mother always said he was an angel now, an angel up in Heaven. Do dead people really get to be angels if they’re good?”"
+      },
+      {
+        "id": "p-055",
+        "text": "“I don’t know; it’s an interesting question. There’s a suggestion in the Book of Tobit that the Archangel Raphael is actually an ancestor of Tobit’s. Angel means ‘messenger,’ as you probably know, so if God were to employ one of the blest as a messenger, he or she could be regarded as an angel, I’d think.”"
+      },
+      {
+        "id": "p-056",
+        "text": "“Devils are fallen angels, aren’t they? I mean, if they exist.” She dropped three pieces of chicken into a frying pan, hesitated, and added a fourth. “So if good people really get recycled as angels, shouldn’t the bad ones get to be devils or demons?”"
+      },
+      {
+        "id": "p-057",
+        "text": "I admitted that it seemed plausible."
+      },
+      {
+        "id": "p-058",
+        "text": "She lit the stove with a kitchen match, turning the burner higher than I would have. “You sound like you come here pretty often. You must talk to them at breakfast, or whenever. You ought to know.”"
+      },
+      {
+        "id": "p-059",
+        "text": "“Since you don’t believe me, wouldn’t it be logical for you to believe my admission of ignorance?”"
+      },
+      {
+        "id": "p-060",
+        "text": "“No way!” She turned to face me, a forefinger upraised. “You’ve got to be consistent, and coming here and talking to lots of demons, you’d know.”"
+      },
+      {
+        "id": "p-061",
+        "text": "I protested that information provided by demons could not be relied upon."
+      },
+      {
+        "id": "p-062",
+        "text": "“But what do you think? What’s your best guess? See, I want to find out if there’s any hope for us. You said we’re going to Hell, both of us, and that dude, the Italian—”"
+      },
+      {
+        "id": "p-063",
+        "text": "“Dante,” I supplied."
+      },
+      {
+        "id": "p-064",
+        "text": "“Dante says the sign over the door says don’t hope. I went to a school like that for a couple years, come to think of it.”"
+      },
+      {
+        "id": "p-065",
+        "text": "“Were they merely strict, or actually sadistic?”"
+      },
+      {
+        "id": "p-066",
+        "text": "“Mean. But the teachers lived better than we did—a lot better. If there’s a chance of getting to be one yourself, we could always hope for that.”"
+      },
+      {
+        "id": "p-067",
+        "text": "At that moment, we heard a knock at the front door, and her shoulders sagged. “There goes my free room. I guess I’ve got to be going. It was fun talking to you; it really was.”"
+      },
+      {
+        "id": "p-068",
+        "text": "I suggested she finish her chicken first."
+      },
+      {
+        "id": "p-069",
+        "text": "“Probably I should. I’ll have to find another place to stay, though, and I’d like to get going before they throw me out. It’s pretty late already.” She hesitated. “Would you buy my wedding ring? I’ve got it right here.” Her thumb and forefinger groped the watch pocket of her blue jeans."
+      },
+      {
+        "id": "p-070",
+        "text": "I took a final bite of coleslaw and pushed back my plate. “It doesn’t matter, actually, whether I want to buy your ring or not. I can’t afford to. Someone in town might, perhaps.”"
+      },
+      {
+        "id": "p-071",
+        "text": "A booming voice in the hallway drowned out the old man’s; I knew that the new guest was a demon before I saw him or heard a single intelligible word."
+      },
+      {
+        "id": "p-072",
+        "text": "She held up her ring, a white-gold band set with two small diamonds. “I had a job, but he never let me keep anything from it and I finally caught on—if I kept waiting till I had some money or someplace to go, I’d never get away. So I split, just walked away with nothing but the clothes I had on.”"
+      },
+      {
+        "id": "p-073",
+        "text": "“Today?” I inquired."
+      },
+      {
+        "id": "p-074",
+        "text": "“Yesterday. Last night I slept in a wrecked truck in a ditch. You probably don’t believe that, but it’s the truth. All night I was afraid somebody’d come to tow it away. There were furniture pads in the back, and I lay on a couple and pulled three more on top of me, and they were pretty warm.”"
+      },
+      {
+        "id": "p-075",
+        "text": "“If you can sell your ring,” I said, “there’s a Holiday Inn in town. I should warn you that a great many demons stay there, just as you would expect.”"
+      },
+      {
+        "id": "p-076",
+        "text": "The kitchen door opened. Following the old man was one of the largest I have ever seen, swag bellied and broad hipped; he must have stood at least six-foot-six."
+      },
+      {
+        "id": "p-077",
+        "text": "“This’s our kitchen,” the old man told him."
+      },
+      {
+        "id": "p-078",
+        "text": "“I know,” the demon boomed. “I stopped off last year. Naturally you don’t remember, Mr. Hopsack. But I remembered you and this wonderful place of yours. I’ll scrounge around and make out all right.”"
+      },
+      {
+        "id": "p-079",
+        "text": "The old man gave Eira a significant look and jerked his head toward the door, at which she nodded almost imperceptibly. I said, “She’s going to stay with me, Len. There’s plenty of room in the bed. You don’t object, I trust?”"
+      },
+      {
+        "id": "p-080",
+        "text": "He did, of course, though he was much too diffident to say so; at last he managed, “Double’s six dollars more.”"
+      },
+      {
+        "id": "p-081",
+        "text": "I said, “Certainly,” and handed him the money, at which the demon snickered."
+      },
+      {
+        "id": "p-082",
+        "text": "“Just don’t you let Ma find out.”"
+      },
+      {
+        "id": "p-083",
+        "text": "When the old man had gone, the demon fished business cards from his vest pocket; I did not trouble to read the one that he handed me, knowing that nothing on it would be true. Eira read hers aloud, however, with a good simulation of admiration. “ ‘J. Gunderson Foulweather, Broker, Commodities Sales.’ ”"
+      },
+      {
+        "id": "p-084",
+        "text": "The demon picked up her skillet and tossed her chicken a foot into the air, catching all four pieces with remarkable dexterity. “Soap, dope, rope, or hope. If it’s sold in bulk, I’ll buy it and give you the best price anywhere. If it’s bought in bulk, I sell it cheaper than anybody in the nation. Pleasure to meet you.”"
+      },
+      {
+        "id": "p-085",
+        "text": "I introduced myself, pretending not to see his hand, and added, “This is Eira Mumble.”"
+      },
+      {
+        "id": "p-086",
+        "text": "“On your way to St. Louis? Lovely city! I know it well.”"
+      },
+      {
+        "id": "p-087",
+        "text": "I shook my head."
+      },
+      {
+        "id": "p-088",
+        "text": "She said, “But you’re going somewhere—home to some city—in the morning aren’t you? And you’ve got a car. There are cars parked outside. The black Plymouth?”"
+      },
+      {
+        "id": "p-089",
+        "text": "My vehicle is a gray Honda Civic, and I told her so."
+      },
+      {
+        "id": "p-090",
+        "text": "“If I—you know.”"
+      },
+      {
+        "id": "p-091",
+        "text": "“Stay in my room tonight.”"
+      },
+      {
+        "id": "p-092",
+        "text": "“Will you give me a ride in the morning? Just a ride? Let me off downtown; that’s all I ask.”"
+      },
+      {
+        "id": "p-093",
+        "text": "I do not live in St. Louis and had not intended to go there, but I said I would."
+      },
+      {
+        "id": "p-094",
+        "text": "She turned to the demon. “He says this’s close to Hell and the souls of people going there stop off here, sometimes. Is that where you’re going?”"
+      },
+      {
+        "id": "p-095",
+        "text": "His booming laugh shook the kitchen. “Not me! Davenport. Going to do a little business in feed corn if I can.”"
+      },
+      {
+        "id": "p-096",
+        "text": "Eira looked at me as if to say, There, you see?"
+      },
+      {
+        "id": "p-097",
+        "text": "The demon popped the largest piece of chicken into his mouth like an hors d’oeuvre; I have never met one who did not prefer his food smoking hot. “He’s giving you the straight scoop though, Eira. It is.”"
+      },
+      {
+        "id": "p-098",
+        "text": "“How’d you do that?”"
+      },
+      {
+        "id": "p-099",
+        "text": "“Do what?”"
+      },
+      {
+        "id": "p-100",
+        "text": "“Talk around that chicken like that.”"
+      },
+      {
+        "id": "p-101",
+        "text": "He grinned, which made him look like a portly crocodile. “Swallowed it, that’s all. I’m hungry. I haven’t eaten since lunch.”"
+      },
+      {
+        "id": "p-102",
+        "text": "“Do you mind if I take the others? I was warming them up for myself, and there’s more in the refrigerator.”"
+      },
+      {
+        "id": "p-103",
+        "text": "He stood aside with a mock bow."
+      },
+      {
+        "id": "p-104",
+        "text": "“You’re in this together—this thing about Hell. You and him.” Eira indicated me as she took the frying pan from the stove."
+      },
+      {
+        "id": "p-105",
+        "text": "“We met before?” he boomed at me. I said that we had not, to the best of my memory."
+      },
+      {
+        "id": "p-106",
+        "text": "“Devils—demons are what he calls them. He says there are probably demons sleeping here right now, up on the second floor.”"
+      },
+      {
+        "id": "p-107",
+        "text": "I put in, “I implied that, I suppose. I did not state it.”"
+      },
+      {
+        "id": "p-108",
+        "text": "“Very likely true,” the demon boomed, adding, “I’m going to make coffee, if anybody wants some.”"
+      },
+      {
+        "id": "p-109",
+        "text": "“And the . . . the damned. They’re going to Hell, but they stop off here.”"
+      },
+      {
+        "id": "p-110",
+        "text": "He gave me a searching glance. “I’ve been wondering about you, to tell the truth. You seem like the type.”"
+      },
+      {
+        "id": "p-111",
+        "text": "I declared that I was alive for the time being."
+      },
+      {
+        "id": "p-112",
+        "text": "“That’s the best anybody can say.”"
+      },
+      {
+        "id": "p-113",
+        "text": "“But the cars—” Eira began."
+      },
+      {
+        "id": "p-114",
+        "text": "“Some drive; some fly.” He had discovered slices of ham in the refrigerator, and he slapped them into the frying pan as though he were dealing blackjack. “I used to wonder what they did with all the cars down there.”"
+      },
+      {
+        "id": "p-115",
+        "text": "“But you don’t anymore.” Eira was going along now once more willing to play what she thought (or wished me to believe she thought) a rather silly game. “So you found out. What is it?”"
+      },
+      {
+        "id": "p-116",
+        "text": "“Nope.” He pulled out one of the wooden yellow-enameled kitchen chairs and sat down with such force I was surprised it did not break. “I quit wondering, that’s all. I’ll find out soon enough, or I won’t. But in places this close—I guess there’s others—you get four kinds of folks.” He displayed thick fingers, each with a ring that looked as if it had cost a great deal more than Eira’s. “There’s guys that’s still alive, like our friend here.” He clenched one finger. “Then there’s staff. You know what I mean?”"
+      },
+      {
+        "id": "p-117",
+        "text": "Eira looked puzzled. “Devils?”"
+      },
+      {
+        "id": "p-118",
+        "text": "“J. Gunderson Foulweather”—the demon jerked his thumb at his vest— “doesn’t call anybody racial names unless they hurt him or his, especially when there’s liable to be a few eating breakfast in the morning. Staff, okay? Free angels. Some of them are business contacts of mine. They told me about this place; that’s why I came the first time.”"
+      },
+      {
+        "id": "p-119",
+        "text": "He clenched a second finger and touched the third with the index finger of his free hand. “Then there’s future inmates. You used a word J. Gunderson Foul-weather himself wouldn’t say in the presence of a lady, but since you’re the only lady here, no harm done. Colonists, okay?”"
+      },
+      {
+        "id": "p-120",
+        "text": "“Wait a minute.” Eira looked from him to me. “You both claim they stop off here.”"
+      },
+      {
+        "id": "p-121",
+        "text": "We nodded."
+      },
+      {
+        "id": "p-122",
+        "text": "“On their way to Hell. So why do they go? Why don’t they just go off,” she hesitated, searching for the right word, and finished weakly, “back home or something?”"
+      },
+      {
+        "id": "p-123",
+        "text": "The demon boomed, “You want to field this one?”"
+      },
+      {
+        "id": "p-124",
+        "text": "I shook my head. “Your information is superior to mine, I feel certain.”"
+      },
+      {
+        "id": "p-125",
+        "text": "“Okay, a friend of mine was born and raised in Newark, New Jersey. You ever been to Newark?”"
+      },
+      {
+        "id": "p-126",
+        "text": "“No,” Eira said."
+      },
+      {
+        "id": "p-127",
+        "text": "“Some parts are pretty nice, but it’s not, like, the hub of Creation, see? He went to France when he was twenty-two and stayed twenty years, doing jobs for American magazines around Paris. Learned to speak the language better than the natives. He’s a photographer, a good one.”"
+      },
+      {
+        "id": "p-128",
+        "text": "The demon’s coffee had begun to perk. He glanced around at it, sniffed appreciatively, and turned back to us, still holding up his ring and little fingers. “Twenty years, then he goes back to Newark. J. Gunderson Foulweather doesn’t stick his nose into other people’s business, but I asked him the same thing you did me: how come? He said he felt like he belonged there.”"
+      },
+      {
+        "id": "p-129",
+        "text": "Eira nodded slowly."
+      },
+      {
+        "id": "p-130",
+        "text": "I said, “The staff, as you call them, might hasten the process, I imagine.”"
+      },
+      {
+        "id": "p-131",
+        "text": "The demon appeared thoughtful. “Could be. Sometimes, anyhow.” He touched the fourth and final finger. “All the first three’s pretty common from what I hear. Only there’s another kind you don’t hardly ever see. The runaways.”"
+      },
+      {
+        "id": "p-132",
+        "text": "Eira chewed and swallowed. “You mean people escape?”"
+      },
+      {
+        "id": "p-133",
+        "text": "“That’s what I hear. Down at the bottom, Hell’s pretty rough, you know? Higher up it’s not so bad.”"
+      },
+      {
+        "id": "p-134",
+        "text": "I put in, “That’s what Dante reported too.”"
+      },
+      {
+        "id": "p-135",
+        "text": "“You know him? Nice guy. I never been there myself, but that’s what they say. Up at the top it’s not so bad, sort of like one of those country-club jails for politicians. The guys up there could jump the fence and walk out. Only they don’t, because they know they’d get caught and sent down where things aren’t so nice. Only every so often somebody does. So you got them too, headed out. Anybody want coffee? I made plenty.”"
+      },
+      {
+        "id": "p-136",
+        "text": "Long before he had reached his point, I had realized what it was; I found it difficult to speak, but managed to say that I was going up to bed and coffee would keep me awake."
+      },
+      {
+        "id": "p-137",
+        "text": "“You, Eira?”"
+      },
+      {
+        "id": "p-138",
+        "text": "She shook her head. It was at that moment that I at last concluded that she was truly beautiful, not merely attractive in an unconventional way. “I’ve had all I want, really. You can have my toast for your ham.”"
+      },
+      {
+        "id": "p-139",
+        "text": "I confess that I heaved a sigh of relief when the kitchen door swung shut behind us. As we mounted the steep, carpeted stairs, the house seemed so silent that I supposed for a moment that the demon had dematerialized, or whatever it is they do. He began to whistle a hymn in the kitchen, and I looked around sharply."
+      },
+      {
+        "id": "p-140",
+        "text": "She said, “He scares you, doesn’t he? He scares me too. I don’t know why.”"
+      },
+      {
+        "id": "p-141",
+        "text": "I did, or believed I did, though I forbore."
+      },
+      {
+        "id": "p-142",
+        "text": "“You probably thought I was going to switch—spend the night with him instead of you—but I’d rather sleep outside in your car.”"
+      },
+      {
+        "id": "p-143",
+        "text": "I said, “Thank you,” or something of the kind, and Eira took my hand; it was the first physical intimacy of any sort between us."
+      },
+      {
+        "id": "p-144",
+        "text": "When we reached the top of the stair, she said, “Maybe you’d like it if I waited out here in the hall till you get undressed? I won’t run away.”"
+      },
+      {
+        "id": "p-145",
+        "text": "I shook my head. “I told you I take precautions. As long as you’re in my company, those precautions protect you as well to a considerable extent. Out here alone, you’d be completely vulnerable.”"
+      },
+      {
+        "id": "p-146",
+        "text": "I unlocked the door of my room, opened it, and switched on the light. “Come in, please. There are things in here, enough protection to keep us both safe tonight, I believe. Just don’t touch them. Don’t touch anything you don’t understand.”"
+      },
+      {
+        "id": "p-147",
+        "text": "“You’re keeping out demons?” She was no longer laughing, I noticed."
+      },
+      {
+        "id": "p-148",
+        "text": "“Unwanted guests of every sort.” I endeavored to sound confident, though I have had little proof of the effectiveness of those old spells. I shut and relocked the door behind us."
+      },
+      {
+        "id": "p-149",
+        "text": "“I’m going to have to go out to wash up. I’d like to take a bath.”"
+      },
+      {
+        "id": "p-150",
+        "text": "“The Hopsacks have only two rooms with private baths, but this is one of them.” I pointed. “We’re old friends, you see; their son and I went to Dartmouth together, and I reserved this room in advance.”"
+      },
+      {
+        "id": "p-151",
+        "text": "“There’s one other thing. Oh, God! I don’t know how to say this without sounding like a jerk.”"
+      },
+      {
+        "id": "p-152",
+        "text": "“Your period has begun.”"
+      },
+      {
+        "id": "p-153",
+        "text": "“I’m on the pill. It’s just that I’d like to rinse out my underwear and hang it up to dry overnight and I don’t have a nightie. Would you turn off the lights in here when I’m ready to come out of the bathroom?”"
+      },
+      {
+        "id": "p-154",
+        "text": "“Certainly.”"
+      },
+      {
+        "id": "p-155",
+        "text": "“If you want to look you can, but I’d rather you didn’t. Maybe just that little lamp on the vanity?”"
+      },
+      {
+        "id": "p-156",
+        "text": "“No lights at all,” I told her. “You divined very quickly that I am a man of no great courage. I wish that you exhibited equal penetration with respect to my probity. I lie only when forced to, and badly as a rule, and my word is as good as any man’s. I will keep any agreement we make, whether expressed or implied, as long as you do.”"
+      },
+      {
+        "id": "p-157",
+        "text": "“You probably want to use the bathroom too.”"
+      },
+      {
+        "id": "p-158",
+        "text": "I told her that I would wait, and that I would undress in the bedroom while she bathed, and take my own bath afterward."
+      },
+      {
+        "id": "p-159",
+        "text": "Of the many things, memories as well as speculations, that passed through my mind as I waited in our darkened bedroom for her to complete her ablutions, I shall say little here; perhaps I should say nothing. I shot the night bolt, switched off the light, and undressed. Reflecting that she might readily make away with my wallet and my watch while I bathed, I considered hiding them, but I felt certain that she would not, and to tell the truth my watch is of no great value and there was less than a hundred dollars in my wallet. Under these circumstances, it seemed wise to show I trusted her, and I resolved to do so."
+      },
+      {
+        "id": "p-160",
+        "text": "In the morning I would drive her to the town in which I live or to St. Louis, as she preferred. I would give her my address and telephone number, with twenty dollars, perhaps, or even thirty. And I would tell her in a friendly fashion that if she could find no better place to stay she could stay with me whenever she chose, on tonight’s terms. I speculated upon a relationship (casual and even promiscuous, if you like) that would not so much spring into being as grow by the accretion of familiarity and small kindnesses. At no time have I been the sort of man women prefer, and I am whole decades past the time in life in which love is found if it is found at all, overcautious and overintellectual, little known to the world and certainly not rich."
+      },
+      {
+        "id": "p-161",
+        "text": "Yet I dreamed, alone in that dark, high-ceilinged bedroom. In men such as I, the foolish fancies of boyhood are superseded only by those of manhood, unsought visions less gaudy, perhaps, but more foolish still."
+      },
+      {
+        "id": "p-162",
+        "text": "Even in these the demon’s shadow fell between us; I felt certain then that she had escaped, and that he had come to take her back. I heard the flushing of the toilet, heard water run in the tub, and compelled myself to listen no more."
+      },
+      {
+        "id": "p-163",
+        "text": "Though it was a cold night, the room we would share was warm. I went to the window most remote from the bathroom door, raised the shade, and stood for a time staring up at the frosty stars, then stretched myself quite naked upon the bed, thinking of many things."
+      },
+      {
+        "id": "p-164",
+        "text": "Istarted when the bathroom door opened; I must have been half-asleep."
+      },
+      {
+        "id": "p-165",
+        "text": "“I’m finished,” Eira said. “You can go in now.” Then, “Where are you?”"
+      },
+      {
+        "id": "p-166",
+        "text": "My own eyes were accommodated to the darkness, as hers were not. I could make her out, white and ghostly, in the starlight, and I thrilled at the sight. “I’m here,” I told her, “on the bed. It’s over this way.” As I left the bed and she slipped beneath its sheet and quilt, our hands touched. I recall that moment more clearly than any of the rest."
+      },
+      {
+        "id": "p-167",
+        "text": "Instructed by her lack of night vision (whether real or feigned), I pulled the dangling cord of the bathroom light before I toweled myself dry. When I opened the door, half-expecting to find her gone, I could see her almost as well as I had when she had emerged from the bathroom, lying upon her back, her hair a damp-darkened aureole about her head and her arms above the quilt. I circled the bed and slid in."
+      },
+      {
+        "id": "p-168",
+        "text": "“Nice bath?” Then, “How do you want to do it?”"
+      },
+      {
+        "id": "p-169",
+        "text": "“Slowly,” I said."
+      },
+      {
+        "id": "p-170",
+        "text": "At which she giggled like a schoolgirl. “You’re fun. You’re not like him at all, are you?”"
+      },
+      {
+        "id": "p-171",
+        "text": "I hoped that I was not, as I told her."
+      },
+      {
+        "id": "p-172",
+        "text": "“I know—do that again—who you are! You’re Larry.”"
+      },
+      {
+        "id": "p-173",
+        "text": "I was happy to hear it; I had tired of being myself a good many years ago."
+      },
+      {
+        "id": "p-174",
+        "text": "“He was the smartest boy in school—in the high school that my husband and I graduated from. He was valedictorian, and president of the chess club and the debating team and all that. Oh, my!”"
+      },
+      {
+        "id": "p-175",
+        "text": "“Did you go out with him?” I was curious, I confess."
+      },
+      {
+        "id": "p-176",
+        "text": "“Once or twice. No, three times. Times when there was something I wanted to go to—a dance or a game—and my husband couldn’t take me, or wouldn’t. So I went with Larry, dropping hints, you know, that I’d like to go, then saying okay when he asked. I never did this with him, though. Just with my husband, except that he wasn’t my husband then. Could you sort of run your fingers inside my knees and down the backs of my legs?”"
+      },
+      {
+        "id": "p-177",
+        "text": "I complied. “It might be less awkward if you employed your husband’s name. Use a false one if you like. Tom, Dick, or Harry would do, or even Mortimer.”"
+      },
+      {
+        "id": "p-178",
+        "text": "“That wouldn’t be him, and I don’t want to say it. Aren’t you going to ask if he beat me? I went to the battered women’s shelter once, and they kept coming back to that. I think they wanted me to lie.”"
+      },
+      {
+        "id": "p-179",
+        "text": "“You said that you left home yesterday, and I’ve seen your face. It isn’t bruised.”"
+      },
+      {
+        "id": "p-180",
+        "text": "“Now up here. He didn’t. Oh, he knocked me down a couple times, but not lately. They’re supposed to get drunk and beat you up.”"
+      },
+      {
+        "id": "p-181",
+        "text": "I said that I had heard that before, though I had never understood it."
+      },
+      {
+        "id": "p-182",
+        "text": "“You don’t get mean when you’re drunk.”"
+      },
+      {
+        "id": "p-183",
+        "text": "“I talk too much and too loudly,” I told her, “and I can’t remember names, or the word I want to use. Eventually I grow ashamed and stop talking completely, and drinking as well.”"
+      },
+      {
+        "id": "p-184",
+        "text": "“My husband used to be happy and rowdy—that was before we got married. After, it was sort of funny, because you could see him starting to get mad before he got the top off the first bottle. Isn’t that funny?”"
+      },
+      {
+        "id": "p-185",
+        "text": "“No one can bottle emotions,” I said. “We must bring them to the bottles ourselves.”"
+      },
+      {
+        "id": "p-186",
+        "text": "“Kiss me.”"
+      },
+      {
+        "id": "p-187",
+        "text": "We kissed. I had always thought it absurd to speak of someone enraptured by a kiss, yet I knew a happiness that I had not thought myself capable of."
+      },
+      {
+        "id": "p-188",
+        "text": "“Larry was really smart, like you. Did I say that?”"
+      },
+      {
+        "id": "p-189",
+        "text": "I managed to nod."
+      },
+      {
+        "id": "p-190",
+        "text": "“I want to lie on top of you. Just for a minute or so. Is that all right?”"
+      },
+      {
+        "id": "p-191",
+        "text": "I told her truthfully that I would adore it."
+      },
+      {
+        "id": "p-192",
+        "text": "“You can put your hands anyplace you want, but hold me. That’s good. That’s nice. He was really smart, but he wasn’t good at talking to people. Socially, you know? The stuff he cared about didn’t matter to us, and the stuff we wanted to talk about didn’t matter to him. But I let him kiss me in his dad’s car, and I always danced the first and last numbers with him. Nobody cares about that now, but then they did, where we came from. Larry and my husband and I. I think if he’d kept on drinking—he’d have maybe four or five beers every night, at first—he’d have beaten me to death and that was why he stopped. But he used to threaten. Do you know what I mean?”"
+      },
+      {
+        "id": "p-193",
+        "text": "I said that I might guess, but with no great confidence."
+      },
+      {
+        "id": "p-194",
+        "text": "“Like he’d pick up my big knife in the kitchen, and he’d say, ‘I could stick this right through you—in half a minute it would all be over.’ Or he’d talk about how you could choke somebody with a wire till she died, and while he did he’d be running the lamp cord through his fingers, back and forth. Do you like this?”"
+      },
+      {
+        "id": "p-195",
+        "text": "“Don’t!” I said."
+      },
+      {
+        "id": "p-196",
+        "text": "“I’m sorry; I thought you’d like it.”"
+      },
+      {
+        "id": "p-197",
+        "text": "“I like it too much. Please don’t. Not now.”"
+      },
+      {
+        "id": "p-198",
+        "text": "“He’d talk about other men, how I was playing up to them. Sometimes it was men I hadn’t even noticed. Like we’d go down to the pizza place, and when we got back he’d say, ‘The big guy in the leather jacket—I saw you. He was eating it up, and you couldn’t give him enough, could you? You just couldn’t give him enough.’"
+      },
+      {
+        "id": "p-199",
+        "text": "“And I wouldn’t have seen anybody in a leather jacket. I’d be trying to remember who this was. But when we were in school he was never jealous of Larry, because he knew Larry was just a handy man to me. I kind of liked him the way I kind of liked the little kid next door.”"
+      },
+      {
+        "id": "p-200",
+        "text": "“You got him to help you with your homework,” I said."
+      },
+      {
+        "id": "p-201",
+        "text": "“Yes, I did. How’d you know?”"
+      },
+      {
+        "id": "p-202",
+        "text": "“A flash of insight. I have them occasionally.”"
+      },
+      {
+        "id": "p-203",
+        "text": "“I’d get him to help before a big quiz too. When we were finishing up the semester, in Social Studies or whatever, I wouldn’t have a clue about what she was going to ask on the test, but Larry always knew. He’d tell me half a dozen things, maybe, and five would be right there on the final. A flash of insight, like you said.”"
+      },
+      {
+        "id": "p-204",
+        "text": "“Similar, perhaps.”"
+      },
+      {
+        "id": "p-205",
+        "text": "“But the thing was . . . it was . . . was—”"
+      },
+      {
+        "id": "p-206",
+        "text": "She gulped and gasped so loudly that even I realized she was about to cry. I hugged her, perhaps the most percipient thing I have ever done."
+      },
+      {
+        "id": "p-207",
+        "text": "“I wasn’t going to tell you that, and I guess I’d better not or I’ll bawl. I just wanted to say you’re Larry, because my husband never minded him, not really, or anyhow not very much, and he’d kid around with him in those days, and sometimes Larry’d help him with his homework too.”"
+      },
+      {
+        "id": "p-208",
+        "text": "“You’re right,” I told her, “I am Larry, and your name is Martha Williamson, although she was never half so beautiful as you are and I had nearly forgotten her.”"
+      },
+      {
+        "id": "p-209",
+        "text": "“Have you cooled down enough?”"
+      },
+      {
+        "id": "p-210",
+        "text": "“No. Another five minutes, possibly.”"
+      },
+      {
+        "id": "p-211",
+        "text": "“I hope you don’t get the aches. Do you really think I’m beautiful?”"
+      },
+      {
+        "id": "p-212",
+        "text": "I said I did, and that I could not tell her properly how lovely she was, because she would be sure I lied."
+      },
+      {
+        "id": "p-213",
+        "text": "“My face is too square.”"
+      },
+      {
+        "id": "p-214",
+        "text": "“Absolutely not! Besides, you mean rectangular, surely. It’s not too rectangular either. Any face less rectangular than yours is too square or too round.”"
+      },
+      {
+        "id": "p-215",
+        "text": "“See? You are Larry.”"
+      },
+      {
+        "id": "p-216",
+        "text": "“I know.”"
+      },
+      {
+        "id": "p-217",
+        "text": "“This is what I was going to tell, if I hadn’t gotten all weepy. Let me do it, and after that we’ll . . . You know. Get together.”"
+      },
+      {
+        "id": "p-218",
+        "text": "I nodded, and she must have sensed my nod in a movement of my shoulder, or perhaps a slight motion of the mattress. She was silent for what seemed to me half a minute, if not longer. “Kiss me; then I’ll tell it.”"
+      },
+      {
+        "id": "p-219",
+        "text": "I did."
+      },
+      {
+        "id": "p-220",
+        "text": "“You remember what you said in the kitchen?”"
+      },
+      {
+        "id": "p-221",
+        "text": "“I said far too many things in the kitchen, I’m afraid. I tend to talk too much even when I’m sober. I’m sure I couldn’t recall them all.”"
+      },
+      {
+        "id": "p-222",
+        "text": "“It was before that awful man came in and took my room. I said the people going to Hell were dead, and you said some were and some weren’t. That didn’t make any sense to me till later when I thought about my husband. He was alive, but it was like something was getting a tighter hold on him all the time. Like Hell was reaching right out and grabbing him. He went on so about me looking at other men that I started really doing it. I’d see who was there, trying to figure out which one he’d say when we got home. Then he started bringing up ones that hadn’t been there, people from school—this was after we were out of school and married, and I hadn’t seen a lot of them in years.”"
+      },
+      {
+        "id": "p-223",
+        "text": "I said, “I understand.”"
+      },
+      {
+        "id": "p-224",
+        "text": "“He’d been on the football team and the softball team and run track and all that, and mostly it was those boys he’d talk about, but one time it was the shop teacher. I never even took shop.”"
+      },
+      {
+        "id": "p-225",
+        "text": "I nodded again, I think."
+      },
+      {
+        "id": "p-226",
+        "text": "“But never Larry, so Larry got to be special to me. Most of those boys, well, maybe they looked, but I never looked at them. But I’d really dated Larry, and he’d had his arms around me and even kissed me a couple times, and I danced with him. I could remember the cologne he used to wear, and that checkered wool blazer he had. After graduation most of the boys from our school got jobs with the coal company or in the tractor plant, but Larry won a scholarship to some big school, and after that I never saw him. It was like he’d gone there and died.”"
+      },
+      {
+        "id": "p-227",
+        "text": "“It’s better now,” I said, and I took her hand, just as she had taken mine going upstairs."
+      },
+      {
+        "id": "p-228",
+        "text": "She misunderstood, which may have been fortunate. “It is. It really is. Having you here like this makes it better.” She used my name, but I am determined not to reveal it."
+      },
+      {
+        "id": "p-229",
+        "text": "“Then after we’d been married about four years, I went in the drugstore, and Larry was there waiting for a prescription for his mother. We said hi, and shook hands, and talked about old times and how it was with us, and I got the stuff I’d come for and started to leave. When I got to the door, I thought Larry wouldn’t be looking anymore, so I stopped and looked at him."
+      },
+      {
+        "id": "p-230",
+        "text": "“He was still looking at me.” She gulped. “You’re smart. I bet you guessed, didn’t you?”"
+      },
+      {
+        "id": "p-231",
+        "text": "“I would have been,” I said. I doubt that she heard me."
+      },
+      {
+        "id": "p-232",
+        "text": "“I’ll never, ever, forget that look. He wanted me so bad, just so bad it was tearing him up. My husband starved a dog to death once. His name was Ranger, and he was a bluetick hound. They said he was a good coon dog, and I guess he was. My husband had helped this man with some work, so he gave him Ranger. But my husband used to pull on Ranger’s ears till he’d yelp, and finally Ranger bit his hand. He just locked Ranger up after that and wouldn’t feed him anymore. He’d go out in the yard and Ranger’d be in that cage hoping for him to feed him and knowing he wouldn’t, and that was the way Larry looked at me in the drugstore. It brought it all back, about the dog two years before, and Larry, and lots of other things. But the thing was . . . thing was—”"
+      },
+      {
+        "id": "p-233",
+        "text": "I stroked her hand."
+      },
+      {
+        "id": "p-234",
+        "text": "“He looked at me like that, and I saw it, and when I did I knew I was looking at him that very same way. That was when I decided, except that I thought I’d save up money, and write to Larry when I had enough, and see if he’d help me. Are you all right now?”"
+      },
+      {
+        "id": "p-235",
+        "text": "“No,” I said, because at that moment I could have cut my own throat or thrown myself through the window."
+      },
+      {
+        "id": "p-236",
+        "text": "“He never answered my letters, though. I talked to his mother, and he’s married with two children. I like you better anyway.”"
+      },
+      {
+        "id": "p-237",
+        "text": "Her fingers had resumed explorations. I said, “Now, if you’re ready.”"
+      },
+      {
+        "id": "p-238",
+        "text": "And we did. I felt heavy and clumsy, and it was over far too quickly, yet if I were given what no man actually is, the opportunity to experience a bit of his life a second time, I think I might well choose those moments."
+      },
+      {
+        "id": "p-239",
+        "text": "“Did you like that?”"
+      },
+      {
+        "id": "p-240",
+        "text": "“Yes, very much indeed. Thank you.”"
+      },
+      {
+        "id": "p-241",
+        "text": "“You’re pretty old for another one, aren’t you?”"
+      },
+      {
+        "id": "p-242",
+        "text": "“I don’t know. Wait a few minutes and we’ll see.”"
+      },
+      {
+        "id": "p-243",
+        "text": "“We could try some other way. I like you better than Larry. Have I said that?”"
+      },
+      {
+        "id": "p-244",
+        "text": "I said she had not, and that she had made me wonderfully happy by saying it."
+      },
+      {
+        "id": "p-245",
+        "text": "“He’s married, but I never wrote him. I won’t lie to you much more.”"
+      },
+      {
+        "id": "p-246",
+        "text": "“In that case, may I ask you a question?”"
+      },
+      {
+        "id": "p-247",
+        "text": "“Sure.”"
+      },
+      {
+        "id": "p-248",
+        "text": "“Or two? Perhaps three?”"
+      },
+      {
+        "id": "p-249",
+        "text": "“Go ahead.”"
+      },
+      {
+        "id": "p-250",
+        "text": "“You indicated that you had gone to a school, a boarding school apparently, where you were treated badly. Was it near here?”"
+      },
+      {
+        "id": "p-251",
+        "text": "“I don’t remember about that—I don’t think I said it.”"
+      },
+      {
+        "id": "p-252",
+        "text": "“We were talking about the inscription Dante reported. I believe it ended: Lasciate ogni speranza, voi ch’entrate! ‘Leave all hope, you that enter!’ ”"
+      },
+      {
+        "id": "p-253",
+        "text": "“I said I wouldn’t lie. It’s not very far, but I can’t give you the name of a town you’d know, or anything like that.”"
+      },
+      {
+        "id": "p-254",
+        "text": "“My second—”"
+      },
+      {
+        "id": "p-255",
+        "text": "“Don’t ask anything else about the school. I won’t tell you.”"
+      },
+      {
+        "id": "p-256",
+        "text": "“All right, I won’t. Someone gave your husband a hunting dog. Did your husband hunt deer? Or quail, perhaps?”"
+      },
+      {
+        "id": "p-257",
+        "text": "“Sometimes. I think you’re right. He’d rather have had a bird dog, but the man he helped didn’t raise them.”"
+      },
+      {
+        "id": "p-258",
+        "text": "I kissed her. “You’re in danger, and I think that you must know how much. I’ll help you all I can. I realize how very trite this will sound, but I would give my life to save you from going back to that school, if need be.”"
+      },
+      {
+        "id": "p-259",
+        "text": "“Kiss me again.” There was a new note in her voice, I thought, and it seemed to me that it was hope."
+      },
+      {
+        "id": "p-260",
+        "text": "When we parted, she asked, “Are you going to drive me to St. Louis in the morning?”"
+      },
+      {
+        "id": "p-261",
+        "text": "“I’d gladly take you farther. To New York or Boston or even to San Francisco. It means ‘Saint Francis,’ you know.”"
+      },
+      {
+        "id": "p-262",
+        "text": "“You think you could again?”"
+      },
+      {
+        "id": "p-263",
+        "text": "At her touch, I knew the answer was yes; so did she."
+      },
+      {
+        "id": "p-264",
+        "text": "Afterward she asked, “What was your last question?” and I told her I had no last question."
+      },
+      {
+        "id": "p-265",
+        "text": "“You said one question; then it was two, then three. So what was the last one?”"
+      },
+      {
+        "id": "p-266",
+        "text": "“You needn’t answer.”"
+      },
+      {
+        "id": "p-267",
+        "text": "“All right, I won’t. What was it?”"
+      },
+      {
+        "id": "p-268",
+        "text": "“I was going to ask you in what year you and your husband graduated from high school.”"
+      },
+      {
+        "id": "p-269",
+        "text": "“You don’t mind?”"
+      },
+      {
+        "id": "p-270",
+        "text": "I sighed. “A hundred wise men have said in various ways that love transcends the power of death, and millions of fools have supposed that they meant nothing by it. At this late hour in my life I have learned what they meant. They meant that love transcends death. They are correct.”"
+      },
+      {
+        "id": "p-271",
+        "text": "“Did you think that salesman was really a cop? I think you did. I did too, almost.”"
+      },
+      {
+        "id": "p-272",
+        "text": "“No or yes, depending upon what you mean by cop. But we’ve already talked too much about these things.”"
+      },
+      {
+        "id": "p-273",
+        "text": "“Would you rather I’d do this?”"
+      },
+      {
+        "id": "p-274",
+        "text": "“Yes,” I said, and meant it with every fiber of my being. “I would a thousand times rather have you do that.”"
+      },
+      {
+        "id": "p-275",
+        "text": "After some gentle teasing about my age and inadequacies (the sort of thing that women always do, in my experience, as anticipatory vengeance for the contempt with which they expect to be treated when the sexual act is complete), we slept. In the morning, Eira wore her wedding band to breakfast, where I introduced her to the old woman as my wife, to the old man’s obvious relief. The demon sat opposite me at the table, wolfing down scrambled eggs, biscuits, and homemade sausage he did not require, and from time to time winking at me in an offensive manner that I did my best to tolerate."
+      },
+      {
+        "id": "p-276",
+        "text": "Outside I spoke to him in private while Eira was upstairs searching our room for the hairbrush that I had been careful to leave behind."
+      },
+      {
+        "id": "p-277",
+        "text": "“If you are here to reclaim her,” I told him, “I am your debtor. Thank you for waiting until morning.”"
+      },
+      {
+        "id": "p-278",
+        "text": "He grinned like the trap he was. “Have a nice night?”"
+      },
+      {
+        "id": "p-279",
+        "text": "“Very.”"
+      },
+      {
+        "id": "p-280",
+        "text": "“Swell. You folks think we don’t want you to have any fun. That’s not the way it is at all.” He strove to stifle his native malignancy as he said this, with the result that it showed so clearly I found it difficult not to cringe. “I do you a favor, maybe you’ll do me one sometime. Right?”"
+      },
+      {
+        "id": "p-281",
+        "text": "“Perhaps,” I hedged."
+      },
+      {
+        "id": "p-282",
+        "text": "He laughed. I have heard many actors try to reproduce the hollowness and cruelty of that laugh, but not one has come close. “Isn’t that what keeps you coming back here? Wanting favors? You know we don’t give anything away.”"
+      },
+      {
+        "id": "p-283",
+        "text": "“I hope to learn, and to make myself a better man.”"
+      },
+      {
+        "id": "p-284",
+        "text": "“Touching. You and Dr. Frankenstein.”"
+      },
+      {
+        "id": "p-285",
+        "text": "I forced myself to smile. “I owed you thanks, as I said, and I do thank you. Now I’ll impose upon your good nature, if I may. Two weeks. You spoke of favors, of the possibility of accommodation. I would be greatly in your debt. I am already, as I acknowledge.”"
+      },
+      {
+        "id": "p-286",
+        "text": "Grinning, he shook his head."
+      },
+      {
+        "id": "p-287",
+        "text": "“One week, then. Today is Thursday. Let us have—let me have her until next Thursday.”"
+      },
+      {
+        "id": "p-288",
+        "text": "“Afraid not, pal.”"
+      },
+      {
+        "id": "p-289",
+        "text": "“Three days, then. I recognize that she belongs to you, but you’ll have her for eternity, and she can’t be an important prisoner.”"
+      },
+      {
+        "id": "p-290",
+        "text": "“Inmate. Inmate sounds better.” The demon laid his hand upon my shoulder, and I was horribly conscious of its weight and bone-crushing strength. “You think I let you jump her last night because I’m such a nice guy? You really believe that?”"
+      },
+      {
+        "id": "p-291",
+        "text": "“I was hoping that was the case, yes.”"
+      },
+      {
+        "id": "p-292",
+        "text": "“Bright. Real bright. Just because I got here a little after she did, you think I was trailing her like that flea-bitten dog and I followed her here.” He sniffed, and it was precisely the sniff of a hound on the scent. The hand that held my shoulder drew me to him until I stood with the almost insuperable weight of his entire arm on my shoulders. “Listen here. I don’t have to track anybody. Wherever they are, I am. See?”"
+      },
+      {
+        "id": "p-293",
+        "text": "“I understand.”"
+      },
+      {
+        "id": "p-294",
+        "text": "“If I’d been after her, I’d of had her away from you as soon as I saw her. Only she’s not why I came here, she’s not why I’m leaving, and if I was to grab her all it would do is get me in the soup with the big boys downstairs. I don’t want you either.”"
+      },
+      {
+        "id": "p-295",
+        "text": "“I’m gratified to hear it.”"
+      },
+      {
+        "id": "p-296",
+        "text": "“Swell. If I was to give you a promise, my solemn word of dishonor, you wouldn’t think that was worth shit-paper, would you.”"
+      },
+      {
+        "id": "p-297",
+        "text": "“To the contrary.” Although I was lying in his teeth, I persevered. “I know an angel’s word is sacred, to him at least.”"
+      },
+      {
+        "id": "p-298",
+        "text": "“Okay then. I don’t want her. You wanted a couple of weeks, and I said no deal because I’m letting you have her forever, and vice versa. You don’t know what forever means, whatever you think. But I do.”"
+      },
+      {
+        "id": "p-299",
+        "text": "“Thank you, sir,” I said, and I meant it from the bottom of my soul. “Thank you very, very much.”"
+      },
+      {
+        "id": "p-300",
+        "text": "The demon grinned and took his arm from my shoulders. “I wouldn’t mess around with you or her or a single thing the two of you are going to do together, see? Word of dishonor. The boys downstairs would skin me, because you’re her assignment. So be happy.” He slapped me on the back so hard that he nearly knocked me down."
+      },
+      {
+        "id": "p-301",
+        "text": "Still grinning, he walked around the corner of someone’s camper van. I followed as quickly as I could, but he had disappeared."
+      },
+      {
+        "id": "p-302",
+        "text": "Little remains to tell. I drove Eira to St. Louis, as I had promised, and she left me with a quick kiss in the parking area of the Gateway Arch; we had stopped at a McDonald’s for lunch on the way, and I had scribbled my address and telephone number on a paper napkin there and watched her tuck it into a pocket of the denim shirt she wore. Since then I have had a week in which to consider my adventure, as I said on the first page of this account."
+      },
+      {
+        "id": "p-303",
+        "text": "In the beginning (especially Friday night), I hoped for a telephone call or a midnight summons from my doorbell. Neither came."
+      },
+      {
+        "id": "p-304",
+        "text": "On Monday I went to the library, where I perused the back issues of newspapers; and this evening, thanks to a nephew at an advertising agency, I researched the matter further, viewing twenty-five-and thirty-year-old tapes of news broadcasts. The woman’s name was not Eira, a name that means “snow,” and the name of the husband she had slain with his own shotgun was not Tom, Dick, Harry, or even Mortimer, but I was sure I had found her. (Fairly sure, at least.) She took her own life in jail, awaiting trial."
+      },
+      {
+        "id": "p-305",
+        "text": "She has been in Hell. That, I feel, is the single solid fact, the one thing on which I can rely. But did she escape? Or was she vomited forth?"
+      },
+      {
+        "id": "p-306",
+        "text": "All this has been brought to a head by the card I received today in the mail. It was posted on Monday from St. Louis, and has taken a disgraceful four days to make a journey that the most cautious driver can complete in a few hours. On its front, a tall, beautiful, and astonishingly busty woman is crowding a fearful little man. The caption reads: I want to impress one thing on you."
+      },
+      {
+        "id": "p-307",
+        "text": "Inside the card: My body."
+      },
+      {
+        "id": "p-308",
+        "text": "Beneath that is the scrawled name Eira, and a telephone number. Should I call her? Dare I?"
+      },
+      {
+        "id": "p-309",
+        "text": "Bear in mind (as I must constantly remind myself to) that nothing the demon said can be trusted. Neither can anything that she herself said. She would have had me take her for a living woman, if she could."
+      },
+      {
+        "id": "p-310",
+        "text": "Has the demon devised an excruciating torment for us both?"
+      },
+      {
+        "id": "p-311",
+        "text": "Or for me alone?"
+      },
+      {
+        "id": "p-312",
+        "text": "The telephone is at my elbow as I write. Her card is on my desk. If I dial the number, will I be blundering into the snare, or will I have torn the snare to pieces?"
+      },
+      {
+        "id": "p-313",
+        "text": "Should I call her?"
+      },
+      {
+        "id": "p-314",
+        "text": "A final possibility remains, although I find it almost impossible to write of it."
+      },
+      {
+        "id": "p-315",
+        "text": "What if I am mad?"
+      },
+      {
+        "id": "p-316",
+        "text": "What if Foulweather the salesman merely played up to what he assumed was an elaborate joke? What if my last conversation with him (that is to say, with the demon) was a delusion? What if Eira is in fact the living woman that almost every man in the world would take her for, save I?"
+      },
+      {
+        "id": "p-317",
+        "text": "She cannot have much money and may well be staying for a few days with some chance acquaintance."
+      },
+      {
+        "id": "p-318",
+        "text": "Am I insane? Deluded?"
+      },
+      {
+        "id": "p-319",
+        "text": "Tomorrow she may be gone. One dash three one four—"
+      },
+      {
+        "id": "p-320",
+        "text": "Should I call?"
+      },
+      {
+        "id": "p-321",
+        "text": "Perhaps I may be a man of courage after all, a man who has never truly understood his own character."
+      },
+      {
+        "id": "p-322",
+        "text": "Will I call her? Do I dare?"
+      }
+    ]
+  },
+  {
+    "id": "author-note",
+    "index": 1,
+    "title": "Afterword",
+    "volume": "sources",
+    "kind": "reference",
+    "paragraphs": [
+      {
+        "id": "chapter-title",
+        "text": "Afterword"
+      },
+      {
+        "id": "p-001",
+        "text": "Because its demons are evil, this story is a favorite of Kathe Koja’s."
+      },
+      {
+        "id": "p-002",
+        "text": "I know how she feels. The first writer who presented Satan as a cheerful companion with supernatural powers was giving us an interesting novelty; that novelty has become the norm. Speaking not for Kathe but for myself alone, I have had it with little giants, chatty dragons, bumbling invaders, and their ilk. If you enjoyed this story, I hope you’ll look into The Knight, a book that tries to return giants, dragons, and invaders to their roots—a book in which the knights who wage war on all three are hard-bitten fighting men."
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "book": "sweet-forest-maid",
+  "sourceFiles": {
+    "endangered": {
+      "file": "_OceanofPDF.com_Endangered_Species_-_Gene_Wolfe.epub",
+      "sha256": "4b14835109c591ac7460743370fe051fad2785f9ad0e6567b9cf41f89e060c4b"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "endangered",
+      "files": [
+        "OEBPS/e9781429966214_c29.html"
+      ],
+      "sourceTextSha256": "eb79c9e1661de20d1b36afbd61c7ade7492bc04eec74e6a6f92183521bced40e",
+      "textSha256": "eb79c9e1661de20d1b36afbd61c7ade7492bc04eec74e6a6f92183521bced40e",
+      "blocks": 22
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

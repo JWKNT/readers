@@ -1,0 +1,42 @@
+[
+  {
+    "id": "hunting-song-of-the-seeonee-pack",
+    "term": "Hunting Song of the Seeonee Pack",
+    "aliases": [],
+    "short": "Kipling’s poem of a wolf-pack hunt.",
+    "note": "The hunting chant of the Seeonee wolves in Rudyard Kipling’s The Jungle Book (1894).",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/236/pg236-images.html",
+        "label": "Rudyard Kipling: The Jungle Book"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-006",
+      "index": 0
+    }
+  },
+  {
+    "id": "tarsus",
+    "term": "tarsus",
+    "aliases": [],
+    "short": "The cluster of bones at the ankle.",
+    "note": "The ankle region, especially the bones between the lower leg and the metatarsals of the foot.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-131",
+      "index": 0
+    }
+  }
+]

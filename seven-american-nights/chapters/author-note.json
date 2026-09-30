@@ -1,0 +1,22 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 124,
+  "startWords": 22086,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">Have you read <em>The last camel died at noon</em>? It’s a mystery by Elizabeth Peters, and stars a young and attractive Egyptologist named Amelia Peabody. (Do you think there are no attractive young Egyptologists? I know one.) I love those books, and I love the Victorians who probed Africa when almost nothing was known about it. Sir Samuel Baker, that hero of boys’ stories come to life, the wellborn Englishman who bought his wife at a slave auction, is a hero of mine and always will be.</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">What about us? Who will probe our ruins? Who will come to Washington as we come to Athens? There are myriad ways to answer these questions. The story you have just read is only one of them.</p>\n</div></blockquote></blockquote>"
+}

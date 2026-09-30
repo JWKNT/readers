@@ -1,0 +1,94 @@
+[
+  {
+    "id": "falchion",
+    "term": "falchion",
+    "aliases": [],
+    "short": "A single-edged cutting sword.",
+    "note": "A single-edged sword with a blade suited to cutting.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/falchion",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "evidence": "d. That leaves you the sword, Randy.” Bev handed it to him. It was a falchion, he decided, curved and single edged. After testing the edge with his finger, he laid it "
+  },
+  {
+    "id": "randolph-carter",
+    "term": "Randolph Carter",
+    "aliases": [],
+    "short": "Lovecraft’s recurring dream-traveler.",
+    "note": "A recurring character in H. P. Lovecraft’s fiction, including The Dream-Quest of Unknown Kadath, in which he seeks a marvelous city glimpsed in dreams.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/dq.aspx",
+        "label": "H. P. Lovecraft: The Dream-Quest of Unknown Kadath"
+      }
+    ],
+    "evidence": "into his pocket, shuffled the cards, and read the top one. You are Randolph Carter.Three times you have dreamedof the marvelous city, Randolph Carter,and three times you ha"
+  },
+  {
+    "id": "gate-of-deeper-slumber",
+    "term": "Gate of Deeper Slumber",
+    "aliases": [
+      "Enchanted Wood"
+    ],
+    "short": "A threshold of Lovecraft’s dream realm.",
+    "note": "The gate reached by descending seven hundred steps in H. P. Lovecraft’s The Dream-Quest of Unknown Kadath; beyond it lies the Enchanted Wood.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/dq.aspx",
+        "label": "H. P. Lovecraft: The Dream-Quest of Unknown Kadath"
+      }
+    ],
+    "evidence": "p the card for her. You must descend the seven hundred stepsto the Gate of Deeper Slumber.You may enter the Enchanted Woodor claim the sword Sacnoth.Which do you choose? Debbie"
+  },
+  {
+    "id": "sacnoth",
+    "term": "Sacnoth",
+    "aliases": [],
+    "short": "The enchanted sword in a Lord Dunsany tale.",
+    "note": "The magical sword wielded by Leothric in Lord Dunsany’s “The Fortress Unvanquishable, Save for Sacnoth” (1908), able to overcome an otherwise impregnable fortress.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://teachers.americanliterature.com/author/lord-dunsany/short-story/the-fortress-unvanquishable-save-for-sacnoth",
+        "label": "Lord Dunsany: The Fortress Unvanquishable, Save for Sacnoth"
+      }
+    ],
+    "evidence": " of Deeper Slumber.You may enter the Enchanted Woodor claim the sword Sacnoth.Which do you choose? Debbie said, “I take the Enchanted Wood. That leaves you the swor"
+  },
+  {
+    "id": "thomas-olney",
+    "term": "Thomas Olney",
+    "aliases": [],
+    "short": "A visitor to Lovecraft’s uncanny hilltop house.",
+    "note": "The philosopher who visits a mysterious house above Kingsport in H. P. Lovecraft’s “The Strange High House in the Mist” (1926).",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/shh.aspx",
+        "label": "H. P. Lovecraft: The Strange High House in the Mist"
+      }
+    ],
+    "evidence": " clothes. Bev asked, “ ‘Where did the fictional American philosopher Thomas Olney teach?’ Ed?” “A fictional philosopher? Harvard, I suppose. Is it John Updike?” “Wrong. "
+  },
+  {
+    "id": "kingsport",
+    "term": "Kingsport",
+    "aliases": [],
+    "short": "Lovecraft’s fictional Massachusetts seaport.",
+    "note": "A fictional Massachusetts coastal town in H. P. Lovecraft’s fiction, including “The Strange High House in the Mist.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.hplovecraft.com/writings/texts/fiction/shh.aspx",
+        "label": "H. P. Lovecraft: The Strange High House in the Mist"
+      }
+    ],
+    "evidence": "r wasp at all—a bluebottle, no doubt gorged with carrion. Bev said, “Kingsport, Massachusetts.” With an ivory hand, Edgar moved an ivory chessman. “Knight to the king’"
+  }
+]

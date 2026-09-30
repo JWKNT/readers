@@ -1,0 +1,242 @@
+[
+  {
+    "id": "sarg",
+    "term": "Sarg",
+    "aliases": [],
+    "short": "Possibly puppeteer Tony Sarg.",
+    "note": "Possibly Tony Sarg, the puppeteer and illustrator who created touring marionette productions and designed the giant balloons used in Macy’s Thanksgiving parade.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.aaa.si.edu/collections/tony-sarg-papers-8615",
+        "label": "Smithsonian Archives of American Art: Tony Sarg"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-001",
+      "index": 0
+    }
+  },
+  {
+    "id": "zanni",
+    "term": "Zanni",
+    "aliases": [],
+    "short": "The comic servants of commedia dell’arte.",
+    "note": "The servant characters of Italian commedia dell’arte, whose jokes, tricks, and acrobatics drive its improvised comedies. The English word zany derives from their name.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/en/essays/commedia-dellarte",
+        "label": "The Metropolitan Museum of Art: commedia dell’arte"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-020",
+      "index": 0
+    }
+  },
+  {
+    "id": "columbine",
+    "term": "Columbine",
+    "aliases": [],
+    "short": "The clever maid of commedia dell’arte.",
+    "note": "Colombina or Columbine is the quick-witted maidservant of Italian commedia dell’arte, commonly associated with Harlequin.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/en/essays/commedia-dellarte",
+        "label": "The Metropolitan Museum of Art: commedia dell’arte"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-024",
+      "index": 0
+    }
+  },
+  {
+    "id": "sarah-van-fleet",
+    "term": "Sarah Van Fleet",
+    "aliases": [],
+    "short": "A fragrant pink rugosa rose cultivar.",
+    "note": "Rosa ‘Sarah van Fleet’ is a vigorous, thorny shrub rose with fragrant, semi-double pink flowers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.rhs.org.uk/plants/39337/rosa-sarah-van-fleet-ru/details",
+        "label": "Royal Horticultural Society: Sarah van Fleet"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-002",
+      "index": 0
+    }
+  },
+  {
+    "id": "joruri",
+    "term": "Joruri",
+    "aliases": [],
+    "short": "Japanese chanted puppet-theatre narration.",
+    "note": "Jōruri is dramatic narration performed with shamisen accompaniment. In ningyō jōruri, also called bunraku, chanters and musicians work with puppeteers to perform the drama.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bunraku.library.columbia.edu/texts-of-bunraku/",
+        "label": "Columbia University: texts of bunraku"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-060",
+      "index": 0
+    }
+  },
+  {
+    "id": "craquelure",
+    "term": "craquelure",
+    "aliases": [],
+    "short": "A network of fine surface cracks.",
+    "note": "The fine cracking of paint, varnish, glaze, or enamel on an artwork, often produced as its layers age.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/craquelure",
+        "label": "Merriam-Webster: craquelure"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-038",
+      "index": 0
+    }
+  },
+  {
+    "id": "under-the-rose",
+    "term": "under the rose",
+    "aliases": [],
+    "short": "In secrecy; the English form of sub rosa.",
+    "note": "An expression meaning confidentially or in secret, translating the Latin sub rosa, literally “under the rose.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sub%20rosa",
+        "label": "Merriam-Webster: sub rosa"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-059",
+      "index": 0
+    }
+  },
+  {
+    "id": "coloratura-soprano",
+    "term": "coloratura soprano",
+    "aliases": [],
+    "short": "A high voice agile in elaborate ornament.",
+    "note": "A soprano suited to elaborate runs, leaps, trills, and other rapid vocal ornament.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://operabox.nationalopera.gr/en/ti-einai-i-opera/fones-kai-eidikotites/",
+        "label": "Greek National Opera: voice types"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-024",
+      "index": 0
+    }
+  },
+  {
+    "id": "mezzo-soprano",
+    "term": "mezzo-soprano",
+    "aliases": [],
+    "short": "The middle female classical voice range.",
+    "note": "A classical singing voice lying between soprano and contralto in range and characteristic tone.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://operabox.nationalopera.gr/en/ti-einai-i-opera/fones-kai-eidikotites/",
+        "label": "Greek National Opera: voice types"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-024",
+      "index": 0
+    }
+  },
+  {
+    "id": "contralto",
+    "term": "contralto",
+    "aliases": [],
+    "short": "The lowest standard female classical voice.",
+    "note": "The lowest of the usual female classical voice categories, below mezzo-soprano and soprano.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://operabox.nationalopera.gr/en/ti-einai-i-opera/fones-kai-eidikotites/",
+        "label": "Greek National Opera: voice types"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-024",
+      "index": 0
+    }
+  },
+  {
+    "id": "stromboli",
+    "term": "Stromboli",
+    "aliases": [],
+    "short": "Possibly the puppet-show proprietor in Pinocchio.",
+    "note": "Possibly Stromboli, the puppet-show proprietor in Disney’s animated Pinocchio (1940).",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://d23.com/a-to-z/stromboli/",
+        "label": "Disney D23: Stromboli"
+      }
+    ],
+    "occurrences": 19,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-003",
+      "index": 0
+    }
+  },
+  {
+    "id": "the-barber-of-seville",
+    "term": "The Barber of Seville",
+    "aliases": [],
+    "short": "The Figaro comedy made famous by Rossini’s opera.",
+    "note": "Beaumarchais’s comedy about the resourceful barber Figaro and the courtship of Rosine, called Rosina in Rossini’s 1816 operatic adaptation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metopera.org/learn/education/timeline-rossini/",
+        "label": "Metropolitan Opera: The Barber of Seville"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-024",
+      "index": 0
+    }
+  }
+]

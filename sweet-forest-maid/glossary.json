@@ -1,0 +1,42 @@
+[
+  {
+    "id": "gitche-manitou",
+    "term": "Gitche-Manitou",
+    "aliases": [],
+    "short": "Ojibwe: the Great Spirit or Creator.",
+    "note": "An English rendering of Ojibwe gichi-manidoo, “great spirit,” “god,” or “the creator.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ojibwe.lib.umn.edu/main-entry/gichi-manidoo-na",
+        "label": "Ojibwe People’s Dictionary · gichi-manidoo"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
+  },
+  {
+    "id": "gigantopithecus",
+    "term": "Gigantopithecus",
+    "aliases": [],
+    "short": "An extinct genus of large Asian apes.",
+    "note": "A genus of extinct apes. Gigantopithecus blacki, known from fossil teeth and jaws in southern China, was an exceptionally large primate that disappeared during the Pleistocene.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nature.com/articles/s41586-023-06900-0",
+        "label": "Zhang et al. · The demise of Gigantopithecus blacki"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "verdigris",
+    "term": "verdigris",
+    "aliases": [
+      "verdigris"
+    ],
+    "note": "Green or blue-green corrosion products on copper and its alloys; also a historical pigment name.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/verdigris",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "Greenish corrosion on copper or its alloys.",
+    "possible": false,
+    "evidence": "Reused previously sourced external note, context checked c27: ed it to her. It was old and rusted, its bronze hilt grass-green with verdigris; but its edges were newly ground and looked sharp. “Couldn’t you have used it to cut through the br"
+  },
+  {
+    "id": "sough",
+    "term": "sough",
+    "short": "A low sighing or moaning sound.",
+    "note": "A low, continuous sighing, rushing, or moaning sound, especially the sound of wind among trees or through a narrow opening. The verb means to make that sound.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sough",
+        "label": "Merriam-Webster · sough"
+      }
+    ],
+    "aliases": [
+      "soughing",
+      "soughed"
+    ],
+    "possible": false,
+    "evidence": "Reused previously sourced external note, context checked c27: lump above her left temple; with them came a deep inhalation like the soughing of needle-trees. Michael said, “She is sorry that you’re hurt.” “Can’t she talk? How do you know he"
+  },
+  {
+    "id": "meirax",
+    "term": "Meirax",
+    "aliases": [],
+    "short": "Possibly Greek meirax: a young girl.",
+    "note": "Possibly Greek meîrax (μεῖραξ), a young girl or lass; some later Greek writers also use it for a boy or lad.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Alsj-n65754/",
+        "label": "Liddell–Scott–Jones · μεῖραξ"
+      }
+    ],
+    "evidence": "c27:  Endangered Species Lukora THIS is my report, the report of Meirax Andros, alone. Michael is not with me; Michael may be dead. On 11J89 we chose this site, landed, and set up camp. Here a good-sized stream "
+  }
+]

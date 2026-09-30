@@ -1,0 +1,20 @@
+[
+  {
+    "id": "divan",
+    "term": "divan",
+    "aliases": [
+      "divan",
+      "divans"
+    ],
+    "note": "A long, low couch, often without a back or arms.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/divan",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A low couch or cushioned seat.",
+    "possible": false,
+    "evidence": "Reused previously sourced external note, context checked c24:  the first time, she too sat, perching on the edge of her high-backed divan. “Then with you is better.” Krasilnikov smiled. “I like to think so.” “And your fees?” He knew how "
+  }
+]

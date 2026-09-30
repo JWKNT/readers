@@ -1,0 +1,78 @@
+{
+  "schema": 1,
+  "id": "on-the-train",
+  "title": "On the Train",
+  "author": "Gene Wolfe",
+  "volumes": [
+    {
+      "id": "text",
+      "title": "On the Train",
+      "chapters": 1
+    },
+    {
+      "id": "sources",
+      "title": "Supplementary material",
+      "chapters": 0,
+      "referenceTitle": "Afterword"
+    }
+  ],
+  "totalWords": 460,
+  "defaultChapter": "story",
+  "glossaryCount": 1,
+  "correctionCount": 0,
+  "editionVersion": 13,
+  "chapters": [
+    {
+      "id": "story",
+      "title": "On the Train",
+      "volume": "text",
+      "volumeTitle": "On the Train",
+      "number": 1,
+      "label": "",
+      "kind": "chapter",
+      "index": 0,
+      "layout": "prose",
+      "blocks": [
+        "p-001",
+        "p-002",
+        "p-003",
+        "p-004",
+        "p-005",
+        "p-006"
+      ],
+      "sections": [],
+      "headingNoteAnchors": [],
+      "headingHtml": "On the Train",
+      "noteAnchors": [
+        {
+          "term": "great-circle",
+          "paragraph": "p-005"
+        }
+      ],
+      "words": 460,
+      "startWords": 0
+    },
+    {
+      "id": "author-note",
+      "title": "Afterword",
+      "volume": "sources",
+      "volumeTitle": "Supplementary material",
+      "number": 2,
+      "label": "",
+      "kind": "reference",
+      "index": 1,
+      "layout": "prose",
+      "blocks": [
+        "p-001",
+        "p-002",
+        "p-003"
+      ],
+      "sections": [],
+      "headingNoteAnchors": [],
+      "headingHtml": "Afterword",
+      "noteAnchors": [],
+      "words": 203,
+      "startWords": 460
+    }
+  ]
+}

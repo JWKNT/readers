@@ -1,0 +1,146 @@
+[
+  {
+    "id": "candelabrum",
+    "term": "candelabrum",
+    "aliases": [
+      "candelabra"
+    ],
+    "short": "A branched candleholder.",
+    "note": "A branched stand holding several candles.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/candelabrum",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "ashlar",
+    "term": "ashlar",
+    "aliases": [
+      "ashlars"
+    ],
+    "short": "Squared stone cut for regular masonry.",
+    "note": "Stone cut into squared blocks with finished faces for building walls.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ashlar",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-006",
+      "index": 0
+    }
+  },
+  {
+    "id": "clio",
+    "term": "Clio",
+    "aliases": [],
+    "short": "Possibly Clio, the Greek Muse of history.",
+    "note": "Possibly Clio, the Muse of history in Greek tradition, conventionally portrayed with a scroll or book.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.britishmuseum.org/collection/object/P_1898-0401-24",
+        "label": "British Museum: Clio writing history"
+      }
+    ],
+    "occurrences": 11,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "joe-nuxhall",
+    "term": "Joe Nuxhall",
+    "aliases": [],
+    "short": "A famously young baseball debutant.",
+    "note": "Cincinnati Reds pitcher who made his major-league debut aged fifteen in 1944.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.mlb.com/amp/news/joe-nuxhall-youngest-player-in-al-nl-history.html",
+        "label": "Major League Baseball: Joe Nuxhall"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-245",
+      "index": 0
+    }
+  },
+  {
+    "id": "dick-whittington",
+    "term": "Dick Whittington",
+    "aliases": [],
+    "short": "The London folk hero whose cat makes his fortune.",
+    "note": "The legendary poor boy who goes to London and becomes wealthy through his remarkable cat, eventually serving as Lord Mayor. The legend attaches to the historical merchant Richard Whittington.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/17652/pg17652-images.html",
+        "label": "The History of Sir Richard Whittington"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-046",
+      "index": 0
+    }
+  },
+  {
+    "id": "potemkin-village",
+    "term": "Potemkin village",
+    "aliases": [],
+    "short": "A deceptive show of prosperity or success.",
+    "note": "An impressive outward display intended to conceal an undesirable reality; named for allegedly staged villages shown to Catherine the Great by Grigory Potemkin.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Potemkin%20village",
+        "label": "Merriam-Webster: Potemkin village"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-128",
+      "index": 0
+    }
+  },
+  {
+    "id": "kali",
+    "term": "Kali",
+    "aliases": [],
+    "short": "A fierce Hindu goddess and divine mother.",
+    "note": "A Hindu goddess associated with destruction, protection, and the power of the divine mother, often depicted with weapons and a garland of severed heads.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/24318",
+        "label": "The Metropolitan Museum of Art: Kali and sacrificial weapons"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-235",
+      "index": 0
+    }
+  }
+]

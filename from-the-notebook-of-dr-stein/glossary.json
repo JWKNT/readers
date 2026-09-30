@@ -1,0 +1,102 @@
+[
+  {
+    "id": "cerletti",
+    "term": "Cerletti",
+    "aliases": [],
+    "short": "One of the Italian pioneers of electroconvulsive therapy.",
+    "note": "Ugo Cerletti and Lucio Bini, Italian physicians who introduced electroconvulsive therapy in Rome in April 1938. Bini designed the original electrical apparatus.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://rosa.uniroma1.it/rosa01/medicina_nei_secoli/article/view/69",
+        "label": "Sapienza Museum of Medical History · Bini–Cerletti apparatus"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-042",
+      "index": 0
+    }
+  },
+  {
+    "id": "bini",
+    "term": "Bini",
+    "aliases": [],
+    "short": "One of the Italian pioneers of electroconvulsive therapy.",
+    "note": "Ugo Cerletti and Lucio Bini, Italian physicians who introduced electroconvulsive therapy in Rome in April 1938. Bini designed the original electrical apparatus.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://rosa.uniroma1.it/rosa01/medicina_nei_secoli/article/view/69",
+        "label": "Sapienza Museum of Medical History · Bini–Cerletti apparatus"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-048",
+      "index": 0
+    }
+  },
+  {
+    "id": "alienist",
+    "term": "alienist",
+    "aliases": [],
+    "short": "An old term for a psychiatrist.",
+    "note": "A physician who specializes in mental disorders; an older term for a psychiatrist.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/alienist",
+        "label": "Collins · alienist"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "blutsauger",
+    "term": "Blutsauger",
+    "aliases": [],
+    "short": "German: bloodsucker or vampire.",
+    "note": "German Blutsauger means a bloodsucker, literally or figuratively, and can mean a vampire.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/german-english/blutsauger",
+        "label": "Collins German–English · Blutsauger"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-053",
+      "index": 0
+    }
+  },
+  {
+    "id": "freud",
+    "term": "Freud",
+    "aliases": [],
+    "short": "Sigmund Freud, founder of psychoanalysis.",
+    "note": "Sigmund Freud (1856–1939), the Austrian physician who developed psychoanalysis, emphasizing unconscious mental processes and the interpretation of dreams.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.freud.org.uk/wp-content/uploads/2018/01/What-is-Psychoanalysis.pdf",
+        "label": "Freud Museum · What is Psychoanalysis?"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-053",
+      "index": 0
+    }
+  }
+]

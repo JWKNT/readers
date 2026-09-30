@@ -1,0 +1,94 @@
+[
+  {
+    "id": "a-psychological-shipwreck",
+    "term": "A Psychological Shipwreck",
+    "aliases": [
+      "Ambrose Bierce"
+    ],
+    "short": "An 1879 supernatural tale by Ambrose Bierce.",
+    "note": "A supernatural tale by Ambrose Bierce, first published in 1879 and collected in Can Such Things Be? (1893).",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://loa-shared.s3.amazonaws.com/static/pdf/Bierce_Shipwreck.pdf",
+        "label": "Library of America · A Psychological Shipwreck"
+      }
+    ],
+    "evidence": "c35: moned from below, joined the first officer … “Good God!” I heard him exclaim. —Ambrose Bierce, A Psychological Shipwreck THE bulkheads of the compartment were white panels. Not plastic (Johann might have preferred plastic, with its "
+  },
+  {
+    "id": "dostoevski",
+    "term": "Dostoevski",
+    "aliases": [],
+    "short": "Fyodor Dostoevsky, author of Notes from Underground.",
+    "note": "Fyodor Dostoevsky (1821–1881), Russian novelist. Notes from Underground (1864) is presented as the confessions and recollections of an isolated, argumentative former official.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/600/pg600-images.html",
+        "label": "Dostoevsky · Notes from Underground"
+      }
+    ],
+    "evidence": "c35: machines and calculators. Now Johann had a fleeting vision of the little man in Dostoevski’s Notes from the Underground, hunched beneath the floor of some neglected storeroom in a remote module. He said, “Before that. I asked if y"
+  },
+  {
+    "id": "seven-gothic-tales",
+    "term": "Seven Gothic Tales",
+    "aliases": [],
+    "short": "A collection by Isak Dinesen, the pen name of Karen Blixen.",
+    "note": "Seven Gothic Tales, a collection by the Danish writer Karen Blixen under her pen name Isak Dinesen, combining Gothic mystery with psychologically intricate narration.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.penguinrandomhouse.com/books/41095/seven-gothic-tales-by-isak-dinesen/",
+        "label": "Penguin Random House · Seven Gothic Tales"
+      }
+    ],
+    "evidence": "c35:  two-person game.” “I know.” This time Johann showed a volume of short stories, Seven Gothic Tales; the other man a book of verse, The Wild Knight. “Buy,” Johann said. He handed over the short stories, and the history of the Afro-Brazilia"
+  },
+  {
+    "id": "the-wild-knight",
+    "term": "The Wild Knight",
+    "aliases": [],
+    "short": "A collection of poems by G. K. Chesterton.",
+    "note": "The Wild Knight and Other Poems, a poetry collection by G. K. Chesterton, including a dramatic poem of the same name.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/12037",
+        "label": "G. K. Chesterton · The Wild Knight and Other Poems"
+      }
+    ],
+    "evidence": "c35: d a volume of short stories, Seven Gothic Tales; the other man a book of verse, The Wild Knight. “Buy,” Johann said. He handed over the short stories, and the history of the Afro-Brazilian Wars that had been concealed in his left hand,"
+  },
+  {
+    "id": "algol",
+    "term": "Algol",
+    "aliases": [],
+    "short": "A star system in Perseus with regularly recurring eclipses.",
+    "note": "Beta Persei, traditionally called the Demon Star. Two of its stars orbit so that one periodically eclipses the other as seen from Earth, causing regular changes in brightness.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://heasarc.gsfc.nasa.gov/docs/rosat/gallery/clus_perseus.html",
+        "label": "NASA HEASARC · Algol"
+      }
+    ],
+    "evidence": "c35: immed at the edges as he watched: Night was coming from the east, the shadow of Algol’s dark companion from the west. “Why not Gretchen? You know, the new girl down in the galley. Horst says she’s very fine.” Johann shook his"
+  },
+  {
+    "id": "dore",
+    "term": "Dore",
+    "aliases": [],
+    "short": "Gustave Doré, illustrator of the Bible.",
+    "note": "Gustave Doré (1832–1883), French artist whose dramatic designs illustrated both the Old and New Testaments in a widely reproduced nineteenth-century Bible.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.themorgan.org/drawings/item/109731",
+        "label": "Morgan Library · Doré’s Bible illustrations"
+      }
+    ],
+    "evidence": "c35: e, so that the little plastic case flashed like a diamond. “Or trade? I got the Dore New Testament here. There’s hours of entertainment in a Dore New Testament. Everybody’s after them.” “What else have you got?” Johann seate"
+  }
+]

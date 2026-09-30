@@ -1,0 +1,1221 @@
+[
+  {
+    "id": "cerberus",
+    "term": "Cerberus",
+    "aliases": [],
+    "short": "The hound guarding the Greek underworld.",
+    "note": "The monstrous dog guarding the entrance to Hades, commonly depicted with three heads. Bringing Cerberus to the upper world was the last of Heracles’ twelve labors.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Ther/KuonKerberos.html",
+        "label": "Theoi: classical sources on Cerberus"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "chapter-title",
+      "index": 0
+    }
+  },
+  {
+    "id": "phaedria",
+    "term": "Phaedria",
+    "aliases": [],
+    "short": "Possibly Spenser’s alluring boatwoman in The Faerie Queene.",
+    "note": "Possibly Phaedria, the pleasure-loving woman who ferries travelers across the Idle Lake in Book II of Edmund Spenser’s The Faerie Queene. The name is associated with Greek phaidros, “bright” or “cheerful.”",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://talus.artsci.wustl.edu/spenserArchivePrototype/html/fq1590.bk2_canto_6.html",
+        "label": "Washington University: Spenser Archive, Book II, Canto VI"
+      }
+    ],
+    "occurrences": 54,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-206",
+      "index": 0
+    }
+  },
+  {
+    "id": "nerissa",
+    "term": "Nerissa",
+    "aliases": [],
+    "short": "Possibly Portia’s attendant in The Merchant of Venice.",
+    "note": "Possibly Nerissa, Portia’s attendant and confidante in Shakespeare’s The Merchant of Venice. She accompanies Portia to Venice in disguise and marries Gratiano.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.folger.edu/explore/shakespeares-works/the-merchant-of-venice/read/",
+        "label": "Folger Shakespeare Library: The Merchant of Venice"
+      }
+    ],
+    "occurrences": 14,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-154",
+      "index": 0
+    }
+  },
+  {
+    "id": "monday-or-tuesday",
+    "term": "Monday or Tuesday",
+    "aliases": [],
+    "short": "Virginia Woolf’s 1921 collection of experimental short fiction.",
+    "note": "A collection of eight short stories by Virginia Woolf, published by the Hogarth Press in 1921 with woodcuts by Vanessa Bell. It includes “Kew Gardens,” “A Haunted House,” and “A Society.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.smith.edu/libraries/libs/rarebook/exhibitions/penandpress/case6a.htm",
+        "label": "Smith College Libraries: Monday or Tuesday"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-023",
+      "index": 0
+    }
+  },
+  {
+    "id": "poictesme",
+    "term": "Poictesme",
+    "aliases": [],
+    "short": "James Branch Cabell’s imaginary medieval French province.",
+    "note": "The setting of James Branch Cabell’s interconnected fantasies, collectively called the Biography of the Life of Manuel. Its name combines suggestions of Poitiers and Angoulême.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://jamesbranchcabell.library.vcu.edu/inspired-by-cabell/maps-of-poictesme/",
+        "label": "Virginia Commonwealth University Libraries: Maps of Poictesme"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "a-story",
+      "paragraph": "p-367",
+      "index": 1
+    }
+  },
+  {
+    "id": "marquis-of-carabas",
+    "term": "Marquis of Carabas",
+    "aliases": [],
+    "short": "The invented noble title in Puss in Boots.",
+    "note": "In Charles Perrault’s Puss in Boots, a resourceful cat presents his poor master as the wealthy Marquis of Carabas and contrives to obtain a castle and royal marriage for him.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/33511/pg33511-images.html",
+        "label": "Charles Perrault: Tales of Passed Time"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-971",
+      "index": 2
+    }
+  },
+  {
+    "id": "gondwanaland",
+    "term": "Gondwanaland",
+    "aliases": [],
+    "short": "The ancient southern supercontinent, also called Gondwana.",
+    "note": "A former supercontinent that joined the landmasses now represented by South America, Africa, Antarctica, Australia, India, and neighboring regions. Its breakup helped produce the modern arrangement of continents.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.usgs.gov/educational-resources/plate-tectonics",
+        "label": "U.S. Geological Survey: Plate Tectonics"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-051",
+      "index": 0
+    }
+  },
+  {
+    "id": "roncevaux",
+    "term": "Roncevaux",
+    "aliases": [],
+    "short": "Possibly Roncesvalles, the Pyrenean pass associated with Roland.",
+    "note": "Possibly the French name of Roncesvalles in the Pyrenees, associated with the defeat of Charlemagne’s rearguard in 778 and the medieval Song of Roland.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.visitnavarra.es/fr/roncesvalles/",
+        "label": "Navarre Tourist Board: Orreaga–Roncevaux"
+      }
+    ],
+    "occurrences": 17,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-060",
+      "index": 2
+    }
+  },
+  {
+    "id": "dollos-law",
+    "term": "Dollo’s Law",
+    "aliases": [
+      "Law of the Irreversibility of Evolution"
+    ],
+    "short": "A historical principle of evolutionary irreversibility.",
+    "note": "Louis Dollo’s principle that evolution does not exactly retrace its earlier course, often expressed as the improbability of regaining a lost complex feature. Modern research identifies exceptions to a strict ban on reacquisition.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39443236/",
+        "label": "Elmer and Clobert: Dollo’s law in the post-genomic age"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-812",
+      "index": 2
+    }
+  },
+  {
+    "id": "saltimbanque",
+    "term": "Saltimbanque",
+    "aliases": [],
+    "short": "French: a street entertainer or acrobat.",
+    "note": "A French word for an itinerant performer, acrobat, or fairground entertainer; also used figuratively for a buffoon or charlatan.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://cnrtl.fr/definition/academie4/saltimbanque",
+        "label": "CNRTL / Académie française: saltimbanque"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-019",
+      "index": 0
+    }
+  },
+  {
+    "id": "asticot",
+    "term": "Asticot",
+    "aliases": [],
+    "short": "French: a maggot or small worm used as fishing bait.",
+    "note": "A French word for a fly larva or maggot, particularly one used as fishing bait. Its ultimate origin is uncertain.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cnrtl.fr/etymologie/asticot",
+        "label": "CNRTL: asticot"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-019",
+      "index": 0
+    }
+  },
+  {
+    "id": "angelus",
+    "term": "angelus",
+    "aliases": [],
+    "short": "A Christian devotion recalling the Annunciation.",
+    "note": "A Christian devotion recalling the Annunciation, traditionally recited morning, noon, and evening.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/angelus",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-265",
+      "index": 0
+    }
+  },
+  {
+    "id": "fennec",
+    "term": "fennec",
+    "aliases": [
+      "fennecs"
+    ],
+    "short": "A small desert fox with very large ears.",
+    "note": "A small desert fox distinguished by very large ears.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/fennec",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-208",
+      "index": 2
+    }
+  },
+  {
+    "id": "divan",
+    "term": "divan",
+    "aliases": [
+      "divans"
+    ],
+    "short": "A low couch or cushioned seat.",
+    "note": "A long, low couch, often without a back or arms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/divan",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-123",
+      "index": 0
+    }
+  },
+  {
+    "id": "carapace",
+    "term": "carapace",
+    "aliases": [
+      "carapaces"
+    ],
+    "short": "A hard protective shell.",
+    "note": "The hard protective covering over an animal’s back, especially the upper shell of a turtle.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carapace",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-228",
+      "index": 0
+    }
+  },
+  {
+    "id": "sotto-voce",
+    "term": "sotto voce",
+    "aliases": [],
+    "short": "In a quiet or lowered voice.",
+    "note": "In a low, quiet voice.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sotto%20voce",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-154",
+      "index": 0
+    }
+  },
+  {
+    "id": "serried",
+    "term": "serried",
+    "aliases": [],
+    "short": "Closely packed in rows.",
+    "note": "Packed closely together in rows or ranks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/serried",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "a-story",
+      "paragraph": "p-215",
+      "index": 1
+    }
+  },
+  {
+    "id": "escritoire",
+    "term": "escritoire",
+    "aliases": [
+      "escritoires"
+    ],
+    "short": "A small writing desk.",
+    "note": "A small writing desk with drawers or compartments for papers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/escritoire",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-219",
+      "index": 0
+    }
+  },
+  {
+    "id": "sinecure",
+    "term": "sinecure",
+    "aliases": [
+      "sinecures"
+    ],
+    "short": "A paid position requiring little work.",
+    "note": "A paid position requiring little or no work.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sinecure",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-231",
+      "index": 2
+    }
+  },
+  {
+    "id": "weir",
+    "term": "weir",
+    "aliases": [
+      "weirs"
+    ],
+    "short": "A low barrier controlling water or fish.",
+    "note": "A low dam or barrier across flowing water, used to divert or regulate it. A weir can also be a fence-like structure arranged to trap fish.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/weir",
+        "label": "Merriam-Webster · weir"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-042",
+      "index": 0
+    }
+  },
+  {
+    "id": "parterre",
+    "term": "parterre",
+    "aliases": [
+      "parterre",
+      "par-terre",
+      "parterres"
+    ],
+    "short": "An ornamental arrangement of garden beds.",
+    "note": "A formal arrangement of garden beds, often divided by paths and laid out in decorative patterns.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-087",
+      "index": 0
+    }
+  },
+  {
+    "id": "carabao",
+    "term": "carabao",
+    "aliases": [
+      "carabao",
+      "Carabao",
+      "carabaos"
+    ],
+    "short": "A water buffalo.",
+    "note": "A carabao is a water buffalo. The name entered English through Philippine Spanish from a Visayan word, karabáw.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carabao",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-209",
+      "index": 2
+    }
+  },
+  {
+    "id": "vernor-vinge",
+    "term": "Vernor Vinge",
+    "aliases": [
+      "V. Vinge"
+    ],
+    "short": "American science-fiction author and mathematician (1944–2024).",
+    "note": "A science-fiction writer and mathematics professor whose work explored artificial intelligence, virtual worlds, and technological transformation. His books won multiple Hugo Awards.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://sfwa.org/2024/04/04/in-memoriam-vernor-vinge/",
+        "label": "Science Fiction and Fantasy Writers Association: Vernor Vinge"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-023",
+      "index": 0
+    }
+  },
+  {
+    "id": "trotsky",
+    "term": "Trotsky",
+    "aliases": [],
+    "short": "Leon Trotsky, Russian revolutionary assassinated in exile in 1940.",
+    "note": "A leading Bolshevik and organizer of the Red Army, later expelled from the Soviet Union after his struggle with Stalin. He was assassinated in Mexico in 1940 by a Soviet agent.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.hoover.org/research/trotsky-exile",
+        "label": "Hoover Institution: Trotsky in Exile"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-023",
+      "index": 0
+    }
+  },
+  {
+    "id": "ancient-mariner",
+    "term": "The Rime of the Ancient Mariner",
+    "aliases": [
+      "Rime of the Ancient Mariner",
+      "SAMUEL TAYLOR COLERIDGE"
+    ],
+    "short": "Samuel Taylor Coleridge’s poem about a seafarer’s transgression and ordeal.",
+    "note": "Coleridge’s long supernatural poem follows a mariner who kills an albatross and survives a terrible voyage. The hermit and the ivy-covered cushion belong to its final section.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poems/43997/the-rime-of-the-ancient-mariner-text-of-1834",
+        "label": "Poetry Foundation: The Rime of the Ancient Mariner"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-002",
+      "index": 0
+    }
+  },
+  {
+    "id": "ivy-tod",
+    "term": "ivy-tod",
+    "aliases": [],
+    "short": "A bush or thick clump of ivy.",
+    "note": "An old word for an ivy bush or dense growth of ivy; tod is a bush, tuft, or tangled mass of vegetation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordnik.com/words/ivy-tod",
+        "label": "Century Dictionary via Wordnik: ivy-tod"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-001",
+      "index": 0
+    }
+  },
+  {
+    "id": "john-of-the-cross",
+    "term": "St. John of the Cross",
+    "aliases": [
+      "ST. JOHN OF THE CROSS",
+      "St John of the Cross",
+      "Saint John of the Cross"
+    ],
+    "short": "Spanish Carmelite mystic and poet (1542–1591).",
+    "note": "A Carmelite reformer and religious poet whose writings describe spiritual purification, detachment, and union with God. His major works include The Ascent of Mount Carmel and The Dark Night.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.vatican.va/content/benedict-xvi/en/audiences/2011/documents/hf_ben-xvi_aud_20110216.pdf",
+        "label": "Vatican: Saint John of the Cross"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "a-story",
+      "paragraph": "p-010",
+      "index": 1
+    }
+  },
+  {
+    "id": "karel-capek",
+    "term": "Karel Čapek",
+    "aliases": [
+      "Karel C�apek",
+      "Karel Capek",
+      "KAREL C�APEK",
+      "Čapek"
+    ],
+    "short": "Czech writer; the quotation comes from his account of a cat’s viewpoint.",
+    "note": "The Czech writer Karel Čapek wrote the humorous essay From the Point of View of a Cat. Its feline narrator treats a human housemate as a source of warmth before returning to the voices outside.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://yggdrasille.com/2023/01/27/from-the-point-of-view-of-a-cat-by-karel-capek/",
+        "label": "Karel Čapek: From the Point of View of a Cat (reprint)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-002",
+      "index": 2
+    }
+  },
+  {
+    "id": "arms-and-the-man",
+    "term": "Arms and the man I sing",
+    "aliases": [],
+    "short": "The opening of Virgil’s Aeneid in John Dryden’s translation.",
+    "note": "John Dryden’s rendering of Arma virumque cano, the opening of Virgil’s Aeneid. The epic follows Aeneas from fallen Troy to Italy, where his descendants are destined to found Rome.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/64337/pg64337-images.html",
+        "label": "John Dryden: translation of Virgil’s Aeneid"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-306",
+      "index": 0
+    }
+  },
+  {
+    "id": "polyphemus",
+    "term": "Polyphemus",
+    "aliases": [
+      "Polyphemos"
+    ],
+    "short": "The Cyclops blinded by Odysseus in the Odyssey.",
+    "note": "A one-eyed giant, son of Poseidon, who traps Odysseus and his companions in a cave. Odysseus escapes by intoxicating and blinding him, then hiding his men beneath the giant’s sheep.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Gigante/GigantePolyphemos.html",
+        "label": "Theoi: classical sources on Polyphemus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-048",
+      "index": 0
+    }
+  },
+  {
+    "id": "cyclops",
+    "term": "Cyclops",
+    "aliases": [
+      "Cyclopes"
+    ],
+    "short": "A one-eyed giant in Greek mythology.",
+    "note": "Greek mythology includes several groups of Cyclopes: divine craftsmen associated with Zeus’s thunderbolts, and the pastoral giants encountered by Odysseus. Polyphemus belongs to the latter group.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Titan/Kyklopes.html",
+        "label": "Theoi: classical sources on the Cyclopes"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-048",
+      "index": 0
+    }
+  },
+  {
+    "id": "betsey-trotwood",
+    "term": "Betsey Trotwood",
+    "aliases": [],
+    "short": "David Copperfield’s formidable but generous great-aunt.",
+    "note": "A character in Charles Dickens’s David Copperfield. Though brusque and eccentric, she takes in the young David and becomes his protector and benefactor.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/dirs/7/6/766/766-h/766-h.htm",
+        "label": "Charles Dickens: David Copperfield"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-100",
+      "index": 0
+    }
+  },
+  {
+    "id": "david-copperfield",
+    "term": "David Copperfield",
+    "aliases": [],
+    "short": "Charles Dickens’s novel of a boy’s growth into a writer.",
+    "note": "Published in 1849–1850, Dickens’s first-person novel follows David’s childhood, education, friendships, work, and marriages. Its characters include Betsey Trotwood, Mr. Micawber, and Uriah Heep.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/dirs/7/6/766/766-h/766-h.htm",
+        "label": "Charles Dickens: David Copperfield"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-100",
+      "index": 0
+    }
+  },
+  {
+    "id": "etruscans",
+    "term": "Etruscans",
+    "aliases": [
+      "Etruscan"
+    ],
+    "short": "An ancient people of central Italy, influential on early Rome.",
+    "note": "The people of Etruria, chiefly in present-day Tuscany and neighboring regions. Their cities, tombs, art, and inscriptions preserve evidence of a distinctive civilization gradually absorbed into Roman power.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/it/essays/etruscan-art",
+        "label": "Metropolitan Museum of Art: Etruscan Art"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-051",
+      "index": 0
+    }
+  },
+  {
+    "id": "atlantis",
+    "term": "Atlantis",
+    "aliases": [],
+    "short": "The island civilization described by Plato as lost beneath the sea.",
+    "note": "A powerful island state in Plato’s Timaeus and Critias. His account places it beyond the Pillars of Heracles and describes its destruction by earthquakes and flooding.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://classics.mit.edu/Plato/timaeus.html",
+        "label": "Plato: Timaeus, MIT Internet Classics Archive"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-051",
+      "index": 0
+    }
+  },
+  {
+    "id": "mu",
+    "term": "Mu",
+    "aliases": [],
+    "short": "A legendary lost continent imagined in the Pacific.",
+    "note": "A supposed sunken Pacific continent used in speculative explanations of ancient civilizations. It belongs to lost-continent speculation, rather than established geological history.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/55434/55434-h/55434-h.htm",
+        "label": "Kenneth Macgowan: Early Man in the New World"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "a-story",
+      "paragraph": "p-367",
+      "index": 1
+    }
+  },
+  {
+    "id": "uranie",
+    "term": "Uranie",
+    "aliases": [],
+    "short": "Possibly Urania, the Greek Muse of astronomy.",
+    "note": "Possibly the French form of Urania, the Muse associated with astronomy and the heavens. She is commonly represented with a celestial globe and a pointing rod.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Ouranios/MousaOurania.html",
+        "label": "Theoi: Urania"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-214",
+      "index": 0
+    }
+  },
+  {
+    "id": "mendelian",
+    "term": "Mendelian",
+    "aliases": [],
+    "short": "Relating to Gregor Mendel’s principles of inheritance.",
+    "note": "Named for Gregor Mendel, whose pea experiments established basic patterns of inheritance. Mendelian inheritance concerns traits transmitted according to such patterns, including dominant and recessive forms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.genome.gov/genetics-glossary/Mendelian-Inheritance",
+        "label": "National Human Genome Research Institute: Mendelian Inheritance"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-375",
+      "index": 0
+    }
+  },
+  {
+    "id": "demimondaines",
+    "term": "demimondaines",
+    "aliases": [
+      "demimondaine"
+    ],
+    "short": "Women maintained by wealthy lovers; courtesans.",
+    "note": "A historical French-derived term for courtesans or women supported by wealthy lovers. It comes from demi-monde, literally “half-world,” a socially disreputable circle bordering fashionable society.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/demimondaine",
+        "label": "Merriam-Webster: demimondaine"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-121",
+      "index": 0
+    }
+  },
+  {
+    "id": "chasseurs",
+    "term": "chasseurs",
+    "aliases": [
+      "chasseur"
+    ],
+    "short": "French light infantry or cavalry; literally “hunters.”",
+    "note": "Soldiers of French light infantry or light cavalry units, traditionally valued for speed and maneuverability. The word is the plural of chasseur, “hunter.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chasseur",
+        "label": "Merriam-Webster: chasseur"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-230",
+      "index": 0
+    }
+  },
+  {
+    "id": "maitre",
+    "term": "Maître",
+    "aliases": [
+      "Maitre"
+    ],
+    "short": "French: master, teacher, or a professional title of respect.",
+    "note": "A French word meaning master or teacher. It also serves as a title of address for certain professionals, especially lawyers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/us/dictionary/french-english/ma%C3%AEtre",
+        "label": "Collins French–English Dictionary: maître"
+      }
+    ],
+    "occurrences": 19,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-059",
+      "index": 0
+    }
+  },
+  {
+    "id": "la-fange",
+    "term": "La Fange",
+    "aliases": [],
+    "short": "French: “the mire” or “the mud.”",
+    "note": "Fange is a literary French word for mire or mud, also used figuratively for degradation or moral filth. La is the feminine definite article, “the.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/french-english/fange",
+        "label": "Collins French–English Dictionary: fange"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-359",
+      "index": 2
+    }
+  },
+  {
+    "id": "tempus",
+    "term": "Tempus",
+    "aliases": [],
+    "short": "Latin: time.",
+    "note": "The Latin noun tempus means time, a period or occasion, and sometimes an appropriate moment or season.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://logeion.uchicago.edu/tempus",
+        "label": "University of Chicago Logeion: tempus"
+      }
+    ],
+    "occurrences": 12,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-148",
+      "index": 2
+    }
+  },
+  {
+    "id": "lascaux",
+    "term": "Lascaux",
+    "aliases": [],
+    "short": "A cave complex in southwestern France renowned for Paleolithic paintings.",
+    "note": "A decorated cave in the Vézère Valley, discovered in 1940, whose walls preserve striking prehistoric images of animals. It forms part of a UNESCO World Heritage group of prehistoric sites.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/85",
+        "label": "UNESCO: Prehistoric Sites and Decorated Caves of the Vézère Valley"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-414",
+      "index": 2
+    }
+  },
+  {
+    "id": "les-eyzies",
+    "term": "Les Eyzies",
+    "aliases": [],
+    "short": "A French village and district central to the study of prehistory.",
+    "note": "Les Eyzies lies in the Vézère Valley of southwestern France, amid Paleolithic shelters, archaeological deposits, and decorated caves. Nearby sites form part of the valley’s World Heritage designation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/document/205807",
+        "label": "UNESCO: Vézère Valley World Heritage documentation"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-414",
+      "index": 2
+    }
+  },
+  {
+    "id": "egouts",
+    "term": "Egouts",
+    "aliases": [
+      "Égouts"
+    ],
+    "short": "French égouts: sewers or drains.",
+    "note": "The French plural of égout, an underground sewer or drainage channel.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/french-english/%C3%A9gout",
+        "label": "Collins French–English Dictionary: égout"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-265",
+      "index": 0
+    }
+  },
+  {
+    "id": "altamira",
+    "term": "Altamira",
+    "aliases": [],
+    "short": "A Spanish cave famous for Paleolithic art.",
+    "note": "The cave of Altamira in northern Spain preserves outstanding prehistoric paintings and engravings. It is a major example of Paleolithic cave art and a UNESCO World Heritage site.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cultura.gob.es/mnaltamira/en/cueva-altamira/patrimonio-mundial.html",
+        "label": "Spanish Ministry of Culture: Altamira World Heritage"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-414",
+      "index": 2
+    }
+  },
+  {
+    "id": "nephrite",
+    "term": "nephrite",
+    "aliases": [],
+    "short": "A tough, fibrous variety of jade.",
+    "note": "One of the two principal materials called jade, the other being jadeite. Nephrite consists of tightly intergrown amphibole fibers and occurs in colors including white and several shades of green.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17486166/nephrite",
+        "label": "Office québécois de la langue française: nephrite"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-127",
+      "index": 0
+    }
+  },
+  {
+    "id": "ha-ha",
+    "term": "ha-ha",
+    "aliases": [
+      "ha-has"
+    ],
+    "short": "A recessed boundary wall that leaves a landscape view unobstructed.",
+    "note": "A ditch containing a wall or fence below the normal ground level, creating a barrier without an ordinary above-ground fence breaking the view.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/ha-ha",
+        "label": "Collins English Dictionary via Dictionary.com: ha-ha"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-228",
+      "index": 0
+    }
+  },
+  {
+    "id": "parthenogenesis",
+    "term": "parthenogenesis",
+    "aliases": [
+      "parthenogenetically",
+      "Parthenogenetically"
+    ],
+    "short": "Development from an unfertilized egg.",
+    "note": "A form of reproduction in which an embryo develops from an egg without fertilization by a male reproductive cell.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/parthenogenesis",
+        "label": "Cambridge Dictionary: parthenogenesis"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-166",
+      "index": 0
+    }
+  },
+  {
+    "id": "cave-canem",
+    "term": "Cave Canem",
+    "aliases": [],
+    "short": "Latin: “beware of the dog.”",
+    "note": "A Latin warning meaning “beware of the dog.” A famous example accompanies the dog mosaic at the entrance to the House of the Tragic Poet in Pompeii.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pompeiisites.org/wp-content/uploads/A-Guide-to-the-Pompeii-Excavations-2.pdf",
+        "label": "Pompeii Archaeological Park"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-217",
+      "index": 0
+    }
+  },
+  {
+    "id": "sainte-anne",
+    "term": "Sainte Anne",
+    "aliases": [],
+    "short": "Possibly Saint Anne, traditionally the mother of Mary.",
+    "note": "Possibly Saint Anne, the traditional mother of the Virgin Mary and grandmother of Jesus. Her name and life come from early Christian apocryphal writings. Sainte Anne is the French form.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.newadvent.org/cathen/01538a.htm",
+        "label": "Catholic Encyclopedia"
+      }
+    ],
+    "occurrences": 55,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-025",
+      "index": 0
+    }
+  },
+  {
+    "id": "sainte-croix",
+    "term": "Sainte Croix",
+    "aliases": [],
+    "short": "French: “Holy Cross.”",
+    "note": "French for “Holy Cross”: sainte means holy or sacred, and croix means cross. The phrase commonly designates the cross of Christ in Christian place names and dedications.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cnrtl.fr/definition/croix",
+        "label": "CNRTL"
+      }
+    ],
+    "occurrences": 15,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-175",
+      "index": 0
+    }
+  },
+  {
+    "id": "port-mimizon",
+    "term": "Port-Mimizon",
+    "aliases": [],
+    "short": "Possibly Mimizan, a town on France’s Atlantic coast.",
+    "note": "Possibly Mimizan, a coastal town in the Landes region of southwestern France. Its name closely resembles Mimizon; port is the French word for a harbor.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.mimizan-tourisme.com/en/i-discover/",
+        "label": "Mimizan Tourist Office"
+      }
+    ],
+    "occurrences": 15,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-005",
+      "index": 0
+    }
+  },
+  {
+    "id": "maison-du-chien",
+    "term": "Maison du Chien",
+    "aliases": [],
+    "short": "French: “House of the Dog.”",
+    "note": "French for “House of the Dog”: maison means house, du means “of the,” and chien means dog.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cnrtl.fr/definition/chien",
+        "label": "CNRTL"
+      },
+      {
+        "url": "https://www.cnrtl.fr/definition/maison",
+        "label": "CNRTL: maison"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-058",
+      "index": 0
+    }
+  },
+  {
+    "id": "mile-long-spaceship",
+    "term": "The Mile-Long Spaceship",
+    "aliases": [],
+    "short": "Kate Wilhelm’s first science-fiction collection, published in 1963.",
+    "note": "A collection of science-fiction stories by Kate Wilhelm, published in 1963. Its title tale first appeared in Astounding in April 1957.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://sf-encyclopedia.com/entry/wilhelm_kate",
+        "label": "The Encyclopedia of Science Fiction"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-023",
+      "index": 0
+    }
+  },
+  {
+    "id": "number-of-beast",
+    "term": "666",
+    "aliases": [],
+    "short": "Possibly the number of the beast in Revelation 13:18.",
+    "note": "Possibly the number assigned to the beast in Revelation 13:18. The passage invites the reader to calculate a human name through its numerical value.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/revelation/13",
+        "label": "Revelation 13"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-158",
+      "index": 0
+    }
+  },
+  {
+    "id": "culot",
+    "term": "Culot",
+    "aliases": [],
+    "short": "Possibly French culot: impudence or audacity.",
+    "note": "Possibly the French noun culot, meaning impudence, cheek, or audacity. The same word can also mean the base or bottom of an object.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.cnrtl.fr/definition/culot",
+        "label": "CNRTL"
+      }
+    ],
+    "occurrences": 8,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-105",
+      "index": 2
+    }
+  }
+]

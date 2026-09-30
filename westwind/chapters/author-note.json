@@ -1,0 +1,23 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002",
+    "p-003"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 82,
+  "startWords": 2999,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">It was not until I prepared to write this author’s note that I realized that long before I wrote this story the great G. K. Chesterton had written an entire book in which all the members of a gang of revolutionaries, save its head and one other, were spies for assorted police agencies and government bureaus.</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">Its head was God.</p>\n<p class=\"prose\" id=\"p-003\" data-block=\"p-003\">The book is <em>The Man Who Was Thursday.</em> You can find a copy if you look, and I suggest you read it.</p>\n</div></blockquote></blockquote>"
+}

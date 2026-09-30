@@ -1,0 +1,24 @@
+{
+  "book": "the-cat",
+  "sourceFiles": {
+    "endangered": {
+      "file": "_OceanofPDF.com_Endangered_Species_-_Gene_Wolfe.epub",
+      "sha256": "4b14835109c591ac7460743370fe051fad2785f9ad0e6567b9cf41f89e060c4b"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "endangered",
+      "files": [
+        "OEBPS/e9781429966214_c16.html"
+      ],
+      "sourceTextSha256": "966ad207de69bef492ab671b6c0a42d8cdc8da611edfdb064366801fa0659d4c",
+      "textSha256": "966ad207de69bef492ab671b6c0a42d8cdc8da611edfdb064366801fa0659d4c",
+      "blocks": 27
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

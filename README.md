@@ -2,7 +2,8 @@
 
 This directory is a complete static website. It contains New Sun (including Urth),
 Long Sun (four novels), Short Sun (three novels), and Cixin Liu’s Remembrance of
-Earth’s Past trilogy (three separate readers). No package installation,
+Earth’s Past trilogy (three separate readers), The Fifth Head of Cerberus, and
+60 individual short stories. No package installation,
 build service, database, or account is required.
 
 ## Local test
@@ -23,6 +24,10 @@ The book addresses are:
 - `/readers/three-body-problem/`
 - `/readers/dark-forest/`
 - `/readers/deaths-end/`
+- `/readers/the-fifth-head-of-cerberus/`
+
+The library links to every standalone story; `data/wolfe-fiction/catalog.json`
+is the complete title and route inventory.
 
 Use an HTTP server rather than opening index.html directly. If instead you serve
 this directory itself, the addresses have no initial `/readers` component.
@@ -129,3 +134,28 @@ source text before annotation.
 Long and Short Sun now use seven historical ornamental alphabets. New Sun’s five
 approved alphabets remain unchanged. See `assets/initials/NOTICE.md` for artwork
 provenance, licenses, and the deterministic rebuild command.
+
+## Version 13
+
+Adds The Fifth Head of Cerberus as one reader with three novella sections, plus
+60 distinct short-story readers from the supplied Best and Endangered Species
+EPUBs. Four duplicated stories appear once, using the Best text and afterword;
+the first Fifth Head novella is incorporated into the full book. The mislabeled
+Island EPUB is excluded entirely. The library lists stories alphabetically,
+without anthology pages. Supplied afterwords remain optional reference sections.
+
+There are 386 external-reference notes in the new readers. Relevant titles can
+also carry notes, with the same keyboard, touch, margin and static-link behavior.
+Each new work and each Liu novel has its own original thematic SVG ornament.
+
+Rebuild from the supplied EPUBs (which are not stored here):
+
+```sh
+python3 tools/reader_ornaments.py
+python3 tools/import_wolfe_fiction.py --best /path/to/best.epub --endangered /path/to/endangered.epub --fifth-head /path/to/fifth-head.epub
+python3 tools/import_earths_past.py /path/to/earths-past.epub
+python3 tools/validate.py --baseline 854c40b
+```
+
+Authored notes, catalog and source-integrity records live in `data/wolfe-fiction`.
+See [NOTES-V13.md](NOTES-V13.md) for source-quality limitations and validation.

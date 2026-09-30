@@ -1,0 +1,62 @@
+[
+  {
+    "id": "estampido",
+    "term": "Estampido",
+    "aliases": [],
+    "short": "Spanish: a bang, report, or crash.",
+    "note": "Spanish estampido means a loud bang or report, such as a gunshot, explosion, or thunderclap.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/es/diccionario/espanol-ingles/estampido",
+        "label": "Collins Spanish–English · estampido"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-012",
+      "index": 0
+    }
+  },
+  {
+    "id": "mammoth-cave",
+    "term": "Mammoth Cave",
+    "aliases": [],
+    "short": "The extensive cave system in Kentucky.",
+    "note": "The immense limestone cave system in Kentucky protected by Mammoth Cave National Park, the world’s longest known cave system.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nps.gov/articles/000/exploring-the-worlds-longest-known-cave.htm",
+        "label": "National Park Service · Mammoth Cave"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-109",
+      "index": 0
+    }
+  },
+  {
+    "id": "moloch",
+    "term": "Moloch",
+    "aliases": [],
+    "short": "A biblical name associated with child sacrifice.",
+    "note": "Moloch, also spelled Molech, a name associated in the Hebrew Bible with forbidden child sacrifice; Leviticus 18:21 prohibits giving children to Molech.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.biblegateway.com/passage/?search=Leviticus+18%3A21&version=WEB",
+        "label": "Bible · Leviticus 18:21"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-022",
+      "index": 0
+    }
+  }
+]

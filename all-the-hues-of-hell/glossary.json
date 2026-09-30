@@ -1,0 +1,62 @@
+[
+  {
+    "id": "charlie-fort",
+    "term": "Charlie Fort",
+    "aliases": [],
+    "short": "Charles Fort, collector of anomalous reports.",
+    "note": "Charles Fort (1874–1932), author of The Book of the Damned, which gathers reports of unusual phenomena such as strange objects falling from the sky and challenges their exclusion from conventional scientific accounts.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/22472/22472-h/22472-h.htm",
+        "label": "Charles Fort · The Book of the Damned"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-063",
+      "index": 0
+    }
+  },
+  {
+    "id": "freud",
+    "term": "Freud",
+    "aliases": [],
+    "short": "Sigmund Freud, founder of psychoanalysis.",
+    "note": "Sigmund Freud (1856–1939), the Austrian physician who developed psychoanalysis, emphasizing unconscious mental processes and the interpretation of dreams.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.freud.org.uk/wp-content/uploads/2018/01/What-is-Psychoanalysis.pdf",
+        "label": "Freud Museum · What is Psychoanalysis?"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-173",
+      "index": 0
+    }
+  },
+  {
+    "id": "hades",
+    "term": "Hades",
+    "aliases": [],
+    "short": "The Greek underworld, or its ruling god.",
+    "note": "The realm of the dead in Greek mythology, and the god who rules it with Persephone; Hades is identified with the Roman Pluto.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Khthonios/Haides.html",
+        "label": "Theoi · Hades, classical source passages"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-035",
+      "index": 0
+    }
+  }
+]

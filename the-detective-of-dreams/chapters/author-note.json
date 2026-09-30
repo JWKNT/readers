@@ -1,0 +1,23 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002",
+    "p-003"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 146,
+  "startWords": 6933,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">G. K. Chesterton wrote that ordinary life “is like ten thousand thrilling detective stories mixed up with a spoon.” If we look at it that way—which is rather fun—we can quickly come up with ten thousand stories.</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">Some of which will show that the criminal cannot be apprehended. And some of which will show, like this one, that the criminal should not be.</p>\n<p class=\"prose\" id=\"p-003\" data-block=\"p-003\">I will not lecture you on Jesus of Nazareth, but I advise you to find Chesterton’s <em>The Everlasting Man</em>. In this story I asked you to consider that everlasting man’s short fiction. Fans have written me to say that this or that story stayed with them for days. Each letter makes me proud and happy. In my happiness and pride, I am prone to forget that there was once a storyteller from Galilee whose stories have stayed with us for millennia.</p>\n</div></blockquote></blockquote>"
+}

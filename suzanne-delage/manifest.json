@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "id": "suzanne-delage",
+  "title": "Suzanne Delage",
+  "author": "Gene Wolfe",
+  "volumes": [
+    {
+      "id": "text",
+      "title": "Suzanne Delage",
+      "chapters": 1
+    }
+  ],
+  "totalWords": 2287,
+  "defaultChapter": "story",
+  "glossaryCount": 2,
+  "correctionCount": 0,
+  "editionVersion": 13,
+  "chapters": [
+    {
+      "id": "story",
+      "title": "Suzanne Delage",
+      "volume": "text",
+      "volumeTitle": "Suzanne Delage",
+      "number": 1,
+      "label": "",
+      "kind": "chapter",
+      "index": 0,
+      "layout": "prose",
+      "blocks": [
+        "p-001",
+        "p-002",
+        "p-003",
+        "p-004",
+        "p-005",
+        "p-006",
+        "p-007",
+        "p-008",
+        "p-009",
+        "p-010",
+        "p-011",
+        "p-012",
+        "p-013",
+        "p-014",
+        "p-015",
+        "p-016",
+        "p-017",
+        "p-018"
+      ],
+      "sections": [],
+      "headingNoteAnchors": [],
+      "headingHtml": "Suzanne Delage",
+      "noteAnchors": [
+        {
+          "term": "hamlet",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "zouave",
+          "paragraph": "p-012"
+        }
+      ],
+      "words": 2287,
+      "startWords": 0
+    }
+  ]
+}

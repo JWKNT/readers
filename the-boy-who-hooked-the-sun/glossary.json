@@ -1,0 +1,82 @@
+[
+  {
+    "id": "kronos",
+    "term": "Kronos",
+    "aliases": [],
+    "short": "The Titan ruler overthrown by Zeus.",
+    "note": "Cronus or Kronos, son of Uranus and Gaia and father of Zeus, ruled the Titans in Greek mythology. He overthrew his father and was himself overthrown by his children.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Titan/TitanKronos.html",
+        "label": "Theoi: ancient sources on Kronos"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-010",
+      "index": 0
+    }
+  },
+  {
+    "id": "uranus",
+    "term": "Uranus",
+    "aliases": [],
+    "short": "The primordial sky in Greek mythology.",
+    "note": "Ouranos, Latinized as Uranus, is the personified sky, consort of Gaia and father of the Titans, including Kronos.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Protogenos/Ouranos.html",
+        "label": "Theoi: ancient sources on Ouranos"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-010",
+      "index": 0
+    }
+  },
+  {
+    "id": "tchataka",
+    "term": "Tchataka",
+    "aliases": [],
+    "short": "The rain-drinking bird of Sanskrit poetry.",
+    "note": "The chātaka, a bird conventionally said in Sanskrit poetry to drink only falling rain, and therefore an emblem of longing for the raincloud. It is often identified with the pied cuckoo.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://sanskritdictionary.com/?iencoding=ng1&lang=&q=c%C4%81taka",
+        "label": "Sanskrit dictionaries: cātaka"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-010",
+      "index": 0
+    }
+  },
+  {
+    "id": "sabaoth",
+    "term": "Sabaoth",
+    "aliases": [],
+    "short": "Hebrew for hosts or armies.",
+    "note": "The Hebrew plural meaning hosts or armies, preserved in the biblical title Lord of Sabaoth.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/29765",
+        "label": "Webster’s Unabridged Dictionary (1913)"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-010",
+      "index": 0
+    }
+  }
+]

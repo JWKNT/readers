@@ -1,0 +1,184 @@
+{
+  "schema": 1,
+  "id": "the-toy-theater",
+  "title": "The Toy Theater",
+  "author": "Gene Wolfe",
+  "volumes": [
+    {
+      "id": "text",
+      "title": "The Toy Theater",
+      "chapters": 1
+    },
+    {
+      "id": "sources",
+      "title": "Supplementary material",
+      "chapters": 0,
+      "referenceTitle": "Afterword"
+    }
+  ],
+  "totalWords": 2576,
+  "defaultChapter": "story",
+  "glossaryCount": 12,
+  "correctionCount": 0,
+  "editionVersion": 13,
+  "chapters": [
+    {
+      "id": "story",
+      "title": "The Toy Theater",
+      "volume": "text",
+      "volumeTitle": "The Toy Theater",
+      "number": 1,
+      "label": "",
+      "kind": "chapter",
+      "index": 0,
+      "layout": "prose",
+      "blocks": [
+        "p-001",
+        "p-002",
+        "p-003",
+        "p-004",
+        "p-005",
+        "p-006",
+        "p-007",
+        "p-008",
+        "p-009",
+        "p-010",
+        "p-011",
+        "p-012",
+        "p-013",
+        "p-014",
+        "p-015",
+        "p-016",
+        "p-017",
+        "p-018",
+        "p-019",
+        "p-020",
+        "p-021",
+        "p-022",
+        "p-023",
+        "p-024",
+        "p-025",
+        "p-026",
+        "p-027",
+        "p-028",
+        "p-029",
+        "p-030",
+        "p-031",
+        "p-032",
+        "p-033",
+        "p-034",
+        "p-035",
+        "p-036",
+        "p-037",
+        "p-038",
+        "p-039",
+        "p-040",
+        "p-041",
+        "p-042",
+        "p-043",
+        "p-044",
+        "p-045",
+        "p-046",
+        "p-047",
+        "p-048",
+        "p-049",
+        "p-050",
+        "p-051",
+        "p-052",
+        "p-053",
+        "p-054",
+        "p-055",
+        "p-056",
+        "p-057",
+        "p-058",
+        "p-059",
+        "p-060",
+        "p-061",
+        "p-062",
+        "p-063",
+        "p-064",
+        "p-065",
+        "p-066",
+        "p-067"
+      ],
+      "sections": [],
+      "headingNoteAnchors": [],
+      "headingHtml": "The Toy Theater",
+      "noteAnchors": [
+        {
+          "term": "sarg",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "sarah-van-fleet",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "stromboli",
+          "paragraph": "p-003"
+        },
+        {
+          "term": "zanni",
+          "paragraph": "p-020"
+        },
+        {
+          "term": "columbine",
+          "paragraph": "p-024"
+        },
+        {
+          "term": "the-barber-of-seville",
+          "paragraph": "p-024"
+        },
+        {
+          "term": "coloratura-soprano",
+          "paragraph": "p-024"
+        },
+        {
+          "term": "mezzo-soprano",
+          "paragraph": "p-024"
+        },
+        {
+          "term": "contralto",
+          "paragraph": "p-024"
+        },
+        {
+          "term": "craquelure",
+          "paragraph": "p-038"
+        },
+        {
+          "term": "under-the-rose",
+          "paragraph": "p-059"
+        },
+        {
+          "term": "joruri",
+          "paragraph": "p-060"
+        }
+      ],
+      "words": 2576,
+      "startWords": 0
+    },
+    {
+      "id": "author-note",
+      "title": "Afterword",
+      "volume": "sources",
+      "volumeTitle": "Supplementary material",
+      "number": 2,
+      "label": "",
+      "kind": "reference",
+      "index": 1,
+      "layout": "prose",
+      "blocks": [
+        "p-001",
+        "p-002",
+        "p-003",
+        "p-004"
+      ],
+      "sections": [],
+      "headingNoteAnchors": [],
+      "headingHtml": "Afterword",
+      "noteAnchors": [],
+      "words": 230,
+      "startWords": 2576
+    }
+  ]
+}

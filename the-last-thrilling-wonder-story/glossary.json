@@ -1,0 +1,42 @@
+[
+  {
+    "id": "thrilling-wonder",
+    "term": "Thrilling Wonder",
+    "aliases": [],
+    "short": "A twentieth-century science-fiction pulp magazine.",
+    "note": "Thrilling Wonder Stories, an American science-fiction pulp magazine published under that title from 1936 to 1955, continuing the earlier Wonder Stories.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://finding-aids.library.gatech.edu/repositories/2/resources/1776",
+        "label": "Georgia Tech Archives · Thrilling Wonder Stories"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "chapter-title",
+      "index": 0
+    }
+  },
+  {
+    "id": "rigel",
+    "term": "Rigel",
+    "aliases": [],
+    "short": "A blue supergiant star in Orion.",
+    "note": "The brilliant blue supergiant Beta Orionis, marking a foot of the constellation Orion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://apod.nasa.gov/apod/ap230407.html",
+        "label": "NASA · Rigel"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-015",
+      "index": 0
+    }
+  }
+]

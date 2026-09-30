@@ -1,0 +1,24 @@
+{
+  "book": "from-the-notebook-of-dr-stein",
+  "sourceFiles": {
+    "endangered": {
+      "file": "_OceanofPDF.com_Endangered_Species_-_Gene_Wolfe.epub",
+      "sha256": "4b14835109c591ac7460743370fe051fad2785f9ad0e6567b9cf41f89e060c4b"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "endangered",
+      "files": [
+        "OEBPS/e9781429966214_c06.html"
+      ],
+      "sourceTextSha256": "cd8b44f9ca44311fe477ca9905cbb55b866eeaafdd2375c19ecac392d59b73ce",
+      "textSha256": "cd8b44f9ca44311fe477ca9905cbb55b866eeaafdd2375c19ecac392d59b73ce",
+      "blocks": 57
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

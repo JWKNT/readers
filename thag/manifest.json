@@ -1,0 +1,120 @@
+{
+  "schema": 1,
+  "id": "thag",
+  "title": "Thag",
+  "author": "Gene Wolfe",
+  "volumes": [
+    {
+      "id": "text",
+      "title": "Thag",
+      "chapters": 1
+    }
+  ],
+  "totalWords": 2493,
+  "defaultChapter": "story",
+  "glossaryCount": 9,
+  "correctionCount": 0,
+  "editionVersion": 13,
+  "chapters": [
+    {
+      "id": "story",
+      "title": "Thag",
+      "volume": "text",
+      "volumeTitle": "Thag",
+      "number": 1,
+      "label": "",
+      "kind": "chapter",
+      "index": 0,
+      "layout": "prose",
+      "blocks": [
+        "p-001",
+        "p-002",
+        "p-003",
+        "p-004",
+        "p-005",
+        "p-006",
+        "p-007",
+        "p-008",
+        "p-009",
+        "p-010",
+        "p-011",
+        "p-012",
+        "p-013",
+        "p-014",
+        "p-015",
+        "p-016",
+        "p-017",
+        "p-018",
+        "p-019",
+        "p-020",
+        "p-021",
+        "p-022",
+        "p-023",
+        "p-024",
+        "p-025",
+        "p-026",
+        "p-027",
+        "p-028",
+        "p-029",
+        "p-030",
+        "p-031",
+        "p-032",
+        "p-033",
+        "p-034",
+        "p-035",
+        "p-036",
+        "p-037",
+        "p-038",
+        "p-039",
+        "p-040",
+        "p-041",
+        "p-042",
+        "p-043",
+        "p-044"
+      ],
+      "sections": [],
+      "headingNoteAnchors": [],
+      "headingHtml": "Thag",
+      "noteAnchors": [
+        {
+          "term": "scramasax",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "falchion",
+          "paragraph": "p-004"
+        },
+        {
+          "term": "galleass",
+          "paragraph": "p-005"
+        },
+        {
+          "term": "undine",
+          "paragraph": "p-010"
+        },
+        {
+          "term": "barbican",
+          "paragraph": "p-010"
+        },
+        {
+          "term": "woden",
+          "paragraph": "p-021"
+        },
+        {
+          "term": "frigg",
+          "paragraph": "p-021"
+        },
+        {
+          "term": "freya",
+          "paragraph": "p-021"
+        },
+        {
+          "term": "solzhenitsyn",
+          "paragraph": "p-031"
+        }
+      ],
+      "words": 2493,
+      "startWords": 0
+    }
+  ]
+}

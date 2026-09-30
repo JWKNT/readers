@@ -1,0 +1,34 @@
+{
+  "book": "the-toy-theater",
+  "sourceFiles": {
+    "best": {
+      "file": "_OceanofPDF.com_The_Best_of_Gene_Wolfe_A_Definitive_Retrospective_of_His_Finest_Short_Fiction_-_Gene_Wolfe.epub",
+      "sha256": "2f72b914961e311c7d12bfc81fe6c39f2138e087c0daca32f8e717a195f8b664"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "best",
+      "files": [
+        "index_split_009.html"
+      ],
+      "sourceTextSha256": "ed2f8d4676a0b716cc3563629cbca8d0f9d7b01d3e20e6347b4ab5dfcb610144",
+      "textSha256": "ed2f8d4676a0b716cc3563629cbca8d0f9d7b01d3e20e6347b4ab5dfcb610144",
+      "blocks": 67
+    },
+    {
+      "chapter": "author-note",
+      "source": "best",
+      "files": [
+        "index_split_009.html"
+      ],
+      "sourceTextSha256": "d0f4096cb1b20c010d3e3eb495802d29e5e63f08ac722ea17ec185ccdaf0d6cc",
+      "textSha256": "d0f4096cb1b20c010d3e3eb495802d29e5e63f08ac722ea17ec185ccdaf0d6cc",
+      "blocks": 4
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "great-circle",
+    "term": "Great Circle",
+    "aliases": [],
+    "short": "A circle dividing a sphere into equal halves.",
+    "note": "The intersection of a sphere with a plane through its center. The shorter great-circle arc gives the shortest surface route between two non-antipodal points on a sphere.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathworld.wolfram.com/GreatCircle.html",
+        "label": "Wolfram MathWorld: great circle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
+  }
+]

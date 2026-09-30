@@ -1,0 +1,64 @@
+[
+  {
+    "id": "merlins-cave",
+    "term": "Merlin’s cave",
+    "aliases": [
+      "Merlin’s Cave"
+    ],
+    "short": "The sea cave beneath Tintagel Castle.",
+    "note": "A sea cave beneath Tintagel in Cornwall, associated in local legend with Merlin. Tintagel’s Arthurian fame derives from medieval accounts of Arthur’s conception there.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.english-heritage.org.uk/visit/places/tintagel-castle/",
+        "label": "English Heritage: Tintagel Castle and Merlin’s Cave"
+      }
+    ],
+    "evidence": "lapping and I felt really swell. So after it was all over we went to Merlin’s cave under the big castle and down by the water, and that was when Junie told me how King Arth"
+  },
+  {
+    "id": "hercules",
+    "term": "Hercules",
+    "aliases": [],
+    "short": "The classical hero famed for his strength.",
+    "note": "The Roman name of Greek Heracles, son of Zeus and Alcmena, renowned for his twelve labors and extraordinary strength.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Text/Apollodorus2.html",
+        "label": "Apollodorus: Library, book 2"
+      }
+    ],
+    "evidence": "ld tell me. I would be very happy any way you did it. Dottie says www.Hercules@freaky.com. My name is not really Hercules; that is just the name I work under. My name "
+  },
+  {
+    "id": "thespius",
+    "term": "Thespius",
+    "aliases": [],
+    "short": "The king whose fifty daughters bore Heracles’s children.",
+    "note": "The king of Thespiae in Greek mythology who had fifty daughters and arranged for Heracles to father children with them.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Text/Apollodorus2.html",
+        "label": "Apollodorus: Library, book 2"
+      }
+    ],
+    "evidence": " help. I don’t know whether I was really one of the daughters of King Thespius, but there were fifty of them so there’s a pretty good chance of it. Will you help me?” "
+  },
+  {
+    "id": "keplers-laws",
+    "term": "Kepler’s Laws",
+    "aliases": [],
+    "short": "Three mathematical laws of planetary motion.",
+    "note": "Planets follow ellipses with the Sun at one focus; equal areas are swept out in equal times; and the square of an orbital period is proportional to the cube of the orbit’s semimajor axis.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pwg.gsfc.nasa.gov/stargaze/Skeplaws.htm",
+        "label": "NASA: Kepler and his laws"
+      }
+    ],
+    "evidence": "indications in his papers. I know it with as much certainty as I know Kepler’s Laws.” That got me trying to remember who Kepler was, because I did not think Junie had told "
+  }
+]

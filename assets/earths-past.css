@@ -181,6 +181,7 @@
 .chapter-body table{width:100%;border-collapse:collapse;font-size:.85em;line-height:1.5;margin:1.5em 0}
 .chapter-body td,.chapter-body th{padding:.4em .6em;border-bottom:1px solid var(--line);text-align:left}
 .chapter-body .scene-divider{display:block;border:0;width:3em;margin:2em auto;border-top:1px solid currentColor;opacity:.25}
+.source-divider-text{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:pre}
 .chapter-body .chapter-opening{text-indent:0!important}
 .chapter-body .ep1-ePub-SUP,.chapter-body .ep2-t5,.chapter-body .ep2-t10,.chapter-body .ep2-t15,.chapter-body .ep3-t5{font-size:.7em;vertical-align:super;line-height:0}
 .chapter-body .ep1-ePub-I,.chapter-body .ep1-ePub-Sans-I{font-style:italic}

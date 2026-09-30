@@ -1,0 +1,62 @@
+[
+  {
+    "id": "automaton",
+    "term": "automaton",
+    "aliases": [],
+    "short": "A self-moving mechanism or artificial figure.",
+    "note": "A self-moving mechanism or artificial figure. Automata is the Greek-derived plural.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/automaton",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-110",
+      "index": 0
+    }
+  },
+  {
+    "id": "mountebank",
+    "term": "mountebank",
+    "aliases": [],
+    "short": "A charlatan or showman selling dubious remedies.",
+    "note": "A showman or charlatan, originally a traveling seller who used performances to promote dubious medicines.",
+    "possible": null,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mountebank",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "chessplaying-automaton",
+    "term": "Chessplaying Automaton",
+    "aliases": [],
+    "short": "Possibly Kempelen’s Mechanical Turk.",
+    "note": "Possibly the Mechanical Turk, Wolfgang von Kempelen’s famous chess-playing exhibition machine, first presented in 1770. Its apparently mechanical intelligence concealed human operation.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.computerhistory.org/chess/introduction/",
+        "label": "Computer History Museum: computer chess"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "chapter-title",
+      "index": 0
+    }
+  }
+]

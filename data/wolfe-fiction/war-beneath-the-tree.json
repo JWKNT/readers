@@ -1,0 +1,47 @@
+[
+  {
+    "id": "gingham-dog",
+    "term": "Gingham Dog",
+    "aliases": [],
+    "short": "Possibly the dog in Eugene Field’s poem The Duel.",
+    "note": "Possibly the gingham dog in Eugene Field’s The Duel, a children’s poem about a quarrel between a cloth dog and a calico cat, witnessed by a Chinese plate and a Dutch clock.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/Poems_of_Childhood/The_Duel",
+        "label": "Eugene Field · The Duel"
+      }
+    ],
+    "evidence": "c17: s goin’ to be some broken toys aroun’ here.” She watched long enough to see the Gingham Dog dump the contents of the largest ashtray on the crackling logs, the Spaceman float up to straighten the magazines on the coffee table, and "
+  },
+  {
+    "id": "calico-cat",
+    "term": "Calico Cat",
+    "aliases": [],
+    "short": "Possibly the cat in Eugene Field’s poem The Duel.",
+    "note": "Possibly the calico cat in Eugene Field’s The Duel, a children’s poem about two cloth animals whose midnight quarrel becomes a destructive fight.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/Poems_of_Childhood/The_Duel",
+        "label": "Eugene Field · The Duel"
+      }
+    ],
+    "evidence": "c17: Dragon’s teeth were sunk in Bear’s left heel, but Bear kicked himself free. The Calico Cat was burning, burning. The Gingham Dog tried to pull her out, but the Monkey pushed him into the fire. For a moment Bear thought of the cell"
+  },
+  {
+    "id": "arabesque-pench",
+    "term": "arabesque penché",
+    "aliases": [],
+    "short": "A ballet balance leaning forward with one leg raised behind.",
+    "note": "An arabesque in which the dancer inclines the torso forward as the extended back leg rises. French penché means leaning or inclined.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://balletmanilaarchives.com/home/2017/7/10/ballet-dictionary-pench-in-first-arabesque",
+        "label": "Ballet Manila · ballet dictionary"
+      }
+    ],
+    "evidence": "c17: son. That’s right for sure.” The Dancing Doll took Robin by the hand, making an arabesque penché of it. Now Robin rose. His guardsmen formed up and presented arms. “On the other hand,” Robin’s mother said, “they’re children only such a"
+  }
+]

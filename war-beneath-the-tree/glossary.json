@@ -1,0 +1,62 @@
+[
+  {
+    "id": "gingham-dog",
+    "term": "Gingham Dog",
+    "aliases": [],
+    "short": "Possibly the dog in Eugene Field’s poem The Duel.",
+    "note": "Possibly the gingham dog in Eugene Field’s The Duel, a children’s poem about a quarrel between a cloth dog and a calico cat, witnessed by a Chinese plate and a Dutch clock.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/Poems_of_Childhood/The_Duel",
+        "label": "Eugene Field · The Duel"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-019",
+      "index": 0
+    }
+  },
+  {
+    "id": "calico-cat",
+    "term": "Calico Cat",
+    "aliases": [],
+    "short": "Possibly the cat in Eugene Field’s poem The Duel.",
+    "note": "Possibly the calico cat in Eugene Field’s The Duel, a children’s poem about two cloth animals whose midnight quarrel becomes a destructive fight.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/Poems_of_Childhood/The_Duel",
+        "label": "Eugene Field · The Duel"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-052",
+      "index": 0
+    }
+  },
+  {
+    "id": "arabesque-pench",
+    "term": "arabesque penché",
+    "aliases": [],
+    "short": "A ballet balance leaning forward with one leg raised behind.",
+    "note": "An arabesque in which the dancer inclines the torso forward as the extended back leg rises. French penché means leaning or inclined.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://balletmanilaarchives.com/home/2017/7/10/ballet-dictionary-pench-in-first-arabesque",
+        "label": "Ballet Manila · ballet dictionary"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-007",
+      "index": 0
+    }
+  }
+]

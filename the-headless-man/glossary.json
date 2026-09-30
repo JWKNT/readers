@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pliny",
+    "term": "Pliny",
+    "aliases": [],
+    "short": "The Roman author of the Natural History.",
+    "note": "Pliny the Elder (23–79 CE), author of the encyclopedic Natural History. Its accounts of distant peoples include the Blemmyae, described as having no heads and faces in their chests.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/57493",
+        "label": "Pliny the Elder · Natural History"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-003",
+      "index": 0
+    }
+  },
+  {
+    "id": "marco-polo",
+    "term": "Marco Polo",
+    "aliases": [],
+    "short": "The Venetian traveler whose journeys were recorded in the Travels.",
+    "note": "Marco Polo, a thirteenth-century Venetian traveler whose account of Asian lands became one of medieval Europe’s most influential travel books.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/12410/12410-h/12410-h.htm",
+        "label": "Marco Polo · Travels"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-003",
+      "index": 0
+    }
+  }
+]

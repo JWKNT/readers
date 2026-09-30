@@ -1,0 +1,22 @@
+{
+  "id": "author-note",
+  "title": "Afterword",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Afterword",
+  "noteAnchors": [],
+  "words": 77,
+  "startWords": 3805,
+  "html": "<blockquote><blockquote><div>\n<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\">This was a dream story. I dream a good deal of fiction, but it is mostly very bad fiction. The title was in my dream and the setup, the possessed servant hiring a master and mistress. That and one visual image that has never left me, that of a large upper-class room at midnight swept by a high wind. Its drapes flutter among my thoughts even now.</p>\n<p class=\"prose\" id=\"p-002\" data-block=\"p-002\">Some are haunted by ghosts. I am haunted by stories.</p>\n</div></blockquote></blockquote>"
+}

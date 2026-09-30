@@ -1,0 +1,24 @@
+{
+  "book": "the-map",
+  "sourceFiles": {
+    "endangered": {
+      "file": "_OceanofPDF.com_Endangered_Species_-_Gene_Wolfe.epub",
+      "sha256": "4b14835109c591ac7460743370fe051fad2785f9ad0e6567b9cf41f89e060c4b"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "endangered",
+      "files": [
+        "OEBPS/e9781429966214_c02.html"
+      ],
+      "sourceTextSha256": "b1fcac8832211b4bce386a2ac432c4c947067623cb8742b7f333312a1dd4f5f3",
+      "textSha256": "b1fcac8832211b4bce386a2ac432c4c947067623cb8742b7f333312a1dd4f5f3",
+      "blocks": 159
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

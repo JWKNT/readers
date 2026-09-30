@@ -1,0 +1,77 @@
+[
+  {
+    "id": "cerletti",
+    "term": "Cerletti",
+    "aliases": [],
+    "short": "One of the Italian pioneers of electroconvulsive therapy.",
+    "note": "Ugo Cerletti and Lucio Bini, Italian physicians who introduced electroconvulsive therapy in Rome in April 1938. Bini designed the original electrical apparatus.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://rosa.uniroma1.it/rosa01/medicina_nei_secoli/article/view/69",
+        "label": "Sapienza Museum of Medical History · Bini–Cerletti apparatus"
+      }
+    ],
+    "evidence": "c06: urse Johnson: Here is the release, Dr. Stein. Dr. S: Thank you. We will try the Cerletti treatment in a few minutes, I think. Donna, you seem to want me to do something to help you. What is it? DW: This is Harry Nailer again, Dr"
+  },
+  {
+    "id": "bini",
+    "term": "Bini",
+    "aliases": [],
+    "short": "One of the Italian pioneers of electroconvulsive therapy.",
+    "note": "Ugo Cerletti and Lucio Bini, Italian physicians who introduced electroconvulsive therapy in Rome in April 1938. Bini designed the original electrical apparatus.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://rosa.uniroma1.it/rosa01/medicina_nei_secoli/article/view/69",
+        "label": "Sapienza Museum of Medical History · Bini–Cerletti apparatus"
+      }
+    ],
+    "evidence": "c06: ng else, something new. You would not be familiar with the work of Cerletti and Bini, in Italy, but they have developed a technique that shows great promise, and I have been using it experimentally. We place metal rods—they "
+  },
+  {
+    "id": "alienist",
+    "term": "alienist",
+    "aliases": [],
+    "short": "An old term for a psychiatrist.",
+    "note": "A physician who specializes in mental disorders; an older term for a psychiatrist.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/alienist",
+        "label": "Collins · alienist"
+      }
+    ],
+    "evidence": "c06: n’t know. Dr. S: You know what kind of doctor I am, don’t you, Donna? I am an alienist. Why is it you think your father and mother wish me to treat you? DW: I have people inside me. Dr. S: Do you mean you are pregnant? DW: "
+  },
+  {
+    "id": "blutsauger",
+    "term": "Blutsauger",
+    "aliases": [],
+    "short": "German: bloodsucker or vampire.",
+    "note": "German Blutsauger means a bloodsucker, literally or figuratively, and can mean a vampire.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/german-english/blutsauger",
+        "label": "Collins German–English · Blutsauger"
+      }
+    ],
+    "evidence": "c06: ed, and when they are on the ground they walk just as you do. So your Thag is a Blutsauger and next you will want me to pound a stick into you, which Dr. Freud and I understand. No, Donna, but you need help with all those people i"
+  },
+  {
+    "id": "freud",
+    "term": "Freud",
+    "aliases": [],
+    "short": "Sigmund Freud, founder of psychoanalysis.",
+    "note": "Sigmund Freud (1856–1939), the Austrian physician who developed psychoanalysis, emphasizing unconscious mental processes and the interpretation of dreams.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.freud.org.uk/wp-content/uploads/2018/01/What-is-Psychoanalysis.pdf",
+        "label": "Freud Museum · What is Psychoanalysis?"
+      }
+    ],
+    "evidence": "c06:  is a Blutsauger and next you will want me to pound a stick into you, which Dr. Freud and I understand. No, Donna, but you need help with all those people inside you, and we will try the Cerletti treatment. DW: Dr. Stein— (E"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "divan",
+    "term": "divan",
+    "aliases": [
+      "divan",
+      "divans"
+    ],
+    "note": "A long, low couch, often without a back or arms.",
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/divan",
+        "label": "Merriam-Webster"
+      }
+    ],
+    "short": "A low couch or cushioned seat.",
+    "possible": false,
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-021",
+      "index": 0
+    }
+  }
+]
