@@ -12,7 +12,7 @@
   ],
   "totalWords": 2330,
   "defaultChapter": "story",
-  "glossaryCount": 1,
+  "glossaryCount": 2,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -136,6 +136,10 @@
       "headingNoteAnchors": [],
       "headingHtml": "The Peace Spy",
       "noteAnchors": [
+        {
+          "term": "samovar",
+          "paragraph": "p-007"
+        },
         {
           "term": "divan",
           "paragraph": "p-021"

@@ -12,7 +12,7 @@
   ],
   "totalWords": 8640,
   "defaultChapter": "story",
-  "glossaryCount": 3,
+  "glossaryCount": 4,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -299,6 +299,10 @@
         {
           "term": "mendel",
           "paragraph": "p-116"
+        },
+        {
+          "term": "plastisol",
+          "paragraph": "p-162"
         },
         {
           "term": "darwin",

@@ -40,5 +40,45 @@
       "paragraph": "p-057",
       "index": 0
     }
+  },
+  {
+    "id": "remontant",
+    "term": "remontant",
+    "aliases": [],
+    "short": "Flowering more than once in a season.",
+    "note": "Used of roses and other plants that flower again after their first flush of blooms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/remontant",
+        "label": "Merriam-Webster: remontant"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-020",
+      "index": 0
+    }
+  },
+  {
+    "id": "aspic",
+    "term": "aspic",
+    "aliases": [],
+    "short": "Savory jelly made from stock.",
+    "note": "A clear meat- or fish-stock jelly used to surround or mold cold dishes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/aspic",
+        "label": "Merriam-Webster: aspic"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-026",
+      "index": 0
+    }
   }
 ]

@@ -18,7 +18,7 @@
   ],
   "totalWords": 78068,
   "defaultChapter": "fifth-head",
-  "glossaryCount": 58,
+  "glossaryCount": 69,
   "correctionCount": 1,
   "editionVersion": 13,
   "chapters": [
@@ -569,6 +569,10 @@
           "paragraph": "p-138"
         },
         {
+          "term": "contralto",
+          "paragraph": "p-140"
+        },
+        {
           "term": "nerissa",
           "paragraph": "p-154"
         },
@@ -631,6 +635,10 @@
         {
           "term": "mendelian",
           "paragraph": "p-375"
+        },
+        {
+          "term": "servitor",
+          "paragraph": "p-407"
         }
       ],
       "words": 25332,
@@ -1214,6 +1222,14 @@
           "paragraph": "p-010"
         },
         {
+          "term": "gobbet",
+          "paragraph": "p-079"
+        },
+        {
+          "term": "aigrettes",
+          "paragraph": "p-175"
+        },
+        {
           "term": "serried",
           "paragraph": "p-215"
         },
@@ -1232,6 +1248,10 @@
         {
           "term": "poictesme",
           "paragraph": "p-367"
+        },
+        {
+          "term": "chaplet",
+          "paragraph": "p-418"
         }
       ],
       "words": 18491,
@@ -2291,12 +2311,20 @@
           "paragraph": "p-148"
         },
         {
+          "term": "puttee",
+          "paragraph": "p-175"
+        },
+        {
           "term": "fennec",
           "paragraph": "p-208"
         },
         {
           "term": "carabao",
           "paragraph": "p-209"
+        },
+        {
+          "term": "lachrymal",
+          "paragraph": "p-210"
         },
         {
           "term": "sinecure",
@@ -2311,8 +2339,16 @@
           "paragraph": "p-320"
         },
         {
+          "term": "recognizance",
+          "paragraph": "p-323"
+        },
+        {
           "term": "la-fange",
           "paragraph": "p-359"
+        },
+        {
+          "term": "emolument",
+          "paragraph": "p-365"
         },
         {
           "term": "les-eyzies",
@@ -2331,6 +2367,10 @@
           "paragraph": "p-446"
         },
         {
+          "term": "reveille",
+          "paragraph": "p-452"
+        },
+        {
           "term": "saltimbanque",
           "paragraph": "p-754"
         },
@@ -2341,6 +2381,10 @@
         {
           "term": "carapace",
           "paragraph": "p-812"
+        },
+        {
+          "term": "carding",
+          "paragraph": "p-862"
         },
         {
           "term": "maison-du-chien",

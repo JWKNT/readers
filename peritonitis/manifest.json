@@ -12,7 +12,7 @@
   ],
   "totalWords": 2218,
   "defaultChapter": "story",
-  "glossaryCount": 1,
+  "glossaryCount": 3,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -59,7 +59,16 @@
         }
       ],
       "headingHtml": "<span class=\"word\" data-term=\"peritonitis\" data-first=\"true\" data-local-first=\"true\">Peritonitis</span>",
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "spinney",
+          "paragraph": "p-014"
+        },
+        {
+          "term": "millrace",
+          "paragraph": "p-021"
+        }
+      ],
       "words": 2218,
       "startWords": 0
     }

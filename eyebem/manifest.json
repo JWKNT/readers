@@ -12,7 +12,7 @@
   ],
   "totalWords": 4225,
   "defaultChapter": "story",
-  "glossaryCount": 5,
+  "glossaryCount": 6,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -114,6 +114,10 @@
         {
           "term": "kobuk-river",
           "paragraph": "p-028"
+        },
+        {
+          "term": "bistable",
+          "paragraph": "p-051"
         }
       ],
       "words": 4225,

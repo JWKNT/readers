@@ -118,5 +118,50 @@
       }
     ],
     "evidence": " had ever seen up till then, a fat man with white hair—set two of the hostlers to watch our balloon while it was taken back to the stable yard. Venison and beef were o"
+  },
+  {
+    "id": "brazier",
+    "term": "brazier",
+    "aliases": [],
+    "short": "A metal container for an open fire.",
+    "note": "A pan or open receptacle that holds burning fuel, commonly charcoal, to provide heat.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/brazier",
+        "label": "Merriam-Webster: brazier"
+      }
+    ],
+    "evidence": "story/p-002:  every quarter hour or so with a few double handfuls of straw for the brazier, and that was all it required. We cruised, usually, at about twice the height of a steeple."
+  },
+  {
+    "id": "roan",
+    "term": "roan",
+    "aliases": [],
+    "short": "A coat with white and colored hairs mixed.",
+    "note": "Describes a horse whose base coat color is lightened by white hairs evenly mixed through it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/roan",
+        "label": "Merriam-Webster: roan"
+      }
+    ],
+    "evidence": "story/p-040: irst of them had reached the fence around the field. He was sitting a roan stallion that took it at a clean jump and came thundering up to us looking as big as a donjon on wh"
+  },
+  {
+    "id": "mettlesome",
+    "term": "mettlesome",
+    "aliases": [],
+    "short": "Spirited; full of courage.",
+    "note": "Showing energy, determination, or a bold disposition.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mettlesome",
+        "label": "Merriam-Webster: mettlesome"
+      }
+    ],
+    "evidence": "story/p-047: Of course, I should not have done it. I have been too mettlesome all my life, and it has gotten me in more trouble than I could tell you of if I talked till sunset,"
   }
 ]

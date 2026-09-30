@@ -73,5 +73,20 @@
       }
     ],
     "evidence": "story/p-005: then the little pause as he searched—the pause that told of hysteresis gathering on his aging mind like cobwebs. “A hundred and twenty-three times, Eyebem. That"
+  },
+  {
+    "id": "bistable",
+    "term": "bistable",
+    "aliases": [],
+    "short": "Having two stable states.",
+    "note": "A bistable circuit can remain in either of two stable states, a basic arrangement used in electronic switching and memory.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/bistable",
+        "label": "Dictionary.com · bistable"
+      }
+    ],
+    "evidence": "story/p-051: dependent on subminiature semiconductor chips which make up bistable circuits. When there is no electromotive force on them, the semiconductors “forget” their"
   }
 ]

@@ -58,5 +58,25 @@
       "paragraph": "p-008",
       "index": 0
     }
+  },
+  {
+    "id": "boater",
+    "term": "boater",
+    "aliases": [],
+    "short": "A stiff, flat-topped straw hat.",
+    "note": "A straw hat with a flat crown, straight brim, and hatband.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/boater",
+        "label": "Merriam-Webster: boater"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-008",
+      "index": 0
+    }
   }
 ]

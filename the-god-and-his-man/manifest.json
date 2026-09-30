@@ -18,7 +18,7 @@
   ],
   "totalWords": 2205,
   "defaultChapter": "story",
-  "glossaryCount": 3,
+  "glossaryCount": 4,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -70,6 +70,10 @@
       "headingNoteAnchors": [],
       "headingHtml": "The God and His Man",
       "noteAnchors": [
+        {
+          "term": "tarnung",
+          "paragraph": "p-005"
+        },
         {
           "term": "maser",
           "paragraph": "p-005"

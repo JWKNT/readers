@@ -12,7 +12,7 @@
   ],
   "totalWords": 2493,
   "defaultChapter": "story",
-  "glossaryCount": 9,
+  "glossaryCount": 14,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -81,6 +81,10 @@
           "paragraph": "p-002"
         },
         {
+          "term": "cynosure",
+          "paragraph": "p-003"
+        },
+        {
           "term": "falchion",
           "paragraph": "p-004"
         },
@@ -89,12 +93,28 @@
           "paragraph": "p-005"
         },
         {
+          "term": "groats",
+          "paragraph": "p-005"
+        },
+        {
+          "term": "flacon",
+          "paragraph": "p-006"
+        },
+        {
+          "term": "puissant",
+          "paragraph": "p-009"
+        },
+        {
           "term": "undine",
           "paragraph": "p-010"
         },
         {
           "term": "barbican",
           "paragraph": "p-010"
+        },
+        {
+          "term": "pricket",
+          "paragraph": "p-013"
         },
         {
           "term": "woden",

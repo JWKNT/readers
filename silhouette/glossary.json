@@ -120,5 +120,85 @@
       "paragraph": "p-070",
       "index": 0
     }
+  },
+  {
+    "id": "planchette",
+    "term": "planchette",
+    "aliases": [],
+    "short": "A small board used in attempted spirit writing.",
+    "note": "A small board, traditionally mounted on wheels and fitted with a pencil, moved under the fingertips to produce supposedly automatic or spirit-guided writing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/planchette",
+        "label": "Dictionary.com · planchette"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-359",
+      "index": 0
+    }
+  },
+  {
+    "id": "musteline",
+    "term": "musteline",
+    "aliases": [],
+    "short": "Tawny or weasel-brown.",
+    "note": "Brown or tawny like a weasel’s summer coat; the adjective also means resembling or belonging to the weasel family.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/musteline",
+        "label": "Dictionary.com · musteline"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-221",
+      "index": 0
+    }
+  },
+  {
+    "id": "photophilous",
+    "term": "photophilous",
+    "aliases": [],
+    "short": "Thriving in strong light.",
+    "note": "Light-loving: used especially of plants that grow best with abundant light.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/photophilous",
+        "label": "Dictionary.com · photophilous"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-037",
+      "index": 0
+    }
+  },
+  {
+    "id": "gorget",
+    "term": "gorget",
+    "aliases": [],
+    "short": "A neck ornament marking an officer’s rank.",
+    "note": "Originally throat armor; later a crescent-shaped ornament worn at the neck as an officer’s badge of rank.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/gorget",
+        "label": "Dictionary.com · gorget"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-038",
+      "index": 0
+    }
   }
 ]

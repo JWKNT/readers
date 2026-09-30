@@ -98,5 +98,25 @@
       "paragraph": "p-053",
       "index": 0
     }
+  },
+  {
+    "id": "asymptotically",
+    "term": "asymptotically",
+    "aliases": [],
+    "short": "Approaching a limit without reaching it.",
+    "note": "In a way that continually approaches a limiting value, becoming arbitrarily close without attaining that value.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/asymptotically",
+        "label": "Dictionary.com · asymptotically"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-030",
+      "index": 0
+    }
   }
 ]

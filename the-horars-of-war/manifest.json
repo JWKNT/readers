@@ -12,7 +12,7 @@
   ],
   "totalWords": 6646,
   "defaultChapter": "story",
-  "glossaryCount": 2,
+  "glossaryCount": 3,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -200,6 +200,10 @@
         {
           "term": "pinocchio",
           "paragraph": "p-003"
+        },
+        {
+          "term": "sintered",
+          "paragraph": "p-059"
         },
         {
           "term": "punch",

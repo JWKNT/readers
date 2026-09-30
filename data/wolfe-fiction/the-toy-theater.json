@@ -178,5 +178,20 @@
       }
     ],
     "evidence": " whispered but audible conference, they burst into Rosine’s song from The Barber of Seville—Julia singing coloratura soprano, Columbine mezzo-soprano, and Lucinda contralto. “Don’t"
+  },
+  {
+    "id": "umber",
+    "term": "umber",
+    "aliases": [],
+    "short": "A dark yellowish-brown color.",
+    "note": "A brown earth pigment containing iron and manganese oxides, or its characteristic brown color.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/umber",
+        "label": "Merriam-Webster: umber"
+      }
+    ],
+    "evidence": "story/p-002: sually you don’t get them. Sarg had them. The light ran to sienna and umber and ocher, so that everything looked older than it was and made you think of waxed oak and tarnishe"
   }
 ]

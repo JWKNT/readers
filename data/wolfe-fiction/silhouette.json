@@ -90,5 +90,65 @@
       }
     ],
     "evidence": "c35: e, so that the little plastic case flashed like a diamond. “Or trade? I got the Dore New Testament here. There’s hours of entertainment in a Dore New Testament. Everybody’s after them.” “What else have you got?” Johann seate"
+  },
+  {
+    "id": "planchette",
+    "term": "planchette",
+    "aliases": [],
+    "short": "A small board used in attempted spirit writing.",
+    "note": "A small board, traditionally mounted on wheels and fitted with a pencil, moved under the fingertips to produce supposedly automatic or spirit-guided writing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/planchette",
+        "label": "Dictionary.com · planchette"
+      }
+    ],
+    "evidence": "story/p-359: e. By things seen in water under certain conditions. By the planchette. In the visions induced by certain liberating medications.”"
+  },
+  {
+    "id": "musteline",
+    "term": "musteline",
+    "aliases": [],
+    "short": "Tawny or weasel-brown.",
+    "note": "Brown or tawny like a weasel’s summer coat; the adjective also means resembling or belonging to the weasel family.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/musteline",
+        "label": "Dictionary.com · musteline"
+      }
+    ],
+    "evidence": "story/p-221: s sprung from those mountains clove the land with ebony and musteline scars."
+  },
+  {
+    "id": "photophilous",
+    "term": "photophilous",
+    "aliases": [],
+    "short": "Thriving in strong light.",
+    "note": "Light-loving: used especially of plants that grow best with abundant light.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/photophilous",
+        "label": "Dictionary.com · photophilous"
+      }
+    ],
+    "evidence": "story/p-037: p-037 “I thought plants were supposed to be photophilous.”"
+  },
+  {
+    "id": "gorget",
+    "term": "gorget",
+    "aliases": [],
+    "short": "A neck ornament marking an officer’s rank.",
+    "note": "Originally throat armor; later a crescent-shaped ornament worn at the neck as an officer’s badge of rank.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/gorget",
+        "label": "Dictionary.com · gorget"
+      }
+    ],
+    "evidence": "story/p-038: on, and magnetic-soled sandals; her rank was indicated by a gorget, but still more plainly by the set of her shoulders and an aura of command. By a policy l"
   }
 ]

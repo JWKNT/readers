@@ -31,7 +31,7 @@
   ],
   "totalWords": 114223,
   "defaultChapter": "section-06",
-  "glossaryCount": 104,
+  "glossaryCount": 108,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -494,6 +494,10 @@
         {
           "term": "may-seventh-cadre-schools",
           "paragraph": "p-025"
+        },
+        {
+          "term": "klaxons",
+          "paragraph": "p-065"
         }
       ],
       "words": 2632,
@@ -1245,6 +1249,10 @@
         {
           "term": "along-the-river-during-the-qingming-festival",
           "paragraph": "p-009"
+        },
+        {
+          "term": "pinyin",
+          "paragraph": "p-027"
         },
         {
           "term": "madame-curie",
@@ -3295,6 +3303,10 @@
           "paragraph": "p-028"
         },
         {
+          "term": "kang",
+          "paragraph": "p-030"
+        },
+        {
           "term": "cultural-revolution",
           "paragraph": "p-043"
         },
@@ -4090,6 +4102,10 @@
         {
           "term": "strong-interaction",
           "paragraph": "p-065"
+        },
+        {
+          "term": "tori",
+          "paragraph": "p-070"
         },
         {
           "term": "mobius-strip",

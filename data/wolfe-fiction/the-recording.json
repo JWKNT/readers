@@ -43,5 +43,20 @@
       }
     ],
     "evidence": "e trudged through the heat, he in a straw boater and a blue and white seersucker suit as loose and voluminous as the robes worn by the women in the plates of our family B"
+  },
+  {
+    "id": "boater",
+    "term": "boater",
+    "aliases": [],
+    "short": "A stiff, flat-topped straw hat.",
+    "note": "A straw hat with a flat crown, straight brim, and hatband.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/boater",
+        "label": "Merriam-Webster: boater"
+      }
+    ],
+    "evidence": "story/p-008: int my memory is distinct. We trudged through the heat, he in a straw boater and a blue and white seersucker suit as loose and voluminous as the robes worn by the women in the "
   }
 ]

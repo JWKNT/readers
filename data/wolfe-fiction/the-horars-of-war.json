@@ -30,5 +30,20 @@
       }
     ],
     "evidence": "c19: e moved as silently as a hospital cart. His immediate precursor had been named “Punch,” apparently in the sort of simpering depreciation which found “Shillelagh” acceptable for a war rocket. “Punch”—a bust in the mouth. But P"
+  },
+  {
+    "id": "sintered",
+    "term": "sintered",
+    "aliases": [],
+    "short": "Bonded from particles by heat or pressure.",
+    "note": "Made by consolidating powdered material into a solid mass using heat, pressure, or both.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/sinter",
+        "label": "Dictionary.com · sinter"
+      }
+    ],
+    "evidence": "story/p-059: uld flatten saplings and bamboo. Yet resilient organics and sintered metals had turned the rumble of the old, manned tanks to a soft hiss for Pinocchio. Where"
   }
 ]

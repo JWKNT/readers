@@ -12,7 +12,7 @@
   ],
   "totalWords": 6714,
   "defaultChapter": "story",
-  "glossaryCount": 3,
+  "glossaryCount": 5,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -311,6 +311,14 @@
         {
           "term": "heimdall",
           "paragraph": "p-078"
+        },
+        {
+          "term": "hermetic",
+          "paragraph": "p-085"
+        },
+        {
+          "term": "fugue",
+          "paragraph": "p-101"
         }
       ],
       "words": 6714,

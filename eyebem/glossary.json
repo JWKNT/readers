@@ -98,5 +98,25 @@
       "paragraph": "p-005",
       "index": 0
     }
+  },
+  {
+    "id": "bistable",
+    "term": "bistable",
+    "aliases": [],
+    "short": "Having two stable states.",
+    "note": "A bistable circuit can remain in either of two stable states, a basic arrangement used in electronic switching and memory.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/bistable",
+        "label": "Dictionary.com · bistable"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-051",
+      "index": 0
+    }
   }
 ]

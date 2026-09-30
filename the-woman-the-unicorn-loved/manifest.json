@@ -12,7 +12,7 @@
   ],
   "totalWords": 6335,
   "defaultChapter": "story",
-  "glossaryCount": 8,
+  "glossaryCount": 9,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -249,6 +249,10 @@
       "headingNoteAnchors": [],
       "headingHtml": "The Woman the Unicorn Loved",
       "noteAnchors": [
+        {
+          "term": "guidon",
+          "paragraph": "p-003"
+        },
         {
           "term": "pumpernickel",
           "paragraph": "p-050"

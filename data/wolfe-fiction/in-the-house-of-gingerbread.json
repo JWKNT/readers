@@ -30,5 +30,20 @@
       }
     ],
     "evidence": "Reused previously sourced external note, context checked c09: was full of black coffee. She had poured it without thinking, like an automaton. “Do you want cream? Sugar?” “No, thanks. Sit down, Mrs. Heim.” Tina sat. He had taken the chair s"
+  },
+  {
+    "id": "ectoplasm",
+    "term": "ectoplasm",
+    "aliases": [],
+    "short": "Supposed material emitted by a spirit medium.",
+    "note": "In Spiritualism, a substance claimed to issue from a medium’s body during a trance, sometimes taking visible forms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/ectoplasm",
+        "label": "Dictionary.com · ectoplasm"
+      }
+    ],
+    "evidence": "story/p-151: That evening the house played Little Girl. The essence, the ectoplasm, the soul of the child seeped from the cracked old plaster that had absorbed it when new."
   }
 ]

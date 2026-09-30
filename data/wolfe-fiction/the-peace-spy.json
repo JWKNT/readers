@@ -16,5 +16,20 @@
     "short": "A low couch or cushioned seat.",
     "possible": false,
     "evidence": "Reused previously sourced external note, context checked c24:  the first time, she too sat, perching on the edge of her high-backed divan. “Then with you is better.” Krasilnikov smiled. “I like to think so.” “And your fees?” He knew how "
+  },
+  {
+    "id": "samovar",
+    "term": "samovar",
+    "aliases": [],
+    "short": "A heated urn for tea water.",
+    "note": "A metal urn traditionally used in Russia to boil water for tea, heated by fuel in a central chamber or by electricity.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/samovar",
+        "label": "Dictionary.com · samovar"
+      }
+    ],
+    "evidence": "story/p-007: itterly this time, before she bent in front of the steaming samovar in the corner. “Red for our country, black for death. We are so dramatic. Only I say red "
   }
 ]

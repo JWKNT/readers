@@ -80,5 +80,65 @@
       "paragraph": "p-027",
       "index": 0
     }
+  },
+  {
+    "id": "hansoms",
+    "term": "hansoms",
+    "aliases": [],
+    "short": "Two-wheeled horse-drawn cabs.",
+    "note": "Covered cabs drawn by one horse, with passengers in front and a driver seated high behind them. Named for the designer Joseph Hansom.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/hansom",
+        "label": "Dictionary.com · hansom"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "costermongers",
+    "term": "costermongers",
+    "aliases": [],
+    "short": "Street sellers of food from carts or stalls.",
+    "note": "Hawkers selling fruit, vegetables, fish, and similar provisions, commonly from a barrow or cart in the street.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/costermonger",
+        "label": "Dictionary.com · costermonger"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "duenna",
+    "term": "duenna",
+    "aliases": [],
+    "short": "An older female chaperon.",
+    "note": "In Spanish and Portuguese usage, an older woman employed to supervise or accompany a young woman; also a governess.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/duenna",
+        "label": "Dictionary.com · duenna"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-032",
+      "index": 0
+    }
   }
 ]

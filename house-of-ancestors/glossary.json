@@ -62,5 +62,25 @@
       "paragraph": "p-078",
       "index": 0
     }
+  },
+  {
+    "id": "plastisol",
+    "term": "plastisol",
+    "aliases": [],
+    "short": "A resin mixture that sets when heated.",
+    "note": "A dispersion of resin in a liquid plasticizer, forming a paste or liquid that gels on heating.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/plastisol",
+        "label": "Dictionary.com · plastisol"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-162",
+      "index": 0
+    }
   }
 ]

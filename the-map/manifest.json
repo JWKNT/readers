@@ -12,7 +12,7 @@
   ],
   "totalWords": 5027,
   "defaultChapter": "story",
-  "glossaryCount": 24,
+  "glossaryCount": 30,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -252,7 +252,19 @@
           "paragraph": "p-064"
         },
         {
+          "term": "binnacle",
+          "paragraph": "p-064"
+        },
+        {
+          "term": "ells",
+          "paragraph": "p-069"
+        },
+        {
           "term": "lune",
+          "paragraph": "p-070"
+        },
+        {
+          "term": "virescence",
           "paragraph": "p-070"
         },
         {
@@ -264,8 +276,20 @@
           "paragraph": "p-076"
         },
         {
+          "term": "ephemerid",
+          "paragraph": "p-077"
+        },
+        {
+          "term": "burse",
+          "paragraph": "p-085"
+        },
+        {
           "term": "halyard",
           "paragraph": "p-095"
+        },
+        {
+          "term": "bandog",
+          "paragraph": "p-117"
         },
         {
           "term": "aes",

@@ -17,5 +17,35 @@
       }
     ],
     "evidence": "c21:  Endangered Species Peritonitis Now this is the story Greylock told before the Men of the Neck were scattered forever, before the great exodus and the wandering in the col"
+  },
+  {
+    "id": "spinney",
+    "term": "spinney",
+    "aliases": [],
+    "short": "A small wood or thicket.",
+    "note": "A British term for a small wooded area, copse, or thicket.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/spinney",
+        "label": "Dictionary.com · spinney"
+      }
+    ],
+    "evidence": "story/p-014: epted path, then deemed safe, was to skirt the southernmost spinney of the Hair, near the Ear, and thence to climb to the Eyes by an oblique ascent."
+  },
+  {
+    "id": "millrace",
+    "term": "millrace",
+    "aliases": [],
+    "short": "A swift current driving a watermill.",
+    "note": "The water channel feeding a mill wheel, or the current flowing through it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/millrace",
+        "label": "Dictionary.com · millrace"
+      }
+    ],
+    "evidence": "story/p-021: ptor, drowning him, though he was himself delirious, in the millrace of madness. How the Inner People won them, they who then ate what they had from the water"
   }
 ]

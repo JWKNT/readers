@@ -28,5 +28,50 @@
       }
     ],
     "evidence": "s over, she began to tear at the ligaments that held the bones of the tarsus to the leg. Over the pain he could feel the hot tears washing the blood from his foot. "
+  },
+  {
+    "id": "intellection",
+    "term": "intellection",
+    "aliases": [],
+    "short": "Thinking or reasoning.",
+    "note": "The activity of the intellect: forming thoughts and reasoning.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/intellection",
+        "label": "Merriam-Webster: intellection"
+      }
+    ],
+    "evidence": "story/p-019: earded man. The fat man, the master, his genetic heritage revised for intellection and peace, had hardly time to turn before his mouth gushed blood. The woman whirled and ran, the vi"
+  },
+  {
+    "id": "interstices",
+    "term": "interstices",
+    "aliases": [],
+    "short": "Small gaps between things.",
+    "note": "Narrow intervening spaces between closely spaced objects.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/interstice",
+        "label": "Merriam-Webster: interstices"
+      }
+    ],
+    "evidence": "story/p-017: s of flowering vines the color of love, and white skin flashed in the interstices; a serpent of gold supported her breasts)."
+  },
+  {
+    "id": "cephalopods",
+    "term": "cephalopods",
+    "aliases": [],
+    "short": "Mollusks such as squid and octopuses.",
+    "note": "Marine mollusks with muscular arms around the head; the group includes squid, octopuses, cuttlefish, and nautiluses.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cephalopod",
+        "label": "Merriam-Webster: cephalopods"
+      }
+    ],
+    "evidence": "story/p-115: ck up the shoes and conceal them behind an aquarium of phosphorescent cephalopods, had died, rotted to dust, and undergone rebirth as a fissioning cell in his mother’s womb with all"
   }
 ]

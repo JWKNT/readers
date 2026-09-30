@@ -2134,5 +2134,87 @@
       "paragraph": "p-070",
       "index": 32
     }
+  },
+  {
+    "id": "pinyin",
+    "term": "pinyin",
+    "aliases": [],
+    "short": "The Roman-letter spelling system for Mandarin Chinese.",
+    "note": "A system for writing Chinese pronunciation with the Latin alphabet, using accent marks to indicate tones.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pinyin",
+        "label": "Merriam-Webster: pinyin"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-14",
+      "paragraph": "p-027",
+      "index": 7
+    }
+  },
+  {
+    "id": "kang",
+    "term": "kang",
+    "aliases": [],
+    "short": "A heated masonry sleeping platform.",
+    "note": "A brick platform traditionally used for sleeping in northern Chinese homes, warmed by a fire or hot flue gases beneath it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/kang",
+        "label": "Merriam-Webster: kang"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "section-33",
+      "paragraph": "p-030",
+      "index": 25
+    }
+  },
+  {
+    "id": "tori",
+    "term": "tori",
+    "aliases": [],
+    "short": "Doughnut-shaped surfaces or bodies.",
+    "note": "The plural of torus: a ring-shaped surface made by revolving a circle around an axis outside it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/torus",
+        "label": "Merriam-Webster: torus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-40",
+      "paragraph": "p-070",
+      "index": 32
+    }
+  },
+  {
+    "id": "klaxons",
+    "term": "klaxons",
+    "aliases": [
+      "klaxon"
+    ],
+    "short": "Loud electric warning horns.",
+    "note": "Electrically operated horns or alarms. Klaxon was originally a trademark.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/klaxon",
+        "label": "Merriam-Webster: Klaxon"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-065",
+      "index": 2
+    }
   }
 ]

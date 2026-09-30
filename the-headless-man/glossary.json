@@ -38,5 +38,25 @@
       "paragraph": "p-003",
       "index": 0
     }
+  },
+  {
+    "id": "dummkopf",
+    "term": "dummkopf",
+    "aliases": [],
+    "short": "A fool or blockhead.",
+    "note": "A German-derived insult meaning a stupid person, literally built from words for “dumb” and “head.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/dummkopf",
+        "label": "Dictionary.com · dummkopf"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-011",
+      "index": 0
+    }
   }
 ]

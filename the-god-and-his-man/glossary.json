@@ -58,5 +58,25 @@
       "paragraph": "p-009",
       "index": 0
     }
+  },
+  {
+    "id": "tarnung",
+    "term": "Tarnung",
+    "aliases": [],
+    "short": "German: camouflage or disguise.",
+    "note": "German Tarnung means camouflage: concealment that makes something difficult to distinguish from its surroundings.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/us/dictionary/german-english/tarnung",
+        "label": "Cambridge German–English Dictionary: Tarnung"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
   }
 ]

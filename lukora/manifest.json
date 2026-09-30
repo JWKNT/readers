@@ -12,7 +12,7 @@
   ],
   "totalWords": 2571,
   "defaultChapter": "story",
-  "glossaryCount": 3,
+  "glossaryCount": 5,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -132,8 +132,16 @@
           "paragraph": "p-001"
         },
         {
+          "term": "freshet",
+          "paragraph": "p-033"
+        },
+        {
           "term": "sough",
           "paragraph": "p-048"
+        },
+        {
+          "term": "ensorceling",
+          "paragraph": "p-059"
         },
         {
           "term": "verdigris",

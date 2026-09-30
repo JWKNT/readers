@@ -1217,5 +1217,229 @@
       "paragraph": "p-105",
       "index": 2
     }
+  },
+  {
+    "id": "aigrettes",
+    "term": "aigrettes",
+    "aliases": [],
+    "short": "Egrets; the French name for these plume-bearing herons.",
+    "note": "French aigrette names an egret, a long-legged heron noted for its fine plumes. The word also names a tuft of feathers or an ornament made from them.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionnaire-academie.fr/article/A9A0973",
+        "label": "Dictionnaire de l’Académie française: aigrette"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "a-story",
+      "paragraph": "p-175",
+      "index": 1
+    }
+  },
+  {
+    "id": "puttee",
+    "term": "puttee",
+    "aliases": [],
+    "short": "A protective wrapping for the lower leg.",
+    "note": "A strip of cloth wound around the leg between ankle and knee, formerly common in military dress; the word can also denote a gaiter. It comes from Hindi paṭṭī, “bandage.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/puttee",
+        "label": "Collins English Dictionary: puttee"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-175",
+      "index": 2
+    }
+  },
+  {
+    "id": "emolument",
+    "term": "emolument",
+    "aliases": [],
+    "short": "Payment for services or work.",
+    "note": "A formal term for money received in return for work: a fee, salary, or other remuneration.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/emolument",
+        "label": "Oxford Advanced Learner’s Dictionary: emolument"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-365",
+      "index": 2
+    }
+  },
+  {
+    "id": "chaplet",
+    "term": "chaplet",
+    "aliases": [],
+    "short": "A small wreath worn as a crown.",
+    "note": "A garland for the head, often made from flowers or leaves.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chaplet",
+        "label": "Merriam-Webster: chaplet"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "a-story",
+      "paragraph": "p-418",
+      "index": 1
+    }
+  },
+  {
+    "id": "contralto",
+    "term": "contralto",
+    "aliases": [],
+    "short": "A low female vocal register.",
+    "note": "The lowest conventional female singing voice, below mezzo-soprano; also a singer or musical part in that range.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/contralto",
+        "label": "Merriam-Webster: contralto"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-140",
+      "index": 0
+    }
+  },
+  {
+    "id": "carding",
+    "term": "carding",
+    "aliases": [
+      "carded"
+    ],
+    "short": "Combing fibers before they are spun.",
+    "note": "Cleaning and disentangling loose fibers with toothed implements or machines, gathering them together in preparation for spinning yarn.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carding",
+        "label": "Merriam-Webster: card, textile sense"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-862",
+      "index": 2
+    }
+  },
+  {
+    "id": "gobbet",
+    "term": "gobbet",
+    "aliases": [],
+    "short": "A lump or small piece, especially of meat.",
+    "note": "A chunk or portion of flesh or other material; by extension, a small fragment or extract.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gobbet",
+        "label": "Merriam-Webster: gobbet"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "a-story",
+      "paragraph": "p-079",
+      "index": 1
+    }
+  },
+  {
+    "id": "lachrymal",
+    "term": "lachrymal",
+    "aliases": [],
+    "short": "Relating to tears or tear-producing glands.",
+    "note": "Also spelled lacrimal: concerning tears and the glands that secrete them. Lachrymal fluid is tear fluid.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lachrymal",
+        "label": "Merriam-Webster: lachrymal"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-210",
+      "index": 2
+    }
+  },
+  {
+    "id": "recognizance",
+    "term": "recognizance",
+    "aliases": [],
+    "short": "A formal pledge to fulfill an obligation.",
+    "note": "A legally recorded undertaking, commonly a promise to appear before a court.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/recognizance",
+        "label": "Merriam-Webster: recognizance"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-323",
+      "index": 2
+    }
+  },
+  {
+    "id": "reveille",
+    "term": "reveille",
+    "aliases": [],
+    "short": "The military morning wake-up signal.",
+    "note": "A call, commonly sounded on a bugle near sunrise, telling soldiers to rise or assemble for the day’s first formation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/reveille",
+        "label": "Merriam-Webster: reveille"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "vrt",
+      "paragraph": "p-452",
+      "index": 2
+    }
+  },
+  {
+    "id": "servitor",
+    "term": "servitor",
+    "aliases": [
+      "servitors"
+    ],
+    "short": "A servant or attendant.",
+    "note": "An older word for a servant, historically especially a male servant. It derives from Latin servire, “to serve.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/servitor",
+        "label": "Merriam-Webster: servitor"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-407",
+      "index": 0
+    }
   }
 ]

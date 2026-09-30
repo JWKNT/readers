@@ -12,7 +12,7 @@
   ],
   "totalWords": 5321,
   "defaultChapter": "story",
-  "glossaryCount": 4,
+  "glossaryCount": 7,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -168,12 +168,24 @@
       "headingHtml": "Our Neighbour by <span class=\"word\" data-term=\"david-copperfield\" data-first=\"true\" data-local-first=\"true\">David Copperfield</span>",
       "noteAnchors": [
         {
+          "term": "costermongers",
+          "paragraph": "p-004"
+        },
+        {
+          "term": "hansoms",
+          "paragraph": "p-004"
+        },
+        {
           "term": "lincolns-inn",
           "paragraph": "p-008"
         },
         {
           "term": "sere",
           "paragraph": "p-027"
+        },
+        {
+          "term": "duenna",
+          "paragraph": "p-032"
         },
         {
           "term": "david-copperfield",

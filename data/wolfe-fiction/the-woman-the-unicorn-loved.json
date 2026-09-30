@@ -121,5 +121,20 @@
       }
     ],
     "evidence": "c23: n the country, or even a famous collection. But it’s a jolly good one. It’s got James Branch Cabell in first editions, for example, and a lot of his letters. And there’s some wonderful John Gardner material. So that’s where I put Nick.” St"
+  },
+  {
+    "id": "guidon",
+    "term": "guidon",
+    "aliases": [],
+    "short": "A small flag or streamer.",
+    "note": "A small military flag used to identify, guide, or signal a unit; the word can also designate its bearer.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/guidon",
+        "label": "Dictionary.com · guidon"
+      }
+    ],
+    "evidence": "story/p-003: ind of tail—like the tail of a bull, but with an additional guidon of hair halfway to the tip—that is seen only in heraldic beasts. His horn shone like poli"
   }
 ]

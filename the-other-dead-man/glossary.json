@@ -62,5 +62,45 @@
       "paragraph": "p-078",
       "index": 0
     }
+  },
+  {
+    "id": "hermetic",
+    "term": "hermetic",
+    "aliases": [],
+    "short": "Sealed airtight.",
+    "note": "Closed by a seal that prevents air from entering or escaping.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/hermetic",
+        "label": "Dictionary.com · hermetic"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-085",
+      "index": 0
+    }
+  },
+  {
+    "id": "fugue",
+    "term": "fugue",
+    "aliases": [],
+    "short": "Music built from successive imitations of a theme.",
+    "note": "A contrapuntal composition in which a theme is introduced by one voice and taken up by others, producing interwoven melodic lines.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/fugue",
+        "label": "Dictionary.com · fugue"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-101",
+      "index": 0
+    }
   }
 ]

@@ -73,5 +73,20 @@
       }
     ],
     "evidence": "c06:  is a Blutsauger and next you will want me to pound a stick into you, which Dr. Freud and I understand. No, Donna, but you need help with all those people inside you, and we will try the Cerletti treatment. DW: Dr. Stein— (E"
+  },
+  {
+    "id": "asymptotically",
+    "term": "asymptotically",
+    "aliases": [],
+    "short": "Approaching a limit without reaching it.",
+    "note": "In a way that continually approaches a limiting value, becoming arbitrarily close without attaining that value.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/asymptotically",
+        "label": "Dictionary.com · asymptotically"
+      }
+    ],
+    "evidence": "story/p-030: p-030 The nin approach a zero energy level asymptotically. Theoretically we will remain in existence forever—or at least, indefinitely. That was my"
   }
 ]

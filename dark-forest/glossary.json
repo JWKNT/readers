@@ -1238,5 +1238,453 @@
       "paragraph": "p-037",
       "index": 0
     }
+  },
+  {
+    "id": "achondrite",
+    "term": "achondrite",
+    "aliases": [],
+    "short": "A stony meteorite without rounded mineral grains.",
+    "note": "A stony meteorite lacking the small rounded grains called chondrules; achondrites include rocks from differentiated asteroids, Mars, and the Moon.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/types-of-meteorites.html",
+        "label": "Natural History Museum: types of meteorites"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-13",
+      "paragraph": "p-106",
+      "index": 3
+    }
+  },
+  {
+    "id": "octahedrite",
+    "term": "octahedrite",
+    "aliases": [],
+    "short": "An iron meteorite with intergrown crystalline plates.",
+    "note": "A type of iron meteorite whose structure contains plates of kamacite intergrown with taenite, producing a distinctive crosshatched pattern.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/octahedrite",
+        "label": "Merriam-Webster: octahedrite"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-13",
+      "paragraph": "p-118",
+      "index": 3
+    }
+  },
+  {
+    "id": "ataxite",
+    "term": "ataxite",
+    "aliases": [],
+    "short": "An iron meteorite without a visible patterned structure.",
+    "note": "A structural class of iron meteorites lacking the characteristic coarse structure of hexahedrites or octahedrites.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ataxite",
+        "label": "Merriam-Webster: ataxite"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-13",
+      "paragraph": "p-118",
+      "index": 3
+    }
+  },
+  {
+    "id": "kamacite",
+    "term": "kamacite",
+    "aliases": [],
+    "short": "An iron–nickel mineral common in meteorites.",
+    "note": "A natural alloy of iron and nickel which, together with taenite, makes up much of meteoritic iron.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/kamacite",
+        "label": "Merriam-Webster: kamacite"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-13",
+      "paragraph": "p-118",
+      "index": 3
+    }
+  },
+  {
+    "id": "taenite",
+    "term": "taenite",
+    "aliases": [],
+    "short": "An iron–nickel mineral found in meteoritic metal.",
+    "note": "A natural iron–nickel alloy associated with kamacite in the metallic parts of many meteorites.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/taenite",
+        "label": "Merriam-Webster: taenite"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-13",
+      "paragraph": "p-118",
+      "index": 3
+    }
+  },
+  {
+    "id": "widmanstatten-patterns",
+    "term": "Widmanstätten patterns",
+    "aliases": [],
+    "short": "Interlocking crystal patterns in iron meteorites.",
+    "note": "Crosshatched crystalline structures exposed by cutting and etching some iron meteorites. They develop as the iron–nickel metal cools extremely slowly.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/types-of-meteorites.html",
+        "label": "Natural History Museum: types of meteorites"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-13",
+      "paragraph": "p-118",
+      "index": 3
+    }
+  },
+  {
+    "id": "neumann-lines",
+    "term": "Neumann lines",
+    "aliases": [],
+    "short": "Fine bands produced by shock in meteoritic iron.",
+    "note": "Bands caused by twinning of the crystal structure in kamacite. Such deformation can record ancient impacts experienced by an iron meteorite.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://arxiv.org/abs/2204.09195",
+        "label": "Ohtani and colleagues: experimental study of Neumann bands"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-13",
+      "paragraph": "p-118",
+      "index": 3
+    }
+  },
+  {
+    "id": "ecliptic-plane",
+    "term": "ecliptic plane",
+    "aliases": [
+      "ecliptic"
+    ],
+    "short": "Conventionally, Earth’s orbital reference plane.",
+    "note": "Conventionally, the plane containing Earth’s orbit around the Sun, used as a reference for celestial positions and orbital inclinations.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ecliptic",
+        "label": "Merriam-Webster: ecliptic"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "section-12",
+      "paragraph": "p-011",
+      "index": 2
+    }
+  },
+  {
+    "id": "geosynchronous",
+    "term": "geosynchronous",
+    "aliases": [],
+    "short": "Orbiting once per rotation of Earth.",
+    "note": "Describes an Earth orbit with a period of one sidereal day, matching Earth’s rotation relative to the stars.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/geosynchronous",
+        "label": "Merriam-Webster: geosynchronous"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "section-13",
+      "paragraph": "p-139",
+      "index": 3
+    }
+  },
+  {
+    "id": "epaulets",
+    "term": "epaulets",
+    "aliases": [
+      "epaulet"
+    ],
+    "short": "Ornamental shoulder pieces on a uniform.",
+    "note": "Decorative strips or pads worn on the shoulders of clothing, especially military uniforms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/epaulet",
+        "label": "Merriam-Webster: epaulet"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "section-12",
+      "paragraph": "p-030",
+      "index": 2
+    }
+  },
+  {
+    "id": "gunwale",
+    "term": "gunwale",
+    "aliases": [],
+    "short": "The upper edge of a boat’s side.",
+    "note": "The top rim of the side of a boat or ship; traditionally pronounced “gunnel.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gunwale",
+        "label": "Merriam-Webster: gunwale"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-05",
+      "paragraph": "p-087",
+      "index": 0
+    }
+  },
+  {
+    "id": "neutrino",
+    "term": "neutrino",
+    "aliases": [
+      "neutrinos"
+    ],
+    "short": "A nearly massless, electrically neutral particle.",
+    "note": "An elementary particle with a very small mass and no electric charge, which interacts only rarely with other matter.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/neutrino",
+        "label": "Merriam-Webster: neutrino"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-19",
+      "paragraph": "p-090",
+      "index": 6
+    }
+  },
+  {
+    "id": "gravitational-wave",
+    "term": "gravitational wave",
+    "aliases": [
+      "gravitational waves"
+    ],
+    "short": "A propagating ripple in spacetime.",
+    "note": "A travelling disturbance of the gravitational field: a ripple in spacetime that carries energy away from its source.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gravitational%20wave",
+        "label": "Merriam-Webster: gravitational wave"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "section-19",
+      "paragraph": "p-091",
+      "index": 6
+    }
+  },
+  {
+    "id": "anthropic-principle",
+    "term": "anthropic principle",
+    "aliases": [],
+    "short": "Cosmic observations are conditioned by observers’ existence.",
+    "note": "In its weak form, the principle notes that conditions we observe must permit observers to exist. Stronger forms make more controversial claims about life’s necessity.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/anthropic%20principle",
+        "label": "Merriam-Webster: anthropic principle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-1193",
+      "index": 5
+    }
+  },
+  {
+    "id": "seppuku",
+    "term": "seppuku",
+    "aliases": [],
+    "short": "Historical Japanese ritual suicide.",
+    "note": "A form of ritual suicide historically associated with the Japanese samurai, also called hara-kiri.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/seppuku",
+        "label": "Merriam-Webster: seppuku"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-844",
+      "index": 5
+    }
+  },
+  {
+    "id": "schadenfreude",
+    "term": "schadenfreude",
+    "aliases": [],
+    "short": "Pleasure in another person’s misfortune.",
+    "note": "A German loanword for enjoyment at another person’s troubles, formed from words meaning damage and joy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/schadenfreude",
+        "label": "Merriam-Webster: schadenfreude"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-734",
+      "index": 1
+    }
+  },
+  {
+    "id": "melange",
+    "term": "mélange",
+    "aliases": [],
+    "short": "A mixture of disparate things.",
+    "note": "A mixture or assortment, often combining incongruous elements; the word comes from French.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/melange",
+        "label": "Merriam-Webster: mélange"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-706",
+      "index": 1
+    }
+  },
+  {
+    "id": "photosphere",
+    "term": "photosphere",
+    "aliases": [],
+    "short": "The visible, light-emitting layer of a star.",
+    "note": "The luminous surface layer of the Sun or another star, from which most of its visible light emerges.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/photosphere",
+        "label": "Merriam-Webster: photosphere"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-14",
+      "paragraph": "p-283",
+      "index": 4
+    }
+  },
+  {
+    "id": "bainbridge",
+    "term": "Bainbridge",
+    "aliases": [],
+    "short": "Kenneth Bainbridge, director of the Trinity test.",
+    "note": "The American physicist (1904–1996) who directed preparations for Trinity, the first atomic-bomb test, carried out in New Mexico in July 1945.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nps.gov/people/manhattan-project-scientists-kenneth-bainbridge.htm",
+        "label": "US National Park Service: Kenneth Bainbridge"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-1194",
+      "index": 1
+    }
+  },
+  {
+    "id": "oppenheimer",
+    "term": "Oppenheimer",
+    "aliases": [],
+    "short": "The physicist who directed wartime Los Alamos.",
+    "note": "J. Robert Oppenheimer led the Los Alamos laboratory during the Manhattan Project, coordinating the scientific work that produced the first atomic bombs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nps.gov/articles/000/the-life-of-j-robert-oppenheimer-the-manhattan-project-years-1941-to-1946.htm",
+        "label": "US National Park Service: Oppenheimer and the Manhattan Project"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-1028",
+      "index": 1
+    }
+  },
+  {
+    "id": "mahan",
+    "term": "Mahan",
+    "aliases": [],
+    "short": "Alfred Thayer Mahan, theorist of naval power.",
+    "note": "The American naval historian argued that control of the seas, merchant shipping, and overseas bases were central to national power. His influential The Influence of Sea Power upon History appeared in 1890.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://history.state.gov/milestones/1866-1898/mahan",
+        "label": "US Office of the Historian: Mahan and sea power"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-369",
+      "index": 1
+    }
+  },
+  {
+    "id": "the-siege-of-berlin",
+    "term": "The Siege of Berlin",
+    "aliases": [],
+    "short": "A story by Alphonse Daudet about comforting deception.",
+    "note": "In Daudet’s story, an ill French veteran is shielded from news of military defeat through invented reports of French victories.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/Stories_by_Foreign_Authors_(French_I)/The_Siege_of_Berlin",
+        "label": "Wikisource: Alphonse Daudet, The Siege of Berlin"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-17",
+      "paragraph": "p-1163",
+      "index": 5
+    }
   }
 ]

@@ -12,7 +12,7 @@
   ],
   "totalWords": 5946,
   "defaultChapter": "story",
-  "glossaryCount": 2,
+  "glossaryCount": 3,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -282,6 +282,10 @@
         {
           "term": "automaton",
           "paragraph": "p-019"
+        },
+        {
+          "term": "ectoplasm",
+          "paragraph": "p-151"
         },
         {
           "term": "gioconda",

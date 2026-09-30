@@ -18,7 +18,7 @@
   ],
   "totalWords": 3805,
   "defaultChapter": "story",
-  "glossaryCount": 2,
+  "glossaryCount": 4,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -162,6 +162,14 @@
       "headingNoteAnchors": [],
       "headingHtml": "Kevin Malone",
       "noteAnchors": [
+        {
+          "term": "remontant",
+          "paragraph": "p-020"
+        },
+        {
+          "term": "aspic",
+          "paragraph": "p-026"
+        },
         {
           "term": "klipspringer",
           "paragraph": "p-057"

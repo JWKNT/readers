@@ -18,7 +18,7 @@
   ],
   "totalWords": 22086,
   "defaultChapter": "story",
-  "glossaryCount": 14,
+  "glossaryCount": 23,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -440,11 +440,23 @@
           "paragraph": "p-029"
         },
         {
+          "term": "padshah",
+          "paragraph": "p-030"
+        },
+        {
+          "term": "terrazzo",
+          "paragraph": "p-044"
+        },
+        {
           "term": "obelisk",
           "paragraph": "p-053"
         },
         {
           "term": "visit-to-a-small-planet",
+          "paragraph": "p-059"
+        },
+        {
+          "term": "ingenue",
           "paragraph": "p-059"
         },
         {
@@ -476,8 +488,24 @@
           "paragraph": "p-215"
         },
         {
+          "term": "houris",
+          "paragraph": "p-239"
+        },
+        {
           "term": "mount-kaf",
           "paragraph": "p-274"
+        },
+        {
+          "term": "caleches",
+          "paragraph": "p-286"
+        },
+        {
+          "term": "meretricious",
+          "paragraph": "p-289"
+        },
+        {
+          "term": "hajji",
+          "paragraph": "p-294"
         },
         {
           "term": "shah-namah",
@@ -486,6 +514,14 @@
         {
           "term": "sigil",
           "paragraph": "p-339"
+        },
+        {
+          "term": "arrack",
+          "paragraph": "p-339"
+        },
+        {
+          "term": "chador",
+          "paragraph": "p-392"
         }
       ],
       "words": 22086,

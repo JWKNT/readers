@@ -18,7 +18,7 @@
   ],
   "totalWords": 12017,
   "defaultChapter": "story",
-  "glossaryCount": 7,
+  "glossaryCount": 11,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -425,16 +425,32 @@
           "paragraph": "p-006"
         },
         {
+          "term": "ratiocination",
+          "paragraph": "p-006"
+        },
+        {
           "term": "dick-whittington",
           "paragraph": "p-046"
+        },
+        {
+          "term": "realpolitik",
+          "paragraph": "p-115"
         },
         {
           "term": "potemkin-village",
           "paragraph": "p-128"
         },
         {
+          "term": "nominalism",
+          "paragraph": "p-228"
+        },
+        {
           "term": "kali",
           "paragraph": "p-235"
+        },
+        {
+          "term": "midden",
+          "paragraph": "p-244"
         },
         {
           "term": "joe-nuxhall",

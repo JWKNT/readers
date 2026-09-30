@@ -399,5 +399,95 @@
       }
     ],
     "evidence": "c02: ore, he had forgotten all his plans and fought, half blinded by his blood after Laetus broke the ewer over his head. Perhaps that was for the best. And yet if they had not taken his knife while he slept, he might have killed t"
+  },
+  {
+    "id": "burse",
+    "term": "burse",
+    "aliases": [],
+    "short": "A purse or small pouch.",
+    "note": "A pouch or case for holding something; historically also a purse, from Latin bursa.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/burse",
+        "label": "Dictionary.com · burse"
+      }
+    ],
+    "evidence": "story/p-085: ok the other, tying triple knots in the thong that held his burse to his belt, loosening his jerkin, swinging his booted feet onto the hard, thin mattress,"
+  },
+  {
+    "id": "binnacle",
+    "term": "binnacle",
+    "aliases": [],
+    "short": "The housing for a ship’s compass.",
+    "note": "A stand or protective enclosure holding a ship’s compass, traditionally made of wood or nonmagnetic metal.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/binnacle",
+        "label": "Dictionary.com · binnacle"
+      }
+    ],
+    "evidence": "story/p-064: the conch.” Eata waved toward the spiraled shell beside the binnacle."
+  },
+  {
+    "id": "ells",
+    "term": "ells",
+    "aliases": [],
+    "short": "Old units of length.",
+    "note": "The ell was a measure whose length varied by country; the English ell measured 45 inches, about 1.14 metres.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/ell",
+        "label": "Dictionary.com · ell"
+      }
+    ],
+    "evidence": "story/p-069: one, then scrambled onto the deck again. The pike was three ells long, with an ugly spike head and a sharp hook intended to cut rigging. He flourished it "
+  },
+  {
+    "id": "virescence",
+    "term": "virescence",
+    "aliases": [],
+    "short": "Greenness, or becoming green.",
+    "note": "The state or process of becoming green; in botany, the appearance of green coloring in plant parts not normally green.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/virescence",
+        "label": "Dictionary.com · virescence"
+      }
+    ],
+    "evidence": "story/p-070:  of Lune lay just visible in the east, sending streamers of virescence toward him in a silent flood, spumed and uncanny. Silhouetted against that moss-green lig"
+  },
+  {
+    "id": "ephemerid",
+    "term": "ephemerid",
+    "aliases": [],
+    "short": "A mayfly.",
+    "note": "An insect of the order Ephemeroptera, the mayflies.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/ephemerid",
+        "label": "Dictionary.com · ephemerid"
+      }
+    ],
+    "evidence": "story/p-077:  pirouette, like the half turn of a thrown knife seen by an ephemerid, or the tumbling of a derelict through the abyss that separates the worlds. Clambering do"
+  },
+  {
+    "id": "bandog",
+    "term": "bandog",
+    "aliases": [],
+    "short": "A large dog kept chained as a guard.",
+    "note": "A strong dog, often a mastiff, traditionally kept tied or chained and used to guard property.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/bandog",
+        "label": "Dictionary.com · bandog"
+      }
+    ],
+    "evidence": "story/p-117: ulity of a householder who finds himself savaged by his own bandog, and he threw up his arms as much to shut out the sight as to counter the blow."
   }
 ]

@@ -12,7 +12,7 @@
   ],
   "totalWords": 4670,
   "defaultChapter": "story",
-  "glossaryCount": 3,
+  "glossaryCount": 6,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -221,8 +221,20 @@
           "paragraph": "p-035"
         },
         {
+          "term": "gravimeter",
+          "paragraph": "p-035"
+        },
+        {
+          "term": "cinnabar",
+          "paragraph": "p-037"
+        },
+        {
           "term": "charlie-fort",
           "paragraph": "p-063"
+        },
+        {
+          "term": "ferrules",
+          "paragraph": "p-083"
         },
         {
           "term": "freud",

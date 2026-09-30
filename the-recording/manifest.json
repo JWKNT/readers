@@ -18,7 +18,7 @@
   ],
   "totalWords": 1498,
   "defaultChapter": "story",
-  "glossaryCount": 3,
+  "glossaryCount": 4,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -57,6 +57,10 @@
         {
           "term": "model-a",
           "paragraph": "p-002"
+        },
+        {
+          "term": "boater",
+          "paragraph": "p-008"
         },
         {
           "term": "seersucker",

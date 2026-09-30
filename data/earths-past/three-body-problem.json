@@ -1640,5 +1640,105 @@
       }
     ],
     "occurrences": 2
+  },
+  {
+    "id": "pinyin",
+    "term": "pinyin",
+    "aliases": [],
+    "short": "The Roman-letter spelling system for Mandarin Chinese.",
+    "note": "A system for writing Chinese pronunciation with the Latin alphabet, using accent marks to indicate tones.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pinyin",
+        "label": "Merriam-Webster: pinyin"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-14",
+        "paragraph": "p-027",
+        "context": "ong’s Birch-bark Notebook. “Birch” was written in pinyin letters instead of using the character for it. The years had turned the silvery bark"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "kang",
+    "term": "kang",
+    "aliases": [],
+    "short": "A heated masonry sleeping platform.",
+    "note": "A brick platform traditionally used for sleeping in northern Chinese homes, warmed by a fire or hot flue gases beneath it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/kang",
+        "label": "Merriam-Webster: kang"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-33",
+        "paragraph": "p-030",
+        "context": "lors. Everything was warm and intense: the heated kang stove-beds lined with thick layers of ura sedge, the Guandong and Mohe tobacco stuff"
+      },
+      {
+        "chapter": "section-33",
+        "paragraph": "p-031",
+        "context": "alf a year old, would be sleeping together on the kang next to them. Ye loved to watch them sleep, their even breathing the only sound in t"
+      },
+      {
+        "chapter": "section-33",
+        "paragraph": "p-032",
+        "context": "At first, Ye did not like sleeping on the heated kang, and often got sick, but she gradually got used to it. As she slept, she would imagi"
+      }
+    ],
+    "occurrences": 4
+  },
+  {
+    "id": "tori",
+    "term": "tori",
+    "aliases": [],
+    "short": "Doughnut-shaped surfaces or bodies.",
+    "note": "The plural of torus: a ring-shaped surface made by revolving a circle around an axis outside it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/torus",
+        "label": "Merriam-Webster: torus"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-40",
+        "paragraph": "p-070",
+        "context": ", and their forms became more various. There were tori, solid crosses, and even something that looked like a Möbius strip. All the geometri"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "klaxons",
+    "term": "klaxons",
+    "aliases": [
+      "klaxon"
+    ],
+    "short": "Loud electric warning horns.",
+    "note": "Electrically operated horns or alarms. Klaxon was originally a trademark.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/klaxon",
+        "label": "Merriam-Webster: Klaxon"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-08",
+        "paragraph": "p-065",
+        "context": "g became quiet again. Fifteen seconds later, as a klaxon started to blare, a red light on top of the antenna began to blink rapidly."
+      }
+    ],
+    "occurrences": 1
   }
 ]

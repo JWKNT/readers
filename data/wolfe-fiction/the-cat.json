@@ -464,5 +464,52 @@
       }
     ],
     "evidence": "story/p-022: at persisted—it being said to walk upon the keyboard of the choralcelo—but there are many rumors in our hypogeum, and they were not the strangest."
+  },
+  {
+    "id": "lemures",
+    "term": "lemures",
+    "aliases": [],
+    "short": "Restless spirits of the Roman dead.",
+    "note": "In Roman religion, spirits of the dead, particularly ghosts thought liable to trouble the living unless appeased.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/lemures",
+        "label": "Dictionary.com · lemures"
+      }
+    ],
+    "evidence": "story/p-004: own with hot spiced ale, I heard such recountings of larva, lemures, and the like as would terrify every child in the Commonwealth—and make every man in it l"
+  },
+  {
+    "id": "hallowmass",
+    "term": "Hallowmass",
+    "aliases": [
+      "Hallowmas"
+    ],
+    "short": "All Saints’ Day.",
+    "note": "An older name for All Saints’ Day, the Christian feast honoring the saints on November 1. Its preceding evening is All Hallows’ Eve, or Halloween.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/hallowmas",
+        "label": "Dictionary.com · hallowmas"
+      }
+    ],
+    "evidence": "story/p-004: urrender his chair to me and heard them as I ate. It is now Hallowmass Eve (which is to say, the full of the Spading Moon) and their talk had turned to all mann"
+  },
+  {
+    "id": "counterpane",
+    "term": "counterpane",
+    "aliases": [],
+    "short": "A bedspread or coverlet.",
+    "note": "An older word for a covering spread over the top of a bed, such as a quilt or ornamental coverlet.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/counterpane",
+        "label": "Dictionary.com · counterpane"
+      }
+    ],
+    "evidence": "story/p-025:  to look at her. And all saw, as did I, that upon the snowy counterpane covering her withered body there had appeared the dark pawprint of some animal, and besid"
   }
 ]

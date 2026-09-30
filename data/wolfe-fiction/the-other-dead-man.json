@@ -47,5 +47,35 @@
       }
     ],
     "evidence": "c31:  must have knelt and sung and sacrificed to it. It had been Ra, Apollo, Helios, Heimdall, and a hundred more, this medium-sized yellow star in a remote arm of the galaxy, this old gas-burner, this space heater laboring to warm i"
+  },
+  {
+    "id": "hermetic",
+    "term": "hermetic",
+    "aliases": [],
+    "short": "Sealed airtight.",
+    "note": "Closed by a seal that prevents air from entering or escaping.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/hermetic",
+        "label": "Dictionary.com · hermetic"
+      }
+    ],
+    "evidence": "story/p-085:  cabin that was now as airless as the skin of the ship. The hermetic hatch that sealed Section Two from this one was tightly dogged still. He had inspected it"
+  },
+  {
+    "id": "fugue",
+    "term": "fugue",
+    "aliases": [],
+    "short": "Music built from successive imitations of a theme.",
+    "note": "A contrapuntal composition in which a theme is introduced by one voice and taken up by others, producing interwoven melodic lines.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/fugue",
+        "label": "Dictionary.com · fugue"
+      }
+    ],
+    "evidence": "story/p-101: iny and blue alongside it, the lone mobile unit sang a Bach fugue as it labored. Smoldering leaves perfumed the breeze, washed away by a fountain of expone"
   }
 ]

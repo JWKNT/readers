@@ -604,5 +604,67 @@
       "paragraph": "p-022",
       "index": 0
     }
+  },
+  {
+    "id": "lemures",
+    "term": "lemures",
+    "aliases": [],
+    "short": "Restless spirits of the Roman dead.",
+    "note": "In Roman religion, spirits of the dead, particularly ghosts thought liable to trouble the living unless appeased.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/lemures",
+        "label": "Dictionary.com · lemures"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "hallowmass",
+    "term": "Hallowmass",
+    "aliases": [
+      "Hallowmas"
+    ],
+    "short": "All Saints’ Day.",
+    "note": "An older name for All Saints’ Day, the Christian feast honoring the saints on November 1. Its preceding evening is All Hallows’ Eve, or Halloween.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/hallowmas",
+        "label": "Dictionary.com · hallowmas"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "counterpane",
+    "term": "counterpane",
+    "aliases": [],
+    "short": "A bedspread or coverlet.",
+    "note": "An older word for a covering spread over the top of a bed, such as a quilt or ornamental coverlet.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/counterpane",
+        "label": "Dictionary.com · counterpane"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-025",
+      "index": 0
+    }
   }
 ]

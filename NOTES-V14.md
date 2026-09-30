@@ -41,3 +41,21 @@ original footnotes and links, annotation anchors, and static-page wrappers.
 - No shared reader CSS or runtime behavior changes
 
 Further research batches and final coverage findings will be recorded here.
+
+## Second research batch
+
+Added 126 further notes to 35 readers. The cumulative enrichment is now 171
+notes across 45 readers, supported by 158 distinct external source URLs.
+Coverage includes Fifth Head vocabulary, meteorite mineralogy and structures,
+naval history, musical and nautical terms, textile techniques, folklore,
+foreign-language expressions, and uncommon descriptive vocabulary.
+
+Context review distinguishes aigrettes as birds rather than plume ornaments,
+gorget as an officer’s badge, and pricket as a candleholder. The ecliptic-plane
+definition explicitly states its conventional astronomical meaning. Fractal
+and muzhiks were omitted because their immediate prose already explains them;
+Silhouette’s apparent “tegs” was rejected as an OCR trap.
+
+All baseline-preservation and annotation checks and four regression tests pass
+again for this batch. Solar Cycle, source-integrity, search, and reference
+section files are unchanged.

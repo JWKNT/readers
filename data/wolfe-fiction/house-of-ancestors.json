@@ -47,5 +47,20 @@
       }
     ],
     "evidence": "Reused previously sourced external note, context checked c12: eeting, and it was an instant before Joe realized that the man was an automaton activated like the lights, by his entry. “Good day, sir,” the robot began. “Are you interested in a"
+  },
+  {
+    "id": "plastisol",
+    "term": "plastisol",
+    "aliases": [],
+    "short": "A resin mixture that sets when heated.",
+    "note": "A dispersion of resin in a liquid plasticizer, forming a paste or liquid that gels on heating.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/plastisol",
+        "label": "Dictionary.com · plastisol"
+      }
+    ],
+    "evidence": "story/p-162: as missing. It seemed to have been torn or hacked away; the plastisol flesh was ragged around the amputation, and color-coded wires, blue and yellow, dangled f"
   }
 ]

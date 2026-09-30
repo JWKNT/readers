@@ -18,7 +18,7 @@
   ],
   "totalWords": 2999,
   "defaultChapter": "story",
-  "glossaryCount": 0,
+  "glossaryCount": 1,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -146,7 +146,12 @@
       "sections": [],
       "headingNoteAnchors": [],
       "headingHtml": "Westwind",
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "umber",
+          "paragraph": "p-002"
+        }
+      ],
       "words": 2999,
       "startWords": 0
     },

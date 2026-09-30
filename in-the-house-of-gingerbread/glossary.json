@@ -40,5 +40,25 @@
       "paragraph": "p-019",
       "index": 0
     }
+  },
+  {
+    "id": "ectoplasm",
+    "term": "ectoplasm",
+    "aliases": [],
+    "short": "Supposed material emitted by a spirit medium.",
+    "note": "In Spiritualism, a substance claimed to issue from a medium’s body during a trance, sometimes taking visible forms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/ectoplasm",
+        "label": "Dictionary.com · ectoplasm"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-151",
+      "index": 0
+    }
   }
 ]

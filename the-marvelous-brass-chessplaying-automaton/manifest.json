@@ -18,7 +18,7 @@
   ],
   "totalWords": 7147,
   "defaultChapter": "story",
-  "glossaryCount": 3,
+  "glossaryCount": 4,
   "correctionCount": 0,
   "editionVersion": 13,
   "chapters": [
@@ -230,6 +230,10 @@
         {
           "term": "mountebank",
           "paragraph": "p-004"
+        },
+        {
+          "term": "scullery",
+          "paragraph": "p-043"
         },
         {
           "term": "automaton",

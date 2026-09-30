@@ -43,5 +43,20 @@
       }
     ],
     "evidence": "wers venerated him. At last he grew rich, and built a citadel in the fastness of the mountains. It stood upon a cliff and was rimmed with mighty walls. A thousand spea"
+  },
+  {
+    "id": "tarnung",
+    "term": "Tarnung",
+    "aliases": [],
+    "short": "German: camouflage or disguise.",
+    "note": "German Tarnung means camouflage: concealment that makes something difficult to distinguish from its surroundings.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/us/dictionary/german-english/tarnung",
+        "label": "Cambridge German–English Dictionary: Tarnung"
+      }
+    ],
+    "evidence": "story/p-005: , I have certain gifts for you.” Then he gave Man the enchanted cloak Tarnung by which none should see him when he did not wish to be seen, and he gave Man the enchanted sword M"
   }
 ]

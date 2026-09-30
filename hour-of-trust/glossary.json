@@ -142,5 +142,85 @@
       "paragraph": "p-235",
       "index": 0
     }
+  },
+  {
+    "id": "ratiocination",
+    "term": "ratiocination",
+    "aliases": [],
+    "short": "Careful logical reasoning.",
+    "note": "The process of reasoning methodically, or a connected train of reasoned thought.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ratiocination",
+        "label": "Merriam-Webster: ratiocination"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-006",
+      "index": 0
+    }
+  },
+  {
+    "id": "realpolitik",
+    "term": "realpolitik",
+    "aliases": [],
+    "short": "Politics guided by practical power.",
+    "note": "Political action based on material circumstances and practical advantage rather than ideals or ethical objectives.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/realpolitik",
+        "label": "Merriam-Webster: realpolitik"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-115",
+      "index": 0
+    }
+  },
+  {
+    "id": "nominalism",
+    "term": "nominalism",
+    "aliases": [],
+    "short": "The view that universals are only names.",
+    "note": "A philosophical position denying that general kinds or abstract entities exist independently of particular things.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/nominalism",
+        "label": "Merriam-Webster: nominalism"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-228",
+      "index": 0
+    }
+  },
+  {
+    "id": "midden",
+    "term": "midden",
+    "aliases": [],
+    "short": "A heap of refuse.",
+    "note": "A pile of discarded material or rubbish; in archaeology, a deposit of waste left by past inhabitants.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/midden",
+        "label": "Merriam-Webster: midden"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-244",
+      "index": 0
+    }
   }
 ]

@@ -1223,5 +1223,490 @@
       }
     ],
     "occurrences": 2
+  },
+  {
+    "id": "ecliptic-plane",
+    "term": "ecliptic plane",
+    "aliases": [
+      "ecliptic"
+    ],
+    "short": "Conventionally, Earth’s orbital reference plane.",
+    "note": "Conventionally, the plane containing Earth’s orbit around the Sun, used as a reference for celestial positions and orbital inclinations.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ecliptic",
+        "label": "Merriam-Webster: ecliptic"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-52",
+        "paragraph": "p-016",
+        "context": " the line where the star intersected Trisolaris’s ecliptic plane. Viewed from the surface of Trisolaris, an extremely bright spot appeared on the sur"
+      },
+      {
+        "chapter": "section-62",
+        "paragraph": "p-014",
+        "context": "It might be advisable for them to depart from the ecliptic plane so that they could avoid disturbance from the nebula while being able to dip into it"
+      },
+      {
+        "chapter": "section-67",
+        "paragraph": "p-031",
+        "context": "rom her reading: The photoid was coming along the ecliptic plane. There were conflicting reports concerning its exact direction and distance from the"
+      }
+    ],
+    "occurrences": 3
+  },
+  {
+    "id": "geosynchronous",
+    "term": "geosynchronous",
+    "aliases": [],
+    "short": "Orbiting once per rotation of Earth.",
+    "note": "Describes an Earth orbit with a period of one sidereal day, matching Earth’s rotation relative to the stars.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/geosynchronous",
+        "label": "Merriam-Webster: geosynchronous"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-23",
+        "paragraph": "p-010",
+        "context": "oasting, Bronze Age, escorted by Gravity, entered geosynchronous orbit and slowly sailed into the orbital spaceport. Bronze Age’s crew could see dens"
+      },
+      {
+        "chapter": "section-24",
+        "paragraph": "p-001",
+        "context": "national, the trial was held at the fleet base in geosynchronous orbit."
+      },
+      {
+        "chapter": "section-24",
+        "paragraph": "p-081",
+        "context": "eave Earth again. Although Bronze Age had reached geosynchronous orbit, the prisoners were doomed never to travel the last thirty thousand kilometers"
+      }
+    ],
+    "occurrences": 10
+  },
+  {
+    "id": "minaret",
+    "term": "minaret",
+    "aliases": [
+      "minarets"
+    ],
+    "short": "A mosque tower used for the call to prayer.",
+    "note": "A tall, often slender tower associated with a mosque, traditionally providing a place from which the muezzin calls worshippers to prayer.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/minaret",
+        "label": "Merriam-Webster: minaret"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-09",
+        "paragraph": "p-096",
+        "context": " spy had watched as Helena entered the ruins of a minaret that had once been part of a mosque. When Constantine had given the order to destroy"
+      },
+      {
+        "chapter": "section-09",
+        "paragraph": "p-097",
+        "context": "rantzes’s admonition, the spy had not entered the minaret. But he had questioned two soldiers who had entered it before it had been struck by "
+      },
+      {
+        "chapter": "section-09",
+        "paragraph": "p-108",
+        "context": "Phrantzes and his men stopped in front of the minaret in the Blachernae quarter and dismounted from their horses."
+      }
+    ],
+    "occurrences": 12
+  },
+  {
+    "id": "nonpareil",
+    "term": "nonpareil",
+    "aliases": [],
+    "short": "Unequalled; without a peer.",
+    "note": "Borrowed from French, meaning without an equal or rival.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/nonpareil",
+        "label": "Merriam-Webster: nonpareil"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-58",
+        "paragraph": "p-026",
+        "context": "dy drawn in my heart an image of you, and of your nonpareil loveliness. These I will transfer to the painting.”"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "queen-regnant",
+    "term": "queen regnant",
+    "aliases": [],
+    "short": "A queen who reigns in her own right.",
+    "note": "A female sovereign exercising royal authority herself. “Regnant” means reigning, rather than merely being married to the reigning monarch.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/regnant",
+        "label": "Merriam-Webster: regnant"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-58",
+        "paragraph": "p-008",
+        "context": "nt. The Storyless Kingdom would eventually have a queen regnant."
+      },
+      {
+        "chapter": "section-58",
+        "paragraph": "p-025",
+        "context": "“Look at the princess, the future queen regnant. You must paint her as well.”"
+      }
+    ],
+    "occurrences": 2
+  },
+  {
+    "id": "umbral-cone",
+    "term": "umbral cone",
+    "aliases": [],
+    "short": "The cone-shaped region of complete shadow.",
+    "note": "The umbra is the part of a shadow from which the light source is entirely hidden. Behind a planet it forms a cone extending away from the Sun.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/umbra",
+        "label": "Merriam-Webster: umbra"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-56",
+        "paragraph": "p-006",
+        "context": "At this altitude, the Earth’s umbral cone was narrower, and the Sun thus became visible. Everything outside was submerged in t"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "parallax",
+    "term": "parallax",
+    "aliases": [],
+    "short": "An apparent shift caused by a change of viewpoint.",
+    "note": "The change in an object’s apparent position when observed from different locations. Astronomers use such angular shifts to measure distances.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/parallax",
+        "label": "Merriam-Webster: parallax"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-79",
+        "paragraph": "p-129",
+        "context": "ce points were too far away, so they couldn’t see parallax in a short time frame. However, the ship’s navigation system could detect even tiny "
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "tamarisk",
+    "term": "tamarisk",
+    "aliases": [],
+    "short": "A shrub or small tree with feathery foliage.",
+    "note": "Plants of the genus Tamarix, with tiny scale-like leaves and clusters of small pale flowers. Many tolerate dry, salty environments.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tamarisk",
+        "label": "Merriam-Webster: tamarisk"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-37",
+        "paragraph": "p-001",
+        "context": "sert. A few twittering birds landed in a stand of tamarisk nearby. In the distance, she could see the rolling Qilian Mountains, the snow cover "
+      },
+      {
+        "chapter": "section-39",
+        "paragraph": "p-004",
+        "context": "overed over the Gobi, revealing burning stands of tamarisk here and there. Though few people lived out here they occasionally saw old buildings"
+      }
+    ],
+    "occurrences": 2
+  },
+  {
+    "id": "neutrino",
+    "term": "neutrino",
+    "aliases": [
+      "neutrinos"
+    ],
+    "short": "A nearly massless, electrically neutral particle.",
+    "note": "An elementary particle with a very small mass and no electric charge, which interacts only rarely with other matter.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/neutrino",
+        "label": "Merriam-Webster: neutrino"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-14",
+        "paragraph": "p-088",
+        "context": "sing electromagnetic radiation, but media such as neutrinos or gravitational waves—techniques beyond the current state of human technology."
+      },
+      {
+        "chapter": "section-22",
+        "paragraph": "p-006",
+        "context": " efficient methods of signaling became available: neutrinos and gravitational waves. The latter was the main method of deterrence that humanity "
+      },
+      {
+        "chapter": "section-30",
+        "paragraph": "p-008",
+        "context": "ravity had to communicate with Earth through only neutrinos and radio. Transmissions from Gravity now took a year and three months to reach the "
+      }
+    ],
+    "occurrences": 15
+  },
+  {
+    "id": "event-horizon",
+    "term": "event horizon",
+    "aliases": [
+      "event horizons"
+    ],
+    "short": "A boundary beyond which no signal can escape.",
+    "note": "The boundary of a black hole beyond which neither light nor other signals can escape to the outside universe.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/event%20horizon",
+        "label": "Merriam-Webster: event horizon"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-65",
+        "paragraph": "p-159",
+        "context": "light, if light couldn’t leave the Solar System’s event horizon, nothing else could either. The Solar System would be hermetically sealed off from t"
+      },
+      {
+        "chapter": "section-65",
+        "paragraph": "p-168",
+        "context": " coordinate for the Moskstraumen, symbolizing the event horizon of the black domain. They reasoned that from an outside observer’s perspective, anyt"
+      },
+      {
+        "chapter": "section-74",
+        "paragraph": "p-032",
+        "context": "remained stable, and its Schwarzschild radius, or event horizon radius, had grown from the size of a fundamental particle to twenty-one nanometers."
+      }
+    ],
+    "occurrences": 13
+  },
+  {
+    "id": "gravitational-wave",
+    "term": "gravitational wave",
+    "aliases": [
+      "gravitational waves"
+    ],
+    "short": "A propagating ripple in spacetime.",
+    "note": "A travelling disturbance of the gravitational field: a ripple in spacetime that carries energy away from its source.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gravitational%20wave",
+        "label": "Merriam-Webster: gravitational wave"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-14",
+        "paragraph": "p-088",
+        "context": "agnetic radiation, but media such as neutrinos or gravitational waves—techniques beyond the current state of human technology."
+      },
+      {
+        "chapter": "section-22",
+        "paragraph": "p-006",
+        "context": "hods of signaling became available: neutrinos and gravitational waves. The latter was the main method of deterrence that humanity later deployed against T"
+      },
+      {
+        "chapter": "section-23",
+        "paragraph": "p-009",
+        "context": "If the crew of Bronze Age had seen the gravitational wave antennas on the Earth, they would have recognized Gravity as an almost perfect repli"
+      }
+    ],
+    "occurrences": 76
+  },
+  {
+    "id": "katana",
+    "term": "katana",
+    "aliases": [
+      "katanas"
+    ],
+    "short": "A curved, single-edged Japanese sword.",
+    "note": "A slightly curved sword with one cutting edge, traditionally associated with the samurai of Japan.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/katana",
+        "label": "Merriam-Webster: katana"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-39",
+        "paragraph": "p-011",
+        "context": "f of a ninja, and on her back was strapped a long katana. She looked valiant and heroic, but the extreme femininity that she exuded had not v"
+      },
+      {
+        "chapter": "section-39",
+        "paragraph": "p-014",
+        "context": " and went for another rock. Sophon unsheathed the katana on her back, easily pushing off the pleading Cheng Xin with her other hand, and twir"
+      },
+      {
+        "chapter": "section-39",
+        "paragraph": "p-015",
+        "context": "Cheng Xin remembered that she had seen Sophon’s katana in that eastern leaf-house shrouded in fog and cloud. Back then, it, and two shorter"
+      }
+    ],
+    "occurrences": 9
+  },
+  {
+    "id": "photosphere",
+    "term": "photosphere",
+    "aliases": [],
+    "short": "The visible, light-emitting layer of a star.",
+    "note": "The luminous surface layer of the Sun or another star, from which most of its visible light emerges.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/photosphere",
+        "label": "Merriam-Webster: photosphere"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-52",
+        "paragraph": "p-016",
+        "context": "otoid struck the star and tore a hole through the photosphere and the convection zone. The hole was about fifty thousand kilometers in diameter, w"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "klaxons",
+    "term": "klaxons",
+    "aliases": [
+      "klaxon"
+    ],
+    "short": "Loud electric warning horns.",
+    "note": "Electrically operated horns or alarms. Klaxon was originally a trademark.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/klaxon",
+        "label": "Merriam-Webster: Klaxon"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-32",
+        "paragraph": "p-113",
+        "context": " response to their conversation, the battle alert klaxons blared, sounding like the entire sky full of stars was screaming. Warning informatio"
+      },
+      {
+        "chapter": "section-44",
+        "paragraph": "p-001",
+        "context": "When the klaxons announced the droplet attack, only one man aboard Gravity felt a sense of relief: Ja"
+      },
+      {
+        "chapter": "section-44",
+        "paragraph": "p-041",
+        "context": "rol cabin. When he was about ten meters away, the klaxons for the droplet attack started blaring. Due to his rank, the information window appe"
+      }
+    ],
+    "occurrences": 4
+  },
+  {
+    "id": "cryoprotectant",
+    "term": "cryoprotectant",
+    "aliases": [
+      "cryoprotectants"
+    ],
+    "short": "A substance that reduces damage from freezing.",
+    "note": "An agent used to protect cells or other biological material against the harmful effects of freezing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cryoprotectant",
+        "label": "Merriam-Webster: cryoprotectant"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-16",
+        "paragraph": "p-006",
+        "context": "replaced the blood in the body with an antifreeze cryoprotectant, then brought the body temperature down to minus-fifty-degrees Celsius. Relying on a"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "taiaha",
+    "term": "taiaha",
+    "aliases": [],
+    "short": "A traditional Māori fighting staff.",
+    "note": "A close-combat weapon, usually of hardwood, with a carved head and projecting tongue at one end and a flattened striking blade at the other.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://collections.tepapa.govt.nz/object/131920",
+        "label": "Museum of New Zealand Te Papa: taiaha kura"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-43",
+        "paragraph": "p-014",
+        "context": "incongruous with his advanced age. He picked up a taiaha from the corner of the house and began to dance a real war haka."
+      },
+      {
+        "chapter": "section-43",
+        "paragraph": "p-016",
+        "context": "enemy first with his eyes, then kill him with the taiaha.” He came back and stood in front of Cheng Xin. “Child, you failed to hold the enemy"
+      }
+    ],
+    "occurrences": 2
+  },
+  {
+    "id": "barnards-star",
+    "term": "Barnard’s Star",
+    "aliases": [],
+    "short": "A nearby red dwarf about six light-years away.",
+    "note": "A small red dwarf in Ophiuchus, about six light-years from the Sun and closer than any stellar system except Alpha Centauri.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.eso.org/public/news/eso2414/",
+        "label": "European Southern Observatory: Barnard’s star"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-24",
+        "paragraph": "p-098",
+        "context": "almost impossible for anyone to hear it. To reach Barnard’s Star, the nearest star that Blue Space could use as a superantenna to repeat Ye Wenjie’s "
+      }
+    ],
+    "occurrences": 1
   }
 ]
