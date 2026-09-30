@@ -18,7 +18,7 @@
   ],
   "totalWords": 22086,
   "defaultChapter": "story",
-  "glossaryCount": 23,
+  "glossaryCount": 27,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -468,12 +468,24 @@
           "paragraph": "p-077"
         },
         {
+          "term": "peri",
+          "paragraph": "p-091"
+        },
+        {
+          "term": "asphodel",
+          "paragraph": "p-091"
+        },
+        {
           "term": "mary-rose",
           "paragraph": "p-127"
         },
         {
           "term": "lambent",
           "paragraph": "p-137"
+        },
+        {
+          "term": "druj",
+          "paragraph": "p-145"
         },
         {
           "term": "congress-of-birds",
@@ -490,6 +502,10 @@
         {
           "term": "houris",
           "paragraph": "p-239"
+        },
+        {
+          "term": "mephistopheles",
+          "paragraph": "p-257"
         },
         {
           "term": "mount-kaf",

@@ -80,5 +80,45 @@
       "paragraph": "p-132",
       "index": 0
     }
+  },
+  {
+    "id": "day-glo",
+    "term": "Day-Glo",
+    "aliases": [],
+    "short": "Exceptionally bright fluorescent color.",
+    "note": "A trade name for daylight-fluorescent pigments, which convert ultraviolet energy into visible light and appear unusually brilliant even in daylight.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/dayglo.html",
+        "label": "American Chemical Society: DayGlo fluorescent pigments"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-148",
+      "index": 0
+    }
+  },
+  {
+    "id": "tagalog",
+    "term": "Tagalog",
+    "aliases": [],
+    "short": "An Austronesian language of the Philippines.",
+    "note": "The language of the Tagalog people of central Luzon in the Philippines.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Tagalog",
+        "label": "Merriam-Webster: Tagalog"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-033",
+      "index": 0
+    }
   }
 ]

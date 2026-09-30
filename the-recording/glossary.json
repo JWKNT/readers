@@ -78,5 +78,25 @@
       "paragraph": "p-008",
       "index": 0
     }
+  },
+  {
+    "id": "indomptable",
+    "term": "Indomptable",
+    "aliases": [],
+    "short": "French: indomitable or untamable.",
+    "note": "French for something that cannot be tamed, mastered, or subdued.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dictionnaire-academie.fr/article/A9I0993",
+        "label": "Dictionnaire de l’Académie française: indomptable"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-008",
+      "index": 0
+    }
   }
 ]

@@ -38,5 +38,25 @@
       "paragraph": "p-015",
       "index": 0
     }
+  },
+  {
+    "id": "gaiseric",
+    "term": "Gaiseric",
+    "aliases": [],
+    "short": "The Vandal king whose forces sacked Rome.",
+    "note": "Gaiseric, also called Genseric, established Vandal rule in North Africa. His forces plundered Rome in 455.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://sourcebooks.web.fordham.edu/ancient/procopius-vandals.asp",
+        "label": "Procopius · The Vandal Conquest, Fordham sourcebook"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-047",
+      "index": 0
+    }
   }
 ]

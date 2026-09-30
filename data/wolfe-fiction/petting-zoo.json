@@ -28,5 +28,35 @@
       }
     ],
     "evidence": "autioned the little girl. “Early Tertiary-in-the-Upper-Eocene-was-the-Moeritherium-the-size-of-a-tuber-but-more-like-a-hippopotamus.” “Yum,” Rex mumbled. “Yum-yum!” A sma"
+  },
+  {
+    "id": "upper-cretaceous",
+    "term": "Upper Cretaceous",
+    "aliases": [],
+    "short": "The last part of the Cretaceous period.",
+    "note": "The Late Cretaceous interval, ending about 66 million years ago; dinosaurs such as Tyrannosaurus lived during it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nhm.ac.uk/our-science/services/collections/palaeontology/dinosaurs.html",
+        "label": "Natural History Museum: dinosaur collection"
+      }
+    ],
+    "evidence": "story/p-033: inly not, since there were no people in North America during the Upper Cretaceous. Human evolution did not begin—”"
+  },
+  {
+    "id": "eocene",
+    "term": "Eocene",
+    "aliases": [],
+    "short": "A geological epoch about 56–33.9 million years ago.",
+    "note": "An early Cenozoic epoch following the Paleocene, with generally warm climates and expanding forests.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://australian.museum/learn/australia-over-time/evolving-landscape/the-eocene-epoch/",
+        "label": "Australian Museum: The Eocene Epoch"
+      }
+    ],
+    "evidence": "story/p-039: ttendant cautioned the little girl. “Early Tertiary-in-the-Upper-Eocene-was-the-Moeritherium-the-size-of-a-tuber-but-more-like-a-hippopotamus.”"
   }
 ]

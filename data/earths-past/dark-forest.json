@@ -1433,5 +1433,299 @@
       }
     ],
     "occurrences": 1
+  },
+  {
+    "id": "infrasonic",
+    "term": "infrasonic",
+    "aliases": [],
+    "short": "Below the range of human hearing.",
+    "note": "Describes sound or vibration with a frequency lower than the human ear can normally hear.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/infrasonic",
+        "label": "Merriam-Webster: infrasonic"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-17",
+        "paragraph": "p-1349",
+        "context": "Infrasonic H-bomb."
+      },
+      {
+        "chapter": "section-17",
+        "paragraph": "p-1350",
+        "context": "Infrasonic H-bomb."
+      },
+      {
+        "chapter": "section-17",
+        "paragraph": "p-1351",
+        "context": "Infrasonic H-bomb."
+      }
+    ],
+    "occurrences": 10
+  },
+  {
+    "id": "tomography",
+    "term": "tomography",
+    "aliases": [],
+    "short": "Imaging an object’s internal cross sections.",
+    "note": "A method of reconstructing internal structure from measurements taken through an object, often producing sectional or three-dimensional images.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tomography",
+        "label": "Merriam-Webster: tomography"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-12",
+        "paragraph": "p-140",
+        "context": "called it the Resolving Imager. Based on computed tomography and nuclear magnetic resonance, it operated by scanning in all cross sections of the"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "protium",
+    "term": "protium",
+    "aliases": [],
+    "short": "Ordinary hydrogen with a mass number of one.",
+    "note": "The lightest and most common isotope of hydrogen, with a nucleus consisting of a single proton and no neutron.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/protium",
+        "label": "Merriam-Webster: protium"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-14",
+        "paragraph": "p-247",
+        "context": "d Rey Diaz. “Do you really think that the ocean’s protium, deuterium, and tritium were prepared just for you? Because of your perverted affect"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "spinnaker",
+    "term": "spinnaker",
+    "aliases": [],
+    "short": "A large sail for travelling with the wind.",
+    "note": "A broad triangular sail spread outward from a light pole, used when a sailing vessel runs before the wind.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/spinnaker",
+        "label": "Merriam-Webster: spinnaker"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-08",
+        "paragraph": "p-1388",
+        "context": "was pleasantly surprised when he raised the white spinnaker. When the boat left the pier, she plunged a hand into the water."
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "antimatter",
+    "term": "antimatter",
+    "aliases": [],
+    "short": "Matter made from the antiparticles of ordinary particles.",
+    "note": "Antiparticles have the same masses as their corresponding particles but opposite electric charges where charged. Matter and antimatter can annihilate on contact, releasing energy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://home.cern/science/physics/antimatter/",
+        "label": "CERN: antimatter"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-17",
+        "paragraph": "p-929",
+        "context": "ase of energy would come from self-destruction by antimatter annihilation. Since the droplet had a mass of less than ten tons, the largest energy"
+      },
+      {
+        "chapter": "section-17",
+        "paragraph": "p-1107",
+        "context": "ed the Trisolaran Fleet launching an attack using antimatter weapons, and obliterating a stellar-class battleship with antimatter the size of a r"
+      }
+    ],
+    "occurrences": 2
+  },
+  {
+    "id": "stonehenge",
+    "term": "Stonehenge",
+    "aliases": [],
+    "short": "A prehistoric stone-circle monument in southern England.",
+    "note": "A monument built in stages, with its great stone circle erected around 2500 BCE. Its standing stones form part of a much larger prehistoric landscape.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/history/",
+        "label": "English Heritage: history of Stonehenge"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-17",
+        "paragraph": "p-932",
+        "context": "ties, the whole fleet array a silent, prehistoric Stonehenge. The 1.2 million people in the fleet held their breath as they watched Mantis on its"
+      },
+      {
+        "chapter": "section-17",
+        "paragraph": "p-1416",
+        "context": " the three derelict warships and set them up in a Stonehenge formation, forming a tomb in outer space. There, they held a funeral for all the vic"
+      },
+      {
+        "chapter": "section-19",
+        "paragraph": "p-032",
+        "context": "stones made him feel like he was in a prehistoric Stonehenge. He had a high fever, and his body’s violent trembling sent his teeth chattering. Hi"
+      }
+    ],
+    "occurrences": 3
+  },
+  {
+    "id": "cheshire-cat",
+    "term": "Cheshire cat",
+    "aliases": [],
+    "short": "The grinning cat in Alice’s Adventures in Wonderland.",
+    "note": "Lewis Carroll’s cat can disappear while leaving its grin visible after the rest of its body has gone.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/Alice%27s_Adventures_in_Wonderland_(1866)/Chapter_6",
+        "label": "Wikisource: Alice’s Adventures in Wonderland, chapter 6"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-08",
+        "paragraph": "p-852",
+        "context": " as the smile of the Mona Lisa or the grin of the Cheshire cat. Say’s smile calmed him down at last, the first time he had been truly calm since be"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "gulliver",
+    "term": "Gulliver",
+    "aliases": [],
+    "short": "The traveller in Jonathan Swift’s Gulliver’s Travels.",
+    "note": "In the giant land of Brobdingnag, Gulliver observes skin at an enlarged scale and finds apparently smooth beauty rough and uneven close up.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/829/pg829-images.html",
+        "label": "Project Gutenberg: Gulliver’s Travels, Part II"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-17",
+        "paragraph": "p-1004",
+        "context": "gh at just one thousand times magnification, like Gulliver’s impression of the face of the beautiful giantess."
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "good-bye-lenin",
+    "term": "Good Bye, Lenin!",
+    "aliases": [],
+    "short": "Wolfgang Becker’s 2003 film about an elaborate deception.",
+    "note": "A young man protects his mother after she wakes from a coma by pretending that East Germany still exists, recreating familiar surroundings and news broadcasts.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://player.bfi.org.uk/subscription/film/watch-good-bye-lenin-2003-online",
+        "label": "British Film Institute: Good Bye, Lenin!"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-17",
+        "paragraph": "p-1163",
+        "context": "“The Siege of Berlin,” or the old Golden-Age film Good Bye, Lenin!, why not fabricate a fictional environment in which humanity had failed? Fortunately"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "pangu",
+    "term": "Pangu",
+    "aliases": [],
+    "short": "A primordial creator figure in Chinese mythology.",
+    "note": "Also written P’an Ku. In creation myths he separates heaven from earth; in some versions the features of the world arise from his body.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.columbia.edu/itc/religion/f2001/edit/docs/mythpanku.html",
+        "label": "Columbia University: four versions of the P’an Ku myth"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-17",
+        "paragraph": "p-289",
+        "context": "wer for humanity. This is as big an event as when Pangu created the heavens and the Earth! Don’t you realize what a magnificent age this is?"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "heliophobia",
+    "term": "heliophobia",
+    "aliases": [],
+    "short": "Fear or aversion to the sun.",
+    "note": "A word formed from Greek-derived elements meaning sun and fear.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.etymonline.com/word/heliophobia",
+        "label": "Online Etymology Dictionary: heliophobia"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-14",
+        "paragraph": "p-259",
+        "context": "t of any concern for security, but because of his heliophobia. The claustrophobic environment, far removed from the sunshine, made him feel a litt"
+      },
+      {
+        "chapter": "section-14",
+        "paragraph": "p-377",
+        "context": "ut with relish, “Ah, my sun!” His two-decade-long heliophobia had vanished."
+      }
+    ],
+    "occurrences": 2
+  },
+  {
+    "id": "timothy-leary",
+    "term": "Timothy Leary",
+    "aliases": [],
+    "short": "Psychologist associated with psychedelic research and counterculture.",
+    "note": "An American psychologist (1920–1996) who studied mind-altering drugs at Harvard and later became a prominent figure in the psychedelic and human-potential movements.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://psychology.fas.harvard.edu/people/timothy-leary",
+        "label": "Harvard Department of Psychology: Timothy Leary"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-17",
+        "paragraph": "p-221",
+        "context": "known that his wife was a devotee of the ideas of Timothy Leary, and he had seen her fanatical desire to alter the human mind through technological "
+      }
+    ],
+    "occurrences": 1
   }
 ]

@@ -18,5 +18,25 @@
       "paragraph": "p-002",
       "index": 0
     }
+  },
+  {
+    "id": "washstand",
+    "term": "washstand",
+    "aliases": [],
+    "short": "A stand for a washbasin and washing supplies.",
+    "note": "A piece of furniture holding the basin, jug, and other articles used for washing the face and hands.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/washstand",
+        "label": "Merriam-Webster: washstand"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-085",
+      "index": 0
+    }
   }
 ]

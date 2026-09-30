@@ -60,5 +60,20 @@
       }
     ],
     "evidence": "story/p-026:  Dinner was lamb in aspic, and a salad, with a maid—another maid—and a footman to serve while Priest stood by to see that it "
+  },
+  {
+    "id": "sevres",
+    "term": "Sèvres",
+    "aliases": [],
+    "short": "Fine French porcelain from Sèvres.",
+    "note": "Porcelain made at the celebrated manufactory near Paris, established at Vincennes around 1740 and moved to Sèvres in 1756.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://noma.org/exhibitions/sevres-magnifique/",
+        "label": "New Orleans Museum of Art: Sèvres Magnifique"
+      }
+    ],
+    "evidence": "story/p-120: was steady. As I walked out of the house, she was going over the Sèvres with a peacock-feather duster. We did not speak."
   }
 ]

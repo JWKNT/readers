@@ -38,5 +38,25 @@
       "paragraph": "p-005",
       "index": 0
     }
+  },
+  {
+    "id": "bret-harte",
+    "term": "Bret Harte",
+    "aliases": [],
+    "short": "An American writer of California frontier tales.",
+    "note": "The author of western stories such as The Outcasts of Poker Flat, whose use of California local color helped establish the American West as a major literary subject.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://english.unm.edu/dept-life/publications/scharnhorst/index.html",
+        "label": "University of New Mexico · Bret Harte: Opening the American Literary West"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-013",
+      "index": 0
+    }
   }
 ]

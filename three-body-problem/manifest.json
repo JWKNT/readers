@@ -31,7 +31,7 @@
   ],
   "totalWords": 114223,
   "defaultChapter": "section-06",
-  "glossaryCount": 108,
+  "glossaryCount": 122,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -147,6 +147,10 @@
           "paragraph": "p-003"
         },
         {
+          "term": "carbines",
+          "paragraph": "p-006"
+        },
+        {
           "term": "lao-she",
           "paragraph": "p-020"
         },
@@ -221,6 +225,10 @@
         {
           "term": "cosmic-microwave-background",
           "paragraph": "p-053"
+        },
+        {
+          "term": "meerschaum",
+          "paragraph": "p-080"
         },
         {
           "term": "geiger-counter",
@@ -496,8 +504,16 @@
           "paragraph": "p-025"
         },
         {
+          "term": "oscilloscope",
+          "paragraph": "p-049"
+        },
+        {
           "term": "klaxons",
           "paragraph": "p-065"
+        },
+        {
+          "term": "magnetron",
+          "paragraph": "p-069"
         }
       ],
       "words": 2632,
@@ -754,6 +770,10 @@
         "p-051"
       ],
       "noteAnchors": [
+        {
+          "term": "archimedes-principle",
+          "paragraph": "p-033"
+        },
         {
           "term": "einstein",
           "paragraph": "p-033"
@@ -1708,6 +1728,10 @@
           "paragraph": "p-099"
         },
         {
+          "term": "presbyopic",
+          "paragraph": "p-102"
+        },
+        {
           "term": "cultural-revolution",
           "paragraph": "p-105"
         }
@@ -2501,6 +2525,10 @@
           "paragraph": "p-056"
         },
         {
+          "term": "phalanx",
+          "paragraph": "p-056"
+        },
+        {
           "term": "syzygy",
           "paragraph": "p-103"
         },
@@ -2780,6 +2808,10 @@
         {
           "term": "copernicus",
           "paragraph": "p-007"
+        },
+        {
+          "term": "phalanx",
+          "paragraph": "p-022"
         }
       ],
       "words": 722,
@@ -3052,6 +3084,10 @@
         {
           "term": "silent-spring",
           "paragraph": "p-003"
+        },
+        {
+          "term": "antimatter",
+          "paragraph": "p-006"
         },
         {
           "term": "alpha-centauri",
@@ -3615,6 +3651,14 @@
           "paragraph": "p-008"
         },
         {
+          "term": "antimatter",
+          "paragraph": "p-032"
+        },
+        {
+          "term": "adsorbent",
+          "paragraph": "p-060"
+        },
+        {
           "term": "nanomaterials",
           "paragraph": "p-066"
         }
@@ -3772,8 +3816,16 @@
           "paragraph": "p-005"
         },
         {
+          "term": "infrasonic",
+          "paragraph": "p-017"
+        },
+        {
           "term": "nanomaterials",
           "paragraph": "p-041"
+        },
+        {
+          "term": "panamax",
+          "paragraph": "p-063"
         },
         {
           "term": "miraflores-locks",
@@ -3782,6 +3834,10 @@
         {
           "term": "guzheng",
           "paragraph": "p-084"
+        },
+        {
+          "term": "bollards",
+          "paragraph": "p-110"
         }
       ],
       "words": 5158,
@@ -3873,7 +3929,12 @@
         "p-072",
         "p-073"
       ],
-      "noteAnchors": [],
+      "noteAnchors": [
+        {
+          "term": "princeps",
+          "paragraph": "p-035"
+        }
+      ],
       "words": 3086,
       "startWords": 101089
     },
@@ -4096,6 +4157,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "princeps",
+          "paragraph": "p-002"
+        },
+        {
           "term": "gossamer",
           "paragraph": "p-061"
         },
@@ -4114,6 +4179,10 @@
         {
           "term": "firmament",
           "paragraph": "p-070"
+        },
+        {
+          "term": "mesons",
+          "paragraph": "p-133"
         },
         {
           "term": "cosmic-microwave-background",

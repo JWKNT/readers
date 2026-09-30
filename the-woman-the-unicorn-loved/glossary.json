@@ -181,5 +181,45 @@
       "paragraph": "p-003",
       "index": 0
     }
+  },
+  {
+    "id": "couchant",
+    "term": "Couchant",
+    "aliases": [],
+    "short": "Lying down, with the head raised.",
+    "note": "In heraldry, an animal shown resting on its belly with its legs extending forward; more generally, lying down or crouching.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/couchant",
+        "label": "Dictionary.com · couchant"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-149",
+      "index": 0
+    }
+  },
+  {
+    "id": "rictus",
+    "term": "rictus",
+    "aliases": [],
+    "short": "A fixed, unnatural grimace.",
+    "note": "A gaping mouth or a rigid grin-like distortion of the face, especially one associated with horror or death.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/rictus",
+        "label": "Dictionary.com · rictus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-158",
+      "index": 0
+    }
   }
 ]

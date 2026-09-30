@@ -12,7 +12,7 @@
   ],
   "totalWords": 2895,
   "defaultChapter": "story",
-  "glossaryCount": 1,
+  "glossaryCount": 3,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -72,6 +72,14 @@
       ],
       "headingHtml": "When I Was <span class=\"word\" data-term=\"ming-the-merciless\" data-first=\"true\" data-local-first=\"true\">Ming the Merciless</span>",
       "noteAnchors": [
+        {
+          "term": "tangs",
+          "paragraph": "p-011"
+        },
+        {
+          "term": "braziers",
+          "paragraph": "p-032"
+        },
         {
           "term": "ming-the-merciless",
           "paragraph": "p-035"

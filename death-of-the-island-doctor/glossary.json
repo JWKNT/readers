@@ -338,5 +338,25 @@
       "paragraph": "p-004",
       "index": 0
     }
+  },
+  {
+    "id": "thule",
+    "term": "Thule",
+    "aliases": [],
+    "short": "The ancient world’s farthest northern land.",
+    "note": "A name in classical geography for the northernmost inhabited region of the known world.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/thule",
+        "label": "Merriam-Webster: Thule"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-023",
+      "index": 0
+    }
   }
 ]

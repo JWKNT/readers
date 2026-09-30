@@ -59,3 +59,24 @@ Silhouette’s apparent “tegs” was rejected as an OCR trap.
 All baseline-preservation and annotation checks and four regression tests pass
 again for this batch. Solar Cycle, source-integrity, search, and reference
 section files are unchanged.
+
+## Third research batch
+
+The cumulative enrichment reaches 340 notes across 63 readers, using
+323 distinct external source URLs. This batch includes primary-source grounding
+for the Harlow effect and Kirlian photography; verified Hopkins, Tennyson, Luke,
+and Hamlet references; historical textiles, musical instruments, naval rigging,
+architecture, classical terminology, and further science and foreign vocabulary.
+
+Context checks keep distinct the two Darwins in Pholus: Erasmus, the poet and
+grandfather, and Charles, associated with the Beagle and natural selection.
+Fifth Head’s pallets are beds, radiogram is a wireless message, and areaway is
+a passage between building wings. Dendritic was withheld rather than inventing
+a prehistoric era from a dictionary adjective. Possible name-play and quotation
+echoes retain “Possibly” in both note lengths.
+
+A live cloud-browser check of The Cat confirmed the new margin glosses, full
+definition/source popup, and close/focus-return behavior in the existing visual
+style. Exact text, IDs, counts, source metadata and original reference material
+continue to pass the baseline checks. Full chapter coverage records are being
+reconciled with the researchers’ documented systematic-sweep methods.

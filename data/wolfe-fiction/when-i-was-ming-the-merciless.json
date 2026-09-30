@@ -13,5 +13,35 @@
       }
     ],
     "evidence": "c14:  Endangered Species When I Was Ming the Merciless “THANK you. Is it permissible for me to sit? Fine. No, I cannot complain, really … . “I’d like to say that everyone here has been as courte"
+  },
+  {
+    "id": "braziers",
+    "term": "braziers",
+    "aliases": [],
+    "short": "Metal containers holding a fire.",
+    "note": "Portable metal vessels in which charcoal or other fuel is burned for heat or cooking.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/brazier",
+        "label": "Dictionary.com · brazier"
+      }
+    ],
+    "evidence": "story/p-032: be punished. We made a ceremony out of it, with fire in the braziers, and the big gong."
+  },
+  {
+    "id": "tangs",
+    "term": "tangs",
+    "aliases": [],
+    "short": "The parts of blades fitted into their handles.",
+    "note": "Narrow projecting portions of knives, files, or other tools that attach the working metal part to a handle.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/tang",
+        "label": "Dictionary.com · tang"
+      }
+    ],
+    "evidence": "story/p-011: m in place. Afterward we put nails through the holes in the tangs—that was just extra insurance. Out here there will be more scope for ingenuity; we might "
   }
 ]

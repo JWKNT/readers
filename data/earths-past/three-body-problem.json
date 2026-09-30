@@ -1740,5 +1740,363 @@
       }
     ],
     "occurrences": 1
+  },
+  {
+    "id": "meerschaum",
+    "term": "meerschaum",
+    "aliases": [],
+    "short": "A pale mineral carved into tobacco pipes.",
+    "note": "A light, whitish hydrous magnesium silicate, prized as a material for carving tobacco-pipe bowls.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/meerschaum",
+        "label": "Merriam-Webster: meerschaum"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-06",
+        "paragraph": "p-080",
+        "context": " made from Mediterranean briar, some from Turkish meerschaum. Each of them seemed suffused with the wisdom of the man who had once held the bowl "
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "magnetron",
+    "term": "magnetron",
+    "aliases": [
+      "magnetrons"
+    ],
+    "short": "A vacuum tube that generates microwaves.",
+    "note": "An electronic tube in which a magnetic field controls moving electrons to produce microwave-frequency power.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/magnetron",
+        "label": "Merriam-Webster: magnetron"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-08",
+        "paragraph": "p-069",
+        "context": "“Malfunction with Energy Unit. Magnetron number three has burnt out.”"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "mesons",
+    "term": "mesons",
+    "aliases": [
+      "meson"
+    ],
+    "short": "Particles composed of a quark and an antiquark.",
+    "note": "A class of subatomic particles, including pions and kaons, that participate in the strong interaction. A conventional meson contains a quark–antiquark pair.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/meson",
+        "label": "Merriam-Webster: meson"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-40",
+        "paragraph": "p-133",
+        "context": "oton plane, and the conducting lines were made of mesons that could transmit the nuclear force. Because the surface area for the circuit was "
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "oscilloscope",
+    "term": "oscilloscope",
+    "aliases": [
+      "oscilloscopes"
+    ],
+    "short": "An instrument that displays an electrical waveform.",
+    "note": "An instrument that turns changes in an electrical signal into a visible trace on a screen, allowing its waveform to be examined.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/oscilloscope",
+        "label": "Merriam-Webster: oscilloscope"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-08",
+        "paragraph": "p-049",
+        "context": "s of instruments and equipment. Signal lights and oscilloscope displays flickered together. A dozen or so operators dressed in military uniform wer"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "presbyopic",
+    "term": "presbyopic",
+    "aliases": [],
+    "short": "Having age-related difficulty focusing on nearby objects.",
+    "note": "Affected by presbyopia, the loss of close-focusing ability caused by reduced flexibility of the eye’s lens with age.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/presbyopia",
+        "label": "Merriam-Webster: presbyopia"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-17",
+        "paragraph": "p-102",
+        "context": ". Wang noticed that her eyes were both myopic and presbyopic, and she had to switch glasses both when she read and when she looked at something f"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "phalanx",
+    "term": "phalanx",
+    "aliases": [],
+    "short": "A closely packed formation of troops.",
+    "note": "Originally a dense, ordered formation of ancient Greek infantry; more broadly, any massed body arranged in close ranks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/phalanx",
+        "label": "Merriam-Webster: phalanx"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-23",
+        "paragraph": "p-056",
+        "context": "recent European design. Below them, a magnificent phalanx of thirty million Qin soldiers was arrayed on the ground. The entire formation fit i"
+      },
+      {
+        "chapter": "section-23",
+        "paragraph": "p-057",
+        "context": "ire population of Earth were arranged into such a phalanx, the whole formation would fit inside the Huangpu District of Shanghai. Though it wa"
+      },
+      {
+        "chapter": "section-23",
+        "paragraph": "p-059",
+        "context": "went through to learn how to break the Macedonian Phalanx, this is nothing.”"
+      }
+    ],
+    "occurrences": 7
+  },
+  {
+    "id": "adsorbent",
+    "term": "adsorbent",
+    "aliases": [],
+    "short": "Able to hold molecules on a surface.",
+    "note": "An adsorbent collects molecules in a thin layer on its surface; adsorption concerns surface attachment rather than penetration throughout the material.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/adsorption",
+        "label": "Merriam-Webster: adsorption"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-37",
+        "paragraph": "p-060",
+        "context": " “Look, if you spread this little thing open, the adsorbent surface area can be as large as a living room.” He tossed the filter away. “Do you s"
+      },
+      {
+        "chapter": "section-37",
+        "paragraph": "p-062",
+        "context": "es, like mouse droppings. But added together, the adsorbent surface formed by the tiny holes inside is as large as a tennis court. This is why a"
+      },
+      {
+        "chapter": "section-37",
+        "paragraph": "p-064",
+        "context": "rcoal inside a filter is three-dimensional. Their adsorbent surfaces, however, are two-dimensional. Thus, you can see how a tiny high-dimensiona"
+      }
+    ],
+    "occurrences": 3
+  },
+  {
+    "id": "bollards",
+    "term": "bollards",
+    "aliases": [
+      "bollard"
+    ],
+    "short": "Stout posts used to secure mooring ropes.",
+    "note": "Strong posts on a ship or wharf around which ropes are fastened to hold a vessel in place.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bollard",
+        "label": "Merriam-Webster: bollard"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-38",
+        "paragraph": "p-110",
+        "context": "an standing near the stern hosing down the ship’s bollards. From his vantage point, Wang saw everything clearly. The moment that that section o"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "carbines",
+    "term": "carbines",
+    "aliases": [
+      "carbine"
+    ],
+    "short": "Lightweight rifles with relatively short barrels.",
+    "note": "Compact rifles developed for easier handling, historically associated with cavalry.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carbine",
+        "label": "Merriam-Webster: carbine"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-06",
+        "paragraph": "p-006",
+        "context": "her were a diverse mix: antiques such as American carbines, Czech-style machine guns, Japanese Type-38 rifles; newer weapons such as standard-i"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "princeps",
+    "term": "princeps",
+    "aliases": [],
+    "short": "A Latin title for a foremost ruler or leader.",
+    "note": "Latin for one who is first; historically a title of the head of the Roman imperial state.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/princeps",
+        "label": "Merriam-Webster: princeps"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-39",
+        "paragraph": "p-035",
+        "context": "We don’t know what the official residence of the princeps of Trisolaris looked like, but we can be sure that thick walls separated him from th"
+      },
+      {
+        "chapter": "section-39",
+        "paragraph": "p-036",
+        "context": "Five Trisolaran hours earlier, the princeps received the report of the extra-Trisolaran communication. Two Trisolaran hours earl"
+      },
+      {
+        "chapter": "section-39",
+        "paragraph": "p-038",
+        "context": "“Why did you do this?” the princeps asked the listener from Post 1379."
+      }
+    ],
+    "occurrences": 63
+  },
+  {
+    "id": "infrasonic",
+    "term": "infrasonic",
+    "aliases": [],
+    "short": "Below the range of human hearing.",
+    "note": "Describes sound or vibration with a frequency lower than the human ear can normally hear.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/infrasonic",
+        "label": "Merriam-Webster: infrasonic"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-38",
+        "paragraph": "p-017",
+        "context": "en the only choices left are concussion bombs and infrasonic waves,” Colonel Stanton said. Others waited for him to finish his thought, but he sa"
+      },
+      {
+        "chapter": "section-38",
+        "paragraph": "p-020",
+        "context": "“So what about infrasonic weapons?” someone asked."
+      }
+    ],
+    "occurrences": 2
+  },
+  {
+    "id": "antimatter",
+    "term": "antimatter",
+    "aliases": [],
+    "short": "Matter made from the antiparticles of ordinary particles.",
+    "note": "Antiparticles have the same masses as their corresponding particles but opposite electric charges where charged. Matter and antimatter can annihilate on contact, releasing energy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://home.cern/science/physics/antimatter/",
+        "label": "CERN: antimatter"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-30",
+        "paragraph": "p-006",
+        "context": "verse had even more terrible forces: black holes, antimatter, and more. Compared to those forces, a thermonuclear bomb was nothing but a tiny can"
+      },
+      {
+        "chapter": "section-37",
+        "paragraph": "p-032",
+        "context": " of propulsion for the Trisolaran ships is matter-antimatter annihilation. In front of each ship is a large magnetic field shaped like a funnel t"
+      }
+    ],
+    "occurrences": 2
+  },
+  {
+    "id": "panamax",
+    "term": "Panamax",
+    "aliases": [],
+    "short": "The maximum ship size for the original Panama Canal locks.",
+    "note": "A ship-size standard determined by the dimensions of the Panama Canal’s original lock system; the later enlarged locks admit the larger Neopanamax class.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pancanal.com/en/discover-the-expanded-canal/",
+        "label": "Panama Canal Authority: original and expanded locks"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-38",
+        "paragraph": "p-063",
+        "context": "e locks along the canal. Judgment Day is built to Panamax specifications, just enough to fill the thirty-two-meter locks. Then we would only n"
+      }
+    ],
+    "occurrences": 1
+  },
+  {
+    "id": "archimedes-principle",
+    "term": "Archimedes’ principle",
+    "aliases": [],
+    "short": "Buoyant force equals the weight of displaced fluid.",
+    "note": "An immersed body experiences an upward force equal to the weight of the liquid or gas it displaces. Named for the ancient Greek mathematician Archimedes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+        "label": "OpenStax: Archimedes’ principle"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-11",
+        "paragraph": "p-033",
+        "context": "ime. All the physical laws of human history, from Archimedes’ principle to string theory, and all the scientific discoveries and intellectual fruits of our "
+      }
+    ],
+    "occurrences": 1
   }
 ]

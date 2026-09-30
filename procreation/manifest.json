@@ -12,7 +12,7 @@
   ],
   "totalWords": 3167,
   "defaultChapter": "story",
-  "glossaryCount": 3,
+  "glossaryCount": 4,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -93,6 +93,10 @@
         {
           "term": "ylem",
           "paragraph": "p-014"
+        },
+        {
+          "term": "maxwells-demon",
+          "paragraph": "p-015"
         }
       ],
       "words": 3167,

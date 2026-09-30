@@ -50,5 +50,20 @@
       }
     ],
     "evidence": "c26: as by gravity, leaving some solids dry. Gravity interuniversal. Wanted to phone John Cramer about it, but he’s off Gastprofessoring in West Berlin. Had to lecture, didn’t get much done. 4 August, Thursday. Rigged up light in lab so"
+  },
+  {
+    "id": "maxwells-demon",
+    "term": "Maxwell’s Demon",
+    "aliases": [],
+    "short": "A hypothetical sorter of fast and slow molecules.",
+    "note": "James Clerk Maxwell’s thought experiment imagines a being sorting molecules by speed, separating hot from cold to challenge the statistical meaning of the second law of thermodynamics.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.aps.org/apsnews/2002/06/maxwell",
+        "label": "American Physical Society · Maxwell and His Demon"
+      }
+    ],
+    "evidence": "story/p-015: ion principle is a violation of parity itself. It’s God, or Maxwell’s Demon, or some such, looking at each little atom and saying, “You sit in smoking, you in nonsmo"
   }
 ]

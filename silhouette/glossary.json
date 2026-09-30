@@ -200,5 +200,25 @@
       "paragraph": "p-038",
       "index": 0
     }
+  },
+  {
+    "id": "padre-pio",
+    "term": "Padre Pio",
+    "aliases": [],
+    "short": "An Italian Capuchin friar, 1887–1968.",
+    "note": "Francesco Forgione, known as Padre Pio of Pietrelcina, was an Italian Capuchin priest renowned for his devotional life and reported stigmata.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20020616_padre-pio_en.html",
+        "label": "Vatican · Padre Pio of Pietrelcina"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-308",
+      "index": 0
+    }
   }
 ]

@@ -38,5 +38,45 @@
       "paragraph": "p-039",
       "index": 0
     }
+  },
+  {
+    "id": "upper-cretaceous",
+    "term": "Upper Cretaceous",
+    "aliases": [],
+    "short": "The last part of the Cretaceous period.",
+    "note": "The Late Cretaceous interval, ending about 66 million years ago; dinosaurs such as Tyrannosaurus lived during it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nhm.ac.uk/our-science/services/collections/palaeontology/dinosaurs.html",
+        "label": "Natural History Museum: dinosaur collection"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-033",
+      "index": 0
+    }
+  },
+  {
+    "id": "eocene",
+    "term": "Eocene",
+    "aliases": [],
+    "short": "A geological epoch about 56–33.9 million years ago.",
+    "note": "An early Cenozoic epoch following the Paleocene, with generally warm climates and expanding forests.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://australian.museum/learn/australia-over-time/evolving-landscape/the-eocene-epoch/",
+        "label": "Australian Museum: The Eocene Epoch"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-039",
+      "index": 0
+    }
   }
 ]

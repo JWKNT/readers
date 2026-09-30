@@ -98,5 +98,25 @@
       "paragraph": "p-011",
       "index": 0
     }
+  },
+  {
+    "id": "hellas",
+    "term": "Hellas",
+    "aliases": [],
+    "short": "The ancient Greek name for Greece.",
+    "note": "A transliteration of the Greek name for Greece, also used in English for the ancient Greek world.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/hellas",
+        "label": "Dictionary.com: Hellas"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-002",
+      "index": 0
+    }
   }
 ]

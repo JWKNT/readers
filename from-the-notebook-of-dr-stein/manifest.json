@@ -12,7 +12,7 @@
   ],
   "totalWords": 2046,
   "defaultChapter": "story",
-  "glossaryCount": 6,
+  "glossaryCount": 8,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -90,6 +90,10 @@
       "headingHtml": "From the Notebook of Dr. Stein",
       "noteAnchors": [
         {
+          "term": "flapper",
+          "paragraph": "p-002"
+        },
+        {
           "term": "alienist",
           "paragraph": "p-004"
         },
@@ -104,6 +108,10 @@
         {
           "term": "bini",
           "paragraph": "p-048"
+        },
+        {
+          "term": "dr-huer",
+          "paragraph": "p-051"
         },
         {
           "term": "blutsauger",

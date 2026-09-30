@@ -378,5 +378,80 @@
       }
     ],
     "evidence": "c33: e-hued ashlar. Fingering his beard, the storyteller said, “He sends his soul to Jinnistan, the Land of Sorcery.” “Is it near?” Ali inquired. “As close as the ground under our feet,” the storyteller told him. “And as distant as Mo"
+  },
+  {
+    "id": "chibouque",
+    "term": "chibouque",
+    "aliases": [],
+    "short": "A long-stemmed Turkish tobacco pipe.",
+    "note": "A Turkish smoking pipe with a long, rigid stem, sometimes more than a metre in length.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/chibouk",
+        "label": "Dictionary.com · chibouk"
+      }
+    ],
+    "evidence": "story/p-082: , slanting lateen yards, and as quickly as a man lights his chibouque, the little canjiah was cracking up the river with white water boiling at her bow."
+  },
+  {
+    "id": "muezzins",
+    "term": "muezzins",
+    "aliases": [],
+    "short": "Those who call Muslims to prayer.",
+    "note": "The officials who recite the call to the five daily Muslim prayers, traditionally from a mosque’s minaret.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/muezzin",
+        "label": "Dictionary.com · muezzin"
+      }
+    ],
+    "evidence": "story/p-055: od fortune. And at last he said, “Might it be, O monarch of muezzins, that the rose blooms tonight?”"
+  },
+  {
+    "id": "wazir",
+    "term": "wazir",
+    "aliases": [],
+    "short": "A high-ranking minister or adviser.",
+    "note": "An Arabic form of vizier: a senior government official or minister serving a ruler in various Muslim states.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/vizier",
+        "label": "Dictionary.com · vizier"
+      }
+    ],
+    "evidence": "story/p-093: his shoulders to his ankles, he said, “O my master, holiest wazir of all wisdom, I had thought you blind.”"
+  },
+  {
+    "id": "darabukka",
+    "term": "darabukka",
+    "aliases": [],
+    "short": "A single-headed goblet-shaped drum.",
+    "note": "A hand-played drum with a goblet-shaped body, traditionally made of pottery or wood, widespread in North Africa and the Middle East.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/500960",
+        "label": "The Metropolitan Museum of Art · Darabukka"
+      }
+    ],
+    "evidence": "story/p-172: inly, the shrilling of the shabbäbi and the thudding of the darabukka."
+  },
+  {
+    "id": "piasters",
+    "term": "piasters",
+    "aliases": [],
+    "short": "Coins or currency units used in Egypt and nearby countries.",
+    "note": "Also spelled piastres: a name used for coins and monetary units in Egypt and the former Ottoman world; its value depends on the country and period.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/piaster",
+        "label": "Dictionary.com · piaster"
+      }
+    ],
+    "evidence": "story/p-081: he storyteller. “You will return to the city with us? Fifty piasters.”"
   }
 ]

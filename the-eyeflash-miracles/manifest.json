@@ -18,7 +18,7 @@
   ],
   "totalWords": 23757,
   "defaultChapter": "story",
-  "glossaryCount": 18,
+  "glossaryCount": 20,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -889,6 +889,10 @@
       "headingHtml": "The Eyeflash Miracles",
       "noteAnchors": [
         {
+          "term": "the-procurator-of-judea",
+          "paragraph": "p-002"
+        },
+        {
           "term": "pawl",
           "paragraph": "p-248"
         },
@@ -947,6 +951,10 @@
         {
           "term": "kamsa",
           "paragraph": "p-657"
+        },
+        {
+          "term": "kirlian-auras",
+          "paragraph": "p-693"
         },
         {
           "term": "metal-man",

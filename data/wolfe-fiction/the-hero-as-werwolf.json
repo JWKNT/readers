@@ -73,5 +73,52 @@
       }
     ],
     "evidence": "story/p-115: ck up the shoes and conceal them behind an aquarium of phosphorescent cephalopods, had died, rotted to dust, and undergone rebirth as a fissioning cell in his mother’s womb with all"
+  },
+  {
+    "id": "hugo-de-vries",
+    "term": "Hugo de Vries",
+    "aliases": [
+      "De Vries"
+    ],
+    "short": "Dutch botanist and early geneticist, 1848–1935.",
+    "note": "A Dutch botanist who helped rediscover Mendel’s laws in 1900 and developed a theory of evolution through sudden mutations, based on experiments with evening primroses.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dnalc.cshl.edu/view/16222-Biography-6-Hugo-de-Vries-1848-1935-.html",
+        "label": "Cold Spring Harbor Laboratory: Hugo de Vries"
+      }
+    ],
+    "evidence": "story/p-115:  platform shoes in the vestibule, under a four-dimensional picture of Hugo de Vries. De Vries was in the closing years of his life and, in the few seconds it took Paul to pick up the "
+  },
+  {
+    "id": "columniated",
+    "term": "columniated",
+    "aliases": [],
+    "short": "Having columns or arranged in columns.",
+    "note": "An architectural adjective describing a structure furnished with columns, or things set out in a column-like arrangement.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/columniated",
+        "label": "Collins English Dictionary: columniated"
+      }
+    ],
+    "evidence": "story/p-113:  nine or ten with an armload of books—on a corner where a small, columniated building concealed the entrance to the monorail, and the streets were wide and empty. The children "
+  },
+  {
+    "id": "metalanguage",
+    "term": "metalanguage",
+    "aliases": [],
+    "short": "Language used to discuss language.",
+    "note": "A language or vocabulary whose subject is another language, its words, or its structure.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/metalanguage",
+        "label": "Merriam-Webster: metalanguage"
+      }
+    ],
+    "evidence": "story/p-058: “That isn’t even metalanguage,” the dead woman said, “only children’s talk.”"
   }
 ]

@@ -18,7 +18,7 @@
   ],
   "totalWords": 10264,
   "defaultChapter": "story",
-  "glossaryCount": 3,
+  "glossaryCount": 6,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -295,6 +295,14 @@
       "headingHtml": "The Tree Is My Hat",
       "noteAnchors": [
         {
+          "term": "yaws",
+          "paragraph": "p-018"
+        },
+        {
+          "term": "leprosarium",
+          "paragraph": "p-047"
+        },
+        {
           "term": "stonehenge",
           "paragraph": "p-083"
         },
@@ -305,6 +313,10 @@
         {
           "term": "cotton-mather",
           "paragraph": "p-091"
+        },
+        {
+          "term": "the-light-garden-of-the-angel-king",
+          "paragraph": "p-156"
         }
       ],
       "words": 10264,

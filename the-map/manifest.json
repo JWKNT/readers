@@ -12,7 +12,7 @@
   ],
   "totalWords": 5027,
   "defaultChapter": "story",
-  "glossaryCount": 30,
+  "glossaryCount": 40,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -232,12 +232,28 @@
           "paragraph": "p-020"
         },
         {
+          "term": "gaffsail",
+          "paragraph": "p-022"
+        },
+        {
           "term": "nones",
           "paragraph": "p-032"
         },
         {
           "term": "omophagist",
           "paragraph": "p-044"
+        },
+        {
+          "term": "windlass",
+          "paragraph": "p-048"
+        },
+        {
+          "term": "thalamegus",
+          "paragraph": "p-049"
+        },
+        {
+          "term": "lapis-lazuli",
+          "paragraph": "p-049"
         },
         {
           "term": "lateen",
@@ -248,12 +264,20 @@
           "paragraph": "p-060"
         },
         {
+          "term": "jerkin",
+          "paragraph": "p-060"
+        },
+        {
           "term": "carrack",
           "paragraph": "p-064"
         },
         {
           "term": "binnacle",
           "paragraph": "p-064"
+        },
+        {
+          "term": "jib-boom",
+          "paragraph": "p-068"
         },
         {
           "term": "ells",
@@ -266,6 +290,10 @@
         {
           "term": "virescence",
           "paragraph": "p-070"
+        },
+        {
+          "term": "shallop",
+          "paragraph": "p-072"
         },
         {
           "term": "nessus",
@@ -284,8 +312,20 @@
           "paragraph": "p-085"
         },
         {
+          "term": "panicles",
+          "paragraph": "p-086"
+        },
+        {
+          "term": "capstan",
+          "paragraph": "p-095"
+        },
+        {
           "term": "halyard",
           "paragraph": "p-095"
+        },
+        {
+          "term": "vellum",
+          "paragraph": "p-109"
         },
         {
           "term": "bandog",

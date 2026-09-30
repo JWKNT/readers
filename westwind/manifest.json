@@ -18,7 +18,7 @@
   ],
   "totalWords": 2999,
   "defaultChapter": "story",
-  "glossaryCount": 1,
+  "glossaryCount": 2,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -150,6 +150,10 @@
         {
           "term": "umber",
           "paragraph": "p-002"
+        },
+        {
+          "term": "washstand",
+          "paragraph": "p-085"
         }
       ],
       "words": 2999,

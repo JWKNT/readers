@@ -150,5 +150,20 @@
       }
     ],
     "evidence": "story/p-038: on, and magnetic-soled sandals; her rank was indicated by a gorget, but still more plainly by the set of her shoulders and an aura of command. By a policy l"
+  },
+  {
+    "id": "padre-pio",
+    "term": "Padre Pio",
+    "aliases": [],
+    "short": "An Italian Capuchin friar, 1887–1968.",
+    "note": "Francesco Forgione, known as Padre Pio of Pietrelcina, was an Italian Capuchin priest renowned for his devotional life and reported stigmata.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20020616_padre-pio_en.html",
+        "label": "Vatican · Padre Pio of Pietrelcina"
+      }
+    ],
+    "evidence": "story/p-308: tested cases of multiple presence. I have found several, as Padre Pio in the twentieth century and Goethe’s friend in the eighteenth, though I have found none "
   }
 ]

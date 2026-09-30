@@ -18,7 +18,7 @@
   ],
   "totalWords": 2576,
   "defaultChapter": "story",
-  "glossaryCount": 13,
+  "glossaryCount": 17,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -110,7 +110,15 @@
           "paragraph": "p-001"
         },
         {
+          "term": "sienna",
+          "paragraph": "p-002"
+        },
+        {
           "term": "umber",
+          "paragraph": "p-002"
+        },
+        {
+          "term": "ocher",
           "paragraph": "p-002"
         },
         {
@@ -144,6 +152,14 @@
         {
           "term": "contralto",
           "paragraph": "p-024"
+        },
+        {
+          "term": "falsetto",
+          "paragraph": "p-027"
+        },
+        {
+          "term": "carmine",
+          "paragraph": "p-037"
         },
         {
           "term": "craquelure",

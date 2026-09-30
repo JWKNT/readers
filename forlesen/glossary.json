@@ -80,5 +80,65 @@
       "paragraph": "p-446",
       "index": 0
     }
+  },
+  {
+    "id": "blind-tooled",
+    "term": "blind-tooled",
+    "aliases": [],
+    "short": "Decorated with impressed, ungilded patterns.",
+    "note": "A bookbinding technique in which a heated tool presses a design into leather or another covering material without applying metal leaf.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://oab.lib.utah.edu/artist_book_term/blind-tooling/",
+        "label": "University of Utah Library: blind tooling"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-057",
+      "index": 0
+    }
+  },
+  {
+    "id": "mimeographed",
+    "term": "mimeographed",
+    "aliases": [],
+    "short": "Copied by forcing ink through a stencil.",
+    "note": "Reproduced on a mimeograph, a machine that makes many copies of a document from an inked stencil.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mimeograph",
+        "label": "Merriam-Webster: mimeographed"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-026",
+      "index": 0
+    }
+  },
+  {
+    "id": "coatimundi",
+    "term": "coatimundi",
+    "aliases": [],
+    "short": "A long-snouted relative of the raccoon.",
+    "note": "A coati: a tropical American mammal with a long tail and flexible, elongated snout.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/coati",
+        "label": "Merriam-Webster: coatimundi"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-112",
+      "index": 0
+    }
   }
 ]

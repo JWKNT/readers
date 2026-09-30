@@ -58,5 +58,65 @@
       "paragraph": "p-091",
       "index": 0
     }
+  },
+  {
+    "id": "the-light-garden-of-the-angel-king",
+    "term": "The Light Garden of the Angel King",
+    "aliases": [],
+    "short": "Peter Levi’s account of travels in Afghanistan.",
+    "note": "A travel book by Peter Levi, describing his exploration of Afghanistan’s history and landscape in the company of Bruce Chatwin.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.travelbooks.co.uk/shop-online-books/the-light-garden-of-the-angel-king",
+        "label": "Eland Books: The Light Garden of the Angel King"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-156",
+      "index": 0
+    }
+  },
+  {
+    "id": "leprosarium",
+    "term": "leprosarium",
+    "aliases": [],
+    "short": "A hospital for people with leprosy.",
+    "note": "A hospital devoted to the care of people with leprosy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/leprosarium",
+        "label": "Merriam-Webster: leprosarium"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-047",
+      "index": 0
+    }
+  },
+  {
+    "id": "yaws",
+    "term": "yaws",
+    "aliases": [],
+    "short": "A tropical bacterial infection.",
+    "note": "A chronic infection caused by Treponema pallidum subspecies pertenue, affecting the skin and sometimes deeper tissues.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.who.int/en/news-room/fact-sheets/detail/yaws",
+        "label": "World Health Organization: yaws"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-018",
+      "index": 0
+    }
   }
 ]

@@ -12,7 +12,7 @@
   ],
   "totalWords": 2493,
   "defaultChapter": "story",
-  "glossaryCount": 14,
+  "glossaryCount": 15,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -131,6 +131,10 @@
         {
           "term": "solzhenitsyn",
           "paragraph": "p-031"
+        },
+        {
+          "term": "morgenstern",
+          "paragraph": "p-037"
         }
       ],
       "words": 2493,

@@ -58,5 +58,20 @@
       }
     ],
     "evidence": "story/p-008: int my memory is distinct. We trudged through the heat, he in a straw boater and a blue and white seersucker suit as loose and voluminous as the robes worn by the women in the "
+  },
+  {
+    "id": "indomptable",
+    "term": "Indomptable",
+    "aliases": [],
+    "short": "French: indomitable or untamable.",
+    "note": "French for something that cannot be tamed, mastered, or subdued.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dictionnaire-academie.fr/article/A9I0993",
+        "label": "Dictionnaire de l’Académie française: indomptable"
+      }
+    ],
+    "evidence": "story/p-008: der my blouse and a pom-pommned cap embroidered in gold with the word Indomptable. From time to time, I pulled at his hand, but did not like to because of its wet softness, and an o"
   }
 ]

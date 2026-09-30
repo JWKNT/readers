@@ -18,7 +18,7 @@
   ],
   "totalWords": 6933,
   "defaultChapter": "story",
-  "glossaryCount": 7,
+  "glossaryCount": 10,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -249,12 +249,24 @@
           "paragraph": "p-057"
         },
         {
+          "term": "schloss",
+          "paragraph": "p-063"
+        },
+        {
           "term": "bayreuth",
           "paragraph": "p-065"
         },
         {
+          "term": "rathaus",
+          "paragraph": "p-165"
+        },
+        {
           "term": "uhlan",
           "paragraph": "p-165"
+        },
+        {
+          "term": "hauptstrasse",
+          "paragraph": "p-183"
         }
       ],
       "words": 6933,

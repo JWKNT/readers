@@ -140,5 +140,43 @@
       }
     ],
     "evidence": "c22: m and knew his loneliness, it murmured, “Breaker one one. This is Sombelenë for Peirithous. Come in, Peirithous.” “I’m here, Sombelene,” Anderson answered. He did not know where Janet had discovered that name. It had not been in a"
+  },
+  {
+    "id": "darwin",
+    "term": "Darwin",
+    "aliases": [],
+    "short": "Erasmus Darwin, the poet; Charles Darwin, the naturalist.",
+    "note": "Erasmus Darwin (1731–1802) was a physician, naturalist, and poet, the author of The Loves of the Plants. His grandson Charles Darwin was the naturalist associated with the voyage of the Beagle and evolution by natural selection.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.erasmusdarwin.org/learning/erasmus-darwin/",
+        "label": "Erasmus Darwin House · Erasmus Darwin"
+      },
+      {
+        "url": "https://www.gutenberg.org/cache/epub/10671/pg10671-images.html",
+        "label": "Erasmus Darwin · The Loves of the Plants"
+      },
+      {
+        "url": "https://www.westminster-abbey.org/abbey-commemorations/commemorations/charles-darwin",
+        "label": "Westminster Abbey · Charles Darwin"
+      }
+    ],
+    "evidence": "story/p-008: p-008 No, that wasn’t it, that was Darwin, the father (or was it the grandfather?) of Dumont’s Darwin, the Darwin of the Beagle. An"
+  },
+  {
+    "id": "sternwheeler",
+    "term": "sternwheeler",
+    "aliases": [],
+    "short": "A boat driven by a paddle wheel at the rear.",
+    "note": "A vessel, especially a riverboat, propelled by a large paddle wheel mounted at its stern.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/stern-wheeler",
+        "label": "Dictionary.com · stern-wheeler"
+      }
+    ],
+    "evidence": "story/p-018: p-018 Anderson passed a billboard showing the little sternwheeler Apollo 2 and swerved onto the next unmarked road. There were fresh tire tracks in the sno"
   }
 ]

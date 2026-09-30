@@ -1,7 +1,7 @@
 # Version 15 — transcription and typography
 
 2026-09-30. Text audit baseline: `89b41da`. Release integrates the newer annotation commits
-`c2acc84` and `8a29770`, preserving their 171 additional notes.
+`c2acc84`, `8a29770` and `6a18472`, preserving their 340 additional notes.
 
 ## Editorial pass
 
@@ -63,8 +63,9 @@ reliably reconstructed; this is a corrective reading edition, not a critical tex
   initials, italics, annotation spans and HTML entities.
 - Generated fiction markup has balanced tags and no block elements inside
   paragraphs. Whitespace checks pass. The shared theme's 22 tests pass.
-- The merge retains all 45 updated authored-note files and every published
-  glossary entry from `8a29770`. Annotation maintenance now preserves nested
+- The merge retains all 64 authored-note files byte-for-byte and all 2,393
+  published glossary entries from `6a18472`. The full validator also passes
+  against that baseline, and all 223 chapter integrity hashes match. Annotation maintenance now preserves nested
   correction spans; seven regression tests pass, with a separate text/repair
   preservation check across all 223 non-Solar reader chapters.
 - Browser review at 1440px paper and 390px charcoal covers the corrected Hopkins

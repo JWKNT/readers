@@ -98,5 +98,67 @@
       "paragraph": "p-115",
       "index": 0
     }
+  },
+  {
+    "id": "hugo-de-vries",
+    "term": "Hugo de Vries",
+    "aliases": [
+      "De Vries"
+    ],
+    "short": "Dutch botanist and early geneticist, 1848–1935.",
+    "note": "A Dutch botanist who helped rediscover Mendel’s laws in 1900 and developed a theory of evolution through sudden mutations, based on experiments with evening primroses.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dnalc.cshl.edu/view/16222-Biography-6-Hugo-de-Vries-1848-1935-.html",
+        "label": "Cold Spring Harbor Laboratory: Hugo de Vries"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-115",
+      "index": 0
+    }
+  },
+  {
+    "id": "columniated",
+    "term": "columniated",
+    "aliases": [],
+    "short": "Having columns or arranged in columns.",
+    "note": "An architectural adjective describing a structure furnished with columns, or things set out in a column-like arrangement.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/columniated",
+        "label": "Collins English Dictionary: columniated"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-113",
+      "index": 0
+    }
+  },
+  {
+    "id": "metalanguage",
+    "term": "metalanguage",
+    "aliases": [],
+    "short": "Language used to discuss language.",
+    "note": "A language or vocabulary whose subject is another language, its words, or its structure.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/metalanguage",
+        "label": "Merriam-Webster: metalanguage"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-058",
+      "index": 0
+    }
   }
 ]

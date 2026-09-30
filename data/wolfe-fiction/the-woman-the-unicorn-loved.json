@@ -136,5 +136,35 @@
       }
     ],
     "evidence": "story/p-003: ind of tail—like the tail of a bull, but with an additional guidon of hair halfway to the tip—that is seen only in heraldic beasts. His horn shone like poli"
+  },
+  {
+    "id": "couchant",
+    "term": "Couchant",
+    "aliases": [],
+    "short": "Lying down, with the head raised.",
+    "note": "In heraldry, an animal shown resting on its belly with its legs extending forward; more generally, lying down or crouching.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/couchant",
+        "label": "Dictionary.com · couchant"
+      }
+    ],
+    "evidence": "story/p-149: -149 Stamping among the books, Anderson thought to himself. Couchant at the frontiers of Overworld and Oz."
+  },
+  {
+    "id": "rictus",
+    "term": "rictus",
+    "aliases": [],
+    "short": "A fixed, unnatural grimace.",
+    "note": "A gaping mouth or a rigid grin-like distortion of the face, especially one associated with horror or death.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/rictus",
+        "label": "Dictionary.com · rictus"
+      }
+    ],
+    "evidence": "story/p-158: r frightened or anything else; only twisted in the terrible rictus of death. The match burned Anderson’s fingers; he shook it and dropped it."
   }
 ]

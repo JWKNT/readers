@@ -18,7 +18,7 @@
   ],
   "totalWords": 3805,
   "defaultChapter": "story",
-  "glossaryCount": 4,
+  "glossaryCount": 5,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -177,6 +177,10 @@
         {
           "term": "jay-gatsby",
           "paragraph": "p-057"
+        },
+        {
+          "term": "sevres",
+          "paragraph": "p-120"
         }
       ],
       "words": 3805,

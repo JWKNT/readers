@@ -666,5 +666,65 @@
       "paragraph": "p-025",
       "index": 0
     }
+  },
+  {
+    "id": "larva",
+    "term": "larva",
+    "aliases": [],
+    "short": "A malignant ghost in Roman belief.",
+    "note": "In its older mythological sense, a harmful spirit or ghost of the dead; the usual Latin plural is larvae.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/larva",
+        "label": "Dictionary.com · larva"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "circumfused",
+    "term": "circumfused",
+    "aliases": [],
+    "short": "Poured or spread all around.",
+    "note": "Diffused or poured around something; also surrounded or suffused as with a fluid.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/circumfuse",
+        "label": "Dictionary.com · circumfuse"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-012",
+      "index": 0
+    }
+  },
+  {
+    "id": "scullery",
+    "term": "scullery",
+    "aliases": [],
+    "short": "A place for washing kitchen utensils.",
+    "note": "A small room or part of a kitchen used for washing dishes, cleaning utensils, and preparing vegetables.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/scullery",
+        "label": "Dictionary.com · scullery"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-003",
+      "index": 0
+    }
   }
 ]

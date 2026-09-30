@@ -58,5 +58,35 @@
       }
     ],
     "evidence": "lace, so the naiads and the dryads might as well be the ladies o’ the Deeny Shee? Do ye know what the folk o’ the Barb’ry Coast call the hell that’s under their sea?” Ti"
+  },
+  {
+    "id": "dais",
+    "term": "dais",
+    "aliases": [],
+    "short": "A raised platform in a room.",
+    "note": "An elevated platform, often supporting a seat of honor, a high table, or speakers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dais",
+        "label": "Merriam-Webster: dais"
+      }
+    ],
+    "evidence": "story/p-125: Inside, something black crouched upon a dais. “I’ve come for Lissy,” Tim said."
+  },
+  {
+    "id": "jinn",
+    "term": "jinn",
+    "aliases": [],
+    "short": "Supernatural spirits in Islamic tradition.",
+    "note": "Beings credited with supernatural powers and the ability to take different forms; singular jinni.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/jinni",
+        "label": "Merriam-Webster: jinn"
+      }
+    ],
+    "evidence": "story/p-155: ess ye, ’tis true,” Daniel told him. “ ’Tis the Fair Folk we are. The jinn o’ the desert too, and the saucer riders ye say ye credit, and forty score more. Would ye be likin’"
   }
 ]

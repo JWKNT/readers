@@ -88,5 +88,35 @@
       }
     ],
     "evidence": "story/p-030: p-030 The nin approach a zero energy level asymptotically. Theoretically we will remain in existence forever—or at least, indefinitely. That was my"
+  },
+  {
+    "id": "dr-huer",
+    "term": "Dr. Huer",
+    "aliases": [],
+    "short": "The scientist in the Buck Rogers comic strip.",
+    "note": "Doctor Huer is Buck Rogers’s scientist friend in the newspaper science-fiction adventure strip that began in 1929.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Buck_Rogers",
+        "label": "Buck Rogers · Comic-strip characters"
+      }
+    ],
+    "evidence": "story/p-051: pistols and rocket belts? You see I have begun to talk like Dr. Huer in the funnies, but I am going to try the Cerletti treatment just the same."
+  },
+  {
+    "id": "flapper",
+    "term": "flapper",
+    "aliases": [],
+    "short": "A fashionably unconventional young woman of the 1920s.",
+    "note": "A young woman associated especially with the 1920s who challenged conventional expectations through her dress and behavior.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/flapper",
+        "label": "Dictionary.com · flapper"
+      }
+    ],
+    "evidence": "story/p-002: nset, girl normal until yesterday, naturally quiet girl, no flapper, somewhat religious, “great reader,” knew few boys. Confirmed by father. Aunt says willfu"
   }
 ]

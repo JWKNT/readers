@@ -60,5 +60,35 @@
       }
     ],
     "evidence": "tonelessly, “When you were as he”—she pointed at the dog-man—“is now, Lemuria was queen of this sea. All that is gone, except my city. Is not that enough to satisfy ev"
+  },
+  {
+    "id": "day-glo",
+    "term": "Day-Glo",
+    "aliases": [],
+    "short": "Exceptionally bright fluorescent color.",
+    "note": "A trade name for daylight-fluorescent pigments, which convert ultraviolet energy into visible light and appear unusually brilliant even in daylight.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/dayglo.html",
+        "label": "American Chemical Society: DayGlo fluorescent pigments"
+      }
+    ],
+    "evidence": "story/p-148: g in front of the house and Mother is standing at the door dressed in Day-Glo robes that open way down the front but cover her arms almost to the ends of her fingers. She is tal"
+  },
+  {
+    "id": "tagalog",
+    "term": "Tagalog",
+    "aliases": [],
+    "short": "An Austronesian language of the Philippines.",
+    "note": "The language of the Tagalog people of central Luzon in the Philippines.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Tagalog",
+        "label": "Merriam-Webster: Tagalog"
+      }
+    ],
+    "evidence": "story/p-033:  natives, but he brought to mind all he could of the Bazaar Malay and Tagalog he had acquired in his years as a pilot, plantation manager, white hunter, and professional fightin"
   }
 ]

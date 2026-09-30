@@ -43,5 +43,50 @@
       }
     ],
     "evidence": "and monuments to rival Ancient Egypt’s, and gods worse than any demon Cotton Mather could have imagined. The time . . .” He shrugged. “After Moses but before Christ.” “Baby"
+  },
+  {
+    "id": "the-light-garden-of-the-angel-king",
+    "term": "The Light Garden of the Angel King",
+    "aliases": [],
+    "short": "Peter Levi’s account of travels in Afghanistan.",
+    "note": "A travel book by Peter Levi, describing his exploration of Afghanistan’s history and landscape in the company of Bruce Chatwin.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.travelbooks.co.uk/shop-online-books/the-light-garden-of-the-angel-king",
+        "label": "Eland Books: The Light Garden of the Angel King"
+      }
+    ],
+    "evidence": "story/p-156: nd started cleaning up the mess, and found a book I never saw before, The Light Garden of the Angel King, about traveling through Afghanistan. In front is somebody’s name and a date, and American Overseas"
+  },
+  {
+    "id": "leprosarium",
+    "term": "leprosarium",
+    "aliases": [],
+    "short": "A hospital for people with leprosy.",
+    "note": "A hospital devoted to the care of people with leprosy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/leprosarium",
+        "label": "Merriam-Webster: leprosarium"
+      }
+    ],
+    "evidence": "story/p-047: “I doubt there’s a leprosarium nearer than the Marshalls. Anyway, I don’t know of one closer. Unless you saw something else, some "
+  },
+  {
+    "id": "yaws",
+    "term": "yaws",
+    "aliases": [],
+    "short": "A tropical bacterial infection.",
+    "note": "A chronic infection caused by Treponema pallidum subspecies pertenue, affecting the skin and sometimes deeper tissues.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.who.int/en/news-room/fact-sheets/detail/yaws",
+        "label": "World Health Organization: yaws"
+      }
+    ],
+    "evidence": "story/p-018: b. (Try and match that around Chicago.) Once or twice a year one gets yaws or some such, and Rev. Robbins gives him arsenic. Which cures it. Pooey!"
   }
 ]

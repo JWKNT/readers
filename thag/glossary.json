@@ -287,5 +287,25 @@
       "paragraph": "p-009",
       "index": 0
     }
+  },
+  {
+    "id": "morgenstern",
+    "term": "morgenstern",
+    "aliases": [],
+    "short": "A spiked club or mace.",
+    "note": "A European striking weapon whose wooden or metal head is studded with iron spikes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.schlosstirol.it/en/south-tyrolean-museum/morgenstern/",
+        "label": "South Tyrolean Museum of Culture · Morgenstern"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-037",
+      "index": 0
+    }
   }
 ]

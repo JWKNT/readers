@@ -41,5 +41,25 @@
       "paragraph": "p-007",
       "index": 0
     }
+  },
+  {
+    "id": "disincarnate",
+    "term": "DISINCARNATE",
+    "aliases": [],
+    "short": "To leave or be freed from bodily form.",
+    "note": "To divest of a physical body or bodily form; as an adjective, disembodied or without flesh.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wiktionary.org/wiki/disincarnate",
+        "label": "Wiktionary · disincarnate"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-032",
+      "index": 0
+    }
   }
 ]

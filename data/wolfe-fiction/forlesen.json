@@ -60,5 +60,50 @@
       }
     ],
     "evidence": "story/p-446: —that’s what they’re for. The pictures, I mean. In a beautiful little cruet. It’s a company benefit, and you’d know if you’d read your own orientation material—of course, you "
+  },
+  {
+    "id": "blind-tooled",
+    "term": "blind-tooled",
+    "aliases": [],
+    "short": "Decorated with impressed, ungilded patterns.",
+    "note": "A bookbinding technique in which a heated tool presses a design into leather or another covering material without applying metal leaf.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://oab.lib.utah.edu/artist_book_term/blind-tooling/",
+        "label": "University of Utah Library: blind tooling"
+      }
+    ],
+    "evidence": "story/p-057:  of the pile, and looked at it. The cover was of leather and had been blind-tooled in a pattern of thin lines. Holding it at a slant to the light from the window, he decided he could"
+  },
+  {
+    "id": "mimeographed",
+    "term": "mimeographed",
+    "aliases": [],
+    "short": "Copied by forcing ink through a stencil.",
+    "note": "Reproduced on a mimeograph, a machine that makes many copies of a document from an inked stencil.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mimeograph",
+        "label": "Merriam-Webster: mimeographed"
+      }
+    ],
+    "evidence": "story/p-026: On top of the pile was a mimeographed sheet, and he picked that up first. It said:"
+  },
+  {
+    "id": "coatimundi",
+    "term": "coatimundi",
+    "aliases": [],
+    "short": "A long-snouted relative of the raccoon.",
+    "note": "A coati: a tropical American mammal with a long tail and flexible, elongated snout.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/coati",
+        "label": "Merriam-Webster: coatimundi"
+      }
+    ],
+    "evidence": "story/p-112:  of some delicate and appealing kind, a young rabbit or a little coatimundi. “I could see them,” he said. “From where I was up there. Most of them didn’t even see me—off in cl"
   }
 ]

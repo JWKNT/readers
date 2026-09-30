@@ -60,5 +60,25 @@
       "paragraph": "p-059",
       "index": 0
     }
+  },
+  {
+    "id": "shillelagh",
+    "term": "Shillelagh",
+    "aliases": [],
+    "short": "An American gun-launched antitank missile.",
+    "note": "The Shillelagh was an infrared-guided antitank missile fired from the combined gun-and-missile launcher of vehicles such as the M551 Sheridan.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.fdmuseum.org/exhibit/m551a1-sheridan/",
+        "label": "First Division Museum · M551A1 Sheridan"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-060",
+      "index": 0
+    }
   }
 ]

@@ -12,7 +12,7 @@
   ],
   "totalWords": 3112,
   "defaultChapter": "story",
-  "glossaryCount": 8,
+  "glossaryCount": 9,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -144,6 +144,10 @@
         {
           "term": "naiades",
           "paragraph": "p-026"
+        },
+        {
+          "term": "schliemann",
+          "paragraph": "p-031"
         }
       ],
       "words": 3112,

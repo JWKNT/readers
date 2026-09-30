@@ -18,5 +18,45 @@
       "paragraph": "chapter-title",
       "index": 0
     }
+  },
+  {
+    "id": "braziers",
+    "term": "braziers",
+    "aliases": [],
+    "short": "Metal containers holding a fire.",
+    "note": "Portable metal vessels in which charcoal or other fuel is burned for heat or cooking.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/brazier",
+        "label": "Dictionary.com · brazier"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-032",
+      "index": 0
+    }
+  },
+  {
+    "id": "tangs",
+    "term": "tangs",
+    "aliases": [],
+    "short": "The parts of blades fitted into their handles.",
+    "note": "Narrow projecting portions of knives, files, or other tools that attach the working metal part to a handle.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/tang",
+        "label": "Dictionary.com · tang"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-011",
+      "index": 0
+    }
   }
 ]

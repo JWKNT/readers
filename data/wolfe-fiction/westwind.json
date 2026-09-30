@@ -13,5 +13,20 @@
       }
     ],
     "evidence": "story/p-002: d to soft old valentines. The ruler’s chair turned to bronze, then to umber, and the ruler himself, fatherly and cunning, wise and unknowable, underwent a succession of transf"
+  },
+  {
+    "id": "washstand",
+    "term": "washstand",
+    "aliases": [],
+    "short": "A stand for a washbasin and washing supplies.",
+    "note": "A piece of furniture holding the basin, jug, and other articles used for washing the face and hands.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/washstand",
+        "label": "Merriam-Webster: washstand"
+      }
+    ],
+    "evidence": "story/p-085: ce and turned on the light. “Bed’s here; dresser’s there,” she said. “Washstand in the corner, but you have to bring your water from the bathroom. No bugs—we fumigate twice a year"
   }
 ]

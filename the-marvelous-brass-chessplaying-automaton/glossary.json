@@ -78,5 +78,105 @@
       "paragraph": "p-043",
       "index": 0
     }
+  },
+  {
+    "id": "schnapps",
+    "term": "schnapps",
+    "aliases": [],
+    "short": "A strong distilled liquor.",
+    "note": "A German-derived name for various high-strength alcoholic spirits.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/schnapps",
+        "label": "Merriam-Webster: schnapps"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-120",
+      "index": 0
+    }
+  },
+  {
+    "id": "psychokinetic",
+    "term": "psychokinetic",
+    "aliases": [],
+    "short": "Relating to supposed movement by mind alone.",
+    "note": "Of psychokinesis: the claimed ability to move physical objects by mental power without a physical mechanism.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/psychokinesis",
+        "label": "Merriam-Webster: psychokinetic"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-184",
+      "index": 0
+    }
+  },
+  {
+    "id": "burgermeister",
+    "term": "Burgermeister",
+    "aliases": [],
+    "short": "German: mayor.",
+    "note": "Bürgermeister is the German title for the head of a municipal government.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.duden.de/rechtschreibung/Buergermeister",
+        "label": "Duden: Bürgermeister"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
+  },
+  {
+    "id": "ritters",
+    "term": "Ritters",
+    "aliases": [],
+    "short": "Knights; from German Ritter.",
+    "note": "German Ritter means a knight: an armored mounted warrior, or a member of a knightly order.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.duden.de/rechtschreibung/Ritter",
+        "label": "Duden: Ritter"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-139",
+      "index": 0
+    }
+  },
+  {
+    "id": "incommensurable",
+    "term": "incommensurable",
+    "aliases": [],
+    "short": "Not measurable by a shared standard.",
+    "note": "Lacking a common unit of measurement or a basis for direct comparison.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/incommensurable",
+        "label": "Merriam-Webster: incommensurable"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-019",
+      "index": 0
+    }
   }
 ]
