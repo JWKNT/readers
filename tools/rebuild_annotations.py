@@ -80,6 +80,91 @@ def unannotate(parent, preserve=None):
                 parent.text = (parent.text or '') + (child.tail or '')
 
 
+
+def annotate_correction_runs(parent, regex, lookup, block=None):
+    """Wrap complete matches crossing repair nodes without splitting a repair.
+
+    Ordinary inline formatting, links, original notes and initials remain
+    boundaries. Existing complete annotated repairs are recounted by annotate.
+    """
+    block = parent.get('data-block', block)
+    if (parent.tag in ('a', 'sup', 'script', 'style')
+            or parent.get('class') == 'word'
+            or any(name in parent.get('class', '') for name in
+                   ('initial', 'source-note', 'source-address'))):
+        return
+    for child in list(parent):
+        annotate_correction_runs(child, regex, lookup, block)
+    if block is None or regex is None:
+        return
+    children = list(parent)
+    if not any(c.get('data-original') is not None for c in children):
+        return
+    runs, run = [], [parent.text or '']
+    for child in children:
+        if child.tag == 'span' and child.get('data-original') is not None:
+            run.extend([child, child.tail or ''])
+        else:
+            runs.extend([run, child])
+            run = [child.tail or '']
+    runs.append(run)
+    plans = []
+    for parts in runs:
+        if not isinstance(parts, list):
+            plans.append((parts, None))
+            continue
+        atoms, offset = [], 0
+        for part in parts:
+            if isinstance(part, str):
+                for char in part:
+                    atoms.append((offset, offset + 1, char))
+                    offset += 1
+            else:
+                length = len(common.txt(part))
+                atoms.append((offset, offset + length, part))
+                offset += length
+        value = ''.join(atom if isinstance(atom, str) else common.txt(atom)
+                        for _, _, atom in atoms)
+        repairs = [(a, b) for a, b, atom in atoms if not isinstance(atom, str)]
+        matches = []
+        for match in regex.finditer(value):
+            start, end = match.span()
+            crossed = [(a, b) for a, b in repairs
+                       if (a < end and b > start) or (a == b and start < a < end)]
+            if not crossed or any(a < start or b > end for a, b in crossed):
+                continue  # Never split a correction's original/replacement pair.
+            if any(a <= start and b >= end for a, b in crossed):
+                continue  # Ordinary annotation already handles a whole repair.
+            matches.append((start, end, lookup[match[0].lower()]))
+        plans.append((atoms, matches))
+    if not any(matches for _, matches in plans if matches is not None):
+        return
+    parent.text = ''
+    for child in children:
+        parent.remove(child)
+        child.tail = None
+    for atoms, matches in plans:
+        if matches is None:
+            parent.append(atoms)
+            continue
+        words = {}
+        for start, end, atom in atoms:
+            target = parent
+            for index, (left, right, entry) in enumerate(matches):
+                inside = (left <= start and end <= right and
+                          (start != end or left < start < right))
+                if inside:
+                    if index not in words:
+                        words[index] = ET.SubElement(parent, 'span', {
+                            'class': 'word', 'data-term': entry['id']})
+                    target = words[index]
+                    break
+            if isinstance(atom, str):
+                common.append_text(target, atom)
+            else:
+                target.append(atom)
+
+
 def replace_article(page, markup):
     page, count = re.subn(r'(<article\b[^>]*>).*?(</article>)',
                          lambda match: match[1] + markup + match[2], page,
@@ -110,8 +195,9 @@ def build(slug):
             continue  # Original notes and afterwords remain byte-identical.
         tree = Fragment(chapter['html']).root
         before = common.txt(tree)
-        regex,_=common.matcher(entries)
+        regex,lookup=common.matcher(entries)
         unannotate(tree,preserve=regex)
+        annotate_correction_runs(tree,regex,lookup)
         if 'headingHtml' in chapter:
             heading = ET.Element('h1', {'data-block': 'chapter-title'})
             heading.text = chapter['title']

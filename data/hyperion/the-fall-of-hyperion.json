@@ -106,7 +106,7 @@
       "Socinian",
       "Socinian Heresy"
     ],
-    "short": "Faustus Socinus, an Italian anti-Trinitarian theologian.",
+    "short": "Faustus Socinus and the anti-Trinitarian theology named for him.",
     "note": "Fausto Sozzini, 1539–1604, whose Latinized name is Faustus Socinus. Socinian theology rejected the traditional Trinity and Christ’s preexistence; it also held that freely chosen future actions need not already be determinate objects of divine knowledge.",
     "possible": false,
     "sources": [
@@ -443,7 +443,7 @@
     "aliases": [
       "Oört"
     ],
-    "short": "A proposed distant reservoir of icy bodies around a star.",
+    "short": "A distant reservoir of icy comet bodies.",
     "note": "The Solar System’s Oort Cloud is a hypothesized, roughly spherical swarm far beyond Neptune, thought to supply many long-period comets. It is named for Dutch astronomer Jan Oort.",
     "possible": false,
     "sources": [
@@ -1342,7 +1342,7 @@
     "aliases": [
       "Tchaikovsky"
     ],
-    "short": "Tchaikovsky’s ballet of a child’s enchanted Christmas journey.",
+    "short": "Tchaikovsky and his Christmas ballet, The Nutcracker.",
     "note": "A ballet first performed in 1892, with music by Pyotr Ilyich Tchaikovsky. A girl, often called Clara, receives a nutcracker that becomes central to a magical adventure.",
     "possible": false,
     "sources": [
@@ -1358,7 +1358,7 @@
     "aliases": [
       "Piano Concerto No. 2 in C Minor"
     ],
-    "short": "Sergei Rachmaninoff, composer of the Second Piano Concerto.",
+    "short": "Rachmaninoff and his Second Piano Concerto.",
     "note": "Russian composer and pianist, 1873–1943. His Piano Concerto No. 2 in C minor, Op. 18, completed in 1901, is known for expansive melodies and the dialogue between virtuoso piano and orchestra.",
     "possible": false,
     "sources": [
@@ -1654,7 +1654,7 @@
     "aliases": [
       "Neverland"
     ],
-    "short": "J. M. Barrie’s boy who refuses to grow up.",
+    "short": "Barrie’s never-aging boy and his island, Neverland.",
     "note": "The flying boy at the center of Barrie’s play Peter Pan and novel Peter and Wendy. Neverland is his island of perpetual childhood, shared with the Lost Boys and Captain Hook.",
     "possible": false,
     "sources": [
@@ -1883,7 +1883,7 @@
     "aliases": [
       "Pax"
     ],
-    "short": "A Latin form of pax, meaning peace.",
+    "short": "Latin forms meaning peace.",
     "note": "Pacem is the accusative singular of Latin pax, peace. The form appears in dona nobis pacem, grant us peace, and Pacem in terris, peace on earth.",
     "possible": false,
     "sources": [
@@ -1948,5 +1948,1620 @@
         "label": "Stanford Encyclopedia of Philosophy: Thomas Aquinas"
       }
     ]
+  },
+  {
+    "id": "motile",
+    "term": "motile",
+    "aliases": [],
+    "short": "Capable of moving independently.",
+    "note": "Able to move spontaneously or under its own power, especially as a living organism does.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/motile",
+        "label": "Merriam-Webster: motile"
+      }
+    ],
+    "evidence": "fall-01/p-011: e houseboats, obviously fitted with their own farcasters; small, motile isles imported from the oceans of Maui-Covenant; sporty pre-Hegira speedboats and submersibles; an assortment of hand-carved nautical "
+  },
+  {
+    "id": "arroyo",
+    "term": "arroyo",
+    "aliases": [],
+    "short": "A dry watercourse or steep-sided gully.",
+    "note": "A channel or ravine in an arid region, commonly dry except after rainfall.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/arroyo",
+        "label": "Merriam-Webster: arroyo"
+      }
+    ],
+    "evidence": "fall-03/p-027: mb called the Obelisk; the pilgrim path then led up the widening arroyo to the largest tomb of them all, centrally placed, the Crystal Monolith, its surface devoid of design or opening, its flat-topped roof"
+  },
+  {
+    "id": "rictus",
+    "term": "rictus",
+    "aliases": [],
+    "short": "A rigid or distorted grin.",
+    "note": "A gaping mouth or an expression resembling a fixed, strained grin.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/rictus",
+        "label": "Merriam-Webster: rictus"
+      }
+    ],
+    "evidence": "fall-03/p-057: past few hours. His eyes are sunken mirrors of pain, his smile a rictus."
+  },
+  {
+    "id": "torus",
+    "term": "torus",
+    "aliases": [],
+    "short": "A doughnut-shaped surface or solid.",
+    "note": "In geometry, the ring-shaped surface produced by revolving a circle around an axis outside the circle but in its plane.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/torus",
+        "label": "Merriam-Webster: torus"
+      }
+    ],
+    "evidence": "fall-04/p-062: , the effect was of an infinite main street, a hundred-kilometer torus of material delights. One could stand, as I did that morning, under the brilliant sun of Tau Ceti and look down the Concourse to the n"
+  },
+  {
+    "id": "deliquescing",
+    "term": "deliquescing",
+    "aliases": [
+      "deliquesce"
+    ],
+    "short": "Melting or dissolving away.",
+    "note": "Becoming liquid or disappearing as if by melting; technically, dissolving through the absorption of moisture from the air.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/deliquesce",
+        "label": "Merriam-Webster: deliquesce"
+      }
+    ],
+    "evidence": "fall-24/p-072: ol—the projection usually left a room or let others leave before deliquescing—or it was a sign that the controlling intelligence in the Core had been shaken by the exchange."
+  },
+  {
+    "id": "outre",
+    "term": "outré",
+    "aliases": [],
+    "short": "Outlandish or strikingly unconventional.",
+    "note": "Exceeding accepted standards of style or behavior; conspicuously unusual or bizarre.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/outré",
+        "label": "Merriam-Webster: outré"
+      }
+    ],
+    "evidence": "fall-14/p-035: s clothes and ARNistry were expensively flamboyant without being outré, and his demeanor proclaimed a relaxed confidence that all men dreamed of and precious few obtained. His wit was obvious, his attentio"
+  },
+  {
+    "id": "gillyflowers",
+    "term": "gillyflowers",
+    "aliases": [],
+    "short": "An old name for certain fragrant garden flowers.",
+    "note": "An old name for carnations.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gillyflower",
+        "label": "Merriam-Webster: gillyflower"
+      }
+    ],
+    "evidence": "fall-16/p-096: Though he would oft-times feast on gillyflowers rare."
+  },
+  {
+    "id": "lemans",
+    "term": "Lemans",
+    "aliases": [],
+    "short": "Archaic: lovers or sweethearts.",
+    "note": "An old word for a lover or sweetheart, especially a mistress.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/leman",
+        "label": "Merriam-Webster: leman"
+      }
+    ],
+    "evidence": "fall-16/p-093: Ne with sly Lemans in the scorner’s chair,"
+  },
+  {
+    "id": "wassail-bowl",
+    "term": "wassail-bowl",
+    "aliases": [],
+    "short": "A bowl for a festive spiced drink.",
+    "note": "Wassail is a drink traditionally made from warmed ale, wine, or cider with spices and other ingredients, shared in toasts and seasonal celebrations.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/wassail",
+        "label": "Merriam-Webster: wassail"
+      }
+    ],
+    "evidence": "fall-16/p-091: He ’sdained the swine-herd at the wassail-bowl,"
+  },
+  {
+    "id": "redolent",
+    "term": "redolent",
+    "aliases": [],
+    "short": "Strongly scented or suggestive of something.",
+    "note": "Having a noticeable fragrance; figuratively, evoking or calling something to mind.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/redolent",
+        "label": "Merriam-Webster: redolent"
+      }
+    ],
+    "evidence": "fall-14/p-045: ith a dark gray soup I did not recognize. It was smoky, slightly redolent of cinnamon and the sea, and delicious."
+  },
+  {
+    "id": "vicissitudes",
+    "term": "vicissitudes",
+    "aliases": [],
+    "short": "Changes of circumstance or fortune.",
+    "note": "Alternations and fluctuations in life or events, especially unwelcome or unpredictable changes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/vicissitude",
+        "label": "Merriam-Webster: vicissitude"
+      }
+    ],
+    "evidence": "fall-15/p-104: p, Commander. Did you earn it? Or did it fall to you through the vicissitudes of war?”"
+  },
+  {
+    "id": "oeuvre",
+    "term": "oeuvre",
+    "aliases": [],
+    "short": "An artist’s or writer’s body of work.",
+    "note": "The collected works of an artist, writer, or composer; the word can also denote an individual artistic work.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/oeuvre",
+        "label": "Merriam-Webster: oeuvre"
+      }
+    ],
+    "evidence": "fall-14/p-063: tion with ‘goals’—and revel in the artistic dimension of its own oeuvre. Now my own most recent project—”"
+  },
+  {
+    "id": "reified",
+    "term": "reified",
+    "aliases": [],
+    "short": "Made concrete or treated as a tangible thing.",
+    "note": "Converted into something concrete, or regarded as a real thing rather than an abstraction.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/reify",
+        "label": "Merriam-Webster: reify"
+      }
+    ],
+    "evidence": "fall-09/p-074: enser, coalescing into a semisolid mist as the containment field reified. The noise of the combat control center disappeared. The three of us were in a small igloo of quiet."
+  },
+  {
+    "id": "barks",
+    "term": "barks",
+    "aliases": [],
+    "short": "Sailing vessels; also spelled barques.",
+    "note": "A poetic name for boats or ships; more specifically, a sailing ship with three or more masts, square-rigged except for its aftermost mast.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bark",
+        "label": "Merriam-Webster: bark"
+      }
+    ],
+    "evidence": "fall-01/p-011:  the river showed this: great, crenelated cruisers, canvas-laden barks, and five-tiered barges, many showing signs of being equipped with levitation gear; elaborate houseboats, obviously fitted with their "
+  },
+  {
+    "id": "cordite",
+    "term": "cordite",
+    "aliases": [],
+    "short": "A smokeless propellant used in firearms and artillery.",
+    "note": "A propellant made chiefly from nitrocellulose and nitroglycerin, traditionally formed into cords.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cordite",
+        "label": "Merriam-Webster: cordite"
+      },
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/cordite",
+        "label": "Collins English Dictionary: cordite"
+      }
+    ],
+    "evidence": "fall-23/p-018: Kassad’s senses were engaged now; he smelled the ionized air and cordite and solid propellant; smoke and the dull acid of plasma explosive made his nostrils flare; somewhere in the city, sirens wailed while "
+  },
+  {
+    "id": "spindrift",
+    "term": "spindrift",
+    "aliases": [],
+    "short": "Fine spray swept along by the wind.",
+    "note": "Spray blown from wave crests, or similarly wind-driven snow or sand.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/spindrift",
+        "label": "Merriam-Webster: spindrift"
+      }
+    ],
+    "evidence": "fall-17/p-050:  sound returned, sand blew from the edge of the dune in curls of spindrift. Kassad and Moneta slid lower on the gently curling bank of sand, rolled together down the warm wave to the place where it would break"
+  },
+  {
+    "id": "triremes",
+    "term": "triremes",
+    "aliases": [],
+    "short": "Ancient warships with three banks of oars.",
+    "note": "Oared warships used in the ancient Mediterranean, with rowers arranged in three levels.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/trireme",
+        "label": "Merriam-Webster: trireme"
+      }
+    ],
+    "evidence": "fall-09/p-058:  claustrophobic, ships ramming and firing and burning like Greek triremes packed into the straits of Artemisium."
+  },
+  {
+    "id": "colloid",
+    "term": "colloid",
+    "aliases": [
+      "colloidal"
+    ],
+    "short": "Fine particles dispersed through another substance.",
+    "note": "A mixture in which very small particles remain distributed through a surrounding medium rather than forming a true solution.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/colloid",
+        "label": "Merriam-Webster: colloid"
+      }
+    ],
+    "evidence": "fall-08/p-065: earlier. The air mists with the data columns and spherical-image colloid which characterizes comlogs dating back to the Hegira. The image of Gladstone shimmers, her face distorting bizarrely and then almost "
+  },
+  {
+    "id": "praetorian",
+    "term": "Praetorian",
+    "aliases": [
+      "praetorians"
+    ],
+    "short": "Relating to an elite bodyguard, especially an emperor’s.",
+    "note": "The Praetorian Guard protected Roman emperors. The adjective can more generally describe a ruler’s privileged military guard.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/praetorian",
+        "label": "Merriam-Webster: praetorian"
+      }
+    ],
+    "evidence": "fall-15/p-003: -time portal—I was the last in the party to do so except for the Praetorian bodyguards bringing up the rear of the group—I was shocked to be looking down a stone-walled corridor relieved by long windows showing"
+  },
+  {
+    "id": "ecliptic",
+    "term": "ecliptic",
+    "aliases": [],
+    "short": "Conventionally, the plane of Earth’s orbit around the Sun.",
+    "note": "In conventional Earth-based astronomy, the ecliptic is the Sun’s apparent yearly path across the sky. Its plane corresponds to Earth’s orbital plane and serves as an astronomical reference.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ecliptic",
+        "label": "Merriam-Webster: ecliptic"
+      }
+    ],
+    "evidence": "fall-04/p-024: e tip of his pointer—“twenty-nine degrees above the plane of the ecliptic, thirty AU from Hyperion’s sun, approximately 0.35 AU from the hypothetical rim of the system’s Oört cloud.”"
+  },
+  {
+    "id": "st-elmos-fire",
+    "term": "St. Elmo’s fire",
+    "aliases": [],
+    "short": "A glow caused by electrical discharge into the air.",
+    "note": "A luminous plasma discharge around exposed points such as ship masts or aircraft wings in a strong atmospheric electric field. It often appears blue or violet.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.weather.gov.hk/en/education/aviation-and-marine/aviation/00534-st-elmos-fire-as-seen-from-aircraft.html",
+        "label": "Hong Kong Observatory: St. Elmo’s fire"
+      }
+    ],
+    "evidence": "fall-03/p-070: ep along her tunic sleeves and float over the tent surfaces like St. Elmo’s fire. As her eyes adapt, Lamia realizes that the shifting dunes are aglow with pale fire. Forty meters to the east, the tomb called the Sph"
+  },
+  {
+    "id": "artemisium",
+    "term": "Artemisium",
+    "aliases": [],
+    "short": "The site of a Greek–Persian naval battle in 480 BCE.",
+    "note": "A headland on northern Euboea, off which the allied Greek fleet fought Xerxes’ Persian fleet while the land battle at Thermopylae was taking place.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.livius.org/articles/battle/artemisium/",
+        "label": "Livius: Artemisium, 480 BCE"
+      }
+    ],
+    "evidence": "fall-09/p-058: iring and burning like Greek triremes packed into the straits of Artemisium."
+  },
+  {
+    "id": "ne-cared-he-for-wine",
+    "term": "Ne cared he for wine",
+    "aliases": [],
+    "short": "From Keats’s comic portrait of Charles Armitage Brown.",
+    "note": "From “Spenserian Stanzas on Charles Armitage Brown,” also known as “Character of Charles Brown,” a humorous poem by John Keats about his friend.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/The_complete_poetical_works_and_letters_of_John_Keats/Spenserian_Stanzas_on_Charles_Armitage_Brown",
+        "label": "John Keats: Spenserian Stanzas on Charles Armitage Brown"
+      }
+    ],
+    "evidence": "fall-16/p-088: Ne cared he for wine, or half-and-half,"
+  },
+  {
+    "id": "equirectangular",
+    "term": "equirectangular",
+    "aliases": [],
+    "short": "A cylindrical map projection with a rectangular grid.",
+    "note": "A projection mapping meridians and parallels to evenly spaced straight lines. The grid becomes square in the plate carrée form, whose standard parallel is the equator.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://desktop.arcgis.com/en/arcmap/10.4/map/projections/equirectangular.htm",
+        "label": "Esri: equirectangular projection"
+      }
+    ],
+    "evidence": "fall-04/p-034: d unwound itself into a series of flattened projections: oblique equirectangular, Bonne, orthographic, rosette, Van der Grinten, Gores, interrupted Goode homolosine, gnomonic, sinusoidal, azimuthal equidistant, poly"
+  },
+  {
+    "id": "orthographic",
+    "term": "orthographic",
+    "aliases": [],
+    "short": "A globe-like map projection viewed from infinitely far away.",
+    "note": "An azimuthal projection displaying one hemisphere as it would appear from an infinite viewing distance. Distortion increases toward its circular edge.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://pro.arcgis.com/en/pro-app/2.8/help/mapping/properties/orthographic.htm",
+        "label": "Esri: orthographic projection"
+      }
+    ],
+    "evidence": "fall-04/p-034: series of flattened projections: oblique equirectangular, Bonne, orthographic, rosette, Van der Grinten, Gores, interrupted Goode homolosine, gnomonic, sinusoidal, azimuthal equidistant, polyconic, hypercorrected"
+  },
+  {
+    "id": "sinusoidal",
+    "term": "sinusoidal",
+    "aliases": [],
+    "short": "An equal-area map projection with curved meridians.",
+    "note": "A pseudocylindrical projection with straight, equally spaced parallels and sinusoidally curved meridians. It preserves areas but increasingly distorts shapes away from its center.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://doc.esri.com/en/arcgis-pro/latest/help/mapping/properties/sinusoidal.html",
+        "label": "Esri: sinusoidal projection"
+      }
+    ],
+    "evidence": "fall-04/p-034:  Van der Grinten, Gores, interrupted Goode homolosine, gnomonic, sinusoidal, azimuthal equidistant, polyconic, hypercorrected Kuwatsi, computer-eschered, Briesemeister, Buckminster, Miller cylindrical, multicol"
+  },
+  {
+    "id": "azimuthal-equidistant",
+    "term": "azimuthal equidistant",
+    "aliases": [],
+    "short": "A map projection preserving distance and direction from its center.",
+    "note": "A projection in which distances and directions measured from the central point are correct. Other distances and shapes become increasingly distorted away from that point.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://desktop.arcgis.com/en/arcmap/latest/map/projections/azimuthal-equidistant.htm",
+        "label": "Esri: azimuthal equidistant projection"
+      }
+    ],
+    "evidence": "fall-04/p-034: nten, Gores, interrupted Goode homolosine, gnomonic, sinusoidal, azimuthal equidistant, polyconic, hypercorrected Kuwatsi, computer-eschered, Briesemeister, Buckminster, Miller cylindrical, multicoligraphed, and satplot s"
+  },
+  {
+    "id": "polyconic",
+    "term": "polyconic",
+    "aliases": [],
+    "short": "A map projection using a separate conical surface for each parallel.",
+    "note": "A projection with parallels drawn as arcs of different circles, as though each lay on its own cone. Scale is true along each parallel and the central meridian.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://doc.esri.com/en/arcgis-pro/latest/help/mapping/properties/polyconic.html",
+        "label": "Esri: polyconic projection"
+      }
+    ],
+    "evidence": "fall-04/p-034: d Goode homolosine, gnomonic, sinusoidal, azimuthal equidistant, polyconic, hypercorrected Kuwatsi, computer-eschered, Briesemeister, Buckminster, Miller cylindrical, multicoligraphed, and satplot standard, be"
+  },
+  {
+    "id": "jingoism",
+    "term": "jingoism",
+    "aliases": [],
+    "short": "Aggressive, warlike nationalism.",
+    "note": "Exaggerated patriotism marked by a belligerent attitude toward other nations.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/jingoism",
+        "label": "Merriam-Webster: jingoism"
+      }
+    ],
+    "evidence": "fall-01/p-048: of noble houses from a hundred worlds forgot everything except a jingoism and war lust awakened now after more than a century and a half of dormancy."
+  },
+  {
+    "id": "stoat",
+    "term": "stoat",
+    "aliases": [],
+    "short": "A small, slender member of the weasel family.",
+    "note": "The ermine, especially when wearing its brown summer coat rather than its white winter fur.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/stoat",
+        "label": "Merriam-Webster: stoat"
+      }
+    ],
+    "evidence": "fall-epigraph/p-003:  mind may fall into, as I am entertained with the alertness of a Stoat or the anxiety of a Deer? Though a quarrel in the streets is a thing to be hated, the energies displayed in it are fine … By a superio"
+  },
+  {
+    "id": "bilious",
+    "term": "bilious",
+    "aliases": [],
+    "short": "Bile-colored or sickly in appearance.",
+    "note": "Relating to bile, the yellow-green digestive fluid; also describing a sickly or unpleasant appearance, or an irritable disposition.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bilious",
+        "label": "Merriam-Webster: bilious"
+      }
+    ],
+    "evidence": "fall-05/p-008: al display or something else, the Jade Tomb is glowing a bright, bilious green which tinges the dunes and makes the skin of her wrists and hands look like something from the grave. Lamia makes a final attemp"
+  },
+  {
+    "id": "diurnal",
+    "term": "diurnal",
+    "aliases": [],
+    "short": "Daily, or occurring during daylight.",
+    "note": "Relating to the day or recurring every day; in biology, active chiefly during daylight.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/diurnal",
+        "label": "Merriam-Webster: diurnal"
+      }
+    ],
+    "evidence": "fall-09/p-001: o run on Hegemony Standard Time without totally destroying local diurnal rhythms. At 0545 hours, Gladstone met with her military advisors. At 0630 hours she breakfasted with two dozen of the most important s"
+  },
+  {
+    "id": "cryogenic",
+    "term": "cryogenic",
+    "aliases": [],
+    "short": "Relating to extremely low temperatures.",
+    "note": "Concerning the production and effects of very low temperatures, or processes carried out under such conditions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cryogenic",
+        "label": "Merriam-Webster: cryogenic"
+      }
+    ],
+    "evidence": "fall-07/p-064: were floating in full-shunt tanks. Their bodies would be kept in cryogenic storage until a secret trial determined if their actions had been treasonable. After the trial, the bodies would be destroyed, and Dia"
+  },
+  {
+    "id": "carapace",
+    "term": "carapace",
+    "aliases": [],
+    "short": "A hard protective outer shell.",
+    "note": "The protective shell covering the back of such animals as turtles and crustaceans; by extension, a shell-like covering or armor.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carapace",
+        "label": "Merriam-Webster: carapace"
+      }
+    ],
+    "evidence": "fall-05/p-024: s his own reflection in the fire-burnished chrome of the thing’s carapace … sees something else in the Shrike’s eyes at that instant … and then it is gone, the Shrike is gone, and Hoyt lifts his hand slowly, "
+  },
+  {
+    "id": "vouchsafed",
+    "term": "vouchsafed",
+    "aliases": [],
+    "short": "Granted or bestowed as a favor.",
+    "note": "Given or allowed by someone in a position of authority, often with an implication of graciousness or condescension.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/vouchsafe",
+        "label": "Merriam-Webster: vouchsafe"
+      }
+    ],
+    "evidence": "fall-12/p-003: e shield and sword, which have ever preserved our birthright and vouchsafed our common good, so that peace may again prevail."
+  },
+  {
+    "id": "abstruse",
+    "term": "abstruse",
+    "aliases": [],
+    "short": "Difficult to understand; obscure.",
+    "note": "Describes ideas or subjects that are remote from ordinary knowledge and hard to comprehend.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/abstruse",
+        "label": "Merriam-Webster: abstruse"
+      }
+    ],
+    "evidence": "fall-11/p-074: breakfasts and scientific comlogs, arguing in technical terms so abstruse as to leave a Talmudic scholar envious."
+  },
+  {
+    "id": "penultimate",
+    "term": "penultimate",
+    "aliases": [],
+    "short": "Next to last.",
+    "note": "Immediately preceding the final member in an ordered series.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/penultimate",
+        "label": "Merriam-Webster: penultimate"
+      }
+    ],
+    "evidence": "fall-14/p-007: direction across the crowded floor as guests milled about on the penultimate deck, making raids on the numerous bars and waiting for the call to dine."
+  },
+  {
+    "id": "troika",
+    "term": "troika",
+    "aliases": [],
+    "short": "A group of three acting together.",
+    "note": "Originally a Russian carriage drawn by three horses; by extension, a trio, especially a group sharing leadership.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/troika",
+        "label": "Merriam-Webster: troika"
+      }
+    ],
+    "evidence": "fall-15/p-011: General Morpurgo and a troika of other FORCE leaders handled this briefing personally. The graphics were light-years away from the crude callups and holos of the Go"
+  },
+  {
+    "id": "deus-ex-machina",
+    "term": "deus ex machina",
+    "aliases": [],
+    "short": "An unexpected outside agency that resolves a difficulty.",
+    "note": "Latin for “god from the machine,” originally a deity lowered onto the stage in ancient drama. It now denotes an improbable external intervention that solves a plot’s problem.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/deus%20ex%20machina",
+        "label": "Merriam-Webster: deus%20ex%20machina"
+      }
+    ],
+    "evidence": "fall-20/p-034: gedly against the skyline. “Just as well,” he said. “We have one deus ex machina too many as it is.”"
+  },
+  {
+    "id": "half-and-half",
+    "term": "half-and-half",
+    "aliases": [],
+    "short": "A drink mixing two kinds of beer in equal parts.",
+    "note": "A mixture of equal quantities of two kinds of malt beverage, such as dark and light beer.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/half-and-half",
+        "label": "Merriam-Webster: half-and-half"
+      }
+    ],
+    "evidence": "fall-16/p-088: Ne cared he for wine, or half-and-half,"
+  },
+  {
+    "id": "eucharist",
+    "term": "Eucharist",
+    "aliases": [],
+    "short": "Holy Communion, or its consecrated bread and wine.",
+    "note": "The Christian sacrament commemorating the Last Supper; the term also denotes the consecrated elements used in it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/eucharist",
+        "label": "Collins English Dictionary: Eucharist"
+      }
+    ],
+    "evidence": "fall-05/p-013: esus has brought a vial of holy water blessed by His Holiness, a Eucharist consecrated in a Solemn High Mass, and a copy of the Church’s ancient rite of exorcism. These things are forgotten now, sealed in a Pe"
+  },
+  {
+    "id": "society-of-jesus",
+    "term": "Society of Jesus",
+    "aliases": [],
+    "short": "The Roman Catholic religious order known as the Jesuits.",
+    "note": "The order founded by Ignatius of Loyola and his companions and approved in 1540, known for education, missionary work, and spiritual formation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.jesuits.global/about-us/the-jesuits/",
+        "label": "Society of Jesus: the Jesuits"
+      }
+    ],
+    "evidence": "fall-05/p-009: Father Lenar Hoyt of the twelve-hundred-year-old Society of Jesus, resident of the New Vatican on Pacem and loyal servant of His Holiness Pope Urban XVI, is screaming obscenities."
+  },
+  {
+    "id": "gores",
+    "term": "Gores",
+    "aliases": [],
+    "short": "Tapering map segments used to cover a globe.",
+    "note": "Strips carrying map information, shaped to fit around a spherical globe. They are typically widest at the equator and narrow toward the poles.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://hsm.ox.ac.uk/renaissance-project-make-a-model-globe",
+        "label": "Oxford History of Science Museum: make a model globe"
+      },
+      {
+        "url": "https://www.hsm.ox.ac.uk/sites/default/files/Gores-for-terrestrial-globe.pdf",
+        "label": "Oxford History of Science Museum: gores for a terrestrial globe"
+      }
+    ],
+    "evidence": "fall-04/p-034:  equirectangular, Bonne, orthographic, rosette, Van der Grinten, Gores, interrupted Goode homolosine, gnomonic, sinusoidal, azimuthal equidistant, polyconic, hypercorrected Kuwatsi, computer-eschered, Brie"
+  },
+  {
+    "id": "pastiche",
+    "term": "pastiche",
+    "aliases": [],
+    "short": "A mixture assembled from different elements or styles.",
+    "note": "A work made from varied borrowed elements, or one imitating another work’s style; more broadly, a miscellaneous mixture.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pastiche",
+        "label": "Merriam-Webster: pastiche"
+      }
+    ],
+    "evidence": "fall-18/p-068:  there, his mother from one of the noblest families, his youth a pastiche of decadence and elegance, beauty and the sweet smell of decay. While his mother stayed with the dying Earth, he had been sent spacewa"
+  },
+  {
+    "id": "retinue",
+    "term": "retinue",
+    "aliases": [],
+    "short": "The attendants accompanying an important person.",
+    "note": "A group of assistants, followers, or servants who travel with or attend someone of rank.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/retinue",
+        "label": "Merriam-Webster: retinue"
+      }
+    ],
+    "evidence": "fall-14/p-020: is stick ensconced in a long, ebony cigarette holder. One of her retinue hurried to light it. “Such an odd choice,” she said, “considering that no one ever read the Cantos when poor Martin was alive. Well, n"
+  },
+  {
+    "id": "patrician",
+    "term": "patrician",
+    "aliases": [],
+    "short": "Aristocratic in appearance or manner.",
+    "note": "Associated with hereditary high rank or refined social standing; originally referring to the privileged families of ancient Rome.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/patrician",
+        "label": "Merriam-Webster: patrician"
+      }
+    ],
+    "evidence": "fall-16/p-044: ce and sadness in equal measure. “Before I died?” said Duré. The patrician lips sketched a smile. “Yes, I remember. I remember the exile, the Bikura …” He looked down. “Even the tesla tree.”"
+  },
+  {
+    "id": "ululated",
+    "term": "ululated",
+    "aliases": [],
+    "short": "Howled or wailed with a wavering sound.",
+    "note": "Uttered a prolonged, rising-and-falling cry or howl.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ululate",
+        "label": "Merriam-Webster: ululate"
+      }
+    ],
+    "evidence": "fall-22/p-017: It was not a human scream. The tones ululated to the ultrasonic and beyond, setting Lamia’s teeth on edge and making her grip the pistol with white fingers. Abruptly it was cut off"
+  },
+  {
+    "id": "ramparts",
+    "term": "ramparts",
+    "aliases": [],
+    "short": "Defensive walls or embankments.",
+    "note": "Broad raised defenses of earth or masonry surrounding a fortified place, often carrying a parapet.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/rampart",
+        "label": "Merriam-Webster: rampart"
+      }
+    ],
+    "evidence": "fall-22/p-033: hroat while she lay unconscious. She peered one last time at the ramparts and balconies, now invisible far above her, dragged her gear out, and set off down the treacherous stone path at double time."
+  },
+  {
+    "id": "nacelles",
+    "term": "nacelles",
+    "aliases": [],
+    "short": "Compartments for passengers, engines, or equipment on an aircraft.",
+    "note": "A streamlined enclosure for an aircraft’s engine, crew, or other equipment; also the passenger compartment beneath an airship.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/nacelle",
+        "label": "Collins English Dictionary: nacelle"
+      }
+    ],
+    "evidence": "fall-18/p-062: ung tethered and seemingly impatient to be away, their passenger nacelles swinging like heavy brown eggs, the skins of the balloons lovingly dyed in the patterns of living things—montgolfiers, Monarch butterf"
+  },
+  {
+    "id": "kippers",
+    "term": "kippers",
+    "aliases": [],
+    "short": "Herring preserved by splitting, salting, and smoking.",
+    "note": "Fish, especially herring, split open, cured with salt, and usually smoked before being eaten.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/kipper",
+        "label": "Merriam-Webster: kipper"
+      }
+    ],
+    "evidence": "fall-11/p-038:  sighed. “Give us a quiet corner, Stan. Bacon and eggs and brine kippers for me. Gentlemen?”"
+  },
+  {
+    "id": "ribbalds",
+    "term": "ribbalds",
+    "aliases": [],
+    "short": "People given to coarse or indecent speech.",
+    "note": "An older spelling of the plural noun ribald: a person who uses vulgar, lewd, or coarse language.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ribald",
+        "label": "Merriam-Webster: ribald"
+      }
+    ],
+    "evidence": "fall-16/p-092: Ne with lewd ribbalds sat he cheek by jowl,"
+  },
+  {
+    "id": "ultramarine",
+    "term": "ultramarine",
+    "aliases": [],
+    "short": "A vivid, deep blue.",
+    "note": "A rich blue pigment originally made from lapis lazuli, or the color of that pigment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ultramarine",
+        "label": "Merriam-Webster: ultramarine"
+      }
+    ],
+    "evidence": "fall-28/p-038: les across the verdant surface, briefly revealing the russet and ultramarine stalks beneath in a movement so wavelike that one expected to see whitecaps and fish leaping."
+  },
+  {
+    "id": "spondee",
+    "term": "spondee",
+    "aliases": [],
+    "short": "A metrical foot with two stressed syllables.",
+    "note": "In accentual verse, a foot consisting of two stressed syllables; in classical quantitative verse, two long syllables.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/spondee",
+        "label": "Dictionary.com · spondee"
+      }
+    ],
+    "evidence": "fall-38/p-034:  foot with unstressed pyrrhic, or the self-indulgence of the frequent spondee."
+  },
+  {
+    "id": "pyrrhic",
+    "term": "pyrrhic",
+    "aliases": [],
+    "short": "A metrical foot with two unstressed syllables.",
+    "note": "In poetry, a foot of two unstressed syllables, or two short syllables in classical quantitative meter.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/pyrrhic",
+        "label": "Dictionary.com · pyrrhic"
+      }
+    ],
+    "evidence": "fall-38/p-034: inine caesura, or the joys of alternating iambic foot with unstressed pyrrhic, or the self-indulgence of the frequent spondee."
+  },
+  {
+    "id": "caesura",
+    "term": "caesura",
+    "aliases": [],
+    "short": "A pause within a line of verse.",
+    "note": "A pause or break within a verse line, often arising from the sense or punctuation; conventionally marked in scansion by a double vertical line.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/caesura",
+        "label": "Dictionary.com · caesura"
+      }
+    ],
+    "evidence": "fall-38/p-034:  as I teach him how to pair such technique with masculine or feminine caesura, or the joys of alternating iambic foot with unstressed pyrrhic, or the self-indulgence of the frequent spondee."
+  },
+  {
+    "id": "assonance",
+    "term": "assonance",
+    "aliases": [],
+    "short": "The repetition of vowel sounds.",
+    "note": "The recurrence of similar vowel sounds in nearby words, especially their stressed syllables, without requiring full rhyme.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/assonance",
+        "label": "Dictionary.com · assonance"
+      }
+    ],
+    "evidence": "fall-38/p-034: annot help but smile at this least poetic of men’s unconscious use of assonance. I suddenly imagine us sitting up long nights in that dark hulk of a building as I teach him how to pair such technique with masc"
+  },
+  {
+    "id": "iambic",
+    "term": "iambic",
+    "aliases": [],
+    "short": "Using an unstressed syllable followed by a stressed one.",
+    "note": "Describes verse built from iambs: two-syllable feet with the weaker or unstressed syllable before the stronger or stressed one.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/iambic",
+        "label": "Dictionary.com · iambic"
+      }
+    ],
+    "evidence": "fall-38/p-034: hnique with masculine or feminine caesura, or the joys of alternating iambic foot with unstressed pyrrhic, or the self-indulgence of the frequent spondee."
+  },
+  {
+    "id": "proselytism",
+    "term": "proselytism",
+    "aliases": [],
+    "short": "The practice of seeking converts.",
+    "note": "The effort to convert others to a religion, belief, or cause.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/proselytism",
+        "label": "Dictionary.com · proselytism"
+      }
+    ],
+    "evidence": "fall-32/p-120:  Zen Gnosticism, complex and inwardly turned rather than the stuff of proselytism—while the general tenor was one of gentle cynicism and indifference to religious impulse."
+  },
+  {
+    "id": "internecine",
+    "term": "internecine",
+    "aliases": [],
+    "short": "Conflict within a group; mutually destructive.",
+    "note": "Describes strife between members of the same group, or fighting destructive to both sides.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/internecine",
+        "label": "Dictionary.com · internecine"
+      }
+    ],
+    "evidence": "fall-32/p-119: onement must be made … too late for such half-measures … too late for internecine strife … the end of mankind is upon us, the Tribulations have begun, the Millennium of the Lord is about to dawn.”"
+  },
+  {
+    "id": "sramana",
+    "term": "sramana",
+    "aliases": [],
+    "short": "A religious ascetic or renunciant.",
+    "note": "Sanskrit śramaṇa, corresponding to Pali samaṇa: a religious seeker who leaves ordinary social life for disciplined spiritual practice, including Buddhist and Jain ascetics.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/%C5%9Arama%E1%B9%87a",
+        "label": "Śramaṇa · overview and scholarly references"
+      },
+      {
+        "url": "https://accesstoinsight.org/glossary.html",
+        "label": "Access to Insight · samaṇa"
+      }
+    ],
+    "evidence": "fall-33/p-087: What are the activities of a sramana>"
+  },
+  {
+    "id": "gluon",
+    "term": "gluon",
+    "aliases": [],
+    "short": "A carrier of the strong nuclear interaction.",
+    "note": "An elementary force-carrying particle associated with the strong interaction, which binds quarks together.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://home.cern/science/physics/standard-model/",
+        "label": "CERN · The Standard Model"
+      }
+    ],
+    "evidence": "fall-33/p-371: appears not only to be the gluon"
+  },
+  {
+    "id": "koan",
+    "term": "koan",
+    "aliases": [
+      "koans"
+    ],
+    "short": "A paradoxical saying or question used in Zen practice.",
+    "note": "A brief, often perplexing question or saying used in Zen training to challenge ordinary reasoning and prompt insight.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/koan",
+        "label": "Dictionary.com · koan"
+      }
+    ],
+    "evidence": "fall-33/p-095: rix simulation analog, hearing a translation in approximate mondo and koan. Ummon is a great teacher, researcher, philosopher, and leader in the Core."
+  },
+  {
+    "id": "dechenschule",
+    "term": "Dechenschule",
+    "aliases": [],
+    "short": "A Nazi forced-labor and punishment camp in Essen.",
+    "note": "A school building in Essen used from 1943 to hold forced laborers and, from 1944, as a punitive labor camp run by the Gestapo and the Krupp firm.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://media.essen.de/media/wwwessende/aemter/41/stadtarchiv/Denkmalpfad_Essen_Erinnert_06.01.2026.pdf",
+        "label": "Essen City Archive · Essen Erinnert, station 3.2"
+      }
+    ],
+    "evidence": "fall-41/p-296: or in his Werkschutze Dechenschule"
+  },
+  {
+    "id": "spirit-here-that-reignest",
+    "term": "Spirit here that reignest",
+    "aliases": [],
+    "short": "The opening of a short lyric by John Keats.",
+    "note": "A short lyric by John Keats. Its two stanzas address a spirit first through suffering and mourning, then through laughter and festive revelry.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://johnkeats.uvic.ca/poem_spirit_here_that_reignest.html",
+        "label": "University of Victoria · Mapping Keats’s Progress"
+      }
+    ],
+    "evidence": "fall-32/p-033: Spirit here that reignest!Spirit here that painest!Spirit here that burnest!Spirit here that mournest!"
+  },
+  {
+    "id": "travertine",
+    "term": "travertine",
+    "aliases": [],
+    "short": "A spring-deposited limestone used in buildings.",
+    "note": "A form of limestone formed by calcium-carbonate deposits from springs, particularly hot springs, and widely used as an ornamental building stone.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/travertine",
+        "label": "Dictionary.com · travertine"
+      }
+    ],
+    "evidence": "fall-34/p-075: lelight illuminated discrete areas of the basilica, gleamed on smooth travertine stone, brought gold mosaics into bold relief, and picked out the infinite detail painted, embossed, and raised on the walls, colu"
+  },
+  {
+    "id": "atavistic",
+    "term": "atavistic",
+    "aliases": [],
+    "short": "Suggesting a return to an ancestral condition.",
+    "note": "Reverting to, or recalling, characteristics of a remote ancestor or an earlier form of life.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/atavistic",
+        "label": "Dictionary.com · atavistic"
+      }
+    ],
+    "evidence": "fall-34/p-073: here there echoed voices rising in a chanting/ singing so elegant and atavistic that it made the hair on my neck tingle. Gregorian. We passed through a large eating area as simple as the cells had been, throug"
+  },
+  {
+    "id": "halberds",
+    "term": "halberds",
+    "aliases": [
+      "halberd"
+    ],
+    "short": "Pole weapons combining an axe blade and spear point.",
+    "note": "Long-shafted weapons with an axe-like blade, a pointed hook or beak, and a spear point at the top.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/halberd",
+        "label": "Dictionary.com · halberds"
+      }
+    ],
+    "evidence": "fall-36/p-009: mor and yellow-and-blue striped pantaloons, although their ceremonial halberds were also FORCE-quality energy weapons. One stepped forward and spoke softly to the Monsignor."
+  },
+  {
+    "id": "balusters",
+    "term": "balusters",
+    "aliases": [
+      "baluster"
+    ],
+    "short": "Upright supports beneath a railing.",
+    "note": "A row of closely spaced posts or spindles supporting a handrail; an individual support is a baluster.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/baluster",
+        "label": "Dictionary.com · balusters"
+      }
+    ],
+    "evidence": "fall-36/p-108: its railings showed a delicate tracery of handcarved vines, posts and balusters boasted the faces of gnomes, wood sprites, faeries, and other spirits, and the table and chairs which Duré now approached were ca"
+  },
+  {
+    "id": "ursine",
+    "term": "ursine",
+    "aliases": [],
+    "short": "Bearlike.",
+    "note": "Of, resembling, or characteristic of a bear.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/ursine",
+        "label": "Dictionary.com · ursine"
+      }
+    ],
+    "evidence": "fall-37/p-115: Senator Kolchev rose, his Lusian bulk emanating an almost ursine sense of strength. “All right. This isn’t some goddamned negotiating ploy. The Ousters have just reduced a Web world to ashes. Th"
+  },
+  {
+    "id": "ague",
+    "term": "ague",
+    "aliases": [],
+    "short": "A fever marked by chills and shivering.",
+    "note": "An older term for recurrent fever and shaking chills, especially malarial fever; also used more broadly of a shivering fit.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/ague",
+        "label": "Dictionary.com · ague"
+      }
+    ],
+    "evidence": "fall-39/p-119: rtally, fearfully ill, with my body aching with something deeper than ague while phlegm and fire bubble in my chest and belly."
+  },
+  {
+    "id": "damask",
+    "term": "damask",
+    "aliases": [],
+    "short": "Patterned fabric, or a grayish-red color.",
+    "note": "A lustrous woven fabric with contrasting patterns; also a grayish-red color, or an adjective for something of that color.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/damask",
+        "label": "Merriam-Webster: damask"
+      }
+    ],
+    "evidence": "fall-39/p-003: watched his eyes widen at the sight of the blood I had vomited on the damask sheets; the second spasm I stifled as best I could, staggering to the basin on the bureau to spit up smaller quantities of black "
+  },
+  {
+    "id": "fanes",
+    "term": "fanes",
+    "aliases": [
+      "fane"
+    ],
+    "short": "Temples or shrines.",
+    "note": "An archaic or poetic word for temples, shrines, or churches.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/fane",
+        "label": "Dictionary.com · fanes"
+      }
+    ],
+    "evidence": "fall-41/p-234: These crystalline pavilions/ and pure fanes/"
+  },
+  {
+    "id": "swale",
+    "term": "swale",
+    "aliases": [],
+    "short": "A low, usually moist hollow in the land.",
+    "note": "A shallow depression or valley-like hollow, often wetter and more thickly vegetated than the surrounding ground.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/swale",
+        "label": "Dictionary.com · swale"
+      }
+    ],
+    "evidence": "fall-42/p-056: ontainment field half a klick out from the mountain, crossed a grassy swale on the widest of the rock balconies, and then plunged a hundred meters or more in a slow-motion waterfall to the next terrace, th"
+  },
+  {
+    "id": "bier",
+    "term": "bier",
+    "aliases": [
+      "biers"
+    ],
+    "short": "A stand supporting a body or coffin before burial.",
+    "note": "A frame, platform, or stand on which a corpse or coffin rests before burial.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/bier",
+        "label": "Dictionary.com · bier"
+      }
+    ],
+    "evidence": "fall-42/p-036: There the body of Colonel Fedmahn Kassad was laid on a bier of white marble, and weapons were set at his feet. In the valley, a great bonfire filled the air with light. All up and down the "
+  },
+  {
+    "id": "foolscap",
+    "term": "foolscap",
+    "aliases": [],
+    "short": "A traditional size or type of writing paper.",
+    "note": "Writing or printing paper named for a fool’s-cap watermark formerly used on it; traditionally a British sheet about 13½ by 17 inches.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/foolscap",
+        "label": "Dictionary.com · foolscap"
+      }
+    ],
+    "evidence": "fall-43/p-002: at Hunt listen and write everything down—they had found ink, pen, and foolscap in the other room—and Hunt complied, scribbling furiously as the dying cybrid raved on about metaspheres and lost divinities, the"
+  },
+  {
+    "id": "curia-romana",
+    "term": "Curia Romana",
+    "aliases": [],
+    "short": "The central administration of the Roman Catholic Church.",
+    "note": "The Roman Curia: the papal court and governing offices through which the pope administers the Church.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/curia",
+        "label": "Dictionary.com · curia"
+      }
+    ],
+    "evidence": "fall-39/p-178: said Gladstone. “According to this message from Bishop Edouard of the Curia Romana …”"
+  },
+  {
+    "id": "homeostasis",
+    "term": "homeostasis",
+    "aliases": [],
+    "short": "Maintenance of stable internal conditions.",
+    "note": "The regulation of an organism’s internal environment, such as temperature and fluid chemistry, through responses that counter disruptive changes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/homeostasis",
+        "label": "Dictionary.com · homeostasis"
+      }
+    ],
+    "evidence": "fall-41/p-017: dying body, not understanding but sensing the tuberculosis destroying homeostasis and throwing an ordered internal universe into anarchy."
+  },
+  {
+    "id": "solipsism",
+    "term": "solipsism",
+    "aliases": [],
+    "short": "Absorption in one’s own experience.",
+    "note": "Extreme preoccupation with one’s own feelings; in philosophy, the position that only one’s own mind exists or can be known to exist.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/solipsism",
+        "label": "Dictionary.com · solipsism"
+      }
+    ],
+    "evidence": "fall-40/p-020: There is a certain solipsism to serious illness which claims all of one’s attention as certainly as an astronomical black hole seizes anything unlucky enough "
+  },
+  {
+    "id": "paean",
+    "term": "paean",
+    "aliases": [],
+    "short": "A song or expression of praise.",
+    "note": "An enthusiastic tribute or song of praise; originally a hymn invoking or thanking an ancient Greek deity.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/paean",
+        "label": "Dictionary.com · paean"
+      }
+    ],
+    "evidence": "fall-41/p-309: d Titans by Oceanus, the soon-to-be-dethroned God of the Sea. It is a paean to evolution written when Charles Darwin was nine years old. I hear the words I remember writing on an October evening nine centu"
+  },
+  {
+    "id": "pother",
+    "term": "pother",
+    "aliases": [],
+    "short": "A commotion or fuss.",
+    "note": "An older word for bustle, agitation, fuss, or uproar.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/pother",
+        "label": "Dictionary.com · pother"
+      }
+    ],
+    "evidence": "fall-39/p-058: In a pother"
+  },
+  {
+    "id": "bacillus",
+    "term": "bacillus",
+    "aliases": [],
+    "short": "A bacterium, especially one shaped like a rod.",
+    "note": "A term for a rod-shaped bacterium, formerly also used more generally for bacteria.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/bacillus",
+        "label": "Dictionary.com · bacillus"
+      }
+    ],
+    "evidence": "fall-45/p-051:  Shrike cargo back in time like some sealed container with its deadly bacillus, the active, unstable Sphinx which contaminated Rachel Weintraub in its initial efforts to open a portal through time, and the Sp"
+  },
+  {
+    "id": "detritus",
+    "term": "detritus",
+    "aliases": [],
+    "short": "Debris or discarded remains.",
+    "note": "Loose fragments, debris, or waste left after something breaks down or is used; in geology, particles worn from rock.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/detritus",
+        "label": "Dictionary.com · detritus"
+      }
+    ],
+    "evidence": "fall-45/p-062: tomb, lay backpacks, blankets, abandoned food containers, and all the detritus Sol and the pilgrims had left there."
+  },
+  {
+    "id": "in-extremis",
+    "term": "in extremis",
+    "aliases": [],
+    "short": "In extreme distress or near death.",
+    "note": "A Latin phrase meaning in desperate circumstances or at the point of death.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/in-extremis",
+        "label": "Dictionary.com · in extremis"
+      }
+    ],
+    "evidence": "fall-32/p-040: branches, a handful of thorns carrying their clusters of human beings in extremis."
+  },
+  {
+    "id": "mondo",
+    "term": "mondo",
+    "aliases": [],
+    "short": "A question-and-answer exchange in Zen teaching.",
+    "note": "A dialogue between a Zen teacher and a questioner, often using unexpected replies to challenge habitual understanding.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://sacred-texts.com/bud/mzb/mzb04.htm",
+        "label": "D. T. Suzuki · Manual of Zen Buddhism, Chinese Zen Masters"
+      }
+    ],
+    "evidence": "fall-33/p-095: eing a matrix simulation analog, hearing a translation in approximate mondo and koan. Ummon is a great teacher, researcher, philosopher, and leader in the Core."
+  },
+  {
+    "id": "chinese-philosopher",
+    "term": "Chinese philosopher",
+    "aliases": [],
+    "short": "Zhuangzi, in the famous butterfly-dream story.",
+    "note": "In chapter 2 of the Zhuangzi, the philosopher dreams he is a butterfly and then wonders whether he is a butterfly dreaming of being Zhuangzi.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/zhuangzi/",
+        "label": "Stanford Encyclopedia of Philosophy · Zhuangzi"
+      }
+    ],
+    "evidence": "fall-epilogue/p-070:  He touched his chest where the steel thorn had pierced him. “Was I a Chinese philosopher dreaming that I was a butterfly, or a butterfly dreaming that I was a Chinese philosopher? Is that what you’re asking, kid?”"
+  },
+  {
+    "id": "cuneiform",
+    "term": "cuneiform",
+    "aliases": [],
+    "short": "Writing formed from wedge-shaped signs.",
+    "note": "An ancient writing system that developed in Mesopotamia, using impressed wedge-shaped signs on clay. It was adapted to write numerous languages.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/325500",
+        "label": "Metropolitan Museum of Art · Cuneiform tablet"
+      }
+    ],
+    "evidence": "fall-epilogue/p-040:  surviving. On some of the structures, hieroglyphs and oddly familiar cuneiform had appeared after the Tombs’ opening, and these had led to at least educated guesses as to the various Time Tombs’ functions."
+  },
+  {
+    "id": "scudi",
+    "term": "scudi",
+    "aliases": [],
+    "short": "Historical Italian coins or monetary units.",
+    "note": "Plural of scudo, a name used for various gold or silver coins and monetary units in the Italian states.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/scudo",
+        "label": "Collins English Dictionary · scudo"
+      }
+    ],
+    "evidence": "fall-39/p-018: I try to smile. “It cost me twenty-eight shillings a month. Seven scudi. Highway robbery.”"
+  },
+  {
+    "id": "campagna",
+    "term": "Campagna",
+    "aliases": [],
+    "short": "The countryside surrounding Rome.",
+    "note": "The Roman Campagna, the rural country around Rome, long celebrated in literature and landscape painting.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nationalgallery.org.uk/paintings/glossary/roman-campagna",
+        "label": "National Gallery · Roman Campagna"
+      }
+    ],
+    "evidence": "fall-38/p-001: Today we entered the swampy wasteland which I recognize as the Campagna, and to celebrate I have another coughing fit, terminated by vomiting more blood. Much more. Leigh Hunt is beside himself with co"
+  },
+  {
+    "id": "leonine",
+    "term": "leonine",
+    "aliases": [],
+    "short": "Lionlike.",
+    "note": "Resembling or characteristic of a lion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/leonine",
+        "label": "Dictionary.com · leonine"
+      }
+    ],
+    "evidence": "fall-39/p-132: ; and other humans looking more lemur than humanoid, more aquiline or leonine or ursine or anthropoid than manlike. Yet somehow Theo knew at once that these were human beings, as shocking as their difference"
+  },
+  {
+    "id": "anthropoid",
+    "term": "anthropoid",
+    "aliases": [],
+    "short": "Humanlike or apelike.",
+    "note": "Resembling a human or an ape; also a zoological term relating to monkeys, apes, and humans.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/anthropoid",
+        "label": "Dictionary.com · anthropoid"
+      }
+    ],
+    "evidence": "fall-35/p-012: bomb based on the same principle. Livestock, wild animals, even other anthropoid species would not be affected.”"
+  },
+  {
+    "id": "consumptive",
+    "term": "consumptive",
+    "aliases": [],
+    "short": "Affected by tuberculosis.",
+    "note": "An older medical adjective for someone suffering from consumption, especially tuberculosis of the lungs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/consumptive",
+        "label": "Dictionary.com · consumptive"
+      }
+    ],
+    "evidence": "fall-32/p-189: er John Keats, five feet high,” as I had once written—John Keats, the consumptive poet who had asked only that his tomb be nameless except for the inscription:"
+  },
+  {
+    "id": "necrotic",
+    "term": "necrotic",
+    "aliases": [],
+    "short": "Dead or dying tissue.",
+    "note": "Describes animal or plant tissue that is dead or undergoing tissue death.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/necrotic",
+        "label": "Dictionary.com · necrotic"
+      }
+    ],
+    "evidence": "fall-34/p-158: ploded, trailing clouds of gore as they simulated life in their slow, necrotic response to each random current of air and surge of the shattered FORCE spacecraft."
+  },
+  {
+    "id": "microcephalic",
+    "term": "microcephalic",
+    "aliases": [],
+    "short": "Literally, having an unusually small head.",
+    "note": "A medical and anatomical adjective for a head with an abnormally small braincase.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/microcephalic",
+        "label": "Dictionary.com · microcephalic"
+      }
+    ],
+    "evidence": "fall-34/p-053: id that it was not possible at the moment, finally got it through its microcephalic processors that this was an override card, and hummed into existence."
+  },
+  {
+    "id": "bioluminescent",
+    "term": "bioluminescent",
+    "aliases": [],
+    "short": "Producing light through biological processes.",
+    "note": "Emitting light through chemical reactions in a living organism, as in fireflies or some marine animals.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/bioluminescence",
+        "label": "Dictionary.com · bioluminescent"
+      }
+    ],
+    "evidence": "fall-34/p-126: ntil they almost overlapped, coral-pink, raw-flesh flushed, blood-red bioluminescent."
+  },
+  {
+    "id": "quasars",
+    "term": "quasars",
+    "aliases": [
+      "quasar"
+    ],
+    "short": "Exceptionally luminous galactic centers.",
+    "note": "Bright active galactic nuclei powered by matter falling toward supermassive black holes; their radiation can outshine the surrounding galaxy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-quasars/",
+        "label": "NASA · Hubble Quasars"
+      }
+    ],
+    "evidence": "fall-33/p-274: uses quasars for energy sources"
+  },
+  {
+    "id": "singularities",
+    "term": "singularities",
+    "aliases": [
+      "singularity"
+    ],
+    "short": "Places where relativity’s description of spacetime breaks down.",
+    "note": "In general relativity, irregular boundaries where spacetime ends, often associated with unbounded curvature. Their appearance in the theory signals limits to its physical description.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.einstein-online.info/en/explandict/singularity/",
+        "label": "Einstein Online · singularity"
+      }
+    ],
+    "evidence": "fall-32/p-083: sk of being cut off there. They will certainly attempt to destroy the singularity sphere that connects that system to the Web.”"
+  },
+  {
+    "id": "symbiosis",
+    "term": "symbiosis",
+    "aliases": [],
+    "short": "A close association between different kinds of organisms.",
+    "note": "Living together in a close relationship, which may be mutually beneficial, neutral, or parasitic; also used of interdependent people or groups.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/symbiosis",
+        "label": "Dictionary.com · symbiosis"
+      }
+    ],
+    "evidence": "fall-38/p-093: of races and the despoiling of worlds … this has come from the sinful symbiosis.”"
+  },
+  {
+    "id": "catatonia",
+    "term": "catatonia",
+    "aliases": [],
+    "short": "A state that can involve stupor and muscular rigidity.",
+    "note": "A syndrome affecting movement and responsiveness, often involving marked immobility or stupor and sometimes alternating with agitation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/catatonia",
+        "label": "Dictionary.com · catatonia"
+      }
+    ],
+    "evidence": "fall-44/p-059: reds of thousands of citizens went insane at that moment—shocked into catatonia by the disappearance of senses which had become more important to them than sight or hearing."
+  },
+  {
+    "id": "gigaelectron-volts",
+    "term": "gigaelectron volts",
+    "aliases": [
+      "gigaelectronvolt",
+      "gigaelectronvolts"
+    ],
+    "short": "Energy units equal to a billion electronvolts each.",
+    "note": "A gigaelectronvolt, abbreviated GeV, is one billion electronvolts, a unit commonly used for energies in particle physics.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://timeline-upgrade.web.cern.ch/bevatron-starts-berkeley-california",
+        "label": "CERN · The Bevatron starts up"
+      }
+    ],
+    "evidence": "fall-44/p-023: s head. “We’re talking transmission values of several hundred million gigaelectron volts here.”"
+  },
+  {
+    "id": "fantasia-in-d-minor",
+    "term": "Fantasia in D Minor",
+    "aliases": [],
+    "short": "Mozart’s solo-piano fantasia, K. 397.",
+    "note": "A piano work by Wolfgang Amadeus Mozart, probably left as a fragment. The familiar closing bars come from an unauthorized 1806 edition, with no surviving authorized version by Mozart.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.henle.de/en/Fantasy-d-minor-K.-397-385g/HN-52",
+        "label": "G. Henle Verlag · Mozart, Fantasy in D minor"
+      }
+    ],
+    "evidence": "fall-39/p-138: lden eyes framed by a ruff of tawny fur. “The last piece was Mozart’s Fantasia in D Minor, KV. 397, was it not?”"
+  },
+  {
+    "id": "grand-unification-theories",
+    "term": "Grand Unification Theories",
+    "aliases": [],
+    "short": "Theories uniting the electromagnetic and nuclear forces.",
+    "note": "A grand unified theory seeks a common mathematical description of electromagnetism and the strong and weak nuclear interactions, with a shared behavior at sufficiently high energies.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://home.cern/science/physics/supersymmetry/",
+        "label": "CERN · Supersymmetry"
+      }
+    ],
+    "evidence": "fall-45/p-037: For seven centuries the existence of Grand Unification Theories and hyperstring post-quantum physics and Core-given understanding of the universe as self-contained and boundless, without Big Ba"
+  },
+  {
+    "id": "en-haut",
+    "term": "En Haut",
+    "aliases": [
+      "En Avant"
+    ],
+    "short": "French: above; En Avant: forward.",
+    "note": "En Haut means above or on high; En Avant means forward or ahead. These paired directions recur in accounts of Teilhard de Chardin’s spiritual thought.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.teilhard-international.com/la%CC%82me-sacerdotale-du-pere-teilhard-de-chardin/",
+        "label": "F.-M. Bergounioux · L’âme sacerdotale de Teilhard de Chardin"
+      }
+    ],
+    "evidence": "fall-34/p-106: Evolution, the Personal, and the Universal … what Teilhard called the En Haut and the En Avant, are perfectly joined. There could be nothing so threatening that any element of that deity’s personality would "
+  },
+  {
+    "id": "blackwoods",
+    "term": "Blackwood’s",
+    "aliases": [
+      "Quarterly Review",
+      "British Critic"
+    ],
+    "short": "Journals that attacked Keats’s Endymion.",
+    "note": "Blackwood’s Edinburgh Magazine, the Quarterly Review, and the British Critic printed hostile reviews of Endymion in 1818. The Blackwood’s notice was by John Gibson Lockhart; the Quarterly’s was by John Wilson Croker.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://johnkeats.uvic.ca/1818-09-14.html",
+        "label": "University of Victoria · Keats and the hostile reviews of 1818"
+      }
+    ],
+    "evidence": "fall-41/p-240: pain of the three vicious attacks on my poem Endymion in the journals Blackwood’s, the Quarterly Review, and the British Critic, and the penultimate pain of my brother Tom’s consuming illness."
+  },
+  {
+    "id": "there-was-a-naughty-boy",
+    "term": "There was a naughty boy",
+    "aliases": [],
+    "short": "A playful poem by John Keats.",
+    "note": "The recurring opening of Keats’s comic poem about a restless boy travelling north to Scotland; the quoted stanza follows his urge to write poetry.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://johnkeats.uvic.ca/poem_there_was_a_naughty_boy.html",
+        "label": "University of Victoria · Keats, There was a naughty boy"
+      }
+    ],
+    "evidence": "fall-39/p-047: There was a naughty boy"
+  },
+  {
+    "id": "signora-angeletti",
+    "term": "Signora Angeletti",
+    "aliases": [],
+    "short": "Keats and Severn’s landlady in Rome.",
+    "note": "The landlady who occupied the rear rooms of the apartment at the Spanish Steps while John Keats and Joseph Severn stayed in its front rooms during Keats’s final illness.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.thecommononline.org/keats-shelley-house-rome-italy/",
+        "label": "Amy Weldon · Keats-Shelley House, The Common"
+      }
+    ],
+    "evidence": "fall-39/p-004: , miraculously cured, the “real” Severn and Dr. Clark and even little Signora Angeletti hovering in the outer room. That period of convalescence from death; that period of realization that I was not Keats, was not on "
   }
 ]

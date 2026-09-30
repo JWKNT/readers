@@ -19,7 +19,7 @@
   ],
   "totalWords": 352735,
   "defaultChapter": "hyperion-prologue",
-  "glossaryCount": 297,
+  "glossaryCount": 516,
   "correctionCount": 0,
   "editionVersion": 17,
   "chapters": [
@@ -88,12 +88,24 @@
           "paragraph": "p-001"
         },
         {
+          "term": "saurian",
+          "paragraph": "p-001"
+        },
+        {
           "term": "gymnosperm",
           "paragraph": "p-001"
         },
         {
           "term": "stratocumulus",
           "paragraph": "p-001"
+        },
+        {
+          "term": "ululation",
+          "paragraph": "p-003"
+        },
+        {
+          "term": "tachyons",
+          "paragraph": "p-005"
         },
         {
           "term": "hyperion",
@@ -134,6 +146,10 @@
         {
           "term": "hawking",
           "paragraph": "p-018"
+        },
+        {
+          "term": "antediluvian",
+          "paragraph": "p-023"
         },
         {
           "term": "ride-of-the-valkyries",
@@ -961,6 +977,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "cryogenic",
+          "paragraph": "p-001"
+        },
+        {
           "term": "templars",
           "paragraph": "p-001"
         },
@@ -975,6 +995,14 @@
         {
           "term": "epaulets",
           "paragraph": "p-006"
+        },
+        {
+          "term": "tricorne",
+          "paragraph": "p-006"
+        },
+        {
+          "term": "singularities",
+          "paragraph": "p-007"
         },
         {
           "term": "maui",
@@ -1003,6 +1031,10 @@
         {
           "term": "lamia",
           "paragraph": "p-029"
+        },
+        {
+          "term": "aquiline",
+          "paragraph": "p-030"
         },
         {
           "term": "shrike",
@@ -1053,6 +1085,10 @@
           "paragraph": "p-086"
         },
         {
+          "term": "yeats-delphic-oracle",
+          "paragraph": "p-094"
+        },
+        {
           "term": "yeats",
           "paragraph": "p-096"
         },
@@ -1065,7 +1101,15 @@
           "paragraph": "p-148"
         },
         {
+          "term": "apostasy",
+          "paragraph": "p-150"
+        },
+        {
           "term": "pacem",
+          "paragraph": "p-152"
+        },
+        {
+          "term": "jesuit",
           "paragraph": "p-152"
         },
         {
@@ -1085,12 +1129,40 @@
           "paragraph": "p-186"
         },
         {
+          "term": "pointillist",
+          "paragraph": "p-192"
+        },
+        {
+          "term": "monsignor",
+          "paragraph": "p-194"
+        },
+        {
+          "term": "transept",
+          "paragraph": "p-198"
+        },
+        {
           "term": "hegirah",
           "paragraph": "p-199"
         },
         {
+          "term": "nave",
+          "paragraph": "p-200"
+        },
+        {
+          "term": "sacristy",
+          "paragraph": "p-201"
+        },
+        {
+          "term": "eucharist",
+          "paragraph": "p-201"
+        },
+        {
           "term": "litany",
           "paragraph": "p-202"
+        },
+        {
+          "term": "detritus",
+          "paragraph": "p-203"
         },
         {
           "term": "endymion",
@@ -1101,8 +1173,16 @@
           "paragraph": "p-217"
         },
         {
+          "term": "en-haut",
+          "paragraph": "p-218"
+        },
+        {
           "term": "extreme-unction",
           "paragraph": "p-229"
+        },
+        {
+          "term": "basilica",
+          "paragraph": "p-237"
         },
         {
           "term": "susurration",
@@ -1113,12 +1193,20 @@
           "paragraph": "p-243"
         },
         {
+          "term": "simulacrum",
+          "paragraph": "p-245"
+        },
+        {
           "term": "ocher",
           "paragraph": "p-247"
         },
         {
           "term": "umber",
           "paragraph": "p-247"
+        },
+        {
+          "term": "argot",
+          "paragraph": "p-250"
         },
         {
           "term": "agnus-dei",
@@ -1129,20 +1217,60 @@
           "paragraph": "p-271"
         },
         {
+          "term": "bioluminescent",
+          "paragraph": "p-302"
+        },
+        {
+          "term": "fusillade",
+          "paragraph": "p-302"
+        },
+        {
           "term": "maser",
           "paragraph": "p-309"
+        },
+        {
+          "term": "padishahs",
+          "paragraph": "p-321"
+        },
+        {
+          "term": "aeolian",
+          "paragraph": "p-323"
         },
         {
           "term": "sarcophagus",
           "paragraph": "p-324"
         },
         {
+          "term": "tussocks",
+          "paragraph": "p-330"
+        },
+        {
+          "term": "act-of-contrition",
+          "paragraph": "p-343"
+        },
+        {
+          "term": "seraphic",
+          "paragraph": "p-409"
+        },
+        {
           "term": "non-sequitur",
           "paragraph": "p-423"
         },
         {
+          "term": "apse",
+          "paragraph": "p-503"
+        },
+        {
           "term": "throne-of-st-peter",
           "paragraph": "p-503"
+        },
+        {
+          "term": "triune",
+          "paragraph": "p-588"
+        },
+        {
+          "term": "benediction",
+          "paragraph": "p-592"
         },
         {
           "term": "dervish",
@@ -1155,6 +1283,22 @@
         {
           "term": "bosch",
           "paragraph": "p-600"
+        },
+        {
+          "term": "nematodes",
+          "paragraph": "p-619"
+        },
+        {
+          "term": "amygdala",
+          "paragraph": "p-619"
+        },
+        {
+          "term": "lymphocyte",
+          "paragraph": "p-619"
+        },
+        {
+          "term": "pogroms",
+          "paragraph": "p-693"
         },
         {
           "term": "steinway",
@@ -1747,6 +1891,22 @@
           "paragraph": "p-010"
         },
         {
+          "term": "yorick-horatio",
+          "paragraph": "p-017"
+        },
+        {
+          "term": "hardpan",
+          "paragraph": "p-019"
+        },
+        {
+          "term": "gendarmes",
+          "paragraph": "p-023"
+        },
+        {
+          "term": "stoat",
+          "paragraph": "p-024"
+        },
+        {
           "term": "hegemony",
           "paragraph": "p-029"
         },
@@ -1787,6 +1947,10 @@
           "paragraph": "p-098"
         },
         {
+          "term": "detritus",
+          "paragraph": "p-101"
+        },
+        {
           "term": "templars",
           "paragraph": "p-124"
         },
@@ -1803,6 +1967,14 @@
           "paragraph": "p-146"
         },
         {
+          "term": "scow",
+          "paragraph": "p-148"
+        },
+        {
+          "term": "rococo",
+          "paragraph": "p-149"
+        },
+        {
           "term": "benares",
           "paragraph": "p-150"
         },
@@ -1815,6 +1987,10 @@
           "paragraph": "p-182"
         },
         {
+          "term": "tintypes",
+          "paragraph": "p-184"
+        },
+        {
           "term": "somme",
           "paragraph": "p-188"
         },
@@ -1825,6 +2001,14 @@
         {
           "term": "tharsis",
           "paragraph": "p-217"
+        },
+        {
+          "term": "benediction",
+          "paragraph": "p-231"
+        },
+        {
+          "term": "ramparts",
+          "paragraph": "p-237"
         },
         {
           "term": "olympus-mons",
@@ -1843,6 +2027,10 @@
           "paragraph": "p-246"
         },
         {
+          "term": "simoon",
+          "paragraph": "p-246"
+        },
+        {
           "term": "ceres",
           "paragraph": "p-248"
         },
@@ -1853,6 +2041,10 @@
         {
           "term": "masada",
           "paragraph": "p-250"
+        },
+        {
+          "term": "diaspora",
+          "paragraph": "p-253"
         },
         {
           "term": "zen",
@@ -1867,12 +2059,40 @@
           "paragraph": "p-255"
         },
         {
+          "term": "john-carter",
+          "paragraph": "p-256"
+        },
+        {
           "term": "maui",
           "paragraph": "p-257"
         },
         {
           "term": "hawking",
           "paragraph": "p-257"
+        },
+        {
+          "term": "bivouac",
+          "paragraph": "p-260"
+        },
+        {
+          "term": "verdun",
+          "paragraph": "p-260"
+        },
+        {
+          "term": "shiites",
+          "paragraph": "p-264"
+        },
+        {
+          "term": "sunni",
+          "paragraph": "p-264"
+        },
+        {
+          "term": "tinhorn",
+          "paragraph": "p-266"
+        },
+        {
+          "term": "mullahs",
+          "paragraph": "p-270"
         },
         {
           "term": "oneill",
@@ -1883,16 +2103,32 @@
           "paragraph": "p-286"
         },
         {
+          "term": "cislunar",
+          "paragraph": "p-287"
+        },
+        {
           "term": "buckminster-map",
           "paragraph": "p-293"
+        },
+        {
+          "term": "singularities",
+          "paragraph": "p-294"
         },
         {
           "term": "falsetto",
           "paragraph": "p-314"
         },
         {
+          "term": "gobbets",
+          "paragraph": "p-318"
+        },
+        {
           "term": "coriolis",
           "paragraph": "p-320"
+        },
+        {
+          "term": "colloid",
+          "paragraph": "p-322"
         },
         {
           "term": "beowulf",
@@ -1907,6 +2143,14 @@
           "paragraph": "p-331"
         },
         {
+          "term": "spavined",
+          "paragraph": "p-351"
+        },
+        {
+          "term": "perspex",
+          "paragraph": "p-380"
+        },
+        {
           "term": "moneta",
           "paragraph": "p-405"
         },
@@ -1919,8 +2163,16 @@
           "paragraph": "p-425"
         },
         {
+          "term": "toroid",
+          "paragraph": "p-448"
+        },
+        {
           "term": "lintel",
           "paragraph": "p-449"
+        },
+        {
+          "term": "revetments",
+          "paragraph": "p-454"
         },
         {
           "term": "bandolier",
@@ -1939,8 +2191,16 @@
           "paragraph": "p-476"
         },
         {
+          "term": "hummock",
+          "paragraph": "p-486"
+        },
+        {
           "term": "chronos",
           "paragraph": "p-500"
+        },
+        {
+          "term": "hawsers",
+          "paragraph": "p-504"
         }
       ],
       "number": 3,
@@ -2496,6 +2756,10 @@
           "paragraph": "p-005"
         },
         {
+          "term": "john-word",
+          "paragraph": "p-024"
+        },
+        {
           "term": "francis-bacon",
           "paragraph": "p-025"
         },
@@ -2536,6 +2800,14 @@
           "paragraph": "p-035"
         },
         {
+          "term": "huck-and-jim",
+          "paragraph": "p-035"
+        },
+        {
+          "term": "porticoes",
+          "paragraph": "p-043"
+        },
+        {
           "term": "escher",
           "paragraph": "p-043"
         },
@@ -2544,12 +2816,32 @@
           "paragraph": "p-045"
         },
         {
+          "term": "wanderjahr",
+          "paragraph": "p-046"
+        },
+        {
           "term": "arcology",
           "paragraph": "p-047"
         },
         {
+          "term": "antediluvian",
+          "paragraph": "p-048"
+        },
+        {
+          "term": "oglala-sioux",
+          "paragraph": "p-048"
+        },
+        {
           "term": "dying-earth",
           "paragraph": "p-051"
+        },
+        {
+          "term": "damask",
+          "paragraph": "p-051"
+        },
+        {
+          "term": "priapic",
+          "paragraph": "p-053"
         },
         {
           "term": "ovid",
@@ -2576,6 +2868,10 @@
           "paragraph": "p-056"
         },
         {
+          "term": "doggerel",
+          "paragraph": "p-057"
+        },
+        {
           "term": "robert-frost",
           "paragraph": "p-057"
         },
@@ -2590,6 +2886,22 @@
         {
           "term": "hawking",
           "paragraph": "p-061"
+        },
+        {
+          "term": "scabrous",
+          "paragraph": "p-064"
+        },
+        {
+          "term": "carious",
+          "paragraph": "p-064"
+        },
+        {
+          "term": "cryogenic",
+          "paragraph": "p-066"
+        },
+        {
+          "term": "imprecation",
+          "paragraph": "p-068"
         },
         {
           "term": "all-thing",
@@ -2608,6 +2920,10 @@
           "paragraph": "p-083"
         },
         {
+          "term": "crenellated",
+          "paragraph": "p-083"
+        },
+        {
           "term": "tycho-brahe",
           "paragraph": "p-083"
         },
@@ -2622,6 +2938,10 @@
         {
           "term": "ding-an-sich",
           "paragraph": "p-093"
+        },
+        {
+          "term": "ghee",
+          "paragraph": "p-094"
         },
         {
           "term": "mark-twain",
@@ -2684,6 +3004,10 @@
           "paragraph": "p-106"
         },
         {
+          "term": "sanctum-sanctorum",
+          "paragraph": "p-111"
+        },
+        {
           "term": "zen",
           "paragraph": "p-121"
         },
@@ -2704,8 +3028,28 @@
           "paragraph": "p-139"
         },
         {
+          "term": "dilettantes",
+          "paragraph": "p-184"
+        },
+        {
+          "term": "little-nell",
+          "paragraph": "p-194"
+        },
+        {
+          "term": "scow",
+          "paragraph": "p-223"
+        },
+        {
           "term": "asquith",
           "paragraph": "p-233"
+        },
+        {
+          "term": "sartorial",
+          "paragraph": "p-237"
+        },
+        {
+          "term": "dishabille",
+          "paragraph": "p-237"
         },
         {
           "term": "parvati",
@@ -2716,8 +3060,20 @@
           "paragraph": "p-252"
         },
         {
+          "term": "bowdlerized",
+          "paragraph": "p-258"
+        },
+        {
+          "term": "singularities",
+          "paragraph": "p-283"
+        },
+        {
           "term": "endymion",
           "paragraph": "p-293"
+        },
+        {
+          "term": "satyriasis",
+          "paragraph": "p-302"
         },
         {
           "term": "forbidden-planet",
@@ -2726,6 +3082,14 @@
         {
           "term": "reichenbach-falls",
           "paragraph": "p-340"
+        },
+        {
+          "term": "michael-archangel",
+          "paragraph": "p-393"
+        },
+        {
+          "term": "moroni",
+          "paragraph": "p-393"
         },
         {
           "term": "frankenstein",
@@ -2756,12 +3120,24 @@
           "paragraph": "p-421"
         },
         {
+          "term": "harlequin",
+          "paragraph": "p-428"
+        },
+        {
           "term": "laocoon",
           "paragraph": "p-445"
         },
         {
+          "term": "keats-fall-of-hyperion",
+          "paragraph": "p-453"
+        },
+        {
           "term": "pieta",
           "paragraph": "p-493"
+        },
+        {
+          "term": "denouement",
+          "paragraph": "p-494"
         },
         {
           "term": "gethsemane",
@@ -3662,6 +4038,10 @@
           "paragraph": "p-008"
         },
         {
+          "term": "cataracts",
+          "paragraph": "p-009"
+        },
+        {
           "term": "john-muir",
           "paragraph": "p-015"
         },
@@ -3672,6 +4052,14 @@
         {
           "term": "john-keats",
           "paragraph": "p-031"
+        },
+        {
+          "term": "littoral",
+          "paragraph": "p-034"
+        },
+        {
+          "term": "verdurous",
+          "paragraph": "p-042"
         },
         {
           "term": "templars",
@@ -3694,8 +4082,20 @@
           "paragraph": "p-092"
         },
         {
+          "term": "keats-wheres-the-poet",
+          "paragraph": "p-095"
+        },
+        {
           "term": "platos-cave",
           "paragraph": "p-101"
+        },
+        {
+          "term": "keats-grecian-urn",
+          "paragraph": "p-138"
+        },
+        {
+          "term": "lawrence-ship-of-death",
+          "paragraph": "p-150"
         },
         {
           "term": "soporific",
@@ -3734,6 +4134,10 @@
           "paragraph": "p-172"
         },
         {
+          "term": "solipsistic",
+          "paragraph": "p-175"
+        },
+        {
           "term": "beatrice",
           "paragraph": "p-177"
         },
@@ -3742,16 +4146,36 @@
           "paragraph": "p-177"
         },
         {
+          "term": "pfennig",
+          "paragraph": "p-186"
+        },
+        {
           "term": "mitzvah",
           "paragraph": "p-197"
+        },
+        {
+          "term": "diaspora",
+          "paragraph": "p-199"
         },
         {
           "term": "hebron",
           "paragraph": "p-201"
         },
         {
+          "term": "hasidic",
+          "paragraph": "p-201"
+        },
+        {
+          "term": "cryogenic",
+          "paragraph": "p-225"
+        },
+        {
           "term": "talmud",
           "paragraph": "p-241"
+        },
+        {
+          "term": "sarcophagus",
+          "paragraph": "p-244"
         },
         {
           "term": "obelisk",
@@ -3762,8 +4186,8 @@
           "paragraph": "p-251"
         },
         {
-          "term": "sarcophagus",
-          "paragraph": "p-252"
+          "term": "bioluminescent",
+          "paragraph": "p-261"
         },
         {
           "term": "parvati",
@@ -3780,6 +4204,10 @@
         {
           "term": "merlin",
           "paragraph": "p-291"
+        },
+        {
+          "term": "mah-jongg",
+          "paragraph": "p-337"
         },
         {
           "term": "zen",
@@ -3806,8 +4234,24 @@
           "paragraph": "p-424"
         },
         {
+          "term": "polychrome",
+          "paragraph": "p-475"
+        },
+        {
+          "term": "lectors",
+          "paragraph": "p-477"
+        },
+        {
           "term": "ostiary",
           "paragraph": "p-477"
+        },
+        {
+          "term": "hermeneutics",
+          "paragraph": "p-483"
+        },
+        {
+          "term": "apologetics",
+          "paragraph": "p-483"
         },
         {
           "term": "fuji",
@@ -3830,12 +4274,20 @@
           "paragraph": "p-550"
         },
         {
+          "term": "perspex",
+          "paragraph": "p-562"
+        },
+        {
           "term": "kant",
           "paragraph": "p-579"
         },
         {
           "term": "winnie-the-pooh",
           "paragraph": "p-598"
+        },
+        {
+          "term": "motile",
+          "paragraph": "p-659"
         },
         {
           "term": "yggdrasill",
@@ -3848,6 +4300,10 @@
         {
           "term": "a-prayer-for-my-daughter",
           "paragraph": "p-811"
+        },
+        {
+          "term": "cislunar",
+          "paragraph": "p-820"
         }
       ],
       "number": 5,
@@ -5180,6 +5636,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "benediction",
+          "paragraph": "p-001"
+        },
+        {
           "term": "fanny-brawne",
           "paragraph": "p-002"
         },
@@ -5208,12 +5668,24 @@
           "paragraph": "p-071"
         },
         {
+          "term": "piezoelectric",
+          "paragraph": "p-084"
+        },
+        {
+          "term": "cryogenic",
+          "paragraph": "p-086"
+        },
+        {
           "term": "hegemony",
           "paragraph": "p-090"
         },
         {
           "term": "john-keats",
           "paragraph": "p-100"
+        },
+        {
+          "term": "penultimate",
+          "paragraph": "p-106"
         },
         {
           "term": "sere",
@@ -5226,6 +5698,10 @@
         {
           "term": "hyperion",
           "paragraph": "p-169"
+        },
+        {
+          "term": "glaucous",
+          "paragraph": "p-171"
         },
         {
           "term": "lapis-lazuli",
@@ -5254,6 +5730,14 @@
         {
           "term": "hegirah",
           "paragraph": "p-279"
+        },
+        {
+          "term": "phagocyte",
+          "paragraph": "p-279"
+        },
+        {
+          "term": "singularities",
+          "paragraph": "p-313"
         },
         {
           "term": "tau-ceti",
@@ -5308,8 +5792,16 @@
           "paragraph": "p-640"
         },
         {
+          "term": "topiary",
+          "paragraph": "p-659"
+        },
+        {
           "term": "fuji",
           "paragraph": "p-659"
+        },
+        {
+          "term": "motile",
+          "paragraph": "p-676"
         },
         {
           "term": "piazza-di-spagna",
@@ -5340,7 +5832,15 @@
           "paragraph": "p-765"
         },
         {
+          "term": "catatonia",
+          "paragraph": "p-786"
+        },
+        {
           "term": "keats-superior-beings",
+          "paragraph": "p-788"
+        },
+        {
+          "term": "stoat",
           "paragraph": "p-788"
         },
         {
@@ -5350,6 +5850,18 @@
         {
           "term": "goonda",
           "paragraph": "p-852"
+        },
+        {
+          "term": "littoral",
+          "paragraph": "p-883"
+        },
+        {
+          "term": "polychrome",
+          "paragraph": "p-888"
+        },
+        {
+          "term": "lectors",
+          "paragraph": "p-890"
         },
         {
           "term": "acolyte",
@@ -5364,8 +5876,16 @@
           "paragraph": "p-943"
         },
         {
+          "term": "keats-fall-of-hyperion",
+          "paragraph": "p-961"
+        },
+        {
           "term": "vellum",
           "paragraph": "p-965"
+        },
+        {
+          "term": "tricorne",
+          "paragraph": "p-993"
         },
         {
           "term": "de-kooning",
@@ -5386,6 +5906,30 @@
         {
           "term": "chapmans-homer",
           "paragraph": "p-1140"
+        },
+        {
+          "term": "symbiosis",
+          "paragraph": "p-1154"
+        },
+        {
+          "term": "delphic",
+          "paragraph": "p-1162"
+        },
+        {
+          "term": "luddite",
+          "paragraph": "p-1207"
+        },
+        {
+          "term": "keats-day-is-gone",
+          "paragraph": "p-1254"
+        },
+        {
+          "term": "missal",
+          "paragraph": "p-1266"
+        },
+        {
+          "term": "keats-this-living-hand",
+          "paragraph": "p-1269"
         },
         {
           "term": "ostiary",
@@ -6020,11 +6564,23 @@
       ],
       "noteAnchors": [
         {
+          "term": "bas-relief",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "transept",
+          "paragraph": "p-001"
+        },
+        {
           "term": "chronos",
           "paragraph": "p-001"
         },
         {
           "term": "shrike",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "polychrome",
           "paragraph": "p-001"
         },
         {
@@ -6048,12 +6604,24 @@
           "paragraph": "p-024"
         },
         {
+          "term": "balalaika",
+          "paragraph": "p-026"
+        },
+        {
           "term": "hegemony",
           "paragraph": "p-034"
         },
         {
           "term": "moneta",
           "paragraph": "p-067"
+        },
+        {
+          "term": "singularities",
+          "paragraph": "p-071"
+        },
+        {
+          "term": "cislunar",
+          "paragraph": "p-078"
         },
         {
           "term": "templars",
@@ -6076,6 +6644,18 @@
           "paragraph": "p-119"
         },
         {
+          "term": "ultramarine",
+          "paragraph": "p-131"
+        },
+        {
+          "term": "simoon",
+          "paragraph": "p-132"
+        },
+        {
+          "term": "motile",
+          "paragraph": "p-132"
+        },
+        {
           "term": "maui",
           "paragraph": "p-147"
         },
@@ -6084,16 +6664,20 @@
           "paragraph": "p-147"
         },
         {
-          "term": "aspic",
-          "paragraph": "p-156"
+          "term": "quadrille",
+          "paragraph": "p-152"
         },
         {
           "term": "all-thing",
           "paragraph": "p-167"
         },
         {
-          "term": "magritte",
-          "paragraph": "p-192"
+          "term": "harlequin",
+          "paragraph": "p-174"
+        },
+        {
+          "term": "lepidopterist",
+          "paragraph": "p-181"
         },
         {
           "term": "gossamer",
@@ -6108,6 +6692,10 @@
           "paragraph": "p-215"
         },
         {
+          "term": "sesquicentennial",
+          "paragraph": "p-217"
+        },
+        {
           "term": "zen",
           "paragraph": "p-238"
         },
@@ -6116,12 +6704,44 @@
           "paragraph": "p-238"
         },
         {
+          "term": "caftan",
+          "paragraph": "p-245"
+        },
+        {
+          "term": "zooplankton",
+          "paragraph": "p-250"
+        },
+        {
+          "term": "simulacrum",
+          "paragraph": "p-261"
+        },
+        {
+          "term": "jingoists",
+          "paragraph": "p-289"
+        },
+        {
           "term": "hava-nagila",
+          "paragraph": "p-290"
+        },
+        {
+          "term": "basso-profundo",
           "paragraph": "p-290"
         },
         {
           "term": "threepenny-opera",
           "paragraph": "p-317"
+        },
+        {
+          "term": "bowline",
+          "paragraph": "p-343"
+        },
+        {
+          "term": "scow",
+          "paragraph": "p-345"
+        },
+        {
+          "term": "trilobites",
+          "paragraph": "p-346"
         },
         {
           "term": "foresail",
@@ -6148,8 +6768,16 @@
           "paragraph": "p-456"
         },
         {
+          "term": "dodecahedron",
+          "paragraph": "p-456"
+        },
+        {
           "term": "tau-ceti",
           "paragraph": "p-476"
+        },
+        {
+          "term": "diaspora",
+          "paragraph": "p-480"
         },
         {
           "term": "arcology",
@@ -6158,6 +6786,14 @@
         {
           "term": "hebron",
           "paragraph": "p-485"
+        },
+        {
+          "term": "quisling",
+          "paragraph": "p-486"
+        },
+        {
+          "term": "prussian",
+          "paragraph": "p-490"
         },
         {
           "term": "buckminster-map",
@@ -6170,6 +6806,10 @@
         {
           "term": "steinway",
           "paragraph": "p-501"
+        },
+        {
+          "term": "visigoths",
+          "paragraph": "p-504"
         },
         {
           "term": "cicero",
@@ -6254,6 +6894,10 @@
       "navigationSections": [],
       "noteAnchors": [
         {
+          "term": "balalaika",
+          "paragraph": "p-001"
+        },
+        {
           "term": "fanny-brawne",
           "paragraph": "p-005"
         },
@@ -6274,12 +6918,24 @@
           "paragraph": "p-019"
         },
         {
+          "term": "tricorne",
+          "paragraph": "p-022"
+        },
+        {
           "term": "vermilion",
           "paragraph": "p-028"
         },
         {
+          "term": "swale",
+          "paragraph": "p-034"
+        },
+        {
           "term": "hegirah",
           "paragraph": "p-036"
+        },
+        {
+          "term": "wizard-of-oz",
+          "paragraph": "p-041"
         }
       ],
       "number": 8,
@@ -6335,6 +6991,10 @@
         },
         {
           "term": "keats-superior-beings",
+          "paragraph": "p-003"
+        },
+        {
+          "term": "stoat",
           "paragraph": "p-003"
         },
         {
@@ -6439,7 +7099,23 @@
           "paragraph": "p-006"
         },
         {
+          "term": "topiary",
+          "paragraph": "p-010"
+        },
+        {
+          "term": "rococo",
+          "paragraph": "p-010"
+        },
+        {
           "term": "hegemony",
+          "paragraph": "p-011"
+        },
+        {
+          "term": "barks",
+          "paragraph": "p-011"
+        },
+        {
+          "term": "motile",
           "paragraph": "p-011"
         },
         {
@@ -6481,6 +7157,18 @@
         {
           "term": "john-clarke",
           "paragraph": "p-035"
+        },
+        {
+          "term": "cislunar",
+          "paragraph": "p-047"
+        },
+        {
+          "term": "jingoism",
+          "paragraph": "p-048"
+        },
+        {
+          "term": "dodecahedron",
+          "paragraph": "p-050"
         }
       ],
       "number": 11,
@@ -6641,6 +7329,10 @@
           "paragraph": "p-002"
         },
         {
+          "term": "aquiline",
+          "paragraph": "p-003"
+        },
+        {
           "term": "joseph-severn",
           "paragraph": "p-005"
         },
@@ -6663,6 +7355,10 @@
         {
           "term": "hegemony",
           "paragraph": "p-018"
+        },
+        {
+          "term": "consumptive",
+          "paragraph": "p-023"
         },
         {
           "term": "parvati",
@@ -6827,6 +7523,14 @@
       "navigationSections": [],
       "noteAnchors": [
         {
+          "term": "saurian",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "antediluvian",
+          "paragraph": "p-001"
+        },
+        {
           "term": "fanny-brawne",
           "paragraph": "p-002"
         },
@@ -6843,6 +7547,10 @@
           "paragraph": "p-004"
         },
         {
+          "term": "tricorne",
+          "paragraph": "p-005"
+        },
+        {
           "term": "hegemony",
           "paragraph": "p-011"
         },
@@ -6852,6 +7560,10 @@
         },
         {
           "term": "obelisk",
+          "paragraph": "p-027"
+        },
+        {
+          "term": "arroyo",
           "paragraph": "p-027"
         },
         {
@@ -6881,6 +7593,14 @@
         {
           "term": "mobius",
           "paragraph": "p-056"
+        },
+        {
+          "term": "rictus",
+          "paragraph": "p-057"
+        },
+        {
+          "term": "st-elmos-fire",
+          "paragraph": "p-070"
         },
         {
           "term": "flechette",
@@ -7034,6 +7754,10 @@
           "paragraph": "p-009"
         },
         {
+          "term": "ecliptic",
+          "paragraph": "p-024"
+        },
+        {
           "term": "oort-cloud",
           "paragraph": "p-024"
         },
@@ -7050,11 +7774,23 @@
           "paragraph": "p-029"
         },
         {
+          "term": "equirectangular",
+          "paragraph": "p-034"
+        },
+        {
           "term": "bonne",
           "paragraph": "p-034"
         },
         {
+          "term": "orthographic",
+          "paragraph": "p-034"
+        },
+        {
           "term": "van-der-grinten",
+          "paragraph": "p-034"
+        },
+        {
+          "term": "gores",
           "paragraph": "p-034"
         },
         {
@@ -7063,6 +7799,18 @@
         },
         {
           "term": "gnomonic",
+          "paragraph": "p-034"
+        },
+        {
+          "term": "sinusoidal",
+          "paragraph": "p-034"
+        },
+        {
+          "term": "azimuthal-equidistant",
+          "paragraph": "p-034"
+        },
+        {
+          "term": "polyconic",
           "paragraph": "p-034"
         },
         {
@@ -7095,6 +7843,10 @@
         },
         {
           "term": "tethys",
+          "paragraph": "p-062"
+        },
+        {
+          "term": "torus",
           "paragraph": "p-062"
         },
         {
@@ -7176,12 +7928,32 @@
           "paragraph": "p-002"
         },
         {
+          "term": "bilious",
+          "paragraph": "p-008"
+        },
+        {
+          "term": "society-of-jesus",
+          "paragraph": "p-009"
+        },
+        {
           "term": "pacem",
           "paragraph": "p-009"
         },
         {
+          "term": "eucharist",
+          "paragraph": "p-013"
+        },
+        {
+          "term": "perspex",
+          "paragraph": "p-013"
+        },
+        {
           "term": "scimitar",
           "paragraph": "p-021"
+        },
+        {
+          "term": "carapace",
+          "paragraph": "p-024"
         }
       ],
       "number": 15,
@@ -7504,8 +8276,16 @@
           "paragraph": "p-008"
         },
         {
+          "term": "cislunar",
+          "paragraph": "p-009"
+        },
+        {
           "term": "oort-cloud",
           "paragraph": "p-015"
+        },
+        {
+          "term": "ecliptic",
+          "paragraph": "p-016"
         },
         {
           "term": "albedo",
@@ -7534,6 +8314,10 @@
         {
           "term": "shrike",
           "paragraph": "p-061"
+        },
+        {
+          "term": "cryogenic",
+          "paragraph": "p-064"
         },
         {
           "term": "joseph-severn",
@@ -7701,6 +8485,10 @@
           "paragraph": "p-005"
         },
         {
+          "term": "tricorne",
+          "paragraph": "p-045"
+        },
+        {
           "term": "mobius",
           "paragraph": "p-048"
         },
@@ -7721,6 +8509,10 @@
           "paragraph": "p-059"
         },
         {
+          "term": "colloid",
+          "paragraph": "p-065"
+        },
+        {
           "term": "hegirah",
           "paragraph": "p-065"
         },
@@ -7739,6 +8531,14 @@
         {
           "term": "chronos",
           "paragraph": "p-096"
+        },
+        {
+          "term": "bivouac",
+          "paragraph": "p-097"
+        },
+        {
+          "term": "keats-grecian-urn",
+          "paragraph": "p-099"
         }
       ],
       "number": 18,
@@ -7892,6 +8692,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "diurnal",
+          "paragraph": "p-001"
+        },
+        {
           "term": "all-thing",
           "paragraph": "p-001"
         },
@@ -7916,12 +8720,32 @@
           "paragraph": "p-026"
         },
         {
+          "term": "simulacrum",
+          "paragraph": "p-041"
+        },
+        {
           "term": "john-keats",
           "paragraph": "p-043"
         },
         {
+          "term": "triremes",
+          "paragraph": "p-058"
+        },
+        {
+          "term": "artemisium",
+          "paragraph": "p-058"
+        },
+        {
           "term": "klaxons",
           "paragraph": "p-059"
+        },
+        {
+          "term": "reified",
+          "paragraph": "p-074"
+        },
+        {
+          "term": "cislunar",
+          "paragraph": "p-097"
         },
         {
           "term": "susurration",
@@ -7995,6 +8819,10 @@
         {
           "term": "william-gladstone",
           "paragraph": "p-008"
+        },
+        {
+          "term": "tricorne",
+          "paragraph": "p-012"
         }
       ],
       "number": 20,
@@ -8144,6 +8972,10 @@
           "paragraph": "p-004"
         },
         {
+          "term": "perspex",
+          "paragraph": "p-004"
+        },
+        {
           "term": "joseph-severn",
           "paragraph": "p-006"
         },
@@ -8180,6 +9012,10 @@
           "paragraph": "p-038"
         },
         {
+          "term": "kippers",
+          "paragraph": "p-038"
+        },
+        {
           "term": "chronos",
           "paragraph": "p-049"
         },
@@ -8190,6 +9026,10 @@
         {
           "term": "maui",
           "paragraph": "p-055"
+        },
+        {
+          "term": "abstruse",
+          "paragraph": "p-074"
         },
         {
           "term": "talmud",
@@ -8254,6 +9094,10 @@
           "paragraph": "p-002"
         },
         {
+          "term": "vouchsafed",
+          "paragraph": "p-003"
+        },
+        {
           "term": "hyperion",
           "paragraph": "p-005"
         }
@@ -8310,6 +9154,10 @@
       "unnumberedToc": true,
       "navigationSections": [],
       "noteAnchors": [
+        {
+          "term": "colloid",
+          "paragraph": "p-009"
+        },
         {
           "term": "flechette",
           "paragraph": "p-013"
@@ -8489,6 +9337,14 @@
           "paragraph": "p-007"
         },
         {
+          "term": "penultimate",
+          "paragraph": "p-007"
+        },
+        {
+          "term": "cryogenic",
+          "paragraph": "p-009"
+        },
+        {
           "term": "silenus",
           "paragraph": "p-013"
         },
@@ -8499,6 +9355,10 @@
         {
           "term": "dying-earth",
           "paragraph": "p-019"
+        },
+        {
+          "term": "retinue",
+          "paragraph": "p-020"
         },
         {
           "term": "hyperion",
@@ -8513,8 +9373,16 @@
           "paragraph": "p-027"
         },
         {
+          "term": "singularities",
+          "paragraph": "p-027"
+        },
+        {
           "term": "shrike",
           "paragraph": "p-028"
+        },
+        {
+          "term": "kippers",
+          "paragraph": "p-030"
         },
         {
           "term": "lapis-lazuli",
@@ -8529,12 +9397,24 @@
           "paragraph": "p-033"
         },
         {
+          "term": "outre",
+          "paragraph": "p-035"
+        },
+        {
           "term": "clausewitz",
           "paragraph": "p-041"
         },
         {
+          "term": "redolent",
+          "paragraph": "p-045"
+        },
+        {
           "term": "satori",
           "paragraph": "p-052"
+        },
+        {
+          "term": "monsignor",
+          "paragraph": "p-056"
         },
         {
           "term": "pacem",
@@ -8551,6 +9431,18 @@
         {
           "term": "gnosticism",
           "paragraph": "p-058"
+        },
+        {
+          "term": "jesuit",
+          "paragraph": "p-060"
+        },
+        {
+          "term": "apostasy",
+          "paragraph": "p-062"
+        },
+        {
+          "term": "oeuvre",
+          "paragraph": "p-063"
         }
       ],
       "number": 24,
@@ -8715,6 +9607,14 @@
       "navigationSections": [],
       "noteAnchors": [
         {
+          "term": "monsignor",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "praetorian",
+          "paragraph": "p-003"
+        },
+        {
           "term": "zen",
           "paragraph": "p-004"
         },
@@ -8735,7 +9635,15 @@
           "paragraph": "p-007"
         },
         {
+          "term": "troika",
+          "paragraph": "p-011"
+        },
+        {
           "term": "hyperion",
+          "paragraph": "p-013"
+        },
+        {
+          "term": "singularities",
           "paragraph": "p-013"
         },
         {
@@ -8753,6 +9661,10 @@
         {
           "term": "hawking",
           "paragraph": "p-025"
+        },
+        {
+          "term": "ecliptic",
+          "paragraph": "p-030"
         },
         {
           "term": "maui",
@@ -8785,6 +9697,10 @@
         {
           "term": "inertial-confinement-fusion",
           "paragraph": "p-093"
+        },
+        {
+          "term": "vicissitudes",
+          "paragraph": "p-104"
         },
         {
           "term": "tau-ceti",
@@ -8974,8 +9890,40 @@
           "paragraph": "p-043"
         },
         {
+          "term": "patrician",
+          "paragraph": "p-044"
+        },
+        {
+          "term": "symbiosis",
+          "paragraph": "p-045"
+        },
+        {
           "term": "obelisk",
           "paragraph": "p-069"
+        },
+        {
+          "term": "ne-cared-he-for-wine",
+          "paragraph": "p-088"
+        },
+        {
+          "term": "half-and-half",
+          "paragraph": "p-088"
+        },
+        {
+          "term": "wassail-bowl",
+          "paragraph": "p-091"
+        },
+        {
+          "term": "ribbalds",
+          "paragraph": "p-092"
+        },
+        {
+          "term": "lemans",
+          "paragraph": "p-093"
+        },
+        {
+          "term": "gillyflowers",
+          "paragraph": "p-096"
         }
       ],
       "number": 26,
@@ -9081,8 +10029,24 @@
           "paragraph": "p-016"
         },
         {
+          "term": "piezoelectric",
+          "paragraph": "p-029"
+        },
+        {
           "term": "buckminster-map",
           "paragraph": "p-030"
+        },
+        {
+          "term": "spindrift",
+          "paragraph": "p-050"
+        },
+        {
+          "term": "torus",
+          "paragraph": "p-051"
+        },
+        {
+          "term": "carapace",
+          "paragraph": "p-060"
         }
       ],
       "number": 27,
@@ -9219,11 +10183,19 @@
           "paragraph": "p-005"
         },
         {
+          "term": "basilica",
+          "paragraph": "p-007"
+        },
+        {
           "term": "hegirah",
           "paragraph": "p-009"
         },
         {
           "term": "maui",
+          "paragraph": "p-012"
+        },
+        {
+          "term": "motile",
           "paragraph": "p-012"
         },
         {
@@ -9283,7 +10255,19 @@
           "paragraph": "p-057"
         },
         {
+          "term": "nacelles",
+          "paragraph": "p-062"
+        },
+        {
           "term": "silenus",
+          "paragraph": "p-068"
+        },
+        {
+          "term": "cryogenic",
+          "paragraph": "p-068"
+        },
+        {
+          "term": "pastiche",
           "paragraph": "p-068"
         },
         {
@@ -9521,6 +10505,10 @@
           "paragraph": "p-033"
         },
         {
+          "term": "deus-ex-machina",
+          "paragraph": "p-034"
+        },
+        {
           "term": "lamia",
           "paragraph": "p-052"
         },
@@ -9676,6 +10664,18 @@
         {
           "term": "lamia",
           "paragraph": "p-016"
+        },
+        {
+          "term": "carapace",
+          "paragraph": "p-021"
+        },
+        {
+          "term": "rictus",
+          "paragraph": "p-028"
+        },
+        {
+          "term": "perspex",
+          "paragraph": "p-039"
         }
       ],
       "number": 31,
@@ -9777,6 +10777,22 @@
           "paragraph": "p-007"
         },
         {
+          "term": "nacelles",
+          "paragraph": "p-008"
+        },
+        {
+          "term": "balalaika",
+          "paragraph": "p-011"
+        },
+        {
+          "term": "ululated",
+          "paragraph": "p-017"
+        },
+        {
+          "term": "ramparts",
+          "paragraph": "p-033"
+        },
+        {
           "term": "mobius",
           "paragraph": "p-043"
         }
@@ -9873,6 +10889,10 @@
         {
           "term": "cicero",
           "paragraph": "p-004"
+        },
+        {
+          "term": "cordite",
+          "paragraph": "p-018"
         },
         {
           "term": "hegemony",
@@ -10068,6 +11088,10 @@
           "paragraph": "p-065"
         },
         {
+          "term": "deliquescing",
+          "paragraph": "p-072"
+        },
+        {
           "term": "joseph-severn",
           "paragraph": "p-075"
         }
@@ -10218,6 +11242,10 @@
           "paragraph": "p-003"
         },
         {
+          "term": "arroyo",
+          "paragraph": "p-009"
+        },
+        {
           "term": "lamia",
           "paragraph": "p-015"
         },
@@ -10247,10 +11275,6 @@
         },
         {
           "term": "hegemony",
-          "paragraph": "p-099"
-        },
-        {
-          "term": "aspic",
           "paragraph": "p-099"
         },
         {
@@ -10608,12 +11632,28 @@
           "paragraph": "p-025"
         },
         {
+          "term": "lepidopterist",
+          "paragraph": "p-027"
+        },
+        {
           "term": "maui",
           "paragraph": "p-028"
         },
         {
           "term": "chronos",
           "paragraph": "p-029"
+        },
+        {
+          "term": "ultramarine",
+          "paragraph": "p-038"
+        },
+        {
+          "term": "tricorne",
+          "paragraph": "p-042"
+        },
+        {
+          "term": "motile",
+          "paragraph": "p-052"
         },
         {
           "term": "hegemony",
@@ -10624,8 +11664,16 @@
           "paragraph": "p-081"
         },
         {
+          "term": "ghee",
+          "paragraph": "p-081"
+        },
+        {
           "term": "william-gladstone",
           "paragraph": "p-088"
+        },
+        {
+          "term": "cryogenic",
+          "paragraph": "p-089"
         }
       ],
       "number": 38,
@@ -10771,6 +11819,10 @@
       "navigationSections": [],
       "noteAnchors": [
         {
+          "term": "cryogenic",
+          "paragraph": "p-001"
+        },
+        {
           "term": "shrike",
           "paragraph": "p-001"
         },
@@ -10781,6 +11833,10 @@
         {
           "term": "templars",
           "paragraph": "p-003"
+        },
+        {
+          "term": "jesuit",
+          "paragraph": "p-005"
         },
         {
           "term": "yggdrasill",
@@ -10823,7 +11879,15 @@
           "paragraph": "p-081"
         },
         {
+          "term": "basilica",
+          "paragraph": "p-086"
+        },
+        {
           "term": "chronos",
+          "paragraph": "p-119"
+        },
+        {
+          "term": "littoral",
           "paragraph": "p-119"
         },
         {
@@ -10938,12 +12002,20 @@
           "paragraph": "p-016"
         },
         {
+          "term": "cryogenic",
+          "paragraph": "p-042"
+        },
+        {
           "term": "hebron",
           "paragraph": "p-045"
         },
         {
           "term": "vermilion",
           "paragraph": "p-051"
+        },
+        {
+          "term": "carapace",
+          "paragraph": "p-054"
         }
       ],
       "number": 40,
@@ -11141,8 +12213,16 @@
           "paragraph": "p-079"
         },
         {
+          "term": "ramparts",
+          "paragraph": "p-083"
+        },
+        {
           "term": "flechette",
           "paragraph": "p-095"
+        },
+        {
+          "term": "retinue",
+          "paragraph": "p-099"
         }
       ],
       "number": 41,
@@ -11370,8 +12450,20 @@
           "paragraph": "p-010"
         },
         {
+          "term": "keats-fall-of-hyperion",
+          "paragraph": "p-024"
+        },
+        {
           "term": "john-keats",
           "paragraph": "p-025"
+        },
+        {
+          "term": "spirit-here-that-reignest",
+          "paragraph": "p-033"
+        },
+        {
+          "term": "in-extremis",
+          "paragraph": "p-040"
         },
         {
           "term": "joseph-severn",
@@ -11391,6 +12483,10 @@
         },
         {
           "term": "fuji",
+          "paragraph": "p-067"
+        },
+        {
+          "term": "perspex",
           "paragraph": "p-067"
         },
         {
@@ -11418,6 +12514,10 @@
           "paragraph": "p-082"
         },
         {
+          "term": "singularities",
+          "paragraph": "p-083"
+        },
+        {
           "term": "hyperion",
           "paragraph": "p-086"
         },
@@ -11438,11 +12538,19 @@
           "paragraph": "p-114"
         },
         {
+          "term": "internecine",
+          "paragraph": "p-119"
+        },
+        {
           "term": "zen",
           "paragraph": "p-120"
         },
         {
           "term": "gnosticism",
+          "paragraph": "p-120"
+        },
+        {
+          "term": "proselytism",
           "paragraph": "p-120"
         },
         {
@@ -11456,6 +12564,18 @@
         {
           "term": "lamia",
           "paragraph": "p-165"
+        },
+        {
+          "term": "keats-day-is-gone",
+          "paragraph": "p-166"
+        },
+        {
+          "term": "keats-this-living-hand",
+          "paragraph": "p-167"
+        },
+        {
+          "term": "consumptive",
+          "paragraph": "p-189"
         }
       ],
       "number": 42,
@@ -12063,6 +13183,10 @@
           "paragraph": "p-029"
         },
         {
+          "term": "basso-profundo",
+          "paragraph": "p-031"
+        },
+        {
           "term": "ummon",
           "paragraph": "p-033"
         },
@@ -12075,6 +13199,10 @@
           "paragraph": "p-049"
         },
         {
+          "term": "delphic",
+          "paragraph": "p-067"
+        },
+        {
           "term": "all-thing",
           "paragraph": "p-067"
         },
@@ -12083,8 +13211,28 @@
           "paragraph": "p-082"
         },
         {
+          "term": "sramana",
+          "paragraph": "p-087"
+        },
+        {
+          "term": "mondo",
+          "paragraph": "p-095"
+        },
+        {
+          "term": "koan",
+          "paragraph": "p-095"
+        },
+        {
           "term": "zazen",
           "paragraph": "p-227"
+        },
+        {
+          "term": "quasars",
+          "paragraph": "p-274"
+        },
+        {
+          "term": "triune",
+          "paragraph": "p-355"
         },
         {
           "term": "heisenberg",
@@ -12095,12 +13243,20 @@
           "paragraph": "p-368"
         },
         {
+          "term": "gluon",
+          "paragraph": "p-371"
+        },
+        {
           "term": "feynman",
           "paragraph": "p-374"
         },
         {
           "term": "antimatter",
           "paragraph": "p-395"
+        },
+        {
+          "term": "singularities",
+          "paragraph": "p-403"
         },
         {
           "term": "milton",
@@ -12383,6 +13539,10 @@
           "paragraph": "p-040"
         },
         {
+          "term": "bas-relief",
+          "paragraph": "p-049"
+        },
+        {
           "term": "shrike",
           "paragraph": "p-051"
         },
@@ -12395,7 +13555,31 @@
           "paragraph": "p-051"
         },
         {
+          "term": "microcephalic",
+          "paragraph": "p-053"
+        },
+        {
+          "term": "monsignor",
+          "paragraph": "p-062"
+        },
+        {
+          "term": "atavistic",
+          "paragraph": "p-073"
+        },
+        {
+          "term": "basilica",
+          "paragraph": "p-074"
+        },
+        {
           "term": "tau-ceti",
+          "paragraph": "p-075"
+        },
+        {
+          "term": "transept",
+          "paragraph": "p-075"
+        },
+        {
+          "term": "nave",
           "paragraph": "p-075"
         },
         {
@@ -12403,12 +13587,24 @@
           "paragraph": "p-075"
         },
         {
+          "term": "travertine",
+          "paragraph": "p-075"
+        },
+        {
           "term": "throne-of-st-peter",
           "paragraph": "p-075"
         },
         {
+          "term": "apse",
+          "paragraph": "p-076"
+        },
+        {
           "term": "doppelganger",
           "paragraph": "p-080"
+        },
+        {
+          "term": "patrician",
+          "paragraph": "p-086"
         },
         {
           "term": "silenus",
@@ -12427,8 +13623,16 @@
           "paragraph": "p-103"
         },
         {
+          "term": "quasars",
+          "paragraph": "p-103"
+        },
+        {
           "term": "aquinas",
           "paragraph": "p-105"
+        },
+        {
+          "term": "en-haut",
+          "paragraph": "p-106"
         },
         {
           "term": "gethsemane",
@@ -12443,12 +13647,32 @@
           "paragraph": "p-120"
         },
         {
+          "term": "bioluminescent",
+          "paragraph": "p-126"
+        },
+        {
+          "term": "nematodes",
+          "paragraph": "p-127"
+        },
+        {
           "term": "hieronymus-bosch",
           "paragraph": "p-132"
         },
         {
           "term": "virgil",
           "paragraph": "p-137"
+        },
+        {
+          "term": "carapace",
+          "paragraph": "p-144"
+        },
+        {
+          "term": "necrotic",
+          "paragraph": "p-158"
+        },
+        {
+          "term": "jesuit",
+          "paragraph": "p-166"
         },
         {
           "term": "yggdrasill",
@@ -12634,6 +13858,10 @@
           "paragraph": "p-006"
         },
         {
+          "term": "singularities",
+          "paragraph": "p-007"
+        },
+        {
           "term": "albedo",
           "paragraph": "p-008"
         },
@@ -12644,6 +13872,10 @@
         {
           "term": "bushido",
           "paragraph": "p-011"
+        },
+        {
+          "term": "anthropoid",
+          "paragraph": "p-012"
         },
         {
           "term": "neutrino",
@@ -12678,8 +13910,16 @@
           "paragraph": "p-068"
         },
         {
+          "term": "benediction",
+          "paragraph": "p-098"
+        },
+        {
           "term": "endymion",
           "paragraph": "p-101"
+        },
+        {
+          "term": "cryogenic",
+          "paragraph": "p-114"
         }
       ],
       "number": 45,
@@ -12891,7 +14131,15 @@
       "navigationSections": [],
       "noteAnchors": [
         {
+          "term": "basilica",
+          "paragraph": "p-001"
+        },
+        {
           "term": "pacem",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "monsignor",
           "paragraph": "p-001"
         },
         {
@@ -12919,6 +14167,22 @@
           "paragraph": "p-008"
         },
         {
+          "term": "halberds",
+          "paragraph": "p-009"
+        },
+        {
+          "term": "bas-relief",
+          "paragraph": "p-015"
+        },
+        {
+          "term": "society-of-jesus",
+          "paragraph": "p-020"
+        },
+        {
+          "term": "jesuit",
+          "paragraph": "p-023"
+        },
+        {
           "term": "hegemony",
           "paragraph": "p-030"
         },
@@ -12939,6 +14203,10 @@
           "paragraph": "p-051"
         },
         {
+          "term": "barks",
+          "paragraph": "p-064"
+        },
+        {
           "term": "shrike",
           "paragraph": "p-068"
         },
@@ -12951,11 +14219,19 @@
           "paragraph": "p-075"
         },
         {
+          "term": "carapace",
+          "paragraph": "p-083"
+        },
+        {
           "term": "susurration",
           "paragraph": "p-101"
         },
         {
           "term": "john-muir",
+          "paragraph": "p-108"
+        },
+        {
+          "term": "balusters",
           "paragraph": "p-108"
         },
         {
@@ -12973,6 +14249,18 @@
         {
           "term": "teilhard-de-chardin",
           "paragraph": "p-140"
+        },
+        {
+          "term": "deus-ex-machina",
+          "paragraph": "p-145"
+        },
+        {
+          "term": "ultramarine",
+          "paragraph": "p-180"
+        },
+        {
+          "term": "singularities",
+          "paragraph": "p-185"
         }
       ],
       "number": 46,
@@ -13290,8 +14578,20 @@
           "paragraph": "p-063"
         },
         {
+          "term": "cislunar",
+          "paragraph": "p-066"
+        },
+        {
           "term": "hegemony",
           "paragraph": "p-068"
+        },
+        {
+          "term": "dodecahedron",
+          "paragraph": "p-070"
+        },
+        {
+          "term": "singularities",
+          "paragraph": "p-070"
         },
         {
           "term": "cordon-sanitaire",
@@ -13308,6 +14608,10 @@
         {
           "term": "fait-accompli",
           "paragraph": "p-100"
+        },
+        {
+          "term": "ursine",
+          "paragraph": "p-115"
         },
         {
           "term": "cicero",
@@ -13330,8 +14634,16 @@
           "paragraph": "p-173"
         },
         {
+          "term": "hardpan",
+          "paragraph": "p-185"
+        },
+        {
           "term": "steinway",
           "paragraph": "p-194"
+        },
+        {
+          "term": "cryogenic",
+          "paragraph": "p-222"
         },
         {
           "term": "merlin",
@@ -13566,6 +14878,10 @@
       "navigationSections": [],
       "noteAnchors": [
         {
+          "term": "campagna",
+          "paragraph": "p-001"
+        },
+        {
           "term": "joseph-severn",
           "paragraph": "p-002"
         },
@@ -13584,6 +14900,26 @@
         {
           "term": "william-gladstone",
           "paragraph": "p-033"
+        },
+        {
+          "term": "assonance",
+          "paragraph": "p-034"
+        },
+        {
+          "term": "caesura",
+          "paragraph": "p-034"
+        },
+        {
+          "term": "iambic",
+          "paragraph": "p-034"
+        },
+        {
+          "term": "pyrrhic",
+          "paragraph": "p-034"
+        },
+        {
+          "term": "spondee",
+          "paragraph": "p-034"
         },
         {
           "term": "barcaccia",
@@ -13626,6 +14962,10 @@
           "paragraph": "p-056"
         },
         {
+          "term": "perspex",
+          "paragraph": "p-057"
+        },
+        {
           "term": "olympus-mons",
           "paragraph": "p-057"
         },
@@ -13656,6 +14996,22 @@
         {
           "term": "hebron",
           "paragraph": "p-087"
+        },
+        {
+          "term": "symbiosis",
+          "paragraph": "p-093"
+        },
+        {
+          "term": "jesuit",
+          "paragraph": "p-096"
+        },
+        {
+          "term": "singularities",
+          "paragraph": "p-120"
+        },
+        {
+          "term": "balusters",
+          "paragraph": "p-122"
         },
         {
           "term": "oort-cloud",
@@ -13938,11 +15294,19 @@
           "paragraph": "p-002"
         },
         {
+          "term": "damask",
+          "paragraph": "p-003"
+        },
+        {
           "term": "joseph-severn",
           "paragraph": "p-004"
         },
         {
           "term": "james-clark",
+          "paragraph": "p-004"
+        },
+        {
+          "term": "signora-angeletti",
           "paragraph": "p-004"
         },
         {
@@ -13958,6 +15322,10 @@
           "paragraph": "p-015"
         },
         {
+          "term": "scudi",
+          "paragraph": "p-018"
+        },
+        {
           "term": "hyperion",
           "paragraph": "p-024"
         },
@@ -13970,7 +15338,19 @@
           "paragraph": "p-038"
         },
         {
+          "term": "there-was-a-naughty-boy",
+          "paragraph": "p-047"
+        },
+        {
+          "term": "pother",
+          "paragraph": "p-058"
+        },
+        {
           "term": "moneta",
+          "paragraph": "p-089"
+        },
+        {
+          "term": "torus",
           "paragraph": "p-089"
         },
         {
@@ -14014,6 +15394,10 @@
           "paragraph": "p-119"
         },
         {
+          "term": "ague",
+          "paragraph": "p-119"
+        },
+        {
           "term": "silenus",
           "paragraph": "p-124"
         },
@@ -14026,8 +15410,32 @@
           "paragraph": "p-132"
         },
         {
+          "term": "aquiline",
+          "paragraph": "p-132"
+        },
+        {
+          "term": "leonine",
+          "paragraph": "p-132"
+        },
+        {
+          "term": "ursine",
+          "paragraph": "p-132"
+        },
+        {
+          "term": "anthropoid",
+          "paragraph": "p-132"
+        },
+        {
+          "term": "fantasia-in-d-minor",
+          "paragraph": "p-138"
+        },
+        {
           "term": "steinway",
           "paragraph": "p-146"
+        },
+        {
+          "term": "jesuit",
+          "paragraph": "p-159"
         },
         {
           "term": "yggdrasill",
@@ -14042,12 +15450,24 @@
           "paragraph": "p-172"
         },
         {
+          "term": "curia-romana",
+          "paragraph": "p-178"
+        },
+        {
           "term": "byron",
           "paragraph": "p-191"
         },
         {
+          "term": "singularities",
+          "paragraph": "p-194"
+        },
+        {
           "term": "maui",
           "paragraph": "p-213"
+        },
+        {
+          "term": "ultramarine",
+          "paragraph": "p-227"
         }
       ],
       "number": 49,
@@ -14195,6 +15615,10 @@
       "navigationSections": [],
       "noteAnchors": [
         {
+          "term": "signora-angeletti",
+          "paragraph": "p-004"
+        },
+        {
           "term": "trattoria",
           "paragraph": "p-004"
         },
@@ -14215,6 +15639,10 @@
           "paragraph": "p-009"
         },
         {
+          "term": "solipsism",
+          "paragraph": "p-020"
+        },
+        {
           "term": "fanny-brawne",
           "paragraph": "p-022"
         },
@@ -14225,6 +15653,10 @@
         {
           "term": "john-keats",
           "paragraph": "p-025"
+        },
+        {
+          "term": "carapace",
+          "paragraph": "p-047"
         },
         {
           "term": "tharsis",
@@ -14809,6 +16241,10 @@
           "paragraph": "p-017"
         },
         {
+          "term": "homeostasis",
+          "paragraph": "p-017"
+        },
+        {
           "term": "kwatz",
           "paragraph": "p-022"
         },
@@ -14817,12 +16253,24 @@
           "paragraph": "p-024"
         },
         {
+          "term": "koan",
+          "paragraph": "p-044"
+        },
+        {
+          "term": "symbiosis",
+          "paragraph": "p-068"
+        },
+        {
           "term": "sansho",
           "paragraph": "p-109"
         },
         {
           "term": "koke",
           "paragraph": "p-113"
+        },
+        {
+          "term": "singularities",
+          "paragraph": "p-133"
         },
         {
           "term": "hegirah",
@@ -14849,7 +16297,23 @@
           "paragraph": "p-215"
         },
         {
+          "term": "deus-ex-machina",
+          "paragraph": "p-223"
+        },
+        {
+          "term": "fanes",
+          "paragraph": "p-234"
+        },
+        {
           "term": "endymion",
+          "paragraph": "p-240"
+        },
+        {
+          "term": "blackwoods",
+          "paragraph": "p-240"
+        },
+        {
+          "term": "penultimate",
           "paragraph": "p-240"
         },
         {
@@ -14865,8 +16329,20 @@
           "paragraph": "p-281"
         },
         {
+          "term": "dechenschule",
+          "paragraph": "p-296"
+        },
+        {
           "term": "oceanus",
           "paragraph": "p-309"
+        },
+        {
+          "term": "paean",
+          "paragraph": "p-309"
+        },
+        {
+          "term": "triune",
+          "paragraph": "p-398"
         },
         {
           "term": "byron",
@@ -15161,8 +16637,20 @@
           "paragraph": "p-002"
         },
         {
+          "term": "ramparts",
+          "paragraph": "p-004"
+        },
+        {
           "term": "obelisk",
           "paragraph": "p-005"
+        },
+        {
+          "term": "carapace",
+          "paragraph": "p-014"
+        },
+        {
+          "term": "bier",
+          "paragraph": "p-036"
         },
         {
           "term": "lapis-lazuli",
@@ -15185,6 +16673,14 @@
           "paragraph": "p-044"
         },
         {
+          "term": "swale",
+          "paragraph": "p-056"
+        },
+        {
+          "term": "tricorne",
+          "paragraph": "p-059"
+        },
+        {
           "term": "hyperion",
           "paragraph": "p-066"
         },
@@ -15201,6 +16697,10 @@
           "paragraph": "p-081"
         },
         {
+          "term": "cislunar",
+          "paragraph": "p-084"
+        },
+        {
           "term": "oneill",
           "paragraph": "p-085"
         },
@@ -15214,6 +16714,10 @@
         },
         {
           "term": "asquith",
+          "paragraph": "p-086"
+        },
+        {
+          "term": "penultimate",
           "paragraph": "p-086"
         },
         {
@@ -15293,12 +16797,20 @@
           "paragraph": "p-202"
         },
         {
+          "term": "praetorian",
+          "paragraph": "p-205"
+        },
+        {
           "term": "neutrino",
           "paragraph": "p-215"
         },
         {
           "term": "all-thing",
           "paragraph": "p-217"
+        },
+        {
+          "term": "singularities",
+          "paragraph": "p-221"
         },
         {
           "term": "pacem",
@@ -15610,6 +17122,10 @@
           "paragraph": "p-002"
         },
         {
+          "term": "foolscap",
+          "paragraph": "p-002"
+        },
+        {
           "term": "william-gladstone",
           "paragraph": "p-008"
         },
@@ -15636,6 +17152,14 @@
         {
           "term": "lamia",
           "paragraph": "p-043"
+        },
+        {
+          "term": "carapace",
+          "paragraph": "p-044"
+        },
+        {
+          "term": "bier",
+          "paragraph": "p-052"
         },
         {
           "term": "silenus",
@@ -15682,6 +17206,10 @@
           "paragraph": "p-160"
         },
         {
+          "term": "jesuit",
+          "paragraph": "p-160"
+        },
+        {
           "term": "teilhard-de-chardin",
           "paragraph": "p-160"
         },
@@ -15694,6 +17222,14 @@
           "paragraph": "p-170"
         },
         {
+          "term": "monsignor",
+          "paragraph": "p-182"
+        },
+        {
+          "term": "society-of-jesus",
+          "paragraph": "p-183"
+        },
+        {
           "term": "vettura",
           "paragraph": "p-185"
         },
@@ -15702,8 +17238,16 @@
           "paragraph": "p-186"
         },
         {
+          "term": "basilica",
+          "paragraph": "p-211"
+        },
+        {
           "term": "asquith",
           "paragraph": "p-221"
+        },
+        {
+          "term": "singularities",
+          "paragraph": "p-228"
         },
         {
           "term": "flechette",
@@ -15878,6 +17422,10 @@
           "paragraph": "p-001"
         },
         {
+          "term": "simulacrum",
+          "paragraph": "p-002"
+        },
+        {
           "term": "john-keats",
           "paragraph": "p-003"
         },
@@ -15902,8 +17450,20 @@
           "paragraph": "p-006"
         },
         {
+          "term": "deliquescing",
+          "paragraph": "p-006"
+        },
+        {
+          "term": "singularities",
+          "paragraph": "p-009"
+        },
+        {
           "term": "tau-ceti",
           "paragraph": "p-011"
+        },
+        {
+          "term": "jesuit",
+          "paragraph": "p-012"
         },
         {
           "term": "william-gladstone",
@@ -15918,8 +17478,16 @@
           "paragraph": "p-014"
         },
         {
+          "term": "koan",
+          "paragraph": "p-014"
+        },
+        {
           "term": "hegemony",
           "paragraph": "p-016"
+        },
+        {
+          "term": "gigaelectron-volts",
+          "paragraph": "p-023"
         },
         {
           "term": "hawking",
@@ -15934,7 +17502,15 @@
           "paragraph": "p-059"
         },
         {
+          "term": "catatonia",
+          "paragraph": "p-059"
+        },
+        {
           "term": "nevermore",
+          "paragraph": "p-062"
+        },
+        {
+          "term": "lectors",
           "paragraph": "p-062"
         },
         {
@@ -15955,6 +17531,10 @@
         },
         {
           "term": "maui",
+          "paragraph": "p-074"
+        },
+        {
+          "term": "motile",
           "paragraph": "p-074"
         },
         {
@@ -15982,8 +17562,24 @@
           "paragraph": "p-082"
         },
         {
+          "term": "sunni",
+          "paragraph": "p-085"
+        },
+        {
+          "term": "mullahs",
+          "paragraph": "p-085"
+        },
+        {
           "term": "hebron",
           "paragraph": "p-087"
+        },
+        {
+          "term": "ecliptic",
+          "paragraph": "p-088"
+        },
+        {
+          "term": "praetorian",
+          "paragraph": "p-091"
         },
         {
           "term": "melange",
@@ -16231,6 +17827,10 @@
       "navigationSections": [],
       "noteAnchors": [
         {
+          "term": "fanny-brawne",
+          "paragraph": "p-002"
+        },
+        {
           "term": "lamia",
           "paragraph": "p-002"
         },
@@ -16255,10 +17855,6 @@
           "paragraph": "p-020"
         },
         {
-          "term": "fanny-brawne",
-          "paragraph": "p-032"
-        },
-        {
           "term": "silenus",
           "paragraph": "p-033"
         },
@@ -16271,12 +17867,28 @@
           "paragraph": "p-036"
         },
         {
+          "term": "grand-unification-theories",
+          "paragraph": "p-037"
+        },
+        {
+          "term": "singularities",
+          "paragraph": "p-037"
+        },
+        {
           "term": "antimatter",
           "paragraph": "p-040"
         },
         {
           "term": "john-keats",
           "paragraph": "p-050"
+        },
+        {
+          "term": "bacillus",
+          "paragraph": "p-051"
+        },
+        {
+          "term": "detritus",
+          "paragraph": "p-062"
         },
         {
           "term": "mobius",
@@ -16291,8 +17903,16 @@
           "paragraph": "p-064"
         },
         {
+          "term": "doggerel",
+          "paragraph": "p-078"
+        },
+        {
           "term": "moneta",
           "paragraph": "p-088"
+        },
+        {
+          "term": "carapace",
+          "paragraph": "p-099"
         },
         {
           "term": "mnemosyne",
@@ -16301,6 +17921,10 @@
         {
           "term": "hawking",
           "paragraph": "p-182"
+        },
+        {
+          "term": "balalaika",
+          "paragraph": "p-212"
         }
       ],
       "number": 55,
@@ -16490,6 +18114,10 @@
           "paragraph": "p-008"
         },
         {
+          "term": "aquiline",
+          "paragraph": "p-012"
+        },
+        {
           "term": "hegemony",
           "paragraph": "p-012"
         },
@@ -16522,6 +18150,14 @@
           "paragraph": "p-029"
         },
         {
+          "term": "balalaika",
+          "paragraph": "p-038"
+        },
+        {
+          "term": "cuneiform",
+          "paragraph": "p-040"
+        },
+        {
           "term": "moneta",
           "paragraph": "p-041"
         },
@@ -16540,6 +18176,10 @@
         {
           "term": "hebron",
           "paragraph": "p-055"
+        },
+        {
+          "term": "chinese-philosopher",
+          "paragraph": "p-070"
         },
         {
           "term": "grendel",

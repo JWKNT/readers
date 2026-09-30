@@ -3,7 +3,7 @@ from collections import Counter
 import unittest
 
 import import_earths_past as common
-from rebuild_annotations import Fragment, unannotate, replace_article
+from rebuild_annotations import Fragment, unannotate, replace_article, annotate_correction_runs
 
 
 class RebuildAnnotationsTests(unittest.TestCase):
@@ -96,6 +96,58 @@ class RebuildAnnotationsTests(unittest.TestCase):
         unannotate(tree,preserve=regex)
         common.annotate(tree,entries,Counter(),{}, {'id':'fall-34','index':10})
         self.assertEqual(common.inner(tree),result)
+
+    def correction_run_fixture(self, source, entries):
+        from editorial import restore, text
+        tree = Fragment(source).root
+        visible, original = text(source), text(restore(source))
+        regex, lookup = common.matcher(entries)
+        unannotate(tree, preserve=regex)
+        annotate_correction_runs(tree, regex, lookup)
+        counts, first = Counter(), {}
+        common.annotate(tree, entries, counts, first, {'id': 'test', 'index': 0})
+        result = common.inner(tree)
+        self.assertEqual(text(result), visible)
+        self.assertEqual(text(restore(result)), original)
+        unannotate(tree, preserve=regex)
+        annotate_correction_runs(tree, regex, lookup)
+        repeated = Counter()
+        common.annotate(tree, entries, repeated, {}, {'id': 'test', 'index': 0})
+        self.assertEqual(common.inner(tree), result)
+        self.assertEqual(repeated, counts)
+        return tree, counts, first
+
+    def test_new_annotation_crosses_inserted_letter(self):
+        source = '<p id="p-001" data-block="p-001">Very ab<span class="text-fix" data-correction="insert" data-original="">s</span>truse, indeed.</p>'
+        tree, counts, first = self.correction_run_fixture(source, [{'id': 'abstruse', 'term': 'abstruse'}])
+        self.assertEqual(counts, {'abstruse': 1})
+        self.assertEqual(first['abstruse']['paragraph'], 'p-001')
+        word = tree.find('.//span[@data-term="abstruse"]')
+        self.assertEqual(common.txt(word), 'abstruse')
+        self.assertEqual(word.find('span').get('data-correction'), 'insert')
+
+    def test_new_annotation_crosses_empty_deleted_letter_repairs(self):
+        source = '<p id="p-001" data-block="p-001">The Og<span class="text-fix" data-correction="name" data-original="a"></span>la<span class="text-fix" data-correction="name" data-original="l"></span>la Sioux and others.</p>'
+        tree, counts, _ = self.correction_run_fixture(source, [{'id': 'oglala', 'term': 'Oglala Sioux'}])
+        self.assertEqual(counts, {'oglala': 1})
+        self.assertEqual(len(tree.findall('.//span[@data-correction="name"]')), 2)
+
+    def test_correction_runs_respect_notes_links_and_initials(self):
+        repair = 'ab<span class="text-fix" data-original="">s</span>truse'
+        source = '<p id="p-001" data-block="p-001"><a href="#note">'+repair+'</a><span class="source-note">'+repair+'</span><span class="initial">'+repair+'</span></p>'
+        _, counts, _ = self.correction_run_fixture(source, [{'id': 'abstruse', 'term': 'abstruse'}])
+        self.assertEqual(counts, {})
+
+    def test_correction_runs_do_not_split_repair_or_bridge_emphasis(self):
+        source = '<p id="p-001" data-block="p-001"><span class="text-fix" data-original="very ab">very abs</span>truse and ab<em>s</em>truse.</p>'
+        _, counts, _ = self.correction_run_fixture(source, [{'id': 'abstruse', 'term': 'abstruse'}])
+        self.assertEqual(counts, {})
+
+    def test_multiple_correction_run_matches_keep_order_and_tails(self):
+        source = '<p id="p-001" data-block="p-001">ab<span class="text-fix" data-original="">s</span>truse; ab<span class="text-fix" data-original="">s</span>truse!</p>'
+        tree, counts, _ = self.correction_run_fixture(source, [{'id': 'abstruse', 'term': 'abstruse'}])
+        self.assertEqual(counts, {'abstruse': 2})
+        self.assertEqual(len(tree.findall('.//span[@data-first="true"]')), 1)
 
     def test_article_replacement_preserves_surrounding_document(self):
         source = '<header>keep</header><article class="chapter-body">old</article><footer>keep</footer>'

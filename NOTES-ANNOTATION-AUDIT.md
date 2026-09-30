@@ -148,3 +148,32 @@ Two baselines are intentionally distinguished:
 comparison of visible text and repair attributes also passed for every non-Solar
 chapter. The annotation audit log has a distinct name so it does not compete
 with the edition-numbered release notes.
+
+## Hyperion and The Fall of Hyperion
+
+The incoming series reader received a bounded lexical/reference audit across
+all 55 narrative sections (352,735 words), with both dedications excluded.
+The combined 297-note glossary and all aliases were checked before additions.
+Duplicate cross-volume vocabulary and repeated quotation openings were merged,
+then actual first visible contexts were reviewed across both books. Detailed
+coverage is in `data/annotation-audit-hyperion.json`.
+
+The audit adds 221 notes, corrects or refines 13 original entries, and removes
+two misleading surname glosses: Magritte as the painter and Aspic as food.
+The resulting series glossary has 516 entries. Strong additions include verified
+poem openings, map projections, poetic meter, clinical and scientific terms,
+church architecture, historical references, and uncommon contextual vocabulary.
+New-note source URLs total 223. Nimbus was withheld where its first occurrence names
+a fictional plant; King Tut was omitted as a low-value familiar nickname.
+
+Paired-reference glosses now cover both referents rather than labeling one as
+the other. Somme is first the river in a 1415 context, not the 1916 battle.
+Oort-cloud, cislunar and ecliptic wording avoids forcing an Earth-only referent
+on fictional systems. Bar mitzvah replaces an unhelpful partial-word match.
+
+A narrow maintenance fix annotates complete words or phrases crossing existing
+repair spans. It preserves every visible character, `data-original` value,
+correction marker and paragraph address; it does not bridge arbitrary emphasis,
+links, original notes or initials, and does not split a repair. Five regression
+cases cover insertions, deletions, protected spans, partial repairs and repeated
+matches. Full validation and strict 57-file text/repair comparisons passed.

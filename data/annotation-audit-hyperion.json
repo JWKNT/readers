@@ -1,0 +1,1031 @@
+{
+  "schema": 1,
+  "date": "2026-09-30",
+  "reader": "hyperion",
+  "baselineCommit": "5a3233b",
+  "method": "Whole-corpus term/name and quotation screening, comparison against the combined glossary and all aliases, independently opened supporting sources, and a final review of actual first visible contexts across both volumes. Not a claim of a new word-by-word close reading or discovery of every subtle allusion.",
+  "summary": {
+    "novels": 2,
+    "narrativeChapters": 55,
+    "narrativeWords": 352735,
+    "referenceSectionsUnchanged": 2,
+    "baselineNotes": 297,
+    "addedNotes": 221,
+    "modifiedOriginalNotes": 13,
+    "removedOriginalNotes": 2,
+    "currentNotes": 516,
+    "distinctNewSourceUrls": 223
+  },
+  "modifiedOriginalNoteIds": [
+    "abraham",
+    "mitzvah",
+    "the-time-machine",
+    "nineteen-eighty-four",
+    "somme",
+    "oort-cloud",
+    "forbidden-planet",
+    "haydon-dinner",
+    "socinus",
+    "nutcracker",
+    "peter-pan",
+    "rachmaninoff",
+    "pacem"
+  ],
+  "removedOriginalNotes": [
+    {
+      "id": "magritte",
+      "reason": "All occurrences name a fictional caregiver, not the painter; no asserted namesake."
+    },
+    {
+      "id": "aspic",
+      "reason": "All occurrences are the surname Merin Aspic, not the food."
+    }
+  ],
+  "editorialDecisions": [
+    {
+      "candidate": "nimbus",
+      "reason": "Withheld because its first global occurrence names a fictional plant, nimbus vines."
+    },
+    {
+      "candidate": "King Tut",
+      "reason": "Withheld as a familiar nickname adding little to the tunnel-name context."
+    },
+    {
+      "candidate": "damask",
+      "reason": "The verified definition includes both patterned fabric and its grayish-red color sense, accommodating the first figurative light description."
+    },
+    {
+      "candidate": "bar mitzvah",
+      "reason": "Replaces the old partial mitzvah match under its existing ID; the sole occurrence is the full coming-of-age phrase."
+    },
+    {
+      "candidate": "repeated Keats quotation openings",
+      "reason": "Consolidated as aliases under the relevant poem entry rather than adjacent duplicate notes."
+    },
+    {
+      "candidate": "Oglala Sioux; abstruse",
+      "reason": "Matched across existing editorial repair spans without changing text or repair attributes."
+    }
+  ],
+  "chapters": [
+    {
+      "id": "hyperion-prologue",
+      "title": "Prologue",
+      "volume": "hyperion",
+      "words": 1816,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "antediluvian",
+        "saurian",
+        "tachyons",
+        "ululation"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "hyperion-01",
+      "title": "Chapter 1",
+      "volume": "hyperion",
+      "words": 33654,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "act-of-contrition",
+        "aeolian",
+        "amygdala",
+        "apostasy",
+        "apse",
+        "aquiline",
+        "argot",
+        "basilica",
+        "benediction",
+        "bioluminescent",
+        "cryogenic",
+        "detritus",
+        "en-haut",
+        "eucharist",
+        "fusillade",
+        "jesuit",
+        "lymphocyte",
+        "monsignor",
+        "nave",
+        "nematodes",
+        "padishahs",
+        "pogroms",
+        "pointillist",
+        "sacristy",
+        "seraphic",
+        "simulacrum",
+        "singularities",
+        "transept",
+        "tricorne",
+        "triune",
+        "tussocks",
+        "yeats-delphic-oracle"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "hyperion-02",
+      "title": "Chapter 2",
+      "volume": "hyperion",
+      "words": 26607,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "benediction",
+        "bivouac",
+        "cislunar",
+        "colloid",
+        "detritus",
+        "diaspora",
+        "gendarmes",
+        "gobbets",
+        "hardpan",
+        "hawsers",
+        "hummock",
+        "john-carter",
+        "mullahs",
+        "perspex",
+        "ramparts",
+        "revetments",
+        "rococo",
+        "scow",
+        "shiites",
+        "simoon",
+        "singularities",
+        "spavined",
+        "stoat",
+        "sunni",
+        "tinhorn",
+        "tintypes",
+        "toroid",
+        "verdun",
+        "yorick-horatio"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "hyperion-03",
+      "title": "Chapter 3",
+      "volume": "hyperion",
+      "words": 20213,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "antediluvian",
+        "bowdlerized",
+        "carious",
+        "crenellated",
+        "cryogenic",
+        "damask",
+        "denouement",
+        "dilettantes",
+        "dishabille",
+        "doggerel",
+        "ghee",
+        "harlequin",
+        "huck-and-jim",
+        "imprecation",
+        "john-word",
+        "keats-fall-of-hyperion",
+        "little-nell",
+        "michael-archangel",
+        "moroni",
+        "oglala-sioux",
+        "porticoes",
+        "priapic",
+        "sanctum-sanctorum",
+        "sartorial",
+        "satyriasis",
+        "scabrous",
+        "scow",
+        "singularities",
+        "wanderjahr"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "hyperion-04",
+      "title": "Chapter 4",
+      "volume": "hyperion",
+      "words": 26528,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "apologetics",
+        "bioluminescent",
+        "cataracts",
+        "cislunar",
+        "cryogenic",
+        "diaspora",
+        "hasidic",
+        "hermeneutics",
+        "keats-grecian-urn",
+        "keats-wheres-the-poet",
+        "lawrence-ship-of-death",
+        "lectors",
+        "littoral",
+        "mah-jongg",
+        "motile",
+        "perspex",
+        "pfennig",
+        "polychrome",
+        "solipsistic",
+        "verdurous"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "hyperion-05",
+      "title": "Chapter 5",
+      "volume": "hyperion",
+      "words": 33583,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "benediction",
+        "catatonia",
+        "cryogenic",
+        "delphic",
+        "glaucous",
+        "keats-day-is-gone",
+        "keats-fall-of-hyperion",
+        "keats-this-living-hand",
+        "lectors",
+        "littoral",
+        "luddite",
+        "missal",
+        "motile",
+        "penultimate",
+        "phagocyte",
+        "piezoelectric",
+        "polychrome",
+        "singularities",
+        "stoat",
+        "symbiosis",
+        "topiary",
+        "tricorne"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "hyperion-06",
+      "title": "Chapter 6",
+      "volume": "hyperion",
+      "words": 23991,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "balalaika",
+        "bas-relief",
+        "basso-profundo",
+        "bowline",
+        "caftan",
+        "cislunar",
+        "diaspora",
+        "dodecahedron",
+        "harlequin",
+        "jingoists",
+        "lepidopterist",
+        "motile",
+        "polychrome",
+        "prussian",
+        "quadrille",
+        "quisling",
+        "scow",
+        "sesquicentennial",
+        "simoon",
+        "simulacrum",
+        "singularities",
+        "transept",
+        "trilobites",
+        "ultramarine",
+        "visigoths",
+        "zooplankton"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "hyperion-epilogue",
+      "title": "Epilogue",
+      "volume": "hyperion",
+      "words": 1527,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "balalaika",
+        "swale",
+        "tricorne",
+        "wizard-of-oz"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-epigraph",
+      "title": "Epigraph",
+      "volume": "fall",
+      "words": 140,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "stoat"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-01",
+      "title": "Chapter 1",
+      "volume": "fall",
+      "words": 2328,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "barks",
+        "cislunar",
+        "dodecahedron",
+        "jingoism",
+        "motile",
+        "rococo",
+        "topiary"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-02",
+      "title": "Chapter 2",
+      "volume": "fall",
+      "words": 3129,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "aquiline",
+        "consumptive"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-03",
+      "title": "Chapter 3",
+      "volume": "fall",
+      "words": 3981,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "antediluvian",
+        "arroyo",
+        "rictus",
+        "saurian",
+        "st-elmos-fire",
+        "tricorne"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-04",
+      "title": "Chapter 4",
+      "volume": "fall",
+      "words": 3874,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "azimuthal-equidistant",
+        "ecliptic",
+        "equirectangular",
+        "gores",
+        "orthographic",
+        "polyconic",
+        "sinusoidal",
+        "torus"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-05",
+      "title": "Chapter 5",
+      "volume": "fall",
+      "words": 1650,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "bilious",
+        "carapace",
+        "eucharist",
+        "perspex",
+        "society-of-jesus"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-06",
+      "title": "Chapter 6",
+      "volume": "fall",
+      "words": 2504,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [],
+      "outcome": "no additional supported candidate selected"
+    },
+    {
+      "id": "fall-07",
+      "title": "Chapter 7",
+      "volume": "fall",
+      "words": 2924,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "cislunar",
+        "cryogenic",
+        "ecliptic"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-08",
+      "title": "Chapter 8",
+      "volume": "fall",
+      "words": 3376,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "bivouac",
+        "colloid",
+        "keats-grecian-urn",
+        "tricorne"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-09",
+      "title": "Chapter 9",
+      "volume": "fall",
+      "words": 4294,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "artemisium",
+        "cislunar",
+        "diurnal",
+        "reified",
+        "simulacrum",
+        "triremes"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-10",
+      "title": "Chapter 10",
+      "volume": "fall",
+      "words": 632,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "tricorne"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-11",
+      "title": "Chapter 11",
+      "volume": "fall",
+      "words": 4545,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "abstruse",
+        "kippers",
+        "perspex"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-12",
+      "title": "Chapter 12",
+      "volume": "fall",
+      "words": 804,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "vouchsafed"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-13",
+      "title": "Chapter 13",
+      "volume": "fall",
+      "words": 1988,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "colloid"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-14",
+      "title": "Chapter 14",
+      "volume": "fall",
+      "words": 3935,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "apostasy",
+        "cryogenic",
+        "jesuit",
+        "kippers",
+        "monsignor",
+        "oeuvre",
+        "outre",
+        "penultimate",
+        "redolent",
+        "retinue",
+        "singularities"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-15",
+      "title": "Chapter 15",
+      "volume": "fall",
+      "words": 4797,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "ecliptic",
+        "monsignor",
+        "praetorian",
+        "singularities",
+        "troika",
+        "vicissitudes"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-16",
+      "title": "Chapter 16",
+      "volume": "fall",
+      "words": 3593,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "gillyflowers",
+        "half-and-half",
+        "lemans",
+        "ne-cared-he-for-wine",
+        "patrician",
+        "ribbalds",
+        "symbiosis",
+        "wassail-bowl"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-17",
+      "title": "Chapter 17",
+      "volume": "fall",
+      "words": 2404,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "carapace",
+        "piezoelectric",
+        "spindrift",
+        "torus"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-18",
+      "title": "Chapter 18",
+      "volume": "fall",
+      "words": 5093,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "basilica",
+        "cryogenic",
+        "motile",
+        "nacelles",
+        "pastiche"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-19",
+      "title": "Chapter 19",
+      "volume": "fall",
+      "words": 2239,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [],
+      "outcome": "no additional supported candidate selected"
+    },
+    {
+      "id": "fall-20",
+      "title": "Chapter 20",
+      "volume": "fall",
+      "words": 1838,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "deus-ex-machina"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-21",
+      "title": "Chapter 21",
+      "volume": "fall",
+      "words": 2011,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "carapace",
+        "perspex",
+        "rictus"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-22",
+      "title": "Chapter 22",
+      "volume": "fall",
+      "words": 2833,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "balalaika",
+        "nacelles",
+        "ramparts",
+        "ululated"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-23",
+      "title": "Chapter 23",
+      "volume": "fall",
+      "words": 1619,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "cordite"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-24",
+      "title": "Chapter 24",
+      "volume": "fall",
+      "words": 3204,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "deliquescing"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-25",
+      "title": "Chapter 25",
+      "volume": "fall",
+      "words": 3706,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "arroyo"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-26",
+      "title": "Chapter 26",
+      "volume": "fall",
+      "words": 1338,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [],
+      "outcome": "no additional supported candidate selected"
+    },
+    {
+      "id": "fall-27",
+      "title": "Chapter 27",
+      "volume": "fall",
+      "words": 1226,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [],
+      "outcome": "no additional supported candidate selected"
+    },
+    {
+      "id": "fall-28",
+      "title": "Chapter 28",
+      "volume": "fall",
+      "words": 4410,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "cryogenic",
+        "ghee",
+        "lepidopterist",
+        "motile",
+        "tricorne",
+        "ultramarine"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-29",
+      "title": "Chapter 29",
+      "volume": "fall",
+      "words": 4724,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "basilica",
+        "cryogenic",
+        "jesuit",
+        "littoral"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-30",
+      "title": "Chapter 30",
+      "volume": "fall",
+      "words": 2592,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "carapace",
+        "cryogenic"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-31",
+      "title": "Chapter 31",
+      "volume": "fall",
+      "words": 3315,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "ramparts",
+        "retinue"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-32",
+      "title": "Chapter 32",
+      "volume": "fall",
+      "words": 7297,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "consumptive",
+        "in-extremis",
+        "internecine",
+        "keats-day-is-gone",
+        "keats-fall-of-hyperion",
+        "keats-this-living-hand",
+        "perspex",
+        "proselytism",
+        "singularities",
+        "spirit-here-that-reignest"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-33",
+      "title": "Chapter 33",
+      "volume": "fall",
+      "words": 4372,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "basso-profundo",
+        "delphic",
+        "gluon",
+        "koan",
+        "mondo",
+        "quasars",
+        "singularities",
+        "sramana",
+        "triune"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-34",
+      "title": "Chapter 34",
+      "volume": "fall",
+      "words": 7671,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "apse",
+        "atavistic",
+        "bas-relief",
+        "basilica",
+        "bioluminescent",
+        "carapace",
+        "en-haut",
+        "jesuit",
+        "microcephalic",
+        "monsignor",
+        "nave",
+        "necrotic",
+        "nematodes",
+        "patrician",
+        "quasars",
+        "transept",
+        "travertine"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-35",
+      "title": "Chapter 35",
+      "volume": "fall",
+      "words": 4479,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "anthropoid",
+        "benediction",
+        "cryogenic",
+        "singularities"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-36",
+      "title": "Chapter 36",
+      "volume": "fall",
+      "words": 7021,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "balusters",
+        "barks",
+        "bas-relief",
+        "basilica",
+        "carapace",
+        "deus-ex-machina",
+        "halberds",
+        "jesuit",
+        "monsignor",
+        "singularities",
+        "society-of-jesus",
+        "ultramarine"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-37",
+      "title": "Chapter 37",
+      "volume": "fall",
+      "words": 7335,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "cislunar",
+        "cryogenic",
+        "dodecahedron",
+        "hardpan",
+        "singularities",
+        "ursine"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-38",
+      "title": "Chapter 38",
+      "volume": "fall",
+      "words": 5923,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "assonance",
+        "balusters",
+        "caesura",
+        "campagna",
+        "iambic",
+        "jesuit",
+        "perspex",
+        "pyrrhic",
+        "singularities",
+        "spondee",
+        "symbiosis"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-39",
+      "title": "Chapter 39",
+      "volume": "fall",
+      "words": 7276,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "ague",
+        "anthropoid",
+        "aquiline",
+        "curia-romana",
+        "damask",
+        "fantasia-in-d-minor",
+        "jesuit",
+        "leonine",
+        "pother",
+        "scudi",
+        "signora-angeletti",
+        "singularities",
+        "there-was-a-naughty-boy",
+        "torus",
+        "ultramarine",
+        "ursine"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-40",
+      "title": "Chapter 40",
+      "volume": "fall",
+      "words": 3804,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "carapace",
+        "signora-angeletti",
+        "solipsism"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-41",
+      "title": "Chapter 41",
+      "volume": "fall",
+      "words": 4576,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "blackwoods",
+        "dechenschule",
+        "deus-ex-machina",
+        "fanes",
+        "homeostasis",
+        "koan",
+        "paean",
+        "penultimate",
+        "singularities",
+        "symbiosis",
+        "triune"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-42",
+      "title": "Chapter 42",
+      "volume": "fall",
+      "words": 8399,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "bier",
+        "carapace",
+        "cislunar",
+        "penultimate",
+        "praetorian",
+        "ramparts",
+        "singularities",
+        "swale",
+        "tricorne"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-43",
+      "title": "Chapter 43",
+      "volume": "fall",
+      "words": 9498,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "basilica",
+        "bier",
+        "carapace",
+        "foolscap",
+        "jesuit",
+        "monsignor",
+        "singularities",
+        "society-of-jesus"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-44",
+      "title": "Chapter 44",
+      "volume": "fall",
+      "words": 4987,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "catatonia",
+        "deliquescing",
+        "ecliptic",
+        "gigaelectron-volts",
+        "jesuit",
+        "koan",
+        "lectors",
+        "motile",
+        "mullahs",
+        "praetorian",
+        "simulacrum",
+        "singularities",
+        "sunni"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-45",
+      "title": "Chapter 45",
+      "volume": "fall",
+      "words": 6542,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "bacillus",
+        "balalaika",
+        "carapace",
+        "detritus",
+        "doggerel",
+        "grand-unification-theories",
+        "singularities"
+      ],
+      "outcome": "supported additions"
+    },
+    {
+      "id": "fall-epilogue",
+      "title": "Epilogue",
+      "volume": "fall",
+      "words": 4590,
+      "method": "complete lexical/reference inventory with targeted context and source review",
+      "newNoteIds": [
+        "aquiline",
+        "balalaika",
+        "chinese-philosopher",
+        "cuneiform"
+      ],
+      "outcome": "supported additions"
+    }
+  ]
+}

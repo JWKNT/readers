@@ -568,20 +568,6 @@
     "possible": false
   },
   {
-    "id": "aspic",
-    "term": "aspic",
-    "aliases": [],
-    "short": "Savory jelly made from stock.",
-    "note": "A clear meat- or fish-stock jelly used to surround or mold cold dishes.",
-    "sources": [
-      {
-        "url": "https://www.merriam-webster.com/dictionary/aspic",
-        "label": "Merriam-Webster: aspic"
-      }
-    ],
-    "possible": false
-  },
-  {
     "id": "hyperion",
     "term": "Hyperion",
     "aliases": [],
@@ -1015,7 +1001,7 @@
     "aliases": [
       "Isaac"
     ],
-    "short": "The biblical patriarch tested by the command to sacrifice Isaac.",
+    "short": "The father and son in Genesis’s binding-of-Isaac narrative.",
     "note": "Genesis 22 tells how God commands Abraham to offer his son Isaac, then stops him as he raises the knife. A ram is sacrificed instead; the episode is called the binding of Isaac or Akedah.",
     "possible": false,
     "sources": [
@@ -1099,15 +1085,22 @@
   },
   {
     "id": "mitzvah",
-    "term": "mitzvah",
+    "term": "bar mitzvah",
     "aliases": [],
-    "short": "A commandment; commonly, a worthy deed.",
-    "note": "Hebrew for commandment, especially one of the duties prescribed by Jewish religious law. In ordinary usage it can also mean a good or charitable deed.",
+    "short": "A Jewish boy’s coming-of-age status or ceremony.",
+    "note": "At thirteen, a Jewish boy becomes responsible for religious duties; the term also names the ceremony marking that transition.",
     "possible": false,
     "sources": [
       {
-        "url": "https://www.merriam-webster.com/dictionary/mitzvah",
-        "label": "Merriam-Webster: mitzvah"
+        "url": "https://www.merriam-webster.com/dictionary/bar%20mitzvah",
+        "label": "Merriam-Webster: bar mitzvah"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-197",
+        "context": "“Not since my bar mitzvah,” said Sol, thinking back to the day fifty years earlier when his father had borrowed Uncle Richard’s Vikken and had fl"
       }
     ]
   },
@@ -1572,7 +1565,7 @@
       "Morlock",
       "Morlocks"
     ],
-    "short": "The surface-dwellers in H. G. Wells’s The Time Machine.",
+    "short": "The two branches of future humanity in Wells’s The Time Machine.",
     "note": "In Wells’s 1895 novel, future humanity has diverged into the apparently carefree Eloi and the subterranean Morlocks. Their relationship darkens the first impression of a peaceful future.",
     "possible": false,
     "sources": [
@@ -1641,9 +1634,7 @@
   {
     "id": "nineteen-eighty-four",
     "term": "Big Brother",
-    "aliases": [
-      "Orwell"
-    ],
+    "aliases": [],
     "short": "The emblematic ruler of George Orwell’s Nineteen Eighty-Four.",
     "note": "Big Brother embodies the Party’s power and constant surveillance in Orwell’s 1949 novel. The name has become shorthand for intrusive state or institutional monitoring.",
     "possible": false,
@@ -1690,13 +1681,13 @@
     "id": "somme",
     "term": "Somme",
     "aliases": [],
-    "short": "A vast First World War battle in 1916.",
-    "note": "British and French forces attacked German positions along the Somme from July to November 1916. The campaign became emblematic of industrial warfare, mass casualties, and small territorial gains.",
+    "short": "A river in northern France.",
+    "note": "The River Somme in northern France; the major First World War offensive fought along its front in 1916 took the same name.",
     "possible": false,
     "sources": [
       {
         "url": "https://www.nam.ac.uk/explore/battle-somme",
-        "label": "National Army Museum: Battle of the Somme"
+        "label": "National Army Museum: the Somme"
       }
     ]
   },
@@ -1834,7 +1825,7 @@
     "aliases": [
       "Oort Cloud"
     ],
-    "short": "The distant reservoir of icy bodies around the Sun.",
+    "short": "A distant reservoir of icy comet bodies.",
     "note": "A hypothesized, roughly spherical swarm far beyond the planets, regarded as the source of many long-period comets. It is named for Dutch astronomer Jan Oort.",
     "possible": false,
     "sources": [
@@ -2005,20 +1996,6 @@
     ]
   },
   {
-    "id": "magritte",
-    "term": "Magritte",
-    "aliases": [],
-    "short": "René Magritte, Belgian Surrealist painter.",
-    "note": "Magritte (1898–1967) placed familiar objects in disconcerting relationships and questioned the relation between images, words, and things. His carefully painted everyday surfaces often conceal visual paradoxes.",
-    "possible": false,
-    "sources": [
-      {
-        "url": "https://www.moma.org/artists/3692-rene-magritte",
-        "label": "Museum of Modern Art: René Magritte"
-      }
-    ]
-  },
-  {
     "id": "de-kooning",
     "term": "de Kooning",
     "aliases": [],
@@ -2108,7 +2085,7 @@
     "aliases": [
       "Krell"
     ],
-    "short": "Dr. Morbius in the 1956 film Forbidden Planet.",
+    "short": "A scientist and vanished civilization in Forbidden Planet.",
     "note": "Forbidden Planet places Dr. Morbius and his daughter amid the technology of the vanished Krell civilization. Its threatening force is connected with the unconscious mind, and the film reworks elements of Shakespeare’s The Tempest.",
     "possible": false,
     "sources": [
@@ -2124,7 +2101,7 @@
     "aliases": [
       "Lamb"
     ],
-    "short": "Benjamin Robert Haydon, host of the “immortal dinner.”",
+    "short": "Participants in a famous 1817 gathering with Keats.",
     "note": "On 28 December 1817, the painter Haydon entertained Keats, Wordsworth, and Charles Lamb in his studio. Their joking attack on Newton’s reduction of the rainbow to optics became a celebrated episode in Romantic literary history.",
     "possible": false,
     "sources": [
@@ -2538,6 +2515,2702 @@
       {
         "url": "https://www.bach-leipzig.de/en/neutral/johann-sebastian-bach-%E2%94%80-chronology",
         "label": "Bach Archive Leipzig: Johann Sebastian Bach chronology"
+      }
+    ]
+  },
+  {
+    "id": "antediluvian",
+    "term": "antediluvian",
+    "aliases": [],
+    "short": "Primeval; literally, before the biblical Flood.",
+    "note": "Originally describing the time before the Flood in Genesis; by extension, extremely ancient or primitive.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/antediluvian",
+        "label": "Merriam-Webster: antediluvian"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-prologue",
+        "paragraph": "p-023",
+        "context": " the only sentient being on an unnamed world. He listened to the antediluvian night sounds rising from the swamps and he thought about morning, about setting out in the Vikken EMV at first light, a"
+      },
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-048",
+        "context": "esurrecting species of plants and animals long absent from their antediluvian North American haunts, the ecology engineers, licensed primitives such as the Oglala Sioux or the Hell’s Angel Guild, a"
+      }
+    ]
+  },
+  {
+    "id": "ululation",
+    "term": "ululation",
+    "aliases": [],
+    "short": "A prolonged, mournful howl.",
+    "note": "A sustained, often rhythmic howling or wailing sound.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ululation",
+        "label": "Merriam-Webster: ululation"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-prologue",
+        "paragraph": "p-003",
+        "context": "m the direction of the gymnosperm forest there came the mournful ululation of a carrion-breed pack. Somewhere in the darkness below, a small-brained beast trumpeted its answering challenge and f"
+      }
+    ]
+  },
+  {
+    "id": "saurian",
+    "term": "saurian",
+    "aliases": [],
+    "short": "Lizardlike or reptilian.",
+    "note": "Relating to lizards or resembling them; older classifications also applied the name to various other reptiles.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/saurian",
+        "label": "Merriam-Webster: saurian"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-prologue",
+        "paragraph": "p-001",
+        "context": "r on an ancient but well-maintained Steinway while great, green, saurian things surged and bellowed in the swamps below. A thunderstorm was brewing to the north. Bruise-black clouds silhouette"
+      }
+    ]
+  },
+  {
+    "id": "aeolian",
+    "term": "aeolian",
+    "aliases": [],
+    "short": "Produced by the wind; sighing or moaning.",
+    "note": "Describes a sound made by, or resembling the sound of, wind. The word also has a geological sense for wind-shaped features.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/aeolian",
+        "label": "Merriam-Webster: aeolian"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-323",
+        "context": " visited Tuk’s rocky grave as the evening wind began to wail its aeolian dirge. I knelt there and tried to pray but nothing came."
+      }
+    ]
+  },
+  {
+    "id": "aquiline",
+    "term": "aquiline",
+    "aliases": [],
+    "short": "Eaglelike, especially in profile.",
+    "note": "Resembling an eagle; often used of a nose curved like an eagle’s beak.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/aquiline",
+        "label": "Merriam-Webster: aquiline"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-030",
+        "context": " a wide brow, and her nose was solid and sharp, intensifying the aquiline quality of her stare. Lamia’s mouth was wide and expressive to the point of being sensuous, curled slightly at the corn"
+      }
+    ]
+  },
+  {
+    "id": "apostasy",
+    "term": "apostasy",
+    "aliases": [],
+    "short": "Abandonment of a religious faith.",
+    "note": "The rejection of a previously professed religion; more broadly, the abandonment of a former allegiance.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/apostasy",
+        "label": "Merriam-Webster: apostasy"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-150",
+        "context": "“Sometimes there is a thin line separating orthodox zeal from apostasy,” said Father Lenar Hoyt."
+      }
+    ]
+  },
+  {
+    "id": "padishahs",
+    "term": "padishahs",
+    "aliases": [],
+    "short": "Sovereigns or powerful rulers.",
+    "note": "A title of Persian origin for a chief ruler, particularly the shah; also used more broadly for powerful personages.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/padishah",
+        "label": "Merriam-Webster: padishah"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-321",
+        "context": "ly as one of those caged pelops that were so prized by the minor padishahs on Armaghast. A kilometer to the south and four to the west, the flame forests are in full form. In the morning, smoke "
+      }
+    ]
+  },
+  {
+    "id": "sacristy",
+    "term": "sacristy",
+    "aliases": [],
+    "short": "A church room for sacred vessels and vestments.",
+    "note": "A room where ceremonial vessels and clothing are stored and clergy prepare for services.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sacristy",
+        "label": "Merriam-Webster: sacristy"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-201",
+        "context": "I poked through the shadows of the sacristy. Dust and powdered plaster hung in the air like incense, outlining two shafts of sunlight streaming down from narrow wi"
+      }
+    ]
+  },
+  {
+    "id": "seraphic",
+    "term": "seraphic",
+    "aliases": [],
+    "short": "Angelic in appearance or expression.",
+    "note": "Resembling an angel, especially in serenity or beauty; derived from seraph, a kind of heavenly being.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/seraphic",
+        "label": "Merriam-Webster: seraphic"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-409",
+        "context": "The native looked at me with the seraphic, Buddha smile I have learned to hate. “You belong to the cruciform,” he said as if that answered everything."
+      },
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-416",
+        "context": "This time he did respond. The seraphic smile and untroubled countenance returned and Alpha said softly, “If you try to go down the cliff we will hold you down"
+      }
+    ]
+  },
+  {
+    "id": "simulacrum",
+    "term": "simulacrum",
+    "aliases": [],
+    "short": "An imitation or insubstantial likeness.",
+    "note": "An image or representation, often suggesting only the outward appearance or a faint semblance of the thing represented.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/simulacrum",
+        "label": "Merriam-Webster: simulacrum"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-245",
+        "context": "antations and settlements along the river. The other two offer a simulacrum of lodging for the indigenies traveling upriver, although I suspect that some of the barge’s residents are permanent. M"
+      },
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-261",
+        "context": " infant. Both sides usually enjoyed the exchange and there was a simulacrum of conversation, but neither party would come away the more knowledgeable. Siri switched the translator disk back on. “"
+      }
+    ]
+  },
+  {
+    "id": "transept",
+    "term": "transept",
+    "aliases": [],
+    "short": "The crosswise part of a cruciform church.",
+    "note": "The part crossing a church’s main axis between the nave and the apse or choir, or either projecting arm of that crossing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/transept",
+        "label": "Merriam-Webster: transept"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-198",
+        "context": "d for at least two standard centuries. It lies in ruins with its transept open to the green-blue skies, one of its western towers unfinished, and the other tower a skeletal framework of tumbled"
+      },
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-001",
+        "context": "re than a thousand gargoyles staring down from eave and parapet, transept and sepulcher, peering down through wood rafters in the great halls and positioned so as to peer in the blood-tinted wi"
+      }
+    ]
+  },
+  {
+    "id": "tricorne",
+    "term": "tricorne",
+    "aliases": [],
+    "short": "A three-cornered hat.",
+    "note": "A hat whose brim is turned up on three sides, forming three corners.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tricorne",
+        "label": "Merriam-Webster: tricorne"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-006",
+        "context": "ith slashes of Hegemony crimson on the epaulets, and a soft gold tricorne. A section of curved wall became a mirror and the Consul stared at the image there: a more than middle-aged man in semi"
+      },
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-127",
+        "context": "The Consul handed over his tricorne, the folded slips were dropped in, and the hat passed around. Sol Weintraub was the first to draw, Martin Silenus the l"
+      },
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-993",
+        "context": "silk with a Carvnel bloodstone at the throat, a cocked Eulin Bré tricorne—when Johnny and I farcast to TC2 the next day. I left him in the wood and brass bar near the central terminex, but not "
+      }
+    ]
+  },
+  {
+    "id": "tussocks",
+    "term": "tussocks",
+    "aliases": [],
+    "short": "Dense tufts of grass or similar vegetation.",
+    "note": "Compact clumps of grass or sedge; the word can also describe raised patches of ground bound together by plant roots.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tussock",
+        "label": "Merriam-Webster: tussock"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-330",
+        "context": "races—actually a series of laddered ledges, spires, shelves, and tussocks extending far out onto the overhang—when I realized that I was staring at man-made habitations. The dozen or so huts we"
+      }
+    ]
+  },
+  {
+    "id": "monsignor",
+    "term": "Monsignor",
+    "aliases": [],
+    "short": "An honorific title for certain Catholic clergy.",
+    "note": "A Roman Catholic title marking an ecclesiastical dignity or distinction, usually conferred by the pope.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/monsignor",
+        "label": "Merriam-Webster: monsignor"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-194",
+        "context": "heduled a month in Keats but already I am eager to press on. Oh, Monsignor Edouard, if you could see me now. Punished but still unrepentant. More alone than ever but strangely satisfied with my "
+      },
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-237",
+        "context": "o be fitted for the plain wooden coffin. As I helped Edouard and Monsignor Frey place the vestments on the stiffened corpse I noticed the browning skin and slackening mouth."
+      },
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-744",
+        "context": "one knows of these journals or their contents except M. Orlandi, Monsignor Edouard, and whichever of his superiors Monsignor Edouard chose to tell. As far as I know, the Church has issued no dec"
+      }
+    ]
+  },
+  {
+    "id": "fusillade",
+    "term": "fusillade",
+    "aliases": [],
+    "short": "A rapid or simultaneous discharge of shots.",
+    "note": "A volley of gunfire; by extension, any sudden concentrated barrage.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/fusillade",
+        "label": "Merriam-Webster: fusillade"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-302",
+        "context": "tent and its circle of bioluminescent lantern light as the first fusillade of meteor showers burned the skies overhead and distant explosions from the flame forests rippled along the southern an"
+      }
+    ]
+  },
+  {
+    "id": "spavined",
+    "term": "spavined",
+    "aliases": [],
+    "short": "Lame or decrepit.",
+    "note": "Originally describing a horse disabled by swelling or bony growth at the hock; more broadly, worn-out or crippled.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/spavined",
+        "label": "Merriam-Webster: spavined"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-351",
+        "context": "why their returning commando was crawling around the hull like a spavined crab rather than cycling the airlock. Or perhaps they knew why and were waiting inside with drawn pistols. At any rate,"
+      }
+    ]
+  },
+  {
+    "id": "revetments",
+    "term": "revetments",
+    "aliases": [],
+    "short": "Protective embankments or barricades.",
+    "note": "Earthworks or other barriers providing shelter from gunfire and fragments; the word also names a facing used to support an embankment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/revetment",
+        "label": "Merriam-Webster: revetment"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-454",
+        "context": "ixty degrees of fire. Ouster ground troops had been busy digging revetments a hundred meters out from the boats and Kassad could see at least two EM tanks hull down, their projection arrays and l"
+      }
+    ]
+  },
+  {
+    "id": "hawsers",
+    "term": "hawsers",
+    "aliases": [],
+    "short": "Heavy ropes for towing or mooring ships.",
+    "note": "Large ropes used to tow, anchor, or secure a vessel.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hawser",
+        "label": "Merriam-Webster: hawser"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-504",
+        "context": "f the Hoolie. The Consul could hear the creaks of the chains and hawsers as the river mantas surged against their harnesses. The Benares appeared to be the only ship heading upriver, but now n"
+      }
+    ]
+  },
+  {
+    "id": "hardpan",
+    "term": "hardpan",
+    "aliases": [],
+    "short": "A densely compacted layer of soil.",
+    "note": "A hard, often clay-rich soil layer that resists penetration by plant roots.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hardpan",
+        "label": "Merriam-Webster: hardpan"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-019",
+        "context": "erfans for Hyperion’s weak magnetic field were crossing the damp hardpan."
+      }
+    ]
+  },
+  {
+    "id": "hummock",
+    "term": "hummock",
+    "aliases": [],
+    "short": "A small rounded hill or mound.",
+    "note": "A low knoll or raised rounded patch of ground.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hummock",
+        "label": "Merriam-Webster: hummock"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-486",
+        "context": "s he carried her to an empty stretch of grass atop a wind-carved hummock. He lowered her to the ground between piles of Ouster bodies, roughly opened her legs, took both her hands in the grasp"
+      }
+    ]
+  },
+  {
+    "id": "perspex",
+    "term": "Perspex",
+    "aliases": [],
+    "short": "A trade name for acrylic plastic.",
+    "note": "An acrylic plastic used as a glass substitute.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Perspex",
+        "label": "Merriam-Webster: Perspex"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-380",
+        "context": "ak up. Overhead, the blister burned through and spattered liquid Perspex throughout the interior of the cockpit, splashing Kassad’s suit and visor. He smelled plastic melting. The squid was sp"
+      },
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-562",
+        "context": " eighteen years, but now the street was empty. Rain streaked the Perspex canopy of the old EMV and ran in complex rivulets. The three of them sat in the vehicle for a moment, staring at the ho"
+      }
+    ]
+  },
+  {
+    "id": "tinhorn",
+    "term": "tinhorn",
+    "aliases": [],
+    "short": "Pretentiously claiming importance or ability.",
+    "note": "Describes someone who makes a show of wealth, influence, or skill without possessing it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tinhorn",
+        "label": "Merriam-Webster: tinhorn"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-266",
+        "context": "er of the innocent, no matter how many jihads were proclaimed by tinhorn heretics like the New Prophet. Captain Kassad gave the leaders of the thirty million zealots three hours to surrender t"
+      }
+    ]
+  },
+  {
+    "id": "gobbets",
+    "term": "gobbets",
+    "aliases": [],
+    "short": "Small lumps or fragments.",
+    "note": "Pieces or masses of material, especially flesh; also small quantities or drops of liquid.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gobbet",
+        "label": "Merriam-Webster: gobbet"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-318",
+        "context": "d knees. The helmet squeezed his forehead like a cushioned vise. Gobbets of blood and a moist white material clung to the inside of the visor. The piece of shrapnel which had killed the Marine"
+      },
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-377",
+        "context": "ere burning away now, roaring past the observation blisters like gobbets of lava. Kassad closed his eyes and tried to remember lectures from Olympus Command School on the structure and layout "
+      }
+    ]
+  },
+  {
+    "id": "amygdala",
+    "term": "amygdala",
+    "aliases": [],
+    "short": "An almond-shaped mass of gray matter in the brain.",
+    "note": "A structure in the temporal lobe of each cerebral hemisphere, forming part of the limbic system.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/amygdala",
+        "label": "Merriam-Webster: amygdala"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-619",
+        "context": "ell with my simple field scanner, the nematodes terminate in the amygdala and other basal ganglia in each cerebral hemisphere. My temperature, metabolism, and lymphocyte level are normal. There"
+      }
+    ]
+  },
+  {
+    "id": "lymphocyte",
+    "term": "lymphocyte",
+    "aliases": [],
+    "short": "A white blood cell involved in immunity.",
+    "note": "A class of immune-system cells that includes B cells and T cells.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lymphocyte",
+        "label": "Merriam-Webster: lymphocyte"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-619",
+        "context": "lia in each cerebral hemisphere. My temperature, metabolism, and lymphocyte level are normal. There has been no invasion of foreign tissue. According to the scanner, the nematodic filaments are t"
+      }
+    ]
+  },
+  {
+    "id": "nematodes",
+    "term": "nematodes",
+    "aliases": [
+      "nematode"
+    ],
+    "short": "Roundworms.",
+    "note": "Elongated cylindrical worms of the phylum Nematoda; some are parasites, while others live freely in soil or water.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/nematode",
+        "label": "Merriam-Webster: nematode"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-619",
+        "context": " nucleus above my sternum to filaments everywhere—a nightmare of nematodes. As well as I can tell with my simple field scanner, the nematodes terminate in the amygdala and other basal ganglia in"
+      },
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-625",
+        "context": "Each day I do a medscan of myself. The nematodes remain—perhaps thicker, perhaps not. I am convinced that they are purely parasitic although my body has shown no signs "
+      },
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-659",
+        "context": "ned then that I caught a glimpse of the network of filaments and nematodes holding the disintegrating body together like metal fibers in a sculptor’s melting model. The flesh flowed."
+      }
+    ]
+  },
+  {
+    "id": "benediction",
+    "term": "benediction",
+    "aliases": [],
+    "short": "A blessing or prayer for blessing.",
+    "note": "An invocation of divine favor, often pronounced at the end of worship; also used figuratively for something beneficial.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/benediction",
+        "label": "Merriam-Webster: benediction"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-592",
+        "context": "els, I was absurdly reminded of His Holiness on Pacem offering a benediction to the faithful."
+      },
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-231",
+        "context": "ft arm, her thigh warm against his right leg. The sunlight was a benediction. Hidden colors rose to the surface of things. Kassad turned his head and gazed at her as she rested her head on his sho"
+      },
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-001",
+        "context": "wagon’s sails and lines and weathered planks glowed in the brief benediction of light in the few minutes before the sun was blocked by the ceiling of clouds and color flowed out of the world once "
+      }
+    ]
+  },
+  {
+    "id": "pogroms",
+    "term": "pogroms",
+    "aliases": [],
+    "short": "Organized massacres, especially of Jews.",
+    "note": "Violent collective attacks on defenseless people, particularly the massacres of Jewish communities for which the term became widely known.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pogrom",
+        "label": "Merriam-Webster: pogrom"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-693",
+        "context": "ilence of death camps and nuclear fireballs and cancer wards and pogroms, going into the darkness, if not hopefully, then prayerfully that there is some reason for it all, something worth the "
+      }
+    ]
+  },
+  {
+    "id": "basilica",
+    "term": "basilica",
+    "aliases": [],
+    "short": "A church type or a church granted special ceremonial status.",
+    "note": "Originally a Roman public hall; in Christian usage, a church with a central nave and aisles, or a Catholic church granted particular ceremonial privileges.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/basilica",
+        "label": "Merriam-Webster: basilica"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-237",
+        "context": " corpse was not embalmed. It waited in the anteroom off the main basilica to be fitted for the plain wooden coffin. As I helped Edouard and Monsignor Frey place the vestments on the stiffened c"
+      },
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-503",
+        "context": " have—as best we could from ancient photos and holos—rebuilt the basilica of St. Peter’s exactly as it stood in the ancient Vatican. Almost seven hundred feet long and four hundred and fifty fe"
+      },
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-510",
+        "context": "eturn up the cliff after discovering what I now think of as “the basilica.” On the ledge outside the basilica there are steps descending farther into the Cleft. Although not as worn as the path"
+      }
+    ]
+  },
+  {
+    "id": "tintypes",
+    "term": "tintypes",
+    "aliases": [],
+    "short": "Early photographs on thin iron plates.",
+    "note": "Positive photographs produced on darkened metal plates by a collodion process; also called ferrotypes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ferrotype",
+        "label": "Merriam-Webster: ferrotype"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-184",
+        "context": "as as far beyond regular stimsims as full-form holos were beyond tintypes—but the physical sensations were so convincing, so real, that Kassad did not relish the thought of being wounded. There"
+      }
+    ]
+  },
+  {
+    "id": "gendarmes",
+    "term": "gendarmes",
+    "aliases": [],
+    "short": "Armed police officers.",
+    "note": "Originally members of a military body maintaining public order, especially in France; more broadly, police officers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gendarme",
+        "label": "Merriam-Webster: gendarme"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-023",
+        "context": "ning the binoculars to the Colonel. “Let’s go down and greet the gendarmes.”"
+      }
+    ]
+  },
+  {
+    "id": "jesuit",
+    "term": "Jesuit",
+    "aliases": [
+      "Jesuits"
+    ],
+    "short": "A member of the Society of Jesus.",
+    "note": "A member of the Roman Catholic religious order founded by Ignatius of Loyola and his companions in 1540.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.jesuits.org/glossary/the-society-of-jesus/",
+        "label": "Jesuits: the Society of Jesus"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-152",
+        "context": "irst offworld assignment: he was ordered to escort the respected Jesuit Father Paul Duré into quiet exile on the colony world of Hyperion."
+      },
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-153",
+        "context": ". Teilhard as well as an archaeologist, ethnologist, and eminent Jesuit theologian. Despite the decline of the Catholic Church into what amounted to a half-forgotten cult tolerated because of"
+      },
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-154",
+        "context": "ed archaeological dig on the nearby world of Armaghast. When the Jesuit returned, a few weeks after Hoyt’s ordination, it had been under a cloud. No one outside the highest circles of the New"
+      }
+    ]
+  },
+  {
+    "id": "tachyons",
+    "term": "tachyons",
+    "aliases": [],
+    "short": "Hypothetical faster-than-light particles.",
+    "note": "Proposed particles that would always travel faster than light. Their existence has not been established experimentally.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/FTL.html",
+        "label": "UC Riverside Physics FAQ: faster than light"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-prologue",
+        "paragraph": "p-005",
+        "context": "r took a few seconds to convert and decode the burst of decaying tachyons, the Consul poured himself a glass of Scotch. He settled into the cushions of the projection pit just as the diskey bli"
+      }
+    ]
+  },
+  {
+    "id": "yorick-horatio",
+    "term": "I knew him, Horatio",
+    "aliases": [],
+    "short": "Hamlet’s words while contemplating Yorick’s skull.",
+    "note": "In Hamlet, Act 5, scene 1, the prince recalls the dead court jester Yorick as a man of abundant humor while holding his skull.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/5/1/",
+        "label": "Folger Shakespeare Library: Hamlet 5.1"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-017",
+        "context": "y was just visible through the light rain and growing darkness. “I knew him, Horatio,” said the drunken poet. “A man of infinite jest. Not one of them funny. A real horse’s ass, Horatio.”"
+      }
+    ]
+  },
+  {
+    "id": "bowdlerized",
+    "term": "bowdlerized",
+    "aliases": [],
+    "short": "Edited to remove material considered improper.",
+    "note": "Expurgated by deleting or changing passages judged offensive, indecent, or vulgar.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bowdlerize",
+        "label": "Merriam-Webster: bowdlerize"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-258",
+        "context": "ilenus. It w-w-was interesting because someone had obviously b-b-bowdlerized it and left in all the bad parts.”"
+      }
+    ]
+  },
+  {
+    "id": "carious",
+    "term": "carious",
+    "aliases": [],
+    "short": "Affected by decay, especially tooth decay.",
+    "note": "Having caries: progressive decay of a tooth or bone.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/caries",
+        "label": "Merriam-Webster: caries"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-064",
+        "context": "mosphere which will kill them before they’re forty, their smiles carious, their oily hair rife with lice and the blood bags of dracula ticks. Proud parents beaming. Twenty million of these doo"
+      }
+    ]
+  },
+  {
+    "id": "crenellated",
+    "term": "crenellated",
+    "aliases": [],
+    "short": "Having notched battlements.",
+    "note": "Topped with alternating raised sections and gaps, like the parapet of a fortified wall.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/crenellation",
+        "label": "Merriam-Webster: crenellation"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-083",
+        "context": "so have species ranging from beavers to the architect ants whose crenellated towers are visible right now off the port bow. Yes, we weave real-fabric things from the dreamstuff of mathematics, but"
+      }
+    ]
+  },
+  {
+    "id": "denouement",
+    "term": "denouement",
+    "aliases": [],
+    "short": "The resolution of a plot or sequence of events.",
+    "note": "The final outcome of a story’s main complications; from a French word for untying.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/denouement",
+        "label": "Merriam-Webster: denouement"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-494",
+        "context": "the warp and way of things. Real life seldom structures a decent denouement."
+      }
+    ]
+  },
+  {
+    "id": "dishabille",
+    "term": "dishabille",
+    "aliases": [],
+    "short": "Careless or incomplete dress.",
+    "note": "A state of being casually, untidily, or only partly dressed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dishabille",
+        "label": "Merriam-Webster: dishabille"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-237",
+        "context": "d to sartorial chaos—King William moves in a permanent sphere of dishabille, his fly unsealed, his velvet cape torn and tattered and drawing crumbs magnetically from the floor, his left sleeve ru"
+      }
+    ]
+  },
+  {
+    "id": "doggerel",
+    "term": "doggerel",
+    "aliases": [],
+    "short": "Clumsy or trivial verse.",
+    "note": "Poetry with loose or irregular meter, often comic or judged artistically poor.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/doggerel",
+        "label": "Merriam-Webster: doggerel"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-057",
+        "context": " mother remained tolerant even as I left reeking little piles of doggerel lying around the house. She was indulgent of her only child even if he was as blithely incontinent as an unhousebroken "
+      }
+    ]
+  },
+  {
+    "id": "imprecation",
+    "term": "imprecation",
+    "aliases": [],
+    "short": "A curse.",
+    "note": "An utterance calling down harm or misfortune upon someone.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/imprecation",
+        "label": "Merriam-Webster: imprecation"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-068",
+        "context": "ination, two references to human anatomy, one request for divine imprecation, one standard description of or request for coitus, and a coital variation which was no longer an option for me since m"
+      }
+    ]
+  },
+  {
+    "id": "priapic",
+    "term": "priapic",
+    "aliases": [],
+    "short": "Preoccupied with male sexual excitement.",
+    "note": "Relating to virility or sexual arousal; the word derives from Priapus.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/priapic",
+        "label": "Merriam-Webster: priapic"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-053",
+        "context": "yr period, I felt that I finally understood poor don Balthazar’s priapic compulsions, but in those days it was mostly a hindrance to keeping young girls on the estate’s staff. Human or android"
+      },
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-302",
+        "context": " only resident satyr or arranged one themselves. I learned what “priapic” and “satyriasis” really mean. Besides the unending series of sexual contests, I allowed my drinking bouts to become le"
+      }
+    ]
+  },
+  {
+    "id": "satyriasis",
+    "term": "satyriasis",
+    "aliases": [],
+    "short": "An older term for excessive male sexual desire.",
+    "note": "A term for intense or excessive sexual craving in a man, derived from the satyrs of Greek mythology.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/satyriasis",
+        "label": "Merriam-Webster: satyriasis"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-302",
+        "context": " satyr or arranged one themselves. I learned what “priapic” and “satyriasis” really mean. Besides the unending series of sexual contests, I allowed my drinking bouts to become legendary and my vo"
+      }
+    ]
+  },
+  {
+    "id": "scabrous",
+    "term": "scabrous",
+    "aliases": [],
+    "short": "Rough, scaly, or scabby.",
+    "note": "Having an uneven surface with raised points, scales, or scabs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/scabrous",
+        "label": "Merriam-Webster: scabrous"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-064",
+        "context": "r rot, squiring a nest of a dozen offspring, the children’s skin scabrous by age five-standard, their eyes watering incessantly from the sting of an atmosphere which will kill them before they’"
+      }
+    ]
+  },
+  {
+    "id": "sartorial",
+    "term": "sartorial",
+    "aliases": [],
+    "short": "Relating to clothing or tailoring.",
+    "note": "Concerning dress, especially the style or making of clothes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sartorial",
+        "label": "Merriam-Webster: sartorial"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-237",
+        "context": "his environment simultaneously. Nor is his appearance limited to sartorial chaos—King William moves in a permanent sphere of dishabille, his fly unsealed, his velvet cape torn and tattered and d"
+      }
+    ]
+  },
+  {
+    "id": "sanctum-sanctorum",
+    "term": "sanctum sanctorum",
+    "aliases": [],
+    "short": "A private inner sanctuary.",
+    "note": "Latin for holy of holies; figuratively, a place reserved for private use and protected from intrusion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sanctum%20sanctorum",
+        "label": "Merriam-Webster: sanctum sanctorum"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-111",
+        "context": "ver learned, I throw open the doors to Mother’s sewing room, her sanctum sanctorum to which she retires for three hours every afternoon and from which she emerges with her soft smile, the hem of her pal"
+      }
+    ]
+  },
+  {
+    "id": "porticoes",
+    "term": "porticoes",
+    "aliases": [],
+    "short": "Covered walkways or columned porches.",
+    "note": "Roofed colonnades, often forming the entrance to a building.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/portico",
+        "label": "Merriam-Webster: portico"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-043",
+        "context": "ime, the balconies and maze of exterior stairways along the east porticoes playing Escher games with afternoon’s shadows."
+      }
+    ]
+  },
+  {
+    "id": "dilettantes",
+    "term": "dilettantes",
+    "aliases": [],
+    "short": "Superficial dabblers in an art or subject.",
+    "note": "People with an amateur or passing interest in a field rather than serious commitment or expertise.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dilettante",
+        "label": "Merriam-Webster: dilettante"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-184",
+        "context": "e would about do it. And then you can go join the other artistic dilettantes and dropouts and mental cases that Sad King Billy collects on whatever Outback world he lives on.”"
+      },
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-420",
+        "context": "In a dozen years sudden death culled the city of dilettantes until only the Shrike and I remained. The annual passage of the Shrike Pilgrimage was a minor irritation, a distant car"
+      }
+    ]
+  },
+  {
+    "id": "wanderjahr",
+    "term": "Wanderjahr",
+    "aliases": [],
+    "short": "German: a year of travel.",
+    "note": "A year spent travelling; literally, a wandering year.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Wanderjahr",
+        "label": "Merriam-Webster: Wanderjahr"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-046",
+        "context": "y first hint of poverty. I was sixteen standard years old, on my Wanderjahr, and backpacking through India when I saw a beggar. The Hindu Old Families kept them around for religious reasons, but "
+      }
+    ]
+  },
+  {
+    "id": "hermeneutics",
+    "term": "hermeneutics",
+    "aliases": [],
+    "short": "The study of interpretation.",
+    "note": "The principles and methods used to interpret texts and meanings, especially in theology and philosophy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hermeneutics",
+        "label": "Merriam-Webster: hermeneutics"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-483",
+        "context": " are a scholar. We are very familiar with your writings on moral hermeneutics. The reasoning therein is flawed but quite challenging. We use it regularly in our courses in doctrinal apologetics. Pl"
+      }
+    ]
+  },
+  {
+    "id": "apologetics",
+    "term": "apologetics",
+    "aliases": [],
+    "short": "Reasoned defense of a doctrine.",
+    "note": "Systematic argument in support of a belief, especially a religious teaching; it does not mean an expression of regret.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/apologetics",
+        "label": "Merriam-Webster: apologetics"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-483",
+        "context": "ite challenging. We use it regularly in our courses in doctrinal apologetics. Please proceed.”"
+      }
+    ]
+  },
+  {
+    "id": "solipsistic",
+    "term": "solipsistic",
+    "aliases": [],
+    "short": "Absorbed in one’s own experience or concerns.",
+    "note": "Marked by extreme self-centeredness or by the perspective that only one’s own self can be known.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/solipsistic",
+        "label": "Merriam-Webster: solipsistic"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-175",
+        "context": "The presence of an infant intruded upon Sol’s solipsistic life as a serious academic and Sarai’s profession as music critic for Barnard’s datasphere, but neither minded. The fir"
+      }
+    ]
+  },
+  {
+    "id": "littoral",
+    "term": "littoral",
+    "aliases": [],
+    "short": "A coastal or shore region.",
+    "note": "The land and waters along a shore, especially a seacoast; also an adjective meaning situated near the shore.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/littoral",
+        "label": "Merriam-Webster: littoral"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-034",
+        "context": "oat? It takes two weeks to sail up the Mane and around the North Littoral to Otho or one of the other staging areas. And that’s when there are ships available. Every seagoing vessel on Hyperion"
+      },
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-883",
+        "context": "hitecture rose from the swamps and lagoons of the North American littoral. Several had lights burning. Johnny pointed to one decrepit but oddly elegant structure and said, “The Empire State Bui"
+      }
+    ]
+  },
+  {
+    "id": "polychrome",
+    "term": "polychrome",
+    "aliases": [],
+    "short": "Made or decorated in several colors.",
+    "note": "Multicolored, especially through painted decoration on sculpture, pottery, or architecture.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/polychrome",
+        "label": "Merriam-Webster: polychrome"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-475",
+        "context": " the time staring at the slowly rotating twenty-meter, steel and polychrome sculpture which might have been of the legendary Shrike … and might have been an abstract homage to every edged weapon "
+      },
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-888",
+        "context": "d cavernous if caverns could really be that large. A frightening polychrome sculpture which hung from invisible cables rotated to unfelt breezes. Johnny and I both turned as the farcaster portal "
+      },
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-001",
+        "context": " velvet, hanging and free-standing sculptures of the Avatar with polychrome steel for blades and bloodgems for eyes, more statues of the Shrike carved from the stone of narrow stairways and dark "
+      }
+    ]
+  },
+  {
+    "id": "verdurous",
+    "term": "verdurous",
+    "aliases": [],
+    "short": "Green with vegetation.",
+    "note": "Covered in, or suggesting, the fresh green of growing plants.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/verdurous",
+        "label": "Merriam-Webster: verdurous"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-042",
+        "context": "mellowing to an aquamarine shimmer before darkening to a hint of verdurous depths. The lapis sky melted into the reds and golds of sunset, illuminating their hilltop and setting the pilgrims’ sk"
+      }
+    ]
+  },
+  {
+    "id": "pfennig",
+    "term": "pfennig",
+    "aliases": [],
+    "short": "A former German coin and monetary unit.",
+    "note": "One hundredth of a deutsche mark; the name belongs to the German currency used before the euro.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pfennig",
+        "label": "Merriam-Webster: pfennig"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-186",
+        "context": "ing into the house to show off every plastic plate and tarnished pfennig she had excavated, demanding to know where it had come from, what were the people like who had left it there?"
+      }
+    ]
+  },
+  {
+    "id": "cislunar",
+    "term": "cislunar",
+    "aliases": [],
+    "short": "Conventionally, between Earth and the Moon.",
+    "note": "Conventionally, the region between Earth and the Moon or its orbit.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cislunar",
+        "label": "Merriam-Webster: cislunar"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-287",
+        "context": "ter swarm then put more than three thousand ships into Bressia’s cislunar space and began the systematic reduction of all planetary defenses."
+      },
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-820",
+        "context": "“Space battle,” said Kassad. “Cislunar. Fusion weapons.” He went below quickly."
+      },
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-078",
+        "context": ". Not yet. The fleet will be fighting a holding action until the cislunar sphere is completed. Then the evacuation portals will be opened to the Web while FORCE units come through by the hundre"
+      }
+    ]
+  },
+  {
+    "id": "cataracts",
+    "term": "Cataracts",
+    "aliases": [],
+    "short": "Large waterfalls or steep river rapids.",
+    "note": "A cataract can mean a powerful waterfall or a stretch of steep, turbulent rapids.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cataract",
+        "label": "Merriam-Webster: cataract"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-009",
+        "context": " and curved west above it, narrowing toward the impassable Lower Cataracts a dozen kilometers upriver from Edge. To their north and east lay the Sea of Grass."
+      }
+    ]
+  },
+  {
+    "id": "mah-jongg",
+    "term": "mah-jongg",
+    "aliases": [],
+    "short": "A Chinese tile game.",
+    "note": "Usually played by four people, who draw and discard tiles to assemble a winning hand.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mah-jongg",
+        "label": "Merriam-Webster: mah-jongg"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-337",
+        "context": " … is my old room still there, Mom, or have you turned it into a mah-jongg parlor like you’ve always threatened? So write or give me a call. Next time I’ll shell out the money for two-way so we "
+      }
+    ]
+  },
+  {
+    "id": "john-carter",
+    "term": "John Carter",
+    "aliases": [],
+    "short": "Possibly Edgar Rice Burroughs’s adventurer on Mars.",
+    "note": "Possibly John Carter, the Earth-born hero of Edgar Rice Burroughs’s Barsoom stories, beginning with A Princess of Mars.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.edgarriceburroughs.com/characters/johncarter/",
+        "label": "Edgar Rice Burroughs, Inc.: John Carter of Mars"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-256",
+        "context": "ice of a Martian year at polar work camp or volunteering for the John Carter Brigade then forming to help FORCE put down the resurgent Glennon-Height Rebellion in the Class Three colonies. Kassad "
+      }
+    ]
+  },
+  {
+    "id": "little-nell",
+    "term": "Little Nell",
+    "aliases": [],
+    "short": "The child heroine of Dickens’s The Old Curiosity Shop.",
+    "note": "Nell Trent, the young heroine of The Old Curiosity Shop, whose suffering and death form a central episode of Dickens’s novel.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/700/pg700-images.html",
+        "label": "Charles Dickens: The Old Curiosity Shop"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-194",
+        "context": "cence Sperry, the nine-year-old telepath dying of an unspecified Little Nell disease. Innocence lasted until Dying Earth IX, and on the day Transline allowed me to kill the little shit off, I went"
+      }
+    ]
+  },
+  {
+    "id": "verdun",
+    "term": "Verdun",
+    "aliases": [],
+    "short": "The site of a prolonged French–German battle in 1916.",
+    "note": "The Battle of Verdun was fought around the French town during the First World War, from February to December 1916.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://memorial-verdun.fr/en",
+        "label": "Verdun Memorial: the battle of Verdun"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-260",
+        "context": " as the ground itself shook from the firing of the big guns near Verdun. He would remember the impatient gesture with which she brushed back her hair as her cheek rested on his thigh. And the"
+      }
+    ]
+  },
+  {
+    "id": "oglala-sioux",
+    "term": "Oglala Sioux",
+    "aliases": [],
+    "short": "A Native American nation based at Pine Ridge.",
+    "note": "The Oglala Sioux Tribe is a sovereign tribal nation whose reservation and governmental headquarters are at Pine Ridge in South Dakota.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.oglala.gov/",
+        "label": "Oglala Sioux Tribe: official website"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-048",
+        "context": "n haunts, the ecology engineers, licensed primitives such as the Oglala Sioux or the Hell’s Angel Guild, and the occasional tourist. I had a cousin who reportedly backpacked from one observation zo"
+      }
+    ]
+  },
+  {
+    "id": "keats-wheres-the-poet",
+    "term": "Where’s the Poet?",
+    "aliases": [],
+    "short": "The opening of a poetic fragment by Keats.",
+    "note": "Keats’s fragment “Where’s the Poet? Show him! show him!” depicts a poet imaginatively entering the lives of people and animals.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://johnkeats.uvic.ca/poem_wheres_the_poet_show_him_show.html",
+        "label": "University of Victoria: Where’s the Poet?"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-095",
+        "context": "“Where’s the Poet? Show him! Show him,"
+      }
+    ]
+  },
+  {
+    "id": "keats-grecian-urn",
+    "term": "Who are these coming to the sacrifice",
+    "aliases": [
+      "To what green altar"
+    ],
+    "short": "From Keats’s Ode on a Grecian Urn.",
+    "note": "The fourth stanza of Keats’s ode describes a sacrificial procession pictured on an urn and imagines the town its people have left behind.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://poets.org/poem/ode-grecian-urn",
+        "label": "Academy of American Poets: Ode on a Grecian Urn"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-138",
+        "context": "“Who are these coming to the sacrifice?"
+      }
+    ]
+  },
+  {
+    "id": "lawrence-ship-of-death",
+    "term": "Oh build your ship of death",
+    "aliases": [],
+    "short": "From D. H. Lawrence’s The Ship of Death.",
+    "note": "Lawrence’s poem uses the building of a small ship as an image for preparing to cross into death.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://rpo.library.utoronto.ca/content/ship-death",
+        "label": "University of Toronto: The Ship of Death"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-150",
+        "context": "drink and smiled at the dark-haired woman. His lips were moist. “Oh build your ship of death,” he whispered. “Oh build it!”"
+      }
+    ]
+  },
+  {
+    "id": "keats-fall-of-hyperion",
+    "term": "Fanatics have their dreams",
+    "aliases": [
+      "Without story or prop",
+      "Then I saw a wan face",
+      "Thou art a dreaming thing"
+    ],
+    "short": "From Keats’s The Fall of Hyperion: A Dream.",
+    "note": "This unfinished dream-vision poem explores the distinction between poets and dreamers. It is a different work from Hyperion: A Fragment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://johnkeats.uvic.ca/poem_hyperion_a_dream_canto_i.html",
+        "label": "University of Victoria: The Fall of Hyperion, canto I"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-453",
+        "context": "“Without story or prop"
+      },
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-468",
+        "context": "“Then I saw a wan face"
+      },
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-961",
+        "context": "“Fanatics have their dreams, wherewith they weave"
+      }
+    ]
+  },
+  {
+    "id": "keats-day-is-gone",
+    "term": "The day is gone",
+    "aliases": [],
+    "short": "A sonnet by John Keats.",
+    "note": "Keats’s “The day is gone, and all its sweets are gone” contrasts remembered intimacy with the absence of the beloved at night.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://johnkeats.uvic.ca/poem_the_day_is_gone_and_all.html",
+        "label": "University of Victoria: The day is gone"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-1254",
+        "context": "The day is gone, and all its sweets are gone!"
+      }
+    ]
+  },
+  {
+    "id": "keats-this-living-hand",
+    "term": "This living hand",
+    "aliases": [],
+    "short": "An eight-line poetic fragment by Keats.",
+    "note": "The speaker imagines his hand cold in death, then abruptly offers the living hand to the person he addresses.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://johnkeats.uvic.ca/poem_this_living_hand_now_warm_and.html",
+        "label": "University of Victoria: This living hand"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-1269",
+        "context": "This living hand, now warm and capable"
+      }
+    ]
+  },
+  {
+    "id": "glaucous",
+    "term": "glaucous",
+    "aliases": [],
+    "short": "Pale greenish, bluish-gray, or bluish-white.",
+    "note": "A color word covering pale yellow-green and blue-gray shades; it also describes the frosted bloom on some plants.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/glaucous",
+        "label": "Merriam-Webster: glaucous"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-171",
+        "context": "a brilliant sunset. Hyperion’s sky had deepened from its daytime glaucous glare to the bottomless lapis lazuli of evening while a red-gold sun ignited cloud towers and great summits of ice and "
+      }
+    ]
+  },
+  {
+    "id": "delphic",
+    "term": "delphic",
+    "aliases": [],
+    "short": "Oracular, obscure, or ambiguous.",
+    "note": "From Delphi and its ancient oracle; used of pronouncements whose meaning is cryptic or difficult to interpret.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/delphic",
+        "label": "Merriam-Webster: delphic"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-1162",
+        "context": "turies. The AI Advisory Council to the All Thing with its vague, delphic utterances—considered so indispensable by humans—is a joke. The Core drops tidbits of revelations to the Hegemony when "
+      }
+    ]
+  },
+  {
+    "id": "luddite",
+    "term": "Luddite",
+    "aliases": [],
+    "short": "An opponent of technological change.",
+    "note": "Originally one of the English workers who destroyed machinery in early-nineteenth-century protests; later used more broadly for resistance to technology.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Luddite",
+        "label": "Merriam-Webster: Luddite"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-1207",
+        "context": "of mech corridors, abandoned access verticals swept clean by the Luddite riots eighty years ago, and a final stairway that was more rust than metal. We exited onto a delivery corridor less tha"
+      }
+    ]
+  },
+  {
+    "id": "phagocyte",
+    "term": "phagocyte",
+    "aliases": [],
+    "short": "A cell that engulfs foreign material and debris.",
+    "note": "A cell, such as a macrophage, that takes in and consumes microorganisms or damaged cellular material.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/phagocyte",
+        "label": "Merriam-Webster: phagocyte"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-279",
+        "context": "s than a second it infiltrates security systems and turns lethal phagocyte programs against the host … against the AI itself. Against me.”"
+      }
+    ]
+  },
+  {
+    "id": "piezoelectric",
+    "term": "piezoelectric",
+    "aliases": [],
+    "short": "Producing electric charge under mechanical stress.",
+    "note": "Describes materials in which pressure or deformation creates electrical polarization, as in quartz.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/piezoelectricity",
+        "label": "Merriam-Webster: piezoelectricity"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-084",
+        "context": "around Aldebaran. Bodies about as big as a cat’s spine, mostly a piezoelectric nervous system sheathed in silicon gristle, but they feed on … and manipulate … forcefields as large as those generated"
+      }
+    ]
+  },
+  {
+    "id": "topiary",
+    "term": "topiary",
+    "aliases": [],
+    "short": "Plants clipped into ornamental shapes.",
+    "note": "The shaping of trees and shrubs into decorative forms, or the plants shaped in this way.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/topiary",
+        "label": "Merriam-Webster: topiary"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-659",
+        "context": ", cutting through elaborate flower beds and kicking aside bonsai topiary. I recognized the world of Fuji and careened down the hillside, clambering uphill again through the flower beds, follow"
+      }
+    ]
+  },
+  {
+    "id": "sesquicentennial",
+    "term": "sesquicentennial",
+    "aliases": [],
+    "short": "A 150th anniversary.",
+    "note": "The anniversary or celebration marking one hundred and fifty years.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sesquicentennial",
+        "label": "Merriam-Webster: sesquicentennial"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-217",
+        "context": "have this festival every year,” Mike went on, “but this is their sesquicentennial. The party’s been going on for three weeks now and is scheduled to continue another two. There are only about a hundred"
+      }
+    ]
+  },
+  {
+    "id": "quisling",
+    "term": "quisling",
+    "aliases": [],
+    "short": "A traitor who collaborates with an occupying power.",
+    "note": "From Vidkun Quisling, the Norwegian collaborator with Nazi Germany; the surname became a general word for such a traitor.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/quisling",
+        "label": "Merriam-Webster: quisling"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-486",
+        "context": "On Old Earth they had a word for what I was—quisling. For, although Hebron was not my world, the settlers who had fled there had done so for reasons as clear as those of my"
+      }
+    ]
+  },
+  {
+    "id": "jingoists",
+    "term": "jingoists",
+    "aliases": [],
+    "short": "Aggressively nationalistic people.",
+    "note": "Advocates of belligerent nationalism, especially an assertive or warlike foreign policy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/jingoism",
+        "label": "Merriam-Webster: jingoism"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-289",
+        "context": "d Separatists of Maui-Covenant. “The usual coalition of colonial jingoists and throwbacks,” Singh had said. “Another reason we go slow and develop the world’s trade potential before finishing th"
+      }
+    ]
+  },
+  {
+    "id": "lepidopterist",
+    "term": "lepidopterist",
+    "aliases": [],
+    "short": "A specialist in butterflies and moths.",
+    "note": "Someone who studies insects of the order Lepidoptera, which includes butterflies, moths, and skippers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lepidopteran",
+        "label": "Merriam-Webster: Lepidoptera"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-181",
+        "context": " century since old Vladimir Sholokov, Old Earth emigrant, master lepidopterist, and EM systems engineer, had handcrafted the first hawking mat for his beautiful young niece on New Earth. Legend had "
+      }
+    ]
+  },
+  {
+    "id": "quadrille",
+    "term": "quadrille",
+    "aliases": [],
+    "short": "A square dance for four couples.",
+    "note": "A formal dance consisting of a sequence of figures, traditionally performed by four couples arranged in a square.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/quadrille",
+        "label": "Merriam-Webster: quadrille"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-152",
+        "context": " with bright feathers. When she removed it to join in the raceme quadrille, the torchlight caught the deep auburn tints of her hair. She was flushed, cheeks aflame, and even from across the crow"
+      }
+    ]
+  },
+  {
+    "id": "balalaika",
+    "term": "balalaika",
+    "aliases": [],
+    "short": "A triangular-bodied Russian string instrument.",
+    "note": "Usually a three-stringed instrument, played by plucking or strumming.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/balalaika",
+        "label": "Merriam-Webster: balalaika"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-026",
+        "context": "Lenar Hoyt removed a small balalaika from his pack and strummed a few chords."
+      },
+      {
+        "chapter": "hyperion-epilogue",
+        "paragraph": "p-001",
+        "context": "The Consul awoke to the sound of a balalaika being played so softly that at first he thought it was an undercurrent of his dream."
+      },
+      {
+        "chapter": "hyperion-epilogue",
+        "paragraph": "p-008",
+        "context": " instrument. The northwest wind grew stronger and colder and the balalaika played counterpart, its notes warm and alive. The Consul and the others huddled in blankets and capes as the breeze gre"
+      }
+    ]
+  },
+  {
+    "id": "dodecahedron",
+    "term": "dodecahedron",
+    "aliases": [
+      "dodecahedrons"
+    ],
+    "short": "A solid with twelve flat faces.",
+    "note": "A twelve-faced polyhedron; the name specifies the number of faces, not necessarily their equality.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dodecahedron",
+        "label": "Merriam-Webster: dodecahedron"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-456",
+        "context": "eating its shell, swallowing thirty-six thousand tons of fragile dodecahedron, and growing quickly to gobble several thousand kilometers of space around it. And that is visible—magnificently visibl"
+      }
+    ]
+  },
+  {
+    "id": "bas-relief",
+    "term": "bas-relief",
+    "aliases": [],
+    "short": "Sculpture projecting slightly from its background.",
+    "note": "Low relief, in which the modeled figures remain close to the surface behind them.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bas-relief",
+        "label": "Merriam-Webster: bas-relief"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-001",
+        "context": "s fist looking out on nothing in particular, an endless array of bas-relief, grotesque sculptures in half-hidden niches, and more than a thousand gargoyles staring down from eave and parapet, tra"
+      }
+    ]
+  },
+  {
+    "id": "zooplankton",
+    "term": "zooplankton",
+    "aliases": [],
+    "short": "Small drifting aquatic animals and similar organisms.",
+    "note": "Floating or weakly swimming organisms such as krill, copepods, and animal larvae, forming the animal component of plankton.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/zooplankton",
+        "label": "Merriam-Webster: zooplankton"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-250",
+        "context": "t they were interested in devouring nothing larger than the tiny zooplankton that even now caught the sunlight like dust in an abandoned ballroom. Keelroots descended like gnarled stalactites for "
+      }
+    ]
+  },
+  {
+    "id": "trilobites",
+    "term": "trilobites",
+    "aliases": [],
+    "short": "Extinct marine arthropods with three-lobed bodies.",
+    "note": "Paleozoic sea animals whose segmented exoskeletons have three lengthwise divisions, separated by grooves.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/trilobite",
+        "label": "Merriam-Webster: trilobite"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-346",
+        "context": "lling nets, wading knee-deep through stinking fish and crunching trilobites, wallowing over every wave, casting and pulling nets, keeping watch, and sleeping like exhausted children during our br"
+      }
+    ]
+  },
+  {
+    "id": "basso-profundo",
+    "term": "basso profundo",
+    "aliases": [],
+    "short": "An exceptionally deep bass voice.",
+    "note": "A low, weighty bass singing voice, or a singer possessing that range.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/basso%20profundo",
+        "label": "Merriam-Webster: basso profundo"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-290",
+        "context": "ral laughter and they would start again, hopping clumsily to his basso profundo chant."
+      }
+    ]
+  },
+  {
+    "id": "harlequin",
+    "term": "Harlequin",
+    "aliases": [],
+    "short": "A comic stage figure in a multicolored costume.",
+    "note": "A masked character of comedy and pantomime, traditionally dressed in variegated clothing and carrying a wooden sword.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/harlequin",
+        "label": "Merriam-Webster: harlequin"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-428",
+        "context": " brilliant and regal but merely made him look like an overweight Harlequin. “I followed the last batch of pilgrims,” he said. “And then c-c-came down from Keep Chronos to visit. I notice that yo"
+      },
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-174",
+        "context": "xcept for old flowfoam packing cubes to fill it out. Those and a Harlequin’s costume complete with mask and bells on the toes."
+      },
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-176",
+        "context": "might not be labeled a concealed weapon by ShipSecurity, another Harlequin costume—this one tailored to his more rotund form—and a hawking mat."
+      }
+    ]
+  },
+  {
+    "id": "pointillist",
+    "term": "pointillist",
+    "aliases": [],
+    "short": "A painter using small dots or strokes of color.",
+    "note": "Pointillism builds an image from small separate touches of color that blend visually at a distance.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pointillism",
+        "label": "Merriam-Webster: pointillism"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-192",
+        "context": " a distance, dissolving and scattering as one approaches, like a pointillist’s palette. The great sculpture of Sad King Billy which I had heard so much about was oddly disappointing. Seen from the"
+      }
+    ]
+  },
+  {
+    "id": "lectors",
+    "term": "lectors",
+    "aliases": [
+      "lector"
+    ],
+    "short": "Readers at religious services.",
+    "note": "People whose principal liturgical role is to read designated passages of scripture.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lector",
+        "label": "Merriam-Webster: lector"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-477",
+        "context": " Excellency,” said Sol. He noticed that the acolytes, exorcists, lectors, and ostiaries who had kept him company during the long wait had prostrated themselves on the dark tiles at the high pr"
+      },
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-502",
+        "context": "tely consistent apparition. He tapped at his desk. Exorcists and lectors appeared in the doorway, their black robes with red trim an ominous echo of the bishop. The all-black ostiaries blended"
+      },
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-505",
+        "context": "The three other exorcists came to assist with the equally brawny lectors hovering nearby. The bishop had turned his back and seemed to be staring into the darkness."
+      }
+    ]
+  },
+  {
+    "id": "act-of-contrition",
+    "term": "Act of Contrition",
+    "aliases": [],
+    "short": "A Catholic prayer expressing sorrow for sin.",
+    "note": "A prayer acknowledging wrongdoing and resolving, with divine help, to repent and amend one’s life.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.usccb.org/prayers/act-contrition",
+        "label": "USCCB: Act of Contrition"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-343",
+        "context": "g to murder me at any second. I closed my eyes and said a silent Act of Contrition. When I opened my eyes, more of the Bikura had arrived. There was a cessation of movement, as if a quorum had been fill"
+      }
+    ]
+  },
+  {
+    "id": "john-word",
+    "term": "In the beginning was the Word",
+    "aliases": [],
+    "short": "The opening of the Gospel of John.",
+    "note": "John 1 identifies the Word with God and the source of creation; verse 14 declares that the Word became flesh.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/john/1",
+        "label": "USCCB: John 1"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-024",
+        "context": "In the beginning was the Word. Then came the fucking word processor. Then came the thought processor. Then came the death of literature. And so it go"
+      },
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-036",
+        "context": "   In the beginning was the Word. And the Word was programmed in classic binary. And the Word said, “Let there be life!” And so, somewhere in the Techno"
+      },
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-410",
+        "context": "knew that. I had summoned it by beginning my epic poem about it. In the beginning was the Word."
+      }
+    ]
+  },
+  {
+    "id": "yeats-delphic-oracle",
+    "term": "Straddling each a dolphin’s back",
+    "aliases": [],
+    "short": "From Yeats’s News for the Delphic Oracle.",
+    "note": "Yeats’s poem pictures the dead riding dolphins and reliving their deaths; the quoted stanza comes from its second section.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.irishtimes.com/culture/books/my-favourite-wb-yeats-poem-mike-scott-on-news-for-the-delphic-oracle-1.2243066",
+        "label": "The Irish Times: News for the Delphic Oracle, full text"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-094",
+        "context": "“Straddling each a dolphin’s back And steadied by a fin, Those Innocents re-live their death, Their wounds open again.”"
+      }
+    ]
+  },
+  {
+    "id": "wizard-of-oz",
+    "term": "Oz",
+    "aliases": [],
+    "short": "The setting of The Wizard of Oz.",
+    "note": "The 1939 film includes the song “We’re Off to See the Wizard,” with music by Harold Arlen and words by Yip Harburg.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://lcm.loc.gov/issue/may-june-2025/the-wizard-of-oz/",
+        "label": "Library of Congress: The Wizard of Oz"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-epilogue",
+        "paragraph": "p-041",
+        "context": "“And what is Oz?” asked Lamia."
+      }
+    ]
+  },
+  {
+    "id": "argot",
+    "term": "argot",
+    "aliases": [],
+    "short": "The specialized language of a group.",
+    "note": "A vocabulary or manner of speech peculiar to a particular community, often difficult for outsiders to understand.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/argot",
+        "label": "Merriam-Webster: argot"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-250",
+        "context": "w while clusters of indigenie families sing haunting songs in an argot I have not even tried to learn. I wonder about the Bikura, still far away from here, and a strange anxiety rises in me."
+      },
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-341",
+        "context": "of archaic seedship English not so far removed from the indigene argot of the plantations. “You are the man who belongs to the cross shape/cruciform,” interpreted the comlog, giving me two c"
+      }
+    ]
+  },
+  {
+    "id": "ghee",
+    "term": "ghee",
+    "aliases": [],
+    "short": "Clarified butter, especially associated with India.",
+    "note": "Butter from which water and milk solids have been removed, leaving the fat.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ghee",
+        "label": "Merriam-Webster: ghee"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-094",
+        "context": "y splintered table and wrote my Cantos by the light of a hissing ghee lamp. Mark Twain once opined in his homey way: “The difference between the right word and the almost right word is the "
+      }
+    ]
+  },
+  {
+    "id": "simoon",
+    "term": "simoon",
+    "aliases": [
+      "simoons"
+    ],
+    "short": "A violent, dust-laden wind.",
+    "note": "Originally a hot, dry wind of the deserts of Asia and Africa, carrying sand or dust.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/simoon",
+        "label": "Merriam-Webster: simoon"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-246",
+        "context": "hovertank battle still raged and the red dust of the approaching simoon scraped and shrieked at the titanium hull. “Tell me your name,” he had whispered in Standard. She shook her head. “Are "
+      },
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-132",
+        "context": "e lighthouse horn from its slumbers. Better one of the great sea-simoons blowing up out of the cold belly of the south, lashing before it the motile isles and their dolphin herders until they "
+      },
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-349",
+        "context": "st the scarred plastic of the cockpit. “You should see it during simoon season.”"
+      }
+    ]
+  },
+  {
+    "id": "toroid",
+    "term": "toroid",
+    "aliases": [],
+    "short": "A ring-shaped surface or body.",
+    "note": "A shape generated by rotating a closed plane curve around an axis outside it; a doughnut-like solid is a familiar example.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/toroid",
+        "label": "Merriam-Webster: toroid"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-448",
+        "context": "ized that she was touching him with a bronze sphere, a dull blue toroid. His altered body spoke to him now as clearly as troops reporting in on an implant command circuit. Kassad felt the blo"
+      }
+    ]
+  },
+  {
+    "id": "triune",
+    "term": "triune",
+    "aliases": [],
+    "short": "Threefold; three combined in one.",
+    "note": "Consisting of three parts, members, or aspects united as a whole.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/triune",
+        "label": "Merriam-Webster: triune"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-588",
+        "context": "n the canyon had been, brighter than Pacem under the glow of its triune moons. The light came from a hundred sources—a thousand sources. I was able to make out the nature of these sources jus"
+      }
+    ]
+  },
+  {
+    "id": "scow",
+    "term": "scow",
+    "aliases": [
+      "scows"
+    ],
+    "short": "A broad, flat-bottomed boat.",
+    "note": "A boat with wide, square ends, commonly used to transport heavy or bulky material.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/scow",
+        "label": "Merriam-Webster: scow"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-148",
+        "context": "ub, referring to the android who had been their guide. “This old scow has quite a history.”"
+      },
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-223",
+        "context": "s year that hasn’t been total garbage. Well, I’m getting off the scow.”"
+      },
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-345",
+        "context": " boats, homely and awkward, well maintained but little more than scows."
+      }
+    ]
+  },
+  {
+    "id": "bowline",
+    "term": "bowline",
+    "aliases": [],
+    "short": "A knot forming a fixed loop.",
+    "note": "A knot used to make a loop at the end of a rope, familiar in sailing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bowline",
+        "label": "Merriam-Webster: bowline"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-343",
+        "context": "tie off. Siri shook her head in disgust and leaned over to tie a bowline knot with one hand."
+      }
+    ]
+  },
+  {
+    "id": "apse",
+    "term": "apse",
+    "aliases": [],
+    "short": "A vaulted recess, often at the end of a church.",
+    "note": "A projecting or recessed part of a building, usually semicircular in plan and roofed with a vault.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/apse",
+        "label": "Merriam-Webster: apse"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-503",
+        "context": "he Worlds is in assembly every forty-three years. In the central apse near our copy of Bernini’s Throne of St. Peter, the great dome rises more than a hundred and thirty meters above the fl"
+      }
+    ]
+  },
+  {
+    "id": "nave",
+    "term": "nave",
+    "aliases": [],
+    "short": "The central main space of a church.",
+    "note": "The principal interior hall, often flanked by lower side aisles.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/nave",
+        "label": "Merriam-Webster: nave"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-200",
+        "context": "ed through the latticework of shadows and fallen blocks into the nave. The bishopric on Pacem had not mentioned any history of Catholicism on Hyperion, much less the presence of a cathedral"
+      },
+      {
+        "chapter": "hyperion-01",
+        "paragraph": "p-203",
+        "context": ". I moved quickly but when I reached the sheltered corner of the nave she was gone. A small door led to the crumbling chapter house and the riverbank. There was no sight of her. I returned "
+      }
+    ]
+  },
+  {
+    "id": "bivouac",
+    "term": "bivouac",
+    "aliases": [],
+    "short": "A temporary camp with little or no shelter.",
+    "note": "An overnight or short-term encampment, especially one made without substantial tents or buildings.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bivouac",
+        "label": "Merriam-Webster: bivouac"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-260",
+        "context": "ing full well how it would read on a psych report. Sometimes, on bivouac under multiple moons or in the womblike zero-g of a troop transport hold, Kassad would realize how insane his love affa"
+      }
+    ]
+  },
+  {
+    "id": "caftan",
+    "term": "caftan",
+    "aliases": [],
+    "short": "A loose, long robe.",
+    "note": "A long-sleeved garment, commonly of cotton or silk and traditionally worn in the Middle East.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/caftan",
+        "label": "Merriam-Webster: caftan"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-245",
+        "context": " or just sit there staring?” asked Siri. She had slipped off her caftan as we came out onto the lowest deck. Our small ship was still tied to the dock. Above us, the island’s treesails were b"
+      },
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-247",
+        "context": "t film made her face look slick with oil. From the pocket of her caftan she lifted a thick medallion and set it in place around her neck. The metal looked dark and ominous against her skin."
+      }
+    ]
+  },
+  {
+    "id": "missal",
+    "term": "missal",
+    "aliases": [],
+    "short": "A book of texts for the Mass.",
+    "note": "A liturgical book containing the prayers and other words said or sung at Mass throughout the year.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/missal",
+        "label": "Merriam-Webster: missal"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-1266",
+        "context": "But, as I’ve read love’s missal through today,"
+      }
+    ]
+  },
+  {
+    "id": "moroni",
+    "term": "Moroni",
+    "aliases": [],
+    "short": "An angel associated with the Book of Mormon.",
+    "note": "In Latter-day Saint belief, Moroni directed Joseph Smith to the gold plates from which Smith translated the Book of Mormon.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.churchofjesuschrist.org/study/history/topics/gold-plates?lang=eng",
+        "label": "Church of Jesus Christ: Gold Plates"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-393",
+        "context": "“Yeah. He’s Michael the Archangel and Moroni and Satan and Masked Entropy and the Frankenstein monster all rolled into one package,” I said. “He hangs around the Ti"
+      }
+    ]
+  },
+  {
+    "id": "michael-archangel",
+    "term": "Michael the Archangel",
+    "aliases": [],
+    "short": "The biblical angelic warrior.",
+    "note": "In Revelation 12, Michael leads his angels against the dragon identified as Satan.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/revelation/12",
+        "label": "USCCB: Revelation 12"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-393",
+        "context": "“Yeah. He’s Michael the Archangel and Moroni and Satan and Masked Entropy and the Frankenstein monster all rolled into one package,” I said. “He hangs ar"
+      }
+    ]
+  },
+  {
+    "id": "huck-and-jim",
+    "term": "Huck and Jim",
+    "aliases": [],
+    "short": "The raft companions in Twain’s Huckleberry Finn.",
+    "note": "Huckleberry Finn and Jim, a man escaping slavery, travel together down the Mississippi in Mark Twain’s Adventures of Huckleberry Finn.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/76/pg76-images.html",
+        "label": "Mark Twain: Adventures of Huckleberry Finn"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-035",
+        "context": "lum. Haven’t you ever harbored the secret thought that somewhere Huck and Jim are—at this instant—poling their raft down some river just beyond our reach, so much more real are they than the shoe c"
+      }
+    ]
+  },
+  {
+    "id": "diaspora",
+    "term": "diaspora",
+    "aliases": [],
+    "short": "A people’s dispersal beyond an ancestral homeland.",
+    "note": "The scattering of a population and the communities established elsewhere; historically especially associated with Jewish communities outside their ancestral homeland.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/diaspora",
+        "label": "Merriam-Webster: diaspora"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-253",
+        "context": " Nuclear Jihad of 2038 wiped it all away. Then came their second Diaspora, this one lasting five centuries and leading to dead-end desert worlds like Mars, their dream buried with the death of "
+      },
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-199",
+        "context": "y destroying the Earth a second time in the way He did. And this Diaspora is … forever.”"
+      },
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-732",
+        "context": "nia had not ended with the death of Old Earth … nor with the new Diaspora … but continued still. He and Rachel and Sarai had been part of it, were part of it now. He let the pain come. It fille"
+      }
+    ]
+  },
+  {
+    "id": "mullahs",
+    "term": "mullahs",
+    "aliases": [],
+    "short": "Muslim religious scholars or clerics.",
+    "note": "An honorific for learned Muslims, particularly those trained in Islamic law and religious teaching.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mullah",
+        "label": "Merriam-Webster: mullah"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-270",
+        "context": "ey did not have an active datasphere. Nor were the revolutionary mullahs who had led the invasion so opposed to the “Great Satan of Hegemony Science” that they refused to tie into the global d"
+      },
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-271",
+        "context": "entified sixteen thousand eight hundred and thirty revolutionary mullahs by their access codes. At 1729:30 hours the spysats began feeding their real-time targeting data to the twenty-one peri"
+      },
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-272",
+        "context": "all of the targeting beams penetrated whatever stood between the mullahs and the sky. Fifteen thousand seven hundred and eighty-four did."
+      }
+    ]
+  },
+  {
+    "id": "hasidic",
+    "term": "Hasidic",
+    "aliases": [],
+    "short": "Relating to a mystical movement within Judaism.",
+    "note": "Modern Hasidism arose in eighteenth-century Eastern Europe and emphasizes religious devotion and mystical teachings.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Hasidic",
+        "label": "Merriam-Webster: Hasidic"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-04",
+        "paragraph": "p-201",
+        "context": "solated areas of the Concourse you can find entire communities … Hasidic, Orthodox, Hasmonean, you name it … but they tend to be … nonvital, picturesque … tourist-oriented.”"
+      }
+    ]
+  },
+  {
+    "id": "shiites",
+    "term": "Shi’ites",
+    "aliases": [],
+    "short": "Adherents of Shia Islam.",
+    "note": "Muslims of the Shia traditions, which recognize Ali and the imams of his line as the rightful successors to Muhammad.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Shia",
+        "label": "Merriam-Webster: Shia"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-264",
+        "context": "call when the New Prophet chose to lead thirty million New Order Shi’ites against two continents of Suni shopkeepers and ninety thousand resident Hegemony infidels. The ship’s captain and five "
+      },
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-266",
+        "context": "im. He also announced that interpretation of the Koran since the Shi’ites’ seedship days had definitely shown that the God of Islam would neither condone nor allow the slaughter of the innocent"
+      }
+    ]
+  },
+  {
+    "id": "sunni",
+    "term": "Suni",
+    "aliases": [
+      "Sunis"
+    ],
+    "short": "Sunni Muslim.",
+    "note": "Sunni Islam recognizes the first four caliphs as rightful successors to Muhammad. Sunni is the usual modern spelling.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Sunni",
+        "label": "Merriam-Webster: Sunni"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-264",
+        "context": "lead thirty million New Order Shi’ites against two continents of Suni shopkeepers and ninety thousand resident Hegemony infidels. The ship’s captain and five of his executive officers were "
+      },
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-267",
+        "context": "sputes and it was estimated that at least a quarter of a million Sunis had been slaughtered in the first two days of the New Prophet’s occupation. In response to Kassad’s ultimatum, the New "
+      }
+    ]
+  },
+  {
+    "id": "rococo",
+    "term": "rococo",
+    "aliases": [],
+    "short": "An ornate style of curved, asymmetric decoration.",
+    "note": "An eighteenth-century artistic style associated with elaborate ornament, fanciful curves, and light, intricate interior decoration.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/rococo",
+        "label": "Merriam-Webster: rococo"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-149",
+        "context": "of humping. I’d say it’s several centuries old. The carvings and rococo finishes are fucking marvelous. Did you notice that under all the other scents the inlaid wood still smells of sandalwo"
+      }
+    ]
+  },
+  {
+    "id": "prussian",
+    "term": "Prussian",
+    "aliases": [],
+    "short": "Relating to the former kingdom of Prussia.",
+    "note": "Prussia was the state whose king, Wilhelm I, became emperor when the German Empire was established in 1871.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dhm.de/en/exhibitions/permanent-exhibition/the-german-empire-and-the-first-world-war/",
+        "label": "German Historical Museum: the German Empire"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-490",
+        "context": "before I arrived. Their society was archaically and delightfully Prussian, militaristic to a fault, arrogant in their economic pretensions, xenophobic to the point of happily enlisting to wipe "
+      }
+    ]
+  },
+  {
+    "id": "visigoths",
+    "term": "Visigoths",
+    "aliases": [],
+    "short": "Gothic groups associated with the sack of Rome in 410.",
+    "note": "Alaric’s Visigoths captured Rome in 410 CE; they later established a kingdom in Spain.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.worldhistory.org/visigoth/",
+        "label": "World History Encyclopedia: Visigoths"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-504",
+        "context": " call them, while all the while we timidly cling to our Web like Visigoths crouching in the ruins of Rome’s faded glory and proclaim ourselves civilized."
       }
     ]
   }
