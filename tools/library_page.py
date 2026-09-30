@@ -58,8 +58,8 @@ def render_library(root=ROOT, library=None):
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow,noarchive">
 <title>Readers</title>
-<script src="assets/theme/theme.js?v=theme-20260930-home"></script>
-<link rel="stylesheet" href="assets/theme/base.css?v=theme-20260930-home">
+<script src="assets/theme/theme.js?v=theme-20260930-home2"></script>
+<link rel="stylesheet" href="assets/theme/base.css?v=theme-20260930-home2">
 <link rel="stylesheet" href="assets/library.css?v=library-20260930-nav">
 <link rel="icon" href="assets/theme/favicons/readers.png">
 <script defer src="assets/retire-offline.js"></script>

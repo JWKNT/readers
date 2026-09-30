@@ -8,7 +8,8 @@ and print hiding are vendored locally; existing Readers typography is preserved.
 
 On narrow enhanced readers, the existing Home navigation moves between Contents
 and Search in the bottom toolbar. Desktop restores that same element to its
-standalone fixed corner. The toolbar is enabled only after reader JavaScript
+standalone fixed corner. Other narrow pages give Home a shallow bottom strip
+so it does not sit over the end of a text line or field. The toolbar is enabled only after reader JavaScript
 wires it, leaving the standalone native Home visible without JavaScript. There
 is no second Home or extra toolbar. Appearance controls still scroll with the
 page.

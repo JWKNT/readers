@@ -11,7 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 HOME = ('<nav class="site-home-dock" aria-label="Site"><a class="site-home" '
         'href="https://jehlp.net/" aria-label="Home · jehlp.net" '
         'title="Home · jehlp.net"><span aria-hidden="true">⌂</span></a></nav>')
-THEME_VERSION = 'theme-20260930-home'
+THEME_VERSION = 'theme-20260930-home2'
 
 
 class HomeNavigation(unittest.TestCase):
@@ -73,6 +73,8 @@ class HomeNavigation(unittest.TestCase):
         css = (ROOT / 'assets/theme/base.css').read_text()
         self.assertTrue((ROOT / 'assets/theme/icons/home.svg').is_file())
         self.assertIn('mask: url("icons/home.svg")', css)
+        self.assertIn('min-height: calc(3.5rem + env(safe-area-inset-bottom, 0px))', css)
+        self.assertIn('padding: .375rem max(.75rem, env(safe-area-inset-right, 0px))', css)
         self.assertIn('min-width: 44px', css)
         self.assertIn('min-height: 44px', css)
         self.assertIn('body:has(.site-home)::after { display: none; }', css)
