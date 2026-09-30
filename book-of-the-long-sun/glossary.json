@@ -231,11 +231,11 @@
       }
     ],
     "short": "An open South American grassland.",
-    "occurrences": 2,
+    "occurrences": 1,
     "first": {
-      "chapter": "nightside-02",
-      "paragraph": "p-003",
-      "index": 1
+      "chapter": "nightside-06",
+      "paragraph": "p-001",
+      "index": 5
     }
   },
   {
@@ -331,17 +331,18 @@
     "term": "baculus",
     "aliases": [
       "baculus",
-      "baculi"
+      "baculi",
+      "bacculus"
     ],
     "note": "A staff carried as an emblem of office, especially a bishop’s pastoral staff.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/baculus",
-        "label": "Merriam-Webster"
+        "label": "Merriam-Webster: baculus"
       }
     ],
     "short": "A staff or rod.",
-    "occurrences": 13,
+    "occurrences": 14,
     "first": {
       "chapter": "nightside-02",
       "paragraph": "p-095",
@@ -558,8 +559,8 @@
       "Patera",
       "Pateras"
     ],
-    "occurrences": 1619,
     "possible": true,
+    "occurrences": 1619,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-001",
@@ -581,8 +582,8 @@
       "Maytera",
       "Mayteras"
     ],
-    "occurrences": 1439,
     "possible": true,
+    "occurrences": 1439,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-001",
@@ -669,8 +670,8 @@
       "azoth",
       "azoths"
     ],
-    "occurrences": 145,
     "possible": false,
+    "occurrences": 145,
     "first": {
       "chapter": "nightside-06",
       "paragraph": "p-142",
@@ -737,8 +738,8 @@
       "prolocutors",
       "Proloctor"
     ],
-    "occurrences": 95,
     "possible": false,
+    "occurrences": 95,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-149",
@@ -1018,8 +1019,8 @@
       "talus",
       "taluses"
     ],
-    "occurrences": 209,
     "possible": true,
+    "occurrences": 209,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-157",
@@ -1128,8 +1129,8 @@
     "aliases": [
       "Chenille"
     ],
-    "occurrences": 611,
     "possible": false,
+    "occurrences": 611,
     "first": {
       "chapter": "nightside-03",
       "paragraph": "p-213",
@@ -1298,8 +1299,8 @@
       "Gelada",
       "Galada"
     ],
-    "occurrences": 32,
     "possible": false,
+    "occurrences": 32,
     "first": {
       "chapter": "calde-03",
       "paragraph": "p-342",
@@ -2078,8 +2079,8 @@
     "aliases": [
       "Mucor"
     ],
-    "occurrences": 198,
     "possible": false,
+    "occurrences": 198,
     "first": {
       "chapter": "nightside-05",
       "paragraph": "p-056",
@@ -3246,8 +3247,8 @@
     "aliases": [
       "Silk"
     ],
-    "occurrences": 3511,
     "possible": false,
+    "occurrences": 3511,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-001",
@@ -3268,8 +3269,8 @@
     "aliases": [
       "Horn"
     ],
-    "occurrences": 295,
     "possible": false,
+    "occurrences": 295,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-001",
@@ -3290,8 +3291,8 @@
     "aliases": [
       "Villus"
     ],
-    "occurrences": 42,
     "possible": false,
+    "occurrences": 42,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-019",
@@ -3312,8 +3313,8 @@
     "aliases": [
       "Nettle"
     ],
-    "occurrences": 127,
     "possible": false,
+    "occurrences": 127,
     "first": {
       "chapter": "lake-01",
       "paragraph": "p-117",
@@ -3338,8 +3339,8 @@
     "aliases": [
       "Hyacinth"
     ],
-    "occurrences": 406,
     "possible": false,
+    "occurrences": 406,
     "first": {
       "chapter": "nightside-06",
       "paragraph": "p-194",
@@ -3360,8 +3361,8 @@
     "aliases": [
       "Marble"
     ],
-    "occurrences": 491,
     "possible": false,
+    "occurrences": 491,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-001",
@@ -3382,8 +3383,8 @@
     "aliases": [
       "Pike"
     ],
-    "occurrences": 96,
     "possible": false,
+    "occurrences": 96,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-003",
@@ -3404,8 +3405,8 @@
     "aliases": [
       "Musk"
     ],
-    "occurrences": 306,
     "possible": false,
+    "occurrences": 306,
     "first": {
       "chapter": "nightside-03",
       "paragraph": "p-269",
@@ -3430,8 +3431,8 @@
     "aliases": [
       "Mint"
     ],
-    "occurrences": 580,
     "possible": false,
+    "occurrences": 580,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-007",
@@ -3452,8 +3453,8 @@
     "aliases": [
       "Rose"
     ],
-    "occurrences": 152,
     "possible": false,
+    "occurrences": 152,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-001",
@@ -3474,8 +3475,8 @@
     "aliases": [
       "Sinew"
     ],
-    "occurrences": 2,
     "possible": false,
+    "occurrences": 2,
     "first": {
       "chapter": "exodus-afterward",
       "paragraph": "p-002",
@@ -3539,8 +3540,8 @@
     "aliases": [
       "Limna"
     ],
-    "occurrences": 90,
     "possible": true,
+    "occurrences": 90,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-007",
@@ -3564,8 +3565,8 @@
       "Caldés",
       "caldés"
     ],
-    "occurrences": 772,
     "possible": true,
+    "occurrences": 772,
     "first": {
       "chapter": "nightside-03",
       "paragraph": "p-123",
@@ -3589,8 +3590,8 @@
       "Whorl",
       "Whorls"
     ],
-    "occurrences": 232,
     "possible": false,
+    "occurrences": 232,
     "first": {
       "chapter": "nightside-01",
       "paragraph": "p-008",
@@ -5626,17 +5627,22 @@
     "term": "calotte",
     "aliases": [
       "calotte",
-      "calottes"
+      "calottes",
+      "calot"
     ],
-    "note": "A low, rounded dome with a shallow, cap-shaped profile.",
+    "note": "A small brimless cap, especially a skullcap worn by clergy.",
     "sources": [
       {
-        "label": "Dome · saucer dome",
-        "url": "https://en.wikipedia.org/wiki/Dome#Saucer_dome"
+        "url": "https://www.merriam-webster.com/dictionary/calotte",
+        "label": "Merriam-Webster: calotte"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/calot",
+        "label": "Merriam-Webster: calot"
       }
     ],
-    "short": "A shallow, cap-shaped dome.",
-    "occurrences": 6,
+    "short": "A small, close-fitting cap.",
+    "occurrences": 7,
     "first": {
       "chapter": "nightside-03",
       "paragraph": "p-109",
@@ -6564,18 +6570,19 @@
     "id": "snaffle",
     "term": "snaffle",
     "aliases": [
-      "snaffle"
+      "snaffle",
+      "snaffled"
     ],
     "short": "To obtain by stealth or irregular means.",
     "note": "An informal verb meaning to seize, pilfer, or acquire something by devious means.",
     "possible": false,
     "sources": [
       {
-        "label": "Merriam-Webster · snaffle",
-        "url": "https://www.merriam-webster.com/dictionary/snaffle"
+        "url": "https://www.merriam-webster.com/dictionary/snaffle",
+        "label": "Merriam-Webster: snaffle"
       }
     ],
-    "occurrences": 1,
+    "occurrences": 2,
     "first": {
       "chapter": "lake-03",
       "paragraph": "p-187",
@@ -6996,6 +7003,3945 @@
       "chapter": "lake-10",
       "paragraph": "p-137",
       "index": 22
+    }
+  },
+  {
+    "id": "abat-jour",
+    "term": "abatjour",
+    "aliases": [],
+    "short": "A skylight admitting light from above.",
+    "note": "An architectural opening that directs daylight downward, especially a skylight. The French name literally means striking down the daylight.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/abat-jour",
+        "label": "Merriam-Webster: abat-jour"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "nightside-05",
+      "paragraph": "p-011",
+      "index": 4
+    }
+  },
+  {
+    "id": "acolyte",
+    "term": "acolyte",
+    "aliases": [
+      "acolytes"
+    ],
+    "short": "An assistant to a priest in religious services.",
+    "note": "A person performing minor duties in a religious service; more broadly, an attendant or disciple.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/acolyte",
+        "label": "Merriam-Webster: acolyte"
+      }
+    ],
+    "occurrences": 17,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-060",
+      "index": 1
+    }
+  },
+  {
+    "id": "adjuration",
+    "term": "adjuration",
+    "aliases": [],
+    "short": "An earnest appeal or solemn urging.",
+    "note": "An urgent, serious request or piece of advice; the word can also denote a solemn oath.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/adjuration",
+        "label": "Merriam-Webster: adjuration"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-05",
+      "paragraph": "p-488",
+      "index": 30
+    }
+  },
+  {
+    "id": "adjutant",
+    "term": "adjutant",
+    "aliases": [],
+    "short": "An officer assisting a commander.",
+    "note": "A military staff officer whose work includes administrative duties and correspondence; more generally, a helper or deputy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/adjutant",
+        "label": "Merriam-Webster: adjutant"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "lake-04",
+      "paragraph": "p-038",
+      "index": 16
+    }
+  },
+  {
+    "id": "alabaster",
+    "term": "alabaster",
+    "aliases": [],
+    "short": "A pale, fine-grained stone used for carving.",
+    "note": "Usually a fine-textured, translucent form of gypsum used for ornaments and sculpture. The name is also applied to certain calcite stones.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/alabaster",
+        "label": "Merriam-Webster: alabaster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-10",
+      "paragraph": "p-299",
+      "index": 35
+    }
+  },
+  {
+    "id": "amphora",
+    "term": "amphorae",
+    "aliases": [
+      "amphora"
+    ],
+    "short": "Two-handled jars with narrow necks.",
+    "note": "Amphorae is the plural of amphora, a jar or vase with an oval body, narrow neck, and two handles, familiar from the ancient Mediterranean.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/amphora",
+        "label": "Merriam-Webster: amphora"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-06",
+      "paragraph": "p-031",
+      "index": 5
+    }
+  },
+  {
+    "id": "ampule",
+    "term": "ampule",
+    "aliases": [],
+    "short": "A small sealed vial, often holding medicine.",
+    "note": "A small glass vessel sealed to preserve its contents, especially a solution intended for injection. Also spelled ampoule.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ampule",
+        "label": "Merriam-Webster: ampule"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-09",
+      "paragraph": "p-073",
+      "index": 8
+    }
+  },
+  {
+    "id": "anise",
+    "term": "anise",
+    "aliases": [],
+    "short": "An aromatic herb grown for its seeds.",
+    "note": "Pimpinella anisum, an annual plant of the carrot family with strongly aromatic seeds.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/anise",
+        "label": "Merriam-Webster: anise"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-002",
+      "index": 1
+    }
+  },
+  {
+    "id": "apposite",
+    "term": "apposite",
+    "aliases": [],
+    "short": "Especially apt or appropriate.",
+    "note": "Well suited to the subject or circumstances; directly relevant.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/apposite",
+        "label": "Merriam-Webster: apposite"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-11",
+      "paragraph": "p-115",
+      "index": 10
+    }
+  },
+  {
+    "id": "aquiline",
+    "term": "aquiline",
+    "aliases": [],
+    "short": "Curved like an eagle’s beak.",
+    "note": "Describes a prominent, curved nose or another shape resembling an eagle’s beak.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/aquiline",
+        "label": "Merriam-Webster: aquiline"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-12",
+      "paragraph": "p-038",
+      "index": 24
+    }
+  },
+  {
+    "id": "arrack",
+    "term": "arrack",
+    "aliases": [],
+    "short": "A strong distilled Asian spirit.",
+    "note": "An alcoholic spirit made in parts of Asia from fermented materials such as rice, palm sap, or molasses.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/arrack",
+        "label": "Merriam-Webster: arrack"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-06",
+      "paragraph": "p-169",
+      "index": 18
+    }
+  },
+  {
+    "id": "arrowroot",
+    "term": "arrowroot",
+    "aliases": [],
+    "short": "A tropical plant yielding edible starch.",
+    "note": "Plants of the genus Maranta, especially M. arundinacea, whose underground parts yield a starch used in food.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/arrowroot",
+        "label": "Merriam-Webster: arrowroot"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-001",
+      "index": 1
+    }
+  },
+  {
+    "id": "asperge",
+    "term": "asperged",
+    "aliases": [],
+    "short": "Sprinkled, especially in a religious rite.",
+    "note": "To sprinkle, particularly with holy water.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/asperge",
+        "label": "Merriam-Webster: asperge"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-09",
+      "paragraph": "p-006",
+      "index": 34
+    }
+  },
+  {
+    "id": "asseverate",
+    "term": "asseverating",
+    "aliases": [],
+    "short": "Declaring firmly or solemnly.",
+    "note": "To assert something positively and with earnest emphasis.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/asseverate",
+        "label": "Merriam-Webster: asseverate"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-015",
+      "index": 42
+    }
+  },
+  {
+    "id": "assiduity",
+    "term": "assiduity",
+    "aliases": [],
+    "short": "Persistent care and diligence.",
+    "note": "Steady, attentive application to a task or duty.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/assiduity",
+        "label": "Merriam-Webster: assiduity"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-10",
+      "paragraph": "p-072",
+      "index": 46
+    }
+  },
+  {
+    "id": "bagatelle",
+    "term": "bagatelle",
+    "aliases": [],
+    "short": "A game in which balls are sent into scoring areas.",
+    "note": "A name for several table games involving balls rolled toward holes or other targets. It can also mean a trifle or a short, light musical piece.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bagatelle",
+        "label": "Merriam-Webster: bagatelle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-07",
+      "paragraph": "p-175",
+      "index": 6
+    }
+  },
+  {
+    "id": "bailiwick",
+    "term": "bailiwick",
+    "aliases": [],
+    "short": "A person’s special field or province.",
+    "note": "Originally a bailiff’s jurisdiction; by extension, an area in which someone has authority or expertise.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bailiwick",
+        "label": "Merriam-Webster: bailiwick"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-11",
+      "paragraph": "p-228",
+      "index": 23
+    }
+  },
+  {
+    "id": "bandolier",
+    "term": "bandoliers",
+    "aliases": [
+      "bandolier"
+    ],
+    "short": "Belts worn across the chest to carry ammunition.",
+    "note": "A belt passing over one shoulder and across the body, commonly fitted to hold cartridges or other equipment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bandolier",
+        "label": "Merriam-Webster: bandolier"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-097",
+      "index": 42
+    }
+  },
+  {
+    "id": "benison",
+    "term": "benison",
+    "aliases": [],
+    "short": "A blessing.",
+    "note": "A benediction or expression of blessing; an older literary word.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/benison",
+        "label": "Merriam-Webster: benison"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-09",
+      "paragraph": "p-036",
+      "index": 34
+    }
+  },
+  {
+    "id": "betimes",
+    "term": "betimes",
+    "aliases": [],
+    "short": "At times; occasionally.",
+    "note": "Betimes can mean early or in good time, but also occasionally or from time to time.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/betimes",
+        "label": "Merriam-Webster: betimes"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-01",
+      "paragraph": "p-047",
+      "index": 37
+    }
+  },
+  {
+    "id": "blowsy",
+    "term": "blowsy",
+    "aliases": [],
+    "short": "Untidy or coarse in appearance.",
+    "note": "Slovenly or disheveled; also coarse and ruddy in complexion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/blowsy",
+        "label": "Merriam-Webster: blowsy"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-10",
+      "paragraph": "p-008",
+      "index": 9
+    }
+  },
+  {
+    "id": "borage",
+    "term": "borage",
+    "aliases": [],
+    "short": "A bristly herb with blue, star-shaped flowers.",
+    "note": "Borago officinalis, an annual European herb whose leaves have been used as food and in traditional herbal medicine.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/borage",
+        "label": "Merriam-Webster: borage"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-002",
+      "index": 1
+    }
+  },
+  {
+    "id": "brackish",
+    "term": "brackish",
+    "aliases": [],
+    "short": "Somewhat salty.",
+    "note": "Describes water containing salt in a lower concentration than ordinary seawater, often through mixing salt and fresh water.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/brackish",
+        "label": "Merriam-Webster: brackish"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-01",
+      "paragraph": "p-301",
+      "index": 37
+    }
+  },
+  {
+    "id": "bulbul",
+    "term": "bulbul",
+    "aliases": [],
+    "short": "A songbird of Africa or Asia.",
+    "note": "A bird of the family Pycnonotidae; in Persian poetry, the name also denotes a singing bird commonly understood as the nightingale.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bulbul",
+        "label": "Merriam-Webster: bulbul"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-094",
+      "index": 1
+    }
+  },
+  {
+    "id": "cadent",
+    "term": "cadent",
+    "aliases": [],
+    "short": "Rhythmic or marked by a regular cadence.",
+    "note": "Having a measured rhythm or beat. An older sense is falling or descending.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cadent",
+        "label": "Merriam-Webster: cadent"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-16",
+      "paragraph": "p-241",
+      "index": 52
+    }
+  },
+  {
+    "id": "caesura",
+    "term": "caesura",
+    "aliases": [],
+    "short": "A pause, break, or interruption.",
+    "note": "A pause within a line of verse or musical phrase; by extension, a break in a sequence or period of continuity.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/caesura",
+        "label": "Merriam-Webster: caesura"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "calde-05",
+      "paragraph": "p-133",
+      "index": 30
+    }
+  },
+  {
+    "id": "cantonment",
+    "term": "cantonment",
+    "aliases": [],
+    "short": "Military quarters or an encampment.",
+    "note": "A place where troops are housed, often in temporary quarters; the word can also name a permanent military station.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cantonment",
+        "label": "Merriam-Webster: cantonment"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-01",
+      "paragraph": "p-081",
+      "index": 26
+    }
+  },
+  {
+    "id": "gammadion",
+    "term": "gammadion",
+    "aliases": [
+      "gammadions"
+    ],
+    "short": "A cross formed from four Greek capital gammas.",
+    "note": "A cross-shaped design made from four capital Greek gamma shapes. These may form a swastika or the outline of a hollow Greek cross.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gammadion",
+        "label": "Merriam-Webster: gammadion"
+      }
+    ],
+    "occurrences": 24,
+    "first": {
+      "chapter": "nightside-07",
+      "paragraph": "p-058",
+      "index": 6
+    }
+  },
+  {
+    "id": "aeneid-consolation",
+    "term": "neque enim ignari sumus ante malorum",
+    "aliases": [],
+    "short": "Adapted from Virgil’s Aeneid, Book 1.",
+    "note": "Aeneid 1.198–199: Aeneas reminds his companions that they have endured previous suffering and assures them that a god will bring these troubles to an end. The Latin here replaces his address to his companions with “sister,” and deus, “god,” with Pas.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dcc.dickinson.edu/vergil-aeneid/vergil-aeneid-i-198-207",
+        "label": "Dickinson College Commentaries: Aeneid 1.198–207"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-01",
+      "paragraph": "p-158",
+      "index": 37
+    }
+  },
+  {
+    "id": "attorn",
+    "term": "attorned",
+    "aliases": [],
+    "short": "Transferred or assigned to another.",
+    "note": "An older transitive sense of attorn is to turn something over to another person. In legal usage it also means acknowledging a new landlord.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/attorn",
+        "label": "Collins English Dictionary: attorn"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-03",
+      "paragraph": "p-145",
+      "index": 39
+    }
+  },
+  {
+    "id": "carbuncle",
+    "term": "carbuncle",
+    "aliases": [],
+    "short": "An old name for a red gemstone.",
+    "note": "A red precious stone, especially a garnet polished into a rounded shape rather than cut with facets.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carbuncle",
+        "label": "Merriam-Webster: carbuncle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-07",
+      "paragraph": "p-067",
+      "index": 19
+    }
+  },
+  {
+    "id": "cardamom",
+    "term": "cardamom",
+    "aliases": [],
+    "short": "An aromatic spice from a plant of the ginger family.",
+    "note": "The seed-bearing fruit of Elettaria cardamomum, an Indian plant whose aromatic seeds are used as a spice; also the plant itself.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cardamom",
+        "label": "Merriam-Webster: cardamom"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-002",
+      "index": 1
+    }
+  },
+  {
+    "id": "casement",
+    "term": "casement",
+    "aliases": [
+      "casements"
+    ],
+    "short": "A window opening on side hinges.",
+    "note": "A window, or its movable frame, hung on hinges along one side.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/casement",
+        "label": "Merriam-Webster: casement"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "nightside-04",
+      "paragraph": "p-148",
+      "index": 3
+    }
+  },
+  {
+    "id": "catgut",
+    "term": "catgut",
+    "aliases": [],
+    "short": "Tough cord made from animal intestine.",
+    "note": "A strong material traditionally made from the intestines of sheep or other animals.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/catgut",
+        "label": "Merriam-Webster: catgut"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-05",
+      "paragraph": "p-017",
+      "index": 17
+    }
+  },
+  {
+    "id": "cerulean",
+    "term": "cerulean",
+    "aliases": [],
+    "short": "Sky-blue.",
+    "note": "A clear blue color resembling the sky.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cerulean",
+        "label": "Merriam-Webster: cerulean"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-01",
+      "paragraph": "p-189",
+      "index": 26
+    }
+  },
+  {
+    "id": "chamois",
+    "term": "chamois",
+    "aliases": [],
+    "short": "Soft, pliable leather.",
+    "note": "A supple leather originally made from the hide of the chamois, a goatlike mountain animal, and also made from sheepskin. The name can also denote an imitation fabric.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chamois",
+        "label": "Merriam-Webster: chamois"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-09",
+      "paragraph": "p-124",
+      "index": 8
+    }
+  },
+  {
+    "id": "chemise",
+    "term": "chemise",
+    "aliases": [
+      "chemises"
+    ],
+    "short": "A woman’s loose, one-piece undergarment.",
+    "note": "A simple garment worn next to the skin; the word also names a loose, straight-hanging dress.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chemise",
+        "label": "Merriam-Webster: chemise"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "nightside-10",
+      "paragraph": "p-077",
+      "index": 9
+    }
+  },
+  {
+    "id": "chryselephantine",
+    "term": "chryselephantine",
+    "aliases": [],
+    "short": "Made or ornamented with gold and ivory.",
+    "note": "Describes objects combining gold and ivory, as in some ancient Greek statues.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/chryselephantine",
+        "label": "Merriam-Webster: chryselephantine"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-06",
+      "paragraph": "p-033",
+      "index": 5
+    }
+  },
+  {
+    "id": "cicely",
+    "term": "cicely",
+    "aliases": [],
+    "short": "An herb of the carrot family.",
+    "note": "A name for herbs in the genera Myrrhis and Osmorhiza, including those known as sweet cicely.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cicely",
+        "label": "Merriam-Webster: cicely"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-002",
+      "index": 1
+    }
+  },
+  {
+    "id": "clinker-built",
+    "term": "clinker-laid",
+    "aliases": [],
+    "short": "Built with overlapping planks.",
+    "note": "Clinker construction uses planks whose edges overlap, rather than meeting edge to edge.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/clinker-built",
+        "label": "Merriam-Webster: clinker-built"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-14",
+      "paragraph": "p-308",
+      "index": 50
+    }
+  },
+  {
+    "id": "close-hauled",
+    "term": "close-hauled",
+    "aliases": [],
+    "short": "Sailing as near into the wind as possible.",
+    "note": "Describes a vessel with its sails drawn in to travel as close to the wind’s direction as it can.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/close-hauled",
+        "label": "Merriam-Webster: close-hauled"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "calde-04",
+      "paragraph": "p-057",
+      "index": 29
+    }
+  },
+  {
+    "id": "coaming",
+    "term": "coaming",
+    "aliases": [],
+    "short": "A raised rim around a hatch or opening.",
+    "note": "A raised border, especially around a ship’s hatchway, intended to keep water from running into the opening.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/coaming",
+        "label": "Merriam-Webster: coaming"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "lake-12",
+      "paragraph": "p-216",
+      "index": 24
+    }
+  },
+  {
+    "id": "coif",
+    "term": "coif",
+    "aliases": [
+      "coifs"
+    ],
+    "short": "A close-fitting cap or head covering.",
+    "note": "A fitted cap, including the hoodlike head covering traditionally worn by a nun beneath her veil.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/coif",
+        "label": "Merriam-Webster: coif"
+      }
+    ],
+    "occurrences": 12,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-065",
+      "index": 1
+    }
+  },
+  {
+    "id": "collation",
+    "term": "collation",
+    "aliases": [],
+    "short": "A light meal.",
+    "note": "A small meal or refreshment; historically, a light meal permitted on a fasting day.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/collation",
+        "label": "Merriam-Webster: collation"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-07",
+      "paragraph": "p-195",
+      "index": 32
+    }
+  },
+  {
+    "id": "companionway",
+    "term": "companionway",
+    "aliases": [],
+    "short": "A ship’s stairway between decks.",
+    "note": "A stair or ladder providing passage from one deck of a vessel to another.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/companionway",
+        "label": "Merriam-Webster: companionway"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "lake-12",
+      "paragraph": "p-226",
+      "index": 24
+    }
+  },
+  {
+    "id": "concupiscent",
+    "term": "concupiscent",
+    "aliases": [],
+    "short": "Lustful.",
+    "note": "Characterized by strong sexual desire; from Latin words for desiring ardently.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/concupiscent",
+        "label": "Merriam-Webster: concupiscent"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-127",
+      "index": 28
+    }
+  },
+  {
+    "id": "contumacious",
+    "term": "contumacious",
+    "aliases": [],
+    "short": "Stubbornly disobedient.",
+    "note": "Rebellious or obstinately resistant to authority or control.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/contumacious",
+        "label": "Merriam-Webster: contumacious"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-02",
+      "paragraph": "p-072",
+      "index": 27
+    }
+  },
+  {
+    "id": "coquetry",
+    "term": "coquetry",
+    "aliases": [],
+    "short": "Flirtatious behavior.",
+    "note": "Actions or mannerisms intended to attract romantic or sexual attention.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/coquetry",
+        "label": "Merriam-Webster: coquetry"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-02",
+      "paragraph": "p-325",
+      "index": 27
+    }
+  },
+  {
+    "id": "crepitation",
+    "term": "crepitation",
+    "aliases": [],
+    "short": "A crackling or grating sound.",
+    "note": "Crackling; in medical usage, a grating sound or sensation such as that produced by broken bone ends rubbing together.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/crepitation",
+        "label": "Merriam-Webster: crepitation"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-133",
+      "index": 2
+    }
+  },
+  {
+    "id": "crotala",
+    "term": "crotala",
+    "aliases": [],
+    "short": "Ancient clappers or castanets.",
+    "note": "A percussion instrument of ancient Greece and Rome consisting of pieces struck together, resembling clappers or castanets.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/crotala",
+        "label": "Merriam-Webster: crotala"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-13",
+      "paragraph": "p-101",
+      "index": 12
+    }
+  },
+  {
+    "id": "cuddy",
+    "term": "cuddy",
+    "aliases": [],
+    "short": "A small cabin or shelter on a boat.",
+    "note": "A compact room or sheltered compartment, especially aboard a small vessel.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cuddy",
+        "label": "Merriam-Webster: cuddy"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "calde-01",
+      "paragraph": "p-169",
+      "index": 26
+    }
+  },
+  {
+    "id": "cupola",
+    "term": "cupola",
+    "aliases": [],
+    "short": "A small dome or roof-top structure.",
+    "note": "A rounded, dome-shaped roof or a small structure rising above a building’s roof.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cupola",
+        "label": "Merriam-Webster: cupola"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-10",
+      "paragraph": "p-163",
+      "index": 46
+    }
+  },
+  {
+    "id": "dais",
+    "term": "dais",
+    "aliases": [],
+    "short": "A raised platform.",
+    "note": "An elevated platform in a hall, often used for speakers, dignitaries, or ceremonial seating.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dais",
+        "label": "Merriam-Webster: dais"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-04",
+      "paragraph": "p-019",
+      "index": 16
+    }
+  },
+  {
+    "id": "descry",
+    "term": "descry",
+    "aliases": [],
+    "short": "To catch sight of or discern.",
+    "note": "To make something out by looking, or to discover it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/descry",
+        "label": "Merriam-Webster: descry"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "lake-07",
+      "paragraph": "p-124",
+      "index": 19
+    }
+  },
+  {
+    "id": "desideratum",
+    "term": "desiderata",
+    "aliases": [
+      "desideratum"
+    ],
+    "short": "Things wanted or considered necessary.",
+    "note": "Plural of desideratum: something desired, especially something regarded as essential.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/desideratum",
+        "label": "Merriam-Webster: desideratum"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-01",
+      "paragraph": "p-035",
+      "index": 37
+    }
+  },
+  {
+    "id": "devoir",
+    "term": "devoir",
+    "aliases": [],
+    "short": "A duty or obligation.",
+    "note": "A task required by duty; the word can also mean a formal act of respect or courtesy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/devoir",
+        "label": "Merriam-Webster: devoir"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-07",
+      "paragraph": "p-158",
+      "index": 19
+    }
+  },
+  {
+    "id": "diaphanous",
+    "term": "diaphanous",
+    "aliases": [],
+    "short": "So fine or sheer as to be see-through.",
+    "note": "Describes delicate, translucent fabric or something comparably light and insubstantial.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/diaphanous",
+        "label": "Merriam-Webster: diaphanous"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-14",
+      "paragraph": "p-139",
+      "index": 50
+    }
+  },
+  {
+    "id": "dilatory",
+    "term": "dilatory",
+    "aliases": [],
+    "short": "Slow or lingering.",
+    "note": "Tardy or inclined to delay; also deliberately causing delay.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dilatory",
+        "label": "Merriam-Webster: dilatory"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "lake-07",
+      "paragraph": "p-050",
+      "index": 19
+    }
+  },
+  {
+    "id": "dubiety",
+    "term": "dubiety",
+    "aliases": [],
+    "short": "Doubt or uncertainty.",
+    "note": "Uncertainty, especially hesitation between different conclusions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dubiety",
+        "label": "Merriam-Webster: dubiety"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-08",
+      "paragraph": "p-020",
+      "index": 44
+    }
+  },
+  {
+    "id": "ewer",
+    "term": "ewer",
+    "aliases": [],
+    "short": "A pitcher or jug.",
+    "note": "A vase-shaped vessel for holding and pouring water or other liquids.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ewer",
+        "label": "Merriam-Webster: ewer"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-04",
+      "paragraph": "p-022",
+      "index": 29
+    }
+  },
+  {
+    "id": "exegesis",
+    "term": "exegesis",
+    "aliases": [],
+    "short": "Explanation or interpretation of a text.",
+    "note": "A detailed exposition of a text, particularly one regarded as sacred.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/exegesis",
+        "label": "Merriam-Webster: exegesis"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-03",
+      "paragraph": "p-145",
+      "index": 39
+    }
+  },
+  {
+    "id": "extensile",
+    "term": "extensile",
+    "aliases": [],
+    "short": "Capable of being extended.",
+    "note": "Able to stretch or be drawn out to a greater length.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/extensile",
+        "label": "Merriam-Webster: extensile"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-02",
+      "paragraph": "p-167",
+      "index": 27
+    }
+  },
+  {
+    "id": "febrile",
+    "term": "febrile",
+    "aliases": [],
+    "short": "Feverish.",
+    "note": "Having or resembling the heat and agitation of fever.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/febrile",
+        "label": "Merriam-Webster: febrile"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-01",
+      "paragraph": "p-199",
+      "index": 26
+    }
+  },
+  {
+    "id": "ferrule",
+    "term": "ferrule",
+    "aliases": [],
+    "short": "A metal cap or ring reinforcing a shaft.",
+    "note": "A fitting around the end of a cane, handle, or similar slender object, strengthening it or preventing splitting.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ferrule",
+        "label": "Merriam-Webster: ferrule"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-06",
+      "paragraph": "p-308",
+      "index": 18
+    }
+  },
+  {
+    "id": "filigree",
+    "term": "filigree",
+    "aliases": [],
+    "short": "Delicate ornamental metalwork.",
+    "note": "Intricate openwork, especially patterns made from fine gold, silver, or copper wire.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/filigree",
+        "label": "Merriam-Webster: filigree"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "calde-07",
+      "paragraph": "p-252",
+      "index": 32
+    }
+  },
+  {
+    "id": "finial",
+    "term": "finial",
+    "aliases": [],
+    "short": "An ornament at the top of a structure.",
+    "note": "A decorative finishing piece crowning a spire, gable, post, or similar feature.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/finial",
+        "label": "Merriam-Webster: finial"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-05",
+      "paragraph": "p-123",
+      "index": 4
+    }
+  },
+  {
+    "id": "burbot",
+    "term": "burbot",
+    "aliases": [],
+    "short": "A freshwater fish related to cod.",
+    "note": "Lota lota, a fish of northern fresh waters with whiskerlike barbels near its mouth.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/burbot",
+        "label": "Merriam-Webster: burbot"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-10",
+      "paragraph": "p-065",
+      "index": 35
+    }
+  },
+  {
+    "id": "flechette",
+    "term": "flechette",
+    "aliases": [],
+    "short": "A small dart-shaped projectile.",
+    "note": "A slender dart used as a projectile, fired from a gun or carried in a larger munition.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/flechette",
+        "label": "Merriam-Webster: flechette"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-02",
+      "paragraph": "p-183",
+      "index": 27
+    }
+  },
+  {
+    "id": "footpad",
+    "term": "footpads",
+    "aliases": [
+      "footpad"
+    ],
+    "short": "Robbers who attack travelers on foot.",
+    "note": "An old term for a criminal who robs pedestrians.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/footpad",
+        "label": "Merriam-Webster: footpad"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-010",
+      "index": 1
+    }
+  },
+  {
+    "id": "frankincense",
+    "term": "frankincense",
+    "aliases": [],
+    "short": "An aromatic tree resin burned as incense.",
+    "note": "A fragrant gum resin obtained from Boswellia trees and traditionally used in religious rites and perfumery.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/frankincense",
+        "label": "Merriam-Webster: frankincense"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-06",
+      "paragraph": "p-034",
+      "index": 5
+    }
+  },
+  {
+    "id": "freestone",
+    "term": "freestone",
+    "aliases": [],
+    "short": "Stone that can be cut without splitting along fixed layers.",
+    "note": "A building stone that can be worked freely in different directions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/freestone",
+        "label": "Merriam-Webster: freestone"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-08",
+      "paragraph": "p-011",
+      "index": 20
+    }
+  },
+  {
+    "id": "freshet",
+    "term": "freshet",
+    "aliases": [],
+    "short": "A stream or rush of fresh water.",
+    "note": "An older word for a stream; also a sudden rise or flood caused by rain or melting snow.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/freshet",
+        "label": "Merriam-Webster: freshet"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-01",
+      "paragraph": "p-127",
+      "index": 26
+    }
+  },
+  {
+    "id": "froe",
+    "term": "froes",
+    "aliases": [
+      "froe"
+    ],
+    "short": "Tools for splitting wood into thin pieces.",
+    "note": "A cleaving tool used to split shingles, barrel staves, and similar pieces from a block of wood.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/froe",
+        "label": "Merriam-Webster: froe"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-003",
+      "index": 1
+    }
+  },
+  {
+    "id": "frowzy",
+    "term": "frowzy",
+    "aliases": [],
+    "short": "Unkempt or worn-looking.",
+    "note": "Having a slovenly or neglected appearance; also stale or musty.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/frowzy",
+        "label": "Merriam-Webster: frowzy"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-10",
+      "paragraph": "p-251",
+      "index": 9
+    }
+  },
+  {
+    "id": "gaud",
+    "term": "gaud",
+    "aliases": [],
+    "short": "A showy ornament or trinket.",
+    "note": "A decorative bauble, often implying something flashy or of little value.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gaud",
+        "label": "Merriam-Webster: gaud"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "nightside-09",
+      "paragraph": "p-254",
+      "index": 8
+    }
+  },
+  {
+    "id": "gondola",
+    "term": "gondola",
+    "aliases": [
+      "gondolas"
+    ],
+    "short": "A compartment suspended beneath an airship.",
+    "note": "A car or enclosed compartment carried below an airship or balloon, housing passengers or equipment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gondola",
+        "label": "Merriam-Webster: gondola"
+      }
+    ],
+    "occurrences": 39,
+    "first": {
+      "chapter": "calde-epilogue",
+      "paragraph": "p-004",
+      "index": 36
+    }
+  },
+  {
+    "id": "gunnel",
+    "term": "gunnel",
+    "aliases": [],
+    "short": "The upper edge of a boat’s side.",
+    "note": "A spelling of gunwale, the upper rim along the side of a boat or ship.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gunnel",
+        "label": "Merriam-Webster: gunnel"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "calde-01",
+      "paragraph": "p-120",
+      "index": 26
+    }
+  },
+  {
+    "id": "hasp",
+    "term": "hasp",
+    "aliases": [],
+    "short": "A hinged fastening for a padlock.",
+    "note": "A metal strap that closes over a loop or staple, allowing a pin or padlock to secure a door or lid.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hasp",
+        "label": "Merriam-Webster: hasp"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-11",
+      "paragraph": "p-010",
+      "index": 10
+    }
+  },
+  {
+    "id": "hassock",
+    "term": "hassock",
+    "aliases": [],
+    "short": "A cushion or low upholstered footstool.",
+    "note": "A padded cushion used for kneeling, sitting, or resting the feet.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hassock",
+        "label": "Merriam-Webster: hassock"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "lake-01",
+      "paragraph": "p-008",
+      "index": 13
+    }
+  },
+  {
+    "id": "helical",
+    "term": "helical",
+    "aliases": [],
+    "short": "Winding in a spiral.",
+    "note": "Having the shape of a helix, like the winding of a screw or coil.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/helical",
+        "label": "Merriam-Webster: helical"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-09",
+      "paragraph": "p-130",
+      "index": 34
+    }
+  },
+  {
+    "id": "hundredweight",
+    "term": "hundredweight",
+    "aliases": [],
+    "short": "A weight of 100 pounds, or 112 in British usage.",
+    "note": "A traditional unit of weight: the short hundredweight is 100 pounds, while the British long hundredweight is 112 pounds.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hundredweight",
+        "label": "Merriam-Webster: hundredweight"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-10",
+      "paragraph": "p-281",
+      "index": 46
+    }
+  },
+  {
+    "id": "hyssop",
+    "term": "hyssop",
+    "aliases": [],
+    "short": "An aromatic herb of the mint family.",
+    "note": "Hyssopus officinalis, a European plant with pungent, fragrant leaves used as an herb. The same name also appears for a plant used in ancient Hebrew purification rites.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hyssop",
+        "label": "Merriam-Webster: hyssop"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-002",
+      "index": 1
+    }
+  },
+  {
+    "id": "immanent",
+    "term": "immanent",
+    "aliases": [],
+    "short": "Present within; indwelling.",
+    "note": "Existing or operating within something, rather than outside or beyond it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/immanent",
+        "label": "Merriam-Webster: immanent"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-02",
+      "paragraph": "p-035",
+      "index": 27
+    }
+  },
+  {
+    "id": "indurate",
+    "term": "indurated",
+    "aliases": [],
+    "short": "Hardened or made unfeeling.",
+    "note": "Made physically hard or, figuratively, emotionally hardened and unresponsive.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/indurate",
+        "label": "Merriam-Webster: indurate"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-10",
+      "paragraph": "p-091",
+      "index": 9
+    }
+  },
+  {
+    "id": "interstice",
+    "term": "interstices",
+    "aliases": [],
+    "short": "Small gaps between things.",
+    "note": "Narrow spaces between closely placed objects or parts of a structure.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/interstice",
+        "label": "Merriam-Webster: interstice"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-04",
+      "paragraph": "p-127",
+      "index": 3
+    }
+  },
+  {
+    "id": "khanum",
+    "term": "khanum",
+    "aliases": [],
+    "short": "A title for a woman of rank.",
+    "note": "A term of respect for a woman of status, especially in Turkey and Iran.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/khanum",
+        "label": "Merriam-Webster: khanum"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-02",
+      "paragraph": "p-317",
+      "index": 27
+    }
+  },
+  {
+    "id": "kine",
+    "term": "kine",
+    "aliases": [],
+    "short": "Cows; cattle.",
+    "note": "An archaic plural of cow.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/kine",
+        "label": "Merriam-Webster: kine"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-233",
+      "index": 28
+    }
+  },
+  {
+    "id": "lampion",
+    "term": "lampion",
+    "aliases": [],
+    "short": "A small lamp used for illumination.",
+    "note": "An old word for a small lamp, such as a vessel of oil with a wick.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lampion",
+        "label": "Merriam-Webster: lampion"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-125",
+      "index": 2
+    }
+  },
+  {
+    "id": "licit",
+    "term": "licit",
+    "aliases": [],
+    "short": "Permitted or lawful.",
+    "note": "Allowed by law or accepted rules; the opposite of illicit.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/licit",
+        "label": "Merriam-Webster: licit"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-04",
+      "paragraph": "p-079",
+      "index": 3
+    }
+  },
+  {
+    "id": "linnet",
+    "term": "linnets",
+    "aliases": [
+      "linnet"
+    ],
+    "short": "Small Old World finches.",
+    "note": "Linaria cannabina, a small brownish songbird whose male develops red on its breast and crown in the breeding season.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/linnet",
+        "label": "Merriam-Webster: linnet"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-03",
+      "paragraph": "p-080",
+      "index": 39
+    }
+  },
+  {
+    "id": "litany",
+    "term": "litany",
+    "aliases": [],
+    "short": "A prayer of repeated invocations and responses.",
+    "note": "A series of petitions spoken by a leader with responses from the congregation; also a repetitive chant or recital.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/litany",
+        "label": "Merriam-Webster: litany"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "nightside-11",
+      "paragraph": "p-096",
+      "index": 10
+    }
+  },
+  {
+    "id": "livery",
+    "term": "livery",
+    "aliases": [],
+    "short": "A servant’s distinctive uniform.",
+    "note": "Clothing identifying a servant or retainer as belonging to a particular household or employer.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/livery",
+        "label": "Merriam-Webster: livery"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "calde-07",
+      "paragraph": "p-009",
+      "index": 32
+    }
+  },
+  {
+    "id": "lodestone",
+    "term": "lodestone",
+    "aliases": [],
+    "short": "Naturally magnetized magnetite.",
+    "note": "A piece of the mineral magnetite that acts as a natural magnet.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lodestone",
+        "label": "Merriam-Webster: lodestone"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-13",
+      "paragraph": "p-035",
+      "index": 12
+    }
+  },
+  {
+    "id": "lucent",
+    "term": "lucent",
+    "aliases": [],
+    "short": "Clear or translucent; also shining.",
+    "note": "Admitting light clearly, or glowing with light.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lucent",
+        "label": "Merriam-Webster: lucent"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-10",
+      "paragraph": "p-113",
+      "index": 22
+    }
+  },
+  {
+    "id": "malleolus",
+    "term": "malleolus",
+    "aliases": [],
+    "short": "A bony projection at the ankle.",
+    "note": "The projecting end of a lower-leg bone at the ankle. The medial malleolus is the inner projection of the tibia; the lateral one belongs to the fibula.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/malleolus",
+        "label": "Merriam-Webster: malleolus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-09",
+      "paragraph": "p-128",
+      "index": 8
+    }
+  },
+  {
+    "id": "mandrake",
+    "term": "mandrake",
+    "aliases": [],
+    "short": "A plant with a forked root traditionally associated with magic.",
+    "note": "Mandragora officinarum, a Mediterranean plant of the nightshade family whose root can resemble a human figure.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mandrake",
+        "label": "Merriam-Webster: mandrake"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-002",
+      "index": 1
+    }
+  },
+  {
+    "id": "mannikin",
+    "term": "mannikin",
+    "aliases": [],
+    "short": "A diminutive man; often a contemptuous term.",
+    "note": "A variant of manikin, meaning a small human figure or, disparagingly, a little man.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mannikin",
+        "label": "Merriam-Webster: mannikin"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-12",
+      "paragraph": "p-166",
+      "index": 48
+    }
+  },
+  {
+    "id": "manse",
+    "term": "manse",
+    "aliases": [],
+    "short": "The residence of a minister or priest.",
+    "note": "A clergyman’s house, especially in Scottish or Presbyterian usage.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/manse",
+        "label": "Merriam-Webster: manse"
+      }
+    ],
+    "occurrences": 84,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-182",
+      "index": 0
+    }
+  },
+  {
+    "id": "mastoid",
+    "term": "mastoids",
+    "aliases": [
+      "mastoid"
+    ],
+    "short": "Bony projections behind the ears.",
+    "note": "The mastoid processes are portions of the temporal bones projecting behind the ears.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mastoid",
+        "label": "Merriam-Webster: mastoid"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-07",
+      "paragraph": "p-100",
+      "index": 6
+    }
+  },
+  {
+    "id": "materiel",
+    "term": "materiel",
+    "aliases": [],
+    "short": "Military equipment and supplies.",
+    "note": "The equipment, apparatus, and stores used by an army or other organization, as distinct from its personnel.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/materiel",
+        "label": "Merriam-Webster: materiel"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-10",
+      "paragraph": "p-243",
+      "index": 46
+    }
+  },
+  {
+    "id": "mendicant",
+    "term": "mendicant",
+    "aliases": [],
+    "short": "Begging or living on alms.",
+    "note": "Describes someone who asks for gifts to support themselves or their work, especially a member of a religious order.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mendicant",
+        "label": "Merriam-Webster: mendicant"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-252",
+      "index": 2
+    }
+  },
+  {
+    "id": "mephitic",
+    "term": "mephitic",
+    "aliases": [],
+    "short": "Foul-smelling.",
+    "note": "Having a noxious or offensive smell, especially like unpleasant fumes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mephitic",
+        "label": "Merriam-Webster: mephitic"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-12",
+      "paragraph": "p-235",
+      "index": 24
+    }
+  },
+  {
+    "id": "mercurial",
+    "term": "mercurial",
+    "aliases": [],
+    "short": "Rapidly and unpredictably changeable.",
+    "note": "Marked by sudden shifts of mood or temperament.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mercurial",
+        "label": "Merriam-Webster: mercurial"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-07",
+      "paragraph": "p-117",
+      "index": 32
+    }
+  },
+  {
+    "id": "merganser",
+    "term": "merganser",
+    "aliases": [],
+    "short": "A fish-eating diving duck.",
+    "note": "A duck with a narrow, hooked bill edged with toothlike serrations, adapted for catching fish.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/merganser",
+        "label": "Merriam-Webster: merganser"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-12",
+      "paragraph": "p-160",
+      "index": 24
+    }
+  },
+  {
+    "id": "merlin",
+    "term": "merlin",
+    "aliases": [],
+    "short": "A small falcon.",
+    "note": "Falco columbarius, a compact bird of prey of the Northern Hemisphere.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/merlin",
+        "label": "Merriam-Webster: merlin"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-07",
+      "paragraph": "p-246",
+      "index": 6
+    }
+  },
+  {
+    "id": "mews",
+    "term": "mews",
+    "aliases": [],
+    "short": "An enclosure for trained hawks.",
+    "note": "Housing for birds kept for falconry; the word later also came to denote stables and buildings converted from them.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mews",
+        "label": "Merriam-Webster: mews"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "nightside-07",
+      "paragraph": "p-065",
+      "index": 6
+    }
+  },
+  {
+    "id": "miasma",
+    "term": "miasma",
+    "aliases": [],
+    "short": "A heavy, unpleasant atmosphere or exhalation.",
+    "note": "Foul air or vapor, once believed to spread disease; also an oppressive or corrupting atmosphere.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/miasma",
+        "label": "Merriam-Webster: miasma"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-02",
+      "paragraph": "p-149",
+      "index": 14
+    }
+  },
+  {
+    "id": "milksop",
+    "term": "milksop",
+    "aliases": [],
+    "short": "A weak or timid man.",
+    "note": "A disparaging term for a man considered cowardly or lacking resolve.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/milksop",
+        "label": "Merriam-Webster: milksop"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-15",
+      "paragraph": "p-259",
+      "index": 51
+    }
+  },
+  {
+    "id": "mullein",
+    "term": "mullein",
+    "aliases": [],
+    "short": "A usually woolly-leaved plant of the genus Verbascum.",
+    "note": "A Eurasian herb, commonly with soft, hairy leaves and tall spikes of flowers, often yellow.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mullein",
+        "label": "Merriam-Webster: mullein"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-002",
+      "index": 1
+    }
+  },
+  {
+    "id": "mummery",
+    "term": "mummery",
+    "aliases": [],
+    "short": "An empty or pretentious ceremony.",
+    "note": "A show or ritual regarded as meaningless, hypocritical, or ridiculous.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mummery",
+        "label": "Merriam-Webster: mummery"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-10",
+      "paragraph": "p-023",
+      "index": 9
+    }
+  },
+  {
+    "id": "pampas-grass",
+    "term": "pampas grass",
+    "aliases": [],
+    "short": "A tall South American grass with feathery flower plumes.",
+    "note": "Cortaderia selloana, an ornamental grass bearing large, showy plumes on tall stems.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pampas%20grass",
+        "label": "Merriam-Webster: pampas grass"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-003",
+      "index": 1
+    }
+  },
+  {
+    "id": "nephrite",
+    "term": "nephrite",
+    "aliases": [],
+    "short": "A tough stone classed as jade.",
+    "note": "A compact form of tremolite or actinolite, ranging from whitish to dark green or black, used for carving and ornaments.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/nephrite",
+        "label": "Merriam-Webster: nephrite"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-12",
+      "paragraph": "p-110",
+      "index": 48
+    }
+  },
+  {
+    "id": "newel",
+    "term": "newel",
+    "aliases": [],
+    "short": "An upright post supporting a stair rail.",
+    "note": "A post at the foot or landing of a stair, or the central upright around which a spiral staircase winds.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/newel",
+        "label": "Merriam-Webster: newel"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-06",
+      "paragraph": "p-191",
+      "index": 31
+    }
+  },
+  {
+    "id": "nimiety",
+    "term": "nimiety",
+    "aliases": [],
+    "short": "An excess or overabundance.",
+    "note": "More of something than is needed or desirable.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/nimiety",
+        "label": "Merriam-Webster: nimiety"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-222",
+      "index": 28
+    }
+  },
+  {
+    "id": "noisome",
+    "term": "noisome",
+    "aliases": [],
+    "short": "Foul or offensive, especially in smell.",
+    "note": "Unpleasant to the senses, particularly the nose; also harmful or noxious.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/noisome",
+        "label": "Merriam-Webster: noisome"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-001",
+      "index": 42
+    }
+  },
+  {
+    "id": "nonce",
+    "term": "nonce",
+    "aliases": [],
+    "short": "The present occasion or time being.",
+    "note": "In the phrase for the nonce, temporarily or for the present purpose.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/nonce",
+        "label": "Merriam-Webster: nonce"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-041",
+      "index": 42
+    }
+  },
+  {
+    "id": "olla",
+    "term": "olla",
+    "aliases": [],
+    "short": "A rounded, wide-mouthed earthenware pot.",
+    "note": "A bulging pottery vessel used for storage, water, or cooking.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/olla",
+        "label": "Merriam-Webster: olla"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-06",
+      "paragraph": "p-063",
+      "index": 5
+    }
+  },
+  {
+    "id": "onyx",
+    "term": "onyx",
+    "aliases": [],
+    "short": "A banded variety of chalcedony.",
+    "note": "A fine-grained silica stone with parallel layers of differing colors, used for ornaments and carving.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/onyx",
+        "label": "Merriam-Webster: onyx"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-05",
+      "paragraph": "p-470",
+      "index": 30
+    }
+  },
+  {
+    "id": "opalescent",
+    "term": "opalescent",
+    "aliases": [],
+    "short": "Showing a shifting, iridescent sheen.",
+    "note": "Reflecting soft, changing colors like those of an opal.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/opalescent",
+        "label": "Merriam-Webster: opalescent"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-290",
+      "index": 2
+    }
+  },
+  {
+    "id": "outre",
+    "term": "outre",
+    "aliases": [],
+    "short": "Unconventional or bizarre.",
+    "note": "French outré: beyond conventional limits, strikingly unusual or eccentric.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/outre",
+        "label": "Merriam-Webster: outré"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-07",
+      "paragraph": "p-136",
+      "index": 19
+    }
+  },
+  {
+    "id": "papilla",
+    "term": "papillae",
+    "aliases": [
+      "papilla"
+    ],
+    "short": "Small nipple-like projections.",
+    "note": "Plural of papilla, a small projecting part of an animal’s body or tissues.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/papilla",
+        "label": "Merriam-Webster: papilla"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-07",
+      "paragraph": "p-050",
+      "index": 19
+    }
+  },
+  {
+    "id": "peignoir",
+    "term": "peignoir",
+    "aliases": [],
+    "short": "A loose dressing gown.",
+    "note": "A woman’s loose robe or negligee, traditionally worn while dressing or arranging the hair.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/peignoir",
+        "label": "Merriam-Webster: peignoir"
+      }
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "nightside-10",
+      "paragraph": "p-002",
+      "index": 9
+    }
+  },
+  {
+    "id": "phantasmagoria",
+    "term": "phantasmagoria",
+    "aliases": [],
+    "short": "A fantastic or dreamlike assemblage of images.",
+    "note": "A shifting succession or bizarre collection of things seen or imagined; originally a display of optical illusions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/phantasmagoria",
+        "label": "Merriam-Webster: phantasmagoria"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-08",
+      "paragraph": "p-093",
+      "index": 7
+    }
+  },
+  {
+    "id": "philter",
+    "term": "philtre",
+    "aliases": [
+      "philter"
+    ],
+    "short": "A potion believed to arouse love or desire.",
+    "note": "A drug, drink, or charm credited with magical powers, especially the power to excite sexual passion. Also spelled philter.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/philter",
+        "label": "Merriam-Webster: philter"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-06",
+      "paragraph": "p-203",
+      "index": 5
+    }
+  },
+  {
+    "id": "polychrome",
+    "term": "polychrome",
+    "aliases": [],
+    "short": "Made or decorated in several colors.",
+    "note": "Having multiple colors, particularly in painted or decorated objects.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/polychrome",
+        "label": "Merriam-Webster: polychrome"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-003",
+      "index": 1
+    }
+  },
+  {
+    "id": "potable",
+    "term": "potable",
+    "aliases": [],
+    "short": "Fit to drink; also a drinkable liquid.",
+    "note": "Suitable for drinking. As a noun, a beverage, sometimes specifically an alcoholic one.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/potable",
+        "label": "Merriam-Webster: potable"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-169",
+      "index": 42
+    }
+  },
+  {
+    "id": "precis",
+    "term": "precis",
+    "aliases": [],
+    "short": "A concise summary.",
+    "note": "An account reduced to its essential facts or main points; often written précis.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/precis",
+        "label": "Merriam-Webster: precis"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-09",
+      "paragraph": "p-204",
+      "index": 21
+    }
+  },
+  {
+    "id": "probity",
+    "term": "probity",
+    "aliases": [],
+    "short": "Honesty and moral uprightness.",
+    "note": "Strict adherence to principles of integrity and honorable conduct.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/probity",
+        "label": "Merriam-Webster: probity"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-06",
+      "paragraph": "p-076",
+      "index": 18
+    }
+  },
+  {
+    "id": "puce",
+    "term": "puce",
+    "aliases": [],
+    "short": "A dark red color.",
+    "note": "A dark red hue; its French name literally means flea.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/puce",
+        "label": "Merriam-Webster: puce"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "lake-02",
+      "paragraph": "p-007",
+      "index": 14
+    }
+  },
+  {
+    "id": "puissance",
+    "term": "puissance",
+    "aliases": [],
+    "short": "Power or strength.",
+    "note": "An older literary word for might, force, or effective power.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/puissance",
+        "label": "Merriam-Webster: puissance"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-08",
+      "paragraph": "p-091",
+      "index": 44
+    }
+  },
+  {
+    "id": "quacksalver",
+    "term": "quacksalver",
+    "aliases": [],
+    "short": "A fraudulent or unqualified healer.",
+    "note": "An old word for a medical charlatan or quack.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/quacksalver",
+        "label": "Merriam-Webster: quacksalver"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-12",
+      "paragraph": "p-126",
+      "index": 24
+    }
+  },
+  {
+    "id": "quintal",
+    "term": "quintals",
+    "aliases": [
+      "quintal"
+    ],
+    "short": "A traditional unit of weight, commonly a hundredweight.",
+    "note": "The value of a quintal varies by system. It can mean a hundredweight, while the metric quintal is 100 kilograms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/quintal",
+        "label": "Merriam-Webster: quintal"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-13",
+      "paragraph": "p-188",
+      "index": 25
+    }
+  },
+  {
+    "id": "quirt",
+    "term": "quirt",
+    "aliases": [],
+    "short": "A short-handled riding whip.",
+    "note": "A whip with a short handle and a lash of rawhide.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/quirt",
+        "label": "Merriam-Webster: quirt"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "calde-04",
+      "paragraph": "p-150",
+      "index": 29
+    }
+  },
+  {
+    "id": "redoubt",
+    "term": "redoubt",
+    "aliases": [],
+    "short": "A small defensive fortification.",
+    "note": "An enclosed military strongpoint, often temporary; also a protected position or retreat.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/redoubt",
+        "label": "Merriam-Webster: redoubt"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "calde-06",
+      "paragraph": "p-308",
+      "index": 31
+    }
+  },
+  {
+    "id": "rictus",
+    "term": "rictus",
+    "aliases": [],
+    "short": "A rigid grin or grimace.",
+    "note": "A fixed, often disturbing expression with the lips parted or mouth drawn open.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/rictus",
+        "label": "Merriam-Webster: rictus"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "lake-09",
+      "paragraph": "p-184",
+      "index": 21
+    }
+  },
+  {
+    "id": "rubric",
+    "term": "rubric",
+    "aliases": [],
+    "short": "A ritual instruction; also a heading or category.",
+    "note": "A rule directing the conduct of a religious service. More broadly, a title or heading under which something is classified.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/rubric",
+        "label": "Merriam-Webster: rubric"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-10",
+      "paragraph": "p-068",
+      "index": 9
+    }
+  },
+  {
+    "id": "sacristy",
+    "term": "sacristy",
+    "aliases": [],
+    "short": "A room where religious vessels and vestments are kept.",
+    "note": "A room adjoining a place of worship, used to store sacred objects and for clergy to prepare for services.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sacristy",
+        "label": "Merriam-Webster: sacristy"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "exodus-03",
+      "paragraph": "p-102",
+      "index": 39
+    }
+  },
+  {
+    "id": "sauterne",
+    "term": "sauterne",
+    "aliases": [],
+    "short": "A white wine, generally semidry to sweet.",
+    "note": "Sauternes is a sweet white wine from Bordeaux. The spelling sauterne also names an American blended white wine, usually semidry or semisweet.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sauterne",
+        "label": "Merriam-Webster: sauterne"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "exodus-11",
+      "paragraph": "p-287",
+      "index": 47
+    }
+  },
+  {
+    "id": "shrive",
+    "term": "shrive",
+    "aliases": [
+      "shrived",
+      "shriven",
+      "shriving",
+      "shrove"
+    ],
+    "short": "To hear confession and grant absolution.",
+    "note": "To administer religious forgiveness after confession; in older usage, also to confess one’s own sins.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/shrive",
+        "label": "Merriam-Webster: shrive"
+      }
+    ],
+    "occurrences": 67,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-036",
+      "index": 2
+    }
+  },
+  {
+    "id": "sobriquet",
+    "term": "sobriquet",
+    "aliases": [],
+    "short": "A nickname or descriptive epithet.",
+    "note": "An unofficial name or label characterizing a person.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sobriquet",
+        "label": "Merriam-Webster: sobriquet"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-10",
+      "paragraph": "p-089",
+      "index": 35
+    }
+  },
+  {
+    "id": "somnambulism",
+    "term": "somnambulistic",
+    "aliases": [],
+    "short": "Resembling sleepwalking.",
+    "note": "Pertaining to somnambulism, the performance of actions such as walking during sleep; also describing an apparently unthinking or dreamlike manner.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/somnambulism",
+        "label": "Merriam-Webster: somnambulism"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-09",
+      "paragraph": "p-170",
+      "index": 21
+    }
+  },
+  {
+    "id": "spall",
+    "term": "spalled",
+    "aliases": [],
+    "short": "Chipped or flaked away.",
+    "note": "Describes stone or another material that has shed chips, scales, or fragments.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/spall",
+        "label": "Merriam-Webster: spall"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-10",
+      "paragraph": "p-104",
+      "index": 9
+    }
+  },
+  {
+    "id": "spinney",
+    "term": "spinney",
+    "aliases": [],
+    "short": "A small wood or thicket.",
+    "note": "A small area of trees with undergrowth, chiefly in British usage.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/spinney",
+        "label": "Merriam-Webster: spinney"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-11",
+      "paragraph": "p-018",
+      "index": 23
+    }
+  },
+  {
+    "id": "springtide",
+    "term": "springtide",
+    "aliases": [],
+    "short": "Springtime.",
+    "note": "An older literary term for the season of spring; distinct from the tidal expression spring tide.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/springtide",
+        "label": "Merriam-Webster: springtide"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-04",
+      "paragraph": "p-055",
+      "index": 16
+    }
+  },
+  {
+    "id": "stentorian",
+    "term": "stentorian",
+    "aliases": [],
+    "short": "Extremely loud and powerful in voice.",
+    "note": "Resounding or booming; from Stentor, the herald in Homer’s Iliad whose voice was compared to those of fifty men.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/stentorian",
+        "label": "Merriam-Webster: stentorian"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-08",
+      "paragraph": "p-209",
+      "index": 33
+    }
+  },
+  {
+    "id": "stile",
+    "term": "stile",
+    "aliases": [],
+    "short": "A vertical member of a frame.",
+    "note": "An upright piece in the framework of a window, door, or panel, into which horizontal members fit.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/stile",
+        "label": "Merriam-Webster: stile"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-05",
+      "paragraph": "p-018",
+      "index": 4
+    }
+  },
+  {
+    "id": "stridulation",
+    "term": "stridulation",
+    "aliases": [],
+    "short": "A creaking or chirring sound.",
+    "note": "A sound produced by rubbing parts together, especially the characteristic calls of insects such as crickets.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/stridulation",
+        "label": "Merriam-Webster: stridulation"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-08",
+      "paragraph": "p-094",
+      "index": 20
+    }
+  },
+  {
+    "id": "stygian",
+    "term": "Stygian",
+    "aliases": [
+      "stygian"
+    ],
+    "short": "Dark and gloomy; associated with the underworld.",
+    "note": "Relating to the river Styx of Greek mythology; by extension, forbiddingly dark or shadowy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/stygian",
+        "label": "Merriam-Webster: stygian"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-009",
+      "index": 1
+    }
+  },
+  {
+    "id": "supernal",
+    "term": "supernal",
+    "aliases": [],
+    "short": "Heavenly or coming from above.",
+    "note": "Belonging to the sky or a higher, celestial realm; also exceptionally beautiful or exalted.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/supernal",
+        "label": "Merriam-Webster: supernal"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-12",
+      "paragraph": "p-216",
+      "index": 24
+    }
+  },
+  {
+    "id": "supposititious",
+    "term": "supposititious",
+    "aliases": [],
+    "short": "Imagined or hypothetical.",
+    "note": "Based on a supposition rather than established fact; the word can also mean spurious or fraudulently substituted.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/supposititious",
+        "label": "Merriam-Webster: supposititious"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-06",
+      "paragraph": "p-037",
+      "index": 31
+    }
+  },
+  {
+    "id": "taradiddle",
+    "term": "taradiddle",
+    "aliases": [],
+    "short": "Nonsense or a fib.",
+    "note": "A petty falsehood or a piece of pretentious, empty talk.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/taradiddle",
+        "label": "Merriam-Webster: taradiddle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-12",
+      "paragraph": "p-157",
+      "index": 24
+    }
+  },
+  {
+    "id": "thew",
+    "term": "thews",
+    "aliases": [],
+    "short": "Muscles, sinews, or bodily strength.",
+    "note": "An older word, usually plural, for muscular power or the muscles and tendons that supply it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/thew",
+        "label": "Merriam-Webster: thew"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-01",
+      "paragraph": "p-081",
+      "index": 26
+    }
+  },
+  {
+    "id": "tiercel",
+    "term": "tiercel",
+    "aliases": [],
+    "short": "A male hawk or falcon.",
+    "note": "A falconry term for a male bird of prey, especially a male peregrine falcon.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tiercel",
+        "label": "Merriam-Webster: tiercel"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-07",
+      "paragraph": "p-246",
+      "index": 6
+    }
+  },
+  {
+    "id": "triptych",
+    "term": "triptych",
+    "aliases": [],
+    "short": "A picture or carving arranged in three panels.",
+    "note": "A three-part picture or carving, often used as an altarpiece.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/triptych",
+        "label": "Merriam-Webster: triptych"
+      }
+    ],
+    "occurrences": 13,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-113",
+      "index": 2
+    }
+  },
+  {
+    "id": "triune",
+    "term": "triune",
+    "aliases": [],
+    "short": "Three united in one.",
+    "note": "Consisting of three members, parts, or aspects treated as a single whole.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/triune",
+        "label": "Merriam-Webster: triune"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-06",
+      "paragraph": "p-068",
+      "index": 31
+    }
+  },
+  {
+    "id": "trull",
+    "term": "trull",
+    "aliases": [],
+    "short": "An old, disparaging word for a prostitute.",
+    "note": "A contemptuous historical term for a woman who sells sexual services.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/trull",
+        "label": "Merriam-Webster: trull"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-122",
+      "index": 28
+    }
+  },
+  {
+    "id": "turnbuckle",
+    "term": "turnbuckle",
+    "aliases": [],
+    "short": "An adjustable fitting for tightening a cable or stay.",
+    "note": "A threaded device that draws its two ends together when turned, adjusting the tension of attached rods or cables.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/turnbuckle",
+        "label": "Merriam-Webster: turnbuckle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-04",
+      "paragraph": "p-223",
+      "index": 16
+    }
+  },
+  {
+    "id": "turnkey",
+    "term": "turnkey",
+    "aliases": [],
+    "short": "A jailer.",
+    "note": "A prison officer entrusted with the keys to cells and doors.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/turnkey",
+        "label": "Merriam-Webster: turnkey"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-13",
+      "paragraph": "p-007",
+      "index": 49
+    }
+  },
+  {
+    "id": "virago",
+    "term": "virago",
+    "aliases": [],
+    "short": "A fierce or overbearing woman.",
+    "note": "A woman of formidable strength or courage; also, disparagingly, an aggressive or domineering woman.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/virago",
+        "label": "Merriam-Webster: virago"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "exodus-04",
+      "paragraph": "p-004",
+      "index": 40
+    }
+  },
+  {
+    "id": "votive",
+    "term": "votive",
+    "aliases": [],
+    "short": "Offered in devotion or fulfillment of a vow.",
+    "note": "Describes an object or act dedicated to a deity in prayer, gratitude, or the discharge of a promise.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/votive",
+        "label": "Merriam-Webster: votive"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-11",
+      "paragraph": "p-119",
+      "index": 10
+    }
+  },
+  {
+    "id": "wainscot",
+    "term": "wainscoting",
+    "aliases": [
+      "wainscotting"
+    ],
+    "short": "Wall paneling, especially along the lower part.",
+    "note": "A wooden or other lining on an interior wall, commonly covering only its lower portion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/wainscot",
+        "label": "Merriam-Webster: wainscot"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "nightside-08",
+      "paragraph": "p-148",
+      "index": 7
+    }
+  },
+  {
+    "id": "wingover",
+    "term": "wingover",
+    "aliases": [],
+    "short": "A steep banking turn that reverses flight direction.",
+    "note": "An aerial maneuver involving a climbing turn followed by a downward turn into the opposite direction.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/wingover",
+        "label": "Merriam-Webster: wingover"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-14",
+      "paragraph": "p-155",
+      "index": 50
+    }
+  },
+  {
+    "id": "worsted",
+    "term": "worsted",
+    "aliases": [],
+    "short": "Smooth wool yarn or fabric made from it.",
+    "note": "A compact yarn spun from long wool fibers, producing a firm, relatively smooth fabric.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/worsted",
+        "label": "Merriam-Webster: worsted"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-05",
+      "paragraph": "p-225",
+      "index": 30
+    }
+  },
+  {
+    "id": "yawl",
+    "term": "yawl",
+    "aliases": [],
+    "short": "A small boat; also a kind of two-masted sailing vessel.",
+    "note": "A ship’s small boat, or a fore-and-aft-rigged sailboat with a small mizzenmast placed far toward the stern.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/yawl",
+        "label": "Merriam-Webster: yawl"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "lake-12",
+      "paragraph": "p-134",
+      "index": 24
+    }
+  },
+  {
+    "id": "zither",
+    "term": "zither",
+    "aliases": [],
+    "short": "A stringed instrument played across a flat soundboard.",
+    "note": "An instrument with strings stretched over a shallow body, sounded with the fingers or a pick.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/zither",
+        "label": "Merriam-Webster: zither"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-01",
+      "paragraph": "p-140",
+      "index": 37
+    }
+  },
+  {
+    "id": "scullery",
+    "term": "scullery",
+    "aliases": [],
+    "short": "A room for washing dishes and other kitchen work.",
+    "note": "A service room adjoining a kitchen, used for cleaning utensils, preparing food, and similar tasks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/scullery",
+        "label": "Merriam-Webster: scullery"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-14",
+      "paragraph": "p-153",
+      "index": 50
+    }
+  },
+  {
+    "id": "serge",
+    "term": "serge",
+    "aliases": [],
+    "short": "A durable fabric with diagonal ribs.",
+    "note": "A smooth-faced twill fabric with a pronounced diagonal pattern on both sides.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/serge",
+        "label": "Merriam-Webster: serge"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-05",
+      "paragraph": "p-329",
+      "index": 30
+    }
+  },
+  {
+    "id": "spokeshave",
+    "term": "spokeshave",
+    "aliases": [],
+    "short": "A small tool for shaving curved wooden surfaces.",
+    "note": "A short transverse plane with handles at its ends, used to shape rounded or hollow surfaces.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/spokeshave",
+        "label": "Merriam-Webster: spokeshave"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-06",
+      "paragraph": "p-161",
+      "index": 18
+    }
+  },
+  {
+    "id": "terrazzo",
+    "term": "terrazzo",
+    "aliases": [],
+    "short": "Polished flooring made from stone chips in a binder.",
+    "note": "A mosaic-like floor of small marble or granite fragments embedded in mortar and polished smooth.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/terrazzo",
+        "label": "Merriam-Webster: terrazzo"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-031",
+      "index": 2
+    }
+  },
+  {
+    "id": "dishabille",
+    "term": "dishabille",
+    "aliases": [],
+    "short": "A loose robe or state of informal dress.",
+    "note": "An older word for a negligee; also the condition of being casually or incompletely dressed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dishabille",
+        "label": "Merriam-Webster: dishabille"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-07",
+      "paragraph": "p-248",
+      "index": 32
+    }
+  },
+  {
+    "id": "elegiac",
+    "term": "elegiacs",
+    "aliases": [],
+    "short": "Elegiac verse or poems of lament.",
+    "note": "Poems in classical elegiac couplets, or more broadly poems expressing sorrow or remembrance of what has passed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/elegiac",
+        "label": "Merriam-Webster: elegiac"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-01",
+      "paragraph": "p-009",
+      "index": 26
+    }
+  },
+  {
+    "id": "lacustral",
+    "term": "Lacustral",
+    "aliases": [],
+    "short": "Relating to lakes.",
+    "note": "Of, belonging to, or situated in a lake.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lacustral",
+        "label": "Merriam-Webster: lacustral"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-07",
+      "paragraph": "p-163",
+      "index": 19
+    }
+  },
+  {
+    "id": "ophidian",
+    "term": "Ophidian",
+    "aliases": [],
+    "short": "Of or resembling snakes.",
+    "note": "Pertaining to serpents; snakelike.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ophidian",
+        "label": "Merriam-Webster: ophidian"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "calde-04",
+      "paragraph": "p-082",
+      "index": 29
+    }
+  },
+  {
+    "id": "tenebrous",
+    "term": "Tenebrous",
+    "aliases": [],
+    "short": "Dark, gloomy, or shadowy.",
+    "note": "Obscured by darkness; an adjective derived from Latin tenebrae, darkness.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tenebrous",
+        "label": "Merriam-Webster: tenebrous"
+      }
+    ],
+    "occurrences": 11,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-153",
+      "index": 0
+    }
+  },
+  {
+    "id": "splenetic",
+    "term": "Splenetic",
+    "aliases": [],
+    "short": "Ill-tempered or spiteful.",
+    "note": "Bad-tempered, peevish, or marked by anger and resentment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/splenetic",
+        "label": "Merriam-Webster: splenetic"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-10",
+      "paragraph": "p-222",
+      "index": 35
+    }
+  },
+  {
+    "id": "fibonacci",
+    "term": "Fibonacci",
+    "aliases": [],
+    "short": "A sequence formed by adding the previous two numbers.",
+    "note": "The Fibonacci sequence begins 1, 1, 2, 3, 5, 8, 13, and so on, with each number equal to the sum of the two preceding it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathworld.wolfram.com/FibonacciNumber.html",
+        "label": "Wolfram MathWorld: Fibonacci Number"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-05",
+      "paragraph": "p-249",
+      "index": 30
+    }
+  },
+  {
+    "id": "wernicke-area",
+    "term": "Wernicke's area",
+    "aliases": [],
+    "short": "A brain region involved in speech and language.",
+    "note": "A region toward the back of the dominant cerebral hemisphere’s temporal lobe, often also including nearby parietal areas. It is important in language processing, and damage there is associated with forms of aphasia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.ncbi.nlm.nih.gov/mesh/68065813",
+        "label": "U.S. National Library of Medicine: Wernicke Area"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-11",
+      "paragraph": "p-237",
+      "index": 23
+    }
+  },
+  {
+    "id": "robota",
+    "term": "Robota",
+    "aliases": [],
+    "short": "Czech: forced labor; the source of the word robot.",
+    "note": "The Czech word robota means compulsory labor. It supplied the name robot for the artificial workers in Karel Čapek’s play R.U.R., following a suggestion from his brother Josef.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/robot",
+        "label": "Merriam-Webster: robot, etymology"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-04",
+      "paragraph": "p-135",
+      "index": 16
+    }
+  },
+  {
+    "id": "brevet",
+    "term": "brevet",
+    "aliases": [],
+    "short": "An official authorization or honorary military commission.",
+    "note": "A warrant, license, or written commission granting authority or privilege. In military usage, a brevet grants an officer nominal rank above the rank carrying their regular pay.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordnik.com/words/brevet",
+        "label": "The Century Dictionary: brevet, via Wordnik"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/brevet",
+        "label": "Merriam-Webster: brevet"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-12",
+      "paragraph": "p-175",
+      "index": 11
+    }
+  },
+  {
+    "id": "anamnesis",
+    "term": "anamnesis",
+    "aliases": [],
+    "short": "A ritual act of remembrance.",
+    "note": "From Greek for recollection. In Christian worship, the anamnesis is the memorial portion of the Eucharistic Prayer recalling Christ’s saving acts.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/anamnesis",
+        "label": "Merriam-Webster: anamnesis"
+      },
+      {
+        "url": "https://www.usccb.org/sites/default/files/flipbooks/catechism/868/",
+        "label": "Catechism of the Catholic Church: Anamnesis"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-05",
+      "paragraph": "p-039",
+      "index": 17
+    }
+  },
+  {
+    "id": "diathermic",
+    "term": "diathermic",
+    "aliases": [],
+    "short": "Producing therapeutic heat within body tissues.",
+    "note": "Relating to diathermy, the controlled heating of tissues for medical treatment. Forms of it use high-frequency electrical energy or ultrasound.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspection-guides/diathermy",
+        "label": "U.S. FDA: Diathermy"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-05",
+      "paragraph": "p-047",
+      "index": 30
+    }
+  },
+  {
+    "id": "ambion",
+    "term": "ambion",
+    "aliases": [],
+    "short": "Possibly ambo: a church pulpit or reading stand.",
+    "note": "Possibly ambo, from Greek ambōn: a raised pulpit or reading desk used in churches for scripture readings and preaching.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ambo",
+        "label": "Merriam-Webster: ambo"
+      }
+    ],
+    "occurrences": 30,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-059",
+      "index": 1
+    }
+  },
+  {
+    "id": "stade",
+    "term": "stade",
+    "aliases": [
+      "stades"
+    ],
+    "short": "An ancient Greek measure of distance.",
+    "note": "An ancient unit of distance, also called a stadion or stadium. Its length varied by place; traditional Greek values were roughly 185 to 225 meters.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/stade",
+        "label": "Merriam-Webster: stade"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/stadium",
+        "label": "Merriam-Webster: stadium, sense 3"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "lake-06",
+      "paragraph": "p-044",
+      "index": 18
+    }
+  },
+  {
+    "id": "skittlepin",
+    "term": "skittlepin",
+    "aliases": [],
+    "short": "A pin knocked down in the game of skittles.",
+    "note": "A wooden bowling pin used as a target in skittles, a game in which players try to knock down a group of pins with a ball.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/skittle",
+        "label": "Collins English Dictionary: skittle"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "nightside-03",
+      "paragraph": "p-128",
+      "index": 2
+    }
+  },
+  {
+    "id": "euchologic",
+    "term": "euchologic",
+    "aliases": [],
+    "short": "Relating to prayers or liturgical formularies.",
+    "note": "Connected with euchology: a collection of prayers or rites. The related euchologion is a principal service book of the Eastern Orthodox Church.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/euchology",
+        "label": "Merriam-Webster: euchology"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/euchologion",
+        "label": "Merriam-Webster: euchologion"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-216",
+      "index": 28
+    }
+  },
+  {
+    "id": "prochein-ami",
+    "term": "prochain ami",
+    "aliases": [
+      "Prochein Ami"
+    ],
+    "short": "Anglo-French: a near friend or representative.",
+    "note": "Historically, prochein ami or prochain ami means a next friend: someone acting for another person in legal proceedings, particularly a minor. The words combine near or next with friend.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/prochein-ami",
+        "label": "Dictionary.com: prochein ami"
+      },
+      {
+        "url": "https://www.anglo-norman.net/entry/ami",
+        "label": "Anglo-Norman Dictionary: ami"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "lake-04",
+      "paragraph": "p-038",
+      "index": 16
+    }
+  },
+  {
+    "id": "riparial",
+    "term": "riparial",
+    "aliases": [],
+    "short": "Living along the bank or shore of water.",
+    "note": "An older form related to riparian; in zoology, describes animals that frequent the edges of streams, ponds, or other waters.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordnik.com/words/riparial",
+        "label": "The Century Dictionary: riparial, via Wordnik"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-08",
+      "paragraph": "p-075",
+      "index": 20
+    }
+  },
+  {
+    "id": "rheumy",
+    "term": "rheumy",
+    "aliases": [],
+    "short": "Watery or affected by discharge.",
+    "note": "Describes eyes affected by rheum, a watery discharge from the mucous membranes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/rheumy",
+        "label": "Merriam-Webster: rheumy"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/rheum",
+        "label": "Merriam-Webster: rheum"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-09",
+      "paragraph": "p-020",
+      "index": 45
+    }
+  },
+  {
+    "id": "sibilation",
+    "term": "sibilation",
+    "aliases": [],
+    "short": "A hissing sound.",
+    "note": "The production of a hiss or a sound resembling an s.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sibilate",
+        "label": "Merriam-Webster: sibilate and sibilation"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-03",
+      "paragraph": "p-017",
+      "index": 28
+    }
+  },
+  {
+    "id": "scutch",
+    "term": "scutches",
+    "aliases": [],
+    "short": "Tools for beating or dressing material.",
+    "note": "Scutch can name a tool used in separating fiber from flax, or a bricklayer’s hammer used for trimming and dressing bricks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/scutch",
+        "label": "Merriam-Webster: scutch"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-02",
+      "paragraph": "p-003",
+      "index": 1
+    }
+  },
+  {
+    "id": "carpal",
+    "term": "carpal",
+    "aliases": [
+      "carpals"
+    ],
+    "short": "A bone of the wrist region.",
+    "note": "A bone or other element of the carpus, the wrist region of a limb.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carpal",
+        "label": "Merriam-Webster: carpal"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/carpus",
+        "label": "Merriam-Webster: carpus"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "nightside-05",
+      "paragraph": "p-139",
+      "index": 4
+    }
+  },
+  {
+    "id": "theonomy",
+    "term": "theonomy",
+    "aliases": [],
+    "short": "Government by God or divine law.",
+    "note": "A term for rule or government attributed to God; from roots referring to deity and law.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/theonomy",
+        "label": "Merriam-Webster: theonomy"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-01",
+      "paragraph": "p-104",
+      "index": 26
+    }
+  },
+  {
+    "id": "feague",
+    "term": "feague",
+    "aliases": [],
+    "short": "Old slang: to stir up or encourage.",
+    "note": "In historical cant, to encourage or put spirit into someone; also an obsolete word for beating or whipping.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://words.fromoldbooks.org/Grose-VulgarTongue/f/feague.html",
+        "label": "Francis Grose: Dictionary of the Vulgar Tongue, feague"
+      },
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/feague",
+        "label": "Collins English Dictionary: feague"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-06",
+      "paragraph": "p-355",
+      "index": 42
     }
   }
 ]

@@ -1,0 +1,15 @@
+{
+  "book-of-the-long-sun": [
+    {
+      "chapter": "nightside-02",
+      "paragraph": "p-003",
+      "old_id": "pampa",
+      "old_text": "pampas",
+      "replacement_id": "pampas-grass",
+      "replacement_text": "pampas grass",
+      "count": 1,
+      "reason": "The phrase denotes the ornamental plant, not the South American grasslands. Retain the genuine grassland match at nightside-06/p-001.",
+      "text_offset": 42
+    }
+  ]
+}

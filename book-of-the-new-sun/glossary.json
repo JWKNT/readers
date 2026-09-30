@@ -11,8 +11,8 @@
       }
     ],
     "short": "Possibly Saint Thecla, a follower of Paul in Christian legend.",
-    "occurrences": 335,
     "possible": true,
+    "occurrences": 335,
     "first": {
       "chapter": "shadow-06",
       "paragraph": "p-071",
@@ -684,9 +684,10 @@
     "id": "merlon",
     "term": "merlon",
     "aliases": [
-      "merlons"
+      "merlons",
+      "merloned"
     ],
-    "note": "One of the solid upright sections of a battlement, between the gaps.",
+    "note": "One of the solid upright sections of a battlement, between the gaps. Merloned means provided with these battlements.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/merlon",
@@ -694,11 +695,11 @@
       }
     ],
     "short": "A solid upright section of a battlement.",
-    "occurrences": 1,
+    "occurrences": 2,
     "first": {
-      "chapter": "sword-35",
-      "paragraph": "p-012",
-      "index": 102
+      "chapter": "sword-01",
+      "paragraph": "p-031",
+      "index": 68
     }
   },
   {
@@ -854,14 +855,14 @@
     "aliases": [
       "clerestories"
     ],
-    "note": "A high band of windows admitting light above the adjoining roofs or aisles.",
+    "note": "A gallery; also the upper windowed part of a room or building rising above an adjoining roof.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/clerestory",
         "label": "Merriam-Webster"
       }
     ],
-    "short": "High windows above neighboring roofs or aisles.",
+    "short": "A gallery, or an upper windowed part of a building.",
     "occurrences": 4,
     "first": {
       "chapter": "claw-23",
@@ -2277,8 +2278,8 @@
       }
     ],
     "short": "A keyed brass instrument with a low register.",
-    "occurrences": 5,
     "possible": false,
+    "occurrences": 5,
     "first": {
       "chapter": "shadow-03",
       "paragraph": "p-032",
@@ -2310,21 +2311,26 @@
     "id": "crotalum",
     "term": "crotalum",
     "aliases": [
-      "crotali"
+      "crotali",
+      "crotal"
     ],
     "note": "A clapper or castanet-like percussion instrument used in antiquity.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/crotalum",
         "label": "Merriam-Webster"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/crotala",
+        "label": "Merriam-Webster · variant or base form"
       }
     ],
     "short": "An ancient clapper or castanet-like instrument.",
-    "occurrences": 1,
+    "occurrences": 2,
     "first": {
-      "chapter": "urth-49",
-      "paragraph": "p-015",
-      "index": 194
+      "chapter": "sword-27",
+      "paragraph": "p-018",
+      "index": 94
     }
   },
   {
@@ -2439,14 +2445,14 @@
     "aliases": [
       "analeptics"
     ],
-    "note": "A stimulant or restorative medicine; something that revives strength or consciousness.",
+    "note": "Restorative or stimulating; as a noun, a medicine that restores strength or consciousness.",
     "sources": [
       {
         "label": "Merriam-Webster",
         "url": "https://www.merriam-webster.com/dictionary/analeptic"
       }
     ],
-    "short": "A stimulant or restorative medicine.",
+    "short": "Restorative or stimulating; also a restorative medicine.",
     "occurrences": 2,
     "first": {
       "chapter": "claw-10",
@@ -2963,14 +2969,14 @@
     "aliases": [
       "algophilists"
     ],
-    "note": "A person who takes pleasure in experiencing pain.",
+    "note": "A person who takes pleasure, especially sexual pleasure, in inflicting or experiencing pain.",
     "sources": [
       {
-        "url": "https://en.wiktionary.org/wiki/algophilist",
-        "label": "Wiktionary"
+        "url": "https://wordnik.com/words/algophilia",
+        "label": "Wordnik · Princeton WordNet, algophilia"
       }
     ],
-    "short": "Someone who takes pleasure in pain.",
+    "short": "Someone who takes pleasure in inflicting or experiencing pain.",
     "occurrences": 1,
     "first": {
       "chapter": "claw-23",
@@ -3032,8 +3038,8 @@
       }
     ],
     "short": "Possibly Tabitha, the charitable disciple in Acts.",
-    "occurrences": 430,
     "possible": true,
+    "occurrences": 430,
     "first": {
       "chapter": "shadow-23",
       "paragraph": "p-018",
@@ -3109,8 +3115,8 @@
       }
     ],
     "short": "A shape-shifter in German literary tradition.",
-    "occurrences": 246,
     "possible": false,
+    "occurrences": 246,
     "first": {
       "chapter": "shadow-15",
       "paragraph": "p-025",
@@ -3329,17 +3335,22 @@
     "id": "cloisonn",
     "term": "cloisonné",
     "aliases": [
-      "cloisonnéwork"
+      "cloisonnéwork",
+      "cloisonne"
     ],
     "note": "Enamel work in which thin metal partitions separate the different colored areas.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/cloisonné",
         "label": "Merriam-Webster"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cloisonne",
+        "label": "Merriam-Webster · variant or base form"
       }
     ],
     "short": "Enamel separated into cells by metal partitions.",
-    "occurrences": 2,
+    "occurrences": 3,
     "first": {
       "chapter": "shadow-22",
       "paragraph": "p-041",
@@ -4607,8 +4618,8 @@
       }
     ],
     "short": "A covered litter carried on poles.",
-    "occurrences": 8,
     "possible": false,
+    "occurrences": 8,
     "first": {
       "chapter": "citadel-28",
       "paragraph": "p-009",
@@ -4979,8 +4990,8 @@
       }
     ],
     "short": "Prophetic or oracular.",
-    "occurrences": 4,
     "possible": false,
+    "occurrences": 4,
     "first": {
       "chapter": "shadow-10",
       "paragraph": "p-008",
@@ -5591,14 +5602,14 @@
     "aliases": [
       "mizzenmasts"
     ],
-    "note": "The mast aft of the mainmast on a vessel with three or more masts.",
+    "note": "The mast immediately behind the mainmast on a sailing vessel.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/mizzenmast",
         "label": "Merriam-Webster"
       }
     ],
-    "short": "The mast behind the mainmast.",
+    "short": "The mast immediately behind the mainmast.",
     "occurrences": 3,
     "first": {
       "chapter": "citadel-33",
@@ -5716,7 +5727,8 @@
     "id": "gnomon",
     "term": "gnomon",
     "aliases": [
-      "gnomons"
+      "gnomons",
+      "gnomens"
     ],
     "note": "The part of a sundial that casts the shadow used to indicate the time.",
     "sources": [
@@ -5726,7 +5738,7 @@
       }
     ],
     "short": "The shadow-casting part of a sundial.",
-    "occurrences": 3,
+    "occurrences": 4,
     "first": {
       "chapter": "shadow-04",
       "paragraph": "p-024",
@@ -7154,7 +7166,9 @@
     "id": "huanaco",
     "term": "huanaco",
     "aliases": [
-      "huanacos"
+      "huanacos",
+      "guanaco",
+      "guanacos"
     ],
     "note": "A guanaco: a wild, long-necked South American relative of the camel, with no hump and a thick coat.",
     "sources": [
@@ -7164,7 +7178,7 @@
       }
     ],
     "short": "A guanaco, a wild South American camel relative.",
-    "occurrences": 1,
+    "occurrences": 2,
     "first": {
       "chapter": "sword-02",
       "paragraph": "p-010",
@@ -7223,8 +7237,8 @@
       }
     ],
     "short": "Possibly Saint Fara, founder of Faremoutiers.",
-    "occurrences": 102,
     "possible": true,
+    "occurrences": 102,
     "first": {
       "chapter": "urth-02",
       "paragraph": "p-035",
@@ -7243,8 +7257,8 @@
       }
     ],
     "short": "Possibly Saint Eata, a Northumbrian bishop.",
-    "occurrences": 53,
     "possible": true,
+    "occurrences": 53,
     "first": {
       "chapter": "shadow-01",
       "paragraph": "p-003",
@@ -7263,8 +7277,8 @@
       }
     ],
     "short": "Possibly Saint Gurloës, the abbot of Quimperlé.",
-    "occurrences": 115,
     "possible": true,
+    "occurrences": 115,
     "first": {
       "chapter": "shadow-01",
       "paragraph": "p-004",
@@ -7283,8 +7297,8 @@
       }
     ],
     "short": "Possibly Saint Ymar, a monk of Reculver.",
-    "occurrences": 26,
     "possible": true,
+    "occurrences": 26,
     "first": {
       "chapter": "shadow-02",
       "paragraph": "p-006",
@@ -7303,8 +7317,8 @@
       }
     ],
     "short": "Possibly Saint Rosendo, founder of Celanova.",
-    "occurrences": 15,
     "possible": true,
+    "occurrences": 15,
     "first": {
       "chapter": "shadow-05",
       "paragraph": "p-039",
@@ -7323,8 +7337,8 @@
       }
     ],
     "short": "Possibly Saint Hildegrim, bishop of Châlons.",
-    "occurrences": 65,
     "possible": true,
+    "occurrences": 65,
     "first": {
       "chapter": "shadow-23",
       "paragraph": "p-041",
@@ -7343,8 +7357,8 @@
       }
     ],
     "short": "Possibly Saint Agilus, first abbot of Rebais.",
-    "occurrences": 44,
     "possible": true,
+    "occurrences": 44,
     "first": {
       "chapter": "shadow-18",
       "paragraph": "p-002",
@@ -7363,8 +7377,8 @@
       }
     ],
     "short": "Possibly Saint Trudo, founder of Sint-Truiden.",
-    "occurrences": 11,
     "possible": true,
+    "occurrences": 11,
     "first": {
       "chapter": "shadow-25",
       "paragraph": "p-084",
@@ -7383,8 +7397,8 @@
       }
     ],
     "short": "Possibly Saint Pega, an Anglo-Saxon anchoress.",
-    "occurrences": 25,
     "possible": true,
+    "occurrences": 25,
     "first": {
       "chapter": "urth-44",
       "paragraph": "p-022",
@@ -7407,8 +7421,8 @@
       }
     ],
     "short": "Possibly Saint Ansgar, a Scandinavian missionary.",
-    "occurrences": 17,
     "possible": true,
+    "occurrences": 17,
     "first": {
       "chapter": "citadel-07",
       "paragraph": "p-002",
@@ -7427,8 +7441,8 @@
       }
     ],
     "short": "Possibly Saint Declan, associated with Ardmore.",
-    "occurrences": 30,
     "possible": true,
+    "occurrences": 30,
     "first": {
       "chapter": "urth-29",
       "paragraph": "p-034",
@@ -7447,8 +7461,8 @@
       }
     ],
     "short": "Possibly Saint Odilo, the abbot of Cluny.",
-    "occurrences": 43,
     "possible": true,
+    "occurrences": 43,
     "first": {
       "chapter": "claw-19",
       "paragraph": "p-011",
@@ -7599,7 +7613,9 @@
   {
     "id": "briah",
     "term": "Briah",
-    "aliases": [],
+    "aliases": [
+      "Briahtic"
+    ],
     "note": "Beri’ah, the “World of Creation” in Kabbalah. One of the four worlds, it lies below Atzilut, the World of Emanation. Here created beings are understood as distinct, though still dependent on the divine.",
     "sources": [
       {
@@ -7608,7 +7624,7 @@
       }
     ],
     "short": "The Kabbalistic World of Creation.",
-    "occurrences": 23,
+    "occurrences": 24,
     "first": {
       "chapter": "urth-14",
       "paragraph": "p-046",
@@ -7924,8 +7940,8 @@
       }
     ],
     "short": "Possibly Droctoveus, a sixth-century abbot in Paris.",
-    "occurrences": 84,
     "possible": true,
+    "occurrences": 84,
     "first": {
       "chapter": "shadow-01",
       "paragraph": "p-002",
@@ -7944,8 +7960,8 @@
       }
     ],
     "short": "Possibly Ethor, a monk-priest and martyr of Chertsey.",
-    "occurrences": 71,
     "possible": true,
+    "occurrences": 71,
     "first": {
       "chapter": "shadow-35",
       "paragraph": "p-005",
@@ -9043,8 +9059,8 @@
       "Ascian",
       "Ascians"
     ],
-    "occurrences": 153,
     "possible": false,
+    "occurrences": 153,
     "first": {
       "chapter": "shadow-03",
       "paragraph": "p-044",
@@ -11502,7 +11518,9 @@
     "id": "simar",
     "term": "simar",
     "aliases": [
-      "simar"
+      "simar",
+      "cymar",
+      "cymars"
     ],
     "short": "A flowing robe or light shift.",
     "note": "An old garment name covering a flowing Renaissance gown, a light shift, or a long outer robe.",
@@ -11513,11 +11531,11 @@
         "label": "Merriam-Webster"
       }
     ],
-    "occurrences": 2,
+    "occurrences": 3,
     "first": {
-      "chapter": "shadow-29",
-      "paragraph": "p-002",
-      "index": 28
+      "chapter": "shadow-16",
+      "paragraph": "p-051",
+      "index": 15
     }
   },
   {
@@ -12214,7 +12232,8 @@
     "id": "lansquenet",
     "term": "lansquenet",
     "aliases": [
-      "lansquenet"
+      "lansquenet",
+      "lansquenets"
     ],
     "short": "A German mercenary foot soldier.",
     "note": "A German infantry mercenary of the fifteenth to seventeenth centuries; from German Landsknecht. The word also names an old card game.",
@@ -12225,11 +12244,11 @@
         "label": "Merriam-Webster"
       }
     ],
-    "occurrences": 1,
+    "occurrences": 2,
     "first": {
-      "chapter": "shadow-16",
-      "paragraph": "p-041",
-      "index": 15
+      "chapter": "shadow-07",
+      "paragraph": "p-065",
+      "index": 6
     }
   },
   {
@@ -12527,7 +12546,8 @@
     "id": "teratornis",
     "term": "teratornis",
     "aliases": [
-      "teratornis"
+      "teratornis",
+      "teratornises"
     ],
     "short": "An extinct giant soaring bird.",
     "note": "Teratornis is a genus of large extinct birds. Teratornis merriami, found at La Brea, resembled a condor and exceeded the California condor in size.",
@@ -12538,7 +12558,7 @@
         "label": "Natural History Museum of Los Angeles County · La Brea Tar Pits"
       }
     ],
-    "occurrences": 5,
+    "occurrences": 6,
     "first": {
       "chapter": "shadow-35",
       "paragraph": "p-053",
@@ -14832,13 +14852,13 @@
     "aliases": [
       "agnation"
     ],
-    "short": "Kinship traced through the male line.",
-    "note": "In older legal usage, descent or kinship reckoned through an uninterrupted male line.",
+    "short": "Kinship or relationship; legally, descent through the male line.",
+    "note": "Kinship or relationship, including a relationship of common origin; in legal usage, descent reckoned through the male line.",
     "possible": false,
     "sources": [
       {
-        "url": "https://www.gutenberg.org/ebooks/29765",
-        "label": "Webster’s Unabridged Dictionary (1913)"
+        "url": "https://wordnik.com/words/agnation",
+        "label": "Wordnik · The Century Dictionary, agnation"
       }
     ],
     "occurrences": 1,
@@ -14920,18 +14940,24 @@
     "term": "capote",
     "aliases": [
       "capote",
-      "capotes"
+      "capotes",
+      "capot",
+      "capots"
     ],
     "short": "A long cloak, often hooded.",
     "note": "A long cloak or overcoat, especially one fitted with a hood.",
     "possible": false,
     "sources": [
       {
-        "url": "https://www.gutenberg.org/ebooks/29765",
-        "label": "Webster’s Unabridged Dictionary (1913)"
+        "url": "https://www.merriam-webster.com/dictionary/capote",
+        "label": "Merriam-Webster"
+      },
+      {
+        "url": "https://www.dictionary.com/browse/capot",
+        "label": "Dictionary.com · capot"
       }
     ],
-    "occurrences": 2,
+    "occurrences": 3,
     "first": {
       "chapter": "shadow-16",
       "paragraph": "p-051",
@@ -15334,13 +15360,13 @@
       "espalier",
       "espaliers"
     ],
-    "short": "A tree trained flat against a support.",
-    "note": "A tree or shrub trained to grow flat against a wall or framework; also the supporting framework.",
+    "short": "To train a plant flat against a support.",
+    "note": "To train a tree or shrub to grow flat against a wall or framework; also the plant trained in this way, or its supporting framework.",
     "possible": false,
     "sources": [
       {
-        "url": "https://www.gutenberg.org/ebooks/29765",
-        "label": "Webster’s Unabridged Dictionary (1913)"
+        "url": "https://www.merriam-webster.com/dictionary/espalier",
+        "label": "Merriam-Webster · espalier"
       }
     ],
     "occurrences": 1,
@@ -16290,6 +16316,3873 @@
       "chapter": "urth-45",
       "paragraph": "p-040",
       "index": 190
+    }
+  },
+  {
+    "id": "ablegates",
+    "term": "ablegates",
+    "aliases": [],
+    "short": "Envoys sent on special missions.",
+    "note": "Historically, papal representatives entrusted with a particular mission, such as delivering a new cardinal’s insignia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ablegate",
+        "label": "Merriam-Webster: ablegate"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-05",
+      "paragraph": "p-003",
+      "index": 72
+    }
+  },
+  {
+    "id": "acaryas",
+    "term": "acaryas",
+    "aliases": [],
+    "short": "Religious teachers or learned scholars.",
+    "note": "From Sanskrit ācārya, a teacher versed in sacred learning; also spelled acharya.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/acharya",
+        "label": "Merriam-Webster: acharya"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-31",
+      "paragraph": "p-059",
+      "index": 137
+    }
+  },
+  {
+    "id": "anacrisis",
+    "term": "anacrisis",
+    "aliases": [],
+    "short": "Judicial interrogation, sometimes involving torture.",
+    "note": "An inquiry into the truth of a legal case, historically often conducted through interrogation and torture.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/anacrisis",
+        "label": "Merriam-Webster: anacrisis"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-21",
+      "paragraph": "p-027",
+      "index": 20
+    }
+  },
+  {
+    "id": "ancilla",
+    "term": "ancilla",
+    "aliases": [],
+    "short": "Latin: a female servant.",
+    "note": "The Latin word for a female servant; related English uses describe something serving as an aid.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ancilla",
+        "label": "Merriam-Webster: ancilla"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-44",
+      "paragraph": "p-023",
+      "index": 189
+    }
+  },
+  {
+    "id": "atlantes",
+    "term": "atlantes",
+    "aliases": [],
+    "short": "Male figures used as architectural supports.",
+    "note": "Sculpted male figures serving as columns or pilasters; the male counterparts of caryatids.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/atlantes",
+        "label": "Merriam-Webster: atlantes"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-35",
+      "paragraph": "p-027",
+      "index": 102
+    }
+  },
+  {
+    "id": "cabochon",
+    "term": "cabochon",
+    "aliases": [],
+    "short": "Polished into a rounded shape, without facets.",
+    "note": "A style of gem cutting that produces a smooth convex surface instead of a series of flat faces.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cabochon",
+        "label": "Merriam-Webster: cabochon"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-08",
+      "paragraph": "p-019",
+      "index": 7
+    }
+  },
+  {
+    "id": "acosmists",
+    "term": "acosmists",
+    "aliases": [],
+    "short": "Those denying the universe’s independent reality.",
+    "note": "Adherents of acosmism, the view that the universe lacks absolute reality or has no existence apart from God.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/acosmism",
+        "label": "Merriam-Webster: acosmism"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-38",
+      "paragraph": "p-010",
+      "index": 105
+    }
+  },
+  {
+    "id": "argent",
+    "term": "argent",
+    "aliases": [],
+    "short": "Silvery or white.",
+    "note": "An old word for silver, also used in heraldry for the silver or white color.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/argent",
+        "label": "Merriam-Webster: argent"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "shadow-21",
+      "paragraph": "p-046",
+      "index": 20
+    }
+  },
+  {
+    "id": "atomy",
+    "term": "atomy",
+    "aliases": [],
+    "short": "A tiny particle or minute being.",
+    "note": "An old word for an extremely small thing, comparable to an atom or mite.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/atomy",
+        "label": "Merriam-Webster: atomy"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-24",
+      "paragraph": "p-050",
+      "index": 169
+    }
+  },
+  {
+    "id": "binnacle",
+    "term": "binnacle",
+    "aliases": [],
+    "short": "The housing for a ship’s compass.",
+    "note": "A stand or enclosure protecting a ship’s compass and its lamp.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/binnacle",
+        "label": "Merriam-Webster: binnacle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-33",
+      "paragraph": "p-006",
+      "index": 139
+    }
+  },
+  {
+    "id": "brassard",
+    "term": "brassard",
+    "aliases": [],
+    "short": "Armor protecting the arm.",
+    "note": "A piece of arm armor; a separate later sense is an identifying band worn around the upper arm.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/brassard",
+        "label": "Merriam-Webster: brassard"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "urth-08",
+      "paragraph": "p-011",
+      "index": 153
+    }
+  },
+  {
+    "id": "buckram",
+    "term": "buckram",
+    "aliases": [],
+    "short": "Stiff cloth used in bookbinding.",
+    "note": "Cotton or linen fabric stiffened with sizing, used for book covers and for reinforcement in clothing or hats.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/buckram",
+        "label": "Merriam-Webster: buckram"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-06",
+      "paragraph": "p-066",
+      "index": 5
+    }
+  },
+  {
+    "id": "buntlines",
+    "term": "buntlines",
+    "aliases": [],
+    "short": "Ropes used to gather a sail for furling.",
+    "note": "Lines attached to the foot of a square sail to draw it upward toward the yard.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/buntline",
+        "label": "Merriam-Webster: buntline"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-02",
+      "paragraph": "p-007",
+      "index": 147
+    }
+  },
+  {
+    "id": "burse",
+    "term": "burse",
+    "aliases": [],
+    "short": "A purse or pouch.",
+    "note": "An old word for a purse; in church usage it can also mean a case for an altar cloth.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/burse",
+        "label": "Merriam-Webster: burse"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-09",
+      "paragraph": "p-023",
+      "index": 8
+    }
+  },
+  {
+    "id": "cestus",
+    "term": "cestus",
+    "aliases": [],
+    "short": "A belt or girdle.",
+    "note": "Historically a woman’s belt, especially a bridal one. This word is distinct from cestus meaning an ancient boxer’s reinforced hand covering.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cestus",
+        "label": "Merriam-Webster: cestus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-46",
+      "paragraph": "p-048",
+      "index": 191
+    }
+  },
+  {
+    "id": "clews",
+    "term": "clews",
+    "aliases": [],
+    "short": "The lower corners of sails.",
+    "note": "The lower or after corner of a sail, or a metal loop attached there for its controlling lines.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/clew",
+        "label": "Merriam-Webster: clew"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-32",
+      "paragraph": "p-012",
+      "index": 99
+    }
+  },
+  {
+    "id": "cocklofts",
+    "term": "cocklofts",
+    "aliases": [],
+    "short": "Small attics or garrets.",
+    "note": "Cramped spaces beneath a roof.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cockloft",
+        "label": "Merriam-Webster: cockloft"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-06",
+      "paragraph": "p-030",
+      "index": 73
+    }
+  },
+  {
+    "id": "andiron",
+    "term": "andiron",
+    "aliases": [],
+    "short": "A metal support for logs in a fireplace.",
+    "note": "One of a pair of raised supports that hold firewood above the hearth.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/andiron",
+        "label": "Merriam-Webster: andiron"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-36",
+      "paragraph": "p-028",
+      "index": 142
+    }
+  },
+  {
+    "id": "bathos",
+    "term": "bathos",
+    "aliases": [],
+    "short": "An anticlimactic descent from the elevated to the trivial.",
+    "note": "A sudden lapse from grandeur into the commonplace; also excessive or insincere sentimentality.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bathos",
+        "label": "Merriam-Webster: bathos"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-33",
+      "paragraph": "p-010",
+      "index": 139
+    }
+  },
+  {
+    "id": "bijoux",
+    "term": "bijoux",
+    "aliases": [],
+    "short": "Jewels or small ornamental objects.",
+    "note": "Plural of bijou, a small decorative object of delicate workmanship.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bijou",
+        "label": "Merriam-Webster: bijou"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-14",
+      "paragraph": "p-017",
+      "index": 49
+    }
+  },
+  {
+    "id": "cantilena",
+    "term": "cantilena",
+    "aliases": [],
+    "short": "A flowing, lyrical musical passage.",
+    "note": "A sustained songlike passage for voice or instrument.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cantilena",
+        "label": "Merriam-Webster: cantilena"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-27",
+      "paragraph": "p-020",
+      "index": 94
+    }
+  },
+  {
+    "id": "catenary",
+    "term": "catenary",
+    "aliases": [],
+    "short": "The curve of a freely hanging chain or cord.",
+    "note": "The shape taken by a flexible, uniform, unstretchable cord suspended between two points; also something having that shape.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/catenary",
+        "label": "Merriam-Webster: catenary"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-13",
+      "paragraph": "p-026",
+      "index": 119
+    }
+  },
+  {
+    "id": "conation",
+    "term": "conation",
+    "aliases": [],
+    "short": "The impulse or will to act purposefully.",
+    "note": "A mental drive toward action, including wishes, cravings, and instincts.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/conation",
+        "label": "Merriam-Webster: conation"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-43",
+      "paragraph": "p-043",
+      "index": 188
+    }
+  },
+  {
+    "id": "coneys",
+    "term": "coneys",
+    "aliases": [],
+    "short": "An old name for rabbits.",
+    "note": "An old name for rabbits, also spelled conies. The name can additionally refer to pikas or hyraxes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/coney",
+        "label": "Merriam-Webster: coney"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "citadel-37",
+      "paragraph": "p-092",
+      "index": 143
+    }
+  },
+  {
+    "id": "conventicles",
+    "term": "conventicles",
+    "aliases": [],
+    "short": "Religious meeting places or assemblies.",
+    "note": "A meeting for worship, especially a private or unauthorized one; also the building where it is held.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/conventicle",
+        "label": "Merriam-Webster: conventicle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-16",
+      "paragraph": "p-040",
+      "index": 15
+    }
+  },
+  {
+    "id": "corroborant",
+    "term": "corroborant",
+    "aliases": [],
+    "short": "Invigorating or strengthening.",
+    "note": "An archaic adjective particularly applied to medicines thought to restore strength.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/corroborant",
+        "label": "Merriam-Webster: corroborant"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-44",
+      "paragraph": "p-003",
+      "index": 189
+    }
+  },
+  {
+    "id": "corundum",
+    "term": "corundum",
+    "aliases": [],
+    "short": "The very hard mineral of ruby and sapphire.",
+    "note": "Aluminum oxide in crystalline or massive form, used both as a gemstone and as an abrasive.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/corundum",
+        "label": "Merriam-Webster: corundum"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-34",
+      "paragraph": "p-019",
+      "index": 101
+    }
+  },
+  {
+    "id": "crupper",
+    "term": "crupper",
+    "aliases": [],
+    "short": "A horse’s rump or a saddle strap beneath its tail.",
+    "note": "The rear of a horse, or the leather loop beneath the tail that helps secure a saddle.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/crupper",
+        "label": "Merriam-Webster: crupper"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-19",
+      "paragraph": "p-023",
+      "index": 125
+    }
+  },
+  {
+    "id": "cuir-bouilli",
+    "term": "cuir-bouilli",
+    "aliases": [],
+    "short": "Hardened, shaped leather used for armor.",
+    "note": "Leather softened by soaking, molded into shape, and dried hard; historically used for armor and decorative objects.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cuir-bouilli",
+        "label": "Merriam-Webster: cuir-bouilli"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-44",
+      "paragraph": "p-029",
+      "index": 189
+    }
+  },
+  {
+    "id": "cuvee",
+    "term": "cuvee",
+    "aliases": [],
+    "short": "A batch or blend of wine.",
+    "note": "Wine held or blended in a vat; also the blend of still wines used to make champagne.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cuvee",
+        "label": "Merriam-Webster: cuvee"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-06",
+      "paragraph": "p-008",
+      "index": 73
+    }
+  },
+  {
+    "id": "cyaneous",
+    "term": "cyaneous",
+    "aliases": [],
+    "short": "Blue, especially dark blue.",
+    "note": "A color word derived from Latin cyaneus, meaning dark blue.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cyaneous",
+        "label": "Merriam-Webster: cyaneous"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-29",
+      "paragraph": "p-029",
+      "index": 64
+    }
+  },
+  {
+    "id": "defenestrations",
+    "term": "defenestrations",
+    "aliases": [],
+    "short": "Acts of throwing someone out of a window.",
+    "note": "Defenestration literally means throwing a person or object through a window; its later figurative use means forcible removal from office.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/defenestration",
+        "label": "Merriam-Webster: defenestration"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-30",
+      "paragraph": "p-007",
+      "index": 29
+    }
+  },
+  {
+    "id": "dholes",
+    "term": "dholes",
+    "aliases": [],
+    "short": "Asian wild dogs that hunt in packs.",
+    "note": "Cuon alpinus, a social wild canid whose packs can bring down large prey.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dhole",
+        "label": "Merriam-Webster: dhole"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-01",
+      "paragraph": "p-042",
+      "index": 0
+    }
+  },
+  {
+    "id": "dramshop",
+    "term": "dramshop",
+    "aliases": [],
+    "short": "A tavern or barroom.",
+    "note": "A place where alcoholic drinks are sold and consumed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dramshop",
+        "label": "Merriam-Webster: dramshop"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-31",
+      "paragraph": "p-032",
+      "index": 176
+    }
+  },
+  {
+    "id": "eisegesistic",
+    "term": "eisegesistic",
+    "aliases": [],
+    "short": "Reading one’s own ideas into a text.",
+    "note": "Relating to eisegesis: interpretation that imposes the reader’s assumptions on the material.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/eisegesis",
+        "label": "Merriam-Webster: eisegesis"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-06",
+      "paragraph": "p-030",
+      "index": 73
+    }
+  },
+  {
+    "id": "ethology",
+    "term": "ethology",
+    "aliases": [],
+    "short": "The study of behavior or the formation of character.",
+    "note": "The term can describe the development of human character or, in biology, the study of animal behavior under natural conditions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ethology",
+        "label": "Merriam-Webster: ethology"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-19",
+      "paragraph": "p-053",
+      "index": 164
+    }
+  },
+  {
+    "id": "feudatory",
+    "term": "feudatory",
+    "aliases": [],
+    "short": "A landholder owing feudal allegiance.",
+    "note": "A person holding land under an overlord, to whom obligations of service or loyalty are owed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/feudatory",
+        "label": "Merriam-Webster: feudatory"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-13",
+      "paragraph": "p-003",
+      "index": 119
+    }
+  },
+  {
+    "id": "flageolets",
+    "term": "flageolets",
+    "aliases": [],
+    "short": "Small flutes resembling recorders.",
+    "note": "High-pitched wind instruments sounded through a duct or fipple mouthpiece.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/flageolet",
+        "label": "Merriam-Webster: flageolet"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-14",
+      "paragraph": "p-024",
+      "index": 13
+    }
+  },
+  {
+    "id": "forestay",
+    "term": "forestay",
+    "aliases": [],
+    "short": "A forward-running support for a ship’s mast.",
+    "note": "A supporting line running from the foremast toward the bow or forward deck.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/forestay",
+        "label": "Merriam-Webster: forestay"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-33",
+      "paragraph": "p-005",
+      "index": 139
+    }
+  },
+  {
+    "id": "fulgurant",
+    "term": "fulgurant",
+    "aliases": [],
+    "short": "Brilliant or flashing like lightning.",
+    "note": "From Latin fulgur, a flash of lightning; applied to something that gleams or blazes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/fulgurant",
+        "label": "Merriam-Webster: fulgurant"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-28",
+      "paragraph": "p-004",
+      "index": 134
+    }
+  },
+  {
+    "id": "gamin",
+    "term": "gamin",
+    "aliases": [],
+    "short": "A street urchin or mischievous child.",
+    "note": "A boy associated with street life; the word can also suggest a playful, impish appearance.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gamin",
+        "label": "Merriam-Webster: gamin"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-37",
+      "paragraph": "p-084",
+      "index": 143
+    }
+  },
+  {
+    "id": "godowns",
+    "term": "godowns",
+    "aliases": [],
+    "short": "Warehouses or storehouses.",
+    "note": "A term especially used for warehouses in southern and eastern Asia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/godown",
+        "label": "Merriam-Webster: godown"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-33",
+      "paragraph": "p-020",
+      "index": 178
+    }
+  },
+  {
+    "id": "gorget",
+    "term": "gorget",
+    "aliases": [],
+    "short": "Armor protecting the throat.",
+    "note": "A protective piece worn around the neck; later also an ornamental collar or badge.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gorget",
+        "label": "Merriam-Webster: gorget"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-14",
+      "paragraph": "p-008",
+      "index": 49
+    }
+  },
+  {
+    "id": "greaves",
+    "term": "greaves",
+    "aliases": [],
+    "short": "Armor covering the shins.",
+    "note": "Protective plates worn over the lower legs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/greave",
+        "label": "Merriam-Webster: greave"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-14",
+      "paragraph": "p-008",
+      "index": 49
+    }
+  },
+  {
+    "id": "guiser",
+    "term": "guiser",
+    "aliases": [],
+    "short": "A person in disguise or costume.",
+    "note": "A chiefly Scottish word for a masked or costumed performer, especially a seasonal mummer.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/guiser",
+        "label": "Merriam-Webster: guiser"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-16",
+      "paragraph": "p-006",
+      "index": 161
+    }
+  },
+  {
+    "id": "gymnosophists",
+    "term": "gymnosophists",
+    "aliases": [],
+    "short": "Naked ascetics of ancient India.",
+    "note": "A Greek-derived name for Indian religious philosophers who practiced meditation without clothing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gymnosophist",
+        "label": "Merriam-Webster: gymnosophist"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-05",
+      "paragraph": "p-003",
+      "index": 72
+    }
+  },
+  {
+    "id": "habiliments",
+    "term": "habiliments",
+    "aliases": [],
+    "short": "Clothing or the dress of a particular occupation.",
+    "note": "Garments and equipment characteristic of a role or occasion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/habiliment",
+        "label": "Merriam-Webster: habiliment"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-44",
+      "paragraph": "p-040",
+      "index": 189
+    }
+  },
+  {
+    "id": "helot",
+    "term": "helot",
+    "aliases": [],
+    "short": "An enslaved person or serf.",
+    "note": "Originally a member of the subject agricultural population of ancient Sparta; later a general word for someone in forced servitude.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/helot",
+        "label": "Merriam-Webster: helot"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-17",
+      "paragraph": "p-015",
+      "index": 52
+    }
+  },
+  {
+    "id": "hyaline",
+    "term": "hyaline",
+    "aliases": [],
+    "short": "Transparent or glasslike.",
+    "note": "Clear or nearly clear, usually with a uniform appearance.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hyaline",
+        "label": "Merriam-Webster: hyaline"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-16",
+      "paragraph": "p-044",
+      "index": 161
+    }
+  },
+  {
+    "id": "hylas",
+    "term": "hylas",
+    "aliases": [],
+    "short": "Tree frogs.",
+    "note": "Amphibians of the genus Hyla, with adhesive toe pads adapted for climbing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hyla",
+        "label": "Merriam-Webster: hyla"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-27",
+      "paragraph": "p-007",
+      "index": 26
+    }
+  },
+  {
+    "id": "ingenue",
+    "term": "ingenue",
+    "aliases": [],
+    "short": "An innocent young woman’s role in a play.",
+    "note": "A naive young female character, or an actress who plays that part.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ingenue",
+        "label": "Merriam-Webster: ingenue"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-16",
+      "paragraph": "p-022",
+      "index": 15
+    }
+  },
+  {
+    "id": "lenitive",
+    "term": "lenitive",
+    "aliases": [],
+    "short": "Something that soothes or relieves suffering.",
+    "note": "A remedy or influence that eases pain, irritation, or distress.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lenitive",
+        "label": "Merriam-Webster: lenitive"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-26",
+      "paragraph": "p-051",
+      "index": 61
+    }
+  },
+  {
+    "id": "linkboys",
+    "term": "linkboys",
+    "aliases": [],
+    "short": "Attendants who carried lights through dark streets.",
+    "note": "People employed to guide pedestrians at night by bearing a torch or other light.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/linkboy",
+        "label": "Merriam-Webster: linkboy"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-14",
+      "paragraph": "p-024",
+      "index": 13
+    }
+  },
+  {
+    "id": "liquescent",
+    "term": "liquescent",
+    "aliases": [],
+    "short": "Liquid or becoming liquid.",
+    "note": "Melting, or tending to pass into a fluid state.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/liquescent",
+        "label": "Merriam-Webster: liquescent"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-24",
+      "paragraph": "p-094",
+      "index": 59
+    }
+  },
+  {
+    "id": "lugsails",
+    "term": "lugsails",
+    "aliases": [],
+    "short": "Four-sided sails hung from slanting yards.",
+    "note": "Sails attached to an oblique spar that is raised and lowered along with the canvas.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lugsail",
+        "label": "Merriam-Webster: lugsail"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-37",
+      "paragraph": "p-012",
+      "index": 143
+    }
+  },
+  {
+    "id": "margay",
+    "term": "margay",
+    "aliases": [],
+    "short": "A small spotted wild cat of tropical America.",
+    "note": "Leopardus wiedii, an American cat resembling a small ocelot.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/margay",
+        "label": "Merriam-Webster: margay"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-21",
+      "paragraph": "p-019",
+      "index": 20
+    }
+  },
+  {
+    "id": "minims",
+    "term": "minims",
+    "aliases": [],
+    "short": "Very small measures of liquid.",
+    "note": "An apothecary’s unit equal to one sixtieth of a fluid dram.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/minim",
+        "label": "Merriam-Webster: minim"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-03",
+      "paragraph": "p-006",
+      "index": 2
+    }
+  },
+  {
+    "id": "montane",
+    "term": "montane",
+    "aliases": [],
+    "short": "Of mountain slopes or their vegetation.",
+    "note": "Relating to upland environments, especially the cool forested zone below the timberline.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/montane",
+        "label": "Merriam-Webster: montane"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-18",
+      "paragraph": "p-027",
+      "index": 85
+    }
+  },
+  {
+    "id": "morocco",
+    "term": "morocco",
+    "aliases": [],
+    "short": "Fine goatskin leather.",
+    "note": "Leather made from goatskin tanned with sumac, traditionally used for bookbinding and other fine work.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/morocco",
+        "label": "Merriam-Webster: morocco"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-06",
+      "paragraph": "p-038",
+      "index": 5
+    }
+  },
+  {
+    "id": "mummery",
+    "term": "mummery",
+    "aliases": [],
+    "short": "A pretentious or empty performance.",
+    "note": "Originally a performance by costumed mummers; also an ostentatious, hypocritical, or ridiculous ceremony.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mummery",
+        "label": "Merriam-Webster: mummery"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-03",
+      "paragraph": "p-030",
+      "index": 2
+    }
+  },
+  {
+    "id": "newel",
+    "term": "newel",
+    "aliases": [],
+    "short": "A principal post of a staircase.",
+    "note": "The central post of a winding stair, or a supporting post at a stairway’s foot or landing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/newel",
+        "label": "Merriam-Webster: newel"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-19",
+      "paragraph": "p-008",
+      "index": 54
+    }
+  },
+  {
+    "id": "odeum",
+    "term": "odeum",
+    "aliases": [],
+    "short": "A theater or concert hall.",
+    "note": "In ancient Greece and Rome, a roofed theater chiefly used for music and poetry competitions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/odeum",
+        "label": "Merriam-Webster: odeum"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-36",
+      "paragraph": "p-024",
+      "index": 103
+    }
+  },
+  {
+    "id": "oneiric",
+    "term": "oneiric",
+    "aliases": [],
+    "short": "Dreamlike or relating to dreams.",
+    "note": "Dreamlike or relating to dreams; from Greek oneiros, meaning dream.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/oneiric",
+        "label": "Merriam-Webster: oneiric"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-36",
+      "paragraph": "p-024",
+      "index": 103
+    }
+  },
+  {
+    "id": "orchestrion",
+    "term": "orchestrion",
+    "aliases": [],
+    "short": "A mechanical instrument imitating an orchestra.",
+    "note": "A musical device with different stops that reproduce the sounds of several instruments.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/orchestrion",
+        "label": "Merriam-Webster: orchestrion"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-28",
+      "paragraph": "p-055",
+      "index": 173
+    }
+  },
+  {
+    "id": "organza",
+    "term": "organza",
+    "aliases": [],
+    "short": "A thin, sheer dress fabric.",
+    "note": "A transparent fabric made from silk or synthetic fibers, similar to organdy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/organza",
+        "label": "Merriam-Webster: organza"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-26",
+      "paragraph": "p-064",
+      "index": 61
+    }
+  },
+  {
+    "id": "pardal",
+    "term": "pardal",
+    "aliases": [],
+    "short": "An old name for a leopard.",
+    "note": "An obsolete word for a leopard, derived from Greek and Latin pardalis.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pardal",
+        "label": "Merriam-Webster: pardal"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-10",
+      "paragraph": "p-036",
+      "index": 77
+    }
+  },
+  {
+    "id": "pardine",
+    "term": "pardine",
+    "aliases": [],
+    "short": "Leopardlike or spotted like a leopard.",
+    "note": "Describing a resemblance to a leopard, particularly its patterned coat.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pardine",
+        "label": "Merriam-Webster: pardine"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-10",
+      "paragraph": "p-023",
+      "index": 9
+    }
+  },
+  {
+    "id": "paschal",
+    "term": "paschal",
+    "aliases": [],
+    "short": "Relating to Easter or Passover.",
+    "note": "Relating to Easter or Passover. Used for objects and observances associated with either festival, such as the Easter candle or the Passover lamb.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/paschal",
+        "label": "Merriam-Webster: paschal"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-20",
+      "paragraph": "p-053",
+      "index": 19
+    }
+  },
+  {
+    "id": "pennon",
+    "term": "pennon",
+    "aliases": [],
+    "short": "A long tapering flag or streamer.",
+    "note": "A flag often triangular or swallow-tailed, traditionally attached to a lance.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pennon",
+        "label": "Merriam-Webster: pennon"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-13",
+      "paragraph": "p-051",
+      "index": 12
+    }
+  },
+  {
+    "id": "pointille",
+    "term": "pointille",
+    "aliases": [],
+    "short": "Decorated with closely spaced dots.",
+    "note": "A dotted decorative pattern, traditionally made with a pointed tool and often gilded.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pointille",
+        "label": "Merriam-Webster: pointille"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-38",
+      "paragraph": "p-033",
+      "index": 183
+    }
+  },
+  {
+    "id": "pomander",
+    "term": "pomander",
+    "aliases": [],
+    "short": "A container of aromatic substances.",
+    "note": "A perforated case or hollow ball holding perfumes or spices, carried or placed among clothing to impart scent.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pomander",
+        "label": "Merriam-Webster: pomander"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-19",
+      "paragraph": "p-025",
+      "index": 54
+    }
+  },
+  {
+    "id": "poniard",
+    "term": "poniard",
+    "aliases": [],
+    "short": "A slender dagger.",
+    "note": "A dagger whose narrow blade commonly has a triangular or square cross section.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/poniard",
+        "label": "Merriam-Webster: poniard"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-19",
+      "paragraph": "p-018",
+      "index": 125
+    }
+  },
+  {
+    "id": "propinquity",
+    "term": "propinquity",
+    "aliases": [],
+    "short": "Nearness or proximity.",
+    "note": "Closeness in space or time; it can also mean kinship.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/propinquity",
+        "label": "Merriam-Webster: propinquity"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-30",
+      "paragraph": "p-003",
+      "index": 29
+    }
+  },
+  {
+    "id": "protean",
+    "term": "protean",
+    "aliases": [],
+    "short": "Capable of changing form.",
+    "note": "Variable or adaptable in shape or character, from the shape-changing Greek deity Proteus.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/protean",
+        "label": "Merriam-Webster: protean"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-25",
+      "paragraph": "p-019",
+      "index": 170
+    }
+  },
+  {
+    "id": "quacksalver",
+    "term": "quacksalver",
+    "aliases": [],
+    "short": "A fraudulent healer or charlatan.",
+    "note": "An older word for someone falsely claiming medical skill.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/quacksalver",
+        "label": "Merriam-Webster: quacksalver"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-30",
+      "paragraph": "p-016",
+      "index": 175
+    }
+  },
+  {
+    "id": "reginal",
+    "term": "reginal",
+    "aliases": [],
+    "short": "Queenly.",
+    "note": "Relating to or resembling a queen, from Latin regina.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/reginal",
+        "label": "Merriam-Webster: reginal"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-16",
+      "paragraph": "p-045",
+      "index": 15
+    }
+  },
+  {
+    "id": "renitent",
+    "term": "renitent",
+    "aliases": [],
+    "short": "Resisting pressure or constraint.",
+    "note": "Offering physical resistance; figuratively, stubborn or unwilling to submit.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/renitent",
+        "label": "Merriam-Webster: renitent"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-06",
+      "paragraph": "p-034",
+      "index": 151
+    }
+  },
+  {
+    "id": "rescripts",
+    "term": "rescripts",
+    "aliases": [],
+    "short": "Authoritative written decrees or replies.",
+    "note": "Originally formal responses by a Roman emperor or pope to petitions or legal questions; more generally official commands.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/rescript",
+        "label": "Merriam-Webster: rescript"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-19",
+      "paragraph": "p-073",
+      "index": 164
+    }
+  },
+  {
+    "id": "salsify",
+    "term": "salsify",
+    "aliases": [],
+    "short": "A plant grown for its edible root.",
+    "note": "Tragopogon porrifolius, also called oyster plant or vegetable oyster, with a long tapering root.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/salsify",
+        "label": "Merriam-Webster: salsify"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-05",
+      "paragraph": "p-001",
+      "index": 150
+    }
+  },
+  {
+    "id": "sclera",
+    "term": "sclera",
+    "aliases": [],
+    "short": "The white outer coat of the eyeball.",
+    "note": "The tough, opaque layer enclosing most of the eye, apart from the transparent cornea.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sclera",
+        "label": "Merriam-Webster: sclera"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-05",
+      "paragraph": "p-014",
+      "index": 72
+    }
+  },
+  {
+    "id": "sisal",
+    "term": "sisal",
+    "aliases": [],
+    "short": "A strong plant fiber used for rope.",
+    "note": "Fiber obtained from the leaves of Agave sisalana, a Mexican agave, and used for cords and twine.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sisal",
+        "label": "Merriam-Webster: sisal"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-02",
+      "paragraph": "p-054",
+      "index": 147
+    }
+  },
+  {
+    "id": "specie",
+    "term": "specie",
+    "aliases": [],
+    "short": "Money in the form of coins.",
+    "note": "Coined money, as distinguished from paper notes or other forms of payment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/specie",
+        "label": "Merriam-Webster: specie"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-34",
+      "paragraph": "p-054",
+      "index": 33
+    }
+  },
+  {
+    "id": "specula",
+    "term": "specula",
+    "aliases": [],
+    "short": "Latin: mirrors.",
+    "note": "Plural of speculum, a mirror; the word comes from a Latin verb meaning to see or observe.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/speculum",
+        "label": "Merriam-Webster: speculum"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "shadow-20",
+      "paragraph": "p-021",
+      "index": 19
+    }
+  },
+  {
+    "id": "stridulation",
+    "term": "stridulation",
+    "aliases": [],
+    "short": "A high, creaking or chirring sound.",
+    "note": "Especially the sound produced by crickets and similar insects rubbing specialized body parts together.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/stridulation",
+        "label": "Merriam-Webster: stridulation"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-21",
+      "paragraph": "p-050",
+      "index": 20
+    }
+  },
+  {
+    "id": "suborn",
+    "term": "suborn",
+    "aliases": [],
+    "short": "Secretly induce someone to commit wrongdoing.",
+    "note": "To procure an unlawful act, particularly false testimony, through covert persuasion or corruption.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/suborn",
+        "label": "Merriam-Webster: suborn"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-39",
+      "paragraph": "p-017",
+      "index": 184
+    }
+  },
+  {
+    "id": "supernal",
+    "term": "supernal",
+    "aliases": [],
+    "short": "Heavenly or belonging to the heights.",
+    "note": "Coming from above, celestial, or exceptionally exalted.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/supernal",
+        "label": "Merriam-Webster: supernal"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "urth-43",
+      "paragraph": "p-036",
+      "index": 188
+    }
+  },
+  {
+    "id": "suzerain",
+    "term": "suzerain",
+    "aliases": [],
+    "short": "An overlord.",
+    "note": "A superior ruler to whom subordinate lords owe allegiance; also a dominant state controlling a dependent state’s external affairs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/suzerain",
+        "label": "Merriam-Webster: suzerain"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-34",
+      "paragraph": "p-003",
+      "index": 179
+    }
+  },
+  {
+    "id": "swart",
+    "term": "swart",
+    "aliases": [],
+    "short": "Dark in complexion.",
+    "note": "An older adjective meaning swarthy or dark-colored.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/swart",
+        "label": "Merriam-Webster: swart"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-17",
+      "paragraph": "p-025",
+      "index": 52
+    }
+  },
+  {
+    "id": "sweetbreads",
+    "term": "sweetbreads",
+    "aliases": [],
+    "short": "The thymus or pancreas used as food.",
+    "note": "A culinary name for the thymus or pancreas, especially when taken from young animals.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sweetbread",
+        "label": "Merriam-Webster: sweetbread"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-11",
+      "paragraph": "p-044",
+      "index": 46
+    }
+  },
+  {
+    "id": "sybaritic",
+    "term": "sybaritic",
+    "aliases": [],
+    "short": "Luxurious and pleasure-loving.",
+    "note": "Marked by indulgence in comfort or sensual pleasure; associated with the reputed luxury of ancient Sybaris.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sybaritic",
+        "label": "Merriam-Webster: sybaritic"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-35",
+      "paragraph": "p-002",
+      "index": 141
+    }
+  },
+  {
+    "id": "tambour",
+    "term": "tambour",
+    "aliases": [],
+    "short": "A drum.",
+    "note": "A French-derived word for a drum; it has additional technical senses based on the drum’s shape.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tambour",
+        "label": "Merriam-Webster: tambour"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-21",
+      "paragraph": "p-050",
+      "index": 20
+    }
+  },
+  {
+    "id": "tarantella",
+    "term": "tarantella",
+    "aliases": [],
+    "short": "A lively southern Italian dance.",
+    "note": "A rapid folk dance commonly written in 6/8 time, or the music for it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tarantella",
+        "label": "Merriam-Webster: tarantella"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-03",
+      "paragraph": "p-029",
+      "index": 109
+    }
+  },
+  {
+    "id": "terrazzo",
+    "term": "terrazzo",
+    "aliases": [],
+    "short": "Polished flooring made with stone chips.",
+    "note": "Small fragments of marble or granite set in a binding material and polished to a smooth surface.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/terrazzo",
+        "label": "Merriam-Webster: terrazzo"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-43",
+      "paragraph": "p-035",
+      "index": 188
+    }
+  },
+  {
+    "id": "thaumaturgy",
+    "term": "thaumaturgy",
+    "aliases": [
+      "thaumaturgic",
+      "thaumaturgical"
+    ],
+    "short": "The working of miracles or magic.",
+    "note": "A Greek-derived term for performing wonders.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/thaumaturgy",
+        "label": "Merriam-Webster: thaumaturgy"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "shadow-27",
+      "paragraph": "p-015",
+      "index": 26
+    }
+  },
+  {
+    "id": "theodicy",
+    "term": "theodicy",
+    "aliases": [],
+    "short": "A defense of divine goodness despite evil.",
+    "note": "An attempt to reconcile the existence of suffering and evil with a good and all-powerful God.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/theodicy",
+        "label": "Merriam-Webster: theodicy"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-38",
+      "paragraph": "p-010",
+      "index": 105
+    }
+  },
+  {
+    "id": "theogony",
+    "term": "theogony",
+    "aliases": [],
+    "short": "An account of the origins of the gods.",
+    "note": "A narrative or explanation of divine births, descent, and genealogy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/theogony",
+        "label": "Merriam-Webster: theogony"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-38",
+      "paragraph": "p-010",
+      "index": 105
+    }
+  },
+  {
+    "id": "theurgist",
+    "term": "theurgist",
+    "aliases": [],
+    "short": "A practitioner of magic invoking divine powers.",
+    "note": "Someone who practices theurgy, seeking the aid or intervention of gods or beneficent supernatural powers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/theurgy",
+        "label": "Merriam-Webster: theurgy"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "urth-37",
+      "paragraph": "p-046",
+      "index": 182
+    }
+  },
+  {
+    "id": "threnodic",
+    "term": "threnodic",
+    "aliases": [],
+    "short": "Mournful; like a lament for the dead.",
+    "note": "Relating to a threnody, a song or poem of mourning.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/threnody",
+        "label": "Merriam-Webster: threnody"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-04",
+      "paragraph": "p-047",
+      "index": 39
+    }
+  },
+  {
+    "id": "topgallant",
+    "term": "topgallant",
+    "aliases": [],
+    "short": "A mast section or sail above the topmast.",
+    "note": "The part of a sailing ship’s rig above the topmast and below the royal mast, or the sail carried there.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/topgallant",
+        "label": "Merriam-Webster: topgallant"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-34",
+      "paragraph": "p-001",
+      "index": 179
+    }
+  },
+  {
+    "id": "trencher",
+    "term": "trencher",
+    "aliases": [],
+    "short": "A wooden plate or platter.",
+    "note": "A board or shallow wooden dish used for serving and eating food.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/trencher",
+        "label": "Merriam-Webster: trencher"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "urth-30",
+      "paragraph": "p-056",
+      "index": 175
+    }
+  },
+  {
+    "id": "tushes",
+    "term": "tushes",
+    "aliases": [],
+    "short": "Long, pointed teeth.",
+    "note": "Especially the canine teeth of a horse.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tush",
+        "label": "Merriam-Webster: tush"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-01",
+      "paragraph": "p-003",
+      "index": 36
+    }
+  },
+  {
+    "id": "uakaris",
+    "term": "uakaris",
+    "aliases": [],
+    "short": "Short-tailed South American monkeys.",
+    "note": "Monkeys of the genus Cacajao, notable for their largely bare faces.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/uakari",
+        "label": "Merriam-Webster: uakari"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-21",
+      "paragraph": "p-019",
+      "index": 20
+    }
+  },
+  {
+    "id": "unction",
+    "term": "unction",
+    "aliases": [],
+    "short": "An ointment; figuratively, an oily earnestness.",
+    "note": "An anointing or the substance used for it; also a display of fervor that can seem affected or insincere.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/unction",
+        "label": "Merriam-Webster: unction"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-19",
+      "paragraph": "p-071",
+      "index": 18
+    }
+  },
+  {
+    "id": "unguent",
+    "term": "unguent",
+    "aliases": [],
+    "short": "A soothing ointment or salve.",
+    "note": "A preparation applied to the skin for relief or healing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/unguent",
+        "label": "Merriam-Webster: unguent"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-23",
+      "paragraph": "p-021",
+      "index": 58
+    }
+  },
+  {
+    "id": "viridescent",
+    "term": "viridescent",
+    "aliases": [],
+    "short": "Greenish.",
+    "note": "Having a slight green tint, from Latin viridis, green.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/viridescent",
+        "label": "Merriam-Webster: viridescent"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-33",
+      "paragraph": "p-006",
+      "index": 139
+    }
+  },
+  {
+    "id": "votive",
+    "term": "votive",
+    "aliases": [],
+    "short": "Offered in devotion or fulfillment of a vow.",
+    "note": "Applied to gifts, prayers, or lights dedicated in gratitude or religious devotion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/votive",
+        "label": "Merriam-Webster: votive"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-13",
+      "paragraph": "p-025",
+      "index": 48
+    }
+  },
+  {
+    "id": "vulpine",
+    "term": "vulpine",
+    "aliases": [],
+    "short": "Foxlike.",
+    "note": "Resembling a fox in appearance, or figuratively displaying its traditional cunning.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/vulpine",
+        "label": "Merriam-Webster: vulpine"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-33",
+      "paragraph": "p-001",
+      "index": 32
+    }
+  },
+  {
+    "id": "wether",
+    "term": "wether",
+    "aliases": [],
+    "short": "To castrate a male sheep or goat.",
+    "note": "As a noun, a wether is a castrated ram or male goat.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/wether",
+        "label": "Merriam-Webster: wether"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-17",
+      "paragraph": "p-046",
+      "index": 162
+    }
+  },
+  {
+    "id": "widdershins",
+    "term": "widdershins",
+    "aliases": [],
+    "short": "Counterclockwise; in the contrary direction.",
+    "note": "An old word for movement against the usual direction, especially opposite the apparent course of the sun.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/widdershins",
+        "label": "Merriam-Webster: widdershins"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-50",
+      "paragraph": "p-098",
+      "index": 195
+    }
+  },
+  {
+    "id": "windlass",
+    "term": "windlass",
+    "aliases": [],
+    "short": "A winding mechanism for hauling or lifting.",
+    "note": "A rotating drum or barrel that winds a rope or chain to exert pulling force.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/windlass",
+        "label": "Merriam-Webster: windlass"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-30",
+      "paragraph": "p-007",
+      "index": 29
+    }
+  },
+  {
+    "id": "flews",
+    "term": "flews",
+    "aliases": [],
+    "short": "The hanging sides of a dog’s upper lip.",
+    "note": "The loose, pendulous folds bordering a dog’s mouth.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/flews",
+        "label": "Merriam-Webster: flews"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-21",
+      "paragraph": "p-049",
+      "index": 166
+    }
+  },
+  {
+    "id": "beeves",
+    "term": "beeves",
+    "aliases": [],
+    "short": "Cattle or their carcasses prepared as food.",
+    "note": "An older plural of beef, used for full-grown cattle, especially animals fattened for meat.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/beef",
+        "label": "Merriam-Webster: beef"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-11",
+      "paragraph": "p-005",
+      "index": 10
+    }
+  },
+  {
+    "id": "coypu",
+    "term": "coypu",
+    "aliases": [],
+    "short": "A large semiaquatic South American rodent.",
+    "note": "A large semiaquatic South American rodent, also called nutria. Myocastor coypus has webbed hind feet and a nearly hairless rounded tail.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/nutria",
+        "label": "Merriam-Webster: nutria"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-49",
+      "paragraph": "p-025",
+      "index": 194
+    }
+  },
+  {
+    "id": "milch",
+    "term": "milch",
+    "aliases": [],
+    "short": "Giving milk or kept for milk.",
+    "note": "Applied to dairy animals, especially a cow being milked.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/milch%20cow",
+        "label": "Merriam-Webster: milch cow"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-22",
+      "paragraph": "p-029",
+      "index": 128
+    }
+  },
+  {
+    "id": "agoutis",
+    "term": "agoutis",
+    "aliases": [],
+    "short": "Rabbit-sized rodents of tropical America.",
+    "note": "Tropical American rodents of the genus Dasyprocta.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/agouti",
+        "label": "Merriam-Webster: agouti"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-11",
+      "paragraph": "p-005",
+      "index": 10
+    }
+  },
+  {
+    "id": "caracara",
+    "term": "caracara",
+    "aliases": [],
+    "short": "A long-legged American bird of prey.",
+    "note": "A member of a group of falcon relatives found from the southern United States into South America.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/caracara",
+        "label": "Merriam-Webster: caracara"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-02",
+      "paragraph": "p-010",
+      "index": 1
+    }
+  },
+  {
+    "id": "alfange",
+    "term": "alfange",
+    "aliases": [],
+    "short": "A curved sword or scimitar.",
+    "note": "A literary term for a Moorish scimitar, related to Spanish alfanje.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.larousse.fr/dictionnaires/francais/alfange/2204",
+        "label": "Larousse: alfange"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "claw-17",
+      "paragraph": "p-013",
+      "index": 52
+    }
+  },
+  {
+    "id": "arcione",
+    "term": "arcione",
+    "aliases": [],
+    "short": "Italian: the raised bow of a saddle.",
+    "note": "The arched part of a saddle; the Italian phrase montare in arcione means to mount into the saddle.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/italian-english/arcione",
+        "label": "Collins Italian–English: arcione"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-19",
+      "paragraph": "p-044",
+      "index": 125
+    }
+  },
+  {
+    "id": "calambac",
+    "term": "calambac",
+    "aliases": [],
+    "short": "Fragrant agarwood.",
+    "note": "Resin-rich wood from Aquilaria trees, prized for perfume and incense.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/agarwood",
+        "label": "Merriam-Webster: agarwood"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-19",
+      "paragraph": "p-050",
+      "index": 125
+    }
+  },
+  {
+    "id": "champian",
+    "term": "champian",
+    "aliases": [],
+    "short": "An open, level tract of land.",
+    "note": "An obsolete form of champaign, meaning a plain or expanse of open country.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/champaign",
+        "label": "Merriam-Webster: champaign"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-19",
+      "paragraph": "p-003",
+      "index": 18
+    }
+  },
+  {
+    "id": "barbute",
+    "term": "barbute",
+    "aliases": [],
+    "short": "A visorless helmet with a narrow face opening.",
+    "note": "A tall Italian helmet, typically with a T- or Y-shaped opening for the face, common in the fifteenth century.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/27960",
+        "label": "Metropolitan Museum of Art: Barbute"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-01",
+      "paragraph": "p-020",
+      "index": 107
+    }
+  },
+  {
+    "id": "basilosaur",
+    "term": "basilosaur",
+    "aliases": [],
+    "short": "An extinct early whale.",
+    "note": "Basilosaurus was a fully aquatic whale with small hind limbs that could no longer support its weight on land.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ocean.si.edu/ocean-life/marine-mammals/whales",
+        "label": "Smithsonian Ocean: Whales and Dolphins"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-32",
+      "paragraph": "p-033",
+      "index": 138
+    }
+  },
+  {
+    "id": "caldarium",
+    "term": "caldarium",
+    "aliases": [],
+    "short": "The hot room of a Roman bath complex.",
+    "note": "A heated bathing chamber, traditionally warmed by hot air circulating beneath the floor and through the walls.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://museonazionaleromano.it/en/baths-of-diocletian/",
+        "label": "Museo Nazionale Romano: Baths of Diocletian"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-07",
+      "paragraph": "p-018",
+      "index": 74
+    }
+  },
+  {
+    "id": "antepilani",
+    "term": "antepilani",
+    "aliases": [],
+    "short": "Roman infantry positioned before the reserve line.",
+    "note": "A collective name for the hastati and principes, the first two lines of infantry before the triarii or pilani.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/secondary/SMIGRA*/Exercitus.html",
+        "label": "Smith’s Dictionary of Greek and Roman Antiquities: Exercitus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-01",
+      "paragraph": "p-013",
+      "index": 107
+    }
+  },
+  {
+    "id": "aelurodons",
+    "term": "aelurodons",
+    "aliases": [],
+    "short": "Extinct relatives of dogs.",
+    "note": "Aelurodon was a genus of Miocene canids. Its name means cat-toothed, referring to a cusp on an upper cutting tooth.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dxg-museum.unl.edu/collections/vertebrate-paleontology/nebraska-county-fossils/cherry.html",
+        "label": "University of Nebraska State Museum: Aelurodon"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-31",
+      "paragraph": "p-063",
+      "index": 66
+    }
+  },
+  {
+    "id": "coryphodon",
+    "term": "coryphodon",
+    "aliases": [],
+    "short": "An extinct large mammal of the early Eocene.",
+    "note": "A heavy-bodied pantodont known from fossil remains in Europe and North America.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/coryphodon",
+        "label": "Merriam-Webster: coryphodon"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-19",
+      "paragraph": "p-011",
+      "index": 86
+    }
+  },
+  {
+    "id": "demilances",
+    "term": "demilances",
+    "aliases": [],
+    "short": "Light cavalrymen armed with short lances.",
+    "note": "A demilance is a short, light lance; the name also denotes the mounted soldier carrying it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/demilance",
+        "label": "Merriam-Webster: demilance"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "citadel-33",
+      "paragraph": "p-018",
+      "index": 139
+    }
+  },
+  {
+    "id": "hackneys",
+    "term": "hackneys",
+    "aliases": [],
+    "short": "Horses for ordinary riding or driving.",
+    "note": "The word can describe everyday riding horses or a particular English breed known for a high-stepping trot.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/hackney",
+        "label": "Merriam-Webster: hackney"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-18",
+      "paragraph": "p-018",
+      "index": 17
+    }
+  },
+  {
+    "id": "lechwes",
+    "term": "lechwes",
+    "aliases": [],
+    "short": "African wetland antelopes.",
+    "note": "Antelopes of the genus Kobus associated with marshy habitats in southern Africa and the Nile region.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lechwe",
+        "label": "Merriam-Webster: lechwe"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-25",
+      "paragraph": "p-026",
+      "index": 24
+    }
+  },
+  {
+    "id": "limers",
+    "term": "limers",
+    "aliases": [],
+    "short": "Hounds used on a leash.",
+    "note": "An archaic hunting term for leash hounds, especially bloodhounds.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/limer",
+        "label": "Merriam-Webster: limer"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-10",
+      "paragraph": "p-023",
+      "index": 9
+    }
+  },
+  {
+    "id": "gambades",
+    "term": "gambades",
+    "aliases": [],
+    "short": "Capers, leaps, or frolics.",
+    "note": "A word for gambols or lively escapades, also used of a horse’s spring or leap.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gambado",
+        "label": "Merriam-Webster: gambado"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-41",
+      "paragraph": "p-011",
+      "index": 186
+    }
+  },
+  {
+    "id": "oillets",
+    "term": "oillets",
+    "aliases": [],
+    "short": "Small peepholes or loopholes.",
+    "note": "An archaic form of eyelet in the sense of a small opening through which one can look.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/eyelet",
+        "label": "Merriam-Webster: eyelet"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-41",
+      "paragraph": "p-012",
+      "index": 186
+    }
+  },
+  {
+    "id": "nacker",
+    "term": "nacker",
+    "aliases": [],
+    "short": "A dealer in worn-out animals or their carcasses.",
+    "note": "Usually spelled knacker: someone who buys exhausted livestock or dead animals for their usable materials.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/knacker",
+        "label": "Merriam-Webster: knacker"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-18",
+      "paragraph": "p-007",
+      "index": 124
+    }
+  },
+  {
+    "id": "spalling",
+    "term": "spalling",
+    "aliases": [],
+    "short": "Breaking away in chips, flakes, or slabs.",
+    "note": "The shedding of fragments from a surface, especially rock or masonry.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/spalling",
+        "label": "Merriam-Webster: spalling"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-14",
+      "paragraph": "p-006",
+      "index": 81
+    }
+  },
+  {
+    "id": "rheostats",
+    "term": "rheostats",
+    "aliases": [],
+    "short": "Adjustable resistors controlling electric current.",
+    "note": "Devices that vary electrical resistance to regulate the current in a circuit.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/rheostat",
+        "label": "Merriam-Webster: rheostat"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-12",
+      "paragraph": "p-064",
+      "index": 11
+    }
+  },
+  {
+    "id": "shewbread",
+    "term": "shewbread",
+    "aliases": [],
+    "short": "Bread set apart as a sacred offering.",
+    "note": "In ancient Israel, consecrated loaves were displayed on a table in the sanctuary; also spelled showbread.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/showbread",
+        "label": "Merriam-Webster: showbread"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-11",
+      "paragraph": "p-036",
+      "index": 10
+    }
+  },
+  {
+    "id": "signatures",
+    "term": "signatures",
+    "aliases": [],
+    "short": "Folded groups of pages forming a book.",
+    "note": "In bookbinding, a signature is a section of printed sheets folded and gathered together; the term also names a mark guiding their order.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/signature",
+        "label": "Merriam-Webster: signature"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-06",
+      "paragraph": "p-066",
+      "index": 5
+    }
+  },
+  {
+    "id": "catachtonian",
+    "term": "catachtonian",
+    "aliases": [],
+    "short": "Underground or subterranean.",
+    "note": "A form of catachthonian, an adjective for something beneath the earth.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordnik.com/words/catachthonian",
+        "label": "The Century Dictionary via Wordnik: catachthonian"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-06",
+      "paragraph": "p-028",
+      "index": 73
+    }
+  },
+  {
+    "id": "celure",
+    "term": "celure",
+    "aliases": [],
+    "short": "A canopy or ceiling.",
+    "note": "An old architectural word for an overhead covering; also used for carved decoration on ceilings or walls.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordnik.com/words/celure",
+        "label": "The Century Dictionary via Wordnik: celure"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-05",
+      "paragraph": "p-034",
+      "index": 72
+    }
+  },
+  {
+    "id": "monial",
+    "term": "monial",
+    "aliases": [
+      "monials"
+    ],
+    "short": "A nun.",
+    "note": "A woman belonging to a religious order that renounces worldly possessions and sexual relationships.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/monial",
+        "label": "Collins: monial"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "sword-07",
+      "paragraph": "p-020",
+      "index": 74
+    }
+  },
+  {
+    "id": "munis",
+    "term": "munis",
+    "aliases": [],
+    "short": "Hindu sages or holy men.",
+    "note": "A muni is a religious sage, particularly one associated with a vow of silence.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/muni",
+        "label": "Collins: muni"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-34",
+      "paragraph": "p-023",
+      "index": 179
+    }
+  },
+  {
+    "id": "teratoid",
+    "term": "teratoid",
+    "aliases": [],
+    "short": "Monstrous or abnormally formed.",
+    "note": "An adjective for a form resembling a monster; also used in biology for severe malformation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/teratoid",
+        "label": "Collins: teratoid"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-18",
+      "paragraph": "p-041",
+      "index": 53
+    }
+  },
+  {
+    "id": "uranic",
+    "term": "uranic",
+    "aliases": [],
+    "short": "Celestial or astronomical.",
+    "note": "An older adjective for the heavens, from Greek ouranos; distinct from the chemical sense relating to uranium.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/uranic",
+        "label": "Collins: uranic"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-27",
+      "paragraph": "p-019",
+      "index": 172
+    }
+  },
+  {
+    "id": "tribade",
+    "term": "tribade",
+    "aliases": [],
+    "short": "An older term for a lesbian.",
+    "note": "A historical word for a woman who has sexual relations with women, derived from a Greek verb meaning to rub.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/tribade",
+        "label": "Collins: tribade"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-11",
+      "paragraph": "p-018",
+      "index": 46
+    }
+  },
+  {
+    "id": "biggin",
+    "term": "biggin",
+    "aliases": [],
+    "short": "A coffeepot with a separate container for the grounds.",
+    "note": "A vessel, often silver, whose inner compartment holds the coffee during brewing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/biggin",
+        "label": "Collins: biggin"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-16",
+      "paragraph": "p-055",
+      "index": 51
+    }
+  },
+  {
+    "id": "bonaventure",
+    "term": "bonaventure",
+    "aliases": [],
+    "short": "An additional mast behind the mizzenmast.",
+    "note": "An aftermost mast carrying a lateen sail or lugsail, used on some sixteenth- and early-seventeenth-century ships.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/bonaventure",
+        "label": "Collins: bonaventure"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-28",
+      "paragraph": "p-004",
+      "index": 173
+    }
+  },
+  {
+    "id": "damassin",
+    "term": "damassin",
+    "aliases": [],
+    "short": "Patterned damask fabric.",
+    "note": "A figured textile, typically decorated with a floral design.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/damassin",
+        "label": "Collins: damassin"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-33",
+      "paragraph": "p-025",
+      "index": 139
+    }
+  },
+  {
+    "id": "ossifrage",
+    "term": "ossifrage",
+    "aliases": [
+      "ossifrages"
+    ],
+    "short": "An old bird-name for an osprey or bearded vulture.",
+    "note": "An old bird-name used for the osprey and the lammergeier, or bearded vulture. Its Latin source means bone-breaking.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordnik.com/words/ossifrage",
+        "label": "American Heritage and Century dictionaries via Wordnik: ossifrage"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ossifrage",
+        "label": "Merriam-Webster: ossifrage"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "claw-17",
+      "paragraph": "p-005",
+      "index": 52
+    }
+  },
+  {
+    "id": "diatrymae",
+    "term": "diatrymae",
+    "aliases": [],
+    "short": "Extinct large, flightless birds.",
+    "note": "Diatryma is a name for Eocene birds with powerful beaks, large heads, and greatly reduced wings.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Diatryma",
+        "label": "Merriam-Webster: Diatryma"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-03",
+      "paragraph": "p-032",
+      "index": 2
+    }
+  },
+  {
+    "id": "hesperorn",
+    "term": "hesperorn",
+    "aliases": [],
+    "short": "An extinct toothed swimming bird.",
+    "note": "Hesperornis was a Cretaceous bird with a loonlike body and teeth set in grooves along its jaws.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Hesperornis",
+        "label": "Merriam-Webster: Hesperornis"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-21",
+      "paragraph": "p-011",
+      "index": 20
+    }
+  },
+  {
+    "id": "metamynodons",
+    "term": "metamynodons",
+    "aliases": [],
+    "short": "Extinct hornless relatives of rhinoceroses.",
+    "note": "Metamynodon was a genus of large rhinoceros-like mammals known from the Oligocene.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Metamynodon",
+        "label": "Merriam-Webster: Metamynodon"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-18",
+      "paragraph": "p-018",
+      "index": 17
+    }
+  },
+  {
+    "id": "oreodont",
+    "term": "oreodont",
+    "aliases": [],
+    "short": "An extinct piglike hoofed mammal.",
+    "note": "Oreodonts were short-legged, long-bodied mammals of prehistoric North America; despite their appearance, they were not pigs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/oreodont",
+        "label": "Merriam-Webster: oreodont"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-21",
+      "paragraph": "p-011",
+      "index": 20
+    }
+  },
+  {
+    "id": "pelycosaur",
+    "term": "pelycosaur",
+    "aliases": [],
+    "short": "An early synapsid, from the lineage leading to mammals.",
+    "note": "A traditional name for primitive synapsids such as Dimetrodon, chiefly associated with the Permian period.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pelycosaur",
+        "label": "Merriam-Webster: pelycosaur"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-23",
+      "paragraph": "p-038",
+      "index": 22
+    }
+  },
+  {
+    "id": "phororhacos",
+    "term": "phororhacos",
+    "aliases": [],
+    "short": "An extinct giant flightless bird.",
+    "note": "A prehistoric South American bird belonging to the group commonly called terror birds.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Phororhacidae",
+        "label": "Merriam-Webster: Phororhacidae"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-10",
+      "paragraph": "p-059",
+      "index": 45
+    }
+  },
+  {
+    "id": "cynocephalus",
+    "term": "cynocephalus",
+    "aliases": [],
+    "short": "A baboon; literally, dog-headed.",
+    "note": "An old name for a baboon, also applied in legend to a dog-headed human being.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cynocephalus",
+        "label": "Merriam-Webster: cynocephalus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-28",
+      "paragraph": "p-004",
+      "index": 27
+    }
+  },
+  {
+    "id": "tyrian",
+    "term": "tyrian",
+    "aliases": [],
+    "short": "Crimson or purple, like Tyrian dye.",
+    "note": "Tyrian purple was an ancient dye obtained from marine mollusks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Tyrian%20purple",
+        "label": "Merriam-Webster: Tyrian purple"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "shadow-16",
+      "paragraph": "p-041",
+      "index": 15
+    }
+  },
+  {
+    "id": "thylacosmil",
+    "term": "thylacosmil",
+    "aliases": [],
+    "short": "An extinct South American saber-toothed mammal.",
+    "note": "Thylacosmilus was related to marsupials and had enormous canine teeth; it was not a saber-toothed cat.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.bristol.ac.uk/news/2020/june/saber-tooth.html",
+        "label": "University of Bristol: Thylacosmilus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-13",
+      "paragraph": "p-059",
+      "index": 158
+    }
+  },
+  {
+    "id": "platybelodons",
+    "term": "platybelodons",
+    "aliases": [],
+    "short": "Extinct elephant relatives with shovel-shaped lower tusks.",
+    "note": "Platybelodon had an elongated lower jaw ending in two broad, flattened incisors placed side by side.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mus.cug.edu.cn/info/1015/2479.htm",
+        "label": "China University of Geosciences Museum: Platybelodon"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-29",
+      "paragraph": "p-002",
+      "index": 135
+    }
+  },
+  {
+    "id": "pinakotheken",
+    "term": "pinakotheken",
+    "aliases": [],
+    "short": "German: art galleries.",
+    "note": "Plural of Pinakothek, a gallery in which pictures or other artworks are displayed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/german-english/pinakothek",
+        "label": "Collins German–English: Pinakothek"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-05",
+      "paragraph": "p-009",
+      "index": 4
+    }
+  },
+  {
+    "id": "gosport",
+    "term": "gosport",
+    "aliases": [],
+    "short": "A speaking tube.",
+    "note": "The Gosport tube was developed for voice communication between aircraft instructors and pupils during the First World War.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gosportheritage.co.uk/astounding-inventions-the-gosport-tube/",
+        "label": "Gosport Heritage: the Gosport Tube"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "claw-17",
+      "paragraph": "p-062",
+      "index": 52
+    }
+  },
+  {
+    "id": "cerbotana",
+    "term": "cerbotana",
+    "aliases": [
+      "cerbotanas",
+      "sabarcane"
+    ],
+    "short": "A blowgun.",
+    "note": "A tube through which breath propels small darts or pellets; related historical names include cerbatana and sarbacane.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/Hobson-Jobson/S",
+        "label": "Hobson-Jobson: Sarbatane, Sarbacane"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "claw-01",
+      "paragraph": "p-018",
+      "index": 36
+    }
+  },
+  {
+    "id": "clava",
+    "term": "clava",
+    "aliases": [],
+    "short": "Latin: a club or cudgel.",
+    "note": "A heavy stick used as a striking weapon, or a staff.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.latin-dictionary.net/search/latin/clava",
+        "label": "Latdict, citing the Oxford Latin Dictionary: clava"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-37",
+      "paragraph": "p-002",
+      "index": 143
+    }
+  },
+  {
+    "id": "spadone",
+    "term": "spadone",
+    "aliases": [],
+    "short": "Italian: a large, heavy sword.",
+    "note": "An augmentative of spada, sword; historically a longer and more massive sword, including two-handed forms.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dizionari.repubblica.it/Italiano/S/spadone.html",
+        "label": "Hoepli Italian Dictionary: spadone"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-19",
+      "paragraph": "p-028",
+      "index": 54
+    }
+  },
+  {
+    "id": "fricatrice",
+    "term": "fricatrice",
+    "aliases": [],
+    "short": "An obsolete term for a prostitute.",
+    "note": "A historical word for a woman selling sexual services.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordnik.com/words/fricatrice",
+        "label": "The Century Dictionary via Wordnik: fricatrice"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-35",
+      "paragraph": "p-013",
+      "index": 34
+    }
+  },
+  {
+    "id": "philonoists",
+    "term": "philonoists",
+    "aliases": [],
+    "short": "Lovers of knowledge or intelligence.",
+    "note": "An old word for people devoted to intellectual understanding.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordnik.com/words/philonoist",
+        "label": "The Century Dictionary via Wordnik: philonoist"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-16",
+      "paragraph": "p-025",
+      "index": 83
+    }
+  },
+  {
+    "id": "remontados",
+    "term": "remontados",
+    "aliases": [],
+    "short": "People who leave settled life for the mountains.",
+    "note": "Historically, a term for Christianized inhabitants of the Philippines who left their villages to live in mountain country.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordnik.com/words/remontado",
+        "label": "The Century Dictionary via Wordnik: remontado"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "sword-05",
+      "paragraph": "p-003",
+      "index": 72
+    }
+  },
+  {
+    "id": "logos",
+    "term": "logos",
+    "aliases": [],
+    "short": "The divine Word or ordering reason.",
+    "note": "Greek for word, speech, or reason. In philosophy and theology it can name the rational principle of the universe or divine wisdom expressed in creation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/logos",
+        "label": "Merriam-Webster: logos"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-35",
+      "paragraph": "p-031",
+      "index": 102
+    }
+  },
+  {
+    "id": "lethe",
+    "term": "lethe",
+    "aliases": [],
+    "short": "Oblivion or forgetfulness.",
+    "note": "In Greek mythology, Lethe is the river whose water makes the dead forget their former lives.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lethe",
+        "label": "Merriam-Webster: lethe"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-50",
+      "paragraph": "p-015",
+      "index": 195
+    }
+  },
+  {
+    "id": "tabula-rasa",
+    "term": "tabula rasa",
+    "aliases": [],
+    "short": "Latin: a blank or erased tablet.",
+    "note": "A blank slate; philosophically, the mind considered before experience has left impressions upon it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tabula%20rasa",
+        "label": "Merriam-Webster: tabula rasa"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-36",
+      "paragraph": "p-014",
+      "index": 181
+    }
+  },
+  {
+    "id": "gunnel",
+    "term": "gunnel",
+    "aliases": [
+      "gunwale",
+      "gunwales"
+    ],
+    "short": "The upper edge of a boat’s side.",
+    "note": "An alternative spelling of gunwale, the upper edge of a boat’s side.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gunnel",
+        "label": "Merriam-Webster: gunnel"
+      }
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "sword-25",
+      "paragraph": "p-023",
+      "index": 92
+    }
+  },
+  {
+    "id": "bow-chaser",
+    "term": "bow-chaser",
+    "aliases": [],
+    "short": "A ship’s gun positioned to fire forward.",
+    "note": "A cannon placed to fire ahead of a vessel, particularly at a ship it is pursuing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bow%20chaser",
+        "label": "Merriam-Webster: bow chaser"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-17",
+      "paragraph": "p-054",
+      "index": 52
+    }
+  },
+  {
+    "id": "deeses",
+    "term": "deeses",
+    "aliases": [],
+    "short": "Icons showing Christ between Mary and John the Baptist.",
+    "note": "Plural of Deesis, an Eastern Christian image of Christ, usually enthroned, flanked by the Virgin Mary and John the Baptist.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/deesis",
+        "label": "Merriam-Webster: deesis"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-35",
+      "paragraph": "p-050",
+      "index": 34
+    }
+  },
+  {
+    "id": "famula",
+    "term": "famula",
+    "aliases": [],
+    "short": "Latin: a female servant or attendant.",
+    "note": "A maidservant, handmaid, or female temple attendant.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.latin-dictionary.net/search/latin/famula",
+        "label": "Latdict: famula"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-07",
+      "paragraph": "p-023",
+      "index": 74
+    }
+  },
+  {
+    "id": "mount-nebo",
+    "term": "Nebo",
+    "aliases": [],
+    "short": "The mountain from which Moses views the promised land.",
+    "note": "In Deuteronomy 34, Moses looks across the land from Mount Nebo but is told he will not enter it; he then dies in Moab.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/deuteronomy/34",
+        "label": "USCCB: Deuteronomy 34"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-21",
+      "paragraph": "p-008",
+      "index": 20
+    }
+  },
+  {
+    "id": "theseus-black-sails",
+    "term": "return to Athens with black sails",
+    "aliases": [],
+    "short": "The myth of Theseus and Aegeus.",
+    "note": "Theseus was to replace his black sail with a white one if he survived the Minotaur. He forgot, and his father Aegeus, believing him dead, killed himself.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Text/ApollodorusE.html",
+        "label": "Apollodorus: Library, Epitome 1.7–10"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "claw-18",
+      "paragraph": "p-006",
+      "index": 53
+    }
+  },
+  {
+    "id": "humbaba",
+    "term": "Humbaba",
+    "aliases": [],
+    "short": "Possibly the guardian of the Cedar Forest in Gilgamesh.",
+    "note": "Possibly Humbaba, the monstrous guardian appointed by the gods to protect the Cedar Forest, slain by Gilgamesh and Enkidu.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/ja/essays/gilgamesh",
+        "label": "Metropolitan Museum of Art: Gilgamesh"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-11",
+      "paragraph": "p-072",
+      "index": 78
+    }
+  },
+  {
+    "id": "squanto",
+    "term": "Squanto",
+    "aliases": [],
+    "short": "Possibly Tisquantum, the Patuxet interpreter and guide.",
+    "note": "Possibly Tisquantum, also called Squanto. William Bradford’s account credits him with teaching Plymouth’s colonists to plant corn with fish as fertilizer.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://plimoth.org/yath/unit-3/tisquantum",
+        "label": "Plimoth Patuxet Museums: Tisquantum"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-19",
+      "paragraph": "p-062",
+      "index": 86
+    }
+  },
+  {
+    "id": "pleiades",
+    "term": "Pleiades",
+    "aliases": [],
+    "short": "The Seven Sisters star cluster.",
+    "note": "Messier 45, an open cluster in Taurus, containing over a thousand stars although only its brightest members are conspicuous to the unaided eye.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-45/",
+        "label": "NASA: Messier 45"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-35",
+      "paragraph": "p-003",
+      "index": 34
+    }
+  },
+  {
+    "id": "medoc",
+    "term": "Medoc",
+    "aliases": [],
+    "short": "A Bordeaux wine from the Médoc district.",
+    "note": "Wine named for the Médoc region of southwestern France, north of Bordeaux.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Medoc",
+        "label": "Merriam-Webster: Medoc"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-25",
+      "paragraph": "p-019",
+      "index": 24
+    }
+  },
+  {
+    "id": "veil-of-maya",
+    "term": "Veil of Maya",
+    "aliases": [],
+    "short": "The veil of appearances concealing ultimate reality.",
+    "note": "In Vedantic philosophy, māyā can name the phenomenal world that hides the unity of absolute being.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/maya",
+        "label": "Merriam-Webster: maya"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-47",
+      "paragraph": "p-011",
+      "index": 192
+    }
+  },
+  {
+    "id": "kronosaur",
+    "term": "kronosaur",
+    "aliases": [],
+    "short": "An extinct, large-headed marine reptile.",
+    "note": "Kronosaurus was a short-necked pliosaur of the Early Cretaceous, propelled through the water by four paddlelike limbs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://australian.museum/learn/australia-over-time/extinct-animals/kronosaurus-queenslandicus/",
+        "label": "Australian Museum: Kronosaurus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-32",
+      "paragraph": "p-049",
+      "index": 177
+    }
+  },
+  {
+    "id": "uintathers",
+    "term": "uintathers",
+    "aliases": [],
+    "short": "Extinct large, tusked herbivorous mammals.",
+    "note": "Uintatherium was an Eocene mammal with three pairs of bony projections on its skull and enlarged canine teeth.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/uintatherium",
+        "label": "Merriam-Webster: uintatherium"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-29",
+      "paragraph": "p-002",
+      "index": 135
+    }
+  },
+  {
+    "id": "upanga",
+    "term": "upanga",
+    "aliases": [],
+    "short": "An Indian bagpipe.",
+    "note": "An Indian bagpipe. The sruti upanga was historically used in southern and central India to provide a sustained drone accompaniment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/500909",
+        "label": "Metropolitan Museum of Art: Sruti Upanga"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "claw-11",
+      "paragraph": "p-052",
+      "index": 46
+    }
+  },
+  {
+    "id": "korsekes",
+    "term": "korsekes",
+    "aliases": [
+      "korseke"
+    ],
+    "short": "Renaissance polearms.",
+    "note": "Long-shafted weapons with metal heads; surviving sixteenth-century Italian examples have steel heads mounted on wooden shafts.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/26774",
+        "label": "Metropolitan Museum of Art: Korseke"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "citadel-01",
+      "paragraph": "p-013",
+      "index": 107
+    }
+  },
+  {
+    "id": "waldgrave",
+    "term": "Waldgrave",
+    "aliases": [],
+    "short": "A count or officer responsible for a royal forest.",
+    "note": "A medieval German title from Wald, forest, and Graf, count.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/waldgrave",
+        "label": "Collins: waldgrave"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "claw-11",
+      "paragraph": "p-016",
+      "index": 46
+    }
+  },
+  {
+    "id": "trilophodons",
+    "term": "trilophodons",
+    "aliases": [],
+    "short": "Extinct elephant relatives.",
+    "note": "Trilophodon is an older taxonomic name for Gomphotherium, a group of proboscideans known from the Miocene and Pliocene.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Trilophodon",
+        "label": "Merriam-Webster: Trilophodon"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Gomphotherium",
+        "label": "Merriam-Webster: Gomphotherium"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-01",
+      "paragraph": "p-014",
+      "index": 107
+    }
+  },
+  {
+    "id": "laver",
+    "term": "laver",
+    "aliases": [],
+    "short": "A basin or vessel for washing.",
+    "note": "An older word for a washbasin, also used for vessels of ritual cleansing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordnik.com/words/laver",
+        "label": "The Century Dictionary via Wordnik: laver"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-03",
+      "paragraph": "p-057",
+      "index": 148
+    }
+  },
+  {
+    "id": "pseudothyrums",
+    "term": "pseudothyrums",
+    "aliases": [],
+    "short": "Secret or private doorways.",
+    "note": "In classical architecture, a private entrance distinct from the principal doorway.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordnik.com/words/pseudothyrum",
+        "label": "The Century Dictionary via Wordnik: pseudothyrum"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-06",
+      "paragraph": "p-028",
+      "index": 73
+    }
+  },
+  {
+    "id": "lancegays",
+    "term": "lancegays",
+    "aliases": [],
+    "short": "Medieval lances or throwing spears.",
+    "note": "An old name for a lance, derived through French.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lancegay",
+        "label": "Merriam-Webster: lancegay"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-22",
+      "paragraph": "p-003",
+      "index": 128
+    }
+  },
+  {
+    "id": "antrustiones",
+    "term": "Antrustiones",
+    "aliases": [],
+    "short": "Members of a ruler’s personal following or bodyguard.",
+    "note": "Historically, retainers in the bodyguards of Frankish princes during the fifth through seventh centuries.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/antrustion",
+        "label": "Merriam-Webster: antrustion"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-35",
+      "paragraph": "p-063",
+      "index": 141
+    }
+  },
+  {
+    "id": "paterissa",
+    "term": "paterissa",
+    "aliases": [],
+    "short": "An Eastern Christian ceremonial staff.",
+    "note": "A crosier topped by a small cross above two outward-curving serpents.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/paterissa",
+        "label": "Merriam-Webster: paterissa"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-14",
+      "paragraph": "p-019",
+      "index": 13
+    }
+  },
+  {
+    "id": "sappanwood",
+    "term": "Caesalpinia sappan",
+    "aliases": [],
+    "short": "The sappanwood tree, a source of dye.",
+    "note": "A former botanical name for Biancaea sappan, whose wood was traded as a source of red dye.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:482900-1",
+        "label": "Kew: Caesalpinia sappan"
+      },
+      {
+        "url": "https://en.wikisource.org/wiki/Hobson-Jobson/S",
+        "label": "Hobson-Jobson: Sappan-wood"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-19",
+      "paragraph": "p-079",
+      "index": 18
     }
   }
 ]

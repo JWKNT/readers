@@ -620,8 +620,8 @@
       }
     ],
     "short": "Possibly Saint Eata, a Northumbrian bishop.",
-    "occurrences": 3,
     "possible": true,
+    "occurrences": 3,
     "first": {
       "chapter": "return-13",
       "paragraph": "p-022",
@@ -642,8 +642,8 @@
       }
     ],
     "short": "Possibly Saint Gurloës, the abbot of Quimperlé.",
-    "occurrences": 2,
     "possible": true,
+    "occurrences": 2,
     "first": {
       "chapter": "return-13",
       "paragraph": "p-038",
@@ -748,8 +748,8 @@
       }
     ],
     "short": "Possibly Droctoveus, a sixth-century abbot in Paris.",
-    "occurrences": 3,
     "possible": true,
+    "occurrences": 3,
     "first": {
       "chapter": "return-13",
       "paragraph": "p-022",
@@ -815,8 +815,8 @@
       "Patera",
       "Pateras"
     ],
-    "occurrences": 246,
     "possible": true,
+    "occurrences": 246,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-021",
@@ -838,8 +838,8 @@
       "Maytera",
       "Mayteras"
     ],
-    "occurrences": 166,
     "possible": true,
+    "occurrences": 166,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-217",
@@ -905,8 +905,8 @@
       "azoth",
       "azoths"
     ],
-    "occurrences": 41,
     "possible": false,
+    "occurrences": 41,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-263",
@@ -973,8 +973,8 @@
       "prolocutors",
       "Proloctor"
     ],
-    "occurrences": 45,
     "possible": false,
+    "occurrences": 45,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-131",
@@ -1169,8 +1169,8 @@
       "talus",
       "taluses"
     ],
-    "occurrences": 6,
     "possible": true,
+    "occurrences": 6,
     "first": {
       "chapter": "blue-02",
       "paragraph": "p-013",
@@ -1216,8 +1216,8 @@
     "aliases": [
       "Chenille"
     ],
-    "occurrences": 29,
     "possible": false,
+    "occurrences": 29,
     "first": {
       "chapter": "blue-02",
       "paragraph": "p-005",
@@ -1302,8 +1302,8 @@
       "Gelada",
       "Galada"
     ],
-    "occurrences": 5,
     "possible": false,
+    "occurrences": 5,
     "first": {
       "chapter": "blue-09",
       "paragraph": "p-077",
@@ -1514,8 +1514,8 @@
       "Inclito",
       "Inclitor"
     ],
-    "occurrences": 281,
     "possible": false,
+    "occurrences": 281,
     "first": {
       "chapter": "green-prelude",
       "paragraph": "p-008",
@@ -1789,8 +1789,8 @@
       "Soldo",
       "Saldo"
     ],
-    "occurrences": 62,
     "possible": false,
+    "occurrences": 62,
     "first": {
       "chapter": "green-01",
       "paragraph": "p-128",
@@ -2087,8 +2087,8 @@
     "aliases": [
       "Azijin"
     ],
-    "occurrences": 44,
     "possible": true,
+    "occurrences": 44,
     "first": {
       "chapter": "return-03",
       "paragraph": "p-002",
@@ -2341,8 +2341,8 @@
     "aliases": [
       "Mucor"
     ],
-    "occurrences": 119,
     "possible": false,
+    "occurrences": 119,
     "first": {
       "chapter": "blue-03",
       "paragraph": "p-076",
@@ -4040,33 +4040,11 @@
     "aliases": [
       "Silk"
     ],
-    "occurrences": 677,
     "possible": false,
+    "occurrences": 677,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-013",
-      "index": 1
-    }
-  },
-  {
-    "id": "horn",
-    "term": "Horn",
-    "short": "An animal’s horn; a hard natural material.",
-    "note": "An animal’s projecting horn, or its hard outer material. In cattle, a horn has a bony core covered with keratin.",
-    "sources": [
-      {
-        "url": "https://www.merriam-webster.com/dictionary/horn",
-        "label": "Word meaning · Merriam-Webster"
-      }
-    ],
-    "aliases": [
-      "Horn"
-    ],
-    "occurrences": 367,
-    "possible": false,
-    "first": {
-      "chapter": "blue-01",
-      "paragraph": "p-007",
       "index": 1
     }
   },
@@ -4084,8 +4062,8 @@
     "aliases": [
       "Nettle"
     ],
-    "occurrences": 239,
     "possible": false,
+    "occurrences": 239,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-033",
@@ -4110,8 +4088,8 @@
     "aliases": [
       "Hyacinth"
     ],
-    "occurrences": 62,
     "possible": false,
+    "occurrences": 62,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-263",
@@ -4132,8 +4110,8 @@
     "aliases": [
       "Marble"
     ],
-    "occurrences": 68,
     "possible": false,
+    "occurrences": 68,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-217",
@@ -4154,8 +4132,8 @@
     "aliases": [
       "Pike"
     ],
-    "occurrences": 11,
     "possible": false,
+    "occurrences": 11,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-236",
@@ -4176,8 +4154,8 @@
     "aliases": [
       "Musk"
     ],
-    "occurrences": 6,
     "possible": false,
+    "occurrences": 6,
     "first": {
       "chapter": "return-01",
       "paragraph": "p-042",
@@ -4202,8 +4180,8 @@
     "aliases": [
       "Mint"
     ],
-    "occurrences": 105,
     "possible": false,
+    "occurrences": 105,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-236",
@@ -4224,8 +4202,8 @@
     "aliases": [
       "Rose"
     ],
-    "occurrences": 15,
     "possible": false,
+    "occurrences": 15,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-236",
@@ -4246,8 +4224,8 @@
     "aliases": [
       "Sinew"
     ],
-    "occurrences": 270,
     "possible": false,
+    "occurrences": 270,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-025",
@@ -4290,8 +4268,8 @@
     "aliases": [
       "Limna"
     ],
-    "occurrences": 15,
     "possible": true,
+    "occurrences": 15,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-030",
@@ -4315,8 +4293,8 @@
       "Caldés",
       "caldés"
     ],
-    "occurrences": 160,
     "possible": true,
+    "occurrences": 160,
     "first": {
       "chapter": "blue-01",
       "paragraph": "p-060",
@@ -4340,8 +4318,8 @@
       "Whorl",
       "Whorls"
     ],
-    "occurrences": 525,
     "possible": false,
+    "occurrences": 525,
     "first": {
       "chapter": "blue-prelude",
       "paragraph": "p-002",
@@ -7238,21 +7216,26 @@
     "term": "brathair",
     "aliases": [
       "brathair",
-      "Brathair"
+      "Brathair",
+      "braithrean"
     ],
-    "short": "Scottish Gaelic: brother.",
-    "note": "Scottish Gaelic bràthair means brother.",
+    "short": "Gaelic: brother; braithrean means brothers.",
+    "note": "Scottish Gaelic bràthair means brother; its plural is bràithrean.",
     "possible": false,
     "sources": [
       {
         "label": "LearnGaelic",
         "url": "https://www.learngaelic.scot/sol/episodes/ep.jsp?clip=1&prog=14"
+      },
+      {
+        "url": "https://speakgaelic.scot/level/family/topic/braithrean-is-peathraichean/section/faclan-iolra",
+        "label": "SpeakGaelic: plurals"
       }
     ],
-    "occurrences": 1,
+    "occurrences": 5,
     "first": {
       "chapter": "return-04",
-      "paragraph": "p-209",
+      "paragraph": "p-098",
       "index": 47
     }
   },
@@ -7375,10 +7358,13 @@
     "term": "fashed",
     "aliases": [
       "fashed",
-      "Fashed"
+      "Fashed",
+      "fash",
+      "fashes",
+      "fashin"
     ],
-    "short": "Scots: troubled, bothered, or worried.",
-    "note": "Scots fashed means troubled, bothered, or worried, from the verb fash. Fash entered Scots from French fâcher, to annoy or vex.",
+    "short": "Scots words for trouble, bother, or worry.",
+    "note": "Scots fash means to trouble, annoy, or worry; fashed means troubled or bothered. The verb also occurs as fashes and fashin’, bothering.",
     "possible": false,
     "sources": [
       {
@@ -7386,11 +7372,11 @@
         "url": "https://dsl.ac.uk/entry/snd/fash"
       }
     ],
-    "occurrences": 2,
+    "occurrences": 12,
     "first": {
-      "chapter": "return-06",
-      "paragraph": "p-221",
-      "index": 49
+      "chapter": "return-02",
+      "paragraph": "p-310",
+      "index": 45
     }
   },
   {
@@ -8005,6 +7991,2011 @@
       "chapter": "blue-01",
       "paragraph": "p-047",
       "index": 1
+    }
+  },
+  {
+    "id": "gunwale",
+    "term": "gunwale",
+    "aliases": [],
+    "short": "The upper edge of a boat’s side.",
+    "note": "The upper rim of a vessel’s side, pronounced “gunnel.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/gunwale",
+        "label": "Dictionary.com: gunwale"
+      }
+    ],
+    "occurrences": 24,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-030",
+      "index": 1
+    }
+  },
+  {
+    "id": "leeboard",
+    "term": "leeboard",
+    "aliases": [],
+    "short": "A board lowered beside a boat to resist sideways drift.",
+    "note": "A broad adjustable board attached to a sailing vessel’s side and lowered into the water to reduce its drift downwind.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/leeboard",
+        "label": "Dictionary.com: leeboard"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-265",
+      "index": 1
+    }
+  },
+  {
+    "id": "sloop",
+    "term": "sloop",
+    "aliases": [
+      "sloops"
+    ],
+    "short": "A sailing vessel with one mast and fore-and-aft sails.",
+    "note": "A single-masted sailing vessel carrying a mainsail and one or more headsails, with its principal sails arranged along the vessel rather than across it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/sloop",
+        "label": "Dictionary.com: sloop"
+      }
+    ],
+    "occurrences": 183,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-020",
+      "index": 1
+    }
+  },
+  {
+    "id": "yawl",
+    "term": "yawl",
+    "aliases": [],
+    "short": "A sailing vessel with a small second mast far aft.",
+    "note": "A two-masted vessel with a mainmast and a much smaller mizzenmast placed behind the rudderpost.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/yawl",
+        "label": "Dictionary.com: yawl"
+      }
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "return-13",
+      "paragraph": "p-196",
+      "index": 56
+    }
+  },
+  {
+    "id": "jib",
+    "term": "jib",
+    "aliases": [
+      "jibs"
+    ],
+    "short": "A triangular sail set ahead of the mast.",
+    "note": "A triangular headsail carried forward of the foremast, usually supported by a stay running toward the bow.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/jib",
+        "label": "Dictionary.com: jib"
+      }
+    ],
+    "occurrences": 14,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-028",
+      "index": 1
+    }
+  },
+  {
+    "id": "staysails",
+    "term": "staysails",
+    "aliases": [],
+    "short": "Sails set along the ropes supporting a mast.",
+    "note": "A staysail is a sail attached to a stay, a support running from a mast. Such sails are often triangular and may be set between masts.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/staysail",
+        "label": "Dictionary.com: staysail"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-028",
+      "index": 1
+    }
+  },
+  {
+    "id": "tiller",
+    "term": "tiller",
+    "aliases": [],
+    "short": "The lever used to turn a boat’s rudder.",
+    "note": "A bar attached to the rudder head or rudderpost, allowing the helmsman to steer by moving it from side to side.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/tiller",
+        "label": "Dictionary.com: tiller"
+      }
+    ],
+    "occurrences": 20,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-259",
+      "index": 1
+    }
+  },
+  {
+    "id": "belaying-pin",
+    "term": "belaying pin",
+    "aliases": [],
+    "short": "A pin around which a ship’s rope is secured.",
+    "note": "A removable wooden or metal pin fitted into a rail, used to fasten running rigging by winding rope around it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/belaying-pin",
+        "label": "Dictionary.com: belaying-pin"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-02",
+      "paragraph": "p-073",
+      "index": 2
+    }
+  },
+  {
+    "id": "bilge",
+    "term": "bilge",
+    "aliases": [
+      "bilges",
+      "bilgewater"
+    ],
+    "short": "The lowest hull space, or water collected there.",
+    "note": "The lower region inside a vessel where leaked or splashed water collects. Bilge water is the water accumulated there.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/bilge",
+        "label": "Dictionary.com: bilge"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-258",
+      "index": 1
+    }
+  },
+  {
+    "id": "leeward",
+    "term": "leeward",
+    "aliases": [],
+    "short": "Toward the direction in which the wind blows.",
+    "note": "On or toward the downwind side: the direction in which the wind is blowing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/leeward",
+        "label": "Dictionary.com: leeward"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-265",
+      "index": 1
+    }
+  },
+  {
+    "id": "shingle",
+    "term": "shingle",
+    "aliases": [],
+    "short": "Loose pebbles along a shore.",
+    "note": "Small water-worn stones, or a beach or bank covered with them.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/shingle",
+        "label": "Dictionary.com: shingle"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-182",
+      "index": 1
+    }
+  },
+  {
+    "id": "scull",
+    "term": "scull",
+    "aliases": [],
+    "short": "To propel a boat with an oar worked over its stern.",
+    "note": "To drive a boat forward by sweeping a single oar from side to side over the stern. The word can also describe rowing with a pair of oars.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/scull",
+        "label": "Dictionary.com: scull"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-04",
+      "paragraph": "p-116",
+      "index": 4
+    }
+  },
+  {
+    "id": "reefed",
+    "term": "reefed",
+    "aliases": [],
+    "short": "With part of a sail gathered in to reduce its area.",
+    "note": "A reef shortens a sail by folding or rolling up and securing part of it, reducing the surface exposed to the wind.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/reef",
+        "label": "Dictionary.com: reef"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "blue-05",
+      "paragraph": "p-030",
+      "index": 5
+    }
+  },
+  {
+    "id": "forestay",
+    "term": "forestay",
+    "aliases": [],
+    "short": "A rope or cable supporting a mast from the front.",
+    "note": "A stay running from the forward mast toward the bow or bowsprit, supporting and controlling the mast.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/forestay",
+        "label": "Dictionary.com: forestay"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "blue-05",
+      "paragraph": "p-062",
+      "index": 5
+    }
+  },
+  {
+    "id": "shriving",
+    "term": "shriving",
+    "aliases": [
+      "shrive",
+      "shrived",
+      "shriven"
+    ],
+    "short": "Confession and absolution of sins.",
+    "note": "To shrive is to hear a confession and grant absolution, or to make one’s own confession. The older word can also include assigning penance.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/shrive",
+        "label": "Dictionary.com: shrive"
+      }
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "blue-10",
+      "paragraph": "p-084",
+      "index": 10
+    }
+  },
+  {
+    "id": "gobbet",
+    "term": "gobbet",
+    "aliases": [],
+    "short": "A chunk or lump, especially of meat.",
+    "note": "A sizeable piece or lump, particularly a piece of flesh.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/gobbet",
+        "label": "Dictionary.com: gobbet"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-04",
+      "paragraph": "p-155",
+      "index": 4
+    }
+  },
+  {
+    "id": "descanting",
+    "term": "descanting",
+    "aliases": [],
+    "short": "Speaking at length on a subject.",
+    "note": "To descant upon something is to discuss it at length or offer elaborate comments.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/descant",
+        "label": "Dictionary.com: descant"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-04",
+      "paragraph": "p-100",
+      "index": 4
+    }
+  },
+  {
+    "id": "celerity",
+    "term": "celerity",
+    "aliases": [],
+    "short": "Swiftness or speed.",
+    "note": "A formal word for rapid movement or quickness in acting.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/celerity",
+        "label": "Dictionary.com: celerity"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-03",
+      "paragraph": "p-180",
+      "index": 3
+    }
+  },
+  {
+    "id": "combers",
+    "term": "combers",
+    "aliases": [],
+    "short": "Long waves with curling crests.",
+    "note": "A comber is a long sea wave whose crest curls over as it breaks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/comber",
+        "label": "Dictionary.com: comber"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-06",
+      "paragraph": "p-099",
+      "index": 6
+    }
+  },
+  {
+    "id": "coruscated",
+    "term": "coruscated",
+    "aliases": [],
+    "short": "Sparkled or flashed brightly.",
+    "note": "To coruscate is to give off brilliant flashes or sparkling gleams.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/coruscate",
+        "label": "Dictionary.com: coruscate"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-06",
+      "paragraph": "p-132",
+      "index": 6
+    }
+  },
+  {
+    "id": "plashing",
+    "term": "plashing",
+    "aliases": [],
+    "short": "Splashing gently.",
+    "note": "To plash is to splash or make a soft splashing sound.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/plash",
+        "label": "Dictionary.com: plash"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-09",
+      "paragraph": "p-280",
+      "index": 9
+    }
+  },
+  {
+    "id": "milch",
+    "term": "milch",
+    "aliases": [],
+    "short": "Kept for giving milk.",
+    "note": "Describes a domestic animal that produces milk or is kept for milk production.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/milch",
+        "label": "Dictionary.com: milch"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-12",
+      "paragraph": "p-134",
+      "index": 12
+    }
+  },
+  {
+    "id": "gauds",
+    "term": "gauds",
+    "aliases": [],
+    "short": "Showy ornaments or trinkets.",
+    "note": "A gaud is a flashy ornament, piece of finery, or decorative bauble.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/gaud",
+        "label": "Dictionary.com: gaud"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-13",
+      "paragraph": "p-070",
+      "index": 13
+    }
+  },
+  {
+    "id": "purblind",
+    "term": "purblind",
+    "aliases": [],
+    "short": "Dim-sighted; figuratively, lacking understanding.",
+    "note": "Partially blind or unable to see clearly; by extension, unable to perceive or understand something adequately.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/purblind",
+        "label": "Dictionary.com: purblind"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-15",
+      "paragraph": "p-023",
+      "index": 15
+    }
+  },
+  {
+    "id": "quirt",
+    "term": "quirt",
+    "aliases": [],
+    "short": "A short riding whip.",
+    "note": "A riding whip with a short, sturdy handle and a leather lash.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/quirt",
+        "label": "Dictionary.com: quirt"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-10",
+      "paragraph": "p-090",
+      "index": 27
+    }
+  },
+  {
+    "id": "suborn",
+    "term": "suborn",
+    "aliases": [],
+    "short": "To induce someone to commit a wrongful act.",
+    "note": "To persuade, bribe, or secretly induce someone to do wrong; in legal usage, especially to procure false testimony.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/suborn",
+        "label": "Dictionary.com: suborn"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-12",
+      "paragraph": "p-050",
+      "index": 29
+    }
+  },
+  {
+    "id": "raff",
+    "term": "raff",
+    "aliases": [],
+    "short": "Rubbish or worthless stuff.",
+    "note": "An old word for refuse or rubbish, also used of supposedly disreputable people.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/raff",
+        "label": "Dictionary.com: raff"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-15",
+      "paragraph": "p-013",
+      "index": 32
+    }
+  },
+  {
+    "id": "burse",
+    "term": "burse",
+    "aliases": [],
+    "short": "A pouch or small carrying case.",
+    "note": "A bag, purse, or case for a particular purpose; the word also has specialized ecclesiastical and educational uses.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/burse",
+        "label": "Dictionary.com: burse"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-19",
+      "paragraph": "p-020",
+      "index": 36
+    }
+  },
+  {
+    "id": "raillery",
+    "term": "raillery",
+    "aliases": [],
+    "short": "Good-natured teasing or banter.",
+    "note": "Light, playful mockery rather than hostile ridicule.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/raillery",
+        "label": "Dictionary.com: raillery"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-19",
+      "paragraph": "p-018",
+      "index": 36
+    }
+  },
+  {
+    "id": "spalling",
+    "term": "spalling",
+    "aliases": [],
+    "short": "Chipping or flaking away.",
+    "note": "To spall is to break off in fragments or flakes, especially from the surface of stone.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/spall",
+        "label": "Dictionary.com: spall"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-21",
+      "paragraph": "p-117",
+      "index": 38
+    }
+  },
+  {
+    "id": "percipient",
+    "term": "percipient",
+    "aliases": [],
+    "short": "Perceptive or capable of perceiving.",
+    "note": "Able to notice, understand, or discriminate; a formal adjective related to perception.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/percipient",
+        "label": "Dictionary.com: percipient"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-18",
+      "paragraph": "p-044",
+      "index": 35
+    }
+  },
+  {
+    "id": "solaria",
+    "term": "solaria",
+    "aliases": [],
+    "short": "Sunrooms or rooms designed to receive sunlight.",
+    "note": "Plural of solarium: a room or enclosed space arranged for exposure to the sun, commonly with extensive glazing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/solarium",
+        "label": "Dictionary.com: solarium"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "green-16",
+      "paragraph": "p-072",
+      "index": 33
+    }
+  },
+  {
+    "id": "coof",
+    "term": "coof",
+    "aliases": [],
+    "short": "Scots: a fool or dull-witted fellow.",
+    "note": "An insulting Scots word for a simpleton, lout, or foolish person.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dsl.ac.uk/entry/snd/coof_n1",
+        "label": "Dictionaries of the Scots Language: coof"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-243",
+      "index": 45
+    }
+  },
+  {
+    "id": "donsy",
+    "term": "donsy",
+    "aliases": [],
+    "short": "Scots: unfortunate, wretched, or ailing.",
+    "note": "A variant of donsie, which can describe someone unlucky or miserable, and also someone sickly or feeble.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dsl.ac.uk/entry/snd/donsie",
+        "label": "Dictionaries of the Scots Language: donsy"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-06",
+      "paragraph": "p-219",
+      "index": 49
+    }
+  },
+  {
+    "id": "snog",
+    "term": "snog clock",
+    "aliases": [],
+    "short": "A neat or trim face.",
+    "note": "Snog is a Scots form of snug meaning neat or trim; clock is slang for a person’s face.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dsl.ac.uk/entry/snd/snug_adj_n1_v1",
+        "label": "Dictionaries of the Scots Language: snog"
+      },
+      {
+        "url": "https://www.dictionary.com/browse/clock",
+        "label": "Dictionary.com: clock, slang sense"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-299",
+      "index": 45
+    }
+  },
+  {
+    "id": "corbie",
+    "term": "corbie",
+    "aliases": [],
+    "short": "Scots: a raven or crow.",
+    "note": "A Scots name chiefly for the raven, also applied to other crow-family birds.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dsl.ac.uk/entry/snd/corbie_n",
+        "label": "Dictionaries of the Scots Language: corbie"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-359",
+      "index": 45
+    }
+  },
+  {
+    "id": "skelp",
+    "term": "skelp",
+    "aliases": [],
+    "short": "Scots: to move quickly or scamper.",
+    "note": "Besides meaning to slap, skelp can mean to strike the ground rapidly with the feet: to run, skip, or hurry along.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dsl.ac.uk/entry/snd/skelp_v1_n1_adv",
+        "label": "Dictionaries of the Scots Language: skelp"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-14",
+      "paragraph": "p-117",
+      "index": 57
+    }
+  },
+  {
+    "id": "hizzie",
+    "term": "hizzie",
+    "aliases": [],
+    "short": "Scots: a woman or girl, often said teasingly.",
+    "note": "A Scots form of hussy, used jocularly or disparagingly for a woman or girl; it can carry a stronger moral insult.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dsl.ac.uk/entry/snd/hizzie",
+        "label": "Dictionaries of the Scots Language: hizzie"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-14",
+      "paragraph": "p-320",
+      "index": 57
+    }
+  },
+  {
+    "id": "yowe",
+    "term": "yowe",
+    "aliases": [],
+    "short": "Scots: a ewe.",
+    "note": "A female sheep; yowe is the Scots form of ewe.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dsl.ac.uk/entry/snd/yowe",
+        "label": "Dictionaries of the Scots Language: yowe"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-06",
+      "paragraph": "p-221",
+      "index": 49
+    }
+  },
+  {
+    "id": "time-tint",
+    "term": "Time tint be time toom",
+    "aliases": [],
+    "short": "Scots: time lost is time empty.",
+    "note": "Tint is the past form of tyne, to lose or waste; toom means empty. The phrase equates wasted time with empty time.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dsl.ac.uk/entry/snd/tyne",
+        "label": "Dictionaries of the Scots Language: tyne"
+      },
+      {
+        "url": "https://dsl.ac.uk/entry/snd/tume",
+        "label": "Dictionaries of the Scots Language: tume"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-16",
+      "paragraph": "p-129",
+      "index": 59
+    }
+  },
+  {
+    "id": "ab-initio",
+    "term": "ab initio",
+    "aliases": [],
+    "short": "Latin: from the beginning.",
+    "note": "A Latin phrase meaning from the outset or from the start.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/ab-initio",
+        "label": "Dictionary.com: ab-initio"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-11",
+      "paragraph": "p-023",
+      "index": 54
+    }
+  },
+  {
+    "id": "testis-oculatus",
+    "term": "Testis oculatus unus plus valet quam auriti decem",
+    "aliases": [],
+    "short": "One eyewitness is worth more than ten who only heard.",
+    "note": "A Latin maxim meaning one eyewitness is worth more than ten who only heard. Plautus’s Truculentus contains the closely corresponding line Pluris est oculatus testis unus quam auriti decem.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.faenumpublishing.com/uploads/2/3/9/8/23987979/plautus_truculentus.pdf",
+        "label": "Plautus: Truculentus, annotated Latin reader"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-11",
+      "paragraph": "p-045",
+      "index": 54
+    }
+  },
+  {
+    "id": "bilocation",
+    "term": "bilocation",
+    "aliases": [],
+    "short": "Being present in two places at the same time.",
+    "note": "The supposed state or capacity of occupying two locations simultaneously.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/bilocation",
+        "label": "Dictionary.com: bilocation"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-09",
+      "paragraph": "p-081",
+      "index": 52
+    }
+  },
+  {
+    "id": "theo-didacts",
+    "term": "theo-didacts",
+    "aliases": [],
+    "short": "People taught by God.",
+    "note": "Theodidact means taught by God, or someone understood to receive divine instruction.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordnik.com/words/theodidact",
+        "label": "The Century Dictionary via Wordnik: theodidact"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-10",
+      "paragraph": "p-285",
+      "index": 53
+    }
+  },
+  {
+    "id": "cappellas",
+    "term": "cappellas",
+    "aliases": [],
+    "short": "Italian cappella: a chapel.",
+    "note": "Cappella is the Italian word for a chapel: a separate place of worship or a worship space within a larger building.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/cappella1/",
+        "label": "Treccani: cappella"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-02",
+      "paragraph": "p-038",
+      "index": 19
+    }
+  },
+  {
+    "id": "madere",
+    "term": "madere",
+    "aliases": [],
+    "short": "Prepared with Madeira wine sauce.",
+    "note": "French madère means Madeira wine. Sauce madère is a brown sauce flavored with this wine, commonly served with meat.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17079093/sauce-madere",
+        "label": "Office québécois de la langue française: sauce madère"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-14",
+      "paragraph": "p-268",
+      "index": 57
+    }
+  },
+  {
+    "id": "shirred",
+    "term": "shirred",
+    "aliases": [],
+    "short": "Baked, usually in a shallow dish.",
+    "note": "In cookery, shirring means baking, most commonly eggs out of their shells. Older recipes also describe shirred oysters, baked with seasoning in a dish or their shells.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/shirr",
+        "label": "Dictionary.com: shirr"
+      },
+      {
+        "url": "https://www.vliz.be/imisdocs/publications/ocrd/229833.pdf",
+        "label": "Recipes for Sea Food: Shirred Oysters"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-14",
+      "paragraph": "p-171",
+      "index": 57
+    }
+  },
+  {
+    "id": "squab",
+    "term": "squab",
+    "aliases": [],
+    "short": "A young pigeon, especially as food.",
+    "note": "A young domestic pigeon raised for its tender meat; the term can also refer more generally to an unfledged bird.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/squab",
+        "label": "Dictionary.com: squab"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-14",
+      "paragraph": "p-102",
+      "index": 57
+    }
+  },
+  {
+    "id": "jigger",
+    "term": "jigger",
+    "aliases": [],
+    "short": "A small sail on the aftermost mast.",
+    "note": "The lowest sail on a jiggermast, or the mast itself; on a yawl the small aftermast serves this purpose.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/jigger",
+        "label": "Dictionary.com: jigger"
+      },
+      {
+        "url": "https://www.dictionary.com/browse/yawl",
+        "label": "Dictionary.com: yawl and its jiggermast"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-15",
+      "paragraph": "p-003",
+      "index": 58
+    }
+  },
+  {
+    "id": "sacristy",
+    "term": "sacristy",
+    "aliases": [],
+    "short": "A room where ceremonial vessels and vestments are kept.",
+    "note": "A room adjoining a church or chapel used for storing objects for worship and preparing for services.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/sacristy",
+        "label": "Dictionary.com: sacristy"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "return-16",
+      "paragraph": "p-066",
+      "index": 59
+    }
+  },
+  {
+    "id": "glim",
+    "term": "glim",
+    "aliases": [],
+    "short": "An old slang word for a light or lamp.",
+    "note": "Glim can mean a lamp or light; in other slang use it can also mean an eye.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/glim",
+        "label": "Dictionary.com: glim"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "return-06",
+      "paragraph": "p-067",
+      "index": 49
+    }
+  },
+  {
+    "id": "gondola",
+    "term": "gondola",
+    "aliases": [],
+    "short": "The cabin suspended beneath an airship.",
+    "note": "The compartment carried below a balloon or airship for its passengers, crew, or equipment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/gondola",
+        "label": "Dictionary.com: gondola"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-01",
+      "paragraph": "p-183",
+      "index": 44
+    }
+  },
+  {
+    "id": "sloughs",
+    "term": "sloughs",
+    "aliases": [],
+    "short": "Marshes or sluggish channels of water.",
+    "note": "A slough is a swampy hollow or wetland; the word is also used for a slow-moving side channel of a river or a marshy inlet.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/slough",
+        "label": "Dictionary.com: slough"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-01",
+      "paragraph": "p-076",
+      "index": 44
+    }
+  },
+  {
+    "id": "mandola",
+    "term": "mandola",
+    "aliases": [],
+    "short": "A lute-like instrument resembling a large mandolin.",
+    "note": "A plucked stringed instrument of the lute and mandolin family.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/mandola",
+        "label": "Dictionary.com: mandola"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-08",
+      "paragraph": "p-231",
+      "index": 51
+    }
+  },
+  {
+    "id": "twill",
+    "term": "twill",
+    "aliases": [],
+    "short": "Fabric woven with diagonal ribs.",
+    "note": "A weave in which the threads cross in a staggered pattern, producing parallel diagonal lines, or a cloth made with that weave.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/twill",
+        "label": "Dictionary.com: twill"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "return-07",
+      "paragraph": "p-004",
+      "index": 50
+    }
+  },
+  {
+    "id": "worsted",
+    "term": "worsted",
+    "aliases": [],
+    "short": "Smooth yarn or cloth made from combed wool.",
+    "note": "Yarn spun from long, combed wool fibers, or the closely woven, smooth-surfaced cloth made from it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/worsted",
+        "label": "Dictionary.com: worsted"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-15",
+      "paragraph": "p-083",
+      "index": 58
+    }
+  },
+  {
+    "id": "salsify",
+    "term": "salsify",
+    "aliases": [],
+    "short": "A root vegetable also called oyster plant.",
+    "note": "Tragopogon porrifolius, a purple-flowered plant grown for its long edible root, whose flavor is often compared with oysters.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/salsify",
+        "label": "Dictionary.com: salsify"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-04",
+      "paragraph": "p-173",
+      "index": 4
+    }
+  },
+  {
+    "id": "exsanguinated",
+    "term": "exsanguinated",
+    "aliases": [],
+    "short": "Drained of blood.",
+    "note": "Exsanguinate means to remove or lose blood; the adjective describes a body depleted of it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/exsanguinate",
+        "label": "Dictionary.com: exsanguinate"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-11",
+      "paragraph": "p-096",
+      "index": 11
+    }
+  },
+  {
+    "id": "lianas",
+    "term": "lianas",
+    "aliases": [
+      "liana"
+    ],
+    "short": "Woody climbing vines.",
+    "note": "Long-stemmed woody climbers characteristic of tropical forests, often reaching the tree canopy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/liana",
+        "label": "Dictionary.com: liana"
+      }
+    ],
+    "occurrences": 8,
+    "first": {
+      "chapter": "blue-06",
+      "paragraph": "p-103",
+      "index": 6
+    }
+  },
+  {
+    "id": "stile",
+    "term": "stile",
+    "aliases": [],
+    "short": "Steps allowing people to cross a fence or wall.",
+    "note": "A crossing built into or over a barrier so people can pass while livestock remain enclosed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/stile",
+        "label": "Dictionary.com: stile"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "green-17",
+      "paragraph": "p-168",
+      "index": 34
+    }
+  },
+  {
+    "id": "ragout",
+    "term": "ragout",
+    "aliases": [],
+    "short": "A richly seasoned stew.",
+    "note": "A stew of meat, fish, or poultry, often with vegetables; the name comes from French cooking.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/ragout",
+        "label": "Dictionary.com: ragout"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "green-22",
+      "paragraph": "p-053",
+      "index": 39
+    }
+  },
+  {
+    "id": "cantonment",
+    "term": "cantonment",
+    "aliases": [],
+    "short": "Military quarters or an encampment.",
+    "note": "A place where troops are housed, especially a training camp or an army’s quarters between campaigns.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/cantonment",
+        "label": "Dictionary.com: cantonment"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-02",
+      "paragraph": "p-102",
+      "index": 19
+    }
+  },
+  {
+    "id": "alluvial",
+    "term": "alluvial",
+    "aliases": [],
+    "short": "Formed from sediment deposited by flowing water.",
+    "note": "Alluvial soil consists of material such as silt, sand, or clay laid down by rivers or other flowing water.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/alluvium",
+        "label": "Dictionary.com: alluvium"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-05",
+      "paragraph": "p-040",
+      "index": 5
+    }
+  },
+  {
+    "id": "slurry",
+    "term": "slurry",
+    "aliases": [],
+    "short": "Solid particles suspended in a liquid.",
+    "note": "A fluid mixture of insoluble solid particles with water or another liquid.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/slurry",
+        "label": "Dictionary.com: slurry"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-04",
+      "paragraph": "p-206",
+      "index": 4
+    }
+  },
+  {
+    "id": "bandoleer",
+    "term": "bandoleer",
+    "aliases": [],
+    "short": "A shoulder belt for carrying ammunition.",
+    "note": "A broad belt worn across the body, fitted with loops or pockets for cartridges; also spelled bandolier.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/bandoleer",
+        "label": "Dictionary.com: bandoleer"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-15",
+      "paragraph": "p-024",
+      "index": 15
+    }
+  },
+  {
+    "id": "bravos",
+    "term": "bravos",
+    "aliases": [],
+    "short": "Hired ruffians or killers.",
+    "note": "In this older noun sense, a bravo is a violent adventurer or assassin, especially one employed to commit crimes for someone else.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/bravo",
+        "label": "Dictionary.com: bravo"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-053",
+      "index": 1
+    }
+  },
+  {
+    "id": "sharpers",
+    "term": "sharpers",
+    "aliases": [],
+    "short": "Swindlers or cheats.",
+    "note": "A sharper is someone skilled in deception, particularly a dishonest gambler or confidence trickster.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/sharper",
+        "label": "Dictionary.com: sharper"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-065",
+      "index": 1
+    }
+  },
+  {
+    "id": "sprats",
+    "term": "sprats",
+    "aliases": [
+      "sprat"
+    ],
+    "short": "Small fish; figuratively, small or insignificant people.",
+    "note": "A sprat is a small herring-family fish. The word is also applied to a small or insignificant person, often a child.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/sprat",
+        "label": "Dictionary.com: sprat"
+      }
+    ],
+    "occurrences": 23,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-156",
+      "index": 1
+    }
+  },
+  {
+    "id": "dragoons",
+    "term": "dragoons",
+    "aliases": [],
+    "short": "Cavalry soldiers, originally mounted infantry.",
+    "note": "Dragoons began as soldiers who rode to battle and fought on foot. The name later became a title for various cavalry regiments.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/dragoon",
+        "label": "Dictionary.com: dragoon"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "green-prelude",
+      "paragraph": "p-003",
+      "index": 17
+    }
+  },
+  {
+    "id": "lanyard",
+    "term": "lanyard",
+    "aliases": [],
+    "short": "A cord pulled to fire a cannon.",
+    "note": "Among its several uses, lanyard denotes the cord connected to a gun’s firing mechanism.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/lanyard",
+        "label": "Dictionary.com: lanyard"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-17",
+      "paragraph": "p-212",
+      "index": 34
+    }
+  },
+  {
+    "id": "draughts",
+    "term": "draughts",
+    "aliases": [],
+    "short": "The board game called checkers in North America.",
+    "note": "A two-player game in which pieces move across a checkered board and capture opposing pieces by jumping over them.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/draughts",
+        "label": "Dictionary.com: draughts"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-25",
+      "paragraph": "p-147",
+      "index": 42
+    }
+  },
+  {
+    "id": "baluster",
+    "term": "baluster",
+    "aliases": [],
+    "short": "One of the upright supports beneath a railing.",
+    "note": "A small post or pillar supporting a rail; a row of balusters with its rail forms a balustrade.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/baluster",
+        "label": "Dictionary.com: baluster"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-12",
+      "paragraph": "p-283",
+      "index": 55
+    }
+  },
+  {
+    "id": "pother",
+    "term": "pother",
+    "aliases": [],
+    "short": "A fuss, commotion, or unnecessary ado.",
+    "note": "Trouble or agitation over a matter; also a noisy argument or commotion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/pother",
+        "label": "Dictionary.com: pother"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-14",
+      "paragraph": "p-117",
+      "index": 57
+    }
+  },
+  {
+    "id": "cypher",
+    "term": "cypher",
+    "aliases": [],
+    "short": "To do arithmetic.",
+    "note": "An older spelling of cipher in its verb sense: to calculate using figures or numbers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/cipher",
+        "label": "Dictionary.com: cipher"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-epilogue",
+      "paragraph": "p-007",
+      "index": 64
+    }
+  },
+  {
+    "id": "caulking-tow",
+    "term": "tar and tow",
+    "aliases": [],
+    "short": "Tar and coarse plant fibers used in sealing seams.",
+    "note": "Tow is coarse flax, hemp, or similar fiber. Such fibers and tar were used to pack and waterproof the seams of wooden boats.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/tow",
+        "label": "Dictionary.com: tow, fiber sense"
+      },
+      {
+        "url": "https://www.rmg.co.uk/stories/maritime-history/meet-team-chris-wood-project-manager",
+        "label": "Royal Museums Greenwich: traditional caulking"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-epilogue",
+      "paragraph": "p-008",
+      "index": 64
+    }
+  },
+  {
+    "id": "leech-physician",
+    "term": "guid a leech",
+    "aliases": [],
+    "short": "An archaic word for a physician.",
+    "note": "Leech is an older word for a physician or healer.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/leech",
+        "label": "Dictionary.com: leech, physician sense"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-14",
+      "paragraph": "p-117",
+      "index": 57
+    }
+  },
+  {
+    "id": "in-absentia",
+    "term": "in absentia",
+    "aliases": [],
+    "short": "Latin: in the person’s absence.",
+    "note": "A Latin expression used when someone is not physically present.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/in-absentia",
+        "label": "Dictionary.com: in-absentia"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-12",
+      "paragraph": "p-223",
+      "index": 55
+    }
+  },
+  {
+    "id": "hunkers",
+    "term": "hunkers",
+    "aliases": [],
+    "short": "The haunches, especially when squatting.",
+    "note": "To sit on one’s hunkers is to crouch down with the knees bent and the body supported near the heels.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/hunkers",
+        "label": "Dictionary.com: hunkers"
+      },
+      {
+        "url": "https://www.dictionary.com/browse/hunker",
+        "label": "Dictionary.com: hunker, on one’s hunkers"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-248",
+      "index": 45
+    }
+  },
+  {
+    "id": "cote",
+    "term": "cote",
+    "aliases": [],
+    "short": "A small cottage or shelter.",
+    "note": "An old or dialect word for a small house; it can also mean a shelter or pen for animals.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/cote",
+        "label": "Dictionary.com: cote"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-14",
+      "paragraph": "p-320",
+      "index": 57
+    }
+  },
+  {
+    "id": "chivvied",
+    "term": "chivvied",
+    "aliases": [],
+    "short": "Harried, chased, or persistently urged along.",
+    "note": "To chivy or chivvy is to harass, nag, or chase someone or something.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/chivy",
+        "label": "Dictionary.com: chivy"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-15",
+      "paragraph": "p-031",
+      "index": 15
+    }
+  },
+  {
+    "id": "een",
+    "term": "een",
+    "aliases": [],
+    "short": "Scots: eyes.",
+    "note": "The plural of Scots ee, eye.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dsl.ac.uk/entry/snd/ee_n_v1",
+        "label": "Dictionaries of the Scots Language: ee"
+      }
+    ],
+    "occurrences": 30,
+    "first": {
+      "chapter": "return-02",
+      "paragraph": "p-220",
+      "index": 45
+    }
+  },
+  {
+    "id": "maun",
+    "term": "maun",
+    "aliases": [],
+    "short": "Scots: must.",
+    "note": "A Scots auxiliary verb meaning must, expressing necessity or obligation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dsl.ac.uk/entry/snd/maun_v1_n1",
+        "label": "Dictionaries of the Scots Language: maun"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-14",
+      "paragraph": "p-300",
+      "index": 57
+    }
+  },
+  {
+    "id": "tittle",
+    "term": "tittle",
+    "aliases": [
+      "tittled"
+    ],
+    "short": "Scots: to chatter or gossip.",
+    "note": "To speak in whispers, chatter, or pass on idle talk.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dsl.ac.uk/entry/snd/tittle_v1_n1",
+        "label": "Dictionaries of the Scots Language: tittle"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "return-04",
+      "paragraph": "p-213",
+      "index": 47
+    }
+  },
+  {
+    "id": "gaff",
+    "term": "gaff",
+    "aliases": [],
+    "short": "A spar supporting the upper edge of a sail.",
+    "note": "A pole projecting aft and upward from a mast to hold the top of a four-sided fore-and-aft sail.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/gaff",
+        "label": "Dictionary.com: gaff"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "blue-07",
+      "paragraph": "p-120",
+      "index": 7
+    }
+  },
+  {
+    "id": "sail-sheet",
+    "term": "tie the sheet",
+    "aliases": [],
+    "short": "Fasten the rope controlling a sail.",
+    "note": "In sailing, a sheet is a rope used to trim or control a sail’s position relative to the wind.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/sheet",
+        "label": "Dictionary.com: sheet"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-01",
+      "paragraph": "p-258",
+      "index": 1
+    }
+  },
+  {
+    "id": "bootless",
+    "term": "bootless",
+    "aliases": [],
+    "short": "Useless or unavailing.",
+    "note": "An older adjective for something that produces no benefit, result, or advantage.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/bootless",
+        "label": "Dictionary.com: bootless"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-16",
+      "paragraph": "p-021",
+      "index": 59
+    }
+  },
+  {
+    "id": "paling",
+    "term": "paling",
+    "aliases": [],
+    "short": "An upright stake or board in a fence.",
+    "note": "A single pale or picket; the word can also name the whole fence made from such stakes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/paling",
+        "label": "Dictionary.com: paling"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "green-24",
+      "paragraph": "p-028",
+      "index": 41
+    }
+  },
+  {
+    "id": "sorrel",
+    "term": "sorrel",
+    "aliases": [],
+    "short": "Light reddish-brown.",
+    "note": "A reddish-brown color, especially familiar as a description of a horse’s coat.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/sorrel",
+        "label": "Dictionary.com: sorrel"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "green-21",
+      "paragraph": "p-046",
+      "index": 38
+    }
+  },
+  {
+    "id": "livid",
+    "term": "livid",
+    "aliases": [],
+    "short": "Bluish or ashen in color.",
+    "note": "Describes skin discolored by bruising or a dull bluish-gray pallor. It can also mean deathly pale.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/livid",
+        "label": "Dictionary.com: livid"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-09",
+      "paragraph": "p-031",
+      "index": 9
+    }
+  },
+  {
+    "id": "cerulean",
+    "term": "cerulean",
+    "aliases": [],
+    "short": "Sky-blue or azure.",
+    "note": "A literary adjective for a clear or deep blue color.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/cerulean",
+        "label": "Dictionary.com: cerulean"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-15",
+      "paragraph": "p-015",
+      "index": 15
+    }
+  },
+  {
+    "id": "temporized",
+    "term": "temporized",
+    "aliases": [],
+    "short": "Delayed or spoke evasively to gain time.",
+    "note": "To temporize is to avoid an immediate decision by delay, evasiveness, or provisional compromise.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/temporize",
+        "label": "Dictionary.com: temporize"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-04",
+      "paragraph": "p-038",
+      "index": 4
+    }
+  },
+  {
+    "id": "sib",
+    "term": "sib",
+    "aliases": [],
+    "short": "A sibling or relative.",
+    "note": "An older noun for a brother, sister, or other relative.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/sib",
+        "label": "Dictionary.com: sib"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-03",
+      "paragraph": "p-226",
+      "index": 3
+    }
+  },
+  {
+    "id": "manse",
+    "term": "manse",
+    "aliases": [],
+    "short": "A clergyman’s house.",
+    "note": "A residence provided for a minister or parson; the word can also denote a substantial dwelling.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/manse",
+        "label": "Dictionary.com: manse"
+      }
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "blue-05",
+      "paragraph": "p-036",
+      "index": 5
+    }
+  },
+  {
+    "id": "turbid",
+    "term": "turbid",
+    "aliases": [],
+    "short": "Clouded or muddy with suspended matter.",
+    "note": "Describes liquid made opaque or unclear by sediment or other particles.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/turbid",
+        "label": "Dictionary.com: turbid"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-19",
+      "paragraph": "p-042",
+      "index": 62
+    }
+  },
+  {
+    "id": "dray-horse",
+    "term": "dray horse",
+    "aliases": [],
+    "short": "A horse used to pull heavy loads.",
+    "note": "A dray is a strong low cart for heavy goods; a dray horse is an animal used to draw it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/dray",
+        "label": "Dictionary.com: dray"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-05",
+      "paragraph": "p-153",
+      "index": 48
+    }
+  },
+  {
+    "id": "heeling",
+    "term": "heeling",
+    "aliases": [],
+    "short": "Leaning to one side, as a sailing vessel does.",
+    "note": "To heel is to tilt or incline sideways from the upright position.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/heel",
+        "label": "Dictionary.com: heel"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "blue-05",
+      "paragraph": "p-071",
+      "index": 5
+    }
+  },
+  {
+    "id": "sweeps-oars",
+    "term": "the sweeps",
+    "aliases": [
+      "buy sweeps",
+      "new sweeps",
+      "two sweeps"
+    ],
+    "short": "Long oars used to propel a vessel.",
+    "note": "A sweep is a large oar, used to move a boat or help steer it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/sweep",
+        "label": "Dictionary.com: sweep"
+      }
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "blue-02",
+      "paragraph": "p-070",
+      "index": 2
+    }
+  },
+  {
+    "id": "sea-anchor",
+    "term": "sea anchor",
+    "aliases": [],
+    "short": "A drag device that slows a boat’s drift.",
+    "note": "A device streamed on a line into the water to resist drift or help keep a vessel facing the wind and waves.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/sea-anchor",
+        "label": "Dictionary.com: sea-anchor"
+      }
+    ],
+    "occurrences": 9,
+    "first": {
+      "chapter": "blue-03",
+      "paragraph": "p-091",
+      "index": 3
     }
   }
 ]

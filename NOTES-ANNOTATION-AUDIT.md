@@ -202,3 +202,49 @@ validator passes. `data/annotation-audit-strange-travelers.json` records every
 story’s outcome and first location, including the no-addition story. The 102
 new entries cite 110 distinct source URLs. This systematic review does not claim
 to exhaust every possible literary allusion.
+
+## Solar Cycle follow-on
+
+After the non-Solar books and incoming stories were complete, the authorized
+follow-on pass screened all three Solar Cycle readers. It adds 483 entries:
+192 in New Sun, 193 in Long Sun, and 98 in Short Sun, supported by 490 distinct
+new source URLs. Twenty-one existing entries receive definition, source, or
+alias refinements. A separate exact-anchor correction distinguishes ornamental
+pampas grass from the South American grasslands. Short Sun’s familiar ordinary
+animal-horn gloss is removed. The three readers now contain 1,925 notes.
+
+The work covers 313 narrative sections and 1,371,077 narrative words. The five
+New Sun appendixes and six Long/Short Sun Proper Names lists receive no new
+annotations. Long Sun’s fictional “My Defense” and “Afterward,” and Short Sun’s
+narrative “Afterword,” are included. All existing definitions were reviewed;
+New and Long Sun also received complete first-anchor semantic screening. New
+entries’ actual rendered first contexts were checked after integration. Existing
+sources were selectively reopened for corrections, rather than universally
+recertified. The method is systematic lexical/reference screening and targeted
+contextual reading, not a claim of uninterrupted close reading or exhaustive
+identification of every possible allusion.
+
+Notable corrections include Long Sun’s calotte as a clerical cap, New Sun’s
+broader contextual senses of algophilist, clerestory and agnation, and expanded
+Gaelic/Scots inflections. Variant spellings are consolidated under existing
+entries. Full popup notes state their meanings independently of the brief margin
+gloss. Scientific and theological references describe external concepts without
+endorsing a narrator’s claims or supplying fictional-world explanations.
+
+Because the original Solar material is a static export without a tracked EPUB
+importer, its 1,443 published definitions were first migrated to
+`data/solar-cycle/` without any output changes. That no-change migration was
+verified byte-for-byte and by modification time across 667 original files.
+`tools/rebuild_solar_annotations.py` retains established annotation spans by ID,
+matching only new entries and explicit new aliases. Targeted replacements have
+exact paragraph, ID, text and text-offset guards; stale targets fail before
+output writes. The pampa correction preserves its genuine grassland occurrence.
+
+All 324 Solar chapter files preserve their exact visible text, paragraph metadata,
+word counts, decorative initials and reversible correction attributes against
+`97d6dcf`. Excluded sections remain byte-identical. The incremental build is
+idempotent; all 33 repository tests and the full validator pass. Independent
+maintenance tests cover stale targets, missing/malformed static files, relocated
+first aliases, standalone source-link updates, same-ID widening, and removals
+inside appendixes. `data/annotation-audit-solar-cycle.json` records the section
+outcomes, first locations, sources and original-entry changes.
