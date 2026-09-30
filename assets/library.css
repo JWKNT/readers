@@ -1,4 +1,6 @@
 /* Catalog only. Reading pages retain their independent book typography. */
+/* Long author jumps and rapid keyboard skips should land immediately. */
+html { scroll-behavior: auto; }
 :root {
   --serif: Georgia, "Times New Roman", serif;
   --display: "Palatino Linotype", Palatino, "Book Antiqua", "P052", Georgia, serif;
