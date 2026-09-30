@@ -60,7 +60,7 @@ def render_library(root=ROOT, library=None):
 <title>Readers</title>
 <script src="assets/theme/theme.js"></script>
 <link rel="stylesheet" href="assets/theme/base.css?v=theme-20260930-dial">
-<link rel="stylesheet" href="assets/library.css?v=library-20260930">
+<link rel="stylesheet" href="assets/library.css?v=library-20260930-nav">
 <link rel="icon" href="assets/theme/favicons/readers.png">
 <script defer src="assets/retire-offline.js"></script>
 </head>

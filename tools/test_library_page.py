@@ -85,7 +85,7 @@ class LibraryPage(unittest.TestCase):
 
     def test_landing_styles_do_not_load_book_typography(self):
         self.assertEqual(['assets/theme/base.css?v=theme-20260930-dial',
-                          'assets/library.css?v=library-20260930'], self.catalog.styles)
+                          'assets/library.css?v=library-20260930-nav'], self.catalog.styles)
         for page in ROOT.glob('*/index.html'):
             self.assertNotIn('assets/library.css', page.read_text(), str(page))
 
