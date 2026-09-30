@@ -1,0 +1,142 @@
+[
+  {
+    "id": "slatternly",
+    "term": "slatternly",
+    "aliases": [],
+    "short": "Untidy or slovenly.",
+    "note": "Habitually careless about cleanliness or neatness, especially in dress and appearance.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/slatternly",
+        "label": "Merriam-Webster · slatternly"
+      }
+    ],
+    "occurrences": 19,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-031",
+      "index": 0
+    }
+  },
+  {
+    "id": "educe",
+    "term": "educing",
+    "aliases": [],
+    "short": "Drawing out or bringing forth.",
+    "note": "Educe means to draw out something latent or to cause it to emerge. It comes from Latin educere, to lead out.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/educe",
+        "label": "Merriam-Webster · educe"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-206",
+      "index": 0
+    }
+  },
+  {
+    "id": "gainsay",
+    "term": "gainsaid",
+    "aliases": [],
+    "short": "Contradicted or opposed.",
+    "note": "Gainsay means to deny, contradict, or speak against something. Gainsaid is its past participle.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gainsay",
+        "label": "Merriam-Webster · gainsay"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-101",
+      "index": 0
+    }
+  },
+  {
+    "id": "blood-of-the-lamb",
+    "term": "Blood of the Lamb",
+    "aliases": [],
+    "short": "A Christian image of redemption through Christ.",
+    "note": "In Revelation, the Lamb represents Christ: his blood redeems people and washes the robes of the faithful. The image also became prominent in Christian hymns.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/revelation/7",
+        "label": "Revelation 7:14"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-093",
+      "index": 0
+    }
+  },
+  {
+    "id": "the-minstrel-boy",
+    "term": "The minstrel boy",
+    "aliases": [],
+    "short": "Thomas Moore’s song of a warrior and his harp.",
+    "note": "“The Minstrel Boy,” from Thomas Moore’s Irish Melodies, portrays a young harpist who fights for his country. Its second stanza links the silencing of his harp with resistance to slavery.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/8187/pg8187.html",
+        "label": "Thomas Moore · The Minstrel Boy"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-207",
+      "index": 0
+    }
+  },
+  {
+    "id": "shenandoah",
+    "term": "Shenando’",
+    "aliases": [],
+    "short": "A traditional American song of longing and departure.",
+    "note": "“Shenandoah” is a traditional American song with many variants, associated with river travel and sailors’ work songs. Its words commonly mention a beloved daughter and departure across the Missouri.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.loc.gov/collections/songs-of-america/articles-and-essays/articles-about-songs/shenandoah/",
+        "label": "Library of Congress · Shenandoah"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-216",
+      "index": 0
+    }
+  },
+  {
+    "id": "my-gentle-harp",
+    "term": "My gentle harp",
+    "aliases": [],
+    "short": "A song from Thomas Moore’s Irish Melodies.",
+    "note": "Thomas Moore’s “My Gentle Harp” addresses a neglected instrument in sorrow, returning to it after disappointed hopes of freedom and peace. It belongs to his Irish Melodies.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/8187/pg8187.html",
+        "label": "Thomas Moore · My Gentle Harp"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-319",
+      "index": 0
+    }
+  }
+]

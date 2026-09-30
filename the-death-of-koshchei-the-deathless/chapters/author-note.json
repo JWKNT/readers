@@ -1,0 +1,21 @@
+{
+  "id": "author-note",
+  "title": "Source note",
+  "volume": "sources",
+  "volumeTitle": "Supplementary material",
+  "number": 2,
+  "label": "",
+  "kind": "reference",
+  "index": 1,
+  "layout": "prose",
+  "blocks": [
+    "p-001"
+  ],
+  "sections": [],
+  "headingNoteAnchors": [],
+  "headingHtml": "Source note",
+  "noteAnchors": [],
+  "words": 25,
+  "startWords": 6092,
+  "html": "<p class=\"prose noindent\" id=\"p-001\" data-block=\"p-001\"> [The preceding story is based upon “The Death of Koshchei the Deathless” as found in Andrew Lang’s <em>The Red Fairy Book</em>, first published in 1890.]</p>"
+}

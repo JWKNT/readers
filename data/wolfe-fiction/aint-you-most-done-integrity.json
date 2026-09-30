@@ -1,0 +1,47 @@
+{
+  "book": "aint-you-most-done",
+  "sourceFiles": {
+    "strange-travelers": {
+      "file": "_OceanofPDF.com_Strange_Travelers_-_Gene_Wolfe.epub",
+      "sha256": "8435977934b6231eb25fdb7432c092cf2bc33dcec5d688c4497c225295b58f35"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "strange-travelers",
+      "files": [
+        "OEBPS/e9781429982498_c15.html"
+      ],
+      "sourceTextSha256": "611ddea6fc33950f6393dd44e774a44a69703cef664d258669b30529121a6019",
+      "textSha256": "179880aa11c3ce59ea520d1f3c4d5c32ea1f43ace9888af7106b0acf378d4d6a",
+      "blocks": 315,
+      "preEditorialTextSha256": "611ddea6fc33950f6393dd44e774a44a69703cef664d258669b30529121a6019"
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "aint-you-most-done",
+      "chapter": "story",
+      "paragraph": "p-083",
+      "before": "did not seems strange",
+      "after": "did not seem strange",
+      "reason": "The auxiliary did requires the base form seem.",
+      "confidence": "high",
+      "id": "v17-strange-b018"
+    },
+    {
+      "book": "aint-you-most-done",
+      "chapter": "story",
+      "paragraph": "p-182",
+      "before": "surprising hard and muscular",
+      "after": "surprisingly hard and muscular",
+      "reason": "An adverb is required to modify hard and muscular.",
+      "confidence": "high",
+      "id": "v17-strange-b019"
+    }
+  ]
+}

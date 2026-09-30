@@ -1,0 +1,185 @@
+[
+  {
+    "id": "flash-company-song",
+    "term": "Flash company",
+    "aliases": [
+      "flash company",
+      "FLASH COMPANY"
+    ],
+    "short": "A traditional song also called The Yellow Handkerchief.",
+    "note": "Flash Company is a traditional song about love, dissipation, and lost prosperity, also known as The Yellow Handkerchief. It is catalogued as Roud 954.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://balladindex.org/Ballads/K360.html",
+        "label": "The Traditional Ballad Index: The Yellow Handkerchief"
+      }
+    ],
+    "evidence": "e9781429982498_c10.html source paragraph 1 (title included): FLASH COMPANY"
+  },
+  {
+    "id": "gladstone",
+    "term": "gladstone",
+    "aliases": [],
+    "short": "A hinged traveling bag named after W. E. Gladstone.",
+    "note": "A Gladstone bag is a small suitcase that opens into two equal compartments. It was named for the British statesman William Ewart Gladstone.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/gladstone-bag",
+        "label": "Collins English Dictionary: Gladstone bag"
+      }
+    ],
+    "evidence": "e9781429982498_c10.html source paragraph 12 (title included): hite house she had chosen; together they had carried all the pieces, the shabby gladstone, and the stool onto the sunporch facing the Gulf. There they had shaken hands once again; and then he had been left alone with it"
+  },
+  {
+    "id": "jack-monroe",
+    "term": "Jack Monroe",
+    "aliases": [],
+    "short": "The sailor’s name in a traditional disguised-woman ballad.",
+    "note": "Jack Monroe, also called Jack-A-Roe and Jack the Sailor, is a traditional ballad in which a woman goes to sea in male disguise to find her lover. Its variants circulated in Britain and North America.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://folkways-media.si.edu/docs/folkways/artwork/FLG00003-LP.pdf",
+        "label": "Smithsonian Folkways: Edna Ritchie, ballad liner notes"
+      }
+    ],
+    "evidence": "e9781429982498_c10.html source paragraph 20 (title included):  your name I’d like to know.” With a smile upon her countenance, she answered, “Jack Monroe.”"
+  },
+  {
+    "id": "aeolian-harp",
+    "term": "aeolian harp",
+    "aliases": [],
+    "short": "A stringed instrument played by the wind.",
+    "note": "An aeolian harp sounds when moving air excites its stretched strings. The name refers to Aeolus, the keeper or ruler of winds in Greek mythology.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/504989",
+        "label": "Metropolitan Museum of Art: Aeolian Harp"
+      }
+    ],
+    "evidence": "e9781429982498_c10.html source paragraph 24 (title included): e road playing a working instrument—or more likely still, a radio somewhere. An aeolian harp. That was what they called them. Aeolus had been the god of the winds."
+  },
+  {
+    "id": "topgallant-yard",
+    "term": "topgallant yard",
+    "aliases": [],
+    "short": "The spar carrying a sail above the topsail.",
+    "note": "A yard is a horizontal spar supporting a square sail. The topgallant is the mast or sail section above the topmast and topsail.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/topgallant",
+        "label": "Merriam-Webster: topgallant"
+      }
+    ],
+    "evidence": "e9781429982498_c10.html source paragraph 25 (title included): With no sense of dislocation, he had found himself astride the heaving topgallant yard of a Nelsonian seventy-four, where the wind had waked a thousand discordant tones in the rigging, from the deep thrum of the fore"
+  },
+  {
+    "id": "forestay",
+    "term": "forestay",
+    "aliases": [],
+    "short": "A forward-running support for a ship’s foremast.",
+    "note": "A fixed rope or cable running from the foremast toward the bow, supporting the mast from the front.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/forestay",
+        "label": "Merriam-Webster: forestay"
+      }
+    ],
+    "evidence": "e9781429982498_c10.html source paragraph 25 (title included): ad waked a thousand discordant tones in the rigging, from the deep thrum of the forestay to the high-pitched squeaks of the tackle blocks, howling its song to their accompaniment. Far off and obscured by the crests and"
+  },
+  {
+    "id": "tackle-blocks",
+    "term": "tackle blocks",
+    "aliases": [],
+    "short": "The pulley housings in rope tackle.",
+    "note": "A block holds one or more pulley wheels through which a rope passes. Connected blocks and rope make tackle for lifting or hauling.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/block",
+        "label": "Merriam-Webster: block"
+      }
+    ],
+    "evidence": "e9781429982498_c10.html source paragraph 25 (title included): rigging, from the deep thrum of the forestay to the high-pitched squeaks of the tackle blocks, howling its song to their accompaniment. Far off and obscured by the crests and the driving spray, a pink spark had flickered, s"
+  },
+  {
+    "id": "oh-susanna",
+    "term": "Oh, Susanna!",
+    "aliases": [],
+    "short": "Stephen Foster’s well-known song, published in 1848.",
+    "note": "Stephen Foster’s Oh! Susanna is an American popular song first published in 1848. Its refrain follows a banjo-playing traveler setting out from Alabama.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.loc.gov/item/2023800745/",
+        "label": "Library of Congress: Oh Susanna! (1848)"
+      }
+    ],
+    "evidence": "e9781429982498_c10.html source paragraph 35 (title included):  There was a piano somewhere on the boat, a piano at which someone was playing “Oh, Susanna!”"
+  },
+  {
+    "id": "etudes",
+    "term": "etudes",
+    "aliases": [],
+    "short": "Musical studies for practicing a particular technique.",
+    "note": "From French étude, study. An étude is a composition designed to develop instrumental skill; many are also performed as concert pieces.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/etude",
+        "label": "Merriam-Webster: etude"
+      }
+    ],
+    "evidence": "e9781429982498_c10.html source paragraph 44 (title included): on’t go with the stuff my teacher taught me.” She sat down on the stool. “Those etudes and all that. This here’s a Country-and-Western instrument, for sure.” She patted it as she would a dog. “You goin’ to sell it?”"
+  },
+  {
+    "id": "pan",
+    "term": "Pan",
+    "aliases": [],
+    "short": "The goat-footed Greek god of shepherds and wild places.",
+    "note": "Pan is a rustic Greek god associated with flocks, shepherds, mountains, and woodland. He is traditionally shown with goat’s horns and legs and plays a set of reed pipes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Georgikos/Pan.html",
+        "label": "Theoi: Pan and ancient sources"
+      }
+    ],
+    "evidence": "e9781429982498_c10.html source paragraph 55 (title included): He laughed. “No, you can’t. It’s Pan observing a wood nymph—at least, I suppose she’s a wood nymph, though I’ve never thought of them as blondes. That’s Pan, with the"
+  },
+  {
+    "id": "isca",
+    "term": "Isca",
+    "aliases": [],
+    "short": "Possibly Iscah, a biblical name connected with seeing.",
+    "note": "Possibly a form of Iscah, named in Genesis 11:29 as Haran’s daughter. Traditional explanations connect the name with a root meaning to see or watch; the precise etymology is uncertain.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.blueletterbible.org/lexicon/h3252/nkjv/wlc/0-1/",
+        "label": "Strong’s and Brown–Driver–Briggs: Iscah"
+      }
+    ],
+    "evidence": "e9781429982498_c10.html source paragraph 12 (title included): In the rust-holed tan Buick that had been their second car while he and Isca were together, he had led the rancher to the high white house she had chosen; together they had carried all the pieces, the shabb"
+  },
+  {
+    "id": "nelsonian-seventy-four",
+    "term": "Nelsonian seventy-four",
+    "aliases": [],
+    "short": "A 74-gun warship of Admiral Nelson’s era.",
+    "note": "A seventy-four was a sailing ship of the line mounting 74 guns. Horatio Nelson (1758–1805), the British admiral, commanded the 74-gun Vanguard at the Battle of the Nile in 1798.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-12007",
+        "label": "Royal Museums Greenwich: The Battle of the Nile, 1798"
+      }
+    ],
+    "evidence": "e9781429982498_c10.html source paragraph 25 (title included): e of dislocation, he had found himself astride the heaving topgallant yard of a Nelsonian seventy-four, where the wind had waked a thousand discordant tones in the rigging, from the deep thrum of the forestay to the high-pitched squ"
+  }
+]

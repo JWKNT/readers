@@ -1,0 +1,85 @@
+{
+  "schema": 1,
+  "id": "one-two-three-for-me",
+  "title": "One-Two-Three for Me",
+  "author": "Gene Wolfe",
+  "volumes": [
+    {
+      "id": "text",
+      "title": "One-Two-Three for Me",
+      "chapters": 1
+    }
+  ],
+  "totalWords": 2456,
+  "defaultChapter": "story",
+  "glossaryCount": 1,
+  "correctionCount": 0,
+  "editionVersion": 17,
+  "chapters": [
+    {
+      "id": "story",
+      "title": "One-Two-Three for Me",
+      "volume": "text",
+      "volumeTitle": "One-Two-Three for Me",
+      "number": 1,
+      "label": "",
+      "kind": "chapter",
+      "index": 0,
+      "layout": "prose",
+      "blocks": [
+        "p-001",
+        "p-002",
+        "p-003",
+        "p-004",
+        "p-005",
+        "p-006",
+        "p-007",
+        "p-008",
+        "p-009",
+        "p-010",
+        "p-011",
+        "p-012",
+        "p-013",
+        "p-014",
+        "p-015",
+        "p-016",
+        "p-017",
+        "p-018",
+        "p-019",
+        "p-020",
+        "p-021",
+        "p-022",
+        "p-023",
+        "p-024",
+        "p-025",
+        "p-026",
+        "p-027",
+        "p-028",
+        "p-029",
+        "p-030",
+        "p-031",
+        "p-032",
+        "p-033",
+        "p-034",
+        "p-035",
+        "p-036",
+        "p-037",
+        "p-038",
+        "p-039",
+        "p-040"
+      ],
+      "sections": [],
+      "headingNoteAnchors": [],
+      "headingHtml": "One-Two-Three for Me",
+      "noteAnchors": [
+        {
+          "term": "naifs",
+          "paragraph": "p-019"
+        }
+      ],
+      "words": 2456,
+      "startWords": 0
+    }
+  ],
+  "editorialCorrectionCount": 1
+}

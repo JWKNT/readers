@@ -1,0 +1,47 @@
+{
+  "source": "strange-travelers",
+  "title": "Strange Travelers",
+  "stories": 15,
+  "newReaders": [
+    "bluesberry-jam",
+    "one-two-three-for-me",
+    "counting-cats-in-zanzibar",
+    "the-death-of-koshchei-the-deathless",
+    "no-planets-strike",
+    "to-the-seventh",
+    "queen-of-the-night",
+    "flash-company",
+    "the-haunted-boardinghouse",
+    "useful-phrases",
+    "the-man-in-the-pepper-mill",
+    "the-ziggurat",
+    "aint-you-most-done"
+  ],
+  "duplicates": [
+    {
+      "title": "Bed and Breakfast",
+      "reader": "bed-and-breakfast",
+      "sourceFile": "OEBPS/e9781429982498_c06.html",
+      "retainedSource": "best"
+    },
+    {
+      "title": "And When They Appear",
+      "reader": "and-when-they-appear",
+      "sourceFile": "OEBPS/e9781429982498_c09.html",
+      "retainedSource": "best"
+    }
+  ],
+  "omittedMatter": [
+    "Publisher packaging, collection dedication and copyright material",
+    "Collection title pages and retailer branding"
+  ],
+  "retainedMatter": [
+    "All thirteen distinct story texts",
+    "A Tale of Old Russia subtitle",
+    "Koshchei source note as optional reference section",
+    "No Planets Strike epigraph and attribution",
+    "Useful Phrases three named internal sections",
+    "Verse, inset correspondence, diary entries and boxed notices"
+  ],
+  "narrativeImageCount": 0
+}

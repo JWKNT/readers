@@ -1,0 +1,47 @@
+{
+  "book": "useful-phrases",
+  "sourceFiles": {
+    "strange-travelers": {
+      "file": "_OceanofPDF.com_Strange_Travelers_-_Gene_Wolfe.epub",
+      "sha256": "8435977934b6231eb25fdb7432c092cf2bc33dcec5d688c4497c225295b58f35"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "strange-travelers",
+      "files": [
+        "OEBPS/e9781429982498_c12.html"
+      ],
+      "sourceTextSha256": "a99ce1970e9f13d631a67a76144574269e09c1d5bd8aacb01ed3e52ed0a1b919",
+      "textSha256": "d531881f9a503550d6da13afb78d4953d2c042c224339ef122fd6cbb233013d4",
+      "blocks": 71,
+      "preEditorialTextSha256": "a99ce1970e9f13d631a67a76144574269e09c1d5bd8aacb01ed3e52ed0a1b919"
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "useful-phrases",
+      "chapter": "story",
+      "paragraph": "p-005",
+      "before": "Tobish Ablar",
+      "after": "Tohish Ablar",
+      "reason": "A b/h substitution in the phrase consistently spelled Tohish Ablar elsewhere.",
+      "confidence": "high",
+      "id": "v17-strange-b014"
+    },
+    {
+      "book": "useful-phrases",
+      "chapter": "story",
+      "paragraph": "p-043",
+      "before": "catch lying seeds",
+      "after": "catch flying seeds",
+      "reason": "The surrounding description depicts airborne seeds pursued by fish; initial f has been dropped.",
+      "confidence": "high",
+      "id": "v17-strange-b015"
+    }
+  ]
+}

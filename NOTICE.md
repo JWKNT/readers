@@ -44,3 +44,9 @@ their epigraphs, dedications, poetry, inline symbols and equation images. The tw
 new divider ornaments are original project drawings; the initial letters reuse
 the approved Shadow and Urth alphabets. Original text and source images remain
 the property of their respective rights holders.
+
+The Strange Travelers EPUB supplies thirteen additional standalone stories;
+two duplicate stories retain their existing Best of Gene Wolfe editions. All
+retained story text, epigraphs, verse and the Koshchei source note remain the
+property of their respective rights holders. Its thirteen new thematic ornaments
+are original project SVG drawings; historical initials reuse the approved sets.

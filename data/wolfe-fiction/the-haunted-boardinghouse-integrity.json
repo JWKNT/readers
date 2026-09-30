@@ -1,0 +1,57 @@
+{
+  "book": "the-haunted-boardinghouse",
+  "sourceFiles": {
+    "strange-travelers": {
+      "file": "_OceanofPDF.com_Strange_Travelers_-_Gene_Wolfe.epub",
+      "sha256": "8435977934b6231eb25fdb7432c092cf2bc33dcec5d688c4497c225295b58f35"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "strange-travelers",
+      "files": [
+        "OEBPS/e9781429982498_c11.html"
+      ],
+      "sourceTextSha256": "4aabecd34a2e59a119ccb84547b4e32346aa02ca161b30a5bd25f2b7b5c3095c",
+      "textSha256": "09e0ea7f26250021a077b2561298d159914e5350066b82dcfc9dd7b47c5d2c48",
+      "blocks": 320,
+      "preEditorialTextSha256": "4aabecd34a2e59a119ccb84547b4e32346aa02ca161b30a5bd25f2b7b5c3095c"
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-haunted-boardinghouse",
+      "chapter": "story",
+      "paragraph": "p-025",
+      "before": "at two the afternoon",
+      "after": "at two in the afternoon",
+      "reason": "Missing preposition in the time expression.",
+      "confidence": "high",
+      "id": "v17-strange-b011"
+    },
+    {
+      "book": "the-haunted-boardinghouse",
+      "chapter": "story",
+      "paragraph": "p-064",
+      "before": "books—.A Modern Geography",
+      "after": "books—A Modern Geography",
+      "reason": "Extraneous full stop immediately after the dash before a book title.",
+      "confidence": "high",
+      "id": "v17-strange-b012"
+    },
+    {
+      "book": "the-haunted-boardinghouse",
+      "chapter": "story",
+      "paragraph": "p-100",
+      "before": "won’t eat,” She laid",
+      "after": "won’t eat.” She laid",
+      "reason": "A completed sentence of dialogue is followed by a separate action sentence.",
+      "confidence": "high",
+      "id": "v17-strange-b013"
+    }
+  ]
+}

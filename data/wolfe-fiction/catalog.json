@@ -12,6 +12,16 @@
     "initial": "citadel"
   },
   {
+    "id": "aint-you-most-done",
+    "title": "Ain’t You ’Most Done?",
+    "source": "strange-travelers",
+    "files": [
+      "OEBPS/e9781429982498_c15.html"
+    ],
+    "kind": "story",
+    "initial": "urth"
+  },
+  {
     "id": "all-the-hues-of-hell",
     "title": "All the Hues of Hell",
     "source": "endangered",
@@ -52,6 +62,16 @@
     "initial": "shadow"
   },
   {
+    "id": "bluesberry-jam",
+    "title": "Bluesberry Jam",
+    "source": "strange-travelers",
+    "files": [
+      "OEBPS/e9781429982498_c01.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
     "id": "the-boy-who-hooked-the-sun",
     "title": "The Boy Who Hooked the Sun",
     "source": "best",
@@ -82,6 +102,16 @@
     "initial": "claw"
   },
   {
+    "id": "counting-cats-in-zanzibar",
+    "title": "Counting Cats in Zanzibar",
+    "source": "strange-travelers",
+    "files": [
+      "OEBPS/e9781429982498_c03.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
     "id": "the-dark-of-the-june",
     "title": "The Dark of the June",
     "source": "endangered",
@@ -107,6 +137,16 @@
     "source": "endangered",
     "files": [
       "OEBPS/e9781429966214_c05.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
+    "id": "the-death-of-koshchei-the-deathless",
+    "title": "The Death of Koshchei the Deathless",
+    "source": "strange-travelers",
+    "files": [
+      "OEBPS/e9781429982498_c04.html"
     ],
     "kind": "story",
     "initial": "claw"
@@ -147,6 +187,16 @@
     "source": "best",
     "files": [
       "index_split_021.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "flash-company",
+    "title": "Flash Company",
+    "source": "strange-travelers",
+    "files": [
+      "OEBPS/e9781429982498_c10.html"
     ],
     "kind": "story",
     "initial": "shadow"
@@ -210,6 +260,16 @@
     ],
     "kind": "story",
     "initial": "shadow"
+  },
+  {
+    "id": "the-haunted-boardinghouse",
+    "title": "The Haunted Boardinghouse",
+    "source": "strange-travelers",
+    "files": [
+      "OEBPS/e9781429982498_c11.html"
+    ],
+    "kind": "story",
+    "initial": "citadel"
   },
   {
     "id": "the-headless-man",
@@ -322,6 +382,16 @@
     "initial": "claw"
   },
   {
+    "id": "the-man-in-the-pepper-mill",
+    "title": "The Man in the Pepper Mill",
+    "source": "strange-travelers",
+    "files": [
+      "OEBPS/e9781429982498_c13.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
+  },
+  {
     "id": "the-map",
     "title": "The Map",
     "source": "endangered",
@@ -372,6 +442,16 @@
     "initial": "claw"
   },
   {
+    "id": "no-planets-strike",
+    "title": "No Planets Strike",
+    "source": "strange-travelers",
+    "files": [
+      "OEBPS/e9781429982498_c05.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
     "id": "on-the-train",
     "title": "On the Train",
     "source": "best",
@@ -380,6 +460,16 @@
     ],
     "kind": "story",
     "initial": "shadow"
+  },
+  {
+    "id": "one-two-three-for-me",
+    "title": "One-Two-Three for Me",
+    "source": "strange-travelers",
+    "files": [
+      "OEBPS/e9781429982498_c02.html"
+    ],
+    "kind": "story",
+    "initial": "claw"
   },
   {
     "id": "the-other-dead-man",
@@ -450,6 +540,16 @@
     ],
     "kind": "story",
     "initial": "claw"
+  },
+  {
+    "id": "queen-of-the-night",
+    "title": "Queen of the Night",
+    "source": "strange-travelers",
+    "files": [
+      "OEBPS/e9781429982498_c08.html"
+    ],
+    "kind": "story",
+    "initial": "urth"
   },
   {
     "id": "the-recording",
@@ -543,6 +643,16 @@
     "initial": "claw"
   },
   {
+    "id": "to-the-seventh",
+    "title": "To the Seventh",
+    "source": "strange-travelers",
+    "files": [
+      "OEBPS/e9781429982498_c07.html"
+    ],
+    "kind": "story",
+    "initial": "sword"
+  },
+  {
     "id": "the-toy-theater",
     "title": "The Toy Theater",
     "source": "best",
@@ -558,6 +668,16 @@
     "source": "best",
     "files": [
       "index_split_036.html"
+    ],
+    "kind": "story",
+    "initial": "shadow"
+  },
+  {
+    "id": "useful-phrases",
+    "title": "Useful Phrases",
+    "source": "strange-travelers",
+    "files": [
+      "OEBPS/e9781429982498_c12.html"
     ],
     "kind": "story",
     "initial": "shadow"
@@ -611,5 +731,15 @@
     ],
     "kind": "story",
     "initial": "claw"
+  },
+  {
+    "id": "the-ziggurat",
+    "title": "The Ziggurat",
+    "source": "strange-travelers",
+    "files": [
+      "OEBPS/e9781429982498_c14.html"
+    ],
+    "kind": "story",
+    "initial": "citadel"
   }
 ]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "threnody",
+    "term": "threnody",
+    "aliases": [],
+    "short": "A song or poem of mourning.",
+    "note": "A lament, particularly a song or poem mourning someone’s death.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/threnody",
+        "label": "Merriam-Webster · threnody"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c07.html source paragraph 142: The Devil’s snarl was the DS long-range pursuit’s only threnody."
+  },
+  {
+    "id": "comber",
+    "term": "combers",
+    "aliases": [],
+    "short": "Large waves with curling crests.",
+    "note": "A comber is a long wave whose crest curls over and breaks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/comber",
+        "label": "Merriam-Webster · comber"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c07.html source paragraph 162: t here looking at your ship—underneath the water, those big combers you can see once in a while way out there—for a couple of hours, and a few days from now "
+  },
+  {
+    "id": "viridian",
+    "term": "viridian",
+    "aliases": [],
+    "short": "A vivid bluish green.",
+    "note": "A strong bluish-green color, also the name of the green chromium-based pigment used by painters.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/viridian",
+        "label": "Merriam-Webster · viridian"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c07.html source paragraph 182:  Lightning returned, and half the ocean was ablaze with hot viridian and dancing berylline."
+  },
+  {
+    "id": "berylline",
+    "term": "berylline",
+    "aliases": [],
+    "short": "Pale green or bluish green, like beryl.",
+    "note": "Resembling beryl, especially the pale or bluish-green color of that mineral.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/berylline",
+        "label": "Merriam-Webster · berylline"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c07.html source paragraph 182: and half the ocean was ablaze with hot viridian and dancing berylline."
+  },
+  {
+    "id": "dark-matter",
+    "term": "dark matter",
+    "aliases": [],
+    "short": "Matter inferred chiefly from gravitational effects.",
+    "note": "Matter that does not emit, absorb, or reflect detectable light, but whose presence is inferred from its gravitational influence on galaxies and other cosmic structures. Its physical nature remains unresolved.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/dark-matter/",
+        "label": "NASA Science · Dark matter"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c07.html source paragraph 2: Across an eternity of frigid nothingness and dark matter, the Devil said, “Honesty, decency, and a genuine respect for the value of human life ali"
+  },
+  {
+    "id": "ganesha",
+    "term": "elephant’s head",
+    "aliases": [],
+    "short": "Ganesha, the elephant-headed Hindu deity.",
+    "note": "Ganesha is the Hindu god distinguished by an elephant’s head and a human body. He is associated with overcoming obstacles and is invoked at the beginning of undertakings.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/37397",
+        "label": "Metropolitan Museum of Art · Ganesha"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c07.html source paragraph 40: people like it. A talking sun? A cloud? The fat man with an elephant’s head?”"
+  },
+  {
+    "id": "fischer",
+    "term": "Fischer",
+    "aliases": [],
+    "short": "Possibly Bobby Fischer, the American chess champion.",
+    "note": "Possibly Bobby Fischer (1943–2008), the American chess player who defeated Boris Spassky in Reykjavík in 1972 to become world champion.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://worldchesshof.org/wp-content/uploads/2025/02/1972-Fischer-Spassky-Press-Release.pdf",
+        "label": "World Chess Hall of Fame · Fischer–Spassky"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c07.html source paragraph 84: iser task force, executing combined operations with Admiral Fischer’s? E-One says it likes to attack up the middle of the board with his knights.”"
+  },
+  {
+    "id": "parsec",
+    "term": "parsecs",
+    "aliases": [],
+    "short": "Astronomical distance units of about 3.26 light-years.",
+    "note": "A parsec is the distance at which one astronomical unit subtends one second of arc, approximately 3.26 light-years. Its name combines parallax and second.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mission/hubble/multimedia/hubble-glossary/",
+        "label": "NASA · Hubble glossary"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c07.html source paragraph 54: For convenience we may call it a hundred and fifty thousand parsecs. Larger ships are capable of more, but larger ships are both more easily detected and les; OEBPS/e9781429982498_c07.html source paragraph 56: “Correct. The distance is nine hundred thousand parsecs. You will require six jumps to reach it.”"
+  },
+  {
+    "id": "light-year",
+    "term": "light-years",
+    "aliases": [],
+    "short": "Distances light travels in a year.",
+    "note": "A light-year is a unit of distance: the distance light travels through a vacuum in one year, about 9.46 trillion kilometers or 5.88 trillion miles.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/cosmic-distances/",
+        "label": "NASA · Cosmic distances"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c07.html source paragraph 54: ed. “Your ship is capable of jumps of five hundred thousand light-years, Captain Chance. Since you carry fuel for one recharging, half a million light-years defi; OEBPS/e9781429982498_c07.html source paragraph 65: Five hundred thousand light-years away, he and it snapped into existence “again.”"
+  },
+  {
+    "id": "pawn-promotion",
+    "term": "queen that pawn",
+    "aliases": [],
+    "short": "Promote a pawn to a queen.",
+    "note": "In chess, a pawn reaching the farthest rank must be exchanged for a queen, rook, bishop, or knight of the same color. Choosing a queen is called queening.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.fide.com/FIDE/handbook/LawsOfChess.pdf",
+        "label": "FIDE · Laws of Chess, article 3.7"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c07.html source paragraph 99: e held a contempt as vast as the cosmos. “You are trying to queen that pawn. It won’t work.”"
+  },
+  {
+    "id": "arabic-numerals",
+    "term": "Arabic notation",
+    "aliases": [],
+    "short": "The decimal place-value system using digits 0–9.",
+    "note": "Hindu-Arabic numerals use ten digits and position to express numbers. Developed in India and transmitted through Arabic mathematics, the system reached medieval Europe through translations and commercial arithmetic.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/Arabic_numerals/",
+        "label": "University of St Andrews · Arabic numerals"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c07.html source paragraph 198: d, buried under graphs and leaping numbers that were not in Arabic notation. “There seems to be a filter problem,” Mack told her. “A heavy battle cruiser. Is that wh"
+  },
+  {
+    "id": "descriptive-chess-notation",
+    "term": "Rook to rook’s four",
+    "aliases": [],
+    "short": "A chess move expressed in descriptive notation.",
+    "note": "In descriptive chess notation, files are named for the pieces that begin on them and ranks are counted from each player’s side. “Rook’s four” means the fourth square along a rook’s file.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.museum.am/chess/com_chessguide/descriptive.html",
+        "label": "Armenian Museums · Descriptive chess notation"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c07.html source paragraph 32: “Rook to rook’s four,” the Devil declared in a voice of steel."
+  }
+]

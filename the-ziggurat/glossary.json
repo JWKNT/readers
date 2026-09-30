@@ -1,0 +1,1006 @@
+[
+  {
+    "id": "ziggurat",
+    "term": "ziggurat",
+    "aliases": [],
+    "short": "A stepped temple tower of ancient Mesopotamia.",
+    "note": "An ancient Mesopotamian temple tower built in receding stages, with a shrine at its summit.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ziggurat",
+        "label": "Merriam-Webster: ziggurat"
+      }
+    ],
+    "occurrences": 30,
+    "first": {
+      "chapter": "story",
+      "paragraph": "chapter-title",
+      "index": 0
+    }
+  },
+  {
+    "id": "quod-scripsi",
+    "term": "Quod scripsi",
+    "aliases": [],
+    "short": "Latin: “What I have written.”",
+    "note": "The opening of Quod scripsi, scripsi: “What I have written, I have written.” In John 19:22, Pontius Pilate refuses to change the inscription placed above the crucified Jesus.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.bibbiaedu.it/NOVAVULGATA/nt/Ioa/19/",
+        "label": "Nova Vulgata: John 19:22"
+      },
+      {
+        "url": "https://bible.usccb.org/bible/john/19",
+        "label": "USCCB: John 19"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "styrofoam",
+    "term": "Styrofoam",
+    "aliases": [],
+    "short": "A brand name for rigid polystyrene foam.",
+    "note": "A trademark for extruded polystyrene foam. The name is also used loosely for other lightweight foamed-polystyrene products.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dupont.com/building/styrofoam-is-not-a-cup.html",
+        "label": "DuPont: Styrofoam is not a cup"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-008",
+      "index": 0
+    }
+  },
+  {
+    "id": "catamaran",
+    "term": "catamaran",
+    "aliases": [],
+    "short": "A boat with two parallel hulls.",
+    "note": "A vessel with two hulls joined side by side; the word comes through Tamil from a term for tied logs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/catamaran",
+        "label": "Merriam-Webster: catamaran"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-008",
+      "index": 0
+    }
+  },
+  {
+    "id": "mackinaw",
+    "term": "mackinaw",
+    "aliases": [],
+    "short": "A short, heavy wool coat, often plaid.",
+    "note": "A coat made from thick woolen cloth, commonly with a plaid pattern; also the name of the fabric itself.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mackinaw",
+        "label": "Merriam-Webster: mackinaw"
+      }
+    ],
+    "occurrences": 15,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-010",
+      "index": 0
+    }
+  },
+  {
+    "id": "timbre",
+    "term": "timbre",
+    "aliases": [],
+    "short": "The distinctive quality of a voice or musical tone.",
+    "note": "The quality that makes one voice or instrument sound different from another, even at the same pitch and loudness.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/timbre",
+        "label": "Merriam-Webster: timbre"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-014",
+      "index": 0
+    }
+  },
+  {
+    "id": "ocher",
+    "term": "ocher",
+    "aliases": [],
+    "short": "An earthy yellow or reddish-brown color.",
+    "note": "An iron-bearing earth used as yellow, brown, or red pigment, and the color of that pigment. Also spelled ochre.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ocher",
+        "label": "Merriam-Webster: ocher"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-015",
+      "index": 0
+    }
+  },
+  {
+    "id": "maul",
+    "term": "maul",
+    "aliases": [],
+    "short": "A heavy hammer or splitting tool.",
+    "note": "A large, heavy-headed hammer; a splitting maul has a wedge-shaped head for splitting wood.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/maul",
+        "label": "Merriam-Webster: maul"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-024",
+      "index": 0
+    }
+  },
+  {
+    "id": "yogi-bear",
+    "term": "Yogi Bear",
+    "aliases": [
+      "Yogi Bears"
+    ],
+    "short": "The cartoon bear of Jellystone Park.",
+    "note": "The cartoon bear known for taking picnic baskets in Jellystone Park, accompanied by Boo Boo and pursued by Ranger Smith.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nwf.org/~/media/PDFs/About/NWF-Movies/Yogi_ActivityGuide_Full.pdf",
+        "label": "Warner Bros. and National Wildlife Federation: Yogi Bear activity guide"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-030",
+      "index": 0
+    }
+  },
+  {
+    "id": "bronco",
+    "term": "Bronco",
+    "aliases": [],
+    "short": "Ford’s sport-utility vehicle, introduced in 1966.",
+    "note": "A Ford vehicle line introduced in 1966 as a compact four-wheel-drive vehicle for use on and off roads.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.ford.com/bronco/history/1966-1977/",
+        "label": "Ford: Bronco, 1966–1977"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-073",
+      "index": 0
+    }
+  },
+  {
+    "id": "lincoln",
+    "term": "Lincoln",
+    "aliases": [],
+    "short": "The American luxury-car marque.",
+    "note": "The car company founded by Henry Leland and named for Abraham Lincoln. It became part of Ford in 1922.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://corporate.ford.com/articles/history/edsel-ford-and-the-lincoln-dna.html",
+        "label": "Ford: Edsel Ford and the Lincoln DNA"
+      }
+    ],
+    "occurrences": 33,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-007",
+      "index": 0
+    }
+  },
+  {
+    "id": "pillbox",
+    "term": "pillbox",
+    "aliases": [],
+    "short": "A small, brimless hat with a flat crown.",
+    "note": "A round hat with upright sides and a flat top, named for its resemblance to a small box for pills.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pillbox",
+        "label": "Merriam-Webster: pillbox"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-074",
+      "index": 0
+    }
+  },
+  {
+    "id": "attache-case",
+    "term": "attaché case",
+    "aliases": [],
+    "short": "A slim, rigid case for carrying papers.",
+    "note": "A small, usually rectangular case for business papers. Attaché is French for an official attached to a diplomatic mission.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/attach%C3%A9%20case",
+        "label": "Merriam-Webster: attach%C3%A9%20case"
+      },
+      {
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/attache",
+        "label": "Collins English Dictionary: attaché"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-075",
+      "index": 0
+    }
+  },
+  {
+    "id": "billy-o",
+    "term": "Billy-o",
+    "aliases": [],
+    "short": "A British slang intensifier: extremely or vigorously.",
+    "note": "Billy-o intensifies an expression, especially in “like billy-o,” meaning very hard, fast, or strongly. Its origin is uncertain.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.oxfordlearnersdictionaries.com/definition/english/billy-o",
+        "label": "Oxford Advanced Learner’s Dictionary: billy-o"
+      },
+      {
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/billy-o",
+        "label": "Cambridge Dictionary: billy-o"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-078",
+      "index": 0
+    }
+  },
+  {
+    "id": "culver",
+    "term": "Culver",
+    "aliases": [],
+    "short": "Possibly Culver Military Academy in Indiana.",
+    "note": "Possibly Culver Military Academy, a boys’ boarding school in Culver, Indiana, founded in 1894.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.culver.org/about",
+        "label": "Culver Academies: About"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-097",
+      "index": 0
+    }
+  },
+  {
+    "id": "querulous",
+    "term": "querulous",
+    "aliases": [
+      "querulously"
+    ],
+    "short": "Fretful or inclined to complain.",
+    "note": "Habitually complaining, or expressing complaint in an irritable, whining manner.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/querulous",
+        "label": "Merriam-Webster: querulous"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-241",
+      "index": 0
+    }
+  },
+  {
+    "id": "amniotic",
+    "term": "amniotic",
+    "aliases": [],
+    "short": "Relating to the fluid-filled sac surrounding a developing embryo.",
+    "note": "The amnion is the thin membrane enclosing an embryo or fetus; amniotic fluid fills the protective sac around it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/amniotic",
+        "label": "Merriam-Webster: amniotic"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-322",
+      "index": 0
+    }
+  },
+  {
+    "id": "babylon",
+    "term": "Babylon",
+    "aliases": [],
+    "short": "The ancient Mesopotamian city in present-day Iraq.",
+    "note": "A major city on the Euphrates in ancient Mesopotamia, in present-day Iraq. Its religious monuments included Etemenanki, a great ziggurat.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/278/",
+        "label": "UNESCO: Babylon"
+      },
+      {
+        "url": "https://whc.unesco.org/document/166322",
+        "label": "UNESCO: Babylon nomination documentation"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-353",
+      "index": 0
+    }
+  },
+  {
+    "id": "danny-kaye",
+    "term": "Danny Kaye",
+    "aliases": [],
+    "short": "American actor, singer, dancer, and comedian.",
+    "note": "Danny Kaye (1911–1987), born David Daniel Kaminsky, was an American entertainer known for physical comedy, rapid verbal routines, and musical performances.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.loc.gov/exhibits/danny-kaye-and-sylvia-fine/danny-kaye-onstage.html",
+        "label": "Library of Congress: Danny Kaye onstage"
+      },
+      {
+        "url": "https://findingaids.loc.gov/repositories/15/resources/1303",
+        "label": "Library of Congress: Danny Kaye and Sylvia Fine collection"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-391",
+      "index": 0
+    }
+  },
+  {
+    "id": "wesson-oil",
+    "term": "Wesson Oil",
+    "aliases": [],
+    "short": "An American brand of vegetable cooking oil.",
+    "note": "An American brand of vegetable cooking oils, sold for frying, baking, and other kitchen uses.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.purewesson.com/our-story/",
+        "label": "Wesson: Our story"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-397",
+      "index": 0
+    }
+  },
+  {
+    "id": "wet-pruf",
+    "term": "Curity Wet-Pruf",
+    "aliases": [],
+    "short": "A brand of waterproof adhesive medical tape.",
+    "note": "Wet-Pruf is a trade name for waterproof, oil-resistant adhesive tape. Curity is a related medical-dressing and tape brand.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://4mdmedical.com/wp-content/uploads/2024/pdf/cov8881245164-20180725013710943.pdf#page=36",
+        "label": "Kendall medical catalog: Wet-Pruf and Curity tapes"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-463",
+      "index": 0
+    }
+  },
+  {
+    "id": "pied-piper",
+    "term": "The Pied Piper",
+    "aliases": [],
+    "short": "The legendary musician who led away Hamelin’s children.",
+    "note": "The Pied Piper of Hamelin removes a town’s rats with his music; after the townspeople withhold his payment, he leads their children away. Robert Browning retold the legend in his 1842 poem.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poems/45818/the-pied-piper-of-hamelin",
+        "label": "Robert Browning: The Pied Piper of Hamelin"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-511",
+      "index": 0
+    }
+  },
+  {
+    "id": "ramada-inn",
+    "term": "Ramada Inn",
+    "aliases": [],
+    "short": "The international hotel chain.",
+    "note": "Ramada is a hotel brand whose roadside inns became familiar across the United States and later internationally.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wyndhamhotels.com/ramada",
+        "label": "Wyndham: Ramada hotels"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-519",
+      "index": 0
+    }
+  },
+  {
+    "id": "brownies",
+    "term": "brownies",
+    "aliases": [],
+    "short": "Household spirits in folklore; also a division of Girl Scouts.",
+    "note": "In Scottish and northern British folklore, brownies are small household spirits that perform chores, often in return for food left for them. Brownies is also the name for a younger age division of Girl Scouts and Girl Guides.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/41006/41006-h/41006-h.htm",
+        "label": "Thomas Keightley: The Fairy Mythology, “The Brownie”"
+      },
+      {
+        "url": "https://www.girlscouts.org/en/discover/about-us/what-girl-scouts-do/grade-levels.html",
+        "label": "Girl Scouts: Grade levels"
+      },
+      {
+        "url": "https://www.girlguiding.org.uk/what-we-do/brownies/",
+        "label": "Girlguiding: Brownies"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-586",
+      "index": 0
+    }
+  },
+  {
+    "id": "taxidermy",
+    "term": "taxidermy",
+    "aliases": [],
+    "short": "The preparation of animal skins as lifelike specimens.",
+    "note": "The practice of preserving an animal’s skin and mounting it on a supporting form so that it resembles the living animal.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/taxidermy",
+        "label": "Merriam-Webster: taxidermy"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-606",
+      "index": 0
+    }
+  },
+  {
+    "id": "duofold",
+    "term": "Duofold",
+    "aliases": [],
+    "short": "An American underwear brand.",
+    "note": "An American underwear brand historically associated with the Duofold Health Underwear Company of Frankfort, New York.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.si.edu/object/archives/components/sova-nmah-ac-0060-s01-01-underwear-ref531",
+        "label": "Smithsonian: Duofold Health Underwear Company"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-654",
+      "index": 0
+    }
+  },
+  {
+    "id": "whan-that-aprille",
+    "term": "Whan that Aprille",
+    "aliases": [],
+    "short": "The opening of Chaucer’s Canterbury Tales.",
+    "note": "Geoffrey Chaucer’s General Prologue to The Canterbury Tales begins with April’s sweet showers piercing the drought of March down to the roots. The lines are in Middle English.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.poetryfoundation.org/poems/43926/the-canterbury-tales-general-prologue",
+        "label": "Geoffrey Chaucer: The Canterbury Tales, General Prologue"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-687",
+      "index": 0
+    }
+  },
+  {
+    "id": "sepulchral",
+    "term": "sepulchral",
+    "aliases": [],
+    "short": "Tomb-like, hollow, or funereal.",
+    "note": "Relating to a tomb or burial; figuratively, gloomy or suggestive of death. A sepulchral voice is hollow and solemn.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sepulchral",
+        "label": "Merriam-Webster: sepulchral"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-702",
+      "index": 0
+    }
+  },
+  {
+    "id": "sako",
+    "term": "Sako",
+    "aliases": [],
+    "short": "A Finnish firearms manufacturer.",
+    "note": "A Finnish maker of rifles, established in 1921.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.sako.global/company",
+        "label": "Sako: Company"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-727",
+      "index": 0
+    }
+  },
+  {
+    "id": "fey",
+    "term": "fey",
+    "aliases": [],
+    "short": "Otherworldly or uncanny; formerly, fated to die.",
+    "note": "Fey can mean uncanny or otherworldly. In older Scottish usage it describes someone doomed to die, or showing the strange behavior thought to precede death.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/fey",
+        "label": "Merriam-Webster: fey"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-745",
+      "index": 0
+    }
+  },
+  {
+    "id": "radiation",
+    "term": "radiation",
+    "aliases": [],
+    "short": "Heat transferred by electromagnetic waves.",
+    "note": "Thermal radiation carries energy as electromagnetic waves and does not require air or other matter between the source and its surroundings.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://cosmicopia.gsfc.nasa.gov/qa_sp_ht.html",
+        "label": "NASA Cosmicopia: Heat transfer in space"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-759",
+      "index": 0
+    }
+  },
+  {
+    "id": "convection",
+    "term": "convection",
+    "aliases": [],
+    "short": "Heat carried by the movement of a fluid.",
+    "note": "Heat transfer through the bulk movement of a liquid or gas, such as warm air rising and cooler air taking its place.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ntrs.nasa.gov/api/citations/20200005321/downloads/20200005321.pdf",
+        "label": "NASA: Building Your First SINDA Model, review of basic heat transfer"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-759",
+      "index": 0
+    }
+  },
+  {
+    "id": "conduction",
+    "term": "conduction",
+    "aliases": [],
+    "short": "Heat transferred through material contact.",
+    "note": "Heat transfer through direct interactions within matter, or between materials that touch, without requiring the material as a whole to move.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://ntrs.nasa.gov/api/citations/20200005321/downloads/20200005321.pdf",
+        "label": "NASA: Building Your First SINDA Model, review of basic heat transfer"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-759",
+      "index": 0
+    }
+  },
+  {
+    "id": "yumbos",
+    "term": "Yumbos",
+    "aliases": [],
+    "short": "Small, pale spirits of Senegalese folklore.",
+    "note": "Also spelled Yumboes: small, pale supernatural beings in Wolof folklore, recorded in Thomas Keightley’s The Fairy Mythology. They inhabit underground dwellings in hills near Gorée and take food from human settlements.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/41006/41006-h/41006-h.htm",
+        "label": "Thomas Keightley: The Fairy Mythology, “Africans”"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-763",
+      "index": 0
+    }
+  },
+  {
+    "id": "yale",
+    "term": "Yale",
+    "aliases": [],
+    "short": "The lock brand founded by the Yale family.",
+    "note": "A lock brand associated with Linus Yale and his son Linus Yale Jr., whose nineteenth-century inventions helped establish the modern pin-tumbler cylinder lock.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://yalehome.co.uk/history-of-yale/",
+        "label": "Yale: History of Yale"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-768",
+      "index": 0
+    }
+  },
+  {
+    "id": "purdue",
+    "term": "Purdue",
+    "aliases": [],
+    "short": "The public university in West Lafayette, Indiana.",
+    "note": "Purdue University is a public research university in West Lafayette, Indiana, particularly associated with engineering, science, and aviation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.purdue.edu/home/about/",
+        "label": "Purdue University: About"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-768",
+      "index": 0
+    }
+  },
+  {
+    "id": "nasa",
+    "term": "NASA",
+    "aliases": [],
+    "short": "The U.S. National Aeronautics and Space Administration.",
+    "note": "The United States’ civilian agency for aeronautics research, space science, and space exploration.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nasa.gov/about/",
+        "label": "NASA: About"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-768",
+      "index": 0
+    }
+  },
+  {
+    "id": "tamar",
+    "term": "Tamar",
+    "aliases": [],
+    "short": "The biblical daughter of King David.",
+    "note": "Tamar, daughter of King David and sister of Absalom, appears in 2 Samuel 13. Solomon, David’s son by Bathsheba, was her half-brother.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/2samuel/13",
+        "label": "USCCB: 2 Samuel 13"
+      },
+      {
+        "url": "https://bible.usccb.org/bible/2samuel/12",
+        "label": "USCCB: 2 Samuel 12"
+      }
+    ],
+    "occurrences": 19,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-823",
+      "index": 0
+    }
+  },
+  {
+    "id": "solomon",
+    "term": "Solomon",
+    "aliases": [],
+    "short": "The biblical king celebrated for wisdom and wealth.",
+    "note": "The son of David and Bathsheba who ruled Israel and built the Jerusalem Temple. The books of Kings emphasize his wisdom, riches, and trade, including gold brought from Ophir.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/1kings/9",
+        "label": "USCCB: 1 Kings 9"
+      },
+      {
+        "url": "https://bible.usccb.org/bible/1kings/10",
+        "label": "USCCB: 1 Kings 10"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-823",
+      "index": 0
+    }
+  },
+  {
+    "id": "king-solomons-mines",
+    "term": "King Solomon’s mines",
+    "aliases": [],
+    "short": "Possibly H. Rider Haggard’s lost-mine adventure.",
+    "note": "Possibly H. Rider Haggard’s 1885 novel King Solomon’s Mines, in which travelers seek a lost African diamond mine associated with the biblical king.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/2166/pg2166-images.html",
+        "label": "H. Rider Haggard: King Solomon’s Mines"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-823",
+      "index": 0
+    }
+  },
+  {
+    "id": "horn-of-africa",
+    "term": "Horn of Africa",
+    "aliases": [],
+    "short": "The northeastern African region around the Somali peninsula.",
+    "note": "A region commonly comprising Somalia, Ethiopia, Eritrea, and Djibouti, beside the Red Sea, Gulf of Aden, and Indian Ocean.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://land.igad.int/index.php/countries/34-countries",
+        "label": "IGAD: Countries of the Horn of Africa"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-823",
+      "index": 0
+    }
+  },
+  {
+    "id": "aden",
+    "term": "Aden",
+    "aliases": [],
+    "short": "The Yemeni port city on the Gulf of Aden.",
+    "note": "A historic port in southern Yemen, built around a volcanic crater and long connected with Indian Ocean and Red Sea trade.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/tentativelists/6858/",
+        "label": "UNESCO: Aden"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-823",
+      "index": 0
+    }
+  },
+  {
+    "id": "yemen",
+    "term": "Yemen",
+    "aliases": [],
+    "short": "The country at the southwestern end of the Arabian Peninsula.",
+    "note": "A country on the Red Sea and Gulf of Aden, opposite the Horn of Africa; Aden is one of its principal historic ports.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/document/135306",
+        "label": "UNESCO: Yemen’s historic cities"
+      },
+      {
+        "url": "https://whc.unesco.org/en/tentativelists/6858/",
+        "label": "UNESCO: Aden"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-856",
+      "index": 0
+    }
+  },
+  {
+    "id": "q-tips",
+    "term": "Q-tips",
+    "aliases": [],
+    "short": "The cotton-swab brand.",
+    "note": "A brand name for small sticks tipped with cotton, commonly used more broadly for cotton swabs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.qtips.com/about/",
+        "label": "Q-tips: About"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-865",
+      "index": 0
+    }
+  },
+  {
+    "id": "magnesium",
+    "term": "magnesium",
+    "aliases": [],
+    "short": "A light, silvery metal that burns with a brilliant white light.",
+    "note": "The chemical element Mg, atomic number 12. Its low density makes magnesium alloys useful in lightweight structures, while its bright combustion made it useful in photographic flash equipment.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://periodic-table.rsc.org/element/12/magnesium",
+        "label": "Royal Society of Chemistry: Magnesium"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-874",
+      "index": 0
+    }
+  },
+  {
+    "id": "god-save-the-queen",
+    "term": "God Save the Queen",
+    "aliases": [],
+    "short": "The British national anthem under a queen.",
+    "note": "The national anthem otherwise known as God Save the King. Its words change with the reigning monarch; its tune was publicly performed in London in 1745.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.royal.uk/encyclopedia/national-anthem",
+        "label": "The Royal Family: The national anthem"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-886",
+      "index": 0
+    }
+  },
+  {
+    "id": "lincolns-face",
+    "term": "Lincoln’s face",
+    "aliases": [],
+    "short": "Abraham Lincoln’s portrait on the U.S. cent.",
+    "note": "The portrait of Abraham Lincoln, the sixteenth U.S. president, has appeared on the one-cent coin since 1909.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.usmint.gov/learn/coins-and-medals/circulating-coins/penny",
+        "label": "U.S. Mint: Penny"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-894",
+      "index": 0
+    }
+  },
+  {
+    "id": "copernicus",
+    "term": "Copernicus",
+    "aliases": [],
+    "short": "The astronomer who placed Earth among the planets orbiting the Sun.",
+    "note": "Nicolaus Copernicus (1473–1543) developed the heliocentric model in which Earth rotates and travels around the Sun. His major account, De revolutionibus, was published in 1543.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/earth/earth-observatory/planetary-motion/",
+        "label": "NASA Earth Observatory: Planetary Motion"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-915",
+      "index": 0
+    }
+  }
+]

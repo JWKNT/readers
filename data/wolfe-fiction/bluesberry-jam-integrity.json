@@ -1,0 +1,87 @@
+{
+  "book": "bluesberry-jam",
+  "sourceFiles": {
+    "strange-travelers": {
+      "file": "_OceanofPDF.com_Strange_Travelers_-_Gene_Wolfe.epub",
+      "sha256": "8435977934b6231eb25fdb7432c092cf2bc33dcec5d688c4497c225295b58f35"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "strange-travelers",
+      "files": [
+        "OEBPS/e9781429982498_c01.html"
+      ],
+      "sourceTextSha256": "025d7e488b9b4a1ee568da7bbdd274f5beed1712f2d15b5c768a73ae64af1303",
+      "textSha256": "75b063739131fbe5a6ec4e6f47fafeb45e859178d22a43c038790031e025409e",
+      "blocks": 348,
+      "preEditorialTextSha256": "025d7e488b9b4a1ee568da7bbdd274f5beed1712f2d15b5c768a73ae64af1303"
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "bluesberry-jam",
+      "chapter": "story",
+      "paragraph": "p-013",
+      "before": "”Yeller sun risin’",
+      "after": "“Yeller sun risin’",
+      "reason": "Wrong-facing quote at the opening of the next lyric stanza; the later reprise uses the opening quotation mark.",
+      "confidence": "high",
+      "id": "v17-strange-a001"
+    },
+    {
+      "book": "bluesberry-jam",
+      "chapter": "story",
+      "paragraph": "p-064",
+      "before": "Also leaned",
+      "after": "Aldo leaned",
+      "reason": "OCR substitution in the narrator’s reference to Aldo, the named character playing his chevycap.",
+      "confidence": "high",
+      "id": "v17-strange-a002"
+    },
+    {
+      "book": "bluesberry-jam",
+      "chapter": "story",
+      "paragraph": "p-097",
+      "before": "it’s not ’bout not ’bout no boy",
+      "after": "it’s not ’bout no boy",
+      "reason": "Adjacent accidental duplication of “not ’bout”; retain the dialect double negative.",
+      "confidence": "probable",
+      "id": "v17-strange-a003"
+    },
+    {
+      "book": "bluesberry-jam",
+      "chapter": "story",
+      "paragraph": "p-128",
+      "before": "Where’s there’s jam",
+      "after": "Where there’s jam",
+      "reason": "Duplicate copula in a question asking about a place where the jam is in the air; nearby speech retains otherwise intentional dialect.",
+      "confidence": "probable",
+      "id": "v17-strange-a004"
+    },
+    {
+      "book": "bluesberry-jam",
+      "chapter": "story",
+      "paragraph": "p-271",
+      "before": "At last he said. “Nope",
+      "after": "At last he said, “Nope",
+      "reason": "Comma belongs after the speech tag, before the spoken words.",
+      "confidence": "high",
+      "id": "v17-strange-a005"
+    },
+    {
+      "book": "bluesberry-jam",
+      "chapter": "story",
+      "paragraph": "p-294",
+      "before": "that signs real good",
+      "after": "that sings real good",
+      "reason": "The crowd identifies a singer at the chowchopper after two songs, and Aldo immediately points to Tim. Transposed letters in sings; no sign-language action occurs.",
+      "confidence": "high",
+      "id": "v17-strange-a006"
+    }
+  ]
+}

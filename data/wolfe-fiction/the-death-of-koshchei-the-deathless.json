@@ -1,0 +1,640 @@
+[
+  {
+    "id": "shah",
+    "term": "Shah",
+    "aliases": [],
+    "short": "The Persian title for a king.",
+    "note": "A Persian royal title, historically used by the rulers of Iran.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/shah",
+        "label": "Merriam-Webster · shah"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 3:  a wooden horse next, the sort of thing they tell about the Shah, poor old fellow! Peasants are savages, really. Take away Holy Mother Church and they’d b"
+  },
+  {
+    "id": "uhlan",
+    "term": "uhlans",
+    "aliases": [],
+    "short": "Lance-armed cavalrymen.",
+    "note": "Uhlans were light cavalry armed with lances, originally associated with Poland and later with other European armies.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/uhlan",
+        "label": "Merriam-Webster · uhlan"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 11: ad the Polish eagle on his shield and so on, and a thousand uhlans trailing after him like an army of wolves. It’s an elective monarchy and not worth a bent"
+  },
+  {
+    "id": "kopeck",
+    "term": "kopeck",
+    "aliases": [],
+    "short": "One hundredth of a ruble.",
+    "note": "A Russian monetary unit equal to one hundredth of a ruble; also a coin representing that amount.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/kopeck",
+        "label": "Merriam-Webster · kopeck"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 11: olves. It’s an elective monarchy and not worth a bent brass kopeck, but my father could only gasp out the phrases he had used before. “If you find favor in "
+  },
+  {
+    "id": "lettish",
+    "term": "Lettish",
+    "aliases": [],
+    "short": "An older English name for Latvian.",
+    "note": "Lettish means Latvian: the language of Latvia or something belonging to its people.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Lettish",
+        "label": "Merriam-Webster · Lettish"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 18: hild’s slate. But he managed to find out that the man was a Lettish pagan, and that he and his friends had been defeated by some sort of fighting Prussian co; OEBPS/e9781429982498_c04.html source paragraph 33:  sort, to be sure; but explained to my father that he was a Lettish king captured by the countess, who had condemned him to perish of hunger and thirst. My p"
+  },
+  {
+    "id": "junker",
+    "term": "Junker",
+    "aliases": [],
+    "short": "A member of the Prussian landed nobility.",
+    "note": "A Junker was a German nobleman, especially a member of the Prussian landowning aristocracy associated with military and political power.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Junker",
+        "label": "Merriam-Webster · Junker"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 37:  in this instance embodied by a most objectionable Prussian Junker, a cousin-german of my late uncle the graf, who delivered it."
+  },
+  {
+    "id": "sobriquet",
+    "term": "sobriquet",
+    "aliases": [],
+    "short": "A nickname or familiar epithet.",
+    "note": "An alternative name given to someone, often an affectionate or descriptive nickname. The word comes from French.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sobriquet",
+        "label": "Merriam-Webster · sobriquet"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 40: mes. It was on this occasion that my father was awarded his sobriquet of “Bold,” though in fact he was not, as I have tried to show.; OEBPS/e9781429982498_c04.html source paragraph 52: etter for a fortnight, I set out alone for Riga, earning my sobriquet of “the Simple.”"
+  },
+  {
+    "id": "dacha",
+    "term": "dacha",
+    "aliases": [],
+    "short": "A Russian country house.",
+    "note": "A house in the Russian countryside used especially as a seasonal or holiday residence.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dacha",
+        "label": "Merriam-Webster · dacha"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 43: th his wounded and his dead, and was able to build a little dacha on the Black Sea. It’s still in the family, and a charming place, though one is apt to be"
+  },
+  {
+    "id": "boyar",
+    "term": "boyar",
+    "aliases": [],
+    "short": "Members of the old Russian nobility.",
+    "note": "Boyars were members of the high nobility in Russia and certain other eastern European states.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/boyar",
+        "label": "Merriam-Webster · boyar"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 55:  happened she was there. She welcomed me with old-fashioned boyar courtesy—turning out her serfs to cheer, and the rest of it—and told me, as people had be"
+  },
+  {
+    "id": "banneret",
+    "term": "knight banneret",
+    "aliases": [],
+    "short": "A knight entitled to lead under his own banner.",
+    "note": "A banneret was a knight of higher military rank entitled to carry a square banner and lead a body of men under it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/banneret",
+        "label": "Merriam-Webster · banneret"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 47: rived to borrow armor and accompanied\nhim in the guise of a knight banneret of Pomerania. My father ought never have permitted it; but you, conversant with our chara"
+  },
+  {
+    "id": "knight-errant",
+    "term": "knight errant",
+    "aliases": [],
+    "short": "A knight wandering in search of adventures.",
+    "note": "In medieval romance, a knight-errant travels in search of adventures, combat, and opportunities to uphold chivalric ideals.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/knight-errant",
+        "label": "Merriam-Webster · knight-errant"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 15: mbrace his sisters again or perish. He was like the Spanish knight errant. Do you know the one I mean?"
+  },
+  {
+    "id": "tsar",
+    "term": "Tsar",
+    "aliases": [],
+    "short": "A royal title derived from Caesar.",
+    "note": "The title of an emperor or supreme ruler in Russia and some other Slavic countries. Its linguistic ancestry is the Roman name Caesar.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tsar",
+        "label": "Merriam-Webster · tsar"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 27: an immensely wealthy Russian nobleman closely linked to the Tsar by ties of blood, all of which was true enough for Germans.\nA grand wedding at Castle Fal"
+  },
+  {
+    "id": "steppe",
+    "term": "steppe",
+    "aliases": [],
+    "short": "An extensive treeless grassland.",
+    "note": "A broad, generally dry grassland, particularly characteristic of southeastern Europe and central Asia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/steppe",
+        "label": "Merriam-Webster · steppe"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 58: ut not quite ready for the next—we took long rides over the steppe. Meadows or moors or uplands you call them in England, but I won’t use any of those terms"
+  },
+  {
+    "id": "cousin-german",
+    "term": "cousin-german",
+    "aliases": [
+      "cousins-german"
+    ],
+    "short": "A first cousin.",
+    "note": "An older term for a first cousin: the child of one’s aunt or uncle. German here means closely related.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cousin-german",
+        "label": "Merriam-Webster: cousin-german"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 37: nstance embodied by a most objectionable Prussian Junker, a cousin-german of my late uncle the graf, who delivered it.; OEBPS/e9781429982498_c04.html source paragraph 65: too, as the child of my mother by a different father—and my cousin-german as the child of my father’s sister. I’d already seen far too much of cousins-german, and "
+  },
+  {
+    "id": "samovar",
+    "term": "samovars",
+    "aliases": [],
+    "short": "Heated urns for tea water.",
+    "note": "A samovar is a metal urn used especially in Russia to heat water for tea, traditionally with burning fuel in a central tube.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/samovar",
+        "label": "Dictionary.com · samovar"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 44: games they’d played as children, and how Riga had no proper samovars; after a year or so, somewhat strengthened by a couple of thousand Cossacks and some Swis"
+  },
+  {
+    "id": "tikhvin-icon",
+    "term": "Our Lady of Tikhvin",
+    "aliases": [],
+    "short": "A revered Russian icon of Mary and the infant Christ.",
+    "note": "The Tikhvin icon depicts the Mother of God holding Christ. Orthodox tradition associates its appearance near Tikhvin with 1383; its feast is June 26.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.oca.org/saints/lives/2026/06/26/101821-appearance-of-the-tikhvin-icon-of-the-mother-of-god",
+        "label": "Orthodox Church in America · Tikhvin icon"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 15:  alone except for his valet, a cook, and so on, swearing by Our Lady of Tikhvin that he would embrace his sisters again or perish. He was like the Spanish knight errant."
+  },
+  {
+    "id": "saint-michael",
+    "term": "St. Michael",
+    "aliases": [
+      "Saint Michael"
+    ],
+    "short": "The archangel who leads the heavenly army.",
+    "note": "Michael is the biblical archangel depicted as a warrior. Revelation 12 describes him and his angels fighting the dragon, identified there as Satan.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/revelation/12",
+        "label": "Revelation 12:7–9"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 10: two score ravished maids back to their parents, and thanked St. Michael on his knees that things had gone no worse.; OEBPS/e9781429982498_c04.html source paragraph 62: gle and a raven; and the eagle—whose eyes were sharper than Saint Michael’s—had seen my barrel and towed it to shore. My sisters, I said, had restored my limbs to "
+  },
+  {
+    "id": "cerberus",
+    "term": "Cerberus",
+    "aliases": [],
+    "short": "The monstrous hound guarding the underworld.",
+    "note": "In Greek and Roman mythology, Cerberus guards the realm of the dead. In Aeneid 6, the Sibyl subdues him with a drugged cake of honey and grain so that she and Aeneas can pass.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Ther/KuonKerberos.html",
+        "label": "Theoi · classical passages on Cerberus"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 16: d of the Dead, like as not, without a single honey-cake for Cerberus, and fetch home his parents. He was that sort of Russian, just as I am."
+  },
+  {
+    "id": "koshchei",
+    "term": "Koshchei",
+    "aliases": [],
+    "short": "A death-defying sorcerer of Russian folktales.",
+    "note": "Koshchei, also transliterated Koschei or Kashchei, is a supernatural antagonist in Russian folklore. “The Death of Koshchei the Deathless” appears in Andrew Lang’s The Red Fairy Book (1890).",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/540/540-h/540-h.htm",
+        "label": "Andrew Lang · The Red Fairy Book"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 30: had expected to discover the graf, was thunderstruck. “I am Koshchei the Deathless, Prince Ivan,” gasped this forbidding prisoner.; OEBPS/e9781429982498_c04.html source paragraph 31: Now tell me, if I were to say here that Koshchei thundered forth dire threats against my aunt Marya as soon as my father freed him, and va"
+  },
+  {
+    "id": "baba-yaga",
+    "term": "Baba Yaga",
+    "aliases": [],
+    "short": "The formidable witch of Russian folktales.",
+    "note": "Baba Yaga is a witchlike figure in Russian folklore, often associated with a hut on chicken legs and travel in a mortar propelled by a pestle. Depending on the tale, she may threaten or assist a visitor.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/540/540-h/540-h.htm",
+        "label": "Andrew Lang · The Red Fairy Book"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 53: ’s a wonder I did not end up in your London. Do you know of Baba Yaga?; OEBPS/e9781429982498_c04.html source paragraph 54: , though we call it now by the polite name of folklore. By “Baba Yaga” I intend the Grand Duchess, that terrible old woman. We never call her Baba Yaga to her "
+  },
+  {
+    "id": "riga",
+    "term": "Riga",
+    "aliases": [],
+    "short": "A Baltic trading city and Latvia’s capital.",
+    "note": "Riga, on the Daugava near the Baltic Sea, became an important Hanseatic trading city during the Middle Ages. It is the capital of Latvia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/852/",
+        "label": "UNESCO · Historic Centre of Riga"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 39: t possible fashion, urging that my poor father visit him in Riga, bringing some high official of the church who could subsequently affirm my mother’s cont; OEBPS/e9781429982498_c04.html source paragraph 40: ject of their loyalty; and she, detesting both Koshchei and Riga, declared herself homesick for Falkonstein and never for a moment permitted the bishop to"
+  },
+  {
+    "id": "rheims",
+    "term": "Rheims",
+    "aliases": [],
+    "short": "Reims, the French coronation city.",
+    "note": "Rheims is an older English spelling of Reims. Its cathedral was the traditional setting for the anointing and coronation of French kings.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/601/",
+        "label": "UNESCO · Reims cathedral and royal sites"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 39: ntinued life and good health. As it happened, the Bishop of Rheims was in the vicinity, and my father persuaded him to make the trip."
+  },
+  {
+    "id": "aachen",
+    "term": "Aachen",
+    "aliases": [],
+    "short": "Charlemagne’s principal royal residence.",
+    "note": "Aachen is a city in western Germany associated with Charlemagne’s palace and chapel. His chapel became the core of Aachen Cathedral, and he was buried there in 814.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/3",
+        "label": "UNESCO · Aachen Cathedral"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 72: , the three of us had been living at the Emperor’s court in Aachen. My aunt Marya did not long survive her last husband; she was struck down by the family s"
+  },
+  {
+    "id": "mitau",
+    "term": "Mitau",
+    "aliases": [],
+    "short": "The historical German name of Jelgava, Latvia.",
+    "note": "Mitau is the German name of Jelgava, a Latvian city on the Lielupe. It served as the capital of the Duchy of Courland and Semigallia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mitau",
+        "label": "Encyclopædia Britannica 1911 · Mitau"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 28: , intending to capture, despoil, and burn Memel, Libau, and Mitau; my poor father remained behind, a martyr to indigestion and diarrhea."
+  },
+  {
+    "id": "libau",
+    "term": "Libau",
+    "aliases": [],
+    "short": "The historical German name of Liepāja, Latvia.",
+    "note": "Libau is the German name of Liepāja, a Baltic seaport in western Latvia, historically part of Courland.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Libau",
+        "label": "Encyclopædia Britannica 1911 · Libau"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 28:  expedition, intending to capture, despoil, and burn Memel, Libau, and Mitau; my poor father remained behind, a martyr to indigestion and diarrhea."
+  },
+  {
+    "id": "ryabchik",
+    "term": "ryabchik",
+    "aliases": [],
+    "short": "Russian for the hazel grouse.",
+    "note": "Russian ryabchik, рябчик, names the hazel grouse, a small, mottled woodland game bird of Europe and northern Asia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://gramota.ru/meta/ryabchik",
+        "label": "Gramota · рябчик"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 59: ngs by comparison—than old Baba Yaga. Once we came across a ryabchik and her brood, the chicks just big enough to eat. I had my bow, and I told Baba Yaga I’d "
+  },
+  {
+    "id": "kinzhal",
+    "term": "Kinzhal",
+    "aliases": [],
+    "short": "Possibly Russian kinzhal, “dagger.”",
+    "note": "Possibly Russian kinzhal, meaning a dagger. Kindjal is a related English spelling for the broad, double-edged daggers associated with the Caucasus.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/24991",
+        "label": "Metropolitan Museum of Art · Caucasian kindjal"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 61: At the first snow I rode for Riga, taking Kinzhal and her half grown cubs. We surprised the Baits, you may be sure, but I dismissed my wolv"
+  },
+  {
+    "id": "truth-well",
+    "term": "bottom of a well",
+    "aliases": [],
+    "short": "An ancient image of truth hidden from human knowledge.",
+    "note": "Diogenes Laertius, Lives of Eminent Philosophers 9.72, attributes to Democritus the saying that truth lies in a well. It expresses how difficult truth is to reach.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0258%3Abook%3D9%3Achapter%3D11",
+        "label": "Diogenes Laertius · Lives IX.72"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 45: Truth, it is said, makes her home at the bottom of a well. Her sister Peace is still less hospitable, flying fastest from those who pursue her with"
+  },
+  {
+    "id": "hurry-russian",
+    "term": "spishytye",
+    "aliases": [],
+    "short": "Possibly Russian speshite: “Hurry!”",
+    "note": "Possibly a phonetic spelling of Russian speshite, спешите, the plural or polite command “Hurry!” from speshit’, to hurry or hasten.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://cooljugator.com/ru/%D1%81%D0%BF%D0%B5%D1%88%D0%B8%D1%82%D1%8C",
+        "label": "Russian verb conjugation · спешить"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 78: Dmitri, spishytye! Zadirzhytye yivo!"
+  },
+  {
+    "id": "stop-him-russian",
+    "term": "Zadirzhytye yivo",
+    "aliases": [],
+    "short": "Possibly Russian zaderzhite yego: “Stop him!”",
+    "note": "Possibly Russian zaderzhite yego, задержите его: “Stop him!” or “Detain him!” Zaderzhat’ means to hold someone back or prevent departure.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://gramota.ru/poisk?mode=slovari&query=%D0%B7%D0%B0%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D1%82%D1%8C",
+        "label": "Gramota · задерживать"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 78: Dmitri, spishytye! Zadirzhytye yivo!"
+  },
+  {
+    "id": "graf",
+    "term": "Graf",
+    "aliases": [
+      "graf"
+    ],
+    "short": "A German noble title equivalent to count.",
+    "note": "Graf is a German title of nobility equivalent to count or to the British rank of earl.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/graf",
+        "label": "Collins · Graf"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 7:  wondering what in the world was really happening, when the Graf von Falkonstein came galloping up with a falcon on his shield and another on\nhis helm, an; OEBPS/e9781429982498_c04.html source paragraph 12:  were so similar to Olga’s that I have always suspected the graf coached his brothers-in-law. The whole thing threw my poor father, Prince Ivan, in a blue"
+  },
+  {
+    "id": "don-quixote",
+    "term": "Don Quixote",
+    "aliases": [],
+    "short": "Cervantes’s idealistic knight-errant.",
+    "note": "The central figure of Miguel de Cervantes’s Don Quixote, published in two parts in 1605 and 1615. Immersed in chivalric romances, he travels with Sancho Panza seeking knightly adventures.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/996/996-h/996-h.htm",
+        "label": "Miguel de Cervantes · Don Quixote"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 16: Yes, Don Quixote, although the old Spaniard had more sense than my father and I put together, if you ask m"
+  },
+  {
+    "id": "enchanted-horse",
+    "term": "wooden horse",
+    "aliases": [],
+    "short": "Possibly the flying horse of The Arabian Nights.",
+    "note": "Possibly the magical wooden mount in “The Enchanted Horse,” a tale from The Arabian Nights. Presented to the Persian king, the horse carries its rider through the air by means of a mechanical control.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/128",
+        "label": "Andrew Lang · The Arabian Nights Entertainments"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 3:  very long—well, you see. They’ll have me flying off upon a wooden horse next, the sort of thing they tell about the Shah, poor old fellow! Peasants are savages, "
+  },
+  {
+    "id": "hungarian-raven",
+    "term": "raven from Hungary",
+    "aliases": [],
+    "short": "Possibly the heraldic raven of the Hunyadi family.",
+    "note": "Possibly the raven emblem of Hungary’s Hunyadi dynasty, associated especially with King Matthias Corvinus. The family’s arms show a raven holding a ring; Corvinus derives from Latin corvus, raven.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/A_Deadly_Art_European_Crossbows_1250_1850.pdf",
+        "label": "Metropolitan Museum of Art · A Deadly Art"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 12: A raven from Hungary got my Aunt Anna. I won’t bore you\nwith the details, which were so similar to Olga’s that"
+  },
+  {
+    "id": "polish-eagle",
+    "term": "Polish eagle",
+    "aliases": [],
+    "short": "The White Eagle, Poland’s national emblem.",
+    "note": "Poland’s heraldic emblem is a white eagle, traditionally crowned, displayed against a red field. The design developed from medieval Piast heraldry and became the arms of the kingdom.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.muzeum-szczepkowskiego.pl/en/orzel-piastowski/",
+        "label": "Jan Szczepkowski Museum · The Piast Eagle"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 11: King of Poland, as soon developed, and of course he had the Polish eagle on his shield and so on, and a thousand uhlans trailing after him like an army of wolves."
+  },
+  {
+    "id": "elective-monarchy",
+    "term": "elective monarchy",
+    "aliases": [],
+    "short": "A kingdom whose ruler is chosen by election.",
+    "note": "An elective monarchy selects its sovereign through a vote by a designated body. In the Polish-Lithuanian Commonwealth, royal elections were a central privilege of the nobility.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://academic.oup.com/book/7797",
+        "label": "Felicia Roșu · Elective Monarchy in Transylvania and Poland-Lithuania"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 11: d uhlans trailing after him like an army of wolves. It’s an elective monarchy and not worth a bent brass kopeck, but my father could only gasp out the phrases he had u"
+  },
+  {
+    "id": "memel",
+    "term": "Memel",
+    "aliases": [],
+    "short": "The historical German name of Klaipėda, Lithuania.",
+    "note": "Memel is the German name of Klaipėda, a Baltic port in Lithuania. The town developed around the medieval castle of Memelburg, first mentioned in 1252.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.visitcastles.eu/klaipeda-castle/",
+        "label": "Association of Castles and Museums around the Baltic Sea · Klaipėda Castle"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 28: a fresh expedition, intending to capture, despoil, and burn Memel, Libau, and Mitau; my poor father remained behind, a martyr to indigestion and diarrhea."
+  },
+  {
+    "id": "izborsk",
+    "term": "Izborsk",
+    "aliases": [],
+    "short": "An ancient fortified settlement near Pskov.",
+    "note": "Izborsk is a historic settlement in northwestern Russia near Pskov. Its stone fortress on Zheravya Hill was begun in 1330 as part of the region’s frontier defenses.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://museum-izborsk.ru/history_izborsk/",
+        "label": "Izborsk Museum · History of Izborsk"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 61: ed the Baits, you may be sure, but I dismissed my wolves at Izborsk out of fear that someone would harm them. It didn’t matter—their reputation rode faster t"
+  },
+  {
+    "id": "balts",
+    "term": "Balts",
+    "aliases": [
+      "Baits"
+    ],
+    "short": "The peoples of the Baltic language family.",
+    "note": "Balts is a collective name for peoples speaking Baltic languages, including Lithuanians, Latvians, and the historically distinct Old Prussians.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/balt",
+        "label": "Collins · Balt"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 42:  and mace he beat off charge after charge. Koshchei and his Balts had recaptured my mother, however, and returned with her in triumph to what remained of R"
+  },
+  {
+    "id": "cossacks",
+    "term": "Cossacks",
+    "aliases": [],
+    "short": "Frontier military communities of eastern Europe.",
+    "note": "Cossacks formed self-governing military communities on the eastern European frontier, notably in Ukraine and southern Russia. Their traditions were strongly associated with horsemanship and armed service.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CC%5CO%5CCossacks.htm",
+        "label": "Internet Encyclopedia of Ukraine · Cossacks"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 44: a year or so, somewhat strengthened by a couple of thousand Cossacks and some Swiss, he marched north again, firmly resolved to make amends for the earlier un"
+  },
+  {
+    "id": "dnieper",
+    "term": "Dnieper",
+    "aliases": [],
+    "short": "The Dnipro, a major river flowing to the Black Sea.",
+    "note": "The Dnieper, called Dnipro in Ukrainian, rises in Russia and flows through Belarus and Ukraine to the Black Sea. It has long been a major route of settlement, commerce, and communication.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.encyclopediaofukraine.com/display.asp?linkpath=pagesDNDniproRiver.htm",
+        "label": "Internet Encyclopedia of Ukraine · Dnipro River"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 58: ell mounted, Baba Yaga and I couldn’t even have reached the Dnieper in three days, and there the steppe has scarcely begun. If you were to try to ride it fro"
+  },
+  {
+    "id": "firebird",
+    "term": "firebird",
+    "aliases": [],
+    "short": "The luminous magical bird of Russian folktales.",
+    "note": "The firebird is a marvelous bird of Russian folklore whose feathers shine like flame. A shining feather often sets a hero on a difficult quest.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/16981/16981-h/16981-h.htm",
+        "label": "Arthur Ransome · Old Peter’s Russian Tales"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 75: ing. Tomorrow night I’ll introduce you to Baba Yaga and the firebird, or they’ll introduce you to me—it doesn’t matter."
+  },
+  {
+    "id": "holy-roman-emperor",
+    "term": "Holy Roman Emperor",
+    "aliases": [],
+    "short": "The elected imperial ruler of the Holy Roman Empire.",
+    "note": "The Holy Roman Emperor headed a collection of central European territories, predominantly German-speaking. The imperial office was elective, though the Habsburgs held it almost continuously from the fifteenth century until 1806.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.habsburger.net/en/chapter/house-austria-habsburgs-and-empire",
+        "label": "Schönbrunn Group · The Habsburgs and the Empire"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c04.html source paragraph 37: art. There, in a year or two, he received a letter from the Holy Roman Emperor inquiring about the countess, his wife, and stating very firmly that if she was dead the "
+  }
+]

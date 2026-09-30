@@ -1,0 +1,77 @@
+{
+  "book": "to-the-seventh",
+  "sourceFiles": {
+    "strange-travelers": {
+      "file": "_OceanofPDF.com_Strange_Travelers_-_Gene_Wolfe.epub",
+      "sha256": "8435977934b6231eb25fdb7432c092cf2bc33dcec5d688c4497c225295b58f35"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "strange-travelers",
+      "files": [
+        "OEBPS/e9781429982498_c07.html"
+      ],
+      "sourceTextSha256": "fee2f1065576e509fd9a7834e72f6ccafba9f23f0e9f7ea622d41f4678cf44cf",
+      "textSha256": "06cf06e5948988a637630da4435922e0fb3fa4e47dd4707ef8fb0f9326ac01ea",
+      "blocks": 263,
+      "preEditorialTextSha256": "fee2f1065576e509fd9a7834e72f6ccafba9f23f0e9f7ea622d41f4678cf44cf"
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "to-the-seventh",
+      "chapter": "story",
+      "paragraph": "p-044",
+      "before": "the smiled broadened",
+      "after": "the smile broadened",
+      "reason": "A noun is needed before broadened; the final d of smiled is extraneous.",
+      "confidence": "high",
+      "id": "v17-strange-a014"
+    },
+    {
+      "book": "to-the-seventh",
+      "chapter": "story",
+      "paragraph": "p-121",
+      "before": "Mach shrugged",
+      "after": "Mack shrugged",
+      "reason": "OCR substituted h for k in Mack, the protagonist’s consistently used name.",
+      "confidence": "high",
+      "id": "v17-strange-a015"
+    },
+    {
+      "book": "to-the-seventh",
+      "chapter": "story",
+      "paragraph": "p-187",
+      "before": "A giant’s first slammed",
+      "after": "A giant’s fist slammed",
+      "reason": "The acceleration is compared with a giant’s fist; first is a one-letter OCR insertion.",
+      "confidence": "high",
+      "id": "v17-strange-a016"
+    },
+    {
+      "book": "to-the-seventh",
+      "chapter": "story",
+      "paragraph": "p-211",
+      "before": "try not ask",
+      "after": "try not to ask",
+      "reason": "Missing infinitive marker to in the phrase try not to ask.",
+      "confidence": "high",
+      "id": "v17-strange-a017"
+    },
+    {
+      "book": "to-the-seventh",
+      "chapter": "story",
+      "paragraph": "p-227",
+      "before": "“freckles and all. “Not one",
+      "after": "“freckles and all. Not one",
+      "reason": "Extraneous opening quotation mark interrupts a single continuous speech in the same paragraph.",
+      "confidence": "high",
+      "id": "v17-strange-a018"
+    }
+  ]
+}

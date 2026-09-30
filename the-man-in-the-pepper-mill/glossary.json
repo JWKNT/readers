@@ -1,0 +1,225 @@
+[
+  {
+    "id": "stegosaurus",
+    "term": "Stegosaurus",
+    "aliases": [
+      "stegosaurus",
+      "stegosaur"
+    ],
+    "short": "A plated, plant-eating Jurassic dinosaur.",
+    "note": "Stegosaurus was a large herbivorous dinosaur of the Late Jurassic, distinguished by upright bony back plates and spikes at the end of its tail. Its name means roof lizard.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/Stegosaurus.html",
+        "label": "Natural History Museum: Stegosaurus"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-047",
+      "index": 0
+    }
+  },
+  {
+    "id": "jim-hawkins",
+    "term": "Jim Hawkins",
+    "aliases": [],
+    "short": "The young narrator of Treasure Island.",
+    "note": "Jim Hawkins is the boy at the center of Robert Louis Stevenson’s Treasure Island (1883), who sails with a treasure-hunting expedition and encounters the pirate Long John Silver.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/120",
+        "label": "Robert Louis Stevenson: Treasure Island"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-094",
+      "index": 0
+    }
+  },
+  {
+    "id": "tiptree",
+    "term": "Tiptree",
+    "aliases": [],
+    "short": "James Tiptree Jr., the pen name of Alice B. Sheldon.",
+    "note": "Alice B. Sheldon (1915–1987) published science fiction as James Tiptree Jr. Her identity remained private for years, while her work became known for its treatment of gender and human encounters with the alien.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://csws-archive.uoregon.edu/tiptree-symposium-uo-libraries/",
+        "label": "University of Oregon: James Tiptree Jr. literary papers"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-095",
+      "index": 0
+    }
+  },
+  {
+    "id": "sotto-voce",
+    "term": "sotto voce",
+    "aliases": [],
+    "short": "In a low, quiet voice.",
+    "note": "Italian for under the voice. The expression describes subdued speech or singing, often an aside intended for only a few listeners.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/sotto-voce",
+        "label": "Collins English Dictionary: sotto voce"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-193",
+      "index": 0
+    }
+  },
+  {
+    "id": "velveteen-rabbit",
+    "term": "Velveteen Rabbit",
+    "aliases": [],
+    "short": "Margery Williams’s tale of a toy rabbit.",
+    "note": "The Velveteen Rabbit (1922), by Margery Williams, concerns a stuffed rabbit whose longing to become real is bound up with being loved by a child.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/11757",
+        "label": "Margery Williams: The Velveteen Rabbit"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-228",
+      "index": 0
+    }
+  },
+  {
+    "id": "red-power-ranger",
+    "term": "Red Power Ranger",
+    "aliases": [],
+    "short": "The red-suited hero of the Power Rangers team.",
+    "note": "The original red-suited member of the television team in Mighty Morphin Power Rangers is Jason Lee Scott. Power Rangers combines martial-arts heroes with giant robotic vehicles.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://consumercare.hasbro.com/en-nz/product/power-rangers-retro-morphin-red-ranger-jason-fliphead-action-figure-inspired-by-mighty-morphin-toy-kids-ages-4-and-up/D023F6AF-1221-45D7-9FDF-382065D10DF9EC1",
+        "label": "Hasbro: Mighty Morphin Red Ranger Jason"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-035",
+      "index": 0
+    }
+  },
+  {
+    "id": "spider-man",
+    "term": "Spider Man",
+    "aliases": [],
+    "short": "Marvel’s superhero Spider-Man.",
+    "note": "Spider-Man is the masked comic-book hero originally introduced as Peter Parker, a young man with spider-like abilities and mechanical web-shooters.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.marvel.com/characters/spider-man-peter-parker/in-comics",
+        "label": "Marvel: Spider-Man"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-219",
+      "index": 0
+    }
+  },
+  {
+    "id": "luke-skywalker",
+    "term": "Luke Skywalker",
+    "aliases": [],
+    "short": "A central hero of the original Star Wars films.",
+    "note": "Luke Skywalker is the young hero who trains as a Jedi and joins the Rebel Alliance in the original Star Wars film trilogy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.starwars.com/databank/luke-skywalker",
+        "label": "Star Wars Databank: Luke Skywalker"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-219",
+      "index": 0
+    }
+  },
+  {
+    "id": "scottie",
+    "term": "Scottie",
+    "aliases": [],
+    "short": "A Scottish terrier.",
+    "note": "Scottie is a familiar name for the Scottish terrier, a small, sturdy dog with short legs, erect ears, and a wiry coat.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.akc.org/dog-breeds/scottish-terrier/",
+        "label": "American Kennel Club: Scottish Terrier"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-220",
+      "index": 0
+    }
+  },
+  {
+    "id": "west-highland-white",
+    "term": "West Highland White",
+    "aliases": [],
+    "short": "The West Highland white terrier, or Westie.",
+    "note": "A small Scottish terrier breed with a white coat and erect ears, developed for hunting small animals.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.akc.org/dog-breeds/west-highland-white-terrier/",
+        "label": "American Kennel Club: West Highland White Terrier"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-220",
+      "index": 0
+    }
+  },
+  {
+    "id": "batman-and-robin",
+    "term": "Batman and Robin",
+    "aliases": [],
+    "short": "DC’s masked crime-fighting partners.",
+    "note": "Batman is the crime-fighting identity of Bruce Wayne; Robin is the name used by his younger partner, first introduced as Dick Grayson. The pair are traditionally called the Dynamic Duo.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dc.com/characters/batman",
+        "label": "DC: Batman"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-233",
+      "index": 0
+    }
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "ghouls",
+    "term": "ghouls",
+    "aliases": [],
+    "short": "Corpse-eating demons of Arabic folklore.",
+    "note": "A ghoul is a monstrous being associated with graves and eating human flesh. The word comes from Arabic ghūl.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ghoul",
+        "label": "Merriam-Webster: ghoul"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-001",
+      "index": 0
+    }
+  },
+  {
+    "id": "kirtle",
+    "term": "kirtle",
+    "aliases": [],
+    "short": "An old-fashioned gown or tunic.",
+    "note": "A garment worn in medieval and later dress: either a tunic or a woman’s gown. Kirtle can also mean a skirt.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/kirtle",
+        "label": "Merriam-Webster: kirtle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-010",
+      "index": 0
+    }
+  },
+  {
+    "id": "ichors",
+    "term": "ichors",
+    "aliases": [],
+    "short": "Watery or foul bodily discharges.",
+    "note": "Ichor means a thin discharge from a wound; in ancient Greek mythology it is the fluid that flows in divine veins instead of mortal blood.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ichor",
+        "label": "Merriam-Webster: ichor"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-010",
+      "index": 0
+    }
+  },
+  {
+    "id": "the-oracles-are-dumb",
+    "term": "The oracles are dumb",
+    "aliases": [],
+    "short": "A line from Milton’s Nativity ode.",
+    "note": "John Milton’s On the Morning of Christ’s Nativity, stanza XIX, imagines the pagan oracles falling silent at Christ’s birth. The following lines name Apollo and Delphi.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://milton.host.dartmouth.edu/reading_room/nativity/text.shtml",
+        "label": "Dartmouth: Milton, On the Morning of Christ’s Nativity"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-015",
+      "index": 0
+    }
+  },
+  {
+    "id": "apollo",
+    "term": "Apollo",
+    "aliases": [],
+    "short": "Greek god of prophecy, music, and archery.",
+    "note": "Apollo is an Olympian god associated with prophecy, music, healing, and archery. His sanctuary at Delphi housed the oracle whose priestess was called the Pythia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Olympios/Apollon.html",
+        "label": "Theoi: Apollo and ancient sources"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-015",
+      "index": 0
+    }
+  },
+  {
+    "id": "delphos",
+    "term": "Delphos",
+    "aliases": [],
+    "short": "An older form of Delphi.",
+    "note": "Delphi is the ancient Greek sanctuary of Apollo on Mount Parnassus, famous for the oracle delivered by the Pythia. Delphos is an older English form of its name.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/393/",
+        "label": "UNESCO: Archaeological Site of Delphi"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-015",
+      "index": 0
+    }
+  },
+  {
+    "id": "byre",
+    "term": "byre",
+    "aliases": [],
+    "short": "A cowshed.",
+    "note": "A chiefly British word for a shelter or barn for cattle.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/byre",
+        "label": "Merriam-Webster: byre"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-023",
+      "index": 0
+    }
+  },
+  {
+    "id": "sunwise",
+    "term": "sunwise",
+    "aliases": [],
+    "short": "Clockwise, following the sun’s apparent course.",
+    "note": "Moving in the direction conventionally associated with the sun’s daily passage; clockwise.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/sunwise",
+        "label": "Collins English Dictionary: sunwise"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-023",
+      "index": 0
+    }
+  },
+  {
+    "id": "black-letter",
+    "term": "black-letter",
+    "aliases": [],
+    "short": "The dense Gothic style of lettering.",
+    "note": "A style of manuscript lettering and type with heavy strokes and angular forms, also called Gothic script.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/black-letter",
+        "label": "Merriam-Webster: black-letter"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-030",
+      "index": 0
+    }
+  },
+  {
+    "id": "ouph",
+    "term": "ouph",
+    "aliases": [],
+    "short": "An elf or goblin.",
+    "note": "An older spelling of ouphe: an elf, sprite, or goblin. The form appears in Shakespeare.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ouph",
+        "label": "Merriam-Webster: ouph"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-030",
+      "index": 0
+    }
+  },
+  {
+    "id": "cauld-lad",
+    "term": "cauld lad",
+    "aliases": [],
+    "short": "Possibly the Cauld Lad of Hylton, a household spirit.",
+    "note": "Possibly the Cauld Lad of Hylton, a spirit in northern English folklore who performs household work and leaves after receiving clothing. Cauld is a northern and Scots form of cold.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://sacred-texts.com/neu/eng/efft/efft37.htm",
+        "label": "Edwin Sidney Hartland: The Cauld Lad of Hilton"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-041",
+      "index": 0
+    }
+  },
+  {
+    "id": "aureole",
+    "term": "aureole",
+    "aliases": [],
+    "short": "A halo or ring of radiance.",
+    "note": "A luminous ring such as the halo surrounding a sacred figure; also a halo-like outline of hair.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/aureole",
+        "label": "Merriam-Webster: aureole"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-063",
+      "index": 0
+    }
+  },
+  {
+    "id": "cresset",
+    "term": "cresset",
+    "aliases": [],
+    "short": "A metal basket or vessel used as a torch.",
+    "note": "An open metal container in which oil, pitch, or other fuel burns to provide light, often raised on a pole.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cresset",
+        "label": "Merriam-Webster: cresset"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-108",
+      "index": 0
+    }
+  },
+  {
+    "id": "for-the-blood-is-the-life",
+    "term": "For the blood is the life",
+    "aliases": [],
+    "short": "A phrase from Deuteronomy 12:23.",
+    "note": "Deuteronomy 12:23 identifies blood with life in its prohibition on eating blood. The familiar English wording comes from the King James translation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/deuteronomy/12",
+        "label": "USCCB: Deuteronomy 12:23"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-122",
+      "index": 0
+    }
+  },
+  {
+    "id": "tester",
+    "term": "tester",
+    "aliases": [],
+    "short": "The canopy over a bed.",
+    "note": "A canopy supported above a bed, often by its bedposts. The word ultimately comes from Latin testa, head.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/tester",
+        "label": "Collins English Dictionary: tester"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-124",
+      "index": 0
+    }
+  },
+  {
+    "id": "schloss",
+    "term": "schloss",
+    "aliases": [],
+    "short": "German: castle or palace.",
+    "note": "A German noun for a castle, palace, or grand country residence.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.larousse.com/en/dictionaries/german-english/Schloss/36627",
+        "label": "Larousse German–English Dictionary: Schloss"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-146",
+      "index": 0
+    }
+  }
+]

@@ -1,0 +1,324 @@
+[
+  {
+    "id": "kipper",
+    "term": "kippers",
+    "aliases": [],
+    "short": "Split, salted, and smoked herrings.",
+    "note": "Herrings cured by splitting, salting, and smoking, traditionally eaten as part of a British breakfast.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/kipper",
+        "label": "Merriam-Webster · kipper"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 30: “They won’t have kippers here, will they?” He was trying to clean his fork with his handkerchief. A somewhat soile; OEBPS/e9781429982498_c03.html source paragraph 43: think you’d care for it,” she told him. “You were afraid of kippers.”"
+  },
+  {
+    "id": "calamari",
+    "term": "calamari",
+    "aliases": [],
+    "short": "Squid prepared as food.",
+    "note": "A culinary name for squid. The word is borrowed from Italian, where calamari is the plural of calamaro.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/calamari",
+        "label": "Merriam-Webster · calamari"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 44: “I’ve had them and I don’t like them. I like calamari. You know, you’d be nice-looking if you wore makeup.”"
+  },
+  {
+    "id": "kota-kinabalu",
+    "term": "Kota Kinabalu",
+    "aliases": [],
+    "short": "The capital of Sabah, on northern Borneo.",
+    "note": "Kota Kinabalu is the capital of the Malaysian state of Sabah on Borneo’s northwestern coast. It was formerly known as Jesselton.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://sabahtourism.com/district/kota-kinabalu/",
+        "label": "Sabah Tourism Board · Kota Kinabalu"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 2: ts that had been the only ones she could find to fit her in Kota Kinabalu and hid the money as she had the day before. The same skirt and blouse as yesterday; ther"
+  },
+  {
+    "id": "zamboanga",
+    "term": "Zamboanga",
+    "aliases": [],
+    "short": "A port city on Mindanao in the Philippines.",
+    "note": "Zamboanga City occupies the southwestern tip of the Zamboanga Peninsula on Mindanao, in the southern Philippines. Its history includes a Spanish fort and long-standing maritime connections.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://zamboangacity.gov.ph/history-of-the-city/",
+        "label": "Zamboanga City government · History of the city"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 3: , and enjoy a dozen good meals before she booked passage to Zamboanga."
+  },
+  {
+    "id": "sulu-sea",
+    "term": "Sulu Sea",
+    "aliases": [],
+    "short": "The sea between northern Borneo and the Philippines.",
+    "note": "A western Pacific sea bordered by Palawan, several central and southern Philippine islands, and northeastern Borneo.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/seaname/details/110",
+        "label": "NOAA · Sulu Sea boundaries"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 27: She was looking out across the Sulu Sea. Some unknown island waited just below the horizon, its presence betrayed by the white do"
+  },
+  {
+    "id": "mandalay-quotation",
+    "term": "dawn comes up like",
+    "aliases": [],
+    "short": "A line from Kipling’s “Mandalay.”",
+    "note": "Rudyard Kipling’s “Mandalay” (1890) gives voice to a former British soldier longing for Burma. Its refrain pictures the dawn thundering out of China across the bay.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.kiplingsociety.co.uk/poem/poems_mandalay.htm",
+        "label": "Rudyard Kipling · Mandalay"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 5: k of her cabin door. She said, “Good morning.” And he, “The dawn comes up like\nthunder out of China across the bay. That’s the only quote I’ve been able to think of. No"
+  },
+  {
+    "id": "samuel-johnson",
+    "term": "Doctor Johnson",
+    "aliases": [],
+    "short": "Samuel Johnson, the English writer and lexicographer.",
+    "note": "Samuel Johnson (1709–1784) wrote poetry, criticism, and a major English dictionary. James Boswell records his comparison of life aboard ship with imprisonment, made worse by the possibility of drowning.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/1564/1564-h/1564-h.htm",
+        "label": "James Boswell · Life of Johnson"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 6: “But you’re not,” she told him, and nearly added Doctor Johnson’s observation that to be on a ship is to be in prison, with the added danger of drowning."
+  },
+  {
+    "id": "pickwick-weller",
+    "term": "I have heerd",
+    "aliases": [
+      "Dickens"
+    ],
+    "short": "Tony Weller’s warning about widows in The Pickwick Papers.",
+    "note": "In chapter 23 of Charles Dickens’s The Pickwick Papers, Tony Weller warns his son Sam that a widow can outmaneuver many ordinary women. The exchange is written in Weller’s distinctive dialect.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/580/580-h/580-h.htm",
+        "label": "Charles Dickens · The Pickwick Papers, chapter 23"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 17:  and I can be more English than the British when I want to. I have heerd how many ord’nary veman one vidder’s equal to, in pint ’o comin’ over you. I think it’s f; OEBPS/e9781429982498_c03.html source paragraph 19: “They did in Dickens’ day, some of them.”"
+  },
+  {
+    "id": "gewiss-narr",
+    "term": "Gewiss, Narr",
+    "aliases": [],
+    "short": "German: “Certainly, fool!”",
+    "note": "Gewiss means certainly or assuredly; Narr means fool. Together the words form the blunt German reply “Certainly, fool!”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://dictionary.cambridge.org/dictionary/german-english/gewiss",
+        "label": "Cambridge German–English dictionary · gewiss"
+      },
+      {
+        "url": "https://dictionary.cambridge.org/us/dictionary/german-english/narr",
+        "label": "Cambridge German–English dictionary · Narr"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 21: “Gewiss, Narr!”"
+  },
+  {
+    "id": "bazaar-malay",
+    "term": "Melayu Pasar",
+    "aliases": [
+      "Bazaar Malay"
+    ],
+    "short": "Bazaar Malay, a regional trade language.",
+    "note": "Bazaar Malay is a simplified contact variety of Malay historically used as a common language among speakers of different languages in maritime Southeast Asia. Pasar means market or bazaar.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://assets.cambridge.org/97811070/27305/excerpt/9781107027305_excerpt.pdf",
+        "label": "Jakob Leimgruber · Singapore English"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 33: “Melayu Pasar. We call it Bazaar Malay. He probably does not imagine that there is anyone in the entire"
+  },
+  {
+    "id": "breakfast-maugham",
+    "term": "breakfast three times a day",
+    "aliases": [],
+    "short": "Possibly Somerset Maugham’s quip about English cooking.",
+    "note": "Possibly the quip commonly attributed to W. Somerset Maugham that breakfast is the surest way to eat well in England. The British Council reproduces it under his name.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.teachingenglish.org.uk/sites/teacheng/files/orange_activities.pdf",
+        "label": "British Council · The Great British Breakfast"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 29: e galley, she said, “To eat well in England you should have breakfast three times a day.”"
+  },
+  {
+    "id": "warhorse-job",
+    "term": "scenteth the battle afar",
+    "aliases": [],
+    "short": "A biblical image of a warhorse eager for battle.",
+    "note": "Job 39:25 describes a spirited warhorse sensing battle at a distance and responding to the noise of trumpets, captains, and shouting.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/job/39",
+        "label": "Job 39:19–25"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 35: d poured for both of them. “Aha, a deduction. The battle-ax scenteth the battle afar.”"
+  },
+  {
+    "id": "flying-dutchman",
+    "term": "Flying Dutchwoman",
+    "aliases": [
+      "Flying Dutchman"
+    ],
+    "short": "The legendary ghost ship condemned to sail forever.",
+    "note": "The Flying Dutchman is a phantom ship whose captain is condemned to endless voyaging. The maritime legend appears in Frederick Marryat’s The Phantom Ship (1839) and Richard Wagner’s opera.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/12954/pg12954-images.html",
+        "label": "Frederick Marryat · The Phantom Ship"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 79:  “I was born in the Hague. I have dual citizenship. I’m the Flying Dutchwoman.”; OEBPS/e9781429982498_c03.html source paragraph 204: “I’m superstitious, you see; and when I called myself the Flying Dutchwoman, I was at least half serious. Much more than half, really. Do you know why there’s always"
+  },
+  {
+    "id": "cities-of-the-interior",
+    "term": "cities of the interior",
+    "aliases": [],
+    "short": "An image from Anaïs Nin’s Seduction of the Minotaur.",
+    "note": "In Anaïs Nin’s Seduction of the Minotaur, travel through unfamiliar places is paired with an inward map. The novel concludes her sequence Cities of the Interior.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://books.google.com/books/about/Seduction_of_the_Minotaur.html?id=EWjuEZ535o4C",
+        "label": "Anaïs Nin · Seduction of the Minotaur"
+      },
+      {
+        "url": "https://www.honeyandwaxbooks.com/pdfs/Honey%26WaxinCalifornia.pdf",
+        "label": "Honey & Wax · first-edition Solar Barque catalogue"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 87: cisely she could find within herself a map showing only the cities of the interior.”"
+  },
+  {
+    "id": "creation-of-adam",
+    "term": "finger of God reaching out to Adam",
+    "aliases": [],
+    "short": "Michelangelo’s Creation of Adam.",
+    "note": "Michelangelo’s fresco on the Sistine Chapel ceiling depicts God extending his hand toward the reclining Adam. Their nearly touching fingers concentrate the image of life being bestowed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/cappella-sistina/volta/storie-centrali/creazione-di-adamo.html",
+        "label": "Vatican Museums · Creation of Adam"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 92:  for my life. I was thinking of that picture, you know? The finger of God reaching out to Adam? All this time I’ve been thinking you stole it. Then when I saw how you looked … You didn"
+  },
+  {
+    "id": "vanity-of-human-wishes",
+    "term": "Let observation with extensive view",
+    "aliases": [],
+    "short": "The opening of Johnson’s The Vanity of Human Wishes.",
+    "note": "Samuel Johnson’s The Vanity of Human Wishes (1749), modeled on Juvenal’s tenth satire, surveys the dangers and disappointments attached to desires for wealth, power, fame, and long life.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://poets.org/poem/vanity-human-wishes",
+        "label": "Samuel Johnson · The Vanity of Human Wishes"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 106: “Let observation with extensive view, survey mankind from China to Peru.”"
+  },
+  {
+    "id": "walden-cats",
+    "term": "count the cats in Zanzibar",
+    "aliases": [
+      "Thoreau"
+    ],
+    "short": "Thoreau’s image of purposeless travel in Walden.",
+    "note": "In the conclusion to Walden, Henry David Thoreau uses counting Zanzibar’s cats as an example of empty travel, then urges the reader toward self-exploration. Walden was published in 1854.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/205/205-h/205-h.htm#chap19",
+        "label": "Henry David Thoreau · Walden, Conclusion"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 111: sn’t worth anybody’s time to go halfway around the world to count the cats in Zanzibar That’s a quote, isn’t it?”; OEBPS/e9781429982498_c03.html source paragraph 112: “Thoreau. I was still hoping that you had some good reason for doing what you said you wanted to d"
+  },
+  {
+    "id": "promethean-fire",
+    "term": "Promethean fire",
+    "aliases": [
+      "Prometheus"
+    ],
+    "short": "Fire given to humanity by the Titan Prometheus.",
+    "note": "Prometheus steals fire for mortals in Greek myth. In Shakespeare’s Love’s Labor’s Lost, act 4, scene 3, Berowne praises women’s eyes as a source of that inspiring fire and of learning.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.folger.edu/explore/shakespeares-works/loves-labors-lost/read/4/3/",
+        "label": "William Shakespeare · Love’s Labor’s Lost IV.3"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 124: ’s eyes this doctrine I derive—they sparkle still the right Promethean fire. They are the books, the arts, the academes, that show, contain, and nourish all the worl; OEBPS/e9781429982498_c03.html source paragraph 126: “No.” She shook her head. “I will not be Prometheus to you. I reject the role, and in fact I rejected it last night.”"
+  },
+  {
+    "id": "two-mysteries",
+    "term": "Life is a mystery as deep",
+    "aliases": [],
+    "short": "Mary Mapes Dodge’s poem “The Two Mysteries.”",
+    "note": "“The Two Mysteries,” by Mary Mapes Dodge, compares the uncertainty of death with the equally mysterious nature of life. It offers consolation without claiming knowledge of the dead’s experience.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/St._Nicholas/Volume_32/Number_12/In_Memory_of",
+        "label": "St. Nicholas · memorial of Mary Mapes Dodge"
+      },
+      {
+        "url": "https://iapsop.com/archive/materials/carrier_dove/carrier_dove_v5_n34_aug_25_1888.pdf",
+        "label": "The Carrier Dove, 1888 · text of The Two Mysteries"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 166: ho wrote your software believe. It’s when you want to live. Life is a mystery as deep as ever death can be; yet oh, how sweet it is to us, this life we live and see! I’m sorry"
+  },
+  {
+    "id": "undertakers-horse",
+    "term": "It may be you wait your time, Beast",
+    "aliases": [],
+    "short": "Kipling’s “The Undertaker’s Horse.”",
+    "note": "Rudyard Kipling’s poem addresses a horse used by an undertaker. Its speaker imagines his own funeral and the animal’s eventual death, giving the familiar horse an unsettling association with mortality.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.kiplingsociety.co.uk/poem/poems_horse.htm",
+        "label": "Rudyard Kipling · The Undertaker’s Horse"
+      }
+    ],
+    "evidence": "OEBPS/e9781429982498_c03.html source paragraph 221: y.” He licked his forefinger and turned pages. “Here we go. It may be you wait your time, Beast, till I write my last bad rhyme, Beast—quit the sunlight, cut the rhyming, drop the glass"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "book": "one-two-three-for-me",
+  "sourceFiles": {
+    "strange-travelers": {
+      "file": "_OceanofPDF.com_Strange_Travelers_-_Gene_Wolfe.epub",
+      "sha256": "8435977934b6231eb25fdb7432c092cf2bc33dcec5d688c4497c225295b58f35"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "strange-travelers",
+      "files": [
+        "OEBPS/e9781429982498_c02.html"
+      ],
+      "sourceTextSha256": "5e7362d7b12da4f5596251a834c85984920b6e13c2835f9c755af33fd6d3d585",
+      "textSha256": "47e6993a3f971e225f50c785f9d7624af5be7a53ddd8189f326e56ad5b60c113",
+      "blocks": 40,
+      "preEditorialTextSha256": "5e7362d7b12da4f5596251a834c85984920b6e13c2835f9c755af33fd6d3d585"
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "one-two-three-for-me",
+      "chapter": "story",
+      "paragraph": "p-001",
+      "before": "“Don’t do that!,”",
+      "after": "“Don’t do that!”",
+      "reason": "An exclamation mark ending quoted speech does not take an additional comma before the closing quotation mark.",
+      "confidence": "high",
+      "id": "v17-strange-a007"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "book": "the-man-in-the-pepper-mill",
+  "sourceFiles": {
+    "strange-travelers": {
+      "file": "_OceanofPDF.com_Strange_Travelers_-_Gene_Wolfe.epub",
+      "sha256": "8435977934b6231eb25fdb7432c092cf2bc33dcec5d688c4497c225295b58f35"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "strange-travelers",
+      "files": [
+        "OEBPS/e9781429982498_c13.html"
+      ],
+      "sourceTextSha256": "dbce42b5513d770eaeabd585cf109aa8ef882df8c6e5eedb9b7a8fec8da49d68",
+      "textSha256": "23f143be2802651d2d960eb16b7aed54fb01a3c921b2d53c5ad2d55dac9e5d9b",
+      "blocks": 234,
+      "preEditorialTextSha256": "dbce42b5513d770eaeabd585cf109aa8ef882df8c6e5eedb9b7a8fec8da49d68"
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-man-in-the-pepper-mill",
+      "chapter": "story",
+      "paragraph": "p-160",
+      "before": "“We’ll, we were,”",
+      "after": "“Well, we were,”",
+      "reason": "Incorrect apostrophe turns the introductory adverb into a contraction.",
+      "confidence": "high",
+      "id": "v17-strange-b016"
+    },
+    {
+      "book": "the-man-in-the-pepper-mill",
+      "chapter": "story",
+      "paragraph": "p-179",
+      "before": "on the lighthouse”",
+      "after": "on the lighthouse.”",
+      "reason": "Missing full stop at the end of the spoken sentence.",
+      "confidence": "high",
+      "id": "v17-strange-b017"
+    }
+  ]
+}

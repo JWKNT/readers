@@ -1,5 +1,11 @@
 /* Retain source structure while using the established Readers typography. */
 .chapter-body .source-spaced{margin-top:1em}
+.chapter-body .source-blocktext{margin:1em 1.3em}
+.chapter-body .source-blocktext .verse{margin-block:.6em;text-align:left;text-align-last:left;hyphens:manual}
+.chapter-body .source-letter-indent{text-indent:1.55em}
+.chapter-body .source-box{margin:1.3em 1.5em;padding:.7em 1em;border-block:1px solid var(--line)}
+.chapter-body .source-box .center{text-align:center;text-align-last:center}
+.chapter-body .source-subtitle{margin:-.5em 0 1.8em;font-size:1em;font-style:italic}
 .chapter-body .hanging{text-indent:-1em;margin-left:1em}
 .chapter-body .inset{margin-inline:1.3em;text-indent:0}
 .chapter-body .epigraph{font-size:.88em;line-height:1.55;text-indent:0;margin-inline:1.5em;text-align:left;text-align-last:left}
@@ -32,6 +38,9 @@
 .toc .story-section{font-size:.9em;padding-left:.8em}
 .toc .story-note{margin-top:1.1em;color:var(--muted)}
 .toc details[data-volume="sources"] a{display:block}
+.fiction-contents,.fiction-contents ul{list-style:none;padding:0;margin:1em 0}
+.fiction-contents li{margin:.6em 0}
+.fiction-contents ul{margin:.4em 0 1em;padding-left:1.2em;font-size:.9em}
 .static-header{flex-wrap:wrap;column-gap:1.1rem;row-gap:.5rem}
 .library #additional-wolfe>article{margin-top:2.7rem}
 .library .short-stories{margin-top:3.3rem}

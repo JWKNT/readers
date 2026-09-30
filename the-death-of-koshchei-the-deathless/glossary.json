@@ -1,0 +1,850 @@
+[
+  {
+    "id": "shah",
+    "term": "Shah",
+    "aliases": [],
+    "short": "The Persian title for a king.",
+    "note": "A Persian royal title, historically used by the rulers of Iran.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/shah",
+        "label": "Merriam-Webster · shah"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "uhlan",
+    "term": "uhlans",
+    "aliases": [],
+    "short": "Lance-armed cavalrymen.",
+    "note": "Uhlans were light cavalry armed with lances, originally associated with Poland and later with other European armies.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/uhlan",
+        "label": "Merriam-Webster · uhlan"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-012",
+      "index": 0
+    }
+  },
+  {
+    "id": "kopeck",
+    "term": "kopeck",
+    "aliases": [],
+    "short": "One hundredth of a ruble.",
+    "note": "A Russian monetary unit equal to one hundredth of a ruble; also a coin representing that amount.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/kopeck",
+        "label": "Merriam-Webster · kopeck"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-012",
+      "index": 0
+    }
+  },
+  {
+    "id": "lettish",
+    "term": "Lettish",
+    "aliases": [],
+    "short": "An older English name for Latvian.",
+    "note": "Lettish means Latvian: the language of Latvia or something belonging to its people.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Lettish",
+        "label": "Merriam-Webster · Lettish"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-019",
+      "index": 0
+    }
+  },
+  {
+    "id": "junker",
+    "term": "Junker",
+    "aliases": [],
+    "short": "A member of the Prussian landed nobility.",
+    "note": "A Junker was a German nobleman, especially a member of the Prussian landowning aristocracy associated with military and political power.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/Junker",
+        "label": "Merriam-Webster · Junker"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-038",
+      "index": 0
+    }
+  },
+  {
+    "id": "sobriquet",
+    "term": "sobriquet",
+    "aliases": [],
+    "short": "A nickname or familiar epithet.",
+    "note": "An alternative name given to someone, often an affectionate or descriptive nickname. The word comes from French.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sobriquet",
+        "label": "Merriam-Webster · sobriquet"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-041",
+      "index": 0
+    }
+  },
+  {
+    "id": "dacha",
+    "term": "dacha",
+    "aliases": [],
+    "short": "A Russian country house.",
+    "note": "A house in the Russian countryside used especially as a seasonal or holiday residence.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/dacha",
+        "label": "Merriam-Webster · dacha"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-044",
+      "index": 0
+    }
+  },
+  {
+    "id": "boyar",
+    "term": "boyar",
+    "aliases": [],
+    "short": "Members of the old Russian nobility.",
+    "note": "Boyars were members of the high nobility in Russia and certain other eastern European states.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/boyar",
+        "label": "Merriam-Webster · boyar"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-056",
+      "index": 0
+    }
+  },
+  {
+    "id": "banneret",
+    "term": "knight banneret",
+    "aliases": [],
+    "short": "A knight entitled to lead under his own banner.",
+    "note": "A banneret was a knight of higher military rank entitled to carry a square banner and lead a body of men under it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/banneret",
+        "label": "Merriam-Webster · banneret"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-048",
+      "index": 0
+    }
+  },
+  {
+    "id": "knight-errant",
+    "term": "knight errant",
+    "aliases": [],
+    "short": "A knight wandering in search of adventures.",
+    "note": "In medieval romance, a knight-errant travels in search of adventures, combat, and opportunities to uphold chivalric ideals.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/knight-errant",
+        "label": "Merriam-Webster · knight-errant"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-016",
+      "index": 0
+    }
+  },
+  {
+    "id": "tsar",
+    "term": "Tsar",
+    "aliases": [],
+    "short": "A royal title derived from Caesar.",
+    "note": "The title of an emperor or supreme ruler in Russia and some other Slavic countries. Its linguistic ancestry is the Roman name Caesar.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/tsar",
+        "label": "Merriam-Webster · tsar"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-028",
+      "index": 0
+    }
+  },
+  {
+    "id": "steppe",
+    "term": "steppe",
+    "aliases": [],
+    "short": "An extensive treeless grassland.",
+    "note": "A broad, generally dry grassland, particularly characteristic of southeastern Europe and central Asia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/steppe",
+        "label": "Merriam-Webster · steppe"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-059",
+      "index": 0
+    }
+  },
+  {
+    "id": "cousin-german",
+    "term": "cousin-german",
+    "aliases": [
+      "cousins-german"
+    ],
+    "short": "A first cousin.",
+    "note": "An older term for a first cousin: the child of one’s aunt or uncle. German here means closely related.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cousin-german",
+        "label": "Merriam-Webster: cousin-german"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-038",
+      "index": 0
+    }
+  },
+  {
+    "id": "samovar",
+    "term": "samovars",
+    "aliases": [],
+    "short": "Heated urns for tea water.",
+    "note": "A samovar is a metal urn used especially in Russia to heat water for tea, traditionally with burning fuel in a central tube.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/samovar",
+        "label": "Dictionary.com · samovar"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-045",
+      "index": 0
+    }
+  },
+  {
+    "id": "tikhvin-icon",
+    "term": "Our Lady of Tikhvin",
+    "aliases": [],
+    "short": "A revered Russian icon of Mary and the infant Christ.",
+    "note": "The Tikhvin icon depicts the Mother of God holding Christ. Orthodox tradition associates its appearance near Tikhvin with 1383; its feast is June 26.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.oca.org/saints/lives/2026/06/26/101821-appearance-of-the-tikhvin-icon-of-the-mother-of-god",
+        "label": "Orthodox Church in America · Tikhvin icon"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-016",
+      "index": 0
+    }
+  },
+  {
+    "id": "saint-michael",
+    "term": "St. Michael",
+    "aliases": [
+      "Saint Michael"
+    ],
+    "short": "The archangel who leads the heavenly army.",
+    "note": "Michael is the biblical archangel depicted as a warrior. Revelation 12 describes him and his angels fighting the dragon, identified there as Satan.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/revelation/12",
+        "label": "Revelation 12:7–9"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-011",
+      "index": 0
+    }
+  },
+  {
+    "id": "cerberus",
+    "term": "Cerberus",
+    "aliases": [],
+    "short": "The monstrous hound guarding the underworld.",
+    "note": "In Greek and Roman mythology, Cerberus guards the realm of the dead. In Aeneid 6, the Sibyl subdues him with a drugged cake of honey and grain so that she and Aeneas can pass.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Ther/KuonKerberos.html",
+        "label": "Theoi · classical passages on Cerberus"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-017",
+      "index": 0
+    }
+  },
+  {
+    "id": "koshchei",
+    "term": "Koshchei",
+    "aliases": [],
+    "short": "A death-defying sorcerer of Russian folktales.",
+    "note": "Koshchei, also transliterated Koschei or Kashchei, is a supernatural antagonist in Russian folklore. “The Death of Koshchei the Deathless” appears in Andrew Lang’s The Red Fairy Book (1890).",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/540/540-h/540-h.htm",
+        "label": "Andrew Lang · The Red Fairy Book"
+      }
+    ],
+    "occurrences": 33,
+    "first": {
+      "chapter": "story",
+      "paragraph": "chapter-title",
+      "index": 0
+    }
+  },
+  {
+    "id": "baba-yaga",
+    "term": "Baba Yaga",
+    "aliases": [],
+    "short": "The formidable witch of Russian folktales.",
+    "note": "Baba Yaga is a witchlike figure in Russian folklore, often associated with a hut on chicken legs and travel in a mortar propelled by a pestle. Depending on the tale, she may threaten or assist a visitor.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/540/540-h/540-h.htm",
+        "label": "Andrew Lang · The Red Fairy Book"
+      }
+    ],
+    "occurrences": 13,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-054",
+      "index": 0
+    }
+  },
+  {
+    "id": "riga",
+    "term": "Riga",
+    "aliases": [],
+    "short": "A Baltic trading city and Latvia’s capital.",
+    "note": "Riga, on the Daugava near the Baltic Sea, became an important Hanseatic trading city during the Middle Ages. It is the capital of Latvia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/852/",
+        "label": "UNESCO · Historic Centre of Riga"
+      }
+    ],
+    "occurrences": 10,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-040",
+      "index": 0
+    }
+  },
+  {
+    "id": "rheims",
+    "term": "Rheims",
+    "aliases": [],
+    "short": "Reims, the French coronation city.",
+    "note": "Rheims is an older English spelling of Reims. Its cathedral was the traditional setting for the anointing and coronation of French kings.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/601/",
+        "label": "UNESCO · Reims cathedral and royal sites"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-040",
+      "index": 0
+    }
+  },
+  {
+    "id": "aachen",
+    "term": "Aachen",
+    "aliases": [],
+    "short": "Charlemagne’s principal royal residence.",
+    "note": "Aachen is a city in western Germany associated with Charlemagne’s palace and chapel. His chapel became the core of Aachen Cathedral, and he was buried there in 814.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/3",
+        "label": "UNESCO · Aachen Cathedral"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-073",
+      "index": 0
+    }
+  },
+  {
+    "id": "mitau",
+    "term": "Mitau",
+    "aliases": [],
+    "short": "The historical German name of Jelgava, Latvia.",
+    "note": "Mitau is the German name of Jelgava, a Latvian city on the Lielupe. It served as the capital of the Duchy of Courland and Semigallia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Mitau",
+        "label": "Encyclopædia Britannica 1911 · Mitau"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-029",
+      "index": 0
+    }
+  },
+  {
+    "id": "libau",
+    "term": "Libau",
+    "aliases": [],
+    "short": "The historical German name of Liepāja, Latvia.",
+    "note": "Libau is the German name of Liepāja, a Baltic seaport in western Latvia, historically part of Courland.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Libau",
+        "label": "Encyclopædia Britannica 1911 · Libau"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-029",
+      "index": 0
+    }
+  },
+  {
+    "id": "ryabchik",
+    "term": "ryabchik",
+    "aliases": [],
+    "short": "Russian for the hazel grouse.",
+    "note": "Russian ryabchik, рябчик, names the hazel grouse, a small, mottled woodland game bird of Europe and northern Asia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://gramota.ru/meta/ryabchik",
+        "label": "Gramota · рябчик"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-060",
+      "index": 0
+    }
+  },
+  {
+    "id": "kinzhal",
+    "term": "Kinzhal",
+    "aliases": [],
+    "short": "Possibly Russian kinzhal, “dagger.”",
+    "note": "Possibly Russian kinzhal, meaning a dagger. Kindjal is a related English spelling for the broad, double-edged daggers associated with the Caucasus.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/24991",
+        "label": "Metropolitan Museum of Art · Caucasian kindjal"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-062",
+      "index": 0
+    }
+  },
+  {
+    "id": "truth-well",
+    "term": "bottom of a well",
+    "aliases": [],
+    "short": "An ancient image of truth hidden from human knowledge.",
+    "note": "Diogenes Laertius, Lives of Eminent Philosophers 9.72, attributes to Democritus the saying that truth lies in a well. It expresses how difficult truth is to reach.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0258%3Abook%3D9%3Achapter%3D11",
+        "label": "Diogenes Laertius · Lives IX.72"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-046",
+      "index": 0
+    }
+  },
+  {
+    "id": "hurry-russian",
+    "term": "spishytye",
+    "aliases": [],
+    "short": "Possibly Russian speshite: “Hurry!”",
+    "note": "Possibly a phonetic spelling of Russian speshite, спешите, the plural or polite command “Hurry!” from speshit’, to hurry or hasten.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://cooljugator.com/ru/%D1%81%D0%BF%D0%B5%D1%88%D0%B8%D1%82%D1%8C",
+        "label": "Russian verb conjugation · спешить"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-079",
+      "index": 0
+    }
+  },
+  {
+    "id": "stop-him-russian",
+    "term": "Zadirzhytye yivo",
+    "aliases": [],
+    "short": "Possibly Russian zaderzhite yego: “Stop him!”",
+    "note": "Possibly Russian zaderzhite yego, задержите его: “Stop him!” or “Detain him!” Zaderzhat’ means to hold someone back or prevent departure.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://gramota.ru/poisk?mode=slovari&query=%D0%B7%D0%B0%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D1%82%D1%8C",
+        "label": "Gramota · задерживать"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-079",
+      "index": 0
+    }
+  },
+  {
+    "id": "graf",
+    "term": "Graf",
+    "aliases": [
+      "graf"
+    ],
+    "short": "A German noble title equivalent to count.",
+    "note": "Graf is a German title of nobility equivalent to count or to the British rank of earl.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/graf",
+        "label": "Collins · Graf"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-008",
+      "index": 0
+    }
+  },
+  {
+    "id": "don-quixote",
+    "term": "Don Quixote",
+    "aliases": [],
+    "short": "Cervantes’s idealistic knight-errant.",
+    "note": "The central figure of Miguel de Cervantes’s Don Quixote, published in two parts in 1605 and 1615. Immersed in chivalric romances, he travels with Sancho Panza seeking knightly adventures.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/996/996-h/996-h.htm",
+        "label": "Miguel de Cervantes · Don Quixote"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-017",
+      "index": 0
+    }
+  },
+  {
+    "id": "enchanted-horse",
+    "term": "wooden horse",
+    "aliases": [],
+    "short": "Possibly the flying horse of The Arabian Nights.",
+    "note": "Possibly the magical wooden mount in “The Enchanted Horse,” a tale from The Arabian Nights. Presented to the Persian king, the horse carries its rider through the air by means of a mechanical control.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/128",
+        "label": "Andrew Lang · The Arabian Nights Entertainments"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-004",
+      "index": 0
+    }
+  },
+  {
+    "id": "hungarian-raven",
+    "term": "raven from Hungary",
+    "aliases": [],
+    "short": "Possibly the heraldic raven of the Hunyadi family.",
+    "note": "Possibly the raven emblem of Hungary’s Hunyadi dynasty, associated especially with King Matthias Corvinus. The family’s arms show a raven holding a ring; Corvinus derives from Latin corvus, raven.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://resources.metmuseum.org/resources/metpublications/pdf/A_Deadly_Art_European_Crossbows_1250_1850.pdf",
+        "label": "Metropolitan Museum of Art · A Deadly Art"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-013",
+      "index": 0
+    }
+  },
+  {
+    "id": "polish-eagle",
+    "term": "Polish eagle",
+    "aliases": [],
+    "short": "The White Eagle, Poland’s national emblem.",
+    "note": "Poland’s heraldic emblem is a white eagle, traditionally crowned, displayed against a red field. The design developed from medieval Piast heraldry and became the arms of the kingdom.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.muzeum-szczepkowskiego.pl/en/orzel-piastowski/",
+        "label": "Jan Szczepkowski Museum · The Piast Eagle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-012",
+      "index": 0
+    }
+  },
+  {
+    "id": "elective-monarchy",
+    "term": "elective monarchy",
+    "aliases": [],
+    "short": "A kingdom whose ruler is chosen by election.",
+    "note": "An elective monarchy selects its sovereign through a vote by a designated body. In the Polish-Lithuanian Commonwealth, royal elections were a central privilege of the nobility.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://academic.oup.com/book/7797",
+        "label": "Felicia Roșu · Elective Monarchy in Transylvania and Poland-Lithuania"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-012",
+      "index": 0
+    }
+  },
+  {
+    "id": "memel",
+    "term": "Memel",
+    "aliases": [],
+    "short": "The historical German name of Klaipėda, Lithuania.",
+    "note": "Memel is the German name of Klaipėda, a Baltic port in Lithuania. The town developed around the medieval castle of Memelburg, first mentioned in 1252.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.visitcastles.eu/klaipeda-castle/",
+        "label": "Association of Castles and Museums around the Baltic Sea · Klaipėda Castle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-029",
+      "index": 0
+    }
+  },
+  {
+    "id": "izborsk",
+    "term": "Izborsk",
+    "aliases": [],
+    "short": "An ancient fortified settlement near Pskov.",
+    "note": "Izborsk is a historic settlement in northwestern Russia near Pskov. Its stone fortress on Zheravya Hill was begun in 1330 as part of the region’s frontier defenses.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://museum-izborsk.ru/history_izborsk/",
+        "label": "Izborsk Museum · History of Izborsk"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-062",
+      "index": 0
+    }
+  },
+  {
+    "id": "balts",
+    "term": "Balts",
+    "aliases": [
+      "Baits"
+    ],
+    "short": "The peoples of the Baltic language family.",
+    "note": "Balts is a collective name for peoples speaking Baltic languages, including Lithuanians, Latvians, and the historically distinct Old Prussians.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/balt",
+        "label": "Collins · Balt"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-029",
+      "index": 0
+    }
+  },
+  {
+    "id": "cossacks",
+    "term": "Cossacks",
+    "aliases": [],
+    "short": "Frontier military communities of eastern Europe.",
+    "note": "Cossacks formed self-governing military communities on the eastern European frontier, notably in Ukraine and southern Russia. Their traditions were strongly associated with horsemanship and armed service.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CC%5CO%5CCossacks.htm",
+        "label": "Internet Encyclopedia of Ukraine · Cossacks"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-045",
+      "index": 0
+    }
+  },
+  {
+    "id": "dnieper",
+    "term": "Dnieper",
+    "aliases": [],
+    "short": "The Dnipro, a major river flowing to the Black Sea.",
+    "note": "The Dnieper, called Dnipro in Ukrainian, rises in Russia and flows through Belarus and Ukraine to the Black Sea. It has long been a major route of settlement, commerce, and communication.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.encyclopediaofukraine.com/display.asp?linkpath=pagesDNDniproRiver.htm",
+        "label": "Internet Encyclopedia of Ukraine · Dnipro River"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-059",
+      "index": 0
+    }
+  },
+  {
+    "id": "firebird",
+    "term": "firebird",
+    "aliases": [],
+    "short": "The luminous magical bird of Russian folktales.",
+    "note": "The firebird is a marvelous bird of Russian folklore whose feathers shine like flame. A shining feather often sets a hero on a difficult quest.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/16981/16981-h/16981-h.htm",
+        "label": "Arthur Ransome · Old Peter’s Russian Tales"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-076",
+      "index": 0
+    }
+  },
+  {
+    "id": "holy-roman-emperor",
+    "term": "Holy Roman Emperor",
+    "aliases": [],
+    "short": "The elected imperial ruler of the Holy Roman Empire.",
+    "note": "The Holy Roman Emperor headed a collection of central European territories, predominantly German-speaking. The imperial office was elective, though the Habsburgs held it almost continuously from the fifteenth century until 1806.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.habsburger.net/en/chapter/house-austria-habsburgs-and-empire",
+        "label": "Schönbrunn Group · The Habsburgs and the Empire"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-038",
+      "index": 0
+    }
+  }
+]

@@ -1,0 +1,773 @@
+[
+  {
+    "id": "calpurnius-siculus",
+    "term": "Calpurnius Siculus",
+    "aliases": [],
+    "short": "A Roman poet of pastoral Eclogues.",
+    "note": "Titus Calpurnius Siculus is the Latin poet credited with seven Eclogues, poems that combine shepherds’ songs and rural life with praise of an emperor. Their precise date is debated.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Calpurnius_Siculus/home.html",
+        "label": "LacusCurtius: Calpurnius Siculus"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 4 (title included): e and the roads were once more passable, he was informed that his business with Calpurnius Siculus and Pomponius Mela was now ended, for the time being at least. His fellows urged him strongly to steal what books he could from t"
+  },
+  {
+    "id": "pomponius-mela",
+    "term": "Pomponius Mela",
+    "aliases": [],
+    "short": "A Roman geographical writer.",
+    "note": "Pomponius Mela wrote De chorographia in the first century CE. This description of the lands and peoples of the known world is the earliest surviving Latin geographical treatise.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cambridge.org/core/books/abs/cambridge-history-of-classical-literature/technical-writing/73435F8BCD398A76A99ABC954B1DDA63",
+        "label": "Cambridge History of Classical Literature: Technical writing"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 4 (title included): ce more passable, he was informed that his business with Calpurnius Siculus and Pomponius Mela was now ended, for the time being at least. His fellows urged him strongly to steal what books he could from the library in order"
+  },
+  {
+    "id": "moralia",
+    "term": "Moralia",
+    "aliases": [],
+    "short": "Possibly Plutarch’s collection of essays and dialogues.",
+    "note": "Possibly Plutarch’s Moralia, a broad collection of Greek essays and dialogues on ethics, religion, philosophy, education, and everyday customs. The conventional Latin title means moral writings.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/home.html",
+        "label": "LacusCurtius: Plutarch’s Moralia"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 4 (title included): ins begged upon his behalf by his dearest friend, and a tattered, leather-bound Moralia—this last wholly his own, the gift of one of his professors, who, having found a better one, no longer wanted it."
+  },
+  {
+    "id": "draper",
+    "term": "draper",
+    "aliases": [],
+    "short": "A merchant who sells cloth.",
+    "note": "A dealer in textiles or fabric, particularly cloth sold for making clothes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/draper",
+        "label": "Merriam-Webster: draper"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 5 (title included): is father’s influence, however, he was at length able to secure a position as a draper’s clerk; and a draper’s clerk he remained for something in excess of a year. Alis volat propriis."
+  },
+  {
+    "id": "alis-volat-propriis",
+    "term": "Alis volat propriis",
+    "aliases": [],
+    "short": "Latin: “She flies with her own wings.”",
+    "note": "Literally, he or she flies with his or her own wings. The feminine translation is familiar as the state motto of Oregon.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.oregonlegislature.gov/bills_laws/Archive/2013ors186.pdf",
+        "label": "Oregon Legislature: ORS 186.040"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 5 (title included): er’s clerk; and a draper’s clerk he remained for something in excess of a year. Alis volat propriis."
+  },
+  {
+    "id": "foolscap",
+    "term": "foolscap",
+    "aliases": [],
+    "short": "A traditional size of writing paper.",
+    "note": "A historical paper size named for its original watermark depicting a jester’s cap. The term later became a general name for certain large sheets of writing paper.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/foolscap",
+        "label": "Merriam-Webster: foolscap"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 6 (title included): a on long summer evenings, if he made for himself a little manual of Latin in a foolscap notebook, the others had peculiarities no less striking; and it was by no means apparent that his eventual end was to be in any w"
+  },
+  {
+    "id": "vergil",
+    "term": "Vergil",
+    "aliases": [],
+    "short": "Virgil, the Roman poet of the Aeneid.",
+    "note": "Publius Vergilius Maro (70–19 BCE), usually called Virgil or Vergil in English, wrote the pastoral Eclogues, the agricultural Georgics, and the epic Aeneid.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.thelatinlibrary.com/verg.html",
+        "label": "The Latin Library: Vergil"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 8 (title included): dnesday and Thursday, and was closed altogether on Monday. Enan discoursed upon Vergil to certain attentive cows and buttercups, and wrestled and fished with two younger brothers. He had very nearly become reconciled"
+  },
+  {
+    "id": "ab-imo-pectore",
+    "term": "ab imo pectore",
+    "aliases": [],
+    "short": "Latin: “From the depths of the heart.”",
+    "note": "Literally, from the lowest part of the breast: deeply or wholeheartedly. Classical poets use the breast as the seat of strong feeling.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.treccani.it/vocabolario/ab-imo-pectore/",
+        "label": "Treccani: ab imo pectore"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 17 (title included): p and down, did he dare address Mr. Seely, modestly and even humbly, expressing ab imo pectore his entire willingness to accept the position on whatever terms Mr. Seely might think suitable. With what care this letter was fo"
+  },
+  {
+    "id": "usus-magister-est",
+    "term": "Usus magister est",
+    "aliases": [],
+    "short": "Latin: “Experience is a teacher.”",
+    "note": "Usus means practice or experience, and magister means teacher. Related ancient maxims call experience the best teacher.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://cvc.cervantes.es/lengua/refranero/Ficha.aspx?Lng=14&Par=59612",
+        "label": "Instituto Cervantes: Usus, magister egregius"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 27 (title included): ent has now been established, this tattered letter, too, will be given in full. Usus magister est."
+  },
+  {
+    "id": "philostratus",
+    "term": "Philostratus",
+    "aliases": [],
+    "short": "Possibly Philostratus the Elder, author of Imagines.",
+    "note": "Possibly Philostratus the Elder, the Greek author of Imagines, descriptions of paintings. Book 2.17 conducts an imagined voyage among painted islands inhabited by gods, farmers, hunters, and fabulous creatures.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Text/PhilostratusElder2B.html",
+        "label": "Philostratus the Elder: Imagines 2.17"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 51 (title included): glower. Possibly some untimely recollection of the enchanted isles mentioned by Philostratus colored his thinking."
+  },
+  {
+    "id": "nobis-cum-semel-occidit-brevis-lux",
+    "term": "Nobis cum semel occidit brevis lux",
+    "aliases": [],
+    "short": "A line from Catullus’s fifth poem.",
+    "note": "Catullus 5 contrasts recurring sunsets with human mortality: once our brief light ends, an unending night of sleep follows. Brevis lux is the brief light; perpetua nox is perpetual night.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.thelatinlibrary.com/catullus.shtml",
+        "label": "Catullus: poem 5"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 61 (title included): groping hands found a ewer beside his bed; he drank from it, and was as before. Nobis cum semel occidit brevis lux, nox est perpetua una dormienda."
+  },
+  {
+    "id": "temporis-ars-medicina-fere-est",
+    "term": "Temporis ars medicina fere est",
+    "aliases": [],
+    "short": "Ovid: medicine largely depends on timing.",
+    "note": "From Ovid’s Remedia amoris, line 131: medical skill is largely an art of timing. The following lines explain that wine can help when given at the right time and harm at the wrong time.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.thelatinlibrary.com/ovid/ovid.rem.shtml",
+        "label": "Ovid: Remedia amoris 131–132"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 116 (title included): isitor arrived; and though Enan was awake, they flew swiftly in utter idleness. Temporis ars medicina fere est."
+  },
+  {
+    "id": "my-boyhood-saw-greek-islands-floating-over-harvard-square",
+    "term": "My boyhood saw Greek islands floating over Harvard Square",
+    "aliases": [],
+    "short": "A quotation from Horace Gregory’s Chorus for Survival.",
+    "note": "Horace Gregory’s Chorus for Survival (1935) gives these lines to Ralph Waldo Emerson, recalling an education saturated in ancient Greek culture.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://nara-media.s3.amazonaws.com/presidential-libraries/clinton/foia/2006-0469-F-Seg-2/2006-0469-F-Seg-2-PDF/Box_042/42-t-7763296-20060469F-Seg2-042-016-2015.pdf",
+        "label": "National Archives: quotation reference, printed p. 161"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 129 (title included): Enan quoted, “‘My boyhood saw Greek islands floating over Harvard Square.’”"
+  },
+  {
+    "id": "hemingway",
+    "term": "Hemingway",
+    "aliases": [],
+    "short": "Ernest Hemingway, American novelist and short-story writer.",
+    "note": "Ernest Hemingway (1899–1961) wrote The Sun Also Rises, A Farewell to Arms, and The Old Man and the Sea. His prose is associated with compression, restrained description, and omission.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/prizes/literature/1954/hemingway/biographical/",
+        "label": "Nobel Prize: Ernest Hemingway"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 131 (title included): English Composition. “They’ve got you reading Hemingway of course. And—let’s see—Kipling, Parker, Thurber, Crowley … no modern writers. My, my, W. H. Hudson. Do you like him?”"
+  },
+  {
+    "id": "kipling",
+    "term": "Kipling",
+    "aliases": [],
+    "short": "Rudyard Kipling, author of The Jungle Book and Kim.",
+    "note": "Rudyard Kipling (1865–1936) was a British poet and storyteller whose works include The Jungle Book, Kim, and Just So Stories.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nobelprize.org/prizes/literature/1907/kipling/biographical/",
+        "label": "Nobel Prize: Rudyard Kipling"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 131 (title included): nglish Composition. “They’ve got you reading Hemingway of course. And—let’s see—Kipling, Parker, Thurber, Crowley … no modern writers. My, my, W. H. Hudson. Do you like him?”"
+  },
+  {
+    "id": "parker",
+    "term": "Parker",
+    "aliases": [],
+    "short": "Possibly Dorothy Parker, American humorist and writer.",
+    "note": "Possibly Dorothy Parker (1893–1967), whose short stories, verse, criticism, and epigrams are known for their sharp wit. She was associated with the Algonquin Round Table.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://poets.org/poet/dorothy-parker",
+        "label": "Academy of American Poets: Dorothy Parker"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 131 (title included): mposition. “They’ve got you reading Hemingway of course. And—let’s see—Kipling, Parker, Thurber, Crowley … no modern writers. My, my, W. H. Hudson. Do you like him?”"
+  },
+  {
+    "id": "thurber",
+    "term": "Thurber",
+    "aliases": [],
+    "short": "James Thurber, American humorist and cartoonist.",
+    "note": "James Thurber (1894–1961) wrote comic stories and drew cartoons, many published in The New Yorker. His works include The Secret Life of Walter Mitty.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.thurberhouse.org/james-thurber",
+        "label": "Thurber House: James Thurber"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 131 (title included): n. “They’ve got you reading Hemingway of course. And—let’s see—Kipling, Parker, Thurber, Crowley … no modern writers. My, my, W. H. Hudson. Do you like him?”"
+  },
+  {
+    "id": "crowley",
+    "term": "Crowley",
+    "aliases": [],
+    "short": "Possibly John Crowley, the fantasy novelist.",
+    "note": "Possibly John Crowley, the American novelist whose books include Little, Big, a fantasy about a family’s entanglement with the realm of fairies.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://english.yale.edu/publications/little-big",
+        "label": "Yale: John Crowley’s Little, Big"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 131 (title included): ve got you reading Hemingway of course. And—let’s see—Kipling, Parker, Thurber, Crowley … no modern writers. My, my, W. H. Hudson. Do you like him?”"
+  },
+  {
+    "id": "hudson",
+    "term": "Hudson",
+    "aliases": [
+      "W. H. Hudson"
+    ],
+    "short": "W. H. Hudson, writer and naturalist.",
+    "note": "William Henry Hudson (1841–1922) was an Argentine-born British writer and naturalist. His books include the novel Green Mansions and essays on birds, animals, and the countryside.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/79577",
+        "label": "W. H. Hudson: The Book of a Naturalist"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 131 (title included): e. And—let’s see—Kipling, Parker, Thurber, Crowley … no modern writers. My, my, W. H. Hudson. Do you like him?”"
+  },
+  {
+    "id": "green-mansions",
+    "term": "Green Mansions",
+    "aliases": [],
+    "short": "W. H. Hudson’s 1904 romance.",
+    "note": "Green Mansions: A Romance of the Tropical Forest is W. H. Hudson’s novel about a traveler’s encounter with Rima in the forests of South America.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/942",
+        "label": "W. H. Hudson: Green Mansions"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 184 (title included): “Green Mansions,” Enan told him. At this critical juncture his mind refused the name of the author. “Do you have it? Wade needs it.”"
+  },
+  {
+    "id": "the-book-of-a-naturalist",
+    "term": "The Book of a Naturalist",
+    "aliases": [],
+    "short": "A collection of W. H. Hudson’s nature essays.",
+    "note": "Hudson’s The Book of a Naturalist gathers observations and reflections on animals, birds, human relationships with nature, and the English countryside.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/79577",
+        "label": "W. H. Hudson: The Book of a Naturalist"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 198 (title included):  have. But I wanted to find …” The bloodsoaked shirt muffled his voice. “Here’s The Book of a Naturalist, Wade. It’s Hudson’s, too. And one that I chose for you myself, Hawthorne’s Wonder Book. Take them, will you? I don’t want to get"
+  },
+  {
+    "id": "eumenides",
+    "term": "Eumenides",
+    "aliases": [],
+    "short": "The “kindly ones,” a propitiatory name for the Furies.",
+    "note": "Eumenides means the kindly or gracious ones in Greek. It is a reassuring name for the Erinyes, terrifying powers who punish wrongdoing, especially crimes against kin.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Khthonios/Erinyes.html",
+        "label": "Theoi: Erinyes and ancient sources"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 160 (title included): “Classics? Who were the Eumenides? Euphemism’s named for them.”"
+  },
+  {
+    "id": "pythagorean-theorem",
+    "term": "Pythagorean Theorem",
+    "aliases": [],
+    "short": "The square relation for a right triangle.",
+    "note": "In a right triangle, the square of the hypotenuse equals the sum of the squares of the two other sides: a² + b² = c². Euclid proves the result in Elements I.47.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathcs.clarku.edu/~djoyce/elements/bookI/propI47.html",
+        "label": "Euclid: Elements I.47"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 166 (title included): “Excellent. The Pythagorean Theorem?”"
+  },
+  {
+    "id": "pythagoras",
+    "term": "Pythagoras",
+    "aliases": [],
+    "short": "An ancient Greek philosopher associated with number and harmony.",
+    "note": "Pythagoras of Samos, active in the sixth century BCE, founded a religious and philosophical community in southern Italy. Later traditions connect him with mathematical number relations and musical harmony.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plato.stanford.edu/entries/pythagoras/",
+        "label": "Stanford Encyclopedia of Philosophy: Pythagoras"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 170 (title included): “Very good. But you don’t know who Pythagoras was, do you? Do you know anything about his other discoveries?”"
+  },
+  {
+    "id": "pax-in-bello",
+    "term": "Pax in bello",
+    "aliases": [],
+    "short": "Latin: “Peace in war.”",
+    "note": "Pax means peace; in bello means in war or during war.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=pax",
+        "label": "Lewis and Short Latin Dictionary: pax"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 191 (title included): ng was thus painless, Enan reflected, he would have been less timid as a child. Pax in bello."
+  },
+  {
+    "id": "wonder-book",
+    "term": "Wonder Book",
+    "aliases": [],
+    "short": "Hawthorne’s retellings of Greek myths for children.",
+    "note": "Nathaniel Hawthorne’s A Wonder-Book for Girls and Boys (1851) retells six Greek myths, including Bellerophon and Pegasus in The Chimæra.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/32242",
+        "label": "Nathaniel Hawthorne: A Wonder Book for Girls & Boys"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 198 (title included): ist, Wade. It’s Hudson’s, too. And one that I chose for you myself, Hawthorne’s Wonder Book. Take them, will you? I don’t want to get them dirty.”"
+  },
+  {
+    "id": "bellerophon",
+    "term": "Bellerophon",
+    "aliases": [],
+    "short": "The Greek hero who rode Pegasus against the Chimera.",
+    "note": "Bellerophon is a hero of Greek mythology who masters the winged horse Pegasus and is sent to kill the fire-breathing Chimera.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Heros/Bellerophontes.html",
+        "label": "Theoi: Bellerophon and ancient sources"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 199 (title included): The boy opened the latter at random. The bright old plate showed Bellerophon astride winged Pegasus, diving from the sky at the Chimera. Seeing the boy’s eyes at that moment, Enan knew he had won, and that "
+  },
+  {
+    "id": "pegasus",
+    "term": "Pegasus",
+    "aliases": [],
+    "short": "The winged horse of Greek mythology.",
+    "note": "Pegasus springs from Medusa after her death and becomes Bellerophon’s mount. Ancient accounts also associate him with the Muses and a spring on Mount Helicon.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Ther/HipposPegasos.html",
+        "label": "Theoi: Pegasus and ancient sources"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 199 (title included): ed the latter at random. The bright old plate showed Bellerophon astride winged Pegasus, diving from the sky at the Chimera. Seeing the boy’s eyes at that moment, Enan knew he had won, and that whatever might come aft"
+  },
+  {
+    "id": "chimera",
+    "term": "Chimera",
+    "aliases": [],
+    "short": "A fire-breathing composite monster of Greek myth.",
+    "note": "The Chimera combines features of a lion, goat, and serpent. Bellerophon defeats it while riding Pegasus. The name later became a word for a fantastic hybrid or impossible imagining.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Ther/Khimaira.html",
+        "label": "Theoi: Chimera and ancient sources"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 199 (title included): old plate showed Bellerophon astride winged Pegasus, diving from the sky at the Chimera. Seeing the boy’s eyes at that moment, Enan knew he had won, and that whatever might come afterward did not matter. Nos exaequat "
+  },
+  {
+    "id": "nos-exaequat-victoria-caelo",
+    "term": "Nos exaequat victoria caelo",
+    "aliases": [],
+    "short": "Lucretius: “Victory raises us to heaven.”",
+    "note": "From De rerum natura 1.79. Lucretius celebrates Epicurus’s intellectual victory over oppressive religious fear, saying that this victory makes humanity equal to heaven.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.thelatinlibrary.com/lucretius/lucretius1.shtml",
+        "label": "Lucretius: De rerum natura 1.79"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 199 (title included): t, Enan knew he had won, and that whatever might come afterward did not matter. Nos exaequat victoria caelo."
+  },
+  {
+    "id": "prescott",
+    "term": "Prescott",
+    "aliases": [],
+    "short": "William Hickling Prescott, historian of the Spanish conquests.",
+    "note": "William Hickling Prescott (1796–1859) was an American historian best known for his histories of the Spanish conquests of Mexico and Peru. His History of the Conquest of Mexico appeared in 1843.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/59755",
+        "label": "William H. Prescott: History of the Conquest of Mexico"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 105 (title included): “Corner of Gate and Prescott. That’s what I always tell people—what the headmaster tells when he writes them, too.”"
+  },
+  {
+    "id": "nullum-est-librum-tam-malum",
+    "term": "Nullum est librum tam malum",
+    "aliases": [],
+    "short": "An adaptation of a saying recorded by Pliny.",
+    "note": "Pliny the Younger’s Letters 3.5.10 reports his uncle’s belief that no book was so bad that some part of it could not be useful. The Latin here is a variant of that saying.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.thelatinlibrary.com/pliny.ep3.html",
+        "label": "Pliny the Younger: Letters 3.5.10"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 261 (title included): out truthfully that their library already possessed one work in Latin at least. Nullum est librum tam malum ut non ex aliqua parte prodesset."
+  },
+  {
+    "id": "omnia-fert-aetas-animum-quoque",
+    "term": "Omnia fert aetas, animum quoque",
+    "aliases": [],
+    "short": "Virgil: “Time takes everything, even the mind.”",
+    "note": "Eclogue 9.51 introduces an aging singer’s lament for his lost memory and voice. Aetas means age or time, and animum can mean mind or spirit.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.thelatinlibrary.com/vergil/ec9.shtml",
+        "label": "Virgil: Eclogue 9.51"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 268 (title included): Enan nodded, getting soapsuds on his nose. “Omnia fert aetas, animum quoque.” Seeing the boy’s incomprehension, he murmured, “All is borne away by age, even the mind.”"
+  },
+  {
+    "id": "minotaur",
+    "term": "Minotaur",
+    "aliases": [],
+    "short": "The bull-headed monster in the Cretan labyrinth.",
+    "note": "In Greek mythology the Minotaur is a creature with a human body and a bull’s head, confined in the labyrinth built for King Minos and killed by Theseus.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Ther/Minotauros.html",
+        "label": "Theoi: Minotaur and ancient sources"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 273 (title included): over me. Burning hot, when I was no longer there. Hell was a labyrinth like the Minotaur’s. I had no clew to guide me, but I stumbled down the winding corridors until I met Ariadne. She returned me to this life, I supp"
+  },
+  {
+    "id": "ariadne",
+    "term": "Ariadne",
+    "aliases": [],
+    "short": "The princess who helped Theseus escape the labyrinth.",
+    "note": "Ariadne, daughter of King Minos of Crete, supplies Theseus with a thread by which to retrace his path after confronting the Minotaur.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Georgikos/Ariadne.html",
+        "label": "Theoi: Ariadne and ancient sources"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 273 (title included):  had no clew to guide me, but I stumbled down the winding corridors until I met Ariadne. She returned me to this life, I suppose.”"
+  },
+  {
+    "id": "clew",
+    "term": "clew",
+    "aliases": [],
+    "short": "A ball of thread; the older form behind “clue.”",
+    "note": "Originally a ball of thread. The modern sense of clue developed from the idea of a thread that guides someone through a maze.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/clew",
+        "label": "Merriam-Webster: clew"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 273 (title included):  when I was no longer there. Hell was a labyrinth like the Minotaur’s. I had no clew to guide me, but I stumbled down the winding corridors until I met Ariadne. She returned me to this life, I suppose.”"
+  },
+  {
+    "id": "decolletage",
+    "term": "decolletage",
+    "aliases": [],
+    "short": "A low neckline, or the exposed upper chest.",
+    "note": "From French décolletage: the neckline of a low-cut dress, or the neck, shoulders, and upper chest it reveals.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/decolletage",
+        "label": "Merriam-Webster: decolletage"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 285 (title included): hese up?” A heavy, sweet perfume and the smooth and almost greasy pallor of her decolletage made her seem a slightly stale confection. “Are any valuable?”"
+  },
+  {
+    "id": "confessions",
+    "term": "Confessions",
+    "aliases": [
+      "Augustine"
+    ],
+    "short": "Augustine’s spiritual autobiography.",
+    "note": "Augustine of Hippo’s Confessions, written around 397–400, recounts his early life and conversion to Christianity, and reflects on memory, time, and creation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/3296",
+        "label": "Augustine: The Confessions"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 286 (title included): The only gem Enan had unearthed was Augustine’s Confessions, brass-fitted and bound in decaying calf, with Latin and English on facing pages—the spoil of some pillaged seminar"
+  },
+  {
+    "id": "notitia-linguarum-est-prima-porta-sapientiae",
+    "term": "Notitia linguarum est prima porta sapientiae",
+    "aliases": [],
+    "short": "Latin: “Knowledge of languages is the first gate of wisdom.”",
+    "note": "A statement in Roger Bacon’s Opus tertium emphasizing the importance of learning languages for access to theology and philosophy. Notitia linguarum means knowledge of languages.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://academic.oup.com/book/33519/chapter/287852599",
+        "label": "Oxford University Press: Roger Bacon’s statement on languages"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 288 (title included): udied Latin and Greek in order that they might read such books as had survived. Notitia linguarum est prima porta sapientiae—the knowledge of tongues is the chief door to wisdom. Like them, we seek to learn from the books of a previous age, but they are "
+  },
+  {
+    "id": "doctrina-sed-vim-promovet-insitam",
+    "term": "Doctrina sed vim promovet insitam",
+    "aliases": [],
+    "short": "Horace: “Education develops innate power.”",
+    "note": "From Horace’s Odes 4.4.33. Doctrina means instruction or training; vis insita is the strength already planted within a person. The next line connects sound cultivation with strengthening the heart.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.thelatinlibrary.com/horace/carm4.shtml",
+        "label": "Horace: Odes 4.4.33–34"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 290 (title included): ght.” He turned to the board so that the boys could not watch his face, writing Doctrina sed vim promovet insitam; and when he turned back she was gone."
+  },
+  {
+    "id": "queen-of-the-air",
+    "term": "Queen of the Air",
+    "aliases": [
+      "Ruskin"
+    ],
+    "short": "John Ruskin’s study of Greek myth and Athena.",
+    "note": "The Queen of the Air (1869) is John Ruskin’s interpretation of Greek myths as expressions of natural and spiritual meaning, centered on Athena.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/12641/12641-h/12641-h.htm",
+        "label": "John Ruskin: The Queen of the Air"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 291 (title included): That evening he carried the day’s discovery up to his room. The pages of Ruskin’s Queen of the Air had darkened to sepia and cracked, many were torn and some were gone altogether; yet what he read so enchanted"
+  },
+  {
+    "id": "neptune",
+    "term": "Neptune",
+    "aliases": [],
+    "short": "Roman god of the sea.",
+    "note": "The Roman sea god identified with Greek Poseidon, conventionally shown with a trident.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Olympios/Poseidon.html",
+        "label": "Theoi: Poseidon and Roman Neptune"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 292 (title included): imbs, and she gave him the courage”—of what animal, do you suppose? Had it been Neptune or Mars, they would have given him the courage of a bull or a lion; but Athena gives him the courage of the most fearless in atta"
+  },
+  {
+    "id": "mars",
+    "term": "Mars",
+    "aliases": [],
+    "short": "Roman god of war.",
+    "note": "A major Roman god associated with warfare, the protection of the Roman state, and the legendary ancestry of Rome through his sons Romulus and Remus.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Olympios/Ares.html",
+        "label": "Theoi: Ares and Roman Mars"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 292 (title included): he gave him the courage”—of what animal, do you suppose? Had it been Neptune or Mars, they would have given him the courage of a bull or a lion; but Athena gives him the courage of the most fearless in attack of al"
+  },
+  {
+    "id": "athena",
+    "term": "Athena",
+    "aliases": [],
+    "short": "Greek goddess of wisdom, crafts, and warfare.",
+    "note": "Athena is the patron goddess of Athens, associated with practical intelligence, weaving and other crafts, and disciplined warfare. Her Roman counterpart is Minerva.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Olympios/Athena.html",
+        "label": "Theoi: Athena and ancient sources"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 292 (title included): Neptune or Mars, they would have given him the courage of a bull or a lion; but Athena gives him the courage of the most fearless in attack of all creatures, small or great, and very small it is, but wholly incapable"
+  },
+  {
+    "id": "croesus",
+    "term": "Croesus",
+    "aliases": [],
+    "short": "The wealthy king of Lydia defeated by Cyrus.",
+    "note": "Croesus ruled Lydia in the sixth century BCE. His celebrated wealth and his fall to Cyrus of Persia made his name proverbial; Herodotus recounts the oracles surrounding his defeat.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.perseus.tufts.edu/hopper/text?doc=Hdt.+1.91",
+        "label": "Herodotus: Histories 1.91"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 301 (title included): an and every man, at the mercy of Fate. What was it Apollo had confided to King Croesus? “Even the gods … Not even the gods … .”"
+  },
+  {
+    "id": "cannae",
+    "term": "Cannae",
+    "aliases": [],
+    "short": "Hannibal’s major victory over Rome in 216 BCE.",
+    "note": "At Cannae in southern Italy, Hannibal’s Carthaginian army encircled and destroyed a much larger Roman army during the Second Punic War.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/10907/10907-h/10907-h.htm",
+        "label": "Livy: History of Rome, Book 22"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 317 (title included): “This is their darkest hour. Today ten legions fell at Cannae. Varro escaped to Venusia with seventy horsemen, and those seventy constitute the Army of Rome tonight.”"
+  },
+  {
+    "id": "varro",
+    "term": "Varro",
+    "aliases": [],
+    "short": "Gaius Terentius Varro, Roman consul at Cannae.",
+    "note": "Gaius Terentius Varro was one of the two Roman consuls commanding at Cannae in 216 BCE. He survived the defeat and withdrew to Venusia with a small body of cavalry.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/10907/10907-h/10907-h.htm",
+        "label": "Livy: History of Rome 22.49"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 317 (title included): “This is their darkest hour. Today ten legions fell at Cannae. Varro escaped to Venusia with seventy horsemen, and those seventy constitute the Army of Rome tonight.”"
+  },
+  {
+    "id": "venusia",
+    "term": "Venusia",
+    "aliases": [],
+    "short": "The ancient Roman town now called Venosa.",
+    "note": "An ancient town and Roman colony in southern Italy, now Venosa. Survivors of the Roman defeat at Cannae gathered there.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/10907/10907-h/10907-h.htm",
+        "label": "Livy: History of Rome, Book 22"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 317 (title included): “This is their darkest hour. Today ten legions fell at Cannae. Varro escaped to Venusia with seventy horsemen, and those seventy constitute the Army of Rome tonight.”"
+  },
+  {
+    "id": "hannibal",
+    "term": "Hannibal",
+    "aliases": [],
+    "short": "The Carthaginian commander in the Second Punic War.",
+    "note": "Hannibal Barca led a Carthaginian army into Italy over the Alps and won major victories against Rome, including Cannae in 216 BCE.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/10907/10907-h/10907-h.htm",
+        "label": "Livy: History of Rome, Books 21–22"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 320 (title included): walk over the battlefield. Enan said, “Boys and freed slaves could never defeat Hannibal. Pera will require every man. Take me to him.” A gust of smoke made him sneeze. He stepped across a shabbily clothed corpse, and "
+  },
+  {
+    "id": "marcus-junius-pera",
+    "term": "Marcus Junius Pera",
+    "aliases": [],
+    "short": "Roman dictator appointed after the defeat at Cannae.",
+    "note": "Marcus Junius Pera was appointed dictator in 216 BCE after Cannae. Emergency measures under his command included enrolling thousands of slaves willing to fight.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/10907/10907-h/10907-h.htm",
+        "label": "Livy: History of Rome 22.57"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 318 (title included): He nodded, resigned yet frightened still. “Marcus Junius Pera will raise a new army. No one can say how.”"
+  },
+  {
+    "id": "placidaque-ibi-demum-morte-quievit",
+    "term": "Placidaque ibi demum morte quievit",
+    "aliases": [],
+    "short": "Virgil: “And there at last he rested in peaceful death.”",
+    "note": "Aeneid 9.445, describing the death of Nisus beside his companion Euryalus. Placida morte means peaceful death; demum means at last.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.thelatinlibrary.com/vergil/aen9.shtml",
+        "label": "Virgil: Aeneid 9.445"
+      }
+    ],
+    "evidence": "e9781429982498_c11.html source paragraph 321 (title included): Placidaque ibi demum morte quievit. “At last he found rest in peaceful death.” For we are ever most at peace where we are most sorely needed."
+  }
+]

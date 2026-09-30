@@ -1,0 +1,170 @@
+[
+  {
+    "id": "stegosaurus",
+    "term": "Stegosaurus",
+    "aliases": [
+      "stegosaurus",
+      "stegosaur"
+    ],
+    "short": "A plated, plant-eating Jurassic dinosaur.",
+    "note": "Stegosaurus was a large herbivorous dinosaur of the Late Jurassic, distinguished by upright bony back plates and spikes at the end of its tail. Its name means roof lizard.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nhm.ac.uk/discover/dino-directory/Stegosaurus.html",
+        "label": "Natural History Museum: Stegosaurus"
+      }
+    ],
+    "evidence": "e9781429982498_c13.html source paragraph 48 (title included): She deigned to glance at the book. “Stegosaurus. You see a lot of them. I mean there are vitamin tablets and toys and so forth. Didn’t you have a toy one?”"
+  },
+  {
+    "id": "jim-hawkins",
+    "term": "Jim Hawkins",
+    "aliases": [],
+    "short": "The young narrator of Treasure Island.",
+    "note": "Jim Hawkins is the boy at the center of Robert Louis Stevenson’s Treasure Island (1883), who sails with a treasure-hunting expedition and encounters the pirate Long John Silver.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/120",
+        "label": "Robert Louis Stevenson: Treasure Island"
+      }
+    ],
+    "evidence": "e9781429982498_c13.html source paragraph 95 (title included): ide already, grew wider still. “Bit off by a whale, and a yo-ho-ho to ye, young Jim Hawkins.”"
+  },
+  {
+    "id": "tiptree",
+    "term": "Tiptree",
+    "aliases": [],
+    "short": "James Tiptree Jr., the pen name of Alice B. Sheldon.",
+    "note": "Alice B. Sheldon (1915–1987) published science fiction as James Tiptree Jr. Her identity remained private for years, while her work became known for its treatment of gender and human encounters with the alien.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://csws-archive.uoregon.edu/tiptree-symposium-uo-libraries/",
+        "label": "University of Oregon: James Tiptree Jr. literary papers"
+      }
+    ],
+    "evidence": "e9781429982498_c13.html source paragraph 96 (title included): s mother said, and for some reason seemed almost unable to talk. “I—I mean it’s Tiptree, really. For the, you know, the writer. But she’s dead, and—and …”"
+  },
+  {
+    "id": "sotto-voce",
+    "term": "sotto voce",
+    "aliases": [],
+    "short": "In a low, quiet voice.",
+    "note": "Italian for under the voice. The expression describes subdued speech or singing, often an aside intended for only a few listeners.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/sotto-voce",
+        "label": "Collins English Dictionary: sotto voce"
+      }
+    ],
+    "evidence": "e9781429982498_c13.html source paragraph 194 (title included): “She’s real pretty,” Tippy reminded the pepper-mill man, sotto voce; impelled by his still-developing sense of honor, he added reluctantly, “She’s sort of crazy though.”"
+  },
+  {
+    "id": "velveteen-rabbit",
+    "term": "Velveteen Rabbit",
+    "aliases": [],
+    "short": "Margery Williams’s tale of a toy rabbit.",
+    "note": "The Velveteen Rabbit (1922), by Margery Williams, concerns a stuffed rabbit whose longing to become real is bound up with being loved by a child.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/ebooks/11757",
+        "label": "Margery Williams: The Velveteen Rabbit"
+      }
+    ],
+    "evidence": "e9781429982498_c13.html source paragraph 229 (title included): he kitchen would not and could not become a real dinosaur just because the Blue Velveteen Rabbit in that book had changed into a real rabbit. Real things could change into things in books, but book things could not, not ever, "
+  },
+  {
+    "id": "red-power-ranger",
+    "term": "Red Power Ranger",
+    "aliases": [],
+    "short": "The red-suited hero of the Power Rangers team.",
+    "note": "The original red-suited member of the television team in Mighty Morphin Power Rangers is Jason Lee Scott. Power Rangers combines martial-arts heroes with giant robotic vehicles.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://consumercare.hasbro.com/en-nz/product/power-rangers-retro-morphin-red-ranger-jason-fliphead-action-figure-inspired-by-mighty-morphin-toy-kids-ages-4-and-up/D023F6AF-1221-45D7-9FDF-382065D10DF9EC1",
+        "label": "Hasbro: Mighty Morphin Red Ranger Jason"
+      }
+    ],
+    "evidence": "e9781429982498_c13.html source paragraph 36 (title included): The whole backyard was gone, as he had expected, the toys huge now, the Red Power Ranger (still on its feet) at least twice his size."
+  },
+  {
+    "id": "spider-man",
+    "term": "Spider Man",
+    "aliases": [],
+    "short": "Marvel’s superhero Spider-Man.",
+    "note": "Spider-Man is the masked comic-book hero originally introduced as Peter Parker, a young man with spider-like abilities and mechanical web-shooters.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.marvel.com/characters/spider-man-peter-parker/in-comics",
+        "label": "Marvel: Spider-Man"
+      }
+    ],
+    "evidence": "e9781429982498_c13.html source paragraph 220 (title included): Beyond it sprawled Spider Man, and even more tempting, Luke Skywalker. Resolutely, Tippy passed them by."
+  },
+  {
+    "id": "luke-skywalker",
+    "term": "Luke Skywalker",
+    "aliases": [],
+    "short": "A central hero of the original Star Wars films.",
+    "note": "Luke Skywalker is the young hero who trains as a Jedi and joins the Rebel Alliance in the original Star Wars film trilogy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.starwars.com/databank/luke-skywalker",
+        "label": "Star Wars Databank: Luke Skywalker"
+      }
+    ],
+    "evidence": "e9781429982498_c13.html source paragraph 220 (title included): Beyond it sprawled Spider Man, and even more tempting, Luke Skywalker. Resolutely, Tippy passed them by."
+  },
+  {
+    "id": "scottie",
+    "term": "Scottie",
+    "aliases": [],
+    "short": "A Scottish terrier.",
+    "note": "Scottie is a familiar name for the Scottish terrier, a small, sturdy dog with short legs, erect ears, and a wiry coat.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.akc.org/dog-breeds/scottish-terrier/",
+        "label": "American Kennel Club: Scottish Terrier"
+      }
+    ],
+    "evidence": "e9781429982498_c13.html source paragraph 221 (title included): A Scottie as big as a mastiff lay nose-to-nose with a West Highland White, impelled by the magnets at their feet; although he thought he mi"
+  },
+  {
+    "id": "west-highland-white",
+    "term": "West Highland White",
+    "aliases": [],
+    "short": "The West Highland white terrier, or Westie.",
+    "note": "A small Scottish terrier breed with a white coat and erect ears, developed for hunting small animals.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.akc.org/dog-breeds/west-highland-white-terrier/",
+        "label": "American Kennel Club: West Highland White Terrier"
+      }
+    ],
+    "evidence": "e9781429982498_c13.html source paragraph 221 (title included): A Scottie as big as a mastiff lay nose-to-nose with a West Highland White, impelled by the magnets at their feet; although he thought he might have managed one such dog, they could not be separated, and "
+  },
+  {
+    "id": "batman-and-robin",
+    "term": "Batman and Robin",
+    "aliases": [],
+    "short": "DC’s masked crime-fighting partners.",
+    "note": "Batman is the crime-fighting identity of Bruce Wayne; Robin is the name used by his younger partner, first introduced as Dick Grayson. The pair are traditionally called the Dynamic Duo.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dc.com/characters/batman",
+        "label": "DC: Batman"
+      }
+    ],
+    "evidence": "e9781429982498_c13.html source paragraph 234 (title included): pepper-mill man came? She probably would, Tippy decided, but it seemed a shame. Batman and Robin waited under the bed, and there was a super-cool dragon in Walgreens. But a dinosaur—!"
+  }
+]

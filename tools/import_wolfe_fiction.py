@@ -1,6 +1,7 @@
-"""Build standalone readers from three supplied EPUBs; originals stay outside Git.
+"""Build standalone readers from supplied EPUBs; originals stay outside Git.
 
 Usage: python3 tools/import_wolfe_fiction.py --best PATH --endangered PATH --fifth-head PATH
+       python3 tools/import_wolfe_fiction.py --strange-travelers PATH
 Catalog and researched notes live in data/wolfe-fiction. The mislabeled Island
 EPUB is deliberately not an input. Anthology notes are separate reference sections.
 """
@@ -20,7 +21,7 @@ from import_earths_past import tag, txt, norm, save, inner, append_text
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'data/wolfe-fiction'
-EDITION = 15
+EDITION = 17
 
 
 def body(z, filename):
@@ -53,6 +54,9 @@ def clean(source, edition):
     if name == 'span':
         if cls in ('i','italic'): name = 'em'
         elif cls in ('b','b1'): name = 'strong'
+        # The source bolds a single opening letter solely as a drop capital.
+        if edition == 'strange-travelers' and cls == 'b' and re.fullmatch('[A-Z]',txt(source)):
+            name = 'span'
     if name == 'i': name = 'em'
     if name == 'b': name = 'strong'
     if edition == 'best' and (name == 'big' or name == 'div' and cls in ('calibre6','calibre_9','calibre_10')):
@@ -60,6 +64,9 @@ def clean(source, edition):
     if edition == 'endangered' and name == 'div':
         if cls in ('title-chapter','title-section'): name = 'h2'
         elif cls.startswith('p') and cls != 'p-blanc': name = 'p'
+    if edition == 'strange-travelers' and name == 'div':
+        if cls == 'title-section1': name = 'h2'
+        elif cls.startswith('p') or cls in ('verse','source','subtitle-chapter'): name = 'p'
     out = ET.Element(name)
     classes = []
     if tag(source)=='a' and '@' in txt(source):classes.append('source-address')
@@ -77,9 +84,19 @@ def clean(source, edition):
             if cls == 'p-d': classes.append('right')
             if cls in ('p-blocktext','p-c-br-blocktext'): classes.append('inset')
             if cls == 'p-c-br-blocktext': classes.append('center')
+        elif edition == 'strange-travelers':
+            if cls == 'p' or cls.endswith('-blocktext'): classes.append('noindent')
+            if cls == 'p-indent-blocktext': classes.append('source-letter-indent')
+            if cls in ('p-br-blocktext','verse'): classes.append('verse')
+            if cls in ('p-c-box','p-c-br-box'): classes.append('center')
+            if cls == 'verse': classes.append('epigraph')
+            if cls == 'source': classes.extend(('epigraph','right'))
+            if cls == 'subtitle-chapter': classes.extend(('source-subtitle','epigraph','center'))
         elif cls == 'calibre2': classes.append('center')
     if name == 'div' and cls in ('calibre_5','p-blanc'): classes.append('source-space')
     if name == 'div' and cls in ('blocktext','author-blocktext'): classes.append('blocktext')
+    if edition == 'strange-travelers' and name == 'div' and cls in ('blocktext','box'):
+        classes.append('source-'+cls)
     if edition == 'endangered' and cls in ('author-blocktext','illustype_fullpage_image'): classes.append('center')
     if name == 'sup' or cls == 'calibre14' and edition == 'best': out.tag = 'sup'
     if cls == 'calibre7' and edition == 'endangered': out.tag = 'sub'
@@ -116,6 +133,18 @@ def records_for(spec, archives):
             chapter = body(archives['endangered'],fn)[0]
             parts.append((fn,list(chapter)[1:] if i == 0 else list(chapter)))
         return [('story',spec['title'],'chapter','endangered',parts)]
+    if spec['source'] == 'strange-travelers':
+        filename=spec['files'][0]
+        chapter=next(e for e in body(archives['strange-travelers'],filename) if e.get('class')=='chapter')
+        items=list(chapter)
+        assert items[0].get('class')=='title-chapter'
+        main=trim(items[1:]);note=[]
+        if spec['id']=='the-death-of-koshchei-the-deathless':
+            assert norm(txt(main[-1])).startswith('[The preceding story is based upon')
+            note=[main.pop()]
+        records=[('story',spec['title'],'chapter','strange-travelers',[(filename,main)])]
+        if note:records.append(('author-note','Source note','reference','strange-travelers',[(filename,note)]))
+        return records
     a = body(archives['fifth-head'],'index_split_000.html')
     b = body(archives['fifth-head'],'index_split_001.html')
     c = body(archives['fifth-head'],'index_split_002.html')
@@ -227,6 +256,40 @@ def add_initial(tree, family):
         view=ET.Element('div');view.append(eligible[0]);common.initial(view,family)
 
 
+def format_strange_travelers(tree):
+    """Retain verse lines; turn the source's large prose gaps into real breaks."""
+    for parent in list(tree.iter()):
+        for paragraph in list(parent):
+            if paragraph.tag!='p':continue
+            breaks=[]
+            if not norm(paragraph.text or ''):
+                for child in paragraph:
+                    if child.tag!='br':break
+                    breaks.append(child)
+                    if norm(child.tail or ''):break
+            if len(breaks)<2:continue
+            # The first narrative paragraph after an epigraph has the same
+            # publisher spacing; it is an opening, rather than a scene change.
+            earlier=list(parent)[:list(parent).index(paragraph)]
+            preceding_prose=any(e.tag=='p' and 'epigraph' not in e.get('class','') and norm(txt(e)) for e in earlier)
+            for child in breaks:
+                paragraph.text=(paragraph.text or '')+(child.tail or '')
+                paragraph.remove(child)
+            if preceding_prose and norm(txt(paragraph)):
+                divider=ET.Element('div');ET.SubElement(divider,'span',{'class':'scene-divider'})
+                parent.insert(list(parent).index(paragraph),divider)
+    # Standalone BRs only pad block quotations in the publisher conversion;
+    # block margins provide that spacing without phantom text lines.
+    for parent in list(tree.iter()):
+        if parent.tag not in ('div',):continue
+        for child in list(parent):
+            if child.tag=='br':
+                index=list(parent).index(child)
+                if index:parent[index-1].tail=(parent[index-1].tail or '')+(child.tail or '')
+                else:parent.text=(parent.text or '')+(child.tail or '')
+                parent.remove(child)
+
+
 def static_page(title,content,nav,depth=2):
     common.EDITION=EDITION
     return common.static_page(title,content,nav,depth).replace('earths-past.css','wolfe-fiction.css')
@@ -258,6 +321,7 @@ def build(spec, archives, source_info):
                 e.set('src','../images/'+name);e.set('class','source-glyph')
                 e.set('alt','one third' if name=='00005.jpg' else 'square')
         mark_epigraphs(tree,cid,source,slug)
+        if source=='strange-travelers':format_strange_travelers(tree)
         if kind!='reference':format_transcript(tree,slug)
         if slug=='the-woman-who-loved-the-centaur-pholus':
             for e in tree.iter('p'):
@@ -317,6 +381,11 @@ def build(spec, archives, source_info):
         integrity.append(dict(chapter=cid,source=source,files=[f for f,items in parts],sourceTextSha256=source_hash,textSha256=hashlib.sha256(norm(txt(tree)).encode()).hexdigest(),blocks=len(blocks)))
         if kind!='reference':
             add_initial(tree,spec['initial'])
+            if source=='strange-travelers':
+                opening=next((e for e in tree.iter('p') if 'chapter-opening' in e.get('class','')),None)
+                if opening is not None and (opening.text or '').strip() in ('“','‘','"'):
+                    quote=ET.Element('span',{'class':'opening-quote'});quote.text=opening.text
+                    opening.text='';opening.insert(0,quote)
             decorate(tree,slug,tailpiece=not any('scene-divider' in e.get('class','') for e in tree.iter()))
     entries_path=DATA/(slug+'.json');entries=json.loads(entries_path.read_text()) if entries_path.exists() else []
     counts,first=Counter(),{}
@@ -355,12 +424,18 @@ def build(spec, archives, source_info):
     template=re.sub(r'<nav aria-label="Books" class="series-switch">.*?</nav>','',template)
     template=template.replace('chapters/blue-prelude.html','chapters/'+records[0]['id']+'.html')
     template=re.sub(r'\?v=\d+',f'?v={EDITION}',template)
-    template=template.replace('</head>',f'<link rel="stylesheet" href="../assets/wolfe-fiction.css?v={EDITION}"></head>')
+    template=template.replace('</head>',f'<link rel="stylesheet" href="../assets/wolfe-fiction.css?v={EDITION}"><link rel="canonical" href="https://jehlp.net/readers/{slug}/"></head>')
     start,end=template.index('<article'),template.index('</article>')
     chunk=template[start:end].replace('src="../../assets/','src="../assets/').replace('src="../images/','src="images/')
     template=template[:start]+chunk+template[end:]
     (dest/'index.html').write_text(template)
-    links='<ol>'+''.join(f'<li><a href="chapters/{r["id"]}.html">{html.escape(r["title"])}</a></li>' for r in records)+'</ol>'
+    links='<ul class="fiction-contents">'
+    for r in records:
+        links+=f'<li><a href="chapters/{r["id"]}.html">{html.escape(r["title"])}</a>'
+        if r['sections']:
+            links+='<ul>'+''.join(f'<li><a href="chapters/{r["id"]}.html#{section["paragraph"]}">{html.escape(section["title"])}</a></li>' for section in r['sections'])+'</ul>'
+        links+='</li>'
+    links+='</ul>'
     (dest/'contents.html').write_text(static_page(title,links,'<a href="../">Readers</a><a href="index.html">Reader</a>',depth=1))
     save(DATA/(slug+'-integrity.json'),dict(book=slug,sourceFiles={s:source_info[s] for s in set(x['source'] for x in integrity)},chapters=integrity,corrections=corrections,unmatchedGlossaryEntries=missing,notePolicy='External referents only. Supplied afterwords are separate reference sections.'))
     print(slug,len(glossary),'notes;',total,'words;', 'unmatched '+str(missing) if missing else '')
@@ -385,18 +460,41 @@ def library_page(library):
 
 def main():
     p=argparse.ArgumentParser()
-    for key in ('best','endangered','fifth-head'):p.add_argument('--'+key,required=True,type=Path)
-    args=p.parse_args();paths={'best':args.best,'endangered':args.endangered,'fifth-head':args.fifth_head}
+    for key in ('best','endangered','fifth-head','strange-travelers'):p.add_argument('--'+key,type=Path)
+    p.add_argument('--only',action='append',help='Build only this catalog slug; repeat as needed.')
+    args=p.parse_args();paths={k:getattr(args,k.replace('-','_')) for k in ('best','endangered','fifth-head','strange-travelers') if getattr(args,k.replace('-','_'))}
+    if not paths:p.error('Supply at least one source EPUB.')
+    if 'fifth-head' in paths and 'best' not in paths:p.error('--fifth-head also needs --best for its duplicate novella and afterword.')
     archives={k:ZipFile(v) for k,v in paths.items()}
     source_info={k:{'file':v.name,'sha256':hashlib.sha256(v.read_bytes()).hexdigest()} for k,v in paths.items()}
     catalog=json.loads((DATA/'catalog.json').read_text())
-    additions=[build(s,archives,source_info) for s in catalog]
+    selected=[s for s in catalog if s['source'] in paths and (not args.only or s['id'] in args.only)]
+    if args.only and set(args.only)-{s['id'] for s in selected}:p.error('--only contains a slug not available in the supplied sources.')
+    from reader_ornaments import generate
+    generate()
+    additions=[build(s,archives,source_info) for s in selected]
     library=json.loads((ROOT/'library.json').read_text());ids={x['id'] for x in additions}
     existing=[b for b in library if b['id'] not in ids]
-    library=[b for b in existing if b['author']=='Gene Wolfe']+additions+[b for b in existing if b['author']!='Gene Wolfe']
+    wolfe=[b for b in existing if b['author']=='Gene Wolfe']+additions
+    books=[b for b in wolfe if b.get('kind')!='story']
+    stories=sorted((b for b in wolfe if b.get('kind')=='story'),key=lambda b:re.sub(r'^(?:The |An? )','',b['title']).casefold())
+    library=books+stories+[b for b in existing if b['author']!='Gene Wolfe']
     save(ROOT/'library.json',library);library_page(library)
     from editorial import apply
     apply(ids)
+    # Repairs can reveal additional occurrences of corrected names and words.
+    # Recount against the displayed text so a source rebuild matches maintenance.
+    from rebuild_annotations import build as rebuild_notes
+    library=json.loads((ROOT/'library.json').read_text())
+    for slug in sorted(ids):
+        if not (DATA/(slug+'.json')).exists():continue
+        count=rebuild_notes(slug)
+        for book in library:
+            if book['id']==slug:book['glossaryCount']=count
+        report_path=DATA/(slug+'-integrity.json')
+        report=json.loads(report_path.read_text());report['unmatchedGlossaryEntries']=[]
+        save(report_path,report)
+    save(ROOT/'library.json',library)
 
 
 if __name__=='__main__':main()

@@ -1,0 +1,87 @@
+{
+  "book": "queen-of-the-night",
+  "sourceFiles": {
+    "strange-travelers": {
+      "file": "_OceanofPDF.com_Strange_Travelers_-_Gene_Wolfe.epub",
+      "sha256": "8435977934b6231eb25fdb7432c092cf2bc33dcec5d688c4497c225295b58f35"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "strange-travelers",
+      "files": [
+        "OEBPS/e9781429982498_c08.html"
+      ],
+      "sourceTextSha256": "ffc817327535d00d8b76c7d30851efc88f0ad61b4031da1e9e318983f588cfea",
+      "textSha256": "d30aedd1f8a567248fd0a970b383a778834e65e12494ca3612d4b3d3ae17aba4",
+      "blocks": 176,
+      "preEditorialTextSha256": "ffc817327535d00d8b76c7d30851efc88f0ad61b4031da1e9e318983f588cfea"
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "queen-of-the-night",
+      "chapter": "story",
+      "paragraph": "p-011",
+      "before": "new-drug graves",
+      "after": "new-dug graves",
+      "reason": "Transposed letters in the familiar adjective new-dug for freshly excavated graves.",
+      "confidence": "high",
+      "id": "v17-strange-b001"
+    },
+    {
+      "book": "queen-of-the-night",
+      "chapter": "story",
+      "paragraph": "p-018",
+      "before": "Eeesheea said",
+      "after": "Eeesheeea said",
+      "reason": "A single missing e in the name consistently spelled Eeesheeea elsewhere.",
+      "confidence": "high",
+      "id": "v17-strange-b002"
+    },
+    {
+      "book": "queen-of-the-night",
+      "chapter": "story",
+      "paragraph": "p-053",
+      "before": "horses’s hooves",
+      "after": "horses’ hooves",
+      "reason": "Plural possessive punctuation for the horses pulling the coach.",
+      "confidence": "high",
+      "id": "v17-strange-b003"
+    },
+    {
+      "book": "queen-of-the-night",
+      "chapter": "story",
+      "paragraph": "p-093",
+      "before": "Beetheeeor",
+      "after": "Beeetheeeor",
+      "reason": "A single missing e in the name consistently spelled Beeetheeeor elsewhere.",
+      "confidence": "high",
+      "id": "v17-strange-b004"
+    },
+    {
+      "book": "queen-of-the-night",
+      "chapter": "story",
+      "paragraph": "p-143",
+      "before": "“I did?,”",
+      "after": "“I did?”",
+      "reason": "Extraneous comma after question mark inside dialogue.",
+      "confidence": "high",
+      "id": "v17-strange-b005"
+    },
+    {
+      "book": "queen-of-the-night",
+      "chapter": "story",
+      "paragraph": "p-172",
+      "before": "waiting for here",
+      "after": "waiting for her",
+      "reason": "The sentence refers to the woman he waits for; here is an accidental extra letter.",
+      "confidence": "high",
+      "id": "v17-strange-b006"
+    }
+  ]
+}

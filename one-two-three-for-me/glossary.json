@@ -1,0 +1,22 @@
+[
+  {
+    "id": "naifs",
+    "term": "naifs",
+    "aliases": [],
+    "short": "Naive or inexperienced people.",
+    "note": "A naïf is someone innocent, inexperienced, or lacking worldly sophistication. The word is borrowed from French; naïfs is its plural.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/naif",
+        "label": "Collins · naïf"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-019",
+      "index": 0
+    }
+  }
+]

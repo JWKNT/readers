@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ghouls",
+    "term": "ghouls",
+    "aliases": [],
+    "short": "Corpse-eating demons of Arabic folklore.",
+    "note": "A ghoul is a monstrous being associated with graves and eating human flesh. The word comes from Arabic ghūl.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ghoul",
+        "label": "Merriam-Webster: ghoul"
+      }
+    ],
+    "evidence": "e9781429982498_c08.html source paragraph 2 (title included): “QUEEN OF THE NIGHT,” THE ghouls called her, more frequently, “Her Highness.” Because they referred to meat in the state they preferred as “high,” the usage had c"
+  },
+  {
+    "id": "kirtle",
+    "term": "kirtle",
+    "aliases": [],
+    "short": "An old-fashioned gown or tunic.",
+    "note": "A garment worn in medieval and later dress: either a tunic or a woman’s gown. Kirtle can also mean a skirt.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/kirtle",
+        "label": "Merriam-Webster: kirtle"
+      }
+    ],
+    "evidence": "e9781429982498_c08.html source paragraph 11 (title included): they feasted in clothing furnished by their meat: the dead wife’s parti-colored kirtle (fouled now by groundwater and the ichors of decay) beneath her husband’s rotted coat."
+  },
+  {
+    "id": "ichors",
+    "term": "ichors",
+    "aliases": [],
+    "short": "Watery or foul bodily discharges.",
+    "note": "Ichor means a thin discharge from a wound; in ancient Greek mythology it is the fluid that flows in divine veins instead of mortal blood.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ichor",
+        "label": "Merriam-Webster: ichor"
+      }
+    ],
+    "evidence": "e9781429982498_c08.html source paragraph 11 (title included): r meat: the dead wife’s parti-colored kirtle (fouled now by groundwater and the ichors of decay) beneath her husband’s rotted coat."
+  },
+  {
+    "id": "the-oracles-are-dumb",
+    "term": "The oracles are dumb",
+    "aliases": [],
+    "short": "A line from Milton’s Nativity ode.",
+    "note": "John Milton’s On the Morning of Christ’s Nativity, stanza XIX, imagines the pagan oracles falling silent at Christ’s birth. The following lines name Apollo and Delphi.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://milton.host.dartmouth.edu/reading_room/nativity/text.shtml",
+        "label": "Dartmouth: Milton, On the Morning of Christ’s Nativity"
+      }
+    ],
+    "evidence": "e9781429982498_c08.html source paragraph 16 (title included): The oracles are dumb, No voice or hideous hum Runs through the archèd roof in words deceiving: Apollo from his shrine Can no more divine With hollow s"
+  },
+  {
+    "id": "apollo",
+    "term": "Apollo",
+    "aliases": [],
+    "short": "Greek god of prophecy, music, and archery.",
+    "note": "Apollo is an Olympian god associated with prophecy, music, healing, and archery. His sanctuary at Delphi housed the oracle whose priestess was called the Pythia.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Olympios/Apollon.html",
+        "label": "Theoi: Apollo and ancient sources"
+      }
+    ],
+    "evidence": "e9781429982498_c08.html source paragraph 16 (title included):  dumb, No voice or hideous hum Runs through the archèd roof in words deceiving: Apollo from his shrine Can no more divine With hollow shriek the steep of Delphos leaving. No trace or breathèd spell Inspires the pale-"
+  },
+  {
+    "id": "delphos",
+    "term": "Delphos",
+    "aliases": [],
+    "short": "An older form of Delphi.",
+    "note": "Delphi is the ancient Greek sanctuary of Apollo on Mount Parnassus, famous for the oracle delivered by the Pythia. Delphos is an older English form of its name.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://whc.unesco.org/en/list/393/",
+        "label": "UNESCO: Archaeological Site of Delphi"
+      }
+    ],
+    "evidence": "e9781429982498_c08.html source paragraph 16 (title included): ving: Apollo from his shrine Can no more divine With hollow shriek the steep of Delphos leaving. No trace or breathèd spell Inspires the pale-eyed priest from the prophetic cell."
+  },
+  {
+    "id": "byre",
+    "term": "byre",
+    "aliases": [],
+    "short": "A cowshed.",
+    "note": "A chiefly British word for a shelter or barn for cattle.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/byre",
+        "label": "Merriam-Webster: byre"
+      }
+    ],
+    "evidence": "e9781429982498_c08.html source paragraph 24 (title included): r, his wife, and their son, beating pans and calling out: “No horse, no cow, no byre, no barn. But warn ye fair, ’twill soon be morn!” Three times they marched sunwise around the cottage repeating this, their freez"
+  },
+  {
+    "id": "sunwise",
+    "term": "sunwise",
+    "aliases": [],
+    "short": "Clockwise, following the sun’s apparent course.",
+    "note": "Moving in the direction conventionally associated with the sun’s daily passage; clockwise.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/sunwise",
+        "label": "Collins English Dictionary: sunwise"
+      }
+    ],
+    "evidence": "e9781429982498_c08.html source paragraph 24 (title included): byre, no barn. But warn ye fair, ’twill soon be morn!” Three times they marched sunwise around the cottage repeating this, their freezing breath a ghostly herald in the moonlight. Then the wife put a bowl of milk upon"
+  },
+  {
+    "id": "black-letter",
+    "term": "black-letter",
+    "aliases": [],
+    "short": "The dense Gothic style of lettering.",
+    "note": "A style of manuscript lettering and type with heavy strokes and angular forms, also called Gothic script.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/black-letter",
+        "label": "Merriam-Webster: black-letter"
+      }
+    ],
+    "evidence": "e9781429982498_c08.html source paragraph 31 (title included): re man with a long sad face, climbed into the loft as well, with a tattered old black-letter Bible in one hand. “An ouph, Maria? With a red cap?”"
+  },
+  {
+    "id": "ouph",
+    "term": "ouph",
+    "aliases": [],
+    "short": "An elf or goblin.",
+    "note": "An older spelling of ouphe: an elf, sprite, or goblin. The form appears in Shakespeare.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ouph",
+        "label": "Merriam-Webster: ouph"
+      }
+    ],
+    "evidence": "e9781429982498_c08.html source paragraph 31 (title included):  into the loft as well, with a tattered old black-letter Bible in one hand. “An ouph, Maria? With a red cap?”"
+  },
+  {
+    "id": "cauld-lad",
+    "term": "cauld lad",
+    "aliases": [],
+    "short": "Possibly the Cauld Lad of Hylton, a household spirit.",
+    "note": "Possibly the Cauld Lad of Hylton, a spirit in northern English folklore who performs household work and leaves after receiving clothing. Cauld is a northern and Scots form of cold.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://sacred-texts.com/neu/eng/efft/efft37.htm",
+        "label": "Edwin Sidney Hartland: The Cauld Lad of Hilton"
+      }
+    ],
+    "evidence": "e9781429982498_c08.html source paragraph 42 (title included): “A cauld lad.” The caretaker shivered himself. “They start fires, they say. That must have been what he was trying to do. You have to leave th"
+  },
+  {
+    "id": "aureole",
+    "term": "aureole",
+    "aliases": [],
+    "short": "A halo or ring of radiance.",
+    "note": "A luminous ring such as the halo surrounding a sacred figure; also a halo-like outline of hair.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/aureole",
+        "label": "Merriam-Webster: aureole"
+      }
+    ],
+    "evidence": "e9781429982498_c08.html source paragraph 64 (title included): was of hair; it was black, and he had never seen a woman with so much, a somber aureole about her lined and bloodless face that stirred as if in a wind, though no wind blew."
+  },
+  {
+    "id": "cresset",
+    "term": "cresset",
+    "aliases": [],
+    "short": "A metal basket or vessel used as a torch.",
+    "note": "An open metal container in which oil, pitch, or other fuel burns to provide light, often raised on a pole.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cresset",
+        "label": "Merriam-Webster: cresset"
+      }
+    ],
+    "evidence": "e9781429982498_c08.html source paragraph 109 (title included): d he, swifter than the wind, would gallop before her to see that every lamp and cresset blazed, and that the servants had begun their dinner."
+  },
+  {
+    "id": "for-the-blood-is-the-life",
+    "term": "For the blood is the life",
+    "aliases": [],
+    "short": "A phrase from Deuteronomy 12:23.",
+    "note": "Deuteronomy 12:23 identifies blood with life in its prohibition on eating blood. The familiar English wording comes from the King James translation.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://bible.usccb.org/bible/deuteronomy/12",
+        "label": "USCCB: Deuteronomy 12:23"
+      }
+    ],
+    "evidence": "e9781429982498_c08.html source paragraph 123 (title included): ody rose from the bloodsoaked sheet, bright as morning and white as alabaster. “For the blood is the life,” she said."
+  },
+  {
+    "id": "tester",
+    "term": "tester",
+    "aliases": [],
+    "short": "The canopy over a bed.",
+    "note": "A canopy supported above a bed, often by its bedposts. The word ultimately comes from Latin testa, head.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/tester",
+        "label": "Collins English Dictionary: tester"
+      }
+    ],
+    "evidence": "e9781429982498_c08.html source paragraph 125 (title included):  burning silently at its corners and never burning down, and the soft, stirring tester of bats overhead, bats who sometimes left their places to flutter aimlessly about the room or dart behind the drapes, never to be"
+  },
+  {
+    "id": "schloss",
+    "term": "schloss",
+    "aliases": [],
+    "short": "German: castle or palace.",
+    "note": "A German noun for a castle, palace, or grand country residence.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.larousse.com/en/dictionaries/german-english/Schloss/36627",
+        "label": "Larousse German–English Dictionary: Schloss"
+      }
+    ],
+    "evidence": "e9781429982498_c08.html source paragraph 147 (title included): na the caretaker’s wife went to the window. “Johann! It’s the carriage from the schloss.”"
+  }
+]

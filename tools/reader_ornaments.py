@@ -297,6 +297,52 @@ MOTIFS.update({
     star(31,8,4)+path('M34 5L42 2M35 9L46 6M15 45L10 48M46 44L51 47',width=.7),
 })
 
+# Strange Travelers: distinct drawings for roads, folklore, music, language,
+# domestic miniatures and architecture, rather than anthology-wide decoration.
+MOTIFS.update({
+ 'bluesberry-jam':
+    path('M12 47L22 5M48 47L38 5M29 42V34M30 26V19M30 12V8',width=1.2)+
+    circle(30,30,10)+path('M25 23L39 9L43 13L29 27M22 34L27 39M38 10L43 15',width=1.4)+dot(30,30,2),
+ 'one-two-three-for-me':
+    path('M10 43V10M19 43V10M28 43V10M7 35L32 19',width=1.7)+
+    path('M40 45V19L45 10L50 19V45M40 24H50M38 46H52',width=1.2)+dot(45,15,1),
+ 'counting-cats-in-zanzibar':
+    path('M19 32L16 18L26 24L36 18L34 33Q40 43 27 44Q16 44 19 32M24 31H26M30 31H32M8 43Q1 31 10 30Q17 30 12 38',width=1.3)+
+    path('M43 45V14M38 15L43 7L48 15ZM39 19H47M39 26H47M39 33H47',width=1.1)+star(15,10,3),
+ 'the-death-of-koshchei-the-deathless':
+    path('M30 8C15 24 17 40 30 43C43 40 45 24 30 8ZM30 14V39M25 45H35',width=1.2)+
+    path('M4 28Q11 18 20 23M40 23Q49 18 56 28M5 28L13 26M55 28L47 26',width=1.1)+
+    path('M26 23L34 30M26 30L34 23',width=.8),
+ 'no-planets-strike':
+    star(30,10,5)+path('M15 20Q8 28 13 38Q17 44 25 43M45 20Q52 28 47 38Q43 44 35 43M12 36Q7 43 7 47M48 36Q53 43 53 47',width=1.2)+
+    path('M24 24L30 20L36 24V43H24ZM21 46H39M28 27H32M28 32H32',width=1.25),
+ 'to-the-seventh':
+    path('M19 43H42M21 39H40L36 30V22L42 17L36 10L27 7L27 14L18 22L21 27L28 23V31ZM21 47H40',width=1.3)+
+    path('M8 12V44M5 20H11M5 28H11M5 36H11M48 10V40M45 17H51M45 25H51M45 33H51',width=.8)+dot(31,17,1),
+ 'queen-of-the-night':
+    crescent(30,27,16)+path('M19 13L17 5L25 9L30 3L35 9L43 5L41 13M23 16H38',width=1.2)+
+    star(45,34,4)+dot(47,21,1)+dot(14,42,1),
+ 'flash-company':
+    path('M9 22H51V43H9ZM9 28H51M15 29V42M21 29V42M27 29V42M33 29V42M39 29V42M45 29V42M9 47H51',width=1.2)+
+    path('M12 29V36H18V29M24 29V36H30V29M36 29V36H42V29','black',.5)+
+    path('M30 20C15 14 15 5 22 7C27 9 28 16 30 20C32 16 33 9 38 7C45 5 45 14 30 20M30 19L25 25M30 19L35 25',width=1.2),
+ 'the-haunted-boardinghouse':
+    path('M11 45V20L30 7L49 20V45ZM8 45H52M20 25H25V31H20ZM35 25H40V31H35ZM26 45V36H34V45M29 15H31',width=1.2)+
+    path('M40 17C34 13 38 4 43 5C48 7 42 10 46 13L43 12L40 17Z',width=1)+dot(29,39,1),
+ 'useful-phrases':
+    book()+path('M19 7Q14 5 16 2M41 7Q46 5 44 2M30 12V4M27 5L30 2L33 5',width=1)+
+    path('M14 29H24M36 29H46M19 46H41',width=.8)+dot(30,47,1.4),
+ 'the-man-in-the-pepper-mill':
+    path('M23 11Q30 5 37 11L36 17H24ZM24 20H36Q32 29 36 38L40 43H20L24 38Q28 29 24 20ZM20 47H40M30 8V4M26 4H34M24 35H36',width=1.25)+
+    path('M7 30L13 24L19 30M10 29V39H16V29M43 32L49 26L55 32M46 31V41H52V31',width=.85),
+ 'the-ziggurat':
+    path('M6 46V39H14V30H22V21H26V12H34V21H38V30H46V39H54V46ZM6 42H54M14 34H46M22 25H38M30 15V20',width=1.2)+
+    star(13,13,4)+star(47,18,3)+dot(38,6,1),
+ 'aint-you-most-done':
+    path('M11 38H49L43 45H17ZM30 37V7M30 9L44 29H32M26 14L15 30H27M8 48H52',width=1.2)+
+    path('M9 7L18 7M13 5V10M48 12V24M48 13L54 11V22',width=1)+dot(45,25,2)+dot(51,23,2)+waves(35),
+})
+
 def generate(root=ROOT):
     catalog = json.loads((root / 'data/wolfe-fiction/catalog.json').read_text())
     titles = {entry['id']: entry['title'] for entry in catalog}

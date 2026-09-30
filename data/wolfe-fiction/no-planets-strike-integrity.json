@@ -1,0 +1,24 @@
+{
+  "book": "no-planets-strike",
+  "sourceFiles": {
+    "strange-travelers": {
+      "file": "_OceanofPDF.com_Strange_Travelers_-_Gene_Wolfe.epub",
+      "sha256": "8435977934b6231eb25fdb7432c092cf2bc33dcec5d688c4497c225295b58f35"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "strange-travelers",
+      "files": [
+        "OEBPS/e9781429982498_c05.html"
+      ],
+      "sourceTextSha256": "90bf11913c0e42257c00cdd7b2f3422dab610f3d9e5978bb7afa9aafef10819f",
+      "textSha256": "90bf11913c0e42257c00cdd7b2f3422dab610f3d9e5978bb7afa9aafef10819f",
+      "blocks": 58
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections."
+}

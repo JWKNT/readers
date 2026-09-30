@@ -1,0 +1,245 @@
+[
+  {
+    "id": "flash-company-song",
+    "term": "Flash company",
+    "aliases": [
+      "flash company",
+      "FLASH COMPANY"
+    ],
+    "short": "A traditional song also called The Yellow Handkerchief.",
+    "note": "Flash Company is a traditional song about love, dissipation, and lost prosperity, also known as The Yellow Handkerchief. It is catalogued as Roud 954.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://balladindex.org/Ballads/K360.html",
+        "label": "The Traditional Ballad Index: The Yellow Handkerchief"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "story",
+      "paragraph": "chapter-title",
+      "index": 0
+    }
+  },
+  {
+    "id": "gladstone",
+    "term": "gladstone",
+    "aliases": [],
+    "short": "A hinged traveling bag named after W. E. Gladstone.",
+    "note": "A Gladstone bag is a small suitcase that opens into two equal compartments. It was named for the British statesman William Ewart Gladstone.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/us/dictionary/english/gladstone-bag",
+        "label": "Collins English Dictionary: Gladstone bag"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-011",
+      "index": 0
+    }
+  },
+  {
+    "id": "jack-monroe",
+    "term": "Jack Monroe",
+    "aliases": [],
+    "short": "The sailor’s name in a traditional disguised-woman ballad.",
+    "note": "Jack Monroe, also called Jack-A-Roe and Jack the Sailor, is a traditional ballad in which a woman goes to sea in male disguise to find her lover. Its variants circulated in Britain and North America.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://folkways-media.si.edu/docs/folkways/artwork/FLG00003-LP.pdf",
+        "label": "Smithsonian Folkways: Edna Ritchie, ballad liner notes"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-019",
+      "index": 0
+    }
+  },
+  {
+    "id": "aeolian-harp",
+    "term": "aeolian harp",
+    "aliases": [],
+    "short": "A stringed instrument played by the wind.",
+    "note": "An aeolian harp sounds when moving air excites its stretched strings. The name refers to Aeolus, the keeper or ruler of winds in Greek mythology.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/504989",
+        "label": "Metropolitan Museum of Art: Aeolian Harp"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-023",
+      "index": 0
+    }
+  },
+  {
+    "id": "topgallant-yard",
+    "term": "topgallant yard",
+    "aliases": [],
+    "short": "The spar carrying a sail above the topsail.",
+    "note": "A yard is a horizontal spar supporting a square sail. The topgallant is the mast or sail section above the topmast and topsail.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/topgallant",
+        "label": "Merriam-Webster: topgallant"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-024",
+      "index": 0
+    }
+  },
+  {
+    "id": "forestay",
+    "term": "forestay",
+    "aliases": [],
+    "short": "A forward-running support for a ship’s foremast.",
+    "note": "A fixed rope or cable running from the foremast toward the bow, supporting the mast from the front.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/forestay",
+        "label": "Merriam-Webster: forestay"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-024",
+      "index": 0
+    }
+  },
+  {
+    "id": "tackle-blocks",
+    "term": "tackle blocks",
+    "aliases": [],
+    "short": "The pulley housings in rope tackle.",
+    "note": "A block holds one or more pulley wheels through which a rope passes. Connected blocks and rope make tackle for lifting or hauling.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/block",
+        "label": "Merriam-Webster: block"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-024",
+      "index": 0
+    }
+  },
+  {
+    "id": "oh-susanna",
+    "term": "Oh, Susanna!",
+    "aliases": [],
+    "short": "Stephen Foster’s well-known song, published in 1848.",
+    "note": "Stephen Foster’s Oh! Susanna is an American popular song first published in 1848. Its refrain follows a banjo-playing traveler setting out from Alabama.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.loc.gov/item/2023800745/",
+        "label": "Library of Congress: Oh Susanna! (1848)"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-034",
+      "index": 0
+    }
+  },
+  {
+    "id": "etudes",
+    "term": "etudes",
+    "aliases": [],
+    "short": "Musical studies for practicing a particular technique.",
+    "note": "From French étude, study. An étude is a composition designed to develop instrumental skill; many are also performed as concert pieces.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/etude",
+        "label": "Merriam-Webster: etude"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-043",
+      "index": 0
+    }
+  },
+  {
+    "id": "pan",
+    "term": "Pan",
+    "aliases": [],
+    "short": "The goat-footed Greek god of shepherds and wild places.",
+    "note": "Pan is a rustic Greek god associated with flocks, shepherds, mountains, and woodland. He is traditionally shown with goat’s horns and legs and plays a set of reed pipes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Georgikos/Pan.html",
+        "label": "Theoi: Pan and ancient sources"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-054",
+      "index": 0
+    }
+  },
+  {
+    "id": "isca",
+    "term": "Isca",
+    "aliases": [],
+    "short": "Possibly Iscah, a biblical name connected with seeing.",
+    "note": "Possibly a form of Iscah, named in Genesis 11:29 as Haran’s daughter. Traditional explanations connect the name with a root meaning to see or watch; the precise etymology is uncertain.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.blueletterbible.org/lexicon/h3252/nkjv/wlc/0-1/",
+        "label": "Strong’s and Brown–Driver–Briggs: Iscah"
+      }
+    ],
+    "occurrences": 14,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-011",
+      "index": 0
+    }
+  },
+  {
+    "id": "nelsonian-seventy-four",
+    "term": "Nelsonian seventy-four",
+    "aliases": [],
+    "short": "A 74-gun warship of Admiral Nelson’s era.",
+    "note": "A seventy-four was a sailing ship of the line mounting 74 guns. Horatio Nelson (1758–1805), the British admiral, commanded the 74-gun Vanguard at the Battle of the Nile in 1798.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-12007",
+        "label": "Royal Museums Greenwich: The Battle of the Nile, 1798"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-024",
+      "index": 0
+    }
+  }
+]

@@ -1,0 +1,137 @@
+{
+  "book": "the-ziggurat",
+  "sourceFiles": {
+    "strange-travelers": {
+      "file": "_OceanofPDF.com_Strange_Travelers_-_Gene_Wolfe.epub",
+      "sha256": "8435977934b6231eb25fdb7432c092cf2bc33dcec5d688c4497c225295b58f35"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "strange-travelers",
+      "files": [
+        "OEBPS/e9781429982498_c14.html"
+      ],
+      "sourceTextSha256": "eaff058cdb672c227fc54d36089aa0b7f8ed22ada936897ccabb21e92fb40bcf",
+      "textSha256": "39ddae0dce52cbe1b4606460b485dadc278b080927f1106641d782ff8929aec1",
+      "blocks": 920,
+      "preEditorialTextSha256": "eaff058cdb672c227fc54d36089aa0b7f8ed22ada936897ccabb21e92fb40bcf"
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-ziggurat",
+      "chapter": "story",
+      "paragraph": "p-023",
+      "before": "ankledeep",
+      "after": "ankle-deep",
+      "reason": "Restore the missing hyphen in the compound adjective.",
+      "confidence": "high",
+      "id": "v17-strange-c001"
+    },
+    {
+      "book": "the-ziggurat",
+      "chapter": "story",
+      "paragraph": "p-074",
+      "before": "bluemink",
+      "after": "blue-mink",
+      "reason": "Separate a fused color/material compound modifying pillbox hat.",
+      "confidence": "high",
+      "id": "v17-strange-c002"
+    },
+    {
+      "book": "the-ziggurat",
+      "chapter": "story",
+      "paragraph": "p-149",
+      "before": "sheriffs office",
+      "after": "sheriff’s office",
+      "reason": "Restore the singular possessive apostrophe.",
+      "confidence": "high",
+      "id": "v17-strange-c003"
+    },
+    {
+      "book": "the-ziggurat",
+      "chapter": "story",
+      "paragraph": "p-157",
+      "before": "sheriffs office",
+      "after": "sheriff’s office",
+      "reason": "Restore the singular possessive apostrophe.",
+      "confidence": "high",
+      "id": "v17-strange-c004"
+    },
+    {
+      "book": "the-ziggurat",
+      "chapter": "story",
+      "paragraph": "p-213",
+      "before": "shinhigh",
+      "after": "shin-high",
+      "reason": "Restore the missing hyphen in the compound adjective.",
+      "confidence": "high",
+      "id": "v17-strange-c005"
+    },
+    {
+      "book": "the-ziggurat",
+      "chapter": "story",
+      "paragraph": "p-667",
+      "before": "sheriffs number",
+      "after": "sheriff’s number",
+      "reason": "Restore the singular possessive apostrophe.",
+      "confidence": "high",
+      "id": "v17-strange-c006"
+    },
+    {
+      "book": "the-ziggurat",
+      "chapter": "story",
+      "paragraph": "p-743",
+      "before": "showshoes",
+      "after": "snowshoes",
+      "reason": "The surrounding passages consistently identify the footwear as snowshoes; this is a letter substitution.",
+      "confidence": "high",
+      "id": "v17-strange-c007"
+    },
+    {
+      "book": "the-ziggurat",
+      "chapter": "story",
+      "paragraph": "p-780",
+      "before": "sheriffs investigator",
+      "after": "sheriff’s investigator",
+      "reason": "Restore the singular possessive apostrophe.",
+      "confidence": "high",
+      "id": "v17-strange-c008"
+    },
+    {
+      "book": "the-ziggurat",
+      "chapter": "story",
+      "paragraph": "p-811",
+      "before": "that he if talked",
+      "after": "that if he talked",
+      "reason": "Transpose the accidentally reversed words to restore the conditional clause.",
+      "confidence": "high",
+      "id": "v17-strange-c009"
+    },
+    {
+      "book": "the-ziggurat",
+      "chapter": "story",
+      "paragraph": "p-839",
+      "before": "closer to the skin that I think",
+      "after": "closer to the skin than I think",
+      "reason": "Restore than in the comparative construction.",
+      "confidence": "high",
+      "id": "v17-strange-c010"
+    },
+    {
+      "book": "the-ziggurat",
+      "chapter": "story",
+      "paragraph": "p-880",
+      "before": "sheriffs concerned",
+      "after": "sheriff’s concerned",
+      "reason": "Restore the apostrophe in the contraction sheriff is.",
+      "confidence": "high",
+      "id": "v17-strange-c011"
+    }
+  ]
+}

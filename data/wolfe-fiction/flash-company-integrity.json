@@ -1,0 +1,67 @@
+{
+  "book": "flash-company",
+  "sourceFiles": {
+    "strange-travelers": {
+      "file": "_OceanofPDF.com_Strange_Travelers_-_Gene_Wolfe.epub",
+      "sha256": "8435977934b6231eb25fdb7432c092cf2bc33dcec5d688c4497c225295b58f35"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "strange-travelers",
+      "files": [
+        "OEBPS/e9781429982498_c10.html"
+      ],
+      "sourceTextSha256": "0d7247c76e6ffbd3e2683ec02b12ea8b337da34ee4331d5064ac1a4b84b419a4",
+      "textSha256": "0d2ad3c32e49502a99d38e27f3a5968582d7609ba683eecf21d4d1b909b01fc7",
+      "blocks": 102,
+      "preEditorialTextSha256": "0d7247c76e6ffbd3e2683ec02b12ea8b337da34ee4331d5064ac1a4b84b419a4"
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "flash-company",
+      "chapter": "story",
+      "paragraph": "p-026",
+      "before": "my lady. boys.",
+      "after": "my lady, boys.",
+      "reason": "Vocative boys requires a comma, not a full stop separating it from the preceding phrase.",
+      "confidence": "high",
+      "id": "v17-strange-b007"
+    },
+    {
+      "book": "flash-company",
+      "chapter": "story",
+      "paragraph": "p-043",
+      "before": "low-down base",
+      "after": "low-down bass",
+      "reason": "The musical low register is bass, not base.",
+      "confidence": "high",
+      "id": "v17-strange-b008"
+    },
+    {
+      "book": "flash-company",
+      "chapter": "story",
+      "paragraph": "p-099",
+      "before": "growling base",
+      "after": "growling bass",
+      "reason": "The musical low register is bass, not base.",
+      "confidence": "high",
+      "id": "v17-strange-b009"
+    },
+    {
+      "book": "flash-company",
+      "chapter": "story",
+      "paragraph": "p-096",
+      "before": "Flash company. love,",
+      "after": "Flash company, love,",
+      "reason": "Vocative love is preceded by an erroneous full stop.",
+      "confidence": "high",
+      "id": "v17-strange-b010"
+    }
+  ]
+}

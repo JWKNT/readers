@@ -1,0 +1,122 @@
+[
+  {
+    "id": "aspidistra",
+    "term": "aspidistra",
+    "aliases": [],
+    "short": "The broad-leaved cast-iron plant.",
+    "note": "Aspidistra is a genus of Asian evergreen plants. Aspidistra elatior, commonly grown indoors, is called the cast-iron plant for its tolerance of shade and neglect.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://plants.ces.ncsu.edu/plants/aspidistra-elatior/",
+        "label": "NC State Extension: Aspidistra elatior"
+      }
+    ],
+    "evidence": "e9781429982498_c12.html source paragraph 2 (title included): s. There is a cat asleep in the window; her name is Lafiondalinda. There is the aspidistra, the cash register, and me. Mine is the last bookshop in the city, and has been for many years, to wrap purchases in brown paper "
+  },
+  {
+    "id": "tem-um-melhor",
+    "term": "Tem um melhor?",
+    "aliases": [],
+    "short": "Portuguese: “Do you have a better one?”",
+    "note": "Portuguese tem means has or have, and melhor means better. With a shopkeeper as the implied subject, the question asks whether a better one is available.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.infopedia.pt/dicionarios/portugues-ingles/melhor",
+        "label": "Infopédia Portuguese–English Dictionary: melhor"
+      }
+    ],
+    "evidence": "e9781429982498_c12.html source paragraph 6 (title included): , naturally) and a plain, written version in the terrestrial language involved: Tem um melhor? for example, which is “Show me something better” in Portuguese."
+  },
+  {
+    "id": "ich",
+    "term": "ich",
+    "aliases": [],
+    "short": "German: “I.”",
+    "note": "The German first-person singular pronoun. In standard German its final sound is the voiceless palatal fricative /ç/, often called the ich-Laut.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.duden.de/rechtschreibung/ich",
+        "label": "Duden: ich"
+      }
+    ],
+    "evidence": "e9781429982498_c12.html source paragraph 7 (title included): ) but one of which is pronounced in five different ways (K, Q, CH, CH in German ich, X, and VK) depending upon its position in the word and the word’s in the sentence. As was only to be expected, I supposed then t"
+  },
+  {
+    "id": "deutschland",
+    "term": "Deutschland",
+    "aliases": [],
+    "short": "The German name for Germany.",
+    "note": "Deutschland is Germany’s name in German. Deutsch means German, and Land means land or country.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/german-english/deutschland",
+        "label": "Collins German–English Dictionary: Deutschland"
+      }
+    ],
+    "evidence": "e9781429982498_c12.html source paragraph 9 (title included):  all equally unhelpful. Tcôvé, I decided, was surely one of those nations (like Deutschland and Hellas) which we call by quite different names. Still, I persisted in my determination. A pêpennes tilyat scémpterrissomatya "
+  },
+  {
+    "id": "hellas",
+    "term": "Hellas",
+    "aliases": [],
+    "short": "The Greek name for Greece.",
+    "note": "Hellas is an English transliteration of the Greek name Ἑλλάς, Greece; the modern Greek form is Elláda.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/hellas",
+        "label": "Collins English Dictionary: Hellas"
+      }
+    ],
+    "evidence": "e9781429982498_c12.html source paragraph 9 (title included): elpful. Tcôvé, I decided, was surely one of those nations (like Deutschland and Hellas) which we call by quite different names. Still, I persisted in my determination. A pêpennes tilyat scémpterrissomatya oto dommros"
+  },
+  {
+    "id": "le-paradis-perdu-nest-pas-celui-quon-pense",
+    "term": "Le paradis perdu n’est pas celui qu’on pense.",
+    "aliases": [],
+    "short": "French: “The lost paradise is not the one people think.”",
+    "note": "The French sentence says that the paradise lost is not the one commonly imagined. Paradis perdu means lost paradise; celui means the one.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/french-english/perdu",
+        "label": "Collins French–English Dictionary: perdu"
+      }
+    ],
+    "evidence": "e9781429982498_c12.html source paragraph 40 (title included): Arbitorri Tcôvesessit tanyat sklora. “Le paradis perdu n’est pas celui qu’on pense.”"
+  },
+  {
+    "id": "mucilage",
+    "term": "mucilage",
+    "aliases": [],
+    "short": "A sticky plant gum used as an adhesive.",
+    "note": "A thick, sticky material produced by plants; also an adhesive made by dissolving such gum in water.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mucilage",
+        "label": "Merriam-Webster: mucilage"
+      }
+    ],
+    "evidence": "e9781429982498_c12.html source paragraph 59 (title included): ommercial products are, and I am compelled to spread the back of each with thin mucilage before I attach it. I then close the book in question and put it under several others, usually until morning."
+  },
+  {
+    "id": "gravid",
+    "term": "gravid",
+    "aliases": [],
+    "short": "Pregnant; figuratively, heavy or laden.",
+    "note": "From Latin gravidus, heavy or pregnant. Beyond pregnancy, the adjective can describe something swollen or burdened with what it carries.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gravid",
+        "label": "Merriam-Webster: gravid"
+      }
+    ],
+    "evidence": "e9781429982498_c12.html source paragraph 63 (title included): Again and again I find myself drawn to the window; clouds gravid with snow hang low over the city, hiding every star but one."
+  }
+]

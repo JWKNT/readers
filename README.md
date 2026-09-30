@@ -3,7 +3,7 @@
 This directory is a complete static website. It contains New Sun (including Urth),
 Long Sun (four novels), Short Sun (three novels), and Cixin Liu’s Remembrance of
 Earth’s Past trilogy (one reader), Dan Simmons’s Hyperion and The Fall of Hyperion
-(one reader), The Fifth Head of Cerberus, and 60 individual short stories. No package installation,
+(one reader), The Fifth Head of Cerberus, and 73 individual short stories. No package installation,
 build service, database, or account is required.
 
 ## Local test
@@ -27,6 +27,10 @@ The book addresses are:
 
 The library links to every standalone story; `data/wolfe-fiction/catalog.json`
 is the complete title and route inventory.
+The supplied Strange Travelers adds thirteen individual story readers. Its two
+duplicates, Bed and Breakfast and And When They Appear, retain their existing
+Best of Gene Wolfe readers and afterwords. `data/wolfe-fiction/strange-travelers-catalog.json`
+records the complete anthology mapping and retained source material.
 The original `three-body-problem`, `dark-forest`, and `deaths-end` reader URLs
 forward into the combined trilogy, preserving chapter/paragraph hashes and queries.
 Their plain HTML chapters remain available at their original addresses.
@@ -96,6 +100,22 @@ Verify with `python3 tools/validate.py --baseline <previous-commit>` and
 The unlinked `data/annotation-audit.json` records the 2026-09-30 audit scope,
 chapter-by-chapter outcomes, and editorial corrections; `NOTES-ANNOTATION-AUDIT.md`
 explains the method and verification.
+
+To import only Strange Travelers, leaving the other source editions intact:
+
+```sh
+python3 tools/import_wolfe_fiction.py --strange-travelers /path/to/strange-travelers.epub
+```
+
+The importer also accepts repeated `--only story-slug` options. It preserves the
+three named sections of Useful Phrases, poetry and epigraphs, inset letters and
+diary entries, boxed notices, and Koshchei’s optional source note. Blank-line scene
+boundaries use thirteen distinct original ornaments; drop capitals reuse the
+approved historical alphabets. The supplied story files contain no inline images.
+See [NOTES-STRANGE-TRAVELERS.md](NOTES-STRANGE-TRAVELERS.md) for the 255 new notes,
+48 reversible transcription repairs, source boundaries and release checks.
+The separate [Hyperion contents correction](NOTES-HYPERION-CONTENTS.md) restores
+numbered chapters with indented jumps to the embedded Tales.
 
 ## Hosting
 

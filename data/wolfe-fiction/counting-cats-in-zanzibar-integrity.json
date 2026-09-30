@@ -1,0 +1,47 @@
+{
+  "book": "counting-cats-in-zanzibar",
+  "sourceFiles": {
+    "strange-travelers": {
+      "file": "_OceanofPDF.com_Strange_Travelers_-_Gene_Wolfe.epub",
+      "sha256": "8435977934b6231eb25fdb7432c092cf2bc33dcec5d688c4497c225295b58f35"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "strange-travelers",
+      "files": [
+        "OEBPS/e9781429982498_c03.html"
+      ],
+      "sourceTextSha256": "bc951363f25204a2e3c0a4fb09bc282b2e3b3c82e17b79a46f02092ce812879e",
+      "textSha256": "53129ecbeb5e0373b24e51301037659fac681494b375ea5b59f8e783bc523bd0",
+      "blocks": 233,
+      "preEditorialTextSha256": "bc951363f25204a2e3c0a4fb09bc282b2e3b3c82e17b79a46f02092ce812879e"
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "counting-cats-in-zanzibar",
+      "chapter": "story",
+      "paragraph": "p-046",
+      "before": "“Did he really say that?” .",
+      "after": "“Did he really say that?”",
+      "reason": "Stray period after a complete quoted question.",
+      "confidence": "high",
+      "id": "v17-strange-a008"
+    },
+    {
+      "book": "counting-cats-in-zanzibar",
+      "chapter": "story",
+      "paragraph": "p-111",
+      "before": "Zanzibar That’s a quote",
+      "after": "Zanzibar. That’s a quote",
+      "reason": "Missing sentence-ending period between the Zanzibar remark and the question about its source.",
+      "confidence": "high",
+      "id": "v17-strange-a009"
+    }
+  ]
+}

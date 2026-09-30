@@ -1,0 +1,242 @@
+[
+  {
+    "id": "threnody",
+    "term": "threnody",
+    "aliases": [],
+    "short": "A song or poem of mourning.",
+    "note": "A lament, particularly a song or poem mourning someone’s death.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/threnody",
+        "label": "Merriam-Webster · threnody"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-142",
+      "index": 0
+    }
+  },
+  {
+    "id": "comber",
+    "term": "combers",
+    "aliases": [],
+    "short": "Large waves with curling crests.",
+    "note": "A comber is a long wave whose crest curls over and breaks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/comber",
+        "label": "Merriam-Webster · comber"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-162",
+      "index": 0
+    }
+  },
+  {
+    "id": "viridian",
+    "term": "viridian",
+    "aliases": [],
+    "short": "A vivid bluish green.",
+    "note": "A strong bluish-green color, also the name of the green chromium-based pigment used by painters.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/viridian",
+        "label": "Merriam-Webster · viridian"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-182",
+      "index": 0
+    }
+  },
+  {
+    "id": "berylline",
+    "term": "berylline",
+    "aliases": [],
+    "short": "Pale green or bluish green, like beryl.",
+    "note": "Resembling beryl, especially the pale or bluish-green color of that mineral.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/berylline",
+        "label": "Merriam-Webster · berylline"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-182",
+      "index": 0
+    }
+  },
+  {
+    "id": "dark-matter",
+    "term": "dark matter",
+    "aliases": [],
+    "short": "Matter inferred chiefly from gravitational effects.",
+    "note": "Matter that does not emit, absorb, or reflect detectable light, but whose presence is inferred from its gravitational influence on galaxies and other cosmic structures. Its physical nature remains unresolved.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/dark-matter/",
+        "label": "NASA Science · Dark matter"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-002",
+      "index": 0
+    }
+  },
+  {
+    "id": "ganesha",
+    "term": "elephant’s head",
+    "aliases": [],
+    "short": "Ganesha, the elephant-headed Hindu deity.",
+    "note": "Ganesha is the Hindu god distinguished by an elephant’s head and a human body. He is associated with overcoming obstacles and is invoked at the beginning of undertakings.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/37397",
+        "label": "Metropolitan Museum of Art · Ganesha"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-040",
+      "index": 0
+    }
+  },
+  {
+    "id": "fischer",
+    "term": "Fischer",
+    "aliases": [],
+    "short": "Possibly Bobby Fischer, the American chess champion.",
+    "note": "Possibly Bobby Fischer (1943–2008), the American chess player who defeated Boris Spassky in Reykjavík in 1972 to become world champion.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://worldchesshof.org/wp-content/uploads/2025/02/1972-Fischer-Spassky-Press-Release.pdf",
+        "label": "World Chess Hall of Fame · Fischer–Spassky"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-084",
+      "index": 0
+    }
+  },
+  {
+    "id": "parsec",
+    "term": "parsecs",
+    "aliases": [],
+    "short": "Astronomical distance units of about 3.26 light-years.",
+    "note": "A parsec is the distance at which one astronomical unit subtends one second of arc, approximately 3.26 light-years. Its name combines parallax and second.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/mission/hubble/multimedia/hubble-glossary/",
+        "label": "NASA · Hubble glossary"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-054",
+      "index": 0
+    }
+  },
+  {
+    "id": "light-year",
+    "term": "light-years",
+    "aliases": [],
+    "short": "Distances light travels in a year.",
+    "note": "A light-year is a unit of distance: the distance light travels through a vacuum in one year, about 9.46 trillion kilometers or 5.88 trillion miles.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/solar-system/cosmic-distances/",
+        "label": "NASA · Cosmic distances"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-054",
+      "index": 0
+    }
+  },
+  {
+    "id": "pawn-promotion",
+    "term": "queen that pawn",
+    "aliases": [],
+    "short": "Promote a pawn to a queen.",
+    "note": "In chess, a pawn reaching the farthest rank must be exchanged for a queen, rook, bishop, or knight of the same color. Choosing a queen is called queening.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.fide.com/FIDE/handbook/LawsOfChess.pdf",
+        "label": "FIDE · Laws of Chess, article 3.7"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-099",
+      "index": 0
+    }
+  },
+  {
+    "id": "arabic-numerals",
+    "term": "Arabic notation",
+    "aliases": [],
+    "short": "The decimal place-value system using digits 0–9.",
+    "note": "Hindu-Arabic numerals use ten digits and position to express numbers. Developed in India and transmitted through Arabic mathematics, the system reached medieval Europe through translations and commercial arithmetic.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/Arabic_numerals/",
+        "label": "University of St Andrews · Arabic numerals"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-198",
+      "index": 0
+    }
+  },
+  {
+    "id": "descriptive-chess-notation",
+    "term": "Rook to rook’s four",
+    "aliases": [],
+    "short": "A chess move expressed in descriptive notation.",
+    "note": "In descriptive chess notation, files are named for the pieces that begin on them and ranks are counted from each player’s side. “Rook’s four” means the fourth square along a rook’s file.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.museum.am/chess/com_chessguide/descriptive.html",
+        "label": "Armenian Museums · Descriptive chess notation"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-032",
+      "index": 0
+    }
+  }
+]

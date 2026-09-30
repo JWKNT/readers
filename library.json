@@ -108,6 +108,21 @@
     "kind": "book"
   },
   {
+    "id": "aint-you-most-done",
+    "title": "Ain’t You ’Most Done?",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Ain’t You ’Most Done?",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 20,
+    "totalWords": 8668,
+    "kind": "story"
+  },
+  {
     "id": "all-the-hues-of-hell",
     "title": "All the Hues of Hell",
     "author": "Gene Wolfe",
@@ -186,6 +201,21 @@
     "kind": "story"
   },
   {
+    "id": "bluesberry-jam",
+    "title": "Bluesberry Jam",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Bluesberry Jam",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 7,
+    "totalWords": 8601,
+    "kind": "story"
+  },
+  {
     "id": "the-boy-who-hooked-the-sun",
     "title": "The Boy Who Hooked the Sun",
     "author": "Gene Wolfe",
@@ -243,6 +273,21 @@
     "kind": "story"
   },
   {
+    "id": "counting-cats-in-zanzibar",
+    "title": "Counting Cats in Zanzibar",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Counting Cats in Zanzibar",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 20,
+    "totalWords": 6086,
+    "kind": "story"
+  },
+  {
     "id": "the-dark-of-the-june",
     "title": "The Dark of the June",
     "author": "Gene Wolfe",
@@ -291,6 +336,27 @@
     ],
     "glossaryCount": 7,
     "totalWords": 2270,
+    "kind": "story"
+  },
+  {
+    "id": "the-death-of-koshchei-the-deathless",
+    "title": "The Death of Koshchei the Deathless",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Death of Koshchei the Deathless",
+        "chapters": 1
+      },
+      {
+        "id": "sources",
+        "title": "Supplementary material",
+        "chapters": 0,
+        "referenceTitle": "Afterword"
+      }
+    ],
+    "glossaryCount": 42,
+    "totalWords": 6092,
     "kind": "story"
   },
   {
@@ -369,6 +435,21 @@
     ],
     "glossaryCount": 20,
     "totalWords": 23757,
+    "kind": "story"
+  },
+  {
+    "id": "flash-company",
+    "title": "Flash Company",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Flash Company",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 12,
+    "totalWords": 3532,
     "kind": "story"
   },
   {
@@ -489,6 +570,21 @@
     ],
     "glossaryCount": 5,
     "totalWords": 6338,
+    "kind": "story"
+  },
+  {
+    "id": "the-haunted-boardinghouse",
+    "title": "The Haunted Boardinghouse",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Haunted Boardinghouse",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 51,
+    "totalWords": 9319,
     "kind": "story"
   },
   {
@@ -687,6 +783,21 @@
     "kind": "story"
   },
   {
+    "id": "the-man-in-the-pepper-mill",
+    "title": "The Man in the Pepper Mill",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Man in the Pepper Mill",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 11,
+    "totalWords": 5852,
+    "kind": "story"
+  },
+  {
     "id": "the-map",
     "title": "The Map",
     "author": "Gene Wolfe",
@@ -768,6 +879,21 @@
     "kind": "story"
   },
   {
+    "id": "no-planets-strike",
+    "title": "No Planets Strike",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "No Planets Strike",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 7,
+    "totalWords": 4556,
+    "kind": "story"
+  },
+  {
     "id": "on-the-train",
     "title": "On the Train",
     "author": "Gene Wolfe",
@@ -786,6 +912,21 @@
     ],
     "glossaryCount": 1,
     "totalWords": 460,
+    "kind": "story"
+  },
+  {
+    "id": "one-two-three-for-me",
+    "title": "One-Two-Three for Me",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "One-Two-Three for Me",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 1,
+    "totalWords": 2456,
     "kind": "story"
   },
   {
@@ -903,6 +1044,21 @@
     ],
     "glossaryCount": 6,
     "totalWords": 3167,
+    "kind": "story"
+  },
+  {
+    "id": "queen-of-the-night",
+    "title": "Queen of the Night",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Queen of the Night",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 16,
+    "totalWords": 4992,
     "kind": "story"
   },
   {
@@ -1065,6 +1221,21 @@
     "kind": "story"
   },
   {
+    "id": "to-the-seventh",
+    "title": "To the Seventh",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "To the Seventh",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 12,
+    "totalWords": 6448,
+    "kind": "story"
+  },
+  {
     "id": "the-toy-theater",
     "title": "The Toy Theater",
     "author": "Gene Wolfe",
@@ -1104,6 +1275,21 @@
     ],
     "glossaryCount": 6,
     "totalWords": 10264,
+    "kind": "story"
+  },
+  {
+    "id": "useful-phrases",
+    "title": "Useful Phrases",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "Useful Phrases",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 8,
+    "totalWords": 2749,
     "kind": "story"
   },
   {
@@ -1185,6 +1371,21 @@
     ],
     "glossaryCount": 15,
     "totalWords": 3110,
+    "kind": "story"
+  },
+  {
+    "id": "the-ziggurat",
+    "title": "The Ziggurat",
+    "author": "Gene Wolfe",
+    "volumes": [
+      {
+        "id": "text",
+        "title": "The Ziggurat",
+        "chapters": 1
+      }
+    ],
+    "glossaryCount": 48,
+    "totalWords": 27229,
     "kind": "story"
   },
   {

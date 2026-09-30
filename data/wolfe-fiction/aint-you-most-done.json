@@ -1,0 +1,319 @@
+[
+  {
+    "id": "bulgine-run",
+    "term": "The Bulgine Run",
+    "aliases": [
+      "A-hee, a-ho, ain’t you ’most done?",
+      "AIN’T YOU ’MOST DONE?"
+    ],
+    "short": "A traditional shanty also called Eliza Lee.",
+    "note": "A work song also known as Clear the Track, Let the Bulgine Run or Eliza Lee. Collected versions were sung while turning a ship’s capstan or windlass; its verses vary between singers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://folkways.si.edu/sam-eskin/clear-the-track-let-the-bulgine-run/american-folk-celtic/music/track/smithsonian",
+        "label": "Smithsonian Folkways: Clear the Track, Let the Bulgine Run"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 1 (title included): AIN’T YOU ’MOST DONE?"
+  },
+  {
+    "id": "bulgine",
+    "term": "bulgine",
+    "aliases": [],
+    "short": "An old slang word for a steam engine.",
+    "note": "A nineteenth-century slang term for an engine, especially a steam engine, familiar from traditional work songs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.kiplingsociety.co.uk/readers-guide/rg_steamtactics_notes.htm",
+        "label": "Kipling Society: Steam Tactics, annotation to bulgine"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 7 (title included): ne? Is the Marg’ret Evans of the Blue Cross Line, So clear the deck and let the bulgine run! To me hey rig-a-jig in a low-back car, A-hee, a-ho, ain’t you ’most done?"
+  },
+  {
+    "id": "packet",
+    "term": "packet",
+    "aliases": [],
+    "short": "A ship making regular scheduled voyages.",
+    "note": "A packet ship carries mail, passengers, or goods on a regular route. The name comes from the packets of letters such vessels originally transported.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/packet",
+        "label": "Merriam-Webster: packet"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 8 (title included):  cared. He pictured himself seated on the tarred hatch cover of a transatlantic packet with his guitar on his lap and a villainous black stogie smoldering between thumb and forefinger, ringed by delighted sailors and"
+  },
+  {
+    "id": "stogie",
+    "term": "stogie",
+    "aliases": [],
+    "short": "A long, inexpensive cigar.",
+    "note": "A long, thin, inexpensive cigar. The name is shortened from Conestoga, the Pennsylvania place-name also associated with the heavy covered wagons whose drivers smoked them.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/stogie",
+        "label": "Merriam-Webster: stogie"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 8 (title included): ver of a transatlantic packet with his guitar on his lap and a villainous black stogie smoldering between thumb and forefinger, ringed by delighted sailors and passengers."
+  },
+  {
+    "id": "cyclops",
+    "term": "cyclops",
+    "aliases": [],
+    "short": "A one-eyed giant of Greek mythology.",
+    "note": "A Cyclops is a giant with a single eye in the middle of its forehead. Greek traditions include the divine smiths who make Zeus’s thunderbolts and Polyphemus, whom Odysseus encounters.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.theoi.com/Titan/Kyklopes.html",
+        "label": "Theoi: Cyclopes and ancient sources"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 14 (title included):  had gone out, or perhaps the two had flowed together, condensing into a single cyclops light belonging to a newer car. Sweat trickled down Benson’s forehead into his eyes. The air-conditioning was already set on Max,"
+  },
+  {
+    "id": "winnie-the-pooh",
+    "term": "Winnie the Pooh",
+    "aliases": [],
+    "short": "A. A. Milne’s toy bear of the Hundred Acre Wood.",
+    "note": "Winnie-the-Pooh is the bear in A. A. Milne’s children’s books, beginning with Winnie-the-Pooh (1926). His home bears a name-board reading Sanders, so he literally lives beneath that name.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/67098/67098-h/67098-h.htm",
+        "label": "A. A. Milne: Winnie-the-Pooh"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 45 (title included): ht back a book that Michael had liked when Michael was young. Benson told her, “Winnie the Pooh lived in a hollow tree in the woods under the name Sanders.” It was easy to smile now. “Or at least, I think it was Sanders.”"
+  },
+  {
+    "id": "magus",
+    "term": "Magus",
+    "aliases": [],
+    "short": "A wise man, magician, or member of the ancient Magi.",
+    "note": "Latin magus, from Greek magos, originally denoted a member of a Persian priestly group. In later use it can mean an astrologer, sorcerer, or learned magician.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/magus",
+        "label": "Merriam-Webster: magus"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 2 (title included):  seconds flat, no more, a skilled man in one of the company’s seventeen hundred Magus Muffler and Brake Shops could prep a car for the installation of a new tailpipe, a new exhaust pipe, and a brand-new Magus Muffle"
+  },
+  {
+    "id": "good-mornin-blues",
+    "term": "Good mornin’, Blues",
+    "aliases": [],
+    "short": "The refrain of the traditional song Good Morning Blues.",
+    "note": "Good Morning Blues is a traditional blues song recorded by Lead Belly. It addresses the blues as a visitor and asks how it is doing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://folkways.si.edu/lead-belly/good-morning-blues/african-american-music-american-folk-blues/track/smithsonian",
+        "label": "Smithsonian Folkways: Lead Belly, Good Morning Blues"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 108 (title included): The woman called “You hungry?” and started toward him. “Good mornin’, Blues, how d’ye do? Good mornin’, Blues, how d’ye do? Feelin’ good, Partner. How ’bout you?”"
+  },
+  {
+    "id": "strawberry-lane",
+    "term": "Strawberry Lane",
+    "aliases": [],
+    "short": "A traditional ballad of impossible courtship tasks.",
+    "note": "Strawberry Lane is a variant of the ballad family usually called The Elfin Knight, which also includes Scarborough Fair. A would-be lover is set seemingly impossible tasks, such as making a shirt without needlework.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://databases.lib.utk.edu/songdb/songdb.php?title=STRAWBERRY+LANE&word=0",
+        "label": "University of Tennessee: Strawberry Lane, collected in Folk Songs of North America"
+      },
+      {
+        "url": "https://etheses.dur.ac.uk/7574/1/7574_4639.PDF",
+        "label": "Durham University: traditional ballads, Strawberry Lane under Child 2"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 119 (title included): “As I was a-walking down Strawberry Lane, Where the roses grow pretty and fine, I happened to meet a merry, fair maid, That would be a lover of mine … .”"
+  },
+  {
+    "id": "root-hog-or-die",
+    "term": "Root, hog, or die",
+    "aliases": [],
+    "short": "An American refrain urging people to fend for themselves.",
+    "note": "The saying tells a hog to root for its own food or perish: make a living by your own efforts. It became a recurring refrain in nineteenth-century American songs, including songs of ox-team drivers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://blogs.loc.gov/folklife/2014/03/highlighting-ozark-collections-for-a-distinguished-guest/",
+        "label": "Library of Congress: Ozark folk-song collections"
+      },
+      {
+        "url": "https://www.loc.gov/item/2023811529/",
+        "label": "Library of Congress: Root, Hog, or Die (1856)"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 122 (title included): mine. If ever I catch him, you bet that I’ll try, I’ll lick him with the oxbow, Root, hog, or die!"
+  },
+  {
+    "id": "oxbow",
+    "term": "oxbow",
+    "aliases": [],
+    "short": "The curved wooden piece of an ox’s yoke.",
+    "note": "A U-shaped wooden bow fitted under an ox’s neck and secured to the yoke. The term also gives its name to a similarly shaped bend in a river.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/oxbow",
+        "label": "Merriam-Webster: oxbow"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 122 (title included):  ox o’ mine. If ever I catch him, you bet that I’ll try, I’ll lick him with the oxbow, Root, hog, or die!"
+  },
+  {
+    "id": "shenando",
+    "term": "Shenando’",
+    "aliases": [],
+    "short": "Shenandoah, the American folk song.",
+    "note": "Shenandoah is a traditional American song with widely varying lyrics and an uncertain early history. Many familiar versions include a refrain about crossing the wide Missouri River.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.loc.gov/collections/songs-of-america/articles-and-essays/articles-about-songs/shenandoah/",
+        "label": "Library of Congress: Shenandoah"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 128 (title included): “Shenando’” seemed the only possible choice. He began to walk before he finished the first verse, afraid at first that they would follow him"
+  },
+  {
+    "id": "big-muddy",
+    "term": "Big Muddy",
+    "aliases": [],
+    "short": "A familiar nickname for the Missouri River.",
+    "note": "The Missouri River earned this nickname from the heavy loads of sediment in its water. It joins the Mississippi, which carries their combined flow to the Gulf of Mexico.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nps.gov/mnrr/learn/nature/rivers.htm",
+        "label": "National Park Service: Missouri River and tributaries"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 129 (title included):  wooded Eastern river and the cruel, hot, Western flood men had once called the Big Muddy, a mile wide and an inch deep, too thick to drink and too thin to plow, relentlessly rolling to the Gulf of Mexico."
+  },
+  {
+    "id": "the-wayfaring-stranger",
+    "term": "The Wayfaring Stranger",
+    "aliases": [],
+    "short": "A traditional American spiritual about a traveler’s heavenly home.",
+    "note": "Often called Poor Wayfaring Stranger, this spiritual presents earthly life as a difficult journey toward a home beyond suffering and separation. It has circulated widely in folk and gospel singing.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://folkways.si.edu/pete-seeger/the-wayfaring-stranger/historical-song/music/track/smithsonian",
+        "label": "Smithsonian Folkways: Pete Seeger, The Wayfaring Stranger"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 131 (title included): “Moving on,” Benson told him, and sang “The Wayfaring Stranger” for him, and then walked on as he had promised."
+  },
+  {
+    "id": "londonderry-air",
+    "term": "Londonderry Air",
+    "aliases": [],
+    "short": "The Irish melody later used for Danny Boy.",
+    "note": "An untitled air supplied by Jane Ross of Limavady appeared in George Petrie’s Ancient Music of Ireland in 1855. Usually called the Londonderry Air, it was later paired with the words of Danny Boy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.tcd.ie/library/exhibitions/in-tune/irish_folk_music.php",
+        "label": "Trinity College Dublin Library: Irish folk music"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 141 (title included): d his fingers (almost carelessly, it seemed to him) called forth the melody of “Londonderry Air.”"
+  },
+  {
+    "id": "the-minstrel-boy",
+    "term": "The Minstrel Boy",
+    "aliases": [
+      "The minstrel boy to the war is gone"
+    ],
+    "short": "Thomas Moore’s song about a musician going to war.",
+    "note": "A lyric from Thomas Moore’s Irish Melodies. Its young harpist goes to battle, and the song associates his instrument with freedom and resistance to servitude.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/8187/pg8187.html",
+        "label": "Thomas Moore: Irish Melodies"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 191 (title included): “The minstrel boy to the war is gone, In the ranks of death you’ll find him; His father’s sword he has girded on, And his wild harp slung behind him … .”"
+  },
+  {
+    "id": "my-gentle-harp",
+    "term": "My Gentle Harp",
+    "aliases": [],
+    "short": "A lyric from Thomas Moore’s Irish Melodies.",
+    "note": "Moore addresses a silent harp whose music is bound to sorrow and lost freedom. Images of a dying swan and flowers mixed with chains explain why it cannot supply cheerful songs.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/8187/pg8187.html",
+        "label": "Thomas Moore: Irish Melodies"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 240 (title included): ayed “Londonderry Air” only an hour or two ago, and there was a haunting song, “My Gentle Harp,” set to the music."
+  },
+  {
+    "id": "halcyon",
+    "term": "halcyon",
+    "aliases": [],
+    "short": "Calm, peaceful, or idyllic.",
+    "note": "Originally a legendary bird identified with the kingfisher, believed to nest on the sea while it was calm. Halcyon days consequently came to mean a period of tranquility or happiness.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/halcyon",
+        "label": "Merriam-Webster: halcyon"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 242 (title included): “Yet even then, when peace was singing Her halcyon song o’er land and sea, Though joy and hope to others bringing, She only brought new tears to thee.”"
+  },
+  {
+    "id": "mock-turtle",
+    "term": "Mock Turtle",
+    "aliases": [],
+    "short": "Lewis Carroll’s creature named after imitation turtle soup.",
+    "note": "The Mock Turtle appears in Alice’s Adventures in Wonderland (1865). Its calf-like features play on mock turtle soup, traditionally made with calf’s head as a substitute for turtle meat.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/11/11-h/11-h.htm",
+        "label": "Lewis Carroll: Alice’s Adventures in Wonderland"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 277 (title included): l’s books in which people were forever saying come on. Was he about to meet the Mock Turtle? The Mock Turtle would be reassuringly familiar after all this."
+  },
+  {
+    "id": "casey-jones",
+    "term": "Casey Jones",
+    "aliases": [],
+    "short": "The railroad engineer immortalized in an American ballad.",
+    "note": "John Luther “Casey” Jones (1864–1900) was an Illinois Central engineer killed in a train collision at Vaughan, Mississippi. Songs about his fatal run made him a figure of American railway folklore.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://americanhistory.si.edu/collections/object/nmah_843181",
+        "label": "National Museum of American History: Casey Jones’s grave marker"
+      },
+      {
+        "url": "https://blogs.loc.gov/folklife/2015/08/folklore-of-trains-in-usa-part-two/",
+        "label": "Library of Congress: The Folklore and Folksong of Trains in America"
+      }
+    ],
+    "evidence": "e9781429982498_c15.html source paragraph 311 (title included): e dimness of the corridor. “I’ve known lots of sailors and railroad men. I knew Casey Jones.”"
+  }
+]

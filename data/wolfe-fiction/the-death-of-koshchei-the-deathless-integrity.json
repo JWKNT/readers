@@ -1,0 +1,77 @@
+{
+  "book": "the-death-of-koshchei-the-deathless",
+  "sourceFiles": {
+    "strange-travelers": {
+      "file": "_OceanofPDF.com_Strange_Travelers_-_Gene_Wolfe.epub",
+      "sha256": "8435977934b6231eb25fdb7432c092cf2bc33dcec5d688c4497c225295b58f35"
+    }
+  },
+  "chapters": [
+    {
+      "chapter": "story",
+      "source": "strange-travelers",
+      "files": [
+        "OEBPS/e9781429982498_c04.html"
+      ],
+      "sourceTextSha256": "d0ef8ef9524467cc7ef634ee333c3db1f5442800adbd2653a741b2c52d4359a2",
+      "textSha256": "11d1331e0a98b063e3ec57baf7d07707cfc2a5805db04782c192cc6e9f6ae081",
+      "blocks": 79,
+      "preEditorialTextSha256": "d0ef8ef9524467cc7ef634ee333c3db1f5442800adbd2653a741b2c52d4359a2"
+    },
+    {
+      "chapter": "author-note",
+      "source": "strange-travelers",
+      "files": [
+        "OEBPS/e9781429982498_c04.html"
+      ],
+      "sourceTextSha256": "92724567a361ed8f522cffafc0c1e08e7e118fbc2499ecce118502e9a0c557a2",
+      "textSha256": "92724567a361ed8f522cffafc0c1e08e7e118fbc2499ecce118502e9a0c557a2",
+      "blocks": 1
+    }
+  ],
+  "corrections": [],
+  "unmatchedGlossaryEntries": [],
+  "notePolicy": "External referents only. Supplied afterwords are separate reference sections.",
+  "editorialCorrections": [
+    {
+      "book": "the-death-of-koshchei-the-deathless",
+      "chapter": "story",
+      "paragraph": "p-029",
+      "before": "Baits",
+      "after": "Balts",
+      "reason": "The ethnonym is Balts, as correctly printed elsewhere in the same narrative; OCR confused lowercase l with i.",
+      "confidence": "high",
+      "id": "v17-strange-a010"
+    },
+    {
+      "book": "the-death-of-koshchei-the-deathless",
+      "chapter": "story",
+      "paragraph": "p-035",
+      "before": "Baits",
+      "after": "Balts",
+      "reason": "The ethnonym is Balts, as correctly printed elsewhere in the same narrative; OCR confused lowercase l with i.",
+      "confidence": "high",
+      "id": "v17-strange-a011"
+    },
+    {
+      "book": "the-death-of-koshchei-the-deathless",
+      "chapter": "story",
+      "paragraph": "p-062",
+      "before": "Baits",
+      "after": "Balts",
+      "reason": "The ethnonym is Balts, as correctly printed elsewhere in the same narrative; OCR confused lowercase l with i.",
+      "confidence": "high",
+      "id": "v17-strange-a012"
+    },
+    {
+      "book": "the-death-of-koshchei-the-deathless",
+      "chapter": "story",
+      "paragraph": "p-060",
+      "before": "info women’s hearts",
+      "after": "into women’s hearts",
+      "reason": "OCR substitution of f for t in the preposition into.",
+      "confidence": "high",
+      "id": "v17-strange-a013"
+    }
+  ]
+}

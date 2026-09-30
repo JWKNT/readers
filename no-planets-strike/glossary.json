@@ -1,0 +1,144 @@
+[
+  {
+    "id": "hamlet-epigraph",
+    "term": "Hamlet",
+    "aliases": [],
+    "short": "Shakespeare’s tragedy of the prince of Denmark.",
+    "note": "Hamlet I.1 includes Marcellus’s account of Christmas nights, when the cock sings and harmful spirits and astral influences lose their power. The passage preserves beliefs about the protective sanctity of Christmas.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/1/1/",
+        "label": "Folger Shakespeare Library · Hamlet I.1"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-002",
+      "index": 0
+    }
+  },
+  {
+    "id": "silage",
+    "term": "silage",
+    "aliases": [],
+    "short": "Fermented green fodder stored for livestock.",
+    "note": "Grass or other green crops preserved by fermentation with air largely excluded, then fed to farm animals.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/silage",
+        "label": "Merriam-Webster · silage"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-006",
+      "index": 0
+    }
+  },
+  {
+    "id": "hereford",
+    "term": "Hereford",
+    "aliases": [],
+    "short": "A red-and-white cattle breed from England.",
+    "note": "Hereford cattle originated in Herefordshire, England. They are a beef breed characteristically red-bodied with white faces and other white markings.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://breeds.okstate.edu/cattle/hereford-cattle",
+        "label": "Oklahoma State University · Hereford cattle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-009",
+      "index": 0
+    }
+  },
+  {
+    "id": "santa-gertrudis",
+    "term": "Santa Gertrudis",
+    "aliases": [],
+    "short": "A cattle breed developed on Texas’s King Ranch.",
+    "note": "Santa Gertrudis cattle were developed at the King Ranch from Shorthorn and Brahman ancestry. The established breed is approximately five-eighths Shorthorn and three-eighths Brahman.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://breeds.okstate.edu/cattle/santa-gertrudis-cattle",
+        "label": "Oklahoma State University · Santa Gertrudis cattle"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-009",
+      "index": 0
+    }
+  },
+  {
+    "id": "sidhe",
+    "term": "Sidhe",
+    "aliases": [],
+    "short": "Irish fairy folk, associated with ancient mounds.",
+    "note": "Sidhe is an older spelling connected with Irish sí, a fairy mound. Aos sí denotes the supernatural people believed to inhabit such mounds.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.teanglann.ie/en/fgb/s%C3%AD",
+        "label": "Ó Dónaill · Foclóir Gaeilge–Béarla, sí"
+      }
+    ],
+    "occurrences": 7,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-013",
+      "index": 0
+    }
+  },
+  {
+    "id": "boondocks",
+    "term": "boondocks",
+    "aliases": [],
+    "short": "Remote countryside; from Tagalog for “mountain.”",
+    "note": "A colloquial name for remote, thinly settled country. The English word derives from Tagalog bundok, meaning mountain.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/boondocks",
+        "label": "Merriam-Webster · boondocks"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-055",
+      "index": 0
+    }
+  },
+  {
+    "id": "biladmaser",
+    "term": "Biladmaser",
+    "aliases": [
+      "Barrmaser"
+    ],
+    "short": "Possibly an Arabic expression for the land of Egypt.",
+    "note": "Possibly Arabic bilād Maṣr, the country of Egypt; barr Maṣr likewise means the land of Egypt. Older English phrasebooks transcribe the latter as berr masr.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/Egyptian_Self-Taught/Vocabularies",
+        "label": "Captain C. A. Thimm · Egyptian Self-Taught"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-053",
+      "index": 0
+    }
+  }
+]

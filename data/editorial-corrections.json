@@ -3540,5 +3540,485 @@
     "before": "Roan-quist from Nordholm",
     "after": "Roanquist from Nordholm",
     "reason": "Apparent retained line-end hyphen; the same Nordholm senator is Roanquist in chapter 37."
+  },
+  {
+    "book": "bluesberry-jam",
+    "chapter": "story",
+    "paragraph": "p-013",
+    "before": "”Yeller sun risin’",
+    "after": "“Yeller sun risin’",
+    "reason": "Wrong-facing quote at the opening of the next lyric stanza; the later reprise uses the opening quotation mark.",
+    "confidence": "high",
+    "id": "v17-strange-a001"
+  },
+  {
+    "book": "bluesberry-jam",
+    "chapter": "story",
+    "paragraph": "p-064",
+    "before": "Also leaned",
+    "after": "Aldo leaned",
+    "reason": "OCR substitution in the narrator’s reference to Aldo, the named character playing his chevycap.",
+    "confidence": "high",
+    "id": "v17-strange-a002"
+  },
+  {
+    "book": "bluesberry-jam",
+    "chapter": "story",
+    "paragraph": "p-097",
+    "before": "it’s not ’bout not ’bout no boy",
+    "after": "it’s not ’bout no boy",
+    "reason": "Adjacent accidental duplication of “not ’bout”; retain the dialect double negative.",
+    "confidence": "probable",
+    "id": "v17-strange-a003"
+  },
+  {
+    "book": "bluesberry-jam",
+    "chapter": "story",
+    "paragraph": "p-128",
+    "before": "Where’s there’s jam",
+    "after": "Where there’s jam",
+    "reason": "Duplicate copula in a question asking about a place where the jam is in the air; nearby speech retains otherwise intentional dialect.",
+    "confidence": "probable",
+    "id": "v17-strange-a004"
+  },
+  {
+    "book": "bluesberry-jam",
+    "chapter": "story",
+    "paragraph": "p-271",
+    "before": "At last he said. “Nope",
+    "after": "At last he said, “Nope",
+    "reason": "Comma belongs after the speech tag, before the spoken words.",
+    "confidence": "high",
+    "id": "v17-strange-a005"
+  },
+  {
+    "book": "bluesberry-jam",
+    "chapter": "story",
+    "paragraph": "p-294",
+    "before": "that signs real good",
+    "after": "that sings real good",
+    "reason": "The crowd identifies a singer at the chowchopper after two songs, and Aldo immediately points to Tim. Transposed letters in sings; no sign-language action occurs.",
+    "confidence": "high",
+    "id": "v17-strange-a006"
+  },
+  {
+    "book": "one-two-three-for-me",
+    "chapter": "story",
+    "paragraph": "p-001",
+    "before": "“Don’t do that!,”",
+    "after": "“Don’t do that!”",
+    "reason": "An exclamation mark ending quoted speech does not take an additional comma before the closing quotation mark.",
+    "confidence": "high",
+    "id": "v17-strange-a007"
+  },
+  {
+    "book": "counting-cats-in-zanzibar",
+    "chapter": "story",
+    "paragraph": "p-046",
+    "before": "“Did he really say that?” .",
+    "after": "“Did he really say that?”",
+    "reason": "Stray period after a complete quoted question.",
+    "confidence": "high",
+    "id": "v17-strange-a008"
+  },
+  {
+    "book": "counting-cats-in-zanzibar",
+    "chapter": "story",
+    "paragraph": "p-111",
+    "before": "Zanzibar That’s a quote",
+    "after": "Zanzibar. That’s a quote",
+    "reason": "Missing sentence-ending period between the Zanzibar remark and the question about its source.",
+    "confidence": "high",
+    "id": "v17-strange-a009"
+  },
+  {
+    "book": "the-death-of-koshchei-the-deathless",
+    "chapter": "story",
+    "paragraph": "p-029",
+    "before": "Baits",
+    "after": "Balts",
+    "reason": "The ethnonym is Balts, as correctly printed elsewhere in the same narrative; OCR confused lowercase l with i.",
+    "confidence": "high",
+    "id": "v17-strange-a010"
+  },
+  {
+    "book": "the-death-of-koshchei-the-deathless",
+    "chapter": "story",
+    "paragraph": "p-035",
+    "before": "Baits",
+    "after": "Balts",
+    "reason": "The ethnonym is Balts, as correctly printed elsewhere in the same narrative; OCR confused lowercase l with i.",
+    "confidence": "high",
+    "id": "v17-strange-a011"
+  },
+  {
+    "book": "the-death-of-koshchei-the-deathless",
+    "chapter": "story",
+    "paragraph": "p-062",
+    "before": "Baits",
+    "after": "Balts",
+    "reason": "The ethnonym is Balts, as correctly printed elsewhere in the same narrative; OCR confused lowercase l with i.",
+    "confidence": "high",
+    "id": "v17-strange-a012"
+  },
+  {
+    "book": "the-death-of-koshchei-the-deathless",
+    "chapter": "story",
+    "paragraph": "p-060",
+    "before": "info women’s hearts",
+    "after": "into women’s hearts",
+    "reason": "OCR substitution of f for t in the preposition into.",
+    "confidence": "high",
+    "id": "v17-strange-a013"
+  },
+  {
+    "book": "to-the-seventh",
+    "chapter": "story",
+    "paragraph": "p-044",
+    "before": "the smiled broadened",
+    "after": "the smile broadened",
+    "reason": "A noun is needed before broadened; the final d of smiled is extraneous.",
+    "confidence": "high",
+    "id": "v17-strange-a014"
+  },
+  {
+    "book": "to-the-seventh",
+    "chapter": "story",
+    "paragraph": "p-121",
+    "before": "Mach shrugged",
+    "after": "Mack shrugged",
+    "reason": "OCR substituted h for k in Mack, the protagonist’s consistently used name.",
+    "confidence": "high",
+    "id": "v17-strange-a015"
+  },
+  {
+    "book": "to-the-seventh",
+    "chapter": "story",
+    "paragraph": "p-187",
+    "before": "A giant’s first slammed",
+    "after": "A giant’s fist slammed",
+    "reason": "The acceleration is compared with a giant’s fist; first is a one-letter OCR insertion.",
+    "confidence": "high",
+    "id": "v17-strange-a016"
+  },
+  {
+    "book": "to-the-seventh",
+    "chapter": "story",
+    "paragraph": "p-211",
+    "before": "try not ask",
+    "after": "try not to ask",
+    "reason": "Missing infinitive marker to in the phrase try not to ask.",
+    "confidence": "high",
+    "id": "v17-strange-a017"
+  },
+  {
+    "book": "to-the-seventh",
+    "chapter": "story",
+    "paragraph": "p-227",
+    "before": "“freckles and all. “Not one",
+    "after": "“freckles and all. Not one",
+    "reason": "Extraneous opening quotation mark interrupts a single continuous speech in the same paragraph.",
+    "confidence": "high",
+    "id": "v17-strange-a018"
+  },
+  {
+    "book": "queen-of-the-night",
+    "chapter": "story",
+    "paragraph": "p-011",
+    "before": "new-drug graves",
+    "after": "new-dug graves",
+    "reason": "Transposed letters in the familiar adjective new-dug for freshly excavated graves.",
+    "confidence": "high",
+    "id": "v17-strange-b001"
+  },
+  {
+    "book": "queen-of-the-night",
+    "chapter": "story",
+    "paragraph": "p-018",
+    "before": "Eeesheea said",
+    "after": "Eeesheeea said",
+    "reason": "A single missing e in the name consistently spelled Eeesheeea elsewhere.",
+    "confidence": "high",
+    "id": "v17-strange-b002"
+  },
+  {
+    "book": "queen-of-the-night",
+    "chapter": "story",
+    "paragraph": "p-053",
+    "before": "horses’s hooves",
+    "after": "horses’ hooves",
+    "reason": "Plural possessive punctuation for the horses pulling the coach.",
+    "confidence": "high",
+    "id": "v17-strange-b003"
+  },
+  {
+    "book": "queen-of-the-night",
+    "chapter": "story",
+    "paragraph": "p-093",
+    "before": "Beetheeeor",
+    "after": "Beeetheeeor",
+    "reason": "A single missing e in the name consistently spelled Beeetheeeor elsewhere.",
+    "confidence": "high",
+    "id": "v17-strange-b004"
+  },
+  {
+    "book": "queen-of-the-night",
+    "chapter": "story",
+    "paragraph": "p-143",
+    "before": "“I did?,”",
+    "after": "“I did?”",
+    "reason": "Extraneous comma after question mark inside dialogue.",
+    "confidence": "high",
+    "id": "v17-strange-b005"
+  },
+  {
+    "book": "queen-of-the-night",
+    "chapter": "story",
+    "paragraph": "p-172",
+    "before": "waiting for here",
+    "after": "waiting for her",
+    "reason": "The sentence refers to the woman he waits for; here is an accidental extra letter.",
+    "confidence": "high",
+    "id": "v17-strange-b006"
+  },
+  {
+    "book": "flash-company",
+    "chapter": "story",
+    "paragraph": "p-026",
+    "before": "my lady. boys.",
+    "after": "my lady, boys.",
+    "reason": "Vocative boys requires a comma, not a full stop separating it from the preceding phrase.",
+    "confidence": "high",
+    "id": "v17-strange-b007"
+  },
+  {
+    "book": "flash-company",
+    "chapter": "story",
+    "paragraph": "p-043",
+    "before": "low-down base",
+    "after": "low-down bass",
+    "reason": "The musical low register is bass, not base.",
+    "confidence": "high",
+    "id": "v17-strange-b008"
+  },
+  {
+    "book": "flash-company",
+    "chapter": "story",
+    "paragraph": "p-099",
+    "before": "growling base",
+    "after": "growling bass",
+    "reason": "The musical low register is bass, not base.",
+    "confidence": "high",
+    "id": "v17-strange-b009"
+  },
+  {
+    "book": "flash-company",
+    "chapter": "story",
+    "paragraph": "p-096",
+    "before": "Flash company. love,",
+    "after": "Flash company, love,",
+    "reason": "Vocative love is preceded by an erroneous full stop.",
+    "confidence": "high",
+    "id": "v17-strange-b010"
+  },
+  {
+    "book": "the-haunted-boardinghouse",
+    "chapter": "story",
+    "paragraph": "p-025",
+    "before": "at two the afternoon",
+    "after": "at two in the afternoon",
+    "reason": "Missing preposition in the time expression.",
+    "confidence": "high",
+    "id": "v17-strange-b011"
+  },
+  {
+    "book": "the-haunted-boardinghouse",
+    "chapter": "story",
+    "paragraph": "p-064",
+    "before": "books—.A Modern Geography",
+    "after": "books—A Modern Geography",
+    "reason": "Extraneous full stop immediately after the dash before a book title.",
+    "confidence": "high",
+    "id": "v17-strange-b012"
+  },
+  {
+    "book": "the-haunted-boardinghouse",
+    "chapter": "story",
+    "paragraph": "p-100",
+    "before": "won’t eat,” She laid",
+    "after": "won’t eat.” She laid",
+    "reason": "A completed sentence of dialogue is followed by a separate action sentence.",
+    "confidence": "high",
+    "id": "v17-strange-b013"
+  },
+  {
+    "book": "useful-phrases",
+    "chapter": "story",
+    "paragraph": "p-005",
+    "before": "Tobish Ablar",
+    "after": "Tohish Ablar",
+    "reason": "A b/h substitution in the phrase consistently spelled Tohish Ablar elsewhere.",
+    "confidence": "high",
+    "id": "v17-strange-b014"
+  },
+  {
+    "book": "useful-phrases",
+    "chapter": "story",
+    "paragraph": "p-043",
+    "before": "catch lying seeds",
+    "after": "catch flying seeds",
+    "reason": "The surrounding description depicts airborne seeds pursued by fish; initial f has been dropped.",
+    "confidence": "high",
+    "id": "v17-strange-b015"
+  },
+  {
+    "book": "the-man-in-the-pepper-mill",
+    "chapter": "story",
+    "paragraph": "p-160",
+    "before": "“We’ll, we were,”",
+    "after": "“Well, we were,”",
+    "reason": "Incorrect apostrophe turns the introductory adverb into a contraction.",
+    "confidence": "high",
+    "id": "v17-strange-b016"
+  },
+  {
+    "book": "the-man-in-the-pepper-mill",
+    "chapter": "story",
+    "paragraph": "p-179",
+    "before": "on the lighthouse”",
+    "after": "on the lighthouse.”",
+    "reason": "Missing full stop at the end of the spoken sentence.",
+    "confidence": "high",
+    "id": "v17-strange-b017"
+  },
+  {
+    "book": "aint-you-most-done",
+    "chapter": "story",
+    "paragraph": "p-083",
+    "before": "did not seems strange",
+    "after": "did not seem strange",
+    "reason": "The auxiliary did requires the base form seem.",
+    "confidence": "high",
+    "id": "v17-strange-b018"
+  },
+  {
+    "book": "aint-you-most-done",
+    "chapter": "story",
+    "paragraph": "p-182",
+    "before": "surprising hard and muscular",
+    "after": "surprisingly hard and muscular",
+    "reason": "An adverb is required to modify hard and muscular.",
+    "confidence": "high",
+    "id": "v17-strange-b019"
+  },
+  {
+    "book": "the-ziggurat",
+    "chapter": "story",
+    "paragraph": "p-023",
+    "before": "ankledeep",
+    "after": "ankle-deep",
+    "reason": "Restore the missing hyphen in the compound adjective.",
+    "confidence": "high",
+    "id": "v17-strange-c001"
+  },
+  {
+    "book": "the-ziggurat",
+    "chapter": "story",
+    "paragraph": "p-074",
+    "before": "bluemink",
+    "after": "blue-mink",
+    "reason": "Separate a fused color/material compound modifying pillbox hat.",
+    "confidence": "high",
+    "id": "v17-strange-c002"
+  },
+  {
+    "book": "the-ziggurat",
+    "chapter": "story",
+    "paragraph": "p-149",
+    "before": "sheriffs office",
+    "after": "sheriff’s office",
+    "reason": "Restore the singular possessive apostrophe.",
+    "confidence": "high",
+    "id": "v17-strange-c003"
+  },
+  {
+    "book": "the-ziggurat",
+    "chapter": "story",
+    "paragraph": "p-157",
+    "before": "sheriffs office",
+    "after": "sheriff’s office",
+    "reason": "Restore the singular possessive apostrophe.",
+    "confidence": "high",
+    "id": "v17-strange-c004"
+  },
+  {
+    "book": "the-ziggurat",
+    "chapter": "story",
+    "paragraph": "p-213",
+    "before": "shinhigh",
+    "after": "shin-high",
+    "reason": "Restore the missing hyphen in the compound adjective.",
+    "confidence": "high",
+    "id": "v17-strange-c005"
+  },
+  {
+    "book": "the-ziggurat",
+    "chapter": "story",
+    "paragraph": "p-667",
+    "before": "sheriffs number",
+    "after": "sheriff’s number",
+    "reason": "Restore the singular possessive apostrophe.",
+    "confidence": "high",
+    "id": "v17-strange-c006"
+  },
+  {
+    "book": "the-ziggurat",
+    "chapter": "story",
+    "paragraph": "p-743",
+    "before": "showshoes",
+    "after": "snowshoes",
+    "reason": "The surrounding passages consistently identify the footwear as snowshoes; this is a letter substitution.",
+    "confidence": "high",
+    "id": "v17-strange-c007"
+  },
+  {
+    "book": "the-ziggurat",
+    "chapter": "story",
+    "paragraph": "p-780",
+    "before": "sheriffs investigator",
+    "after": "sheriff’s investigator",
+    "reason": "Restore the singular possessive apostrophe.",
+    "confidence": "high",
+    "id": "v17-strange-c008"
+  },
+  {
+    "book": "the-ziggurat",
+    "chapter": "story",
+    "paragraph": "p-811",
+    "before": "that he if talked",
+    "after": "that if he talked",
+    "reason": "Transpose the accidentally reversed words to restore the conditional clause.",
+    "confidence": "high",
+    "id": "v17-strange-c009"
+  },
+  {
+    "book": "the-ziggurat",
+    "chapter": "story",
+    "paragraph": "p-839",
+    "before": "closer to the skin that I think",
+    "after": "closer to the skin than I think",
+    "reason": "Restore than in the comparative construction.",
+    "confidence": "high",
+    "id": "v17-strange-c010"
+  },
+  {
+    "book": "the-ziggurat",
+    "chapter": "story",
+    "paragraph": "p-880",
+    "before": "sheriffs concerned",
+    "after": "sheriff’s concerned",
+    "reason": "Restore the apostrophe in the contraction sheriff is.",
+    "confidence": "high",
+    "id": "v17-strange-c011"
   }
 ]
