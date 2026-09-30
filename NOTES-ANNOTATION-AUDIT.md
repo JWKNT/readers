@@ -211,7 +211,8 @@ follow-on pass screened all three Solar Cycle readers. It adds 483 entries:
 new source URLs. Twenty-one existing entries receive definition, source, or
 alias refinements. A separate exact-anchor correction distinguishes ornamental
 pampas grass from the South American grasslands. Short Sun’s familiar ordinary
-animal-horn gloss is removed. The three readers now contain 1,925 notes.
+animal-horn gloss and New Sun’s misleading ordinary-adjective gloss for the
+fictional rank “exultant” are removed. The three readers now contain 1,924 notes.
 
 The work covers 313 narrative sections and 1,371,077 narrative words. The five
 New Sun appendixes and six Long/Short Sun Proper Names lists receive no new
@@ -242,7 +243,9 @@ output writes. The pampa correction preserves its genuine grassland occurrence.
 
 All 324 Solar chapter files preserve their exact visible text, paragraph metadata,
 word counts, decorative initials and reversible correction attributes against
-`97d6dcf`. Excluded sections remain byte-identical. The incremental build is
+`97d6dcf`. Excluded sections receive no new notes. Three New Sun appendixes
+change only by removing the old exultant annotation; their prose and original
+notes remain exact. Other excluded sections remain byte-identical. The incremental build is
 idempotent; all 33 repository tests and the full validator pass. Independent
 maintenance tests cover stale targets, missing/malformed static files, relocated
 first aliases, standalone source-link updates, same-ID widening, and removals

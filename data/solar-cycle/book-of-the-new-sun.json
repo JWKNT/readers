@@ -5861,22 +5861,6 @@
     "possible": false
   },
   {
-    "id": "exultant",
-    "term": "exultant",
-    "short": "Triumphantly joyful.",
-    "note": "Rejoicing intensely or triumphantly; from Latin exsultare, to leap up or rejoice.",
-    "sources": [
-      {
-        "url": "https://www.merriam-webster.com/dictionary/exultant",
-        "label": "Merriam-Webster · exultant"
-      }
-    ],
-    "aliases": [
-      "exultants"
-    ],
-    "possible": false
-  },
-  {
     "id": "fechin",
     "term": "Fechin",
     "short": "Possibly the painter Nicolai Fechin.",

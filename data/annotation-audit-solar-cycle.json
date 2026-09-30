@@ -7,11 +7,11 @@
   "summary": {
     "added": 483,
     "updated": 21,
-    "removed": 1,
+    "removed": 2,
     "narrative_sections": 313,
     "narrative_words": 1371077,
     "distinct_new_source_urls": 490,
-    "total_notes_after": 1925,
+    "total_notes_after": 1924,
     "reviewed_original_notes": 1443
   },
   "preservation": {
@@ -20,7 +20,30 @@
     "paragraph_ids_and_metadata": true,
     "correction_attributes": true,
     "decorative_initials": true,
-    "excluded_sections_byte_identical": true,
+    "excluded_sections_byte_identical": false,
+    "excluded_section_annotation_removals": [
+      {
+        "reader": "book-of-the-new-sun",
+        "section": "shadow-appendix",
+        "removed_annotations": [
+          "exultant"
+        ]
+      },
+      {
+        "reader": "book-of-the-new-sun",
+        "section": "edition-part0071",
+        "removed_annotations": [
+          "exultant"
+        ]
+      },
+      {
+        "reader": "book-of-the-new-sun",
+        "section": "edition-part0112",
+        "removed_annotations": [
+          "exultant"
+        ]
+      }
+    ],
     "original_anchors_retained_except_reviewed_changes": true
   },
   "editorial_highlights": [
@@ -28,7 +51,7 @@
     "Separate ornamental pampas grass from the grassland definition using one exact guarded anchor correction.",
     "Broaden algophilist, clerestory and agnation to their attested contextual senses.",
     "Consolidate variant spellings and inflections under existing entries instead of duplicating notes.",
-    "Remove the low-value ordinary animal-horn definition from Short Sun.",
+    "Remove the low-value ordinary animal-horn definition from Short Sun and the misleading ordinary-adjective exultant gloss from New Sun.",
     "Full popup definitions are standalone; technical and theological notes do not endorse fictional claims."
   ],
   "readers": [
@@ -54,8 +77,10 @@
         "capote",
         "espalier"
       ],
-      "removed": [],
-      "after": 952,
+      "removed": [
+        "exultant"
+      ],
+      "after": 951,
       "first_anchor_changes": [
         {
           "id": "merlon",
