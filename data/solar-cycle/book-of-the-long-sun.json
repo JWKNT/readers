@@ -66,16 +66,27 @@
     "id": "coruscant",
     "term": "coruscant",
     "aliases": [
-      "coruscant"
+      "coruscated"
     ],
-    "note": "Flashing or sparkling with light.",
+    "note": "Coruscant means flashing or sparkling; to coruscate is to give off bright flashes or glitter.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/coruscant",
-        "label": "Merriam-Webster"
+        "label": "Merriam-Webster: coruscant"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/coruscate",
+        "label": "Merriam-Webster: coruscate"
       }
     ],
-    "short": "Flashing or sparkling."
+    "short": "Flashing or sparkling with light.",
+    "evidence": [
+      {
+        "chapter": "exodus-01",
+        "paragraph": "p-112",
+        "context": "“We have been, er, companions, Maytera. Coworkers—ah—partners in peace, hey? Son and daughter of the Chapter. We have conferred, and the same—um—consecrated vision has inspired us "
+      }
+    ]
   },
   {
     "id": "typhon",
@@ -2746,15 +2757,26 @@
     "aliases": [
       "Palatine"
     ],
-    "short": "Of a palace; possessing royal privileges.",
-    "note": "Connected with an imperial palace or endowed with royal authority. As a noun, a high palace official or a lord exercising sovereign powers in a territory.",
+    "short": "Possibly Rome’s Palatine Hill, site of imperial palaces.",
+    "note": "Possibly the Palatine Hill, one of Rome’s seven hills, where aristocratic houses and later imperial palaces were built. The related adjective palatine means belonging to a palace or possessing royal authority.",
     "sources": [
       {
+        "url": "https://www.italia.it/en/lazio/rome/palatine-hill",
+        "label": "Italia.it: Palatine Hill"
+      },
+      {
         "url": "https://www.merriam-webster.com/dictionary/palatine",
-        "label": "Merriam-Webster"
+        "label": "Merriam-Webster: palatine"
       }
     ],
-    "possible": false
+    "possible": true,
+    "evidence": [
+      {
+        "chapter": "nightside-01",
+        "paragraph": "p-006",
+        "context": "-proud houses on the Palatine."
+      }
+    ]
   },
   {
     "id": "rani",
@@ -8070,5 +8092,179 @@
       }
     ],
     "evidence": "exodus-06/p-355: “That’d feague you, huh? He’s not. Auk won’t work for anybody else, and he’s too peppery for my trade anyhow. I wa"
+  },
+  {
+    "id": "sprats",
+    "term": "sprats",
+    "aliases": [
+      "sprat"
+    ],
+    "short": "Small fish; figuratively, small or insignificant people.",
+    "note": "A sprat is a small herring-family fish. The word is also applied to a small or insignificant person, often a child.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sprat",
+        "label": "Merriam-Webster: sprat"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "nightside-01",
+        "paragraph": "p-056",
+        "context": "The tall boy's head bobbed. \"And all the other sprats, too, Patera. There are a couple of dozen that I know we can trust. Maybe more.\""
+      }
+    ]
+  },
+  {
+    "id": "bootless",
+    "term": "bootless",
+    "aliases": [],
+    "short": "Useless or unavailing.",
+    "note": "An older adjective for something that produces no benefit, result, or advantage.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bootless",
+        "label": "Merriam-Webster: bootless"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "calde-epilogue",
+        "paragraph": "p-005",
+        "context": "t good did those patrols do? Speculation about the Fliers had been dismissed as bootless at the schola, until the Ayuntamiento had condemned them as spies."
+      }
+    ]
+  },
+  {
+    "id": "suborn",
+    "term": "suborn",
+    "aliases": [],
+    "short": "To induce someone to commit a wrongful act.",
+    "note": "To persuade, bribe, or secretly induce someone to do wrong; in legal usage, especially to procure false testimony.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/suborn",
+        "label": "Merriam-Webster: suborn"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "exodus-13",
+        "paragraph": "p-249",
+        "context": "by my orders; and that she’s shown clearly that she thinks it useless to try to suborn your loyalty.”"
+      }
+    ]
+  },
+  {
+    "id": "burse",
+    "term": "burse",
+    "aliases": [],
+    "short": "A purse, or the funds it represents.",
+    "note": "An old word for a purse. Figuratively, a purse can mean the money available to meet expenses.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/burse",
+        "label": "Merriam-Webster: burse"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/purse",
+        "label": "Merriam-Webster: purse, financial sense"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "lake-04",
+        "paragraph": "p-049",
+        "context": "atera. We'll let him do it, hey? Why not? Let him bear the expense, and not the burse, eh? Eventually he'll donate everything to us again. Give it all back to the Chapter, eh? A meritorious act.\""
+      }
+    ]
+  },
+  {
+    "id": "lanyard",
+    "term": "lanyard",
+    "aliases": [],
+    "short": "A cord pulled to fire a cannon.",
+    "note": "Among its several uses, lanyard denotes the cord connected to a gun’s firing mechanism.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lanyard",
+        "label": "Merriam-Webster: lanyard"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "lake-09",
+        "paragraph": "p-116",
+        "context": "ot itself that it'll practically cook off a fresh round before you can pull the lanyard. And when that casing pops out, well, you could see it in the dark."
+      }
+    ]
+  },
+  {
+    "id": "combers",
+    "term": "combers",
+    "aliases": [],
+    "short": "Long waves with curling crests.",
+    "note": "A comber is a long sea wave whose crest curls over as it breaks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/comber",
+        "label": "Merriam-Webster: comber"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "lake-11",
+        "paragraph": "p-021",
+        "context": "She was not there. Wind-driven combers charged at the tumbled rocks like a herd of white-maned horses, but she was not among them."
+      }
+    ]
+  },
+  {
+    "id": "plashing",
+    "term": "plashing",
+    "aliases": [],
+    "short": "Splashing gently.",
+    "note": "To plash is to splash or make a soft splashing sound.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/plash",
+        "label": "Merriam-Webster: plash"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "nightside-09",
+        "paragraph": "p-252",
+        "context": "Blood's voice came to him faintly through the plashing of the fountain. \"Don't rush him.\""
+      }
+    ]
+  },
+  {
+    "id": "heeling",
+    "term": "heeling",
+    "aliases": [],
+    "short": "Leaning to one side, as a sailing vessel does.",
+    "note": "To heel is to tilt or incline sideways from the upright position.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/heel",
+        "label": "Merriam-Webster: heel"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "lake-06",
+        "paragraph": "p-135",
+        "context": "he jetty, admiring the broad blue purity of the lake and the scores of bobbing, heeling craft whose snowy sails dotted it, he meditated upon Oreb's meal."
+      }
+    ]
   }
 ]

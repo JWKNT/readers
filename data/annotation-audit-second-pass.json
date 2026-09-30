@@ -1,0 +1,5437 @@
+{
+  "schema": 1,
+  "date": "2026-09-30",
+  "baseline": "b7f9ac275888d4af5596d343989c1d298102c50a",
+  "scope": {
+    "catalogReaders": 79,
+    "catalogChapters": 618,
+    "narrativeWordsBefore": 2754839,
+    "definitionsScreened": 3817,
+    "originalLiuFootnotesReviewed": 79
+  },
+  "method": [
+    "Full catalog Unicode, punctuation, spacing and OCR-pattern inventory with contextual review of flagged candidates.",
+    "Screened every existing short/full definition and its first rendered context; checked ambiguous aliases, selected adjacent paragraphs and targeted all-occurrence lists.",
+    "Compared Solar and other-reader vocabulary in context, rather than copying definitions automatically.",
+    "Opened independent sources for accepted new or revised claims. Existing sources were selectively checked, not universally recertified.",
+    "Used canonical authored annotation files and the reversible paragraph-addressed editorial ledger, then regenerated outputs."
+  ],
+  "limits": [
+    "This is not an uninterrupted line-by-line rereading of all 2.75 million words or an exhaustive identification of every allusion.",
+    "No original EPUB was newly available for independent collation. High-confidence transcription repairs use local grammar, repeated canonical spellings and documented source-export context.",
+    "34 punctuation/Unicode recoveries with uncertain exact original wording remain deferred.",
+    "Native phone/Safari and print behavior are not claimed as tested."
+  ],
+  "summary": {
+    "newAnnotations": 44,
+    "revisedAnnotations": 15,
+    "removedEntries": 3,
+    "removalBreakdown": {
+      "misleadingDefinitions": 2,
+      "duplicateMerged": 1
+    },
+    "newEditorialLedgerRows": 186,
+    "searchLineBoundaryParagraphs": 12,
+    "finalGlossaryEntries": 3858
+  },
+  "coverage": [
+    {
+      "reader": "book-of-the-new-sun",
+      "chapters": 198,
+      "narrativeWordsBefore": 510472,
+      "narrativeWordsAfter": 510474,
+      "definitionsScreened": 951,
+      "definitionsAfter": 969,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": [
+        {
+          "id": "anacreontic",
+          "action": "update"
+        },
+        {
+          "id": "proscenium",
+          "action": "update"
+        },
+        {
+          "id": "palinode",
+          "action": "update"
+        },
+        {
+          "id": "narthex",
+          "action": "update"
+        },
+        {
+          "id": "pardal",
+          "action": "update"
+        },
+        {
+          "id": "shingle",
+          "action": "add"
+        },
+        {
+          "id": "shrive",
+          "action": "add"
+        },
+        {
+          "id": "gobbet",
+          "action": "add"
+        },
+        {
+          "id": "gaff",
+          "action": "add"
+        },
+        {
+          "id": "bravos",
+          "action": "add"
+        },
+        {
+          "id": "lianas",
+          "action": "add"
+        },
+        {
+          "id": "sweeps-oars",
+          "action": "add"
+        },
+        {
+          "id": "rheumy",
+          "action": "add"
+        },
+        {
+          "id": "ewer",
+          "action": "add"
+        },
+        {
+          "id": "mews",
+          "action": "add"
+        },
+        {
+          "id": "kine",
+          "action": "add"
+        },
+        {
+          "id": "phantasmagoria",
+          "action": "add"
+        },
+        {
+          "id": "companionway",
+          "action": "add"
+        },
+        {
+          "id": "close-hauled",
+          "action": "add"
+        },
+        {
+          "id": "freshet",
+          "action": "add"
+        },
+        {
+          "id": "mora",
+          "action": "add"
+        },
+        {
+          "id": "estrapade",
+          "action": "add"
+        },
+        {
+          "id": "tarentines",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapters": 58,
+      "narrativeWordsBefore": 462159,
+      "narrativeWordsAfter": 462158,
+      "definitionsScreened": 511,
+      "definitionsAfter": 519,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": [
+        {
+          "id": "coruscant",
+          "action": "update"
+        },
+        {
+          "id": "palatine",
+          "action": "update"
+        },
+        {
+          "id": "sprats",
+          "action": "add"
+        },
+        {
+          "id": "bootless",
+          "action": "add"
+        },
+        {
+          "id": "suborn",
+          "action": "add"
+        },
+        {
+          "id": "burse",
+          "action": "add"
+        },
+        {
+          "id": "lanyard",
+          "action": "add"
+        },
+        {
+          "id": "combers",
+          "action": "add"
+        },
+        {
+          "id": "plashing",
+          "action": "add"
+        },
+        {
+          "id": "heeling",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "reader": "book-of-the-short-sun",
+      "chapters": 68,
+      "narrativeWordsBefore": 401944,
+      "narrativeWordsAfter": 401941,
+      "definitionsScreened": 462,
+      "definitionsAfter": 466,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": [
+        {
+          "id": "palatine",
+          "action": "update"
+        },
+        {
+          "id": "ambion",
+          "action": "add"
+        },
+        {
+          "id": "close-hauled",
+          "action": "add"
+        },
+        {
+          "id": "scullery",
+          "action": "add"
+        },
+        {
+          "id": "wainscot",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "reader": "the-fifth-head-of-cerberus",
+      "chapters": 4,
+      "narrativeWordsBefore": 78077,
+      "narrativeWordsAfter": 78078,
+      "definitionsScreened": 128,
+      "definitionsAfter": 128,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "aint-you-most-done",
+      "chapters": 1,
+      "narrativeWordsBefore": 8668,
+      "narrativeWordsAfter": 8668,
+      "definitionsScreened": 29,
+      "definitionsAfter": 29,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "all-the-hues-of-hell",
+      "chapters": 1,
+      "narrativeWordsBefore": 4669,
+      "narrativeWordsAfter": 4669,
+      "definitionsScreened": 6,
+      "definitionsAfter": 6,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "and-when-they-appear",
+      "chapters": 2,
+      "narrativeWordsBefore": 8457,
+      "narrativeWordsAfter": 8457,
+      "definitionsScreened": 16,
+      "definitionsAfter": 16,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "bed-and-breakfast",
+      "chapters": 2,
+      "narrativeWordsBefore": 8577,
+      "narrativeWordsAfter": 8577,
+      "definitionsScreened": 12,
+      "definitionsAfter": 12,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "beech-hill",
+      "chapters": 2,
+      "narrativeWordsBefore": 2216,
+      "narrativeWordsAfter": 2216,
+      "definitionsScreened": 2,
+      "definitionsAfter": 2,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "bluesberry-jam",
+      "chapters": 1,
+      "narrativeWordsBefore": 8601,
+      "narrativeWordsAfter": 8601,
+      "definitionsScreened": 11,
+      "definitionsAfter": 11,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-boy-who-hooked-the-sun",
+      "chapters": 2,
+      "narrativeWordsBefore": 1130,
+      "narrativeWordsAfter": 1130,
+      "definitionsScreened": 6,
+      "definitionsAfter": 6,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "a-cabin-on-the-coast",
+      "chapters": 2,
+      "narrativeWordsBefore": 4350,
+      "narrativeWordsAfter": 4350,
+      "definitionsScreened": 6,
+      "definitionsAfter": 6,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-cat",
+      "chapters": 1,
+      "narrativeWordsBefore": 2651,
+      "narrativeWordsAfter": 2651,
+      "definitionsScreened": 34,
+      "definitionsAfter": 34,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "counting-cats-in-zanzibar",
+      "chapters": 1,
+      "narrativeWordsBefore": 6086,
+      "narrativeWordsAfter": 6086,
+      "definitionsScreened": 22,
+      "definitionsAfter": 22,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-dark-of-the-june",
+      "chapters": 1,
+      "narrativeWordsBefore": 2185,
+      "narrativeWordsAfter": 2185,
+      "definitionsScreened": 3,
+      "definitionsAfter": 3,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-death-of-dr-island",
+      "chapters": 2,
+      "narrativeWordsBefore": 20671,
+      "narrativeWordsAfter": 20671,
+      "definitionsScreened": 23,
+      "definitionsAfter": 24,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": [
+        {
+          "id": "catatonia",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "reader": "the-death-of-hyle",
+      "chapters": 1,
+      "narrativeWordsBefore": 2270,
+      "narrativeWordsAfter": 2270,
+      "definitionsScreened": 7,
+      "definitionsAfter": 7,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-death-of-koshchei-the-deathless",
+      "chapters": 2,
+      "narrativeWordsBefore": 6092,
+      "narrativeWordsAfter": 6092,
+      "definitionsScreened": 55,
+      "definitionsAfter": 55,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "death-of-the-island-doctor",
+      "chapters": 2,
+      "narrativeWordsBefore": 2229,
+      "narrativeWordsAfter": 2229,
+      "definitionsScreened": 18,
+      "definitionsAfter": 18,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-detective-of-dreams",
+      "chapters": 2,
+      "narrativeWordsBefore": 6933,
+      "narrativeWordsAfter": 6933,
+      "definitionsScreened": 10,
+      "definitionsAfter": 10,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "eyebem",
+      "chapters": 1,
+      "narrativeWordsBefore": 4225,
+      "narrativeWordsAfter": 4225,
+      "definitionsScreened": 9,
+      "definitionsAfter": 9,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-eyeflash-miracles",
+      "chapters": 2,
+      "narrativeWordsBefore": 23757,
+      "narrativeWordsAfter": 23757,
+      "definitionsScreened": 20,
+      "definitionsAfter": 20,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "flash-company",
+      "chapters": 1,
+      "narrativeWordsBefore": 3532,
+      "narrativeWordsAfter": 3532,
+      "definitionsScreened": 19,
+      "definitionsAfter": 19,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "forlesen",
+      "chapters": 2,
+      "narrativeWordsBefore": 18725,
+      "narrativeWordsAfter": 18725,
+      "definitionsScreened": 7,
+      "definitionsAfter": 7,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "from-the-desk-of-gilmer-c-merton",
+      "chapters": 2,
+      "narrativeWordsBefore": 1547,
+      "narrativeWordsAfter": 1547,
+      "definitionsScreened": 3,
+      "definitionsAfter": 3,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "from-the-notebook-of-dr-stein",
+      "chapters": 1,
+      "narrativeWordsBefore": 2046,
+      "narrativeWordsAfter": 2046,
+      "definitionsScreened": 9,
+      "definitionsAfter": 9,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "game-in-the-popes-head",
+      "chapters": 2,
+      "narrativeWordsBefore": 1847,
+      "narrativeWordsAfter": 1847,
+      "definitionsScreened": 8,
+      "definitionsAfter": 8,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-god-and-his-man",
+      "chapters": 2,
+      "narrativeWordsBefore": 2205,
+      "narrativeWordsAfter": 2205,
+      "definitionsScreened": 4,
+      "definitionsAfter": 4,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "has-anybody-seen-junie-moon",
+      "chapters": 2,
+      "narrativeWordsBefore": 6338,
+      "narrativeWordsAfter": 6338,
+      "definitionsScreened": 5,
+      "definitionsAfter": 5,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-haunted-boardinghouse",
+      "chapters": 1,
+      "narrativeWordsBefore": 9319,
+      "narrativeWordsAfter": 9319,
+      "definitionsScreened": 71,
+      "definitionsAfter": 71,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-headless-man",
+      "chapters": 1,
+      "narrativeWordsBefore": 2362,
+      "narrativeWordsAfter": 2362,
+      "definitionsScreened": 4,
+      "definitionsAfter": 4,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-hero-as-werwolf",
+      "chapters": 2,
+      "narrativeWordsBefore": 6448,
+      "narrativeWordsAfter": 6448,
+      "definitionsScreened": 8,
+      "definitionsAfter": 8,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-horars-of-war",
+      "chapters": 1,
+      "narrativeWordsBefore": 6646,
+      "narrativeWordsAfter": 6646,
+      "definitionsScreened": 4,
+      "definitionsAfter": 4,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "hour-of-trust",
+      "chapters": 2,
+      "narrativeWordsBefore": 12017,
+      "narrativeWordsAfter": 12017,
+      "definitionsScreened": 13,
+      "definitionsAfter": 13,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "house-of-ancestors",
+      "chapters": 1,
+      "narrativeWordsBefore": 8639,
+      "narrativeWordsAfter": 8639,
+      "definitionsScreened": 5,
+      "definitionsAfter": 5,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "in-the-house-of-gingerbread",
+      "chapters": 1,
+      "narrativeWordsBefore": 5946,
+      "narrativeWordsAfter": 5946,
+      "definitionsScreened": 4,
+      "definitionsAfter": 4,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-island-of-doctor-death-and-other-stories",
+      "chapters": 2,
+      "narrativeWordsBefore": 6199,
+      "narrativeWordsAfter": 6199,
+      "definitionsScreened": 6,
+      "definitionsAfter": 6,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "kevin-malone",
+      "chapters": 2,
+      "narrativeWordsBefore": 3805,
+      "narrativeWordsAfter": 3805,
+      "definitionsScreened": 5,
+      "definitionsAfter": 5,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "la-befana",
+      "chapters": 2,
+      "narrativeWordsBefore": 1350,
+      "narrativeWordsAfter": 1350,
+      "definitionsScreened": 3,
+      "definitionsAfter": 3,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-last-thrilling-wonder-story",
+      "chapters": 1,
+      "narrativeWordsBefore": 9154,
+      "narrativeWordsAfter": 9154,
+      "definitionsScreened": 3,
+      "definitionsAfter": 3,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "lukora",
+      "chapters": 1,
+      "narrativeWordsBefore": 2571,
+      "narrativeWordsAfter": 2571,
+      "definitionsScreened": 5,
+      "definitionsAfter": 5,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-man-in-the-pepper-mill",
+      "chapters": 1,
+      "narrativeWordsBefore": 5852,
+      "narrativeWordsAfter": 5852,
+      "definitionsScreened": 17,
+      "definitionsAfter": 17,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-map",
+      "chapters": 1,
+      "narrativeWordsBefore": 5027,
+      "narrativeWordsAfter": 5027,
+      "definitionsScreened": 41,
+      "definitionsAfter": 41,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-marvelous-brass-chessplaying-automaton",
+      "chapters": 2,
+      "narrativeWordsBefore": 7147,
+      "narrativeWordsAfter": 7147,
+      "definitionsScreened": 9,
+      "definitionsAfter": 9,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-most-beautiful-woman-on-the-world",
+      "chapters": 1,
+      "narrativeWordsBefore": 4899,
+      "narrativeWordsAfter": 4899,
+      "definitionsScreened": 6,
+      "definitionsAfter": 6,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "my-book",
+      "chapters": 1,
+      "narrativeWordsBefore": 558,
+      "narrativeWordsAfter": 558,
+      "definitionsScreened": 6,
+      "definitionsAfter": 6,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-nebraskan-and-the-nereid",
+      "chapters": 1,
+      "narrativeWordsBefore": 3112,
+      "narrativeWordsAfter": 3112,
+      "definitionsScreened": 11,
+      "definitionsAfter": 11,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "no-planets-strike",
+      "chapters": 1,
+      "narrativeWordsBefore": 4556,
+      "narrativeWordsAfter": 4556,
+      "definitionsScreened": 12,
+      "definitionsAfter": 12,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "on-the-train",
+      "chapters": 2,
+      "narrativeWordsBefore": 460,
+      "narrativeWordsAfter": 460,
+      "definitionsScreened": 1,
+      "definitionsAfter": 1,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "one-two-three-for-me",
+      "chapters": 1,
+      "narrativeWordsBefore": 2456,
+      "narrativeWordsAfter": 2456,
+      "definitionsScreened": 1,
+      "definitionsAfter": 1,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-other-dead-man",
+      "chapters": 1,
+      "narrativeWordsBefore": 6714,
+      "narrativeWordsAfter": 6714,
+      "definitionsScreened": 5,
+      "definitionsAfter": 5,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "our-neighbour-by-david-copperfield",
+      "chapters": 1,
+      "narrativeWordsBefore": 5321,
+      "narrativeWordsAfter": 5321,
+      "definitionsScreened": 7,
+      "definitionsAfter": 8,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": [
+        {
+          "id": "propinquity",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "reader": "parkroads-a-review",
+      "chapters": 2,
+      "narrativeWordsBefore": 1062,
+      "narrativeWordsAfter": 1062,
+      "definitionsScreened": 6,
+      "definitionsAfter": 6,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-peace-spy",
+      "chapters": 1,
+      "narrativeWordsBefore": 2330,
+      "narrativeWordsAfter": 2330,
+      "definitionsScreened": 5,
+      "definitionsAfter": 5,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "peritonitis",
+      "chapters": 1,
+      "narrativeWordsBefore": 2218,
+      "narrativeWordsAfter": 2218,
+      "definitionsScreened": 3,
+      "definitionsAfter": 3,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "petting-zoo",
+      "chapters": 2,
+      "narrativeWordsBefore": 2220,
+      "narrativeWordsAfter": 2220,
+      "definitionsScreened": 4,
+      "definitionsAfter": 4,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "procreation",
+      "chapters": 1,
+      "narrativeWordsBefore": 3167,
+      "narrativeWordsAfter": 3167,
+      "definitionsScreened": 6,
+      "definitionsAfter": 6,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "queen-of-the-night",
+      "chapters": 1,
+      "narrativeWordsBefore": 4992,
+      "narrativeWordsAfter": 4992,
+      "definitionsScreened": 26,
+      "definitionsAfter": 26,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-recording",
+      "chapters": 2,
+      "narrativeWordsBefore": 1498,
+      "narrativeWordsAfter": 1498,
+      "definitionsScreened": 5,
+      "definitionsAfter": 5,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "redbeard",
+      "chapters": 2,
+      "narrativeWordsBefore": 2425,
+      "narrativeWordsAfter": 2425,
+      "definitionsScreened": 2,
+      "definitionsAfter": 2,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "seven-american-nights",
+      "chapters": 2,
+      "narrativeWordsBefore": 22086,
+      "narrativeWordsAfter": 22086,
+      "definitionsScreened": 27,
+      "definitionsAfter": 27,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "silhouette",
+      "chapters": 1,
+      "narrativeWordsBefore": 18202,
+      "narrativeWordsAfter": 18202,
+      "definitionsScreened": 11,
+      "definitionsAfter": 11,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "straw",
+      "chapters": 2,
+      "narrativeWordsBefore": 3209,
+      "narrativeWordsAfter": 3209,
+      "definitionsScreened": 11,
+      "definitionsAfter": 11,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "suzanne-delage",
+      "chapters": 1,
+      "narrativeWordsBefore": 2287,
+      "narrativeWordsAfter": 2287,
+      "definitionsScreened": 4,
+      "definitionsAfter": 4,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "sweet-forest-maid",
+      "chapters": 1,
+      "narrativeWordsBefore": 1874,
+      "narrativeWordsAfter": 1874,
+      "definitionsScreened": 4,
+      "definitionsAfter": 4,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-tale-of-the-rose-and-the-nightingale-and-what-came-of-it",
+      "chapters": 1,
+      "narrativeWordsBefore": 9544,
+      "narrativeWordsAfter": 9544,
+      "definitionsScreened": 29,
+      "definitionsAfter": 32,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": [
+        {
+          "id": "galla",
+          "action": "add"
+        },
+        {
+          "id": "mount-kaf",
+          "action": "add"
+        },
+        {
+          "id": "cataracts",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "reader": "thag",
+      "chapters": 1,
+      "narrativeWordsBefore": 2493,
+      "narrativeWordsAfter": 2493,
+      "definitionsScreened": 15,
+      "definitionsAfter": 17,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": [
+        {
+          "id": "partisans",
+          "action": "add"
+        },
+        {
+          "id": "brown-bills",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "reader": "to-the-seventh",
+      "chapters": 1,
+      "narrativeWordsBefore": 6448,
+      "narrativeWordsAfter": 6448,
+      "definitionsScreened": 14,
+      "definitionsAfter": 14,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-toy-theater",
+      "chapters": 2,
+      "narrativeWordsBefore": 2576,
+      "narrativeWordsAfter": 2576,
+      "definitionsScreened": 17,
+      "definitionsAfter": 18,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": [
+        {
+          "id": "amelie-gravereaux",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "reader": "the-tree-is-my-hat",
+      "chapters": 2,
+      "narrativeWordsBefore": 10264,
+      "narrativeWordsAfter": 10264,
+      "definitionsScreened": 6,
+      "definitionsAfter": 6,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "useful-phrases",
+      "chapters": 1,
+      "narrativeWordsBefore": 2749,
+      "narrativeWordsAfter": 2749,
+      "definitionsScreened": 11,
+      "definitionsAfter": 11,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "war-beneath-the-tree",
+      "chapters": 1,
+      "narrativeWordsBefore": 2104,
+      "narrativeWordsAfter": 2104,
+      "definitionsScreened": 5,
+      "definitionsAfter": 5,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "westwind",
+      "chapters": 2,
+      "narrativeWordsBefore": 2999,
+      "narrativeWordsAfter": 2999,
+      "definitionsScreened": 2,
+      "definitionsAfter": 2,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "when-i-was-ming-the-merciless",
+      "chapters": 1,
+      "narrativeWordsBefore": 2895,
+      "narrativeWordsAfter": 2895,
+      "definitionsScreened": 3,
+      "definitionsAfter": 3,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-woman-the-unicorn-loved",
+      "chapters": 1,
+      "narrativeWordsBefore": 6335,
+      "narrativeWordsAfter": 6335,
+      "definitionsScreened": 11,
+      "definitionsAfter": 11,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-woman-who-loved-the-centaur-pholus",
+      "chapters": 1,
+      "narrativeWordsBefore": 3110,
+      "narrativeWordsAfter": 3110,
+      "definitionsScreened": 15,
+      "definitionsAfter": 15,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "the-ziggurat",
+      "chapters": 1,
+      "narrativeWordsBefore": 27229,
+      "narrativeWordsAfter": 27229,
+      "definitionsScreened": 66,
+      "definitionsAfter": 66,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": []
+    },
+    {
+      "reader": "remembrance-of-earths-past",
+      "chapters": 129,
+      "narrativeWordsBefore": 522571,
+      "narrativeWordsAfter": 522571,
+      "definitionsScreened": 350,
+      "definitionsAfter": 356,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": [
+        {
+          "id": "three-body-problem-string-theory",
+          "action": "add"
+        },
+        {
+          "id": "dark-forest-string-theory",
+          "action": "add"
+        },
+        {
+          "id": "dark-forest-nuclear-magnetic-resonance",
+          "action": "add"
+        },
+        {
+          "id": "dark-forest-limpet-mines",
+          "action": "add"
+        },
+        {
+          "id": "dark-forest-propeller-island",
+          "action": "add"
+        },
+        {
+          "id": "deaths-end-accretion-discs",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "reader": "hyperion",
+      "chapters": 57,
+      "narrativeWordsBefore": 352735,
+      "narrativeWordsAfter": 352735,
+      "definitionsScreened": 516,
+      "definitionsAfter": 513,
+      "typographyScreened": true,
+      "definitionAndFirstContextScreened": true,
+      "annotationChanges": [
+        {
+          "id": "hegirah",
+          "action": "update"
+        },
+        {
+          "id": "de-kooning",
+          "action": "update"
+        },
+        {
+          "id": "bosch",
+          "action": "update"
+        },
+        {
+          "id": "maui",
+          "action": "update"
+        },
+        {
+          "id": "gulliver",
+          "action": "update"
+        },
+        {
+          "id": "hieronymus-bosch",
+          "action": "remove"
+        },
+        {
+          "id": "charles-armitage-brown",
+          "action": "update"
+        },
+        {
+          "id": "buckminster-map",
+          "action": "update"
+        },
+        {
+          "id": "albedo",
+          "action": "remove"
+        },
+        {
+          "id": "cicero",
+          "action": "remove"
+        }
+      ]
+    }
+  ],
+  "annotationChanges": [
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "anacreontic",
+      "action": "update",
+      "reason": "The first phrase is “anacreontic diversions and fruitions,” not a poem. The old brief selects the noun sense; the adjective has an attested broader application.",
+      "before": {
+        "id": "anacreontic",
+        "term": "anacreontic",
+        "aliases": [
+          "anacreontics"
+        ],
+        "note": "In the manner of Anacreon: light lyric poetry associated with love, pleasure, and drinking.",
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/anacreontic",
+            "label": "Merriam-Webster"
+          }
+        ],
+        "short": "Light verse about love, pleasure, and drinking."
+      },
+      "oldFirst": {
+        "chapter": "shadow-10",
+        "paragraph": "p-003",
+        "index": 9
+      },
+      "after": {
+        "id": "anacreontic",
+        "term": "anacreontic",
+        "aliases": [
+          "anacreontics"
+        ],
+        "note": "Relating to the Greek poet Anacreon or his verse, especially its themes of love, wine, and pleasure; by extension, convivial or amatory in character.",
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/anacreontic",
+            "label": "Merriam-Webster: anacreontic"
+          }
+        ],
+        "short": "Concerned with love, drinking, and pleasure."
+      },
+      "first": {
+        "chapter": "shadow-10",
+        "paragraph": "p-003",
+        "index": 9
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "proscenium",
+      "action": "update",
+      "reason": "The first occurrence is a collapsing theatrical frame. The full definition already gives the framing sense, while the brief currently gives the different apron/stage-area sense. A second occurrence explicitly calls it an arch at claw-23/p-033.",
+      "before": {
+        "id": "proscenium",
+        "term": "proscenium",
+        "aliases": [
+          "proscenia",
+          "prosceniums"
+        ],
+        "note": "The opening or arch that frames a theater stage and separates it from the audience.",
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/proscenium",
+            "label": "Merriam-Webster"
+          }
+        ],
+        "short": "The part of a stage before the curtain."
+      },
+      "oldFirst": {
+        "chapter": "shadow-16",
+        "paragraph": "p-031",
+        "index": 15
+      },
+      "after": {
+        "id": "proscenium",
+        "term": "proscenium",
+        "aliases": [
+          "proscenia",
+          "prosceniums"
+        ],
+        "note": "The opening or arch that frames a theater stage and separates it from the audience.",
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/proscenium",
+            "label": "Merriam-Webster"
+          }
+        ],
+        "short": "The arch or frame surrounding a theater stage."
+      },
+      "first": {
+        "chapter": "shadow-16",
+        "paragraph": "p-031",
+        "index": 15
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "palinode",
+      "action": "update",
+      "reason": "The first occurrence, “the palinode of fate,” is figurative recantation. The full note already includes formal recantation, but the brief narrows this to a poem retracting another poem.",
+      "before": {
+        "id": "palinode",
+        "term": "palinode",
+        "aliases": [
+          "palinode"
+        ],
+        "short": "A poem retracting an earlier poem.",
+        "note": "A poem or song that withdraws a statement made in an earlier work; more broadly, a formal recantation.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/palinode",
+            "label": "Merriam-Webster"
+          }
+        ]
+      },
+      "oldFirst": {
+        "chapter": "urth-31",
+        "paragraph": "p-016",
+        "index": 176
+      },
+      "after": {
+        "id": "palinode",
+        "term": "palinode",
+        "aliases": [
+          "palinode"
+        ],
+        "short": "A recantation, especially one made in a poem.",
+        "note": "A poem or song that withdraws a statement made in an earlier work; more broadly, a formal recantation.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/palinode",
+            "label": "Merriam-Webster"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "urth-31",
+        "paragraph": "p-016",
+        "index": 176
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "narthex",
+      "action": "update",
+      "reason": "The only occurrence is “narthex sigil.” The passage does not establish the shape of the emblem. The church-entrance-only gloss is too narrow; describe attested senses without claiming which object the sigil depicts.",
+      "before": {
+        "id": "narthex",
+        "term": "narthex",
+        "aliases": [
+          "narthex"
+        ],
+        "short": "The entrance area of a church.",
+        "note": "A vestibule or porch at the entrance to a church, leading into its main interior.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/narthex",
+            "label": "Merriam-Webster"
+          }
+        ]
+      },
+      "oldFirst": {
+        "chapter": "citadel-15",
+        "paragraph": "p-003",
+        "index": 121
+      },
+      "after": {
+        "id": "narthex",
+        "term": "narthex",
+        "aliases": [
+          "narthex"
+        ],
+        "short": "Giant fennel or its stalk; also a casket or church porch.",
+        "note": "Greek narthex names giant fennel and its stalk, as well as a small case for ointments or other objects. In church architecture, it denotes an entrance porch or vestibule.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Alsj-n69750/",
+            "label": "Liddell–Scott–Jones: νάρθηξ"
+          },
+          {
+            "url": "https://www.merriam-webster.com/dictionary/narthex",
+            "label": "Merriam-Webster: narthex"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "citadel-15",
+        "paragraph": "p-003",
+        "index": 121
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "pardal",
+      "action": "update",
+      "reason": "A single unannotated “pard” is the same leopard sense already covered under pardal; consolidate it rather than duplicate the note.",
+      "before": {
+        "id": "pardal",
+        "term": "pardal",
+        "aliases": [],
+        "short": "An old name for a leopard.",
+        "note": "An obsolete word for a leopard, derived from Greek and Latin pardalis.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/pardal",
+            "label": "Merriam-Webster: pardal"
+          }
+        ]
+      },
+      "oldFirst": {
+        "chapter": "sword-10",
+        "paragraph": "p-036",
+        "index": 77
+      },
+      "after": {
+        "id": "pardal",
+        "term": "pardal",
+        "aliases": [
+          "pard"
+        ],
+        "short": "Old words for a leopard.",
+        "note": "Pard and pardal are old names for a leopard, derived from Greek and Latin forms of the animal’s name.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/pardal",
+            "label": "Merriam-Webster: pardal"
+          },
+          {
+            "url": "https://www.merriam-webster.com/dictionary/pard",
+            "label": "Merriam-Webster: pard"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "sword-10",
+        "paragraph": "p-036",
+        "index": 77
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "shingle",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "shingle",
+        "term": "shingle",
+        "aliases": [],
+        "short": "Loose pebbles along a shore.",
+        "note": "Small water-worn stones, or a beach or bank covered with them.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/shingle",
+            "label": "Merriam-Webster: shingle"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "sword-32",
+        "paragraph": "p-017",
+        "index": 99
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "shrive",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "shrive",
+        "term": "shrive",
+        "aliases": [],
+        "short": "To hear confession and grant absolution.",
+        "note": "To shrive is to hear a confession and grant absolution; older usage also includes making one’s own confession.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/shrive",
+            "label": "Merriam-Webster: shrive"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "sword-05",
+        "paragraph": "p-008",
+        "index": 72
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "gobbet",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "gobbet",
+        "term": "gobbet",
+        "aliases": [],
+        "short": "A chunk or lump, especially of meat.",
+        "note": "A sizeable piece or lump, particularly a piece of flesh.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/gobbet",
+            "label": "Merriam-Webster: gobbet"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "urth-32",
+        "paragraph": "p-056",
+        "index": 177
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "gaff",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "gaff",
+        "term": "gaff",
+        "aliases": [],
+        "short": "A spar supporting the upper edge of a sail.",
+        "note": "In sailing, a gaff is a spar carrying the upper edge of a fore-and-aft sail.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/gaff",
+            "label": "Merriam-Webster: gaff"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "urth-45",
+        "paragraph": "p-002",
+        "index": 190
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "bravos",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "bravos",
+        "term": "bravos",
+        "aliases": [],
+        "short": "Hired ruffians or killers.",
+        "note": "In this older noun sense, a bravo is a violent adventurer or assassin, especially one employed to commit crimes for someone else.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/bravo",
+            "label": "Merriam-Webster: bravo"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "shadow-12",
+        "paragraph": "p-018",
+        "index": 11
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "lianas",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "lianas",
+        "term": "lianas",
+        "aliases": [
+          "liana"
+        ],
+        "short": "Woody climbing vines.",
+        "note": "Long-stemmed woody climbers characteristic of tropical forests, often reaching the tree canopy.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/liana",
+            "label": "Merriam-Webster: liana"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "shadow-19",
+        "paragraph": "p-079",
+        "index": 18
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "sweeps-oars",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "sweeps-oars",
+        "term": "the sweeps",
+        "aliases": [],
+        "short": "Long oars used to propel a vessel.",
+        "note": "A sweep is a large oar, used to move a boat or help steer it.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.dictionary.com/browse/sweep",
+            "label": "Dictionary.com: sweep"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "citadel-32",
+        "paragraph": "p-010",
+        "index": 138
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "rheumy",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "rheumy",
+        "term": "rheumy",
+        "aliases": [],
+        "short": "Watery or affected by discharge.",
+        "note": "Describes eyes affected by rheum, a watery discharge from the mucous membranes.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/rheumy",
+            "label": "Merriam-Webster: rheumy"
+          },
+          {
+            "url": "https://www.merriam-webster.com/dictionary/rheum",
+            "label": "Merriam-Webster: rheum"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "citadel-35",
+        "paragraph": "p-046",
+        "index": 141
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "ewer",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "ewer",
+        "term": "ewer",
+        "aliases": [],
+        "short": "A pitcher or jug.",
+        "note": "A vase-shaped vessel for holding and pouring water or other liquids.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/ewer",
+            "label": "Merriam-Webster: ewer"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "claw-01",
+        "paragraph": "p-007",
+        "index": 36
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "mews",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "mews",
+        "term": "mews",
+        "aliases": [],
+        "short": "Stables, often with living quarters around a courtyard.",
+        "note": "In British usage, stables arranged around a courtyard, often with living quarters; also dwellings converted from such stables. An older falconry sense is an enclosure for trained hawks.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/mews",
+            "label": "Merriam-Webster: mews"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "shadow-26",
+        "paragraph": "p-046",
+        "index": 25
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "kine",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "kine",
+        "term": "kine",
+        "aliases": [],
+        "short": "Cows; cattle.",
+        "note": "An archaic plural of cow.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/kine",
+            "label": "Merriam-Webster: kine"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "sword-03",
+        "paragraph": "p-034",
+        "index": 70
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "phantasmagoria",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "phantasmagoria",
+        "term": "phantasmagoria",
+        "aliases": [],
+        "short": "A fantastic or dreamlike assemblage of images.",
+        "note": "A shifting succession or bizarre collection of things seen or imagined; originally a display of optical illusions.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/phantasmagoria",
+            "label": "Merriam-Webster: phantasmagoria"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "sword-06",
+        "paragraph": "p-019",
+        "index": 73
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "companionway",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "companionway",
+        "term": "companionway",
+        "aliases": [],
+        "short": "A ship’s stairway between decks.",
+        "note": "A stair or ladder providing passage from one deck of a vessel to another.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/companionway",
+            "label": "Merriam-Webster: companionway"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "urth-11",
+        "paragraph": "p-054",
+        "index": 156
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "close-hauled",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "close-hauled",
+        "term": "close-hauled",
+        "aliases": [],
+        "short": "Sailing as near into the wind as possible.",
+        "note": "Describes a vessel with its sails drawn in to travel as close to the wind’s direction as it can.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/close-hauled",
+            "label": "Merriam-Webster: close-hauled"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "urth-14",
+        "paragraph": "p-044",
+        "index": 159
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "freshet",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "freshet",
+        "term": "freshet",
+        "aliases": [],
+        "short": "A stream or rush of fresh water.",
+        "note": "An older word for a stream; also a sudden rise or flood caused by rain or melting snow.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/freshet",
+            "label": "Merriam-Webster: freshet"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "shadow-20",
+        "paragraph": "p-020",
+        "index": 19
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "mora",
+      "action": "add",
+      "reason": "Unannotated rare external term with a context-specific historical meaning.",
+      "after": {
+        "id": "mora",
+        "term": "mora",
+        "aliases": [],
+        "short": "A regiment or major division of the ancient Spartan army.",
+        "note": "A major unit of the ancient Spartan army. Xenophon describes six regimental divisions of citizen soldiers, called morai; mora is the singular.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.gutenberg.org/files/1178/1178-h/1178-h.htm",
+            "label": "Xenophon: Polity of the Lacedaemonians, XI"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "citadel-01",
+        "paragraph": "p-013",
+        "index": 107
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "estrapade",
+      "action": "add",
+      "reason": "Unannotated rare external term with a context-specific historical meaning.",
+      "after": {
+        "id": "estrapade",
+        "term": "estrapade",
+        "aliases": [],
+        "short": "A historical form of torture by suspension.",
+        "note": "French estrapade names a historical punishment involving suspension by the bound wrists and a sudden arrested fall. The word also named the structure used for it.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.dictionnaire-academie.fr/article/A9E2760",
+            "label": "Académie française: estrapade"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "shadow-30",
+        "paragraph": "p-007",
+        "index": 29
+      }
+    },
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "tarentines",
+      "action": "add",
+      "reason": "Unannotated rare external term with a context-specific historical meaning.",
+      "after": {
+        "id": "tarentines",
+        "term": "Tarentines",
+        "aliases": [],
+        "short": "Ancient light cavalry armed with javelins.",
+        "note": "In ancient military terminology, Tarentines were a type of lightly armed cavalry associated especially with throwing javelins, as distinguished from horse-archers and heavily armored cavalry.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.cs.uky.edu/~raphael/sol/sol-entries/iota/546",
+            "label": "Suda On Line: cavalry (iota 546)"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "citadel-35",
+        "paragraph": "p-063",
+        "index": 141
+      }
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "id": "coruscant",
+      "action": "update",
+      "reason": "An unannotated coruscated occurrence belongs with the existing coruscant word family, as New Sun already does. Ensure the newly earlier first appearance is checked after rebuilding.",
+      "before": {
+        "id": "coruscant",
+        "term": "coruscant",
+        "aliases": [
+          "coruscant"
+        ],
+        "note": "Flashing or sparkling with light.",
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/coruscant",
+            "label": "Merriam-Webster"
+          }
+        ],
+        "short": "Flashing or sparkling."
+      },
+      "oldFirst": {
+        "chapter": "exodus-01",
+        "paragraph": "p-112",
+        "index": 37
+      },
+      "after": {
+        "id": "coruscant",
+        "term": "coruscant",
+        "aliases": [
+          "coruscated"
+        ],
+        "note": "Coruscant means flashing or sparkling; to coruscate is to give off bright flashes or glitter.",
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/coruscant",
+            "label": "Merriam-Webster: coruscant"
+          },
+          {
+            "url": "https://www.merriam-webster.com/dictionary/coruscate",
+            "label": "Merriam-Webster: coruscate"
+          }
+        ],
+        "short": "Flashing or sparkling with light."
+      },
+      "first": {
+        "chapter": "lake-05",
+        "paragraph": "p-127",
+        "index": 17
+      }
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "id": "palatine",
+      "action": "update",
+      "reason": "The first occurrence names a hill. The existing brief and full text supply only adjective/official senses; retain the dictionary adjective while making the likely external hill reference explicitly tentative.",
+      "before": {
+        "id": "palatine",
+        "term": "Palatine",
+        "aliases": [
+          "Palatine"
+        ],
+        "short": "Of a palace; possessing royal privileges.",
+        "note": "Connected with an imperial palace or endowed with royal authority. As a noun, a high palace official or a lord exercising sovereign powers in a territory.",
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/palatine",
+            "label": "Merriam-Webster"
+          }
+        ],
+        "possible": false
+      },
+      "oldFirst": {
+        "chapter": "nightside-01",
+        "paragraph": "p-006",
+        "index": 0
+      },
+      "after": {
+        "id": "palatine",
+        "term": "Palatine",
+        "aliases": [
+          "Palatine"
+        ],
+        "short": "Possibly Rome’s Palatine Hill, site of imperial palaces.",
+        "note": "Possibly the Palatine Hill, one of Rome’s seven hills, where aristocratic houses and later imperial palaces were built. The related adjective palatine means belonging to a palace or possessing royal authority.",
+        "sources": [
+          {
+            "url": "https://www.italia.it/en/lazio/rome/palatine-hill",
+            "label": "Italia.it: Palatine Hill"
+          },
+          {
+            "url": "https://www.merriam-webster.com/dictionary/palatine",
+            "label": "Merriam-Webster: palatine"
+          }
+        ],
+        "possible": true
+      },
+      "first": {
+        "chapter": "nightside-01",
+        "paragraph": "p-006",
+        "index": 0
+      }
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "id": "sprats",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "sprats",
+        "term": "sprats",
+        "aliases": [
+          "sprat"
+        ],
+        "short": "Small fish; figuratively, small or insignificant people.",
+        "note": "A sprat is a small herring-family fish. The word is also applied to a small or insignificant person, often a child.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/sprat",
+            "label": "Merriam-Webster: sprat"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "nightside-01",
+        "paragraph": "p-056",
+        "index": 0
+      }
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "id": "bootless",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "bootless",
+        "term": "bootless",
+        "aliases": [],
+        "short": "Useless or unavailing.",
+        "note": "An older adjective for something that produces no benefit, result, or advantage.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/bootless",
+            "label": "Merriam-Webster: bootless"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "calde-epilogue",
+        "paragraph": "p-005",
+        "index": 36
+      }
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "id": "suborn",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "suborn",
+        "term": "suborn",
+        "aliases": [],
+        "short": "To induce someone to commit a wrongful act.",
+        "note": "To persuade, bribe, or secretly induce someone to do wrong; in legal usage, especially to procure false testimony.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/suborn",
+            "label": "Merriam-Webster: suborn"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "exodus-13",
+        "paragraph": "p-249",
+        "index": 49
+      }
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "id": "burse",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "burse",
+        "term": "burse",
+        "aliases": [],
+        "short": "A purse, or the funds it represents.",
+        "note": "An old word for a purse. Figuratively, a purse can mean the money available to meet expenses.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/burse",
+            "label": "Merriam-Webster: burse"
+          },
+          {
+            "url": "https://www.merriam-webster.com/dictionary/purse",
+            "label": "Merriam-Webster: purse, financial sense"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "lake-04",
+        "paragraph": "p-049",
+        "index": 16
+      }
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "id": "lanyard",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "lanyard",
+        "term": "lanyard",
+        "aliases": [],
+        "short": "A cord pulled to fire a cannon.",
+        "note": "Among its several uses, lanyard denotes the cord connected to a gun’s firing mechanism.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/lanyard",
+            "label": "Merriam-Webster: lanyard"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "lake-09",
+        "paragraph": "p-116",
+        "index": 21
+      }
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "id": "combers",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "combers",
+        "term": "combers",
+        "aliases": [],
+        "short": "Long waves with curling crests.",
+        "note": "A comber is a long sea wave whose crest curls over as it breaks.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/comber",
+            "label": "Merriam-Webster: comber"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "lake-11",
+        "paragraph": "p-021",
+        "index": 23
+      }
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "id": "plashing",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "plashing",
+        "term": "plashing",
+        "aliases": [],
+        "short": "Splashing gently.",
+        "note": "To plash is to splash or make a soft splashing sound.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/plash",
+            "label": "Merriam-Webster: plash"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "nightside-09",
+        "paragraph": "p-252",
+        "index": 8
+      }
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "id": "heeling",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "heeling",
+        "term": "heeling",
+        "aliases": [],
+        "short": "Leaning to one side, as a sailing vessel does.",
+        "note": "To heel is to tilt or incline sideways from the upright position.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/heel",
+            "label": "Merriam-Webster: heel"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "lake-06",
+        "paragraph": "p-135",
+        "index": 18
+      }
+    },
+    {
+      "reader": "book-of-the-short-sun",
+      "id": "palatine",
+      "action": "update",
+      "reason": "The first occurrence names a hill. The existing brief and full text supply only adjective/official senses; retain the dictionary adjective while making the likely external hill reference explicitly tentative.",
+      "before": {
+        "id": "palatine",
+        "term": "Palatine",
+        "aliases": [
+          "Palatine"
+        ],
+        "short": "Of a palace; possessing royal privileges.",
+        "note": "Connected with an imperial palace or endowed with royal authority. As a noun, a high palace official or a lord exercising sovereign powers in a territory.",
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/palatine",
+            "label": "Merriam-Webster"
+          }
+        ],
+        "possible": false
+      },
+      "oldFirst": {
+        "chapter": "return-10",
+        "paragraph": "p-254",
+        "index": 53
+      },
+      "after": {
+        "id": "palatine",
+        "term": "Palatine",
+        "aliases": [
+          "Palatine"
+        ],
+        "short": "Possibly Rome’s Palatine Hill, site of imperial palaces.",
+        "note": "Possibly the Palatine Hill, one of Rome’s seven hills, where aristocratic houses and later imperial palaces were built. The related adjective palatine means belonging to a palace or possessing royal authority.",
+        "sources": [
+          {
+            "url": "https://www.italia.it/en/lazio/rome/palatine-hill",
+            "label": "Italia.it: Palatine Hill"
+          },
+          {
+            "url": "https://www.merriam-webster.com/dictionary/palatine",
+            "label": "Merriam-Webster: palatine"
+          }
+        ],
+        "possible": true
+      },
+      "first": {
+        "chapter": "return-10",
+        "paragraph": "p-254",
+        "index": 53
+      }
+    },
+    {
+      "reader": "book-of-the-short-sun",
+      "id": "ambion",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "ambion",
+        "term": "ambion",
+        "aliases": [],
+        "short": "Possibly ambo: a church pulpit or reading stand.",
+        "note": "Possibly ambo, from Greek ambōn: a raised pulpit or reading desk used in churches for scripture readings and preaching.",
+        "possible": true,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/ambo",
+            "label": "Merriam-Webster: ambo"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "return-10",
+        "paragraph": "p-075",
+        "index": 53
+      }
+    },
+    {
+      "reader": "book-of-the-short-sun",
+      "id": "close-hauled",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "close-hauled",
+        "term": "close-hauled",
+        "aliases": [],
+        "short": "Sailing as near into the wind as possible.",
+        "note": "Describes a vessel with its sails drawn in to travel as close to the wind’s direction as it can.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/close-hauled",
+            "label": "Merriam-Webster: close-hauled"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "blue-07",
+        "paragraph": "p-121",
+        "index": 7
+      }
+    },
+    {
+      "reader": "book-of-the-short-sun",
+      "id": "scullery",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "scullery",
+        "term": "scullery",
+        "aliases": [],
+        "short": "A room for washing dishes and other kitchen work.",
+        "note": "A service room adjoining a kitchen, used for cleaning utensils, preparing food, and similar tasks.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/scullery",
+            "label": "Merriam-Webster: scullery"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "return-05",
+        "paragraph": "p-058",
+        "index": 48
+      }
+    },
+    {
+      "reader": "book-of-the-short-sun",
+      "id": "wainscot",
+      "action": "add",
+      "reason": "Useful uncommon vocabulary is present in eligible prose and has no current note in this reader. Cross-reader candidate was checked in this reader’s own context.",
+      "after": {
+        "id": "wainscot",
+        "term": "wainscoting",
+        "aliases": [
+          "wainscotting"
+        ],
+        "short": "Wall paneling, especially along the lower part.",
+        "note": "A wooden or other lining on an interior wall, commonly covering only its lower portion.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/wainscot",
+            "label": "Merriam-Webster: wainscot"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "return-05",
+        "paragraph": "p-039",
+        "index": 48
+      }
+    },
+    {
+      "reader": "the-death-of-dr-island",
+      "id": "catatonia",
+      "action": "add",
+      "reason": "The text shows one presentation without explaining the clinical term; it recurs as both noun and adjective. The note defines the external concept without endorsing the fictional treatment or brain model.",
+      "after": {
+        "id": "catatonia",
+        "term": "catatonia",
+        "aliases": [
+          "catatonic"
+        ],
+        "short": "A syndrome affecting movement and responsiveness.",
+        "note": "A disturbance of movement and behavior that can include immobility, rigid postures, reduced speech or response, and purposeless agitation. It occurs with several psychiatric or medical conditions; catatonic means exhibiting or relating to it.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/catatonia",
+            "label": "Merriam-Webster Medical: catatonia"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "story",
+        "paragraph": "p-435",
+        "index": 0
+      }
+    },
+    {
+      "reader": "our-neighbour-by-david-copperfield",
+      "id": "propinquity",
+      "action": "add",
+      "reason": "An uncommon literary noun with two distinct senses. The surrounding reference to a new neighbor establishes spatial closeness rather than a newly discovered family relationship.",
+      "after": {
+        "id": "propinquity",
+        "term": "propinquity",
+        "aliases": [],
+        "short": "Nearness or proximity.",
+        "note": "Nearness in place or time; the word can also mean kinship or closeness of blood relationship.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/propinquity",
+            "label": "Merriam-Webster: propinquity"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "story",
+        "paragraph": "p-005",
+        "index": 0
+      }
+    },
+    {
+      "reader": "the-tale-of-the-rose-and-the-nightingale-and-what-came-of-it",
+      "id": "galla",
+      "action": "add",
+      "reason": "The historical ethnonym is not defined by the dialogue. A brief factual note prevents the narrative’s slur from being presented as neutral present-day terminology.",
+      "after": {
+        "id": "galla",
+        "term": "Galla",
+        "aliases": [],
+        "short": "A historical name for the Oromo, now considered offensive.",
+        "note": "An older name used by outsiders for the Oromo people of Ethiopia and northern Kenya, and for their language. Modern dictionaries mark the name as offensive; Oromo is the accepted name.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.ahdictionary.com/word/search.html?q=Galla",
+            "label": "American Heritage Dictionary: Galla"
+          },
+          {
+            "url": "https://www.ahdictionary.com/word/search.html?q=Oromo",
+            "label": "American Heritage Dictionary: Oromo"
+          },
+          {
+            "url": "https://www.collinsdictionary.com/dictionary/english/galla",
+            "label": "Collins: Galla"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "story",
+        "paragraph": "p-073",
+        "index": 0
+      }
+    },
+    {
+      "reader": "the-tale-of-the-rose-and-the-nightingale-and-what-came-of-it",
+      "id": "mount-kaf",
+      "action": "add",
+      "reason": "This exact legendary name is explicitly used as a measure of remoteness. Other readers already explain it, but this reader’s prior audit withheld it for insufficient opened support.",
+      "after": {
+        "id": "mount-kaf",
+        "term": "Mount Kaf",
+        "aliases": [],
+        "short": "The legendary mountain encircling the world.",
+        "note": "Kaf, also written Qāf, is a remote cosmic mountain in Islamic and Persian legend. Traditional accounts describe it as encircling the earth and made of emerald; mystical writings also use it as a boundary between the material and spiritual worlds.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.gutenberg.org/files/36495/36495-h/36495-h.htm",
+            "label": "John F. Blake: Astronomical Myths, chapter X"
+          },
+          {
+            "url": "https://www.iranicaonline.org/articles/aql-e-sork-the-crimsoned-archangel-lit/",
+            "label": "Encyclopaedia Iranica: ʿAql-e Sorḵ"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "story",
+        "paragraph": "p-131",
+        "index": 0
+      }
+    },
+    {
+      "reader": "the-tale-of-the-rose-and-the-nightingale-and-what-came-of-it",
+      "id": "cataracts",
+      "action": "add",
+      "reason": "The navigation passage uses the Nile-rapids sense rather than either the eye condition or necessarily a sheer waterfall. The brief note makes that concrete without adding speculative geography.",
+      "after": {
+        "id": "cataracts",
+        "term": "cataracts",
+        "aliases": [],
+        "short": "Steep stretches of river rapids.",
+        "note": "In river geography, a cataract is a stretch of steep rapids, a usage particularly associated with the Nile. The same word can also denote a large waterfall.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/cataract",
+            "label": "Merriam-Webster: cataract"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "story",
+        "paragraph": "p-083",
+        "index": 0
+      }
+    },
+    {
+      "reader": "thag",
+      "id": "partisans",
+      "action": "add",
+      "reason": "The word has a misleading familiar political sense. Here it occurs among dropped weapons, making the pole-weapon meaning unambiguous.",
+      "after": {
+        "id": "partisans",
+        "term": "partisans",
+        "aliases": [],
+        "short": "Long-shafted weapons with broad spearheads.",
+        "note": "A partisan is a pole weapon with a long shaft and a broad, double-edged blade, often with projections near the blade’s base. Such weapons were carried by European bodyguards in the sixteenth and seventeenth centuries.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/partisan",
+            "label": "Merriam-Webster: partisan, weapon sense"
+          },
+          {
+            "url": "https://www.metmuseum.org/art/collection/search/27025",
+            "label": "The Metropolitan Museum of Art: Partisan"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "story",
+        "paragraph": "p-005",
+        "index": 0
+      }
+    },
+    {
+      "reader": "thag",
+      "id": "brown-bills",
+      "action": "add",
+      "reason": "The phrase is an uncommon historical weapon name in an otherwise partly familiar weapons list. A short physical definition is more useful than interpreting brown as ordinary color.",
+      "after": {
+        "id": "brown-bills",
+        "term": "brown bills",
+        "aliases": [],
+        "short": "Hooked infantry pole weapons.",
+        "note": "A brown bill is a historical infantry pole weapon related to the halberd, with a hooked cutting blade and projecting spikes. The term was used for weapons carried by English foot soldiers.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.wordnik.com/words/brown%20bill",
+            "label": "Century Dictionary via Wordnik: brown bill"
+          },
+          {
+            "url": "https://www.finedictionary.com/Brown%20bill",
+            "label": "Webster’s Revised Unabridged Dictionary: brown bill"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "story",
+        "paragraph": "p-005",
+        "index": 0
+      }
+    },
+    {
+      "reader": "the-toy-theater",
+      "id": "amelie-gravereaux",
+      "action": "add",
+      "reason": "The adjacent Sarah Van Fleet cultivar already has a note, while this equally specific real cultivar was previously deferred solely for lack of an opened record. This supplies a concrete botanical identification.",
+      "after": {
+        "id": "amelie-gravereaux",
+        "term": "Amelie Gravereaux",
+        "aliases": [],
+        "short": "A fragrant, rosy-purple hybrid rugosa rose.",
+        "note": "A hybrid rugosa rose bred by Jules Gravereaux, with double, fragrant, rosy-purple flowers and dark, wrinkled foliage. The cultivar is named for his daughter Amélie.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://woodlandpubliclibrary.com/168/Rose-Details",
+            "label": "Woodland Public Library rose garden: Amelie Gravereaux"
+          },
+          {
+            "url": "https://thefriendsofvintageroses.org/wp-content/uploads/2020/07/VGC_Rugosas.pdf",
+            "label": "Vintage Gardens: Rugosa catalogue"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "story",
+        "paragraph": "p-002",
+        "index": 0
+      }
+    },
+    {
+      "reader": "remembrance-of-earths-past",
+      "id": "three-body-problem-string-theory",
+      "action": "add",
+      "reason": "A named physical theory is invoked without explanation; unlike the covered quantum mechanics and relativity entries, it currently has no standalone gloss.",
+      "after": {
+        "id": "three-body-problem-string-theory",
+        "term": "string theory",
+        "aliases": [],
+        "short": "A proposed framework treating particles as vibrating strings.",
+        "note": "A theoretical framework in which tiny one-dimensional strings replace pointlike elementary particles, with different vibration modes corresponding to different particles. It is studied as a possible way to combine quantum physics and gravity; it remains experimentally unconfirmed.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://cms.cern/index.php/physics/do-we-really-live-only-three-dimensions",
+            "label": "CERN CMS: String theory and extra dimensions"
+          },
+          {
+            "url": "https://www.caltech.edu/about/news/string-theory-emerges-from-almost-nothing",
+            "label": "Caltech: String theory"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "three-body-problem-section-11",
+        "paragraph": "p-033",
+        "index": 4
+      }
+    },
+    {
+      "reader": "remembrance-of-earths-past",
+      "id": "dark-forest-string-theory",
+      "action": "add",
+      "reason": "The discussion lists string theory among the remaining theoretical resources without defining its distinguishing concept.",
+      "after": {
+        "id": "dark-forest-string-theory",
+        "term": "string theory",
+        "aliases": [],
+        "short": "A proposed framework treating particles as vibrating strings.",
+        "note": "A theoretical framework in which tiny one-dimensional strings replace pointlike elementary particles, with different vibration modes corresponding to different particles. It is studied as a possible way to combine quantum physics and gravity; it remains experimentally unconfirmed.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://cms.cern/index.php/physics/do-we-really-live-only-three-dimensions",
+            "label": "CERN CMS: String theory and extra dimensions"
+          },
+          {
+            "url": "https://www.caltech.edu/about/news/string-theory-emerges-from-almost-nothing",
+            "label": "Caltech: String theory"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "dark-forest-section-12",
+        "paragraph": "p-269",
+        "index": 42
+      }
+    },
+    {
+      "reader": "remembrance-of-earths-past",
+      "id": "dark-forest-nuclear-magnetic-resonance",
+      "action": "add",
+      "reason": "The passage explains a fictional scanning device’s intended capability, but not the real physical principle named alongside the already glossed tomography.",
+      "after": {
+        "id": "dark-forest-nuclear-magnetic-resonance",
+        "term": "nuclear magnetic resonance",
+        "aliases": [],
+        "short": "Atomic nuclei’s response to radio waves in a magnetic field.",
+        "note": "The selective absorption of radio-frequency energy by certain atomic nuclei placed in a magnetic field. The resulting signals reveal their molecular surroundings; this phenomenon underlies magnetic resonance imaging, or MRI.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.dictionary.com/browse/nuclear-magnetic-resonance",
+            "label": "Dictionary.com: nuclear magnetic resonance"
+          },
+          {
+            "url": "https://www.nibib.nih.gov/science-education/science-topics/magnetic-resonance-imaging-mri",
+            "label": "NIH NIBIB: Magnetic resonance imaging"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "dark-forest-section-12",
+        "paragraph": "p-140",
+        "index": 42
+      }
+    },
+    {
+      "reader": "remembrance-of-earths-past",
+      "id": "dark-forest-limpet-mines",
+      "action": "add",
+      "reason": "The first audit withheld this because it lacked a direct weapon source. The Australian War Memorial’s catalog now verifies the correct naval sense; do not gloss the word as the mollusk alone.",
+      "after": {
+        "id": "dark-forest-limpet-mines",
+        "term": "limpet mines",
+        "aliases": [
+          "limpet mine"
+        ],
+        "short": "Explosive mines fastened directly to a ship’s hull.",
+        "note": "Naval explosive devices attached directly to a target vessel, commonly with magnets. Their name evokes the tightly clinging mollusk; they are distinct from mines left floating or anchored in a shipping route.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.awm.gov.au/collection/C302932",
+            "label": "Australian War Memorial: Limpet Mine Mk 1"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "dark-forest-section-08",
+        "paragraph": "p-428",
+        "index": 41
+      }
+    },
+    {
+      "reader": "remembrance-of-earths-past",
+      "id": "dark-forest-propeller-island",
+      "action": "add",
+      "reason": "A specific external novel supplies the comparison. The note identifies the work and its social premise, going beyond the adjacent description of a powered floating island; no extra Jules Verne name alias is proposed.",
+      "after": {
+        "id": "dark-forest-propeller-island",
+        "term": "Propeller Island",
+        "aliases": [],
+        "short": "Jules Verne’s 1895 novel of an artificial island at sea.",
+        "note": "Also translated as The Floating Island and The Self-Propelled Island, Verne’s novel follows a French string quartet aboard Standard Island, a vast luxury vessel cruising the Pacific. Rivalry among its wealthy inhabitants threatens their floating community.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.nebraskapress.unl.edu/bison-books/9780803274860/the-self-propelled-island/",
+            "label": "University of Nebraska Press: The Self-Propelled Island"
+          },
+          {
+            "url": "https://books.google.com/books/about/Propeller_Island.html?id=Kg6wz3A9WVkC",
+            "label": "Google Books: Propeller Island, Wildside Press edition"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "dark-forest-section-13",
+        "paragraph": "p-038",
+        "index": 43
+      }
+    },
+    {
+      "reader": "remembrance-of-earths-past",
+      "id": "deaths-end-accretion-discs",
+      "action": "add",
+      "reason": "This astrophysical process is named but not explained; no existing accretion entry or alias covers it.",
+      "after": {
+        "id": "deaths-end-accretion-discs",
+        "term": "accretion discs",
+        "aliases": [
+          "accretion disc",
+          "accretion disk",
+          "accretion disks"
+        ],
+        "short": "Flattened discs of matter gathering around a central body.",
+        "note": "Rotating material such as gas and dust arranged in a flattened disc around a gravitating body, with some matter gradually spiraling inward. Accretion discs can feed growing stars.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://science.nasa.gov/exoplanets/resources/life-and-death/chapter-1/",
+            "label": "NASA: A Star Is Born"
+          },
+          {
+            "url": "https://astrobiology.nasa.gov/news/universe-of-disks/",
+            "label": "NASA Astrobiology: Universe of Disks"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "deaths-end-section-52",
+        "paragraph": "p-023",
+        "index": 92
+      }
+    },
+    {
+      "reader": "hyperion",
+      "id": "hegirah",
+      "action": "update",
+      "reason": "The short gloss names only the specific seventh-century event, although the novel uses a later exodus sense. Make the broader attested sense available in the margin as well as the full popup, without explaining fictional history.",
+      "before": {
+        "id": "hegirah",
+        "term": "Hegira",
+        "aliases": [],
+        "short": "The migration of Muhammad from Mecca to Medina.",
+        "note": "An older spelling of Hijra: Muhammad’s migration with his followers to Medina in 622 CE. The Islamic calendar counts its years from this event; the word also means a departure or exodus.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.metmuseum.org/toah/hd/isla/hd_isla.htm",
+            "label": "Metropolitan Museum of Art: the birth of Islam"
+          }
+        ]
+      },
+      "oldFirst": {
+        "chapter": "hyperion-prologue",
+        "paragraph": "p-017",
+        "index": 0
+      },
+      "after": {
+        "id": "hegirah",
+        "term": "Hegira",
+        "aliases": [],
+        "short": "An exodus or migration; originally Muhammad’s departure for Medina.",
+        "note": "Hegira is an older spelling of Hijra, Muhammad’s migration from Mecca to Medina in 622 CE, from which the Islamic era is reckoned. In wider English usage, a hegira is an exodus, escape, or journey away from an undesirable situation.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.merriam-webster.com/dictionary/hegira",
+            "label": "Merriam-Webster: hegira"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "hyperion-prologue",
+        "paragraph": "p-017",
+        "index": 0
+      }
+    },
+    {
+      "reader": "hyperion",
+      "id": "de-kooning",
+      "action": "update",
+      "reason": "The only occurrence is something the detective can sit on. The source confirms the artist but does not establish the identity of this fictional furniture/object. Qualifying the external identification avoids asserting a proven namesake or correcting the novel.",
+      "before": {
+        "id": "de-kooning",
+        "term": "de Kooning",
+        "aliases": [],
+        "short": "Willem de Kooning, Abstract Expressionist painter.",
+        "note": "De Kooning (1904–1997) was a Dutch-born American artist whose paintings move between recognizable figures and abstraction. His energetic brushwork is central to the New York School.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.moma.org/artists/3213-willem-de-kooning",
+            "label": "Museum of Modern Art: Willem de Kooning"
+          }
+        ]
+      },
+      "oldFirst": {
+        "chapter": "hyperion-05",
+        "paragraph": "p-996",
+        "index": 5
+      },
+      "after": {
+        "id": "de-kooning",
+        "term": "de Kooning",
+        "aliases": [],
+        "short": "Possibly Willem de Kooning, the Abstract Expressionist artist.",
+        "note": "Possibly Willem de Kooning (1904–1997), the Dutch-born American artist associated with Abstract Expressionism and gestural painting. His work ranges between recognizable figures and abstraction.",
+        "possible": true,
+        "sources": [
+          {
+            "url": "https://www.moma.org/artists/3213-willem-de-kooning",
+            "label": "Museum of Modern Art: Willem de Kooning"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "hyperion-05",
+        "paragraph": "p-996",
+        "index": 5
+      }
+    },
+    {
+      "reader": "hyperion",
+      "id": "bosch",
+      "action": "update",
+      "reason": "Both notes identify the same painter and the same infernal visual tradition. Keep the earliest existing ID and merge the later surname/full-name forms into it.",
+      "before": {
+        "id": "bosch",
+        "term": "Bosch-tinted",
+        "aliases": [
+          "Boschian"
+        ],
+        "short": "Evoking Hieronymus Bosch’s fantastic imagery.",
+        "note": "Bosch, a Netherlandish painter active around 1500, filled religious scenes with strange hybrid creatures and elaborate punishments. The hell panel of The Garden of Earthly Delights is among his best-known nightmare landscapes.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.museodelprado.es/en/the-collection/art-work/triptych-garden-earthly-delights/02388242-6d6a-4e9e-a992-e1311eab3609",
+            "label": "Museo del Prado: The Garden of Earthly Delights"
+          }
+        ]
+      },
+      "oldFirst": {
+        "chapter": "hyperion-01",
+        "paragraph": "p-600",
+        "index": 1
+      },
+      "after": {
+        "id": "bosch",
+        "term": "Bosch-tinted",
+        "aliases": [
+          "Boschian",
+          "Hieronymus Bosch",
+          "Bosch"
+        ],
+        "short": "Evoking Hieronymus Bosch’s fantastic imagery.",
+        "note": "Bosch, a Netherlandish painter active around 1500, filled religious scenes with strange hybrid creatures and elaborate punishments. The hell panel of The Garden of Earthly Delights is among his best-known nightmare landscapes.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.museodelprado.es/en/the-collection/art-work/triptych-garden-earthly-delights/02388242-6d6a-4e9e-a992-e1311eab3609",
+            "label": "Museo del Prado: The Garden of Earthly Delights"
+          },
+          {
+            "url": "https://www.nga.gov/artists/986-hieronymus-bosch",
+            "label": "National Gallery of Art: Hieronymus Bosch"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "hyperion-01",
+        "paragraph": "p-600",
+        "index": 1
+      }
+    },
+    {
+      "reader": "hyperion",
+      "id": "maui",
+      "action": "update",
+      "reason": "The novel explicitly states that the ancestors signed the Covenant of Life on the Old Earth island of Maui. That direct geographic identification is more useful and better supported than the current speculative identification of the Polynesian culture hero. The definition states external island geography only.",
+      "before": {
+        "id": "maui",
+        "term": "Maui",
+        "aliases": [],
+        "short": "Possibly Māui, the hero of Polynesian traditions.",
+        "note": "Possibly Māui, a resourceful culture hero known across the Pacific. Traditions in several island cultures credit him with feats such as fishing up land and slowing the sun.",
+        "possible": true,
+        "sources": [
+          {
+            "url": "https://collections.tepapa.govt.nz/topic/3196",
+            "label": "Museum of New Zealand Te Papa Tongarewa: the hook of Māui"
+          }
+        ]
+      },
+      "oldFirst": {
+        "chapter": "hyperion-01",
+        "paragraph": "p-013",
+        "index": 1
+      },
+      "after": {
+        "id": "maui",
+        "term": "Maui",
+        "aliases": [],
+        "short": "The second-largest island in the Hawaiian archipelago.",
+        "note": "Maui is a Hawaiian island in the Pacific, formed from two volcanic masses. The larger eastern mass is Haleakalā, whose mountain slopes rise from the coast to a summit over 3,000 metres high.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://home.nps.gov/articles/nps-geodiversity-atlas-haleakala-national-park.htm",
+            "label": "National Park Service: Maui and Haleakalā geology"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "hyperion-01",
+        "paragraph": "p-013",
+        "index": 1
+      }
+    },
+    {
+      "reader": "hyperion",
+      "id": "gulliver",
+      "action": "update",
+      "reason": "The existing full definition describes Part II and skin seen at giant scale. The actual single anchor refers explicitly to Part IV and the return from the Houyhnhnms. The Dark Forest’s separate Gulliver definition is appropriate and should stay unchanged.",
+      "before": {
+        "id": "gulliver",
+        "term": "Gulliver",
+        "aliases": [],
+        "short": "The traveller in Jonathan Swift’s Gulliver’s Travels.",
+        "note": "In the giant land of Brobdingnag, Gulliver observes skin at an enlarged scale and finds apparently smooth beauty rough and uneven close up.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.gutenberg.org/cache/epub/829/pg829-images.html",
+            "label": "Project Gutenberg: Gulliver’s Travels, Part II"
+          }
+        ]
+      },
+      "oldFirst": {
+        "chapter": "fall-15",
+        "paragraph": "p-139",
+        "index": 24
+      },
+      "after": {
+        "id": "gulliver",
+        "term": "Gulliver",
+        "aliases": [],
+        "short": "The traveller in Jonathan Swift’s Gulliver’s Travels.",
+        "note": "Lemuel Gulliver is the narrator of Jonathan Swift’s Gulliver’s Travels. In its final voyage he encounters the rational horses called Houyhnhnms; after returning home, he recoils from human company and prefers his horses.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.gutenberg.org/cache/epub/829/pg829-images.html",
+            "label": "Jonathan Swift: Gulliver’s Travels, Part IV, chapter XI"
+          }
+        ]
+      },
+      "first": {
+        "chapter": "fall-15",
+        "paragraph": "p-139",
+        "index": 24
+      }
+    },
+    {
+      "reader": "hyperion",
+      "id": "hieronymus-bosch",
+      "action": "remove",
+      "reason": "Consolidated with bosch: the same external referent.",
+      "before": {
+        "id": "hieronymus-bosch",
+        "term": "Hieronymus Bosch",
+        "aliases": [
+          "Bosch"
+        ],
+        "short": "Netherlandish painter of visionary religious scenes.",
+        "note": "Painter, c. 1450–1516, known for densely imagined moral and religious scenes filled with hybrids, monsters, temptation, and punishment. His works include The Garden of Earthly Delights.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.nga.gov/artists/986-hieronymus-bosch",
+            "label": "National Gallery of Art: Hieronymus Bosch"
+          }
+        ]
+      },
+      "oldFirst": {
+        "chapter": "fall-34",
+        "paragraph": "p-132",
+        "index": 43
+      }
+    },
+    {
+      "reader": "hyperion",
+      "id": "charles-armitage-brown",
+      "action": "update",
+      "reason": "The first match is the sentence-initial color adjective in “Brown robe,” not Charles Armitage Brown.",
+      "before": {
+        "id": "charles-armitage-brown",
+        "term": "Brown",
+        "aliases": [],
+        "short": "Charles Armitage Brown, Keats’s friend and walking companion.",
+        "note": "Brown accompanied Keats on his 1818 tour of northern England and Scotland. He later shared his Hampstead home with the poet and recorded recollections of their life and travels.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://johnkeats.uvic.ca/1818-06-26.html?data-id=haydon_br",
+            "label": "University of Victoria: Keats’s northern tour"
+          }
+        ]
+      },
+      "oldFirst": {
+        "chapter": "hyperion-05",
+        "paragraph": "p-518",
+        "index": 5
+      },
+      "after": {
+        "id": "charles-armitage-brown",
+        "term": "Brown",
+        "aliases": [],
+        "short": "Charles Armitage Brown, Keats’s friend and walking companion.",
+        "note": "Brown accompanied Keats on his 1818 tour of northern England and Scotland. He later shared his Hampstead home with the poet and recorded recollections of their life and travels.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://johnkeats.uvic.ca/1818-08-07.html",
+            "label": "University of Victoria: Keats’s northern tour"
+          },
+          {
+            "url": "https://keatsfoundation.com/news/charles-armitage-browns-house-laira-plymouth/",
+            "label": "Keats Foundation: Charles Armitage Brown"
+          }
+        ],
+        "excludeMatches": [
+          {
+            "chapter": "hyperion-05",
+            "paragraph": "p-518",
+            "text": "Brown",
+            "context": "Brown robe",
+            "reason": "This is a color adjective, not Charles Armitage Brown."
+          }
+        ]
+      },
+      "first": {
+        "chapter": "fall-39",
+        "paragraph": "p-119",
+        "index": 48
+      }
+    },
+    {
+      "reader": "hyperion",
+      "id": "buckminster-map",
+      "action": "update",
+      "reason": "Four place-name occurrences denote Bressia’s capital, not a cartographic projection; the genuine projection occurs in the map list.",
+      "before": {
+        "id": "buckminster-map",
+        "term": "Buckminster",
+        "aliases": [],
+        "short": "Buckminster Fuller’s unfolded-polyhedron map projection.",
+        "note": "The Dymaxion map associated with designer R. Buckminster Fuller represents Earth on an unfolded polyhedron. Its arrangement emphasizes the connectedness of the continents and avoids a mandatory north-up orientation.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.bfi.org/about-fuller/big-ideas/dymaxion-map/",
+            "label": "Buckminster Fuller Institute: Dymaxion map"
+          }
+        ]
+      },
+      "oldFirst": {
+        "chapter": "hyperion-02",
+        "paragraph": "p-293",
+        "index": 2
+      },
+      "after": {
+        "id": "buckminster-map",
+        "term": "Buckminster",
+        "aliases": [],
+        "short": "Buckminster Fuller’s unfolded-polyhedron map projection.",
+        "note": "The Dymaxion map associated with designer R. Buckminster Fuller represents Earth on an unfolded polyhedron. Its arrangement emphasizes the connectedness of the continents and avoids a mandatory north-up orientation.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://www.bfi.org/about-fuller/big-ideas/dymaxion-map/",
+            "label": "Buckminster Fuller Institute: Dymaxion map"
+          }
+        ],
+        "excludeMatches": [
+          {
+            "chapter": "fall-17",
+            "paragraph": "p-030",
+            "text": "Buckminster",
+            "context": "capital of Buckminster",
+            "reason": "This is a fictional city, not the map projection."
+          },
+          {
+            "chapter": "hyperion-02",
+            "paragraph": "p-293",
+            "text": "Buckminster",
+            "context": "Buckminster, the capital",
+            "reason": "This is a fictional city, not the map projection."
+          },
+          {
+            "chapter": "hyperion-02",
+            "paragraph": "p-305",
+            "text": "Buckminster",
+            "context": "Civic Center Building in Buckminster",
+            "reason": "This is a fictional city, not the map projection."
+          },
+          {
+            "chapter": "hyperion-06",
+            "paragraph": "p-492",
+            "text": "Buckminster",
+            "context": "refugee barracks in Buckminster",
+            "reason": "This is a fictional city, not the map projection."
+          }
+        ]
+      },
+      "first": {
+        "chapter": "fall-04",
+        "paragraph": "p-034",
+        "index": 13
+      }
+    },
+    {
+      "reader": "hyperion",
+      "id": "albedo",
+      "action": "remove",
+      "reason": "All 54 matches name the fictional TechnoCore councilor. The real optics term is accurate but its identity as the intended namesake is unestablished. Apply the already adopted Aspic/Magritte policy rather than labeling the councilor as a measure of reflectivity.",
+      "before": {
+        "id": "albedo",
+        "term": "Albedo",
+        "aliases": [],
+        "short": "The fraction of incoming light reflected by a surface.",
+        "note": "A measure of reflectivity, expressed between zero and one or as a percentage. Snow and bright clouds have high albedo; dark ocean water and forests generally reflect much less light.",
+        "possible": false,
+        "sources": [
+          {
+            "url": "https://mynasadata.larc.nasa.gov/basic-page/albedo-values",
+            "label": "NASA: albedo values"
+          }
+        ]
+      },
+      "oldFirst": {
+        "chapter": "fall-02",
+        "paragraph": "p-008",
+        "index": 11
+      }
+    },
+    {
+      "reader": "hyperion",
+      "id": "cicero",
+      "action": "remove",
+      "reason": "The paragraph immediately after the first match expressly disavows a literary-trivia namesake and instead reports a rumored Old Earth city district. The current speculative Roman-orator identification should be withdrawn; do not replace it with a guessed Chicago/Calcutta gloss.",
+      "before": {
+        "id": "cicero",
+        "term": "Cicero",
+        "aliases": [],
+        "short": "Possibly Marcus Tullius Cicero, Roman orator and statesman.",
+        "note": "Possibly Marcus Tullius Cicero, 106–43 BCE, the Roman lawyer, politician, and philosophical writer. His speeches and prose became influential models of Latin eloquence.",
+        "possible": true,
+        "sources": [
+          {
+            "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n7969/",
+            "label": "Lewis and Short: Cicero"
+          }
+        ]
+      },
+      "oldFirst": {
+        "chapter": "hyperion-02",
+        "paragraph": "p-097",
+        "index": 2
+      }
+    }
+  ],
+  "anchorChanges": [
+    {
+      "reader": "book-of-the-new-sun",
+      "id": "pardal",
+      "oldFirst": {
+        "chapter": "sword-10",
+        "paragraph": "p-036",
+        "index": 77
+      },
+      "first": {
+        "chapter": "sword-10",
+        "paragraph": "p-036",
+        "index": 77
+      },
+      "oldOccurrences": 1,
+      "occurrences": 2
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "id": "coruscant",
+      "oldFirst": {
+        "chapter": "exodus-01",
+        "paragraph": "p-112",
+        "index": 37
+      },
+      "first": {
+        "chapter": "lake-05",
+        "paragraph": "p-127",
+        "index": 17
+      },
+      "oldOccurrences": 1,
+      "occurrences": 2
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "id": "loganstone",
+      "oldFirst": {
+        "chapter": "lake-10",
+        "paragraph": "p-137",
+        "index": 22
+      },
+      "first": {
+        "chapter": "lake-09",
+        "paragraph": "p-247",
+        "index": 21
+      },
+      "oldOccurrences": 1,
+      "occurrences": 2
+    },
+    {
+      "reader": "the-fifth-head-of-cerberus",
+      "id": "maitre",
+      "oldFirst": {
+        "chapter": "fifth-head",
+        "paragraph": "p-059",
+        "index": 0
+      },
+      "first": {
+        "chapter": "fifth-head",
+        "paragraph": "p-059",
+        "index": 0
+      },
+      "oldOccurrences": 19,
+      "occurrences": 20
+    },
+    {
+      "reader": "the-fifth-head-of-cerberus",
+      "id": "port-mimizon",
+      "oldFirst": {
+        "chapter": "fifth-head",
+        "paragraph": "p-005",
+        "index": 0
+      },
+      "first": {
+        "chapter": "fifth-head",
+        "paragraph": "p-005",
+        "index": 0
+      },
+      "oldOccurrences": 15,
+      "occurrences": 17
+    },
+    {
+      "reader": "hyperion",
+      "id": "bosch",
+      "oldFirst": {
+        "chapter": "hyperion-01",
+        "paragraph": "p-600",
+        "index": 1
+      },
+      "first": {
+        "chapter": "hyperion-01",
+        "paragraph": "p-600",
+        "index": 1
+      },
+      "oldOccurrences": 2,
+      "occurrences": 3
+    },
+    {
+      "reader": "hyperion",
+      "id": "charles-armitage-brown",
+      "oldFirst": {
+        "chapter": "hyperion-05",
+        "paragraph": "p-518",
+        "index": 5
+      },
+      "first": {
+        "chapter": "fall-39",
+        "paragraph": "p-119",
+        "index": 48
+      },
+      "oldOccurrences": 4,
+      "occurrences": 3
+    },
+    {
+      "reader": "hyperion",
+      "id": "buckminster-map",
+      "oldFirst": {
+        "chapter": "hyperion-02",
+        "paragraph": "p-293",
+        "index": 2
+      },
+      "first": {
+        "chapter": "fall-04",
+        "paragraph": "p-034",
+        "index": 13
+      },
+      "oldOccurrences": 5,
+      "occurrences": 1
+    }
+  ],
+  "editorialCorrections": [
+    {
+      "id": "v18-6b2d221768d7",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-03",
+      "paragraph": "p-133",
+      "before": "needier, a sound like the crack of a child's toy whip. A needier (momentarily, Silk thought it the needier",
+      "after": "needler, a sound like the crack of a child's toy whip. A needler (momentarily, Silk thought it the needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-214dffc8880f",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-03",
+      "paragraph": "p-141",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-79cf90fbea36",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-03",
+      "paragraph": "p-199",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-6f68ed726e8a",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-04",
+      "paragraph": "p-123",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-a5ff7ec7eb31",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-06",
+      "paragraph": "p-112",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-c818fa9e79b3",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-06",
+      "paragraph": "p-116",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-877e73a54b57",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-06",
+      "paragraph": "p-119",
+      "before": "needier you hold, you will observe a small movable convexity. Raised, it will prevent the needier",
+      "after": "needler you hold, you will observe a small movable convexity. Raised, it will prevent the needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-0188ee0f0cd9",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-06",
+      "paragraph": "p-126",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-c2ebefd52d0f",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-06",
+      "paragraph": "p-131",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-f6f37645b9c2",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-06",
+      "paragraph": "p-192",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-a4a13ce985c2",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-06",
+      "paragraph": "p-196",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-6711460622e5",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-06",
+      "paragraph": "p-203",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-24ee4b033f88",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-06",
+      "paragraph": "p-229",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-8eed69ca8b5b",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-06",
+      "paragraph": "p-268",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-90c8791f8046",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-051",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-d7a37a90df4b",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-055",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-a0a81e9ebd64",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-071",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-aabb878865b2",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-073",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-36e8b2ea51fc",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-076",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-80fc1d3d013b",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-077",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-9f608188ced3",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-080",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-e03d5cd7f481",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-081",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-27223d1428eb",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-087",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-6a442be1e48f",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-093",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-b061f6d8e2d9",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-122",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-c7ce29fba9d7",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-222",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-ce8042aa8834",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-226",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-3c36308d947c",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-228",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-535c5f4380d5",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-240",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-a0bfd712404f",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-08",
+      "paragraph": "p-012",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-7dc7ccc88002",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-08",
+      "paragraph": "p-021",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-727ba449f7fb",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-08",
+      "paragraph": "p-075",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-b2fd44b9a8d7",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-08",
+      "paragraph": "p-076",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-357650514c98",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-08",
+      "paragraph": "p-089",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-63a9f00f56a7",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-09",
+      "paragraph": "p-041",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-8bd7fe1e797e",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-09",
+      "paragraph": "p-057",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-9fe8a59f9197",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-10",
+      "paragraph": "p-115",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-e3713a831553",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-12",
+      "paragraph": "p-110",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-d1de0224b141",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-12",
+      "paragraph": "p-162",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-b01e101400cb",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-12",
+      "paragraph": "p-175",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-9ee439e1fba2",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-12",
+      "paragraph": "p-177",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-7ff9cb839e51",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-13",
+      "paragraph": "p-027",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-f80e3190e49a",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-13",
+      "paragraph": "p-028",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-43c14f29e921",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-13",
+      "paragraph": "p-029",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-3cabdbd539a8",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-13",
+      "paragraph": "p-032",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-f4f2b23f183d",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-13",
+      "paragraph": "p-034",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-8b5114bd1845",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-13",
+      "paragraph": "p-045",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-fd0a906efe4d",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-13",
+      "paragraph": "p-048",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-24d104479832",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-13",
+      "paragraph": "p-050",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-79993aa687d0",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-13",
+      "paragraph": "p-051",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-68d7c7d8324f",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-13",
+      "paragraph": "p-132",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-763f72a3c1c9",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-13",
+      "paragraph": "p-137",
+      "before": "needier like water; he released the loading knob and the breech closed. The needier",
+      "after": "needler like water; he released the loading knob and the breech closed. The needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-1c9c14dea7fc",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-13",
+      "paragraph": "p-140",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-63b5f78ac56d",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-13",
+      "paragraph": "p-147",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-2aabfb19ca68",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-01",
+      "paragraph": "p-026",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-b5ad98a1e818",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-01",
+      "paragraph": "p-152",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-e543aee23038",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-01",
+      "paragraph": "p-213",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-59e5af209747",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-01",
+      "paragraph": "p-217",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-5895dbc82ce4",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-01",
+      "paragraph": "p-220",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-f3f656952bbc",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-01",
+      "paragraph": "p-222",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-6527f2f66578",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-01",
+      "paragraph": "p-257",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-6db8bf792194",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-02",
+      "paragraph": "p-014",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-9e6eabc7b12f",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-02",
+      "paragraph": "p-015",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-e3defca5e757",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-03",
+      "paragraph": "p-011",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-839e4f0e3d31",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-03",
+      "paragraph": "p-057",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-e717706dca7c",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-03",
+      "paragraph": "p-058",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-e34541b19cad",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-07",
+      "paragraph": "p-058",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-04cfe122e9b2",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-07",
+      "paragraph": "p-060",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-51200a130b80",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-12",
+      "paragraph": "p-079",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-6932fdf668dd",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-12",
+      "paragraph": "p-094",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-0d060f7fb74d",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-12",
+      "paragraph": "p-106",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-87237a2d3cd2",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-12",
+      "paragraph": "p-192",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-27b7df34186d",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-12",
+      "paragraph": "p-204",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-77dc5b9103c7",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-13",
+      "paragraph": "p-125",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-8ec095215b75",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-13",
+      "paragraph": "p-190",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-8ce03ad80d02",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-14",
+      "paragraph": "p-019",
+      "before": "needier as well. I may as well admit that, which is the truth. I believed he had lied to me about it, as he had lied to me so often about so many other things; but the traveler who had taken our old boat and abandoned him far up the rivers had taken my needier as well. Neither Sinew nor I ever set eyes on him again, but we soon united in wishing that he had boarded the lander with us, and that he had retained his weapon—my needier",
+      "after": "needler as well. I may as well admit that, which is the truth. I believed he had lied to me about it, as he had lied to me so often about so many other things; but the traveler who had taken our old boat and abandoned him far up the rivers had taken my needler as well. Neither Sinew nor I ever set eyes on him again, but we soon united in wishing that he had boarded the lander with us, and that he had retained his weapon—my needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-9ce0bb7ea850",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-14",
+      "paragraph": "p-045",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-99699e69170b",
+      "book": "book-of-the-short-sun",
+      "chapter": "return-11",
+      "paragraph": "p-104",
+      "before": "needier",
+      "after": "needler",
+      "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-22fecb607e80",
+      "book": "book-of-the-new-sun",
+      "chapter": "shadow-12",
+      "paragraph": "p-050",
+      "before": "I’m certain ou must",
+      "after": "I’m certain you must",
+      "reason": "Missing initial y in the ordinary pronoun you.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-ee60b4ead8f2",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-01",
+      "paragraph": "p-030",
+      "before": "Feadier answered",
+      "after": "Feather answered",
+      "reason": "OCR di for th in the repeatedly named child Feather; immediate pupil-list context.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-3f799fd5c582",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-02",
+      "paragraph": "p-052",
+      "before": "we're savin'",
+      "after": "we're sayin'",
+      "reason": "OCR v for y: the seller says the talking bird knows everything being said, not saved.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-4f91bc872e80",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-02",
+      "paragraph": "p-057",
+      "before": "a. bargain",
+      "after": "a bargain",
+      "reason": "Intrusive full stop between the indefinite article and its noun.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-4aa7378833ed",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-04",
+      "paragraph": "p-074",
+      "before": "like T did",
+      "after": "like I did",
+      "reason": "OCR T for the first-person pronoun I in a speaker’s account of entering the house.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-f4a91280a559",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-04",
+      "paragraph": "p-133",
+      "before": "his. lips",
+      "after": "his lips",
+      "reason": "Intrusive full stop between possessive and noun.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-0c2075f79c0d",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-06",
+      "paragraph": "p-112",
+      "before": "not long \"ago",
+      "after": "not long ago",
+      "reason": "Intrusive straight quotation mark splits the adverbial phrase inside an already-open speech.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-709badc984b7",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-071",
+      "before": "a shaggy He!",
+      "after": "a shaggy lie!",
+      "reason": "OCR li merged as capital H: Blood objects that the accusation is a lie.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-bc5139e135a4",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-10",
+      "paragraph": "p-117",
+      "before": "its Jaws",
+      "after": "its jaws",
+      "reason": "Spurious capital J inside a plain descriptive noun phrase.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-223fba84c44f",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-10",
+      "paragraph": "p-229",
+      "before": "her Heartier expression",
+      "after": "her heartier expression",
+      "reason": "Spurious capital H inside a plain descriptive noun phrase.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-8e07244b119b",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-01",
+      "paragraph": "p-143",
+      "before": "to leam than",
+      "after": "to learn than",
+      "reason": "OCR rn fused into m; prior annotation audit independently flags all three leam uses as learn.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-52cbc73640e4",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-01",
+      "paragraph": "p-188",
+      "before": "splashed His sweating",
+      "after": "splashed his sweating",
+      "reason": "Spurious capital H in third-person narration, not a divine pronoun.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-a08795f2ac76",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-02",
+      "paragraph": "p-006",
+      "before": "without her. for that matter",
+      "after": "without her, for that matter",
+      "reason": "Full stop replaces the comma introducing the parenthetical for that matter.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-e6e405de1c74",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-03",
+      "paragraph": "p-005",
+      "before": "care T of the coach",
+      "after": "care of the coach",
+      "reason": "Stray capital T interrupts the fixed phrase taking care of.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-0a249e6d68ff",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-04",
+      "paragraph": "p-003",
+      "before": "smile that. gleamed",
+      "after": "smile that gleamed",
+      "reason": "Intrusive full stop interrupts subject and verb.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-8bcffa1db664",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-04",
+      "paragraph": "p-252",
+      "before": "death but. fluttering",
+      "after": "death but fluttering",
+      "reason": "Intrusive full stop after the coordinating conjunction.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-bacd7cf807a3",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-05",
+      "paragraph": "p-169",
+      "before": "Chenillewould",
+      "after": "Chenille would",
+      "reason": "Missing word space between subject and auxiliary.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-f33a856da858",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-05",
+      "paragraph": "p-212",
+      "before": "put. yourself",
+      "after": "put yourself",
+      "reason": "Intrusive full stop between verb and reflexive object.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-ecab1aea8409",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-06",
+      "paragraph": "p-017",
+      "before": "`Without looking",
+      "after": "Without looking",
+      "reason": "Stray grave accent before ordinary narration; not a quotation or code delimiter.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-531f3af47ac7",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-06",
+      "paragraph": "p-020",
+      "before": "not. the sun",
+      "after": "not the sun",
+      "reason": "Intrusive full stop inside the contrast not the sun ... but the emptiness.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-92669fd2cc8e",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-06",
+      "paragraph": "p-089",
+      "before": "the woman said^",
+      "after": "the woman said,",
+      "reason": "Caret replaces the comma closing a speech attribution; speech immediately resumes.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-05f0bb1a6bbb",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-06",
+      "paragraph": "p-215",
+      "before": "by a. sizable boulder",
+      "after": "by a sizable boulder",
+      "reason": "Intrusive full stop after indefinite article.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-2473ddd645ae",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-06",
+      "paragraph": "p-296",
+      "before": "bought in Limha",
+      "after": "bought in Limna",
+      "reason": "OCR h for n in the town Limna, repeatedly named in the surrounding chapter.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-143efa44a855",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-07",
+      "paragraph": "p-004",
+      "before": "you-:ah-make",
+      "after": "you-ah-make",
+      "reason": "Stray colon inside the speaker’s dash-delimited hesitation; preserves the established hyphen style.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-1f68bd119050",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-08",
+      "paragraph": "p-016",
+      "before": "No, it. had",
+      "after": "No, it had",
+      "reason": "Intrusive full stop between pronoun and auxiliary.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-e4511bd6fa7d",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-08",
+      "paragraph": "p-023",
+      "before": "Chenilte emerged",
+      "after": "Chenille emerged",
+      "reason": "OCR t for l in the consistently named Chenille.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-f46ac759a9ab",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-08",
+      "paragraph": "p-076",
+      "before": "the Ayuntamicnto",
+      "after": "the Ayuntamiento",
+      "reason": "OCR c for e in the repeatedly named council Ayuntamiento.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-9ecdbd29fdda",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-08",
+      "paragraph": "p-174",
+      "before": "Hammcrstonc threw",
+      "after": "Hammerstone threw",
+      "reason": "OCR c for e twice in the repeatedly named Hammerstone.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-b8faac9f675f",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-09",
+      "paragraph": "p-007",
+      "before": "\"Oh, my! Cenille asked,",
+      "after": "\"Oh, my!\" Chenille asked,",
+      "reason": "Missing speech-closing quote and dropped h in the attribution naming Chenille.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-cda35a813bec",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-09",
+      "paragraph": "p-153",
+      "before": "Hammerslone confirmed",
+      "after": "Hammerstone confirmed",
+      "reason": "OCR l for t in the repeatedly named Hammerstone.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-90c56a32835f",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-09",
+      "paragraph": "p-172",
+      "before": "this. on, please",
+      "after": "this on, please",
+      "reason": "Intrusive full stop inside the request put this on.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-11dca3ebcaab",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-09",
+      "paragraph": "p-247",
+      "before": "The Loganslone,",
+      "after": "The Loganstone,",
+      "reason": "OCR l for t in the vessel name; same vessel spelled Loganstone in lake-10/p-137.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-aee4acdec9de",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-10",
+      "paragraph": "p-052",
+      "before": "not. solidly fastened",
+      "after": "not solidly fastened",
+      "reason": "Intrusive full stop separates negative from its adjective phrase.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-c1a675c89536",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-11",
+      "paragraph": "p-009",
+      "before": "For an. instant",
+      "after": "For an instant",
+      "reason": "Intrusive full stop after indefinite article.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-90ec8d6ec6fe",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-11",
+      "paragraph": "p-143",
+      "before": "to leam,",
+      "after": "to learn,",
+      "reason": "OCR rn fused into m; prior annotation audit independently flags all three leam uses as learn.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-60198da3c2e3",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-12",
+      "paragraph": "p-112",
+      "before": "Paluslria",
+      "after": "Palustria",
+      "reason": "OCR l for t in Palustria; confirmed by 32 correctly spelled Palustria occurrences elsewhere in this corpus.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-6fc465c405b9",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-12",
+      "paragraph": "p-113",
+      "before": "Paluslria",
+      "after": "Palustria",
+      "reason": "OCR l for t in Palustria; confirmed by 32 correctly spelled Palustria occurrences elsewhere in this corpus.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-04edb4cedf7c",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-12",
+      "paragraph": "p-113",
+      "before": "and thai is",
+      "after": "and that is",
+      "reason": "OCR i for t in the demonstrative that.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-c1d27d6f4f62",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-12",
+      "paragraph": "p-249",
+      "before": "Wlien he reached",
+      "after": "When he reached",
+      "reason": "OCR li for h in the sentence-opening conjunction.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-905fa33d8790",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-13",
+      "paragraph": "p-034",
+      "before": "they leam otherwise",
+      "after": "they learn otherwise",
+      "reason": "OCR rn fused into m; prior annotation audit independently flags all three leam uses as learn.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-3205f4e2b9ce",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-13",
+      "paragraph": "p-143",
+      "before": "just/want",
+      "after": "just want",
+      "reason": "Intrusive slash substitutes for the word space.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-d568edb1c0c2",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-13",
+      "paragraph": "p-156",
+      "before": "retaining ihe memory",
+      "after": "retaining the memory",
+      "reason": "OCR i for t in the definite article.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-5bb74e631746",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-13",
+      "paragraph": "p-181",
+      "before": "has iT/ade things",
+      "after": "has made things",
+      "reason": "Garbled OCR of initial m in made; completed predicate is locally unambiguous.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-d01698f39df9",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-13",
+      "paragraph": "p-247",
+      "before": "to sei/.e Crane's",
+      "after": "to seize Crane's",
+      "reason": "OCR punctuation replaces z in seize.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-c07bdd745045",
+      "book": "book-of-the-long-sun",
+      "chapter": "calde-03",
+      "paragraph": "p-129",
+      "before": "contrary !",
+      "after": "contrary!",
+      "reason": "Spurious space before exclamation mark in a continuous English sentence.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-a269c445e94b",
+      "book": "book-of-the-long-sun",
+      "chapter": "calde-06",
+      "paragraph": "p-100",
+      "before": "and where. he",
+      "after": "and where he",
+      "reason": "Intrusive full stop between conjunction and pronoun.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-646a1b634139",
+      "book": "book-of-the-long-sun",
+      "chapter": "calde-10",
+      "paragraph": "p-217",
+      "before": "Trivigauhte",
+      "after": "Trivigaunte",
+      "reason": "OCR h for n in the consistently named city Trivigaunte.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-22a76403e7e2",
+      "book": "book-of-the-long-sun",
+      "chapter": "exodus-11",
+      "paragraph": "p-109",
+      "before": "Grand Straircase",
+      "after": "Grand Staircase",
+      "reason": "Intrusive r within Staircase.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-e555b3e21646",
+      "book": "book-of-the-long-sun",
+      "chapter": "calde-reference",
+      "paragraph": "p-078",
+      "before": "Hierax,Thelxiepeia",
+      "after": "Hierax, Thelxiepeia",
+      "reason": "Missing word space between two comma-separated names; not a line break in the HTML.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-cfb3d31116c2",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-01",
+      "paragraph": "p-034",
+      "before": "work die boat",
+      "after": "work the boat",
+      "reason": "OCR di for th in the definite article; ordinary narration, not German or dialect.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-3bb1f9ff800c",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-01",
+      "paragraph": "p-034",
+      "before": "show diis to",
+      "after": "show this to",
+      "reason": "OCR di for th in demonstrative this, independently flagged in prior annotation audit.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-45b05b7e20cb",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-01",
+      "paragraph": "p-034",
+      "before": "to die same degree",
+      "after": "to the same degree",
+      "reason": "OCR di for th in the definite article.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-c5f84385d5d2",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-01",
+      "paragraph": "p-035",
+      "before": "better dian I",
+      "after": "better than I",
+      "reason": "OCR di for th in comparative than, independently flagged in prior annotation audit.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-61798a356179",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-01",
+      "paragraph": "p-226",
+      "before": "and.even",
+      "after": "and even",
+      "reason": "Intrusive period substitutes for a word space.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-3cdc4f7f5375",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-03",
+      "paragraph": "p-090",
+      "before": "tales, lt: had",
+      "after": "tales, it had",
+      "reason": "OCR l for i and intrusive colon in the ordinary pronoun it.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-db13ced4ac7d",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-03",
+      "paragraph": "p-095",
+      "before": "cornpounded",
+      "after": "compounded",
+      "reason": "OCR rn for m in the account of mixing ink ingredients.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-e842c3544ce3",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-04",
+      "paragraph": "p-077",
+      "before": "a moment Or two",
+      "after": "a moment or two",
+      "reason": "Spurious capitalization of the coordinating conjunction.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-c0f058052652",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-09",
+      "paragraph": "p-168",
+      "before": "could doit",
+      "after": "could do it",
+      "reason": "Missing word space between verb and object; prior annotation audit independently flagged this.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-d55582d77c12",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-09",
+      "paragraph": "p-207",
+      "before": "about H him",
+      "after": "about him",
+      "reason": "Stray capital H interrupts the preposition and object.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-11e0a6c356bf",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-09",
+      "paragraph": "p-207",
+      "before": "announcing If loudly",
+      "after": "announcing loudly",
+      "reason": "Stray OCR letters If interrupt the verb and adverb.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-401bb5f687dd",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-09",
+      "paragraph": "p-207",
+      "before": "the I usual mixture",
+      "after": "the usual mixture",
+      "reason": "Stray capital I interrupts the article and adjective.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-e817787bf5e7",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-11",
+      "paragraph": "p-053",
+      "before": "Whqever built",
+      "after": "Whoever built",
+      "reason": "OCR q for o in Whoever.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-2fa38112c9a3",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-11",
+      "paragraph": "p-216",
+      "before": "Tou kill breakbull",
+      "after": "You kill breakbull",
+      "reason": "OCR T for Y; prior and following imperative address Horn as you; preserves all dialect.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-141882a7b964",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-12",
+      "paragraph": "p-110",
+      "before": "“Trooper“",
+      "after": "“Trooper”",
+      "reason": "Reversed closing double quote around a nickname.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-7a01afa06e44",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-12",
+      "paragraph": "p-133",
+      "before": "three boadoads",
+      "after": "three boatloads",
+      "reason": "OCR tl merged as d inside boatloads; food has arrived by boat.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-d1ab826d836d",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-12",
+      "paragraph": "p-133",
+      "before": "money for I more",
+      "after": "money for more",
+      "reason": "Stray capital I interrupts preposition and object.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-dd6ec39292f6",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-12",
+      "paragraph": "p-137",
+      "before": "Generalissmo",
+      "after": "Generalissimo",
+      "reason": "Dropped i in a title repeatedly spelled Generalissimo elsewhere.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-3ba9c4115c42",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-13",
+      "paragraph": "p-132",
+      "before": "—”we” being",
+      "after": "—“we” being",
+      "reason": "Reversed opening double quote around the word we.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-74e9011a01d1",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-13",
+      "paragraph": "p-240",
+      "before": "I rilled my lungs",
+      "after": "I filled my lungs",
+      "reason": "OCR r for f in the account of taking a breath; independently flagged by the prior annotation audit.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-85e353e6488d",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-13",
+      "paragraph": "p-257",
+      "before": "what die sea does",
+      "after": "what the sea does",
+      "reason": "OCR di for th in the definite article.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-1e1d9104795f",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-13",
+      "paragraph": "p-258",
+      "before": "but die wind’s",
+      "after": "but the wind’s",
+      "reason": "OCR di for th in the definite article.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-7b3928cfefb3",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-15",
+      "paragraph": "p-009",
+      "before": "die Vanished Gods—those of die Vanished People",
+      "after": "the Vanished Gods—those of the Vanished People",
+      "reason": "Two OCR di for th substitutions in the definite article.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-6524f1186443",
+      "book": "book-of-the-short-sun",
+      "chapter": "return-05",
+      "paragraph": "p-068",
+      "before": "Mysire Siik",
+      "after": "Mysire Silk",
+      "reason": "OCR i for l in Silk, in a list of the addressee’s names.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-fd86ddad9d8a",
+      "book": "book-of-the-short-sun",
+      "chapter": "return-08",
+      "paragraph": "p-097",
+      "before": "godling,giant,",
+      "after": "godling, giant,",
+      "reason": "Missing word space after a comma separating alternatives; not an HTML line break.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-5c25061699f7",
+      "book": "book-of-the-short-sun",
+      "chapter": "return-16",
+      "paragraph": "p-078",
+      "before": "Cald6 Bison",
+      "after": "Caldé Bison",
+      "reason": "Digit 6 for é; the same paragraph gives the identical title and name correctly as Caldé Bison.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-99683794ef55",
+      "book": "book-of-the-short-sun",
+      "chapter": "return-17",
+      "paragraph": "p-304",
+      "before": "Jt was like",
+      "after": "It was like",
+      "reason": "OCR J for capital I in the sentence-opening pronoun.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-673fd9c56cad",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-reference",
+      "paragraph": "p-083",
+      "before": "Trivijfaunte",
+      "after": "Trivigaunte",
+      "reason": "Garbled jf for g in the repeatedly named city Trivigaunte.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-7fcb072d4753",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-reference",
+      "paragraph": "p-084",
+      "before": "Patera Remom",
+      "after": "Patera Remora",
+      "reason": "OCR ra fused into m in the repeatedly named Patera Remora.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-943ba8b7ccd3",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-reference",
+      "paragraph": "p-122",
+      "before": "Zeehm, the daughter",
+      "after": "Zeehra, the daughter",
+      "reason": "OCR ra fused into m; narrative blue-13/p-103 names the same gardener’s daughter Zeehra.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-7a9543eb04b4",
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-138",
+      "before": "something to :at",
+      "after": "something to eat",
+      "reason": "OCR colon for e at the start of eat.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-a23829d9943c",
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-336",
+      "before": ") ’so neither",
+      "after": ") “so neither",
+      "reason": "Wrong single closing quote where double-quoted speech resumes after a parenthetical stage direction.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-26003cc9af8f",
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-183",
+      "before": "“Frogtown“,",
+      "after": "“Frogtown”,",
+      "reason": "Reversed closing double quote around a place name.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-c180e3b8e6fc",
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-383",
+      "before": "hardJt’s hit",
+      "after": "hard it’s hit",
+      "reason": "Missing word space plus OCR J for i; the clause describes how hard the striker is hit.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-312edfdaa5cc",
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-844",
+      "before": "the ceils to either side",
+      "after": "the cells to either side",
+      "reason": "OCR i for l in the prisoner’s account of the adjacent cells.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-28d49ae2271d",
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-937",
+      "before": "The \\sounds",
+      "after": "The sounds",
+      "reason": "Stray reverse solidus before an ordinary noun.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-91c641b6b99e",
+      "book": "dark-forest",
+      "chapter": "section-08",
+      "paragraph": "p-1293",
+      "before": "voice—”some things",
+      "after": "voice—“some things",
+      "reason": "Reversed opening double quote when direct speech resumes after a narrative aside.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-5a26ee00b2ec",
+      "book": "dark-forest",
+      "chapter": "section-08",
+      "paragraph": "p-1326",
+      "before": "her—”here it’s",
+      "after": "her—“here it’s",
+      "reason": "Reversed opening double quote when direct speech resumes after a narrative aside.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-d47401a01809",
+      "book": "dark-forest",
+      "chapter": "section-08",
+      "paragraph": "p-1683",
+      "before": "Japanse",
+      "after": "Japanese",
+      "reason": "Dropped e in Japanese in the translator’s note about the pronunciation of a character.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-c94d4d05ca4a",
+      "book": "dark-forest",
+      "chapter": "section-08",
+      "paragraph": "p-1689",
+      "before": "New Year’s Editoral",
+      "after": "New Year’s Editorial",
+      "reason": "Dropped i in Editorial in the description of a newspaper editorial.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-2823c1680ef5",
+      "book": "dark-forest",
+      "chapter": "section-13",
+      "paragraph": "p-104",
+      "before": "teacup—”what’s",
+      "after": "teacup—“what’s",
+      "reason": "Reversed opening double quote when direct speech resumes after a narrative aside.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-bc575e9f37b1",
+      "book": "hyperion",
+      "chapter": "fall-09",
+      "paragraph": "p-098",
+      "before": "ostenible reason",
+      "after": "ostensible reason",
+      "reason": "Dropped s inside ostensible; the sentence contrasts the stated reason with the real reason.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-a6b56f134d1c",
+      "book": "hyperion",
+      "chapter": "fall-18",
+      "paragraph": "p-022",
+      "before": "heavinesss",
+      "after": "heaviness",
+      "reason": "Duplicated final s in heaviness.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-5cc4bc5790ec",
+      "book": "hyperion",
+      "chapter": "fall-24",
+      "paragraph": "p-075",
+      "before": "anist, I mean",
+      "after": "artist, I mean",
+      "reason": "OCR rt merged as n; the next phrase identifies the person doing the speaker’s portrait.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-3ba3b31c0722",
+      "book": "hyperion",
+      "chapter": "fall-43",
+      "paragraph": "p-021",
+      "before": "added,” Reconciliation",
+      "after": "added, “Reconciliation",
+      "reason": "Speech-opening double quote is reversed and placed before the word space.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-63231bfc4781",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-01",
+      "paragraph": "p-034",
+      "before": "Netde",
+      "after": "Nettle",
+      "reason": "OCR tl merged into d in Nettle’s name; repeated uncorrupted name and the explicit wife/coauthor context corroborate it.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-b680bed7f265",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-03",
+      "paragraph": "p-080",
+      "before": "Netde",
+      "after": "Nettle",
+      "reason": "OCR tl merged into d in Nettle’s name; repeated uncorrupted name and the explicit wife/coauthor context corroborate it.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-174d7b85e9d1",
+      "book": "book-of-the-short-sun",
+      "chapter": "blue-15",
+      "paragraph": "p-008",
+      "before": "Netde",
+      "after": "Nettle",
+      "reason": "OCR tl merged into d in Nettle’s name; repeated uncorrupted name and the explicit wife/coauthor context corroborate it.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-20a479225216",
+      "book": "book-of-the-short-sun",
+      "chapter": "return-17",
+      "paragraph": "p-316",
+      "before": "It was night went we got back",
+      "after": "It was night when we got back",
+      "reason": "Malformed temporal conjunction: the clause requires when before we got back.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-1af207cbe95c",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-13",
+      "paragraph": "p-237",
+      "before": "of'the road",
+      "after": "of the road",
+      "reason": "Stray apostrophe substitutes for a space between preposition and article.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-d39f59625049",
+      "book": "book-of-the-new-sun",
+      "chapter": "shadow-21",
+      "paragraph": "p-060",
+      "before": "Thecla—that was my friend’s name’she",
+      "after": "Thecla—that was my friend’s name—she",
+      "reason": "The apostrophe before she is a corrupted closing em dash, paired with the opening dash after Thecla.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-9718861437b6",
+      "book": "book-of-the-new-sun",
+      "chapter": "sword-07",
+      "paragraph": "p-008",
+      "before": "a consort—as ours does not’she",
+      "after": "a consort—as ours does not—she",
+      "reason": "The apostrophe before she is a corrupted closing em dash, paired with the opening dash before the aside as ours does not.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-c9c44f2e58d0",
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-138",
+      "before": "wind in the grass, when you came",
+      "after": "wind in the grass, “when you came",
+      "reason": "Missing opening double quote when the girl’s direct speech resumes after the attribution; its final closing quote is present.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-ba3b84bee951",
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-543",
+      "before": "he repeated, There is a way.”",
+      "after": "he repeated, “There is a way.”",
+      "reason": "Missing opening double quote before the explicitly repeated words, with closing double quote present.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-5834a92ee874",
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-548",
+      "before": "That which swam in my mouth swims in his veins now,”",
+      "after": "“That which swam in my mouth swims in his veins now,”",
+      "reason": "Missing opening double quote before speech followed by the Shadow child said; closing quotation exists.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-e644f9e3c611",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-13",
+      "paragraph": "p-143",
+      "before": "\"If does. I don't deny it.\"",
+      "after": "\"It does. I don't deny it.\"",
+      "reason": "OCR f for t in the pronoun It. Crane has just said “if that makes you feel good”; Silk directly confirms that it does.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-fb1dd9722761",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-13",
+      "paragraph": "p-143",
+      "before": "may I see the\" azoth again",
+      "after": "may I see the azoth again",
+      "reason": "Intrusive double quote within a single continuing request. The speech opens before As a favor and closes after hold it; there is no attribution or new speaker at azoth.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-f158014841c2",
+      "book": "book-of-the-long-sun",
+      "chapter": "lake-13",
+      "paragraph": "p-156",
+      "before": "room was'wide",
+      "after": "room was wide",
+      "reason": "Stray apostrophe substitutes for the word space between was and wide in ordinary narration.",
+      "confidence": "high"
+    },
+    {
+      "id": "v18-85fea0108778",
+      "book": "book-of-the-long-sun",
+      "chapter": "nightside-10",
+      "paragraph": "p-229",
+      "before": "expression as well. I'm glad I did it now.",
+      "after": "expression as well. \"I'm glad I did it now.",
+      "reason": "Missing opening double quote when Orchid resumes speaking after the narrative sentence about her smile. Her speech continues through the closing quote after what I did.",
+      "confidence": "high"
+    }
+  ],
+  "additionalPresentationCorrections": [
+    {
+      "reader": "beech-hill",
+      "chapter": "story",
+      "paragraph": "p-001",
+      "reason": "Replay moves the existing inserted opening quote beside the drop capital, out of its visually hidden accessible-letter span; the source and stored character stream are unchanged."
+    },
+    {
+      "reader": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraphs": [
+        "p-002",
+        "p-072",
+        "p-970",
+        "p-989"
+      ],
+      "reason": "Existing repaired names now receive complete annotation wrappers. Karel Čapek is widened, and three later repaired-word occurrences are counted without changing their global first locations."
+    }
+  ],
+  "deferredTypography": [
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-01",
+      "paragraph": "p-153",
+      "fragment": "his pocket There",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-03",
+      "paragraph": "p-007",
+      "fragment": "as he sat He said",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-03",
+      "paragraph": "p-011",
+      "fragment": "Of course not But you must If",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-03",
+      "paragraph": "p-012",
+      "fragment": "would be upset She knows",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-03",
+      "paragraph": "p-085",
+      "fragment": "He doesn't If",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-03",
+      "paragraph": "p-093",
+      "fragment": "the ball court He said",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-03",
+      "paragraph": "p-111",
+      "fragment": "every night The thing",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-03",
+      "paragraph": "p-123",
+      "fragment": "terrifying thought He paused",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-03",
+      "paragraph": "p-125",
+      "fragment": "below it The backs",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-03",
+      "paragraph": "p-283",
+      "fragment": "find it Or somebody",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-04",
+      "paragraph": "p-137",
+      "fragment": "was not it He left",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-028",
+      "fragment": "the thought They were",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-07",
+      "paragraph": "p-091",
+      "fragment": "look at it You broke",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-08",
+      "paragraph": "p-002",
+      "fragment": "of that This machine",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-08",
+      "paragraph": "p-089",
+      "fragment": "his waist It occurred",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-09",
+      "paragraph": "p-137",
+      "fragment": "better than that As if",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-09",
+      "paragraph": "p-195",
+      "fragment": "flourished it For as long",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-09",
+      "paragraph": "p-243",
+      "fragment": "confirm it She did not",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-09",
+      "paragraph": "p-247",
+      "fragment": "follow it As he tramped",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-09",
+      "paragraph": "p-247",
+      "fragment": "did not exist He recalled",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-09",
+      "paragraph": "p-249",
+      "fragment": "his pocket It might",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-10",
+      "paragraph": "p-111",
+      "fragment": "mentioned it She must",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-10",
+      "paragraph": "p-117",
+      "fragment": "that sort The cat",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-10",
+      "paragraph": "p-151",
+      "fragment": "guessed it What else",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-10",
+      "paragraph": "p-239",
+      "fragment": "my sprat The other",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-10",
+      "paragraph": "p-266",
+      "fragment": "to say it What do",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-11",
+      "paragraph": "p-061",
+      "fragment": "been first It seemed",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-11",
+      "paragraph": "p-085",
+      "fragment": "that night She was",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-12",
+      "paragraph": "p-076",
+      "fragment": "his chest He staggered",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-13",
+      "paragraph": "p-094",
+      "fragment": "the waist There was",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-13",
+      "paragraph": "p-123",
+      "fragment": "prove it The crops",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "chapter": "nightside-13",
+      "paragraph": "p-137",
+      "fragment": "needed it Or perhaps",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-short-sun",
+      "chapter": "return-04",
+      "paragraph": "p-226",
+      "fragment": "as he flew The bird",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    },
+    {
+      "reader": "book-of-the-short-sun",
+      "chapter": "blue-10",
+      "paragraph": "p-234",
+      "fragment": "butťcould not",
+      "reason": "Exact original punctuation or missing characters not independently corroborated; no repair applied."
+    }
+  ],
+  "verification": {
+    "pythonTests": 67,
+    "nodeTests": 4,
+    "baselineValidator": "passed",
+    "exactPreservation": {
+      "chapters": 747,
+      "blocks": 90461,
+      "checks": [
+        "exact source text and semantic structure",
+        "only ledger-listed visible wording deltas",
+        "stable paragraph IDs",
+        "all prior original-repair spans retained"
+      ]
+    },
+    "rebuildIdempotence": "Two full maintenance replays; the second was byte-identical across all 2583 checked non-Git/non-cache files."
+  }
+}

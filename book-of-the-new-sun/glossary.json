@@ -3171,14 +3171,14 @@
     "aliases": [
       "anacreontics"
     ],
-    "note": "In the manner of Anacreon: light lyric poetry associated with love, pleasure, and drinking.",
+    "note": "Relating to the Greek poet Anacreon or his verse, especially its themes of love, wine, and pleasure; by extension, convivial or amatory in character.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/anacreontic",
-        "label": "Merriam-Webster"
+        "label": "Merriam-Webster: anacreontic"
       }
     ],
-    "short": "Light verse about love, pleasure, and drinking.",
+    "short": "Concerned with love, drinking, and pleasure.",
     "occurrences": 1,
     "first": {
       "chapter": "shadow-10",
@@ -5840,7 +5840,7 @@
         "label": "Merriam-Webster"
       }
     ],
-    "short": "The part of a stage before the curtain.",
+    "short": "The arch or frame surrounding a theater stage.",
     "occurrences": 2,
     "first": {
       "chapter": "shadow-16",
@@ -11654,7 +11654,7 @@
     "aliases": [
       "palinode"
     ],
-    "short": "A poem retracting an earlier poem.",
+    "short": "A recantation, especially one made in a poem.",
     "note": "A poem or song that withdraws a statement made in an earlier work; more broadly, a formal recantation.",
     "possible": false,
     "sources": [
@@ -11724,13 +11724,17 @@
     "aliases": [
       "narthex"
     ],
-    "short": "The entrance area of a church.",
-    "note": "A vestibule or porch at the entrance to a church, leading into its main interior.",
+    "short": "Giant fennel or its stalk; also a casket or church porch.",
+    "note": "Greek narthex names giant fennel and its stalk, as well as a small case for ointments or other objects. In church architecture, it denotes an entrance porch or vestibule.",
     "possible": false,
     "sources": [
       {
+        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Alsj-n69750/",
+        "label": "Liddell–Scott–Jones: νάρθηξ"
+      },
+      {
         "url": "https://www.merriam-webster.com/dictionary/narthex",
-        "label": "Merriam-Webster"
+        "label": "Merriam-Webster: narthex"
       }
     ],
     "occurrences": 1,
@@ -17599,17 +17603,23 @@
   {
     "id": "pardal",
     "term": "pardal",
-    "aliases": [],
-    "short": "An old name for a leopard.",
-    "note": "An obsolete word for a leopard, derived from Greek and Latin pardalis.",
+    "aliases": [
+      "pard"
+    ],
+    "short": "Old words for a leopard.",
+    "note": "Pard and pardal are old names for a leopard, derived from Greek and Latin forms of the animal’s name.",
     "possible": false,
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/pardal",
         "label": "Merriam-Webster: pardal"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/pard",
+        "label": "Merriam-Webster: pard"
       }
     ],
-    "occurrences": 1,
+    "occurrences": 2,
     "first": {
       "chapter": "sword-10",
       "paragraph": "p-036",
@@ -20161,6 +20171,372 @@
       "chapter": "shadow-19",
       "paragraph": "p-079",
       "index": 18
+    }
+  },
+  {
+    "id": "shingle",
+    "term": "shingle",
+    "aliases": [],
+    "short": "Loose pebbles along a shore.",
+    "note": "Small water-worn stones, or a beach or bank covered with them.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/shingle",
+        "label": "Merriam-Webster: shingle"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "sword-32",
+      "paragraph": "p-017",
+      "index": 99
+    }
+  },
+  {
+    "id": "shrive",
+    "term": "shrive",
+    "aliases": [],
+    "short": "To hear confession and grant absolution.",
+    "note": "To shrive is to hear a confession and grant absolution; older usage also includes making one’s own confession.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/shrive",
+        "label": "Merriam-Webster: shrive"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-05",
+      "paragraph": "p-008",
+      "index": 72
+    }
+  },
+  {
+    "id": "gobbet",
+    "term": "gobbet",
+    "aliases": [],
+    "short": "A chunk or lump, especially of meat.",
+    "note": "A sizeable piece or lump, particularly a piece of flesh.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gobbet",
+        "label": "Merriam-Webster: gobbet"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-32",
+      "paragraph": "p-056",
+      "index": 177
+    }
+  },
+  {
+    "id": "gaff",
+    "term": "gaff",
+    "aliases": [],
+    "short": "A spar supporting the upper edge of a sail.",
+    "note": "In sailing, a gaff is a spar carrying the upper edge of a fore-and-aft sail.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/gaff",
+        "label": "Merriam-Webster: gaff"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "urth-45",
+      "paragraph": "p-002",
+      "index": 190
+    }
+  },
+  {
+    "id": "bravos",
+    "term": "bravos",
+    "aliases": [],
+    "short": "Hired ruffians or killers.",
+    "note": "In this older noun sense, a bravo is a violent adventurer or assassin, especially one employed to commit crimes for someone else.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bravo",
+        "label": "Merriam-Webster: bravo"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-12",
+      "paragraph": "p-018",
+      "index": 11
+    }
+  },
+  {
+    "id": "lianas",
+    "term": "lianas",
+    "aliases": [
+      "liana"
+    ],
+    "short": "Woody climbing vines.",
+    "note": "Long-stemmed woody climbers characteristic of tropical forests, often reaching the tree canopy.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/liana",
+        "label": "Merriam-Webster: liana"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "shadow-19",
+      "paragraph": "p-079",
+      "index": 18
+    }
+  },
+  {
+    "id": "sweeps-oars",
+    "term": "the sweeps",
+    "aliases": [],
+    "short": "Long oars used to propel a vessel.",
+    "note": "A sweep is a large oar, used to move a boat or help steer it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/sweep",
+        "label": "Dictionary.com: sweep"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "citadel-32",
+      "paragraph": "p-010",
+      "index": 138
+    }
+  },
+  {
+    "id": "rheumy",
+    "term": "rheumy",
+    "aliases": [],
+    "short": "Watery or affected by discharge.",
+    "note": "Describes eyes affected by rheum, a watery discharge from the mucous membranes.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/rheumy",
+        "label": "Merriam-Webster: rheumy"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/rheum",
+        "label": "Merriam-Webster: rheum"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-35",
+      "paragraph": "p-046",
+      "index": 141
+    }
+  },
+  {
+    "id": "ewer",
+    "term": "ewer",
+    "aliases": [],
+    "short": "A pitcher or jug.",
+    "note": "A vase-shaped vessel for holding and pouring water or other liquids.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ewer",
+        "label": "Merriam-Webster: ewer"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "claw-01",
+      "paragraph": "p-007",
+      "index": 36
+    }
+  },
+  {
+    "id": "mews",
+    "term": "mews",
+    "aliases": [],
+    "short": "Stables, often with living quarters around a courtyard.",
+    "note": "In British usage, stables arranged around a courtyard, often with living quarters; also dwellings converted from such stables. An older falconry sense is an enclosure for trained hawks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/mews",
+        "label": "Merriam-Webster: mews"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-26",
+      "paragraph": "p-046",
+      "index": 25
+    }
+  },
+  {
+    "id": "kine",
+    "term": "kine",
+    "aliases": [],
+    "short": "Cows; cattle.",
+    "note": "An archaic plural of cow.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/kine",
+        "label": "Merriam-Webster: kine"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-03",
+      "paragraph": "p-034",
+      "index": 70
+    }
+  },
+  {
+    "id": "phantasmagoria",
+    "term": "phantasmagoria",
+    "aliases": [],
+    "short": "A fantastic or dreamlike assemblage of images.",
+    "note": "A shifting succession or bizarre collection of things seen or imagined; originally a display of optical illusions.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/phantasmagoria",
+        "label": "Merriam-Webster: phantasmagoria"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "sword-06",
+      "paragraph": "p-019",
+      "index": 73
+    }
+  },
+  {
+    "id": "companionway",
+    "term": "companionway",
+    "aliases": [],
+    "short": "A ship’s stairway between decks.",
+    "note": "A stair or ladder providing passage from one deck of a vessel to another.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/companionway",
+        "label": "Merriam-Webster: companionway"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-11",
+      "paragraph": "p-054",
+      "index": 156
+    }
+  },
+  {
+    "id": "close-hauled",
+    "term": "close-hauled",
+    "aliases": [],
+    "short": "Sailing as near into the wind as possible.",
+    "note": "Describes a vessel with its sails drawn in to travel as close to the wind’s direction as it can.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/close-hauled",
+        "label": "Merriam-Webster: close-hauled"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "urth-14",
+      "paragraph": "p-044",
+      "index": 159
+    }
+  },
+  {
+    "id": "freshet",
+    "term": "freshet",
+    "aliases": [],
+    "short": "A stream or rush of fresh water.",
+    "note": "An older word for a stream; also a sudden rise or flood caused by rain or melting snow.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/freshet",
+        "label": "Merriam-Webster: freshet"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-20",
+      "paragraph": "p-020",
+      "index": 19
+    }
+  },
+  {
+    "id": "mora",
+    "term": "mora",
+    "aliases": [],
+    "short": "A regiment or major division of the ancient Spartan army.",
+    "note": "A major unit of the ancient Spartan army. Xenophon describes six regimental divisions of citizen soldiers, called morai; mora is the singular.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/1178/1178-h/1178-h.htm",
+        "label": "Xenophon: Polity of the Lacedaemonians, XI"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "citadel-01",
+      "paragraph": "p-013",
+      "index": 107
+    }
+  },
+  {
+    "id": "estrapade",
+    "term": "estrapade",
+    "aliases": [],
+    "short": "A historical form of torture by suspension.",
+    "note": "French estrapade names a historical punishment involving suspension by the bound wrists and a sudden arrested fall. The word also named the structure used for it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionnaire-academie.fr/article/A9E2760",
+        "label": "Académie française: estrapade"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "shadow-30",
+      "paragraph": "p-007",
+      "index": 29
+    }
+  },
+  {
+    "id": "tarentines",
+    "term": "Tarentines",
+    "aliases": [],
+    "short": "Ancient light cavalry armed with javelins.",
+    "note": "In ancient military terminology, Tarentines were a type of lightly armed cavalry associated especially with throwing javelins, as distinguished from horse-archers and heavily armored cavalry.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.cs.uky.edu/~raphael/sol/sol-entries/iota/546",
+        "label": "Suda On Line: cavalry (iota 546)"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "citadel-35",
+      "paragraph": "p-063",
+      "index": 141
     }
   }
 ]

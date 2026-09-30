@@ -232,5 +232,55 @@
       }
     ],
     "evidence": "story/p-037: ight,” the woman called Frigg advised him, and with a spiky morgenstern he pounded the iron-shod shaft until the head was nearly buried in the wood."
+  },
+  {
+    "id": "partisans",
+    "term": "partisans",
+    "aliases": [],
+    "short": "Long-shafted weapons with broad spearheads.",
+    "note": "A partisan is a pole weapon with a long shaft and a broad, double-edged blade, often with projections near the blade’s base. Such weapons were carried by European bodyguards in the sixteenth and seventeenth centuries.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/partisan",
+        "label": "Merriam-Webster: partisan, weapon sense"
+      },
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/27025",
+        "label": "The Metropolitan Museum of Art: Partisan"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "story",
+        "paragraph": "p-005",
+        "context": "in the bailey, accompanied by the clashing and smashing heard when polearms and partisans and halberds and brown bills are let fall to the cobbles; and the third was that the whole castle had begun to rock back and forth beneath him, so that when he looked out"
+      }
+    ]
+  },
+  {
+    "id": "brown-bills",
+    "term": "brown bills",
+    "aliases": [],
+    "short": "Hooked infantry pole weapons.",
+    "note": "A brown bill is a historical infantry pole weapon related to the halberd, with a hooked cutting blade and projecting spikes. The term was used for weapons carried by English foot soldiers.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.wordnik.com/words/brown%20bill",
+        "label": "Century Dictionary via Wordnik: brown bill"
+      },
+      {
+        "url": "https://www.finedictionary.com/Brown%20bill",
+        "label": "Webster’s Revised Unabridged Dictionary: brown bill"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "story",
+        "paragraph": "p-005",
+        "context": "by the clashing and smashing heard when polearms and partisans and halberds and brown bills are let fall to the cobbles; and the third was that the whole castle had begun to rock back and forth beneath him, so that when he looked out the window he saw the watc"
+      }
+    ]
   }
 ]

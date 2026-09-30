@@ -339,6 +339,10 @@
           "paragraph": "p-041"
         },
         {
+          "term": "sprats",
+          "paragraph": "p-056"
+        },
+        {
           "term": "augur",
           "paragraph": "p-070"
         },
@@ -706,6 +710,10 @@
         {
           "term": "manteion",
           "paragraph": "p-017"
+        },
+        {
+          "term": "sprats",
+          "paragraph": "p-021"
         },
         {
           "term": "palatine",
@@ -1201,6 +1209,10 @@
           "paragraph": "p-031"
         },
         {
+          "term": "sprats",
+          "paragraph": "p-034"
+        },
+        {
           "term": "shrive",
           "paragraph": "p-036"
         },
@@ -1633,6 +1645,10 @@
         {
           "term": "tartaros",
           "paragraph": "p-055"
+        },
+        {
+          "term": "sprats",
+          "paragraph": "p-064"
         },
         {
           "term": "ermine",
@@ -3725,6 +3741,10 @@
           "paragraph": "p-250"
         },
         {
+          "term": "plashing",
+          "paragraph": "p-252"
+        },
+        {
           "term": "limna",
           "paragraph": "p-254"
         },
@@ -4067,6 +4087,10 @@
         },
         {
           "term": "echidna",
+          "paragraph": "p-035"
+        },
+        {
+          "term": "sprats",
           "paragraph": "p-035"
         },
         {
@@ -4456,6 +4480,10 @@
         },
         {
           "term": "chenille",
+          "paragraph": "p-001"
+        },
+        {
+          "term": "sprats",
           "paragraph": "p-001"
         },
         {
@@ -4974,6 +5002,10 @@
           "paragraph": "p-105"
         },
         {
+          "term": "sprats",
+          "paragraph": "p-115"
+        },
+        {
           "term": "palaestra",
           "paragraph": "p-115"
         },
@@ -5237,6 +5269,10 @@
         {
           "term": "lodestone",
           "paragraph": "p-035"
+        },
+        {
+          "term": "sprats",
+          "paragraph": "p-039"
         },
         {
           "term": "cull",
@@ -5598,6 +5634,10 @@
         {
           "term": "marble",
           "paragraph": "p-021"
+        },
+        {
+          "term": "sprats",
+          "paragraph": "p-027"
         },
         {
           "term": "chamois",
@@ -6432,7 +6472,7 @@
           "paragraph": "p-189"
         }
       ],
-      "words": 7254,
+      "words": 7253,
       "startWords": 110902
     },
     {
@@ -6774,6 +6814,10 @@
           "paragraph": "p-019"
         },
         {
+          "term": "sprats",
+          "paragraph": "p-020"
+        },
+        {
           "term": "quetzal",
           "paragraph": "p-020"
         },
@@ -6820,6 +6864,10 @@
         {
           "term": "prothonotary",
           "paragraph": "p-040"
+        },
+        {
+          "term": "burse",
+          "paragraph": "p-049"
         },
         {
           "term": "ayuntamiento",
@@ -6963,7 +7011,7 @@
         }
       ],
       "words": 8695,
-      "startWords": 118156
+      "startWords": 118155
     },
     {
       "id": "lake-05",
@@ -7349,6 +7397,10 @@
           "paragraph": "p-107"
         },
         {
+          "term": "coruscant",
+          "paragraph": "p-127"
+        },
+        {
           "term": "dimber",
           "paragraph": "p-131"
         },
@@ -7379,6 +7431,10 @@
         {
           "term": "juzgado",
           "paragraph": "p-147"
+        },
+        {
+          "term": "sprats",
+          "paragraph": "p-148"
         },
         {
           "term": "viron",
@@ -7465,8 +7521,8 @@
           "paragraph": "p-241"
         }
       ],
-      "words": 9115,
-      "startWords": 126851
+      "words": 9116,
+      "startWords": 126850
     },
     {
       "id": "lake-06",
@@ -7937,6 +7993,10 @@
           "paragraph": "p-095"
         },
         {
+          "term": "sprats",
+          "paragraph": "p-097"
+        },
+        {
           "term": "vulpes",
           "paragraph": "p-099"
         },
@@ -7947,6 +8007,10 @@
         {
           "term": "orilla",
           "paragraph": "p-126"
+        },
+        {
+          "term": "heeling",
+          "paragraph": "p-135"
         },
         {
           "term": "echidna",
@@ -8545,7 +8609,7 @@
           "paragraph": "p-231"
         }
       ],
-      "words": 6386,
+      "words": 6385,
       "startWords": 147666
     },
     {
@@ -8928,7 +8992,7 @@
         }
       ],
       "words": 6901,
-      "startWords": 154052
+      "startWords": 154051
     },
     {
       "id": "lake-09",
@@ -9296,6 +9360,10 @@
           "paragraph": "p-065"
         },
         {
+          "term": "sprats",
+          "paragraph": "p-067"
+        },
+        {
           "term": "maytera",
           "paragraph": "p-078"
         },
@@ -9310,6 +9378,10 @@
         {
           "term": "urbs",
           "paragraph": "p-110"
+        },
+        {
+          "term": "lanyard",
+          "paragraph": "p-116"
         },
         {
           "term": "theodidact",
@@ -9388,6 +9460,10 @@
           "paragraph": "p-236"
         },
         {
+          "term": "loganstone",
+          "paragraph": "p-247"
+        },
+        {
           "term": "manse",
           "paragraph": "p-252"
         },
@@ -9397,7 +9473,7 @@
         }
       ],
       "words": 9680,
-      "startWords": 160953
+      "startWords": 160952
     },
     {
       "id": "lake-10",
@@ -9736,7 +9812,7 @@
         }
       ],
       "words": 5234,
-      "startWords": 170633
+      "startWords": 170632
     },
     {
       "id": "lake-11",
@@ -10014,6 +10090,10 @@
           "paragraph": "p-020"
         },
         {
+          "term": "combers",
+          "paragraph": "p-021"
+        },
+        {
           "term": "oreb",
           "paragraph": "p-023"
         },
@@ -10215,7 +10295,7 @@
         }
       ],
       "words": 7085,
-      "startWords": 175867
+      "startWords": 175866
     },
     {
       "id": "lake-12",
@@ -10725,7 +10805,7 @@
         }
       ],
       "words": 8893,
-      "startWords": 182952
+      "startWords": 182951
     },
     {
       "id": "lake-13",
@@ -11196,7 +11276,7 @@
         }
       ],
       "words": 9609,
-      "startWords": 191845
+      "startWords": 191844
     },
     {
       "id": "calde-01",
@@ -11601,6 +11681,10 @@
           "paragraph": "p-118"
         },
         {
+          "term": "heeling",
+          "paragraph": "p-120"
+        },
+        {
           "term": "gunnel",
           "paragraph": "p-120"
         },
@@ -11674,7 +11758,7 @@
         }
       ],
       "words": 6706,
-      "startWords": 201454
+      "startWords": 201453
     },
     {
       "id": "calde-02",
@@ -12324,7 +12408,7 @@
         }
       ],
       "words": 11779,
-      "startWords": 208160
+      "startWords": 208159
     },
     {
       "id": "calde-03",
@@ -13261,6 +13345,10 @@
           "paragraph": "p-405"
         },
         {
+          "term": "sprats",
+          "paragraph": "p-412"
+        },
+        {
           "term": "snaffle",
           "paragraph": "p-423"
         },
@@ -13286,7 +13374,7 @@
         }
       ],
       "words": 15256,
-      "startWords": 219939
+      "startWords": 219938
     },
     {
       "id": "calde-04",
@@ -13914,7 +14002,7 @@
         }
       ],
       "words": 11305,
-      "startWords": 235195
+      "startWords": 235194
     },
     {
       "id": "calde-05",
@@ -14720,6 +14808,10 @@
           "paragraph": "p-211"
         },
         {
+          "term": "sprats",
+          "paragraph": "p-218"
+        },
+        {
           "term": "sard",
           "paragraph": "p-225"
         },
@@ -14837,7 +14929,7 @@
         }
       ],
       "words": 17995,
-      "startWords": 246500
+      "startWords": 246499
     },
     {
       "id": "calde-06",
@@ -15388,6 +15480,10 @@
           "paragraph": "p-136"
         },
         {
+          "term": "sprats",
+          "paragraph": "p-147"
+        },
+        {
           "term": "cull",
           "paragraph": "p-147"
         },
@@ -15533,7 +15629,7 @@
         }
       ],
       "words": 12514,
-      "startWords": 264495
+      "startWords": 264494
     },
     {
       "id": "calde-07",
@@ -16078,7 +16174,7 @@
         }
       ],
       "words": 7963,
-      "startWords": 277009
+      "startWords": 277008
     },
     {
       "id": "calde-08",
@@ -16579,7 +16675,7 @@
         }
       ],
       "words": 8432,
-      "startWords": 284972
+      "startWords": 284971
     },
     {
       "id": "calde-09",
@@ -17157,7 +17253,7 @@
         }
       ],
       "words": 8384,
-      "startWords": 293404
+      "startWords": 293403
     },
     {
       "id": "calde-10",
@@ -17747,6 +17843,10 @@
           "paragraph": "p-073"
         },
         {
+          "term": "sprats",
+          "paragraph": "p-073"
+        },
+        {
           "term": "musk",
           "paragraph": "p-073"
         },
@@ -17928,7 +18028,7 @@
         }
       ],
       "words": 13549,
-      "startWords": 301788
+      "startWords": 301787
     },
     {
       "id": "calde-epilogue",
@@ -17994,6 +18094,10 @@
           "paragraph": "p-004"
         },
         {
+          "term": "bootless",
+          "paragraph": "p-005"
+        },
+        {
           "term": "schola",
           "paragraph": "p-005"
         },
@@ -18047,7 +18151,7 @@
         }
       ],
       "words": 740,
-      "startWords": 315337
+      "startWords": 315336
     },
     {
       "id": "exodus-01",
@@ -18635,7 +18739,7 @@
         }
       ],
       "words": 9377,
-      "startWords": 316077
+      "startWords": 316076
     },
     {
       "id": "exodus-02",
@@ -19043,6 +19147,10 @@
           "paragraph": "p-099"
         },
         {
+          "term": "sprats",
+          "paragraph": "p-102"
+        },
+        {
           "term": "shrive",
           "paragraph": "p-113"
         },
@@ -19208,7 +19316,7 @@
         }
       ],
       "words": 8423,
-      "startWords": 325454
+      "startWords": 325453
     },
     {
       "id": "exodus-03",
@@ -19549,7 +19657,7 @@
         }
       ],
       "words": 4066,
-      "startWords": 333877
+      "startWords": 333876
     },
     {
       "id": "exodus-04",
@@ -19882,7 +19990,7 @@
         }
       ],
       "words": 4565,
-      "startWords": 337943
+      "startWords": 337942
     },
     {
       "id": "exodus-05",
@@ -20177,7 +20285,7 @@
         }
       ],
       "words": 3022,
-      "startWords": 342508
+      "startWords": 342507
     },
     {
       "id": "exodus-06",
@@ -20963,7 +21071,7 @@
         }
       ],
       "words": 10669,
-      "startWords": 345530
+      "startWords": 345529
     },
     {
       "id": "exodus-07",
@@ -21410,7 +21518,7 @@
         }
       ],
       "words": 9015,
-      "startWords": 356199
+      "startWords": 356198
     },
     {
       "id": "exodus-08",
@@ -21943,6 +22051,10 @@
           "paragraph": "p-248"
         },
         {
+          "term": "sprats",
+          "paragraph": "p-268"
+        },
+        {
           "term": "abram",
           "paragraph": "p-270"
         },
@@ -21972,7 +22084,7 @@
         }
       ],
       "words": 9017,
-      "startWords": 365214
+      "startWords": 365213
     },
     {
       "id": "exodus-09",
@@ -22512,6 +22624,10 @@
           "paragraph": "p-178"
         },
         {
+          "term": "sprats",
+          "paragraph": "p-203"
+        },
+        {
           "term": "ermine",
           "paragraph": "p-208"
         },
@@ -22557,7 +22673,7 @@
         }
       ],
       "words": 8132,
-      "startWords": 374231
+      "startWords": 374230
     },
     {
       "id": "exodus-10",
@@ -23160,7 +23276,7 @@
         }
       ],
       "words": 8486,
-      "startWords": 382363
+      "startWords": 382362
     },
     {
       "id": "exodus-11",
@@ -23635,6 +23751,10 @@
           "paragraph": "p-005"
         },
         {
+          "term": "heeling",
+          "paragraph": "p-005"
+        },
+        {
           "term": "close-hauled",
           "paragraph": "p-005"
         },
@@ -24000,7 +24120,7 @@
         }
       ],
       "words": 10643,
-      "startWords": 390849
+      "startWords": 390848
     },
     {
       "id": "exodus-12",
@@ -24699,6 +24819,10 @@
           "paragraph": "p-265"
         },
         {
+          "term": "sprats",
+          "paragraph": "p-279"
+        },
+        {
           "term": "urbs",
           "paragraph": "p-282"
         },
@@ -24736,7 +24860,7 @@
         }
       ],
       "words": 10602,
-      "startWords": 401492
+      "startWords": 401491
     },
     {
       "id": "exodus-13",
@@ -25260,6 +25384,10 @@
           "paragraph": "p-237"
         },
         {
+          "term": "suborn",
+          "paragraph": "p-249"
+        },
+        {
           "term": "hossaan",
           "paragraph": "p-272"
         },
@@ -25269,7 +25397,7 @@
         }
       ],
       "words": 8551,
-      "startWords": 412094
+      "startWords": 412093
     },
     {
       "id": "exodus-14",
@@ -26196,7 +26324,7 @@
         }
       ],
       "words": 15606,
-      "startWords": 420645
+      "startWords": 420644
     },
     {
       "id": "exodus-15",
@@ -26828,12 +26956,16 @@
           "paragraph": "p-259"
         },
         {
+          "term": "sprats",
+          "paragraph": "p-270"
+        },
+        {
           "term": "theophany",
           "paragraph": "p-282"
         }
       ],
       "words": 10978,
-      "startWords": 436251
+      "startWords": 436250
     },
     {
       "id": "exodus-16",
@@ -27333,6 +27465,10 @@
           "paragraph": "p-115"
         },
         {
+          "term": "sprats",
+          "paragraph": "p-138"
+        },
+        {
           "term": "viron",
           "paragraph": "p-140"
         },
@@ -27417,6 +27553,10 @@
           "paragraph": "p-272"
         },
         {
+          "term": "burse",
+          "paragraph": "p-272"
+        },
+        {
           "term": "siyuf",
           "paragraph": "p-272"
         },
@@ -27474,7 +27614,7 @@
         }
       ],
       "words": 9371,
-      "startWords": 447229
+      "startWords": 447228
     },
     {
       "id": "exodus-my-defense",
@@ -27716,6 +27856,10 @@
           "paragraph": "p-021"
         },
         {
+          "term": "sprats",
+          "paragraph": "p-040"
+        },
+        {
           "term": "shrike",
           "paragraph": "p-043"
         },
@@ -27760,6 +27904,10 @@
           "paragraph": "p-075"
         },
         {
+          "term": "burse",
+          "paragraph": "p-084"
+        },
+        {
           "term": "moorgrass",
           "paragraph": "p-087"
         },
@@ -27773,7 +27921,7 @@
         }
       ],
       "words": 5244,
-      "startWords": 456600
+      "startWords": 456599
     },
     {
       "id": "exodus-afterward",
@@ -27830,7 +27978,7 @@
         }
       ],
       "words": 315,
-      "startWords": 461844
+      "startWords": 461843
     },
     {
       "id": "lake-reference",
@@ -27915,7 +28063,7 @@
       "sections": [],
       "noteAnchors": [],
       "words": 1025,
-      "startWords": 462159
+      "startWords": 462158
     },
     {
       "id": "calde-reference",
@@ -28048,7 +28196,7 @@
       "sections": [],
       "noteAnchors": [],
       "words": 1214,
-      "startWords": 462159
+      "startWords": 462158
     },
     {
       "id": "exodus-reference",
@@ -28193,13 +28341,13 @@
       "sections": [],
       "noteAnchors": [],
       "words": 1103,
-      "startWords": 462159
+      "startWords": 462158
     }
   ],
-  "totalWords": 462159,
+  "totalWords": 462158,
   "defaultChapter": "nightside-01",
-  "glossaryCount": 511,
+  "glossaryCount": 519,
   "correctionCount": 7,
-  "editionVersion": 15,
-  "editorialCorrectionCount": 104
+  "editionVersion": 18,
+  "editorialCorrectionCount": 211
 }

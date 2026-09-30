@@ -839,15 +839,16 @@
     "id": "hegirah",
     "term": "Hegira",
     "aliases": [],
-    "short": "The migration of Muhammad from Mecca to Medina.",
-    "note": "An older spelling of Hijra: Muhammad’s migration with his followers to Medina in 622 CE. The Islamic calendar counts its years from this event; the word also means a departure or exodus.",
+    "short": "An exodus or migration; originally Muhammad’s departure for Medina.",
+    "note": "Hegira is an older spelling of Hijra, Muhammad’s migration from Mecca to Medina in 622 CE, from which the Islamic era is reckoned. In wider English usage, a hegira is an exodus, escape, or journey away from an undesirable situation.",
     "possible": false,
     "sources": [
       {
-        "url": "https://www.metmuseum.org/toah/hd/isla/hd_isla.htm",
-        "label": "Metropolitan Museum of Art: the birth of Islam"
+        "url": "https://www.merriam-webster.com/dictionary/hegira",
+        "label": "Merriam-Webster: hegira"
       }
-    ]
+    ],
+    "evidence": []
   },
   {
     "id": "hegemony",
@@ -1999,13 +2000,20 @@
     "id": "de-kooning",
     "term": "de Kooning",
     "aliases": [],
-    "short": "Willem de Kooning, Abstract Expressionist painter.",
-    "note": "De Kooning (1904–1997) was a Dutch-born American artist whose paintings move between recognizable figures and abstraction. His energetic brushwork is central to the New York School.",
-    "possible": false,
+    "short": "Possibly Willem de Kooning, the Abstract Expressionist artist.",
+    "note": "Possibly Willem de Kooning (1904–1997), the Dutch-born American artist associated with Abstract Expressionism and gestural painting. His work ranges between recognizable figures and abstraction.",
+    "possible": true,
     "sources": [
       {
         "url": "https://www.moma.org/artists/3213-willem-de-kooning",
         "label": "Museum of Modern Art: Willem de Kooning"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-996",
+        "context": "ished waiting room but I barely had time to sit down on an authentic pre-Hegira de Kooning before an aide appeared and ushered me into the CEO’s private office."
       }
     ]
   },
@@ -2219,7 +2227,9 @@
     "id": "bosch",
     "term": "Bosch-tinted",
     "aliases": [
-      "Boschian"
+      "Boschian",
+      "Hieronymus Bosch",
+      "Bosch"
     ],
     "short": "Evoking Hieronymus Bosch’s fantastic imagery.",
     "note": "Bosch, a Netherlandish painter active around 1500, filled religious scenes with strange hybrid creatures and elaborate punishments. The hell panel of The Garden of Earthly Delights is among his best-known nightmare landscapes.",
@@ -2228,8 +2238,13 @@
       {
         "url": "https://www.museodelprado.es/en/the-collection/art-work/triptych-garden-earthly-delights/02388242-6d6a-4e9e-a992-e1311eab3609",
         "label": "Museo del Prado: The Garden of Earthly Delights"
+      },
+      {
+        "url": "https://www.nga.gov/artists/986-hieronymus-bosch",
+        "label": "National Gallery of Art: Hieronymus Bosch"
       }
-    ]
+    ],
+    "evidence": []
   },
   {
     "id": "throne-of-st-peter",
@@ -2480,15 +2495,16 @@
     "id": "maui",
     "term": "Maui",
     "aliases": [],
-    "short": "Possibly Māui, the hero of Polynesian traditions.",
-    "note": "Possibly Māui, a resourceful culture hero known across the Pacific. Traditions in several island cultures credit him with feats such as fishing up land and slowing the sun.",
-    "possible": true,
+    "short": "The second-largest island in the Hawaiian archipelago.",
+    "note": "Maui is a Hawaiian island in the Pacific, formed from two volcanic masses. The larger eastern mass is Haleakalā, whose mountain slopes rise from the coast to a summit over 3,000 metres high.",
+    "possible": false,
     "sources": [
       {
-        "url": "https://collections.tepapa.govt.nz/topic/3196",
-        "label": "Museum of New Zealand Te Papa Tongarewa: the hook of Māui"
+        "url": "https://home.nps.gov/articles/nps-geodiversity-atlas-haleakala-national-park.htm",
+        "label": "National Park Service: Maui and Haleakalā geology"
       }
-    ]
+    ],
+    "evidence": []
   },
   {
     "id": "bussard",

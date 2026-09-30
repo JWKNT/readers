@@ -460,5 +460,27 @@
       "paragraph": "p-013",
       "index": 0
     }
+  },
+  {
+    "id": "catatonia",
+    "term": "catatonia",
+    "aliases": [
+      "catatonic"
+    ],
+    "short": "A syndrome affecting movement and responsiveness.",
+    "note": "A disturbance of movement and behavior that can include immobility, rigid postures, reduced speech or response, and purposeless agitation. It occurs with several psychiatric or medical conditions; catatonic means exhibiting or relating to it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/catatonia",
+        "label": "Merriam-Webster Medical: catatonia"
+      }
+    ],
+    "occurrences": 5,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-435",
+      "index": 0
+    }
   }
 ]

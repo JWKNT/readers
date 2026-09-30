@@ -12,8 +12,9 @@
     {
       "chapter": "section-08",
       "source": "B2008.html",
-      "textSha256": "ab271b64c2531df4034bfee8a05161464de7d13c4591feafe415063b96d771c0",
-      "blocks": 1696
+      "textSha256": "715e4f3cd67615b3da3ff5c2361bc0bda731314197fcdebef6a232306dbcd31f",
+      "blocks": 1696,
+      "preEditorialTextSha256": "ab271b64c2531df4034bfee8a05161464de7d13c4591feafe415063b96d771c0"
     },
     {
       "chapter": "section-12",
@@ -24,8 +25,9 @@
     {
       "chapter": "section-13",
       "source": "B2013.html",
-      "textSha256": "0f5bfe6471792de7ffbcbd96826cb72e1d05991ba13ae3fecb08430493ea92bc",
-      "blocks": 191
+      "textSha256": "f320ed29bba332132d7cd1776cba074a44a9c6d9aa99a341c111c9f132fd7be5",
+      "blocks": 191,
+      "preEditorialTextSha256": "0f5bfe6471792de7ffbcbd96826cb72e1d05991ba13ae3fecb08430493ea92bc"
     },
     {
       "chapter": "section-14",
@@ -65,5 +67,57 @@
     }
   ],
   "unmatchedGlossaryEntries": [],
-  "notePolicy": "External referents only; original translator notes retained separately."
+  "notePolicy": "External referents only; original translator notes retained separately.",
+  "editorialCorrections": [
+    {
+      "book": "dark-forest",
+      "chapter": "section-08",
+      "paragraph": "p-1293",
+      "before": "voice—”some things",
+      "after": "voice—“some things",
+      "reason": "Reversed opening double quote when direct speech resumes after a narrative aside.",
+      "confidence": "high",
+      "id": "v18-91c641b6b99e"
+    },
+    {
+      "book": "dark-forest",
+      "chapter": "section-08",
+      "paragraph": "p-1326",
+      "before": "her—”here it’s",
+      "after": "her—“here it’s",
+      "reason": "Reversed opening double quote when direct speech resumes after a narrative aside.",
+      "confidence": "high",
+      "id": "v18-5a26ee00b2ec"
+    },
+    {
+      "book": "dark-forest",
+      "chapter": "section-08",
+      "paragraph": "p-1683",
+      "before": "Japanse",
+      "after": "Japanese",
+      "reason": "Dropped e in Japanese in the translator’s note about the pronunciation of a character.",
+      "confidence": "high",
+      "id": "v18-d47401a01809"
+    },
+    {
+      "book": "dark-forest",
+      "chapter": "section-08",
+      "paragraph": "p-1689",
+      "before": "New Year’s Editoral",
+      "after": "New Year’s Editorial",
+      "reason": "Dropped i in Editorial in the description of a newspaper editorial.",
+      "confidence": "high",
+      "id": "v18-c94d4d05ca4a"
+    },
+    {
+      "book": "dark-forest",
+      "chapter": "section-13",
+      "paragraph": "p-104",
+      "before": "teacup—”what’s",
+      "after": "teacup—“what’s",
+      "reason": "Reversed opening double quote when direct speech resumes after a narrative aside.",
+      "confidence": "high",
+      "id": "v18-2823c1680ef5"
+    }
+  ]
 }

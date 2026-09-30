@@ -598,5 +598,77 @@
       "paragraph": "p-081",
       "index": 0
     }
+  },
+  {
+    "id": "galla",
+    "term": "Galla",
+    "aliases": [],
+    "short": "A historical name for the Oromo, now considered offensive.",
+    "note": "An older name used by outsiders for the Oromo people of Ethiopia and northern Kenya, and for their language. Modern dictionaries mark the name as offensive; Oromo is the accepted name.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.ahdictionary.com/word/search.html?q=Galla",
+        "label": "American Heritage Dictionary: Galla"
+      },
+      {
+        "url": "https://www.ahdictionary.com/word/search.html?q=Oromo",
+        "label": "American Heritage Dictionary: Oromo"
+      },
+      {
+        "url": "https://www.collinsdictionary.com/dictionary/english/galla",
+        "label": "Collins: Galla"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-073",
+      "index": 0
+    }
+  },
+  {
+    "id": "mount-kaf",
+    "term": "Mount Kaf",
+    "aliases": [],
+    "short": "The legendary mountain encircling the world.",
+    "note": "Kaf, also written Qāf, is a remote cosmic mountain in Islamic and Persian legend. Traditional accounts describe it as encircling the earth and made of emerald; mystical writings also use it as a boundary between the material and spiritual worlds.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/36495/36495-h/36495-h.htm",
+        "label": "John F. Blake: Astronomical Myths, chapter X"
+      },
+      {
+        "url": "https://www.iranicaonline.org/articles/aql-e-sork-the-crimsoned-archangel-lit/",
+        "label": "Encyclopaedia Iranica: ʿAql-e Sorḵ"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-131",
+      "index": 0
+    }
+  },
+  {
+    "id": "cataracts",
+    "term": "cataracts",
+    "aliases": [],
+    "short": "Steep stretches of river rapids.",
+    "note": "In river geography, a cataract is a stretch of steep rapids, a usage particularly associated with the Nile. The same word can also denote a large waterfall.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/cataract",
+        "label": "Merriam-Webster: cataract"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-083",
+      "index": 0
+    }
   }
 ]

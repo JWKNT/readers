@@ -2870,6 +2870,10 @@
           "paragraph": "p-120"
         },
         {
+          "term": "close-hauled",
+          "paragraph": "p-121"
+        },
+        {
           "term": "gaon",
           "paragraph": "p-122"
         },
@@ -3411,7 +3415,7 @@
           "paragraph": "p-292"
         }
       ],
-      "words": 10480,
+      "words": 10478,
       "startWords": 64590
     },
     {
@@ -3905,7 +3909,7 @@
         }
       ],
       "words": 10111,
-      "startWords": 75070
+      "startWords": 75068
     },
     {
       "id": "blue-11",
@@ -4271,7 +4275,7 @@
         }
       ],
       "words": 10252,
-      "startWords": 85181
+      "startWords": 85179
     },
     {
       "id": "blue-12",
@@ -4710,8 +4714,8 @@
           "paragraph": "p-201"
         }
       ],
-      "words": 10137,
-      "startWords": 95433
+      "words": 10136,
+      "startWords": 95431
     },
     {
       "id": "blue-13",
@@ -5186,7 +5190,7 @@
         }
       ],
       "words": 9956,
-      "startWords": 105570
+      "startWords": 105567
     },
     {
       "id": "blue-14",
@@ -5539,7 +5543,7 @@
         }
       ],
       "words": 6946,
-      "startWords": 115526
+      "startWords": 115523
     },
     {
       "id": "blue-15",
@@ -5768,7 +5772,7 @@
         }
       ],
       "words": 2931,
-      "startWords": 122472
+      "startWords": 122469
     },
     {
       "id": "blue-16",
@@ -5990,7 +5994,7 @@
         }
       ],
       "words": 3658,
-      "startWords": 125403
+      "startWords": 125400
     },
     {
       "id": "green-prelude",
@@ -6057,7 +6061,7 @@
         }
       ],
       "words": 233,
-      "startWords": 129061
+      "startWords": 129058
     },
     {
       "id": "green-01",
@@ -6494,7 +6498,7 @@
         }
       ],
       "words": 6900,
-      "startWords": 129294
+      "startWords": 129291
     },
     {
       "id": "green-02",
@@ -6745,7 +6749,7 @@
         }
       ],
       "words": 5646,
-      "startWords": 136194
+      "startWords": 136191
     },
     {
       "id": "green-03",
@@ -6894,7 +6898,7 @@
         }
       ],
       "words": 3645,
-      "startWords": 141840
+      "startWords": 141837
     },
     {
       "id": "green-04",
@@ -7121,7 +7125,7 @@
         }
       ],
       "words": 4744,
-      "startWords": 145485
+      "startWords": 145482
     },
     {
       "id": "green-05",
@@ -7612,7 +7616,7 @@
         }
       ],
       "words": 9580,
-      "startWords": 150229
+      "startWords": 150226
     },
     {
       "id": "green-06",
@@ -7800,7 +7804,7 @@
         }
       ],
       "words": 2854,
-      "startWords": 159809
+      "startWords": 159806
     },
     {
       "id": "green-07",
@@ -7944,7 +7948,7 @@
         }
       ],
       "words": 3344,
-      "startWords": 162663
+      "startWords": 162660
     },
     {
       "id": "green-08",
@@ -8100,7 +8104,7 @@
         }
       ],
       "words": 2796,
-      "startWords": 166007
+      "startWords": 166004
     },
     {
       "id": "green-09",
@@ -8466,7 +8470,7 @@
         }
       ],
       "words": 6697,
-      "startWords": 168803
+      "startWords": 168800
     },
     {
       "id": "green-10",
@@ -8945,7 +8949,7 @@
         }
       ],
       "words": 7709,
-      "startWords": 175500
+      "startWords": 175497
     },
     {
       "id": "green-11",
@@ -9239,7 +9243,7 @@
         }
       ],
       "words": 4044,
-      "startWords": 183209
+      "startWords": 183206
     },
     {
       "id": "green-12",
@@ -9451,7 +9455,7 @@
         }
       ],
       "words": 2899,
-      "startWords": 187253
+      "startWords": 187250
     },
     {
       "id": "green-13",
@@ -9864,7 +9868,7 @@
         }
       ],
       "words": 5228,
-      "startWords": 190152
+      "startWords": 190149
     },
     {
       "id": "green-14",
@@ -10207,7 +10211,7 @@
         }
       ],
       "words": 5277,
-      "startWords": 195380
+      "startWords": 195377
     },
     {
       "id": "green-15",
@@ -10512,7 +10516,7 @@
         }
       ],
       "words": 3921,
-      "startWords": 200657
+      "startWords": 200654
     },
     {
       "id": "green-16",
@@ -10750,7 +10754,7 @@
         }
       ],
       "words": 3501,
-      "startWords": 204578
+      "startWords": 204575
     },
     {
       "id": "green-17",
@@ -11234,7 +11238,7 @@
         }
       ],
       "words": 7705,
-      "startWords": 208079
+      "startWords": 208076
     },
     {
       "id": "green-18",
@@ -11451,7 +11455,7 @@
         }
       ],
       "words": 3805,
-      "startWords": 215784
+      "startWords": 215781
     },
     {
       "id": "green-19",
@@ -11832,7 +11836,7 @@
         }
       ],
       "words": 5419,
-      "startWords": 219589
+      "startWords": 219586
     },
     {
       "id": "green-20",
@@ -12183,7 +12187,7 @@
         }
       ],
       "words": 5063,
-      "startWords": 225008
+      "startWords": 225005
     },
     {
       "id": "green-21",
@@ -12438,7 +12442,7 @@
         }
       ],
       "words": 3241,
-      "startWords": 230071
+      "startWords": 230068
     },
     {
       "id": "green-22",
@@ -12840,7 +12844,7 @@
         }
       ],
       "words": 5012,
-      "startWords": 233312
+      "startWords": 233309
     },
     {
       "id": "green-23",
@@ -13228,7 +13232,7 @@
         }
       ],
       "words": 5988,
-      "startWords": 238324
+      "startWords": 238321
     },
     {
       "id": "green-24",
@@ -13672,7 +13676,7 @@
         }
       ],
       "words": 5904,
-      "startWords": 244312
+      "startWords": 244309
     },
     {
       "id": "green-25",
@@ -13966,7 +13970,7 @@
         }
       ],
       "words": 2940,
-      "startWords": 250216
+      "startWords": 250213
     },
     {
       "id": "return-prelude",
@@ -14003,7 +14007,7 @@
         }
       ],
       "words": 127,
-      "startWords": 253156
+      "startWords": 253153
     },
     {
       "id": "return-01",
@@ -14416,7 +14420,7 @@
         }
       ],
       "words": 6691,
-      "startWords": 253283
+      "startWords": 253280
     },
     {
       "id": "return-02",
@@ -15050,7 +15054,7 @@
         }
       ],
       "words": 7679,
-      "startWords": 259974
+      "startWords": 259971
     },
     {
       "id": "return-03",
@@ -15339,7 +15343,7 @@
         }
       ],
       "words": 5825,
-      "startWords": 267653
+      "startWords": 267650
     },
     {
       "id": "return-04",
@@ -15856,7 +15860,7 @@
         }
       ],
       "words": 9018,
-      "startWords": 273478
+      "startWords": 273475
     },
     {
       "id": "return-05",
@@ -16161,6 +16165,10 @@
           "paragraph": "p-025"
         },
         {
+          "term": "wainscot",
+          "paragraph": "p-039"
+        },
+        {
           "term": "maytera",
           "paragraph": "p-043"
         },
@@ -16171,6 +16179,10 @@
         {
           "term": "parel",
           "paragraph": "p-047"
+        },
+        {
+          "term": "scullery",
+          "paragraph": "p-058"
         },
         {
           "term": "beroep",
@@ -16238,7 +16250,7 @@
         }
       ],
       "words": 5824,
-      "startWords": 282496
+      "startWords": 282493
     },
     {
       "id": "return-06",
@@ -16966,7 +16978,7 @@
         }
       ],
       "words": 12028,
-      "startWords": 288320
+      "startWords": 288317
     },
     {
       "id": "return-07",
@@ -17367,7 +17379,7 @@
         }
       ],
       "words": 5460,
-      "startWords": 300348
+      "startWords": 300345
     },
     {
       "id": "return-08",
@@ -17835,7 +17847,7 @@
         }
       ],
       "words": 7074,
-      "startWords": 305808
+      "startWords": 305805
     },
     {
       "id": "return-09",
@@ -18264,7 +18276,7 @@
         }
       ],
       "words": 6260,
-      "startWords": 312882
+      "startWords": 312879
     },
     {
       "id": "return-10",
@@ -18706,6 +18718,10 @@
           "paragraph": "p-062"
         },
         {
+          "term": "ambion",
+          "paragraph": "p-075"
+        },
+        {
           "term": "carven",
           "paragraph": "p-075"
         },
@@ -18840,10 +18856,14 @@
         {
           "term": "tussah",
           "paragraph": "p-317"
+        },
+        {
+          "term": "scullery",
+          "paragraph": "p-323"
         }
       ],
       "words": 10146,
-      "startWords": 319142
+      "startWords": 319139
     },
     {
       "id": "return-11",
@@ -19273,7 +19293,7 @@
         }
       ],
       "words": 5877,
-      "startWords": 329288
+      "startWords": 329285
     },
     {
       "id": "return-12",
@@ -19761,7 +19781,7 @@
         }
       ],
       "words": 8289,
-      "startWords": 335165
+      "startWords": 335162
     },
     {
       "id": "return-13",
@@ -20209,7 +20229,7 @@
         }
       ],
       "words": 6487,
-      "startWords": 343454
+      "startWords": 343451
     },
     {
       "id": "return-14",
@@ -20848,7 +20868,7 @@
         }
       ],
       "words": 10347,
-      "startWords": 349941
+      "startWords": 349938
     },
     {
       "id": "return-15",
@@ -21189,7 +21209,7 @@
         }
       ],
       "words": 4360,
-      "startWords": 360288
+      "startWords": 360285
     },
     {
       "id": "return-16",
@@ -21604,6 +21624,10 @@
           "paragraph": "p-091"
         },
         {
+          "term": "ambion",
+          "paragraph": "p-092"
+        },
+        {
           "term": "pas",
           "paragraph": "p-098"
         },
@@ -21661,7 +21685,7 @@
         }
       ],
       "words": 6861,
-      "startWords": 364648
+      "startWords": 364645
     },
     {
       "id": "return-17",
@@ -22322,7 +22346,7 @@
         }
       ],
       "words": 14589,
-      "startWords": 371509
+      "startWords": 371506
     },
     {
       "id": "return-18",
@@ -22648,7 +22672,7 @@
         }
       ],
       "words": 4332,
-      "startWords": 386098
+      "startWords": 386095
     },
     {
       "id": "return-19",
@@ -22875,7 +22899,7 @@
         }
       ],
       "words": 6749,
-      "startWords": 390430
+      "startWords": 390427
     },
     {
       "id": "return-20",
@@ -23169,6 +23193,10 @@
           "paragraph": "p-113"
         },
         {
+          "term": "ambion",
+          "paragraph": "p-121"
+        },
+        {
           "term": "sinew",
           "paragraph": "p-139"
         },
@@ -23194,7 +23222,7 @@
         }
       ],
       "words": 3605,
-      "startWords": 397179
+      "startWords": 397176
     },
     {
       "id": "return-epilogue",
@@ -23316,7 +23344,7 @@
         }
       ],
       "words": 1160,
-      "startWords": 400784
+      "startWords": 400781
     },
     {
       "id": "blue-reference",
@@ -23455,7 +23483,7 @@
       "sections": [],
       "noteAnchors": [],
       "words": 986,
-      "startWords": 401944
+      "startWords": 401941
     },
     {
       "id": "green-reference",
@@ -23595,7 +23623,7 @@
       "sections": [],
       "noteAnchors": [],
       "words": 1119,
-      "startWords": 401944
+      "startWords": 401941
     },
     {
       "id": "return-reference",
@@ -23732,13 +23760,13 @@
       "sections": [],
       "noteAnchors": [],
       "words": 976,
-      "startWords": 401944
+      "startWords": 401941
     }
   ],
-  "totalWords": 401944,
+  "totalWords": 401941,
   "defaultChapter": "blue-prelude",
-  "glossaryCount": 462,
+  "glossaryCount": 466,
   "correctionCount": 16,
-  "editionVersion": 15,
-  "editorialCorrectionCount": 48
+  "editionVersion": 18,
+  "editorialCorrectionCount": 106
 }

@@ -3194,15 +3194,26 @@
     "aliases": [
       "Palatine"
     ],
-    "short": "Of a palace; possessing royal privileges.",
-    "note": "Connected with an imperial palace or endowed with royal authority. As a noun, a high palace official or a lord exercising sovereign powers in a territory.",
+    "short": "Possibly Rome’s Palatine Hill, site of imperial palaces.",
+    "note": "Possibly the Palatine Hill, one of Rome’s seven hills, where aristocratic houses and later imperial palaces were built. The related adjective palatine means belonging to a palace or possessing royal authority.",
     "sources": [
       {
+        "url": "https://www.italia.it/en/lazio/rome/palatine-hill",
+        "label": "Italia.it: Palatine Hill"
+      },
+      {
         "url": "https://www.merriam-webster.com/dictionary/palatine",
-        "label": "Merriam-Webster"
+        "label": "Merriam-Webster: palatine"
       }
     ],
-    "possible": false
+    "possible": true,
+    "evidence": [
+      {
+        "chapter": "return-10",
+        "paragraph": "p-254",
+        "context": "He wanted to shut his eyes, but made himself watch Pig’s face. “Instead, I’m asking this. Hound is getting a room in an inn, and would welcome either of us—both of us, I ought to s"
+      }
+    ]
   },
   {
     "id": "rani",
@@ -7323,5 +7334,91 @@
       }
     ],
     "evidence": "blue-03/p-091:  I was afraid I might pass it in the dark, so I furled my sails and made a sea anchor, and spent the night upon the open water, very grateful for the calm, warm weather."
+  },
+  {
+    "id": "ambion",
+    "term": "ambion",
+    "aliases": [],
+    "short": "Possibly ambo: a church pulpit or reading stand.",
+    "note": "Possibly ambo, from Greek ambōn: a raised pulpit or reading desk used in churches for scripture readings and preaching.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ambo",
+        "label": "Merriam-Webster: ambo"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "return-10",
+        "paragraph": "p-075",
+        "context": "“Gae wi’ yer,” Pig decided. He was standing at the ambion, his thick black nails seeming to stab its carven sides."
+      }
+    ]
+  },
+  {
+    "id": "close-hauled",
+    "term": "close-hauled",
+    "aliases": [],
+    "short": "Sailing as near into the wind as possible.",
+    "note": "Describes a vessel with its sails drawn in to travel as close to the wind’s direction as it can.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/close-hauled",
+        "label": "Merriam-Webster: close-hauled"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "blue-07",
+        "paragraph": "p-121",
+        "context": "description, and we found it by following their directions, that is, by sailing close-hauled almost due west. Later I saw that there were many other islands of the same type all along that coast, mountains covered with lush greenery rising out of the sea. By f"
+      }
+    ]
+  },
+  {
+    "id": "scullery",
+    "term": "scullery",
+    "aliases": [],
+    "short": "A room for washing dishes and other kitchen work.",
+    "note": "A service room adjoining a kitchen, used for cleaning utensils, preparing food, and similar tasks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/scullery",
+        "label": "Merriam-Webster: scullery"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "return-05",
+        "paragraph": "p-058",
+        "context": "g—and in short showed as much satisfaction as if she had been snatched from the scullery and made mistress of a city."
+      }
+    ]
+  },
+  {
+    "id": "wainscot",
+    "term": "wainscoting",
+    "aliases": [
+      "wainscotting"
+    ],
+    "short": "Wall paneling, especially along the lower part.",
+    "note": "A wooden or other lining on an interior wall, commonly covering only its lower portion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/wainscot",
+        "label": "Merriam-Webster: wainscot"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "return-05",
+        "paragraph": "p-039",
+        "context": "ut he disappeared into a triangular hole I had not noticed previously where the wainscoting meets the chimney near the ceiling. In five minutes or less he was back with the key in his beak. I have hidden it in my stocking."
+      }
+    ]
   }
 ]

@@ -23,6 +23,10 @@ ID is `book-of-the-new-sun`, `book-of-the-long-sun`, or
   change; a blanket rematch is intentionally unsupported. The reviewed
   `anchor-corrections.json` ledger guards those changes by chapter, paragraph,
   old ID and exact text, and fails on stale or ambiguous targets.
+- A ledger row with `old_id: null` inserts one reviewed missing anchor at an
+  exact paragraph and character offset. This supports newly repaired spellings
+  such as Loganstone while retaining the original later anchor and avoiding a
+  global rematch. Apply the editorial ledger before this annotation rebuild.
 - New Sun’s five appendixes and the Long/Short Sun proper-name lists receive no
   new notes. Long Sun’s fictional “My Defense” and “Afterward” and Short Sun’s
   narrative “Afterword” remain eligible narrative material.

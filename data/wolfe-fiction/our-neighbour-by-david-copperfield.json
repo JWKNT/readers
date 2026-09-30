@@ -105,5 +105,26 @@
       }
     ],
     "evidence": "story/p-032: r it to keep off the rain; so that he looked like a Spanish duenna in a play."
+  },
+  {
+    "id": "propinquity",
+    "term": "propinquity",
+    "aliases": [],
+    "short": "Nearness or proximity.",
+    "note": "Nearness in place or time; the word can also mean kinship or closeness of blood relationship.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/propinquity",
+        "label": "Merriam-Webster: propinquity"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "story",
+        "paragraph": "p-005",
+        "context": " no desire to know. But I conceived a responsibility to him based on our recent propinquity. In an excess of intimate spirit, I supposed the watcher might have been dispatched by some sinister enemy to spy on him, or might mean to rob his house. Thus, as soon "
+      }
+    ]
   }
 ]

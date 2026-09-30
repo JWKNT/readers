@@ -345,5 +345,28 @@
       }
     ],
     "evidence": "story/p-013: ther as they moved away from the water until the forest of their columniated trunks seemed architectural, like some palace maze becoming as it progressed more and more draped w"
+  },
+  {
+    "id": "catatonia",
+    "term": "catatonia",
+    "aliases": [
+      "catatonic"
+    ],
+    "short": "A syndrome affecting movement and responsiveness.",
+    "note": "A disturbance of movement and behavior that can include immobility, rigid postures, reduced speech or response, and purposeless agitation. It occurs with several psychiatric or medical conditions; catatonic means exhibiting or relating to it.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/catatonia",
+        "label": "Merriam-Webster Medical: catatonia"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "story",
+        "paragraph": "p-435",
+        "context": "mp trail down each thin cheek, but she did not move when he touched her. “She’s catatonic, isn’t she,” he said."
+      }
+    ]
   }
 ]

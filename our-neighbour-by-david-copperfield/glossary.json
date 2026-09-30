@@ -140,5 +140,25 @@
       "paragraph": "p-032",
       "index": 0
     }
+  },
+  {
+    "id": "propinquity",
+    "term": "propinquity",
+    "aliases": [],
+    "short": "Nearness or proximity.",
+    "note": "Nearness in place or time; the word can also mean kinship or closeness of blood relationship.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/propinquity",
+        "label": "Merriam-Webster: propinquity"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
   }
 ]

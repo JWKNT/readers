@@ -253,5 +253,30 @@
       }
     ],
     "evidence": "story/p-002:  don’t get them. Sarg had them. The light ran to sienna and umber and ocher, so that everything looked older than it was and made you think of waxed oak and tarnished gold. Th"
+  },
+  {
+    "id": "amelie-gravereaux",
+    "term": "Amelie Gravereaux",
+    "aliases": [],
+    "short": "A fragrant, rosy-purple hybrid rugosa rose.",
+    "note": "A hybrid rugosa rose bred by Jules Gravereaux, with double, fragrant, rosy-purple flowers and dark, wrinkled foliage. The cultivar is named for his daughter Amélie.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://woodlandpubliclibrary.com/168/Rose-Details",
+        "label": "Woodland Public Library rose garden: Amelie Gravereaux"
+      },
+      {
+        "url": "https://thefriendsofvintageroses.org/wp-content/uploads/2020/07/VGC_Rugosas.pdf",
+        "label": "Vintage Gardens: Rugosa catalogue"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "story",
+        "paragraph": "p-002",
+        "context": "o spruce, and a lot of the old, hardy, half-wild roses like Sarah Van Fleet and Amelie Gravereaux."
+      }
+    ]
   }
 ]

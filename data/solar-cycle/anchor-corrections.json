@@ -10,6 +10,17 @@
       "count": 1,
       "reason": "The phrase denotes the ornamental plant, not the South American grasslands. Retain the genuine grassland match at nightside-06/p-001.",
       "text_offset": 42
+    },
+    {
+      "chapter": "lake-09",
+      "paragraph": "p-247",
+      "old_id": null,
+      "old_text": "",
+      "replacement_id": "loganstone",
+      "replacement_text": "Loganstone",
+      "text_offset": 5,
+      "count": 1,
+      "reason": "The reviewed Loganslone-to-Loganstone OCR repair reveals an earlier valid occurrence than lake-10/p-137. Add only this repaired word and retain the original later anchor."
     }
   ]
 }

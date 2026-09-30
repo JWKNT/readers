@@ -2670,5 +2670,29 @@
       "paragraph": "p-020",
       "index": 20
     }
+  },
+  {
+    "id": "string-theory",
+    "term": "string theory",
+    "aliases": [],
+    "short": "A proposed framework treating particles as vibrating strings.",
+    "note": "A theoretical framework in which tiny one-dimensional strings replace pointlike elementary particles, with different vibration modes corresponding to different particles. It is studied as a possible way to combine quantum physics and gravity; it remains experimentally unconfirmed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://cms.cern/index.php/physics/do-we-really-live-only-three-dimensions",
+        "label": "CERN CMS: String theory and extra dimensions"
+      },
+      {
+        "url": "https://www.caltech.edu/about/news/string-theory-emerges-from-almost-nothing",
+        "label": "Caltech: String theory"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-11",
+      "paragraph": "p-033",
+      "index": 4
+    }
   }
 ]

@@ -1177,13 +1177,13 @@
     "id": "hegirah",
     "term": "Hegira",
     "aliases": [],
-    "short": "The migration of Muhammad from Mecca to Medina.",
-    "note": "An older spelling of Hijra: Muhammad’s migration with his followers to Medina in 622 CE. The Islamic calendar counts its years from this event; the word also means a departure or exodus.",
+    "short": "An exodus or migration; originally Muhammad’s departure for Medina.",
+    "note": "Hegira is an older spelling of Hijra, Muhammad’s migration from Mecca to Medina in 622 CE, from which the Islamic era is reckoned. In wider English usage, a hegira is an exodus, escape, or journey away from an undesirable situation.",
     "possible": false,
     "sources": [
       {
-        "url": "https://www.metmuseum.org/toah/hd/isla/hd_isla.htm",
-        "label": "Metropolitan Museum of Art: the birth of Islam"
+        "url": "https://www.merriam-webster.com/dictionary/hegira",
+        "label": "Merriam-Webster: hegira"
       }
     ],
     "occurrences": 52,
@@ -2812,9 +2812,9 @@
     "id": "de-kooning",
     "term": "de Kooning",
     "aliases": [],
-    "short": "Willem de Kooning, Abstract Expressionist painter.",
-    "note": "De Kooning (1904–1997) was a Dutch-born American artist whose paintings move between recognizable figures and abstraction. His energetic brushwork is central to the New York School.",
-    "possible": false,
+    "short": "Possibly Willem de Kooning, the Abstract Expressionist artist.",
+    "note": "Possibly Willem de Kooning (1904–1997), the Dutch-born American artist associated with Abstract Expressionism and gestural painting. His work ranges between recognizable figures and abstraction.",
+    "possible": true,
     "sources": [
       {
         "url": "https://www.moma.org/artists/3213-willem-de-kooning",
@@ -3122,7 +3122,9 @@
     "id": "bosch",
     "term": "Bosch-tinted",
     "aliases": [
-      "Boschian"
+      "Boschian",
+      "Hieronymus Bosch",
+      "Bosch"
     ],
     "short": "Evoking Hieronymus Bosch’s fantastic imagery.",
     "note": "Bosch, a Netherlandish painter active around 1500, filled religious scenes with strange hybrid creatures and elaborate punishments. The hell panel of The Garden of Earthly Delights is among his best-known nightmare landscapes.",
@@ -3131,9 +3133,13 @@
       {
         "url": "https://www.museodelprado.es/en/the-collection/art-work/triptych-garden-earthly-delights/02388242-6d6a-4e9e-a992-e1311eab3609",
         "label": "Museo del Prado: The Garden of Earthly Delights"
+      },
+      {
+        "url": "https://www.nga.gov/artists/986-hieronymus-bosch",
+        "label": "National Gallery of Art: Hieronymus Bosch"
       }
     ],
-    "occurrences": 2,
+    "occurrences": 3,
     "first": {
       "chapter": "hyperion-01",
       "paragraph": "p-600",
@@ -3491,13 +3497,13 @@
     "id": "maui",
     "term": "Maui",
     "aliases": [],
-    "short": "Possibly Māui, the hero of Polynesian traditions.",
-    "note": "Possibly Māui, a resourceful culture hero known across the Pacific. Traditions in several island cultures credit him with feats such as fishing up land and slowing the sun.",
-    "possible": true,
+    "short": "The second-largest island in the Hawaiian archipelago.",
+    "note": "Maui is a Hawaiian island in the Pacific, formed from two volcanic masses. The larger eastern mass is Haleakalā, whose mountain slopes rise from the coast to a summit over 3,000 metres high.",
+    "possible": false,
     "sources": [
       {
-        "url": "https://collections.tepapa.govt.nz/topic/3196",
-        "label": "Museum of New Zealand Te Papa Tongarewa: the hook of Māui"
+        "url": "https://home.nps.gov/articles/nps-geodiversity-atlas-haleakala-national-park.htm",
+        "label": "National Park Service: Maui and Haleakalā geology"
       }
     ],
     "occurrences": 61,
@@ -6183,12 +6189,12 @@
     "term": "Gulliver",
     "aliases": [],
     "short": "The traveller in Jonathan Swift’s Gulliver’s Travels.",
-    "note": "In the giant land of Brobdingnag, Gulliver observes skin at an enlarged scale and finds apparently smooth beauty rough and uneven close up.",
+    "note": "Lemuel Gulliver is the narrator of Jonathan Swift’s Gulliver’s Travels. In its final voyage he encounters the rational horses called Houyhnhnms; after returning home, he recoils from human company and prefers his horses.",
     "possible": false,
     "sources": [
       {
         "url": "https://www.gutenberg.org/cache/epub/829/pg829-images.html",
-        "label": "Project Gutenberg: Gulliver’s Travels, Part II"
+        "label": "Jonathan Swift: Gulliver’s Travels, Part IV, chapter XI"
       }
     ],
     "occurrences": 1,
@@ -7067,28 +7073,6 @@
     }
   },
   {
-    "id": "hieronymus-bosch",
-    "term": "Hieronymus Bosch",
-    "aliases": [
-      "Bosch"
-    ],
-    "short": "Netherlandish painter of visionary religious scenes.",
-    "note": "Painter, c. 1450–1516, known for densely imagined moral and religious scenes filled with hybrids, monsters, temptation, and punishment. His works include The Garden of Earthly Delights.",
-    "possible": false,
-    "sources": [
-      {
-        "url": "https://www.nga.gov/artists/986-hieronymus-bosch",
-        "label": "National Gallery of Art: Hieronymus Bosch"
-      }
-    ],
-    "occurrences": 1,
-    "first": {
-      "chapter": "fall-34",
-      "paragraph": "p-132",
-      "index": 43
-    }
-  },
-  {
     "id": "van-gogh",
     "term": "van Gogh",
     "aliases": [
@@ -7261,15 +7245,28 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://johnkeats.uvic.ca/1818-06-26.html?data-id=haydon_br",
+        "url": "https://johnkeats.uvic.ca/1818-08-07.html",
         "label": "University of Victoria: Keats’s northern tour"
+      },
+      {
+        "url": "https://keatsfoundation.com/news/charles-armitage-browns-house-laira-plymouth/",
+        "label": "Keats Foundation: Charles Armitage Brown"
       }
     ],
-    "occurrences": 4,
+    "excludeMatches": [
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-518",
+        "text": "Brown",
+        "context": "Brown robe",
+        "reason": "This is a color adjective, not Charles Armitage Brown."
+      }
+    ],
+    "occurrences": 3,
     "first": {
-      "chapter": "hyperion-05",
-      "paragraph": "p-518",
-      "index": 5
+      "chapter": "fall-39",
+      "paragraph": "p-119",
+      "index": 48
     }
   },
   {
@@ -7651,11 +7648,41 @@
         "label": "Buckminster Fuller Institute: Dymaxion map"
       }
     ],
-    "occurrences": 5,
+    "excludeMatches": [
+      {
+        "chapter": "fall-17",
+        "paragraph": "p-030",
+        "text": "Buckminster",
+        "context": "capital of Buckminster",
+        "reason": "This is a fictional city, not the map projection."
+      },
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-293",
+        "text": "Buckminster",
+        "context": "Buckminster, the capital",
+        "reason": "This is a fictional city, not the map projection."
+      },
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-305",
+        "text": "Buckminster",
+        "context": "Civic Center Building in Buckminster",
+        "reason": "This is a fictional city, not the map projection."
+      },
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-492",
+        "text": "Buckminster",
+        "context": "refugee barracks in Buckminster",
+        "reason": "This is a fictional city, not the map projection."
+      }
+    ],
+    "occurrences": 1,
     "first": {
-      "chapter": "hyperion-02",
-      "paragraph": "p-293",
-      "index": 2
+      "chapter": "fall-04",
+      "paragraph": "p-034",
+      "index": 13
     }
   },
   {
@@ -7796,46 +7823,6 @@
       "chapter": "hyperion-03",
       "paragraph": "p-105",
       "index": 3
-    }
-  },
-  {
-    "id": "albedo",
-    "term": "Albedo",
-    "aliases": [],
-    "short": "The fraction of incoming light reflected by a surface.",
-    "note": "A measure of reflectivity, expressed between zero and one or as a percentage. Snow and bright clouds have high albedo; dark ocean water and forests generally reflect much less light.",
-    "possible": false,
-    "sources": [
-      {
-        "url": "https://mynasadata.larc.nasa.gov/basic-page/albedo-values",
-        "label": "NASA: albedo values"
-      }
-    ],
-    "occurrences": 54,
-    "first": {
-      "chapter": "fall-02",
-      "paragraph": "p-008",
-      "index": 11
-    }
-  },
-  {
-    "id": "cicero",
-    "term": "Cicero",
-    "aliases": [],
-    "short": "Possibly Marcus Tullius Cicero, Roman orator and statesman.",
-    "note": "Possibly Marcus Tullius Cicero, 106–43 BCE, the Roman lawyer, politician, and philosophical writer. His speeches and prose became influential models of Latin eloquence.",
-    "possible": true,
-    "sources": [
-      {
-        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n7969/",
-        "label": "Lewis and Short: Cicero"
-      }
-    ],
-    "occurrences": 21,
-    "first": {
-      "chapter": "hyperion-02",
-      "paragraph": "p-097",
-      "index": 2
     }
   },
   {

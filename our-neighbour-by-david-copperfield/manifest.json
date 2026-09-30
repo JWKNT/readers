@@ -12,7 +12,7 @@
   ],
   "totalWords": 5321,
   "defaultChapter": "story",
-  "glossaryCount": 7,
+  "glossaryCount": 8,
   "correctionCount": 0,
   "editionVersion": 16,
   "chapters": [
@@ -174,6 +174,10 @@
         {
           "term": "hansoms",
           "paragraph": "p-004"
+        },
+        {
+          "term": "propinquity",
+          "paragraph": "p-005"
         },
         {
           "term": "lincolns-inn",

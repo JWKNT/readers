@@ -4020,5 +4020,1865 @@
     "reason": "Restore the apostrophe in the contraction sheriff is.",
     "confidence": "high",
     "id": "v17-strange-c011"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-03",
+    "paragraph": "p-133",
+    "before": "needier, a sound like the crack of a child's toy whip. A needier (momentarily, Silk thought it the needier",
+    "after": "needler, a sound like the crack of a child's toy whip. A needler (momentarily, Silk thought it the needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-6b2d221768d7"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-03",
+    "paragraph": "p-141",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-214dffc8880f"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-03",
+    "paragraph": "p-199",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-79cf90fbea36"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-04",
+    "paragraph": "p-123",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-6f68ed726e8a"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-06",
+    "paragraph": "p-112",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-a5ff7ec7eb31"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-06",
+    "paragraph": "p-116",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-c818fa9e79b3"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-06",
+    "paragraph": "p-119",
+    "before": "needier you hold, you will observe a small movable convexity. Raised, it will prevent the needier",
+    "after": "needler you hold, you will observe a small movable convexity. Raised, it will prevent the needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-877e73a54b57"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-06",
+    "paragraph": "p-126",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-0188ee0f0cd9"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-06",
+    "paragraph": "p-131",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-c2ebefd52d0f"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-06",
+    "paragraph": "p-192",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-f6f37645b9c2"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-06",
+    "paragraph": "p-196",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-a4a13ce985c2"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-06",
+    "paragraph": "p-203",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-6711460622e5"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-06",
+    "paragraph": "p-229",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-24ee4b033f88"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-06",
+    "paragraph": "p-268",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-8eed69ca8b5b"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-07",
+    "paragraph": "p-051",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-90c8791f8046"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-07",
+    "paragraph": "p-055",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-d7a37a90df4b"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-07",
+    "paragraph": "p-071",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-a0a81e9ebd64"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-07",
+    "paragraph": "p-073",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-aabb878865b2"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-07",
+    "paragraph": "p-076",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-36e8b2ea51fc"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-07",
+    "paragraph": "p-077",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-80fc1d3d013b"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-07",
+    "paragraph": "p-080",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-9f608188ced3"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-07",
+    "paragraph": "p-081",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-e03d5cd7f481"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-07",
+    "paragraph": "p-087",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-27223d1428eb"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-07",
+    "paragraph": "p-093",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-6a442be1e48f"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-07",
+    "paragraph": "p-122",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-b061f6d8e2d9"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-07",
+    "paragraph": "p-222",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-c7ce29fba9d7"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-07",
+    "paragraph": "p-226",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-ce8042aa8834"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-07",
+    "paragraph": "p-228",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-3c36308d947c"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-07",
+    "paragraph": "p-240",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-535c5f4380d5"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-08",
+    "paragraph": "p-012",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-a0bfd712404f"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-08",
+    "paragraph": "p-021",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-7dc7ccc88002"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-08",
+    "paragraph": "p-075",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-727ba449f7fb"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-08",
+    "paragraph": "p-076",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-b2fd44b9a8d7"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-08",
+    "paragraph": "p-089",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-357650514c98"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-09",
+    "paragraph": "p-041",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-63a9f00f56a7"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-09",
+    "paragraph": "p-057",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-8bd7fe1e797e"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-10",
+    "paragraph": "p-115",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-9fe8a59f9197"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-12",
+    "paragraph": "p-110",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-e3713a831553"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-12",
+    "paragraph": "p-162",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-d1de0224b141"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-12",
+    "paragraph": "p-175",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-b01e101400cb"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-12",
+    "paragraph": "p-177",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-9ee439e1fba2"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-13",
+    "paragraph": "p-027",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-7ff9cb839e51"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-13",
+    "paragraph": "p-028",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-f80e3190e49a"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-13",
+    "paragraph": "p-029",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-43c14f29e921"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-13",
+    "paragraph": "p-032",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-3cabdbd539a8"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-13",
+    "paragraph": "p-034",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-f4f2b23f183d"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-13",
+    "paragraph": "p-045",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-8b5114bd1845"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-13",
+    "paragraph": "p-048",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-fd0a906efe4d"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-13",
+    "paragraph": "p-050",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-24d104479832"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-13",
+    "paragraph": "p-051",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-79993aa687d0"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-13",
+    "paragraph": "p-132",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-68d7c7d8324f"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-13",
+    "paragraph": "p-137",
+    "before": "needier like water; he released the loading knob and the breech closed. The needier",
+    "after": "needler like water; he released the loading knob and the breech closed. The needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-763f72a3c1c9"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-13",
+    "paragraph": "p-140",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-1c9c14dea7fc"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-13",
+    "paragraph": "p-147",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-63b5f78ac56d"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-026",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-2aabfb19ca68"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-152",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-b5ad98a1e818"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-213",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-e543aee23038"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-217",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-59e5af209747"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-220",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-5895dbc82ce4"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-222",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-f3f656952bbc"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-257",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-6527f2f66578"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-02",
+    "paragraph": "p-014",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-6db8bf792194"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-02",
+    "paragraph": "p-015",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-9e6eabc7b12f"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-03",
+    "paragraph": "p-011",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-e3defca5e757"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-03",
+    "paragraph": "p-057",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-839e4f0e3d31"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-03",
+    "paragraph": "p-058",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-e717706dca7c"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-07",
+    "paragraph": "p-058",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-e34541b19cad"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-07",
+    "paragraph": "p-060",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-04cfe122e9b2"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-12",
+    "paragraph": "p-079",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-51200a130b80"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-12",
+    "paragraph": "p-094",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-6932fdf668dd"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-12",
+    "paragraph": "p-106",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-0d060f7fb74d"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-12",
+    "paragraph": "p-192",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-87237a2d3cd2"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-12",
+    "paragraph": "p-204",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-27b7df34186d"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-13",
+    "paragraph": "p-125",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-77dc5b9103c7"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-13",
+    "paragraph": "p-190",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-8ec095215b75"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-14",
+    "paragraph": "p-019",
+    "before": "needier as well. I may as well admit that, which is the truth. I believed he had lied to me about it, as he had lied to me so often about so many other things; but the traveler who had taken our old boat and abandoned him far up the rivers had taken my needier as well. Neither Sinew nor I ever set eyes on him again, but we soon united in wishing that he had boarded the lander with us, and that he had retained his weapon—my needier",
+    "after": "needler as well. I may as well admit that, which is the truth. I believed he had lied to me about it, as he had lied to me so often about so many other things; but the traveler who had taken our old boat and abandoned him far up the rivers had taken my needler as well. Neither Sinew nor I ever set eyes on him again, but we soon united in wishing that he had boarded the lander with us, and that he had retained his weapon—my needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-8ce03ad80d02"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-14",
+    "paragraph": "p-045",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-9ce0bb7ea850"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "return-11",
+    "paragraph": "p-104",
+    "before": "needier",
+    "after": "needler",
+    "reason": "OCR i for l in the needle-firing weapon. All 84 occurrences are weapon nouns; 228 correctly spelled needler occurrences corroborate the word. Short Sun blue-12/p-106 pairs the corrupt singular with correct plural needlers in the same paragraph.",
+    "confidence": "high",
+    "id": "v18-99699e69170b"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "shadow-12",
+    "paragraph": "p-050",
+    "before": "I’m certain ou must",
+    "after": "I’m certain you must",
+    "reason": "Missing initial y in the ordinary pronoun you.",
+    "confidence": "high",
+    "id": "v18-22fecb607e80"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-01",
+    "paragraph": "p-030",
+    "before": "Feadier answered",
+    "after": "Feather answered",
+    "reason": "OCR di for th in the repeatedly named child Feather; immediate pupil-list context.",
+    "confidence": "high",
+    "id": "v18-ee60b4ead8f2"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-02",
+    "paragraph": "p-052",
+    "before": "we're savin'",
+    "after": "we're sayin'",
+    "reason": "OCR v for y: the seller says the talking bird knows everything being said, not saved.",
+    "confidence": "high",
+    "id": "v18-3f799fd5c582"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-02",
+    "paragraph": "p-057",
+    "before": "a. bargain",
+    "after": "a bargain",
+    "reason": "Intrusive full stop between the indefinite article and its noun.",
+    "confidence": "high",
+    "id": "v18-4f91bc872e80"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-04",
+    "paragraph": "p-074",
+    "before": "like T did",
+    "after": "like I did",
+    "reason": "OCR T for the first-person pronoun I in a speaker’s account of entering the house.",
+    "confidence": "high",
+    "id": "v18-4aa7378833ed"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-04",
+    "paragraph": "p-133",
+    "before": "his. lips",
+    "after": "his lips",
+    "reason": "Intrusive full stop between possessive and noun.",
+    "confidence": "high",
+    "id": "v18-f4a91280a559"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-06",
+    "paragraph": "p-112",
+    "before": "not long \"ago",
+    "after": "not long ago",
+    "reason": "Intrusive straight quotation mark splits the adverbial phrase inside an already-open speech.",
+    "confidence": "high",
+    "id": "v18-0c2075f79c0d"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-07",
+    "paragraph": "p-071",
+    "before": "a shaggy He!",
+    "after": "a shaggy lie!",
+    "reason": "OCR li merged as capital H: Blood objects that the accusation is a lie.",
+    "confidence": "high",
+    "id": "v18-709badc984b7"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-10",
+    "paragraph": "p-117",
+    "before": "its Jaws",
+    "after": "its jaws",
+    "reason": "Spurious capital J inside a plain descriptive noun phrase.",
+    "confidence": "high",
+    "id": "v18-bc5139e135a4"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-10",
+    "paragraph": "p-229",
+    "before": "her Heartier expression",
+    "after": "her heartier expression",
+    "reason": "Spurious capital H inside a plain descriptive noun phrase.",
+    "confidence": "high",
+    "id": "v18-223fba84c44f"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-01",
+    "paragraph": "p-143",
+    "before": "to leam than",
+    "after": "to learn than",
+    "reason": "OCR rn fused into m; prior annotation audit independently flags all three leam uses as learn.",
+    "confidence": "high",
+    "id": "v18-8e07244b119b"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-01",
+    "paragraph": "p-188",
+    "before": "splashed His sweating",
+    "after": "splashed his sweating",
+    "reason": "Spurious capital H in third-person narration, not a divine pronoun.",
+    "confidence": "high",
+    "id": "v18-52cbc73640e4"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-02",
+    "paragraph": "p-006",
+    "before": "without her. for that matter",
+    "after": "without her, for that matter",
+    "reason": "Full stop replaces the comma introducing the parenthetical for that matter.",
+    "confidence": "high",
+    "id": "v18-a08795f2ac76"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-03",
+    "paragraph": "p-005",
+    "before": "care T of the coach",
+    "after": "care of the coach",
+    "reason": "Stray capital T interrupts the fixed phrase taking care of.",
+    "confidence": "high",
+    "id": "v18-e6e405de1c74"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-04",
+    "paragraph": "p-003",
+    "before": "smile that. gleamed",
+    "after": "smile that gleamed",
+    "reason": "Intrusive full stop interrupts subject and verb.",
+    "confidence": "high",
+    "id": "v18-0a249e6d68ff"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-04",
+    "paragraph": "p-252",
+    "before": "death but. fluttering",
+    "after": "death but fluttering",
+    "reason": "Intrusive full stop after the coordinating conjunction.",
+    "confidence": "high",
+    "id": "v18-8bcffa1db664"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-05",
+    "paragraph": "p-169",
+    "before": "Chenillewould",
+    "after": "Chenille would",
+    "reason": "Missing word space between subject and auxiliary.",
+    "confidence": "high",
+    "id": "v18-bacd7cf807a3"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-05",
+    "paragraph": "p-212",
+    "before": "put. yourself",
+    "after": "put yourself",
+    "reason": "Intrusive full stop between verb and reflexive object.",
+    "confidence": "high",
+    "id": "v18-f33a856da858"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-06",
+    "paragraph": "p-017",
+    "before": "`Without looking",
+    "after": "Without looking",
+    "reason": "Stray grave accent before ordinary narration; not a quotation or code delimiter.",
+    "confidence": "high",
+    "id": "v18-ecab1aea8409"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-06",
+    "paragraph": "p-020",
+    "before": "not. the sun",
+    "after": "not the sun",
+    "reason": "Intrusive full stop inside the contrast not the sun ... but the emptiness.",
+    "confidence": "high",
+    "id": "v18-531f3af47ac7"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-06",
+    "paragraph": "p-089",
+    "before": "the woman said^",
+    "after": "the woman said,",
+    "reason": "Caret replaces the comma closing a speech attribution; speech immediately resumes.",
+    "confidence": "high",
+    "id": "v18-92669fd2cc8e"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-06",
+    "paragraph": "p-215",
+    "before": "by a. sizable boulder",
+    "after": "by a sizable boulder",
+    "reason": "Intrusive full stop after indefinite article.",
+    "confidence": "high",
+    "id": "v18-05f0bb1a6bbb"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-06",
+    "paragraph": "p-296",
+    "before": "bought in Limha",
+    "after": "bought in Limna",
+    "reason": "OCR h for n in the town Limna, repeatedly named in the surrounding chapter.",
+    "confidence": "high",
+    "id": "v18-2473ddd645ae"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-07",
+    "paragraph": "p-004",
+    "before": "you-:ah-make",
+    "after": "you-ah-make",
+    "reason": "Stray colon inside the speaker’s dash-delimited hesitation; preserves the established hyphen style.",
+    "confidence": "high",
+    "id": "v18-143efa44a855"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-08",
+    "paragraph": "p-016",
+    "before": "No, it. had",
+    "after": "No, it had",
+    "reason": "Intrusive full stop between pronoun and auxiliary.",
+    "confidence": "high",
+    "id": "v18-1f68bd119050"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-08",
+    "paragraph": "p-023",
+    "before": "Chenilte emerged",
+    "after": "Chenille emerged",
+    "reason": "OCR t for l in the consistently named Chenille.",
+    "confidence": "high",
+    "id": "v18-e4511bd6fa7d"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-08",
+    "paragraph": "p-076",
+    "before": "the Ayuntamicnto",
+    "after": "the Ayuntamiento",
+    "reason": "OCR c for e in the repeatedly named council Ayuntamiento.",
+    "confidence": "high",
+    "id": "v18-f46ac759a9ab"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-08",
+    "paragraph": "p-174",
+    "before": "Hammcrstonc threw",
+    "after": "Hammerstone threw",
+    "reason": "OCR c for e twice in the repeatedly named Hammerstone.",
+    "confidence": "high",
+    "id": "v18-9ecdbd29fdda"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-09",
+    "paragraph": "p-007",
+    "before": "\"Oh, my! Cenille asked,",
+    "after": "\"Oh, my!\" Chenille asked,",
+    "reason": "Missing speech-closing quote and dropped h in the attribution naming Chenille.",
+    "confidence": "high",
+    "id": "v18-b8faac9f675f"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-09",
+    "paragraph": "p-153",
+    "before": "Hammerslone confirmed",
+    "after": "Hammerstone confirmed",
+    "reason": "OCR l for t in the repeatedly named Hammerstone.",
+    "confidence": "high",
+    "id": "v18-cda35a813bec"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-09",
+    "paragraph": "p-172",
+    "before": "this. on, please",
+    "after": "this on, please",
+    "reason": "Intrusive full stop inside the request put this on.",
+    "confidence": "high",
+    "id": "v18-90c56a32835f"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-09",
+    "paragraph": "p-247",
+    "before": "The Loganslone,",
+    "after": "The Loganstone,",
+    "reason": "OCR l for t in the vessel name; same vessel spelled Loganstone in lake-10/p-137.",
+    "confidence": "high",
+    "id": "v18-11dca3ebcaab"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-10",
+    "paragraph": "p-052",
+    "before": "not. solidly fastened",
+    "after": "not solidly fastened",
+    "reason": "Intrusive full stop separates negative from its adjective phrase.",
+    "confidence": "high",
+    "id": "v18-aee4acdec9de"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-11",
+    "paragraph": "p-009",
+    "before": "For an. instant",
+    "after": "For an instant",
+    "reason": "Intrusive full stop after indefinite article.",
+    "confidence": "high",
+    "id": "v18-c1a675c89536"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-11",
+    "paragraph": "p-143",
+    "before": "to leam,",
+    "after": "to learn,",
+    "reason": "OCR rn fused into m; prior annotation audit independently flags all three leam uses as learn.",
+    "confidence": "high",
+    "id": "v18-90ec8d6ec6fe"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-112",
+    "before": "Paluslria",
+    "after": "Palustria",
+    "reason": "OCR l for t in Palustria; confirmed by 32 correctly spelled Palustria occurrences elsewhere in this corpus.",
+    "confidence": "high",
+    "id": "v18-60198da3c2e3"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-113",
+    "before": "Paluslria",
+    "after": "Palustria",
+    "reason": "OCR l for t in Palustria; confirmed by 32 correctly spelled Palustria occurrences elsewhere in this corpus.",
+    "confidence": "high",
+    "id": "v18-6fc465c405b9"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-113",
+    "before": "and thai is",
+    "after": "and that is",
+    "reason": "OCR i for t in the demonstrative that.",
+    "confidence": "high",
+    "id": "v18-04edb4cedf7c"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-12",
+    "paragraph": "p-249",
+    "before": "Wlien he reached",
+    "after": "When he reached",
+    "reason": "OCR li for h in the sentence-opening conjunction.",
+    "confidence": "high",
+    "id": "v18-c1d27d6f4f62"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-034",
+    "before": "they leam otherwise",
+    "after": "they learn otherwise",
+    "reason": "OCR rn fused into m; prior annotation audit independently flags all three leam uses as learn.",
+    "confidence": "high",
+    "id": "v18-905fa33d8790"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-143",
+    "before": "just/want",
+    "after": "just want",
+    "reason": "Intrusive slash substitutes for the word space.",
+    "confidence": "high",
+    "id": "v18-3205f4e2b9ce"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-156",
+    "before": "retaining ihe memory",
+    "after": "retaining the memory",
+    "reason": "OCR i for t in the definite article.",
+    "confidence": "high",
+    "id": "v18-d568edb1c0c2"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-181",
+    "before": "has iT/ade things",
+    "after": "has made things",
+    "reason": "Garbled OCR of initial m in made; completed predicate is locally unambiguous.",
+    "confidence": "high",
+    "id": "v18-5bb74e631746"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-247",
+    "before": "to sei/.e Crane's",
+    "after": "to seize Crane's",
+    "reason": "OCR punctuation replaces z in seize.",
+    "confidence": "high",
+    "id": "v18-d01698f39df9"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "calde-03",
+    "paragraph": "p-129",
+    "before": "contrary !",
+    "after": "contrary!",
+    "reason": "Spurious space before exclamation mark in a continuous English sentence.",
+    "confidence": "high",
+    "id": "v18-c07bdd745045"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "calde-06",
+    "paragraph": "p-100",
+    "before": "and where. he",
+    "after": "and where he",
+    "reason": "Intrusive full stop between conjunction and pronoun.",
+    "confidence": "high",
+    "id": "v18-a269c445e94b"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "calde-10",
+    "paragraph": "p-217",
+    "before": "Trivigauhte",
+    "after": "Trivigaunte",
+    "reason": "OCR h for n in the consistently named city Trivigaunte.",
+    "confidence": "high",
+    "id": "v18-646a1b634139"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "exodus-11",
+    "paragraph": "p-109",
+    "before": "Grand Straircase",
+    "after": "Grand Staircase",
+    "reason": "Intrusive r within Staircase.",
+    "confidence": "high",
+    "id": "v18-22a76403e7e2"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "calde-reference",
+    "paragraph": "p-078",
+    "before": "Hierax,Thelxiepeia",
+    "after": "Hierax, Thelxiepeia",
+    "reason": "Missing word space between two comma-separated names; not a line break in the HTML.",
+    "confidence": "high",
+    "id": "v18-e555b3e21646"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-034",
+    "before": "work die boat",
+    "after": "work the boat",
+    "reason": "OCR di for th in the definite article; ordinary narration, not German or dialect.",
+    "confidence": "high",
+    "id": "v18-cfb3d31116c2"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-034",
+    "before": "show diis to",
+    "after": "show this to",
+    "reason": "OCR di for th in demonstrative this, independently flagged in prior annotation audit.",
+    "confidence": "high",
+    "id": "v18-3bb1f9ff800c"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-034",
+    "before": "to die same degree",
+    "after": "to the same degree",
+    "reason": "OCR di for th in the definite article.",
+    "confidence": "high",
+    "id": "v18-45b05b7e20cb"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-035",
+    "before": "better dian I",
+    "after": "better than I",
+    "reason": "OCR di for th in comparative than, independently flagged in prior annotation audit.",
+    "confidence": "high",
+    "id": "v18-c5f84385d5d2"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-226",
+    "before": "and.even",
+    "after": "and even",
+    "reason": "Intrusive period substitutes for a word space.",
+    "confidence": "high",
+    "id": "v18-61798a356179"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-03",
+    "paragraph": "p-090",
+    "before": "tales, lt: had",
+    "after": "tales, it had",
+    "reason": "OCR l for i and intrusive colon in the ordinary pronoun it.",
+    "confidence": "high",
+    "id": "v18-3cdc4f7f5375"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-03",
+    "paragraph": "p-095",
+    "before": "cornpounded",
+    "after": "compounded",
+    "reason": "OCR rn for m in the account of mixing ink ingredients.",
+    "confidence": "high",
+    "id": "v18-db13ced4ac7d"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-04",
+    "paragraph": "p-077",
+    "before": "a moment Or two",
+    "after": "a moment or two",
+    "reason": "Spurious capitalization of the coordinating conjunction.",
+    "confidence": "high",
+    "id": "v18-e842c3544ce3"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-09",
+    "paragraph": "p-168",
+    "before": "could doit",
+    "after": "could do it",
+    "reason": "Missing word space between verb and object; prior annotation audit independently flagged this.",
+    "confidence": "high",
+    "id": "v18-c0f058052652"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-09",
+    "paragraph": "p-207",
+    "before": "about H him",
+    "after": "about him",
+    "reason": "Stray capital H interrupts the preposition and object.",
+    "confidence": "high",
+    "id": "v18-d55582d77c12"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-09",
+    "paragraph": "p-207",
+    "before": "announcing If loudly",
+    "after": "announcing loudly",
+    "reason": "Stray OCR letters If interrupt the verb and adverb.",
+    "confidence": "high",
+    "id": "v18-11e0a6c356bf"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-09",
+    "paragraph": "p-207",
+    "before": "the I usual mixture",
+    "after": "the usual mixture",
+    "reason": "Stray capital I interrupts the article and adjective.",
+    "confidence": "high",
+    "id": "v18-401bb5f687dd"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-11",
+    "paragraph": "p-053",
+    "before": "Whqever built",
+    "after": "Whoever built",
+    "reason": "OCR q for o in Whoever.",
+    "confidence": "high",
+    "id": "v18-e817787bf5e7"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-11",
+    "paragraph": "p-216",
+    "before": "Tou kill breakbull",
+    "after": "You kill breakbull",
+    "reason": "OCR T for Y; prior and following imperative address Horn as you; preserves all dialect.",
+    "confidence": "high",
+    "id": "v18-2fa38112c9a3"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-12",
+    "paragraph": "p-110",
+    "before": "“Trooper“",
+    "after": "“Trooper”",
+    "reason": "Reversed closing double quote around a nickname.",
+    "confidence": "high",
+    "id": "v18-141882a7b964"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-12",
+    "paragraph": "p-133",
+    "before": "three boadoads",
+    "after": "three boatloads",
+    "reason": "OCR tl merged as d inside boatloads; food has arrived by boat.",
+    "confidence": "high",
+    "id": "v18-7a01afa06e44"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-12",
+    "paragraph": "p-133",
+    "before": "money for I more",
+    "after": "money for more",
+    "reason": "Stray capital I interrupts preposition and object.",
+    "confidence": "high",
+    "id": "v18-d1ab826d836d"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-12",
+    "paragraph": "p-137",
+    "before": "Generalissmo",
+    "after": "Generalissimo",
+    "reason": "Dropped i in a title repeatedly spelled Generalissimo elsewhere.",
+    "confidence": "high",
+    "id": "v18-dd6ec39292f6"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-13",
+    "paragraph": "p-132",
+    "before": "—”we” being",
+    "after": "—“we” being",
+    "reason": "Reversed opening double quote around the word we.",
+    "confidence": "high",
+    "id": "v18-3ba9c4115c42"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-13",
+    "paragraph": "p-240",
+    "before": "I rilled my lungs",
+    "after": "I filled my lungs",
+    "reason": "OCR r for f in the account of taking a breath; independently flagged by the prior annotation audit.",
+    "confidence": "high",
+    "id": "v18-74e9011a01d1"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-13",
+    "paragraph": "p-257",
+    "before": "what die sea does",
+    "after": "what the sea does",
+    "reason": "OCR di for th in the definite article.",
+    "confidence": "high",
+    "id": "v18-85e353e6488d"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-13",
+    "paragraph": "p-258",
+    "before": "but die wind’s",
+    "after": "but the wind’s",
+    "reason": "OCR di for th in the definite article.",
+    "confidence": "high",
+    "id": "v18-1e1d9104795f"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-15",
+    "paragraph": "p-009",
+    "before": "die Vanished Gods—those of die Vanished People",
+    "after": "the Vanished Gods—those of the Vanished People",
+    "reason": "Two OCR di for th substitutions in the definite article.",
+    "confidence": "high",
+    "id": "v18-7b3928cfefb3"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "return-05",
+    "paragraph": "p-068",
+    "before": "Mysire Siik",
+    "after": "Mysire Silk",
+    "reason": "OCR i for l in Silk, in a list of the addressee’s names.",
+    "confidence": "high",
+    "id": "v18-6524f1186443"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "return-08",
+    "paragraph": "p-097",
+    "before": "godling,giant,",
+    "after": "godling, giant,",
+    "reason": "Missing word space after a comma separating alternatives; not an HTML line break.",
+    "confidence": "high",
+    "id": "v18-fd86ddad9d8a"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "return-16",
+    "paragraph": "p-078",
+    "before": "Cald6 Bison",
+    "after": "Caldé Bison",
+    "reason": "Digit 6 for é; the same paragraph gives the identical title and name correctly as Caldé Bison.",
+    "confidence": "high",
+    "id": "v18-5c25061699f7"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "return-17",
+    "paragraph": "p-304",
+    "before": "Jt was like",
+    "after": "It was like",
+    "reason": "OCR J for capital I in the sentence-opening pronoun.",
+    "confidence": "high",
+    "id": "v18-99683794ef55"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-reference",
+    "paragraph": "p-083",
+    "before": "Trivijfaunte",
+    "after": "Trivigaunte",
+    "reason": "Garbled jf for g in the repeatedly named city Trivigaunte.",
+    "confidence": "high",
+    "id": "v18-673fd9c56cad"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-reference",
+    "paragraph": "p-084",
+    "before": "Patera Remom",
+    "after": "Patera Remora",
+    "reason": "OCR ra fused into m in the repeatedly named Patera Remora.",
+    "confidence": "high",
+    "id": "v18-7fcb072d4753"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-reference",
+    "paragraph": "p-122",
+    "before": "Zeehm, the daughter",
+    "after": "Zeehra, the daughter",
+    "reason": "OCR ra fused into m; narrative blue-13/p-103 names the same gardener’s daughter Zeehra.",
+    "confidence": "high",
+    "id": "v18-943ba8b7ccd3"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-138",
+    "before": "something to :at",
+    "after": "something to eat",
+    "reason": "OCR colon for e at the start of eat.",
+    "confidence": "high",
+    "id": "v18-7a9543eb04b4"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-336",
+    "before": ") ’so neither",
+    "after": ") “so neither",
+    "reason": "Wrong single closing quote where double-quoted speech resumes after a parenthetical stage direction.",
+    "confidence": "high",
+    "id": "v18-a23829d9943c"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-183",
+    "before": "“Frogtown“,",
+    "after": "“Frogtown”,",
+    "reason": "Reversed closing double quote around a place name.",
+    "confidence": "high",
+    "id": "v18-26003cc9af8f"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-383",
+    "before": "hardJt’s hit",
+    "after": "hard it’s hit",
+    "reason": "Missing word space plus OCR J for i; the clause describes how hard the striker is hit.",
+    "confidence": "high",
+    "id": "v18-c180e3b8e6fc"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-844",
+    "before": "the ceils to either side",
+    "after": "the cells to either side",
+    "reason": "OCR i for l in the prisoner’s account of the adjacent cells.",
+    "confidence": "high",
+    "id": "v18-312edfdaa5cc"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "vrt",
+    "paragraph": "p-937",
+    "before": "The \\sounds",
+    "after": "The sounds",
+    "reason": "Stray reverse solidus before an ordinary noun.",
+    "confidence": "high",
+    "id": "v18-28d49ae2271d"
+  },
+  {
+    "book": "dark-forest",
+    "chapter": "section-08",
+    "paragraph": "p-1293",
+    "before": "voice—”some things",
+    "after": "voice—“some things",
+    "reason": "Reversed opening double quote when direct speech resumes after a narrative aside.",
+    "confidence": "high",
+    "id": "v18-91c641b6b99e"
+  },
+  {
+    "book": "dark-forest",
+    "chapter": "section-08",
+    "paragraph": "p-1326",
+    "before": "her—”here it’s",
+    "after": "her—“here it’s",
+    "reason": "Reversed opening double quote when direct speech resumes after a narrative aside.",
+    "confidence": "high",
+    "id": "v18-5a26ee00b2ec"
+  },
+  {
+    "book": "dark-forest",
+    "chapter": "section-08",
+    "paragraph": "p-1683",
+    "before": "Japanse",
+    "after": "Japanese",
+    "reason": "Dropped e in Japanese in the translator’s note about the pronunciation of a character.",
+    "confidence": "high",
+    "id": "v18-d47401a01809"
+  },
+  {
+    "book": "dark-forest",
+    "chapter": "section-08",
+    "paragraph": "p-1689",
+    "before": "New Year’s Editoral",
+    "after": "New Year’s Editorial",
+    "reason": "Dropped i in Editorial in the description of a newspaper editorial.",
+    "confidence": "high",
+    "id": "v18-c94d4d05ca4a"
+  },
+  {
+    "book": "dark-forest",
+    "chapter": "section-13",
+    "paragraph": "p-104",
+    "before": "teacup—”what’s",
+    "after": "teacup—“what’s",
+    "reason": "Reversed opening double quote when direct speech resumes after a narrative aside.",
+    "confidence": "high",
+    "id": "v18-2823c1680ef5"
+  },
+  {
+    "book": "hyperion",
+    "chapter": "fall-09",
+    "paragraph": "p-098",
+    "before": "ostenible reason",
+    "after": "ostensible reason",
+    "reason": "Dropped s inside ostensible; the sentence contrasts the stated reason with the real reason.",
+    "confidence": "high",
+    "id": "v18-bc575e9f37b1"
+  },
+  {
+    "book": "hyperion",
+    "chapter": "fall-18",
+    "paragraph": "p-022",
+    "before": "heavinesss",
+    "after": "heaviness",
+    "reason": "Duplicated final s in heaviness.",
+    "confidence": "high",
+    "id": "v18-a6b56f134d1c"
+  },
+  {
+    "book": "hyperion",
+    "chapter": "fall-24",
+    "paragraph": "p-075",
+    "before": "anist, I mean",
+    "after": "artist, I mean",
+    "reason": "OCR rt merged as n; the next phrase identifies the person doing the speaker’s portrait.",
+    "confidence": "high",
+    "id": "v18-5cc4bc5790ec"
+  },
+  {
+    "book": "hyperion",
+    "chapter": "fall-43",
+    "paragraph": "p-021",
+    "before": "added,” Reconciliation",
+    "after": "added, “Reconciliation",
+    "reason": "Speech-opening double quote is reversed and placed before the word space.",
+    "confidence": "high",
+    "id": "v18-3ba3b31c0722"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-01",
+    "paragraph": "p-034",
+    "before": "Netde",
+    "after": "Nettle",
+    "reason": "OCR tl merged into d in Nettle’s name; repeated uncorrupted name and the explicit wife/coauthor context corroborate it.",
+    "confidence": "high",
+    "id": "v18-63231bfc4781"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-03",
+    "paragraph": "p-080",
+    "before": "Netde",
+    "after": "Nettle",
+    "reason": "OCR tl merged into d in Nettle’s name; repeated uncorrupted name and the explicit wife/coauthor context corroborate it.",
+    "confidence": "high",
+    "id": "v18-b680bed7f265"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-15",
+    "paragraph": "p-008",
+    "before": "Netde",
+    "after": "Nettle",
+    "reason": "OCR tl merged into d in Nettle’s name; repeated uncorrupted name and the explicit wife/coauthor context corroborate it.",
+    "confidence": "high",
+    "id": "v18-174d7b85e9d1"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "return-17",
+    "paragraph": "p-316",
+    "before": "It was night went we got back",
+    "after": "It was night when we got back",
+    "reason": "Malformed temporal conjunction: the clause requires when before we got back.",
+    "confidence": "high",
+    "id": "v18-20a479225216"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-237",
+    "before": "of'the road",
+    "after": "of the road",
+    "reason": "Stray apostrophe substitutes for a space between preposition and article.",
+    "confidence": "high",
+    "id": "v18-1af207cbe95c"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "shadow-21",
+    "paragraph": "p-060",
+    "before": "Thecla—that was my friend’s name’she",
+    "after": "Thecla—that was my friend’s name—she",
+    "reason": "The apostrophe before she is a corrupted closing em dash, paired with the opening dash after Thecla.",
+    "confidence": "high",
+    "id": "v18-d39f59625049"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "sword-07",
+    "paragraph": "p-008",
+    "before": "a consort—as ours does not’she",
+    "after": "a consort—as ours does not—she",
+    "reason": "The apostrophe before she is a corrupted closing em dash, paired with the opening dash before the aside as ours does not.",
+    "confidence": "high",
+    "id": "v18-9718861437b6"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-138",
+    "before": "wind in the grass, when you came",
+    "after": "wind in the grass, “when you came",
+    "reason": "Missing opening double quote when the girl’s direct speech resumes after the attribution; its final closing quote is present.",
+    "confidence": "high",
+    "id": "v18-c9c44f2e58d0"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-543",
+    "before": "he repeated, There is a way.”",
+    "after": "he repeated, “There is a way.”",
+    "reason": "Missing opening double quote before the explicitly repeated words, with closing double quote present.",
+    "confidence": "high",
+    "id": "v18-ba3b84bee951"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-548",
+    "before": "That which swam in my mouth swims in his veins now,”",
+    "after": "“That which swam in my mouth swims in his veins now,”",
+    "reason": "Missing opening double quote before speech followed by the Shadow child said; closing quotation exists.",
+    "confidence": "high",
+    "id": "v18-5834a92ee874"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-143",
+    "before": "\"If does. I don't deny it.\"",
+    "after": "\"It does. I don't deny it.\"",
+    "reason": "OCR f for t in the pronoun It. Crane has just said “if that makes you feel good”; Silk directly confirms that it does.",
+    "confidence": "high",
+    "id": "v18-e644f9e3c611"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-143",
+    "before": "may I see the\" azoth again",
+    "after": "may I see the azoth again",
+    "reason": "Intrusive double quote within a single continuing request. The speech opens before As a favor and closes after hold it; there is no attribution or new speaker at azoth.",
+    "confidence": "high",
+    "id": "v18-fb1dd9722761"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "lake-13",
+    "paragraph": "p-156",
+    "before": "room was'wide",
+    "after": "room was wide",
+    "reason": "Stray apostrophe substitutes for the word space between was and wide in ordinary narration.",
+    "confidence": "high",
+    "id": "v18-f158014841c2"
+  },
+  {
+    "book": "book-of-the-long-sun",
+    "chapter": "nightside-10",
+    "paragraph": "p-229",
+    "before": "expression as well. I'm glad I did it now.",
+    "after": "expression as well. \"I'm glad I did it now.",
+    "reason": "Missing opening double quote when Orchid resumes speaking after the narrative sentence about her smile. Her speech continues through the closing quote after what I did.",
+    "confidence": "high",
+    "id": "v18-85fea0108778"
   }
 ]

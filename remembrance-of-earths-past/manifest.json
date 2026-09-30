@@ -25,9 +25,9 @@
   ],
   "totalWords": 522571,
   "defaultChapter": "three-body-problem-section-06",
-  "glossaryCount": 350,
+  "glossaryCount": 356,
   "correctionCount": 0,
-  "editionVersion": 16,
+  "editionVersion": 17,
   "chapters": [
     {
       "id": "three-body-problem-section-06",
@@ -782,6 +782,10 @@
       "noteAnchors": [
         {
           "term": "three-body-problem-archimedes-principle",
+          "paragraph": "p-033"
+        },
+        {
+          "term": "three-body-problem-string-theory",
           "paragraph": "p-033"
         },
         {
@@ -6570,6 +6574,10 @@
           "paragraph": "p-428"
         },
         {
+          "term": "dark-forest-limpet-mines",
+          "paragraph": "p-428"
+        },
+        {
           "term": "dark-forest-wang-xiaobo",
           "paragraph": "p-511"
         },
@@ -6708,6 +6716,7 @@
       ],
       "words": 61234,
       "startWords": 118199,
+      "editorialVersion": 18,
       "sourceReader": "dark-forest",
       "sourceChapter": "section-08",
       "partTitle": "Part I: The Wallfacers"
@@ -7258,6 +7267,10 @@
           "paragraph": "p-140"
         },
         {
+          "term": "dark-forest-nuclear-magnetic-resonance",
+          "paragraph": "p-140"
+        },
+        {
           "term": "dark-forest-von-neumann",
           "paragraph": "p-145"
         },
@@ -7267,6 +7280,10 @@
         },
         {
           "term": "dark-forest-quantum-mechanics",
+          "paragraph": "p-269"
+        },
+        {
+          "term": "dark-forest-string-theory",
           "paragraph": "p-269"
         },
         {
@@ -7506,6 +7523,10 @@
       ],
       "noteAnchors": [
         {
+          "term": "dark-forest-propeller-island",
+          "paragraph": "p-038"
+        },
+        {
           "term": "dark-forest-nuclear-fusion",
           "paragraph": "p-073"
         },
@@ -7584,6 +7605,7 @@
       ],
       "words": 8419,
       "startWords": 197961,
+      "editorialVersion": 18,
       "sourceReader": "dark-forest",
       "sourceChapter": "section-13",
       "partTitle": "Part II: The Spell"
@@ -13869,6 +13891,10 @@
         {
           "term": "deaths-end-solar-wind",
           "paragraph": "p-017"
+        },
+        {
+          "term": "deaths-end-accretion-discs",
+          "paragraph": "p-023"
         }
       ],
       "words": 2821,

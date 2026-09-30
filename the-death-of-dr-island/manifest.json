@@ -18,7 +18,7 @@
   ],
   "totalWords": 20671,
   "defaultChapter": "story",
-  "glossaryCount": 23,
+  "glossaryCount": 24,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -908,6 +908,10 @@
         {
           "term": "stridulations",
           "paragraph": "p-406"
+        },
+        {
+          "term": "catatonia",
+          "paragraph": "p-435"
         },
         {
           "term": "the-lustre-of-the-long-convolvuluses",

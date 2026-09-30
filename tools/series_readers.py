@@ -21,9 +21,7 @@ LIU_ID = 'remembrance-of-earths-past'
 LIU_BOOKS = ('three-body-problem', 'dark-forest', 'deaths-end')
 
 
-def searchable(node):
-    """A verse line break is a word boundary in a plain-text search snippet."""
-    return (node.text or '') + ''.join((' ' if child.tag=='br' else searchable(child)) + (child.tail or '') for child in node)
+searchable = common.searchable
 
 
 def chapter_contents(chapters, volume):
@@ -64,7 +62,7 @@ def write_reader(slug, title, author, chapters, glossary, volumes, styles):
         tree = Fragment(data['html']).root
         search.append({k: data[k] for k in ('id', 'index', 'title', 'volume', 'kind')} | {
             'paragraphs': [{'id': 'chapter-title', 'text': data['title']}] + [
-                {'id': e.get('data-block'), 'text': common.norm(searchable(e) if slug=='hyperion' else common.txt(e))}
+                {'id': e.get('data-block'), 'text': common.norm(searchable(e))}
                 for e in tree.iter() if e.get('data-block') and not any(x.get('data-block') for x in list(e.iter())[1:])]})
         common.save(dest / 'chapters' / (data['id']+'.json'), data)
         nav = f'<a href="../index.html#{data["id"]}">Reader</a><a href="../contents.html">Contents</a>'
@@ -126,6 +124,8 @@ def group_liu():
             item['id'] = prefix+item['id']
             item['first']['chapter'] = by_id[item['first']['chapter']]
             item['first']['index'] += chapter_offset
+            for row in item.get('excludeMatches', []):
+                row['chapter'] = by_id[row['chapter']]
             glossary.append(item)
         for record in manifest['chapters']:
             data = json.loads((folder/'chapters'/(record['id']+'.json')).read_text())

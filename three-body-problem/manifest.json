@@ -31,7 +31,7 @@
   ],
   "totalWords": 114223,
   "defaultChapter": "section-06",
-  "glossaryCount": 130,
+  "glossaryCount": 131,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -776,6 +776,10 @@
       "noteAnchors": [
         {
           "term": "archimedes-principle",
+          "paragraph": "p-033"
+        },
+        {
+          "term": "string-theory",
           "paragraph": "p-033"
         },
         {

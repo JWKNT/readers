@@ -16,11 +16,11 @@
       "referenceTitle": "Afterword"
     }
   ],
-  "totalWords": 78077,
+  "totalWords": 78078,
   "defaultChapter": "fifth-head",
   "glossaryCount": 128,
   "correctionCount": 1,
-  "editionVersion": 15,
+  "editionVersion": 18,
   "chapters": [
     {
       "id": "fifth-head",
@@ -2427,6 +2427,10 @@
           "paragraph": "p-071"
         },
         {
+          "term": "maitre",
+          "paragraph": "p-072"
+        },
+        {
           "term": "paleolithic",
           "paragraph": "p-077"
         },
@@ -2547,10 +2551,6 @@
           "paragraph": "p-414"
         },
         {
-          "term": "maitre",
-          "paragraph": "p-446"
-        },
-        {
           "term": "gingham",
           "paragraph": "p-448"
         },
@@ -2639,7 +2639,7 @@
           "paragraph": "p-972"
         }
       ],
-      "words": 34250,
+      "words": 34251,
       "startWords": 43827
     },
     {
@@ -2663,8 +2663,8 @@
       "headingHtml": "Afterword to The Fifth Head of Cerberus",
       "noteAnchors": [],
       "words": 201,
-      "startWords": 78077
+      "startWords": 78078
     }
   ],
-  "editorialCorrectionCount": 75
+  "editorialCorrectionCount": 84
 }

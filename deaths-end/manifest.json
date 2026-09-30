@@ -55,7 +55,7 @@
   ],
   "totalWords": 221631,
   "defaultChapter": "section-07",
-  "glossaryCount": 117,
+  "glossaryCount": 118,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -3494,6 +3494,10 @@
         {
           "term": "solar-wind",
           "paragraph": "p-017"
+        },
+        {
+          "term": "accretion-discs",
+          "paragraph": "p-023"
         }
       ],
       "words": 2821,

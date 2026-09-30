@@ -2106,5 +2106,99 @@
       "paragraph": "p-316",
       "index": 2
     }
+  },
+  {
+    "id": "string-theory",
+    "term": "string theory",
+    "aliases": [],
+    "short": "A proposed framework treating particles as vibrating strings.",
+    "note": "A theoretical framework in which tiny one-dimensional strings replace pointlike elementary particles, with different vibration modes corresponding to different particles. It is studied as a possible way to combine quantum physics and gravity; it remains experimentally unconfirmed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://cms.cern/index.php/physics/do-we-really-live-only-three-dimensions",
+        "label": "CERN CMS: String theory and extra dimensions"
+      },
+      {
+        "url": "https://www.caltech.edu/about/news/string-theory-emerges-from-almost-nothing",
+        "label": "Caltech: String theory"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-12",
+      "paragraph": "p-269",
+      "index": 2
+    }
+  },
+  {
+    "id": "nuclear-magnetic-resonance",
+    "term": "nuclear magnetic resonance",
+    "aliases": [],
+    "short": "Atomic nuclei’s response to radio waves in a magnetic field.",
+    "note": "The selective absorption of radio-frequency energy by certain atomic nuclei placed in a magnetic field. The resulting signals reveal their molecular surroundings; this phenomenon underlies magnetic resonance imaging, or MRI.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.dictionary.com/browse/nuclear-magnetic-resonance",
+        "label": "Dictionary.com: nuclear magnetic resonance"
+      },
+      {
+        "url": "https://www.nibib.nih.gov/science-education/science-topics/magnetic-resonance-imaging-mri",
+        "label": "NIH NIBIB: Magnetic resonance imaging"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-12",
+      "paragraph": "p-140",
+      "index": 2
+    }
+  },
+  {
+    "id": "limpet-mines",
+    "term": "limpet mines",
+    "aliases": [
+      "limpet mine"
+    ],
+    "short": "Explosive mines fastened directly to a ship’s hull.",
+    "note": "Naval explosive devices attached directly to a target vessel, commonly with magnets. Their name evokes the tightly clinging mollusk; they are distinct from mines left floating or anchored in a shipping route.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.awm.gov.au/collection/C302932",
+        "label": "Australian War Memorial: Limpet Mine Mk 1"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-08",
+      "paragraph": "p-428",
+      "index": 1
+    }
+  },
+  {
+    "id": "propeller-island",
+    "term": "Propeller Island",
+    "aliases": [],
+    "short": "Jules Verne’s 1895 novel of an artificial island at sea.",
+    "note": "Also translated as The Floating Island and The Self-Propelled Island, Verne’s novel follows a French string quartet aboard Standard Island, a vast luxury vessel cruising the Pacific. Rivalry among its wealthy inhabitants threatens their floating community.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.nebraskapress.unl.edu/bison-books/9780803274860/the-self-propelled-island/",
+        "label": "University of Nebraska Press: The Self-Propelled Island"
+      },
+      {
+        "url": "https://books.google.com/books/about/Propeller_Island.html?id=Kg6wz3A9WVkC",
+        "label": "Google Books: Propeller Island, Wildside Press edition"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-13",
+      "paragraph": "p-038",
+      "index": 3
+    }
   }
 ]

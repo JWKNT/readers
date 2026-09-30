@@ -168,8 +168,9 @@
       "source": "fall",
       "file": "OEBPS/Simm_9780307781895_epub_c09_r1.htm",
       "sourceTextSha256": "4a36a43632aa3e895b2f4fbfa366ea37f98062282f25544bbb006f9158044299",
-      "textSha256": "4a36a43632aa3e895b2f4fbfa366ea37f98062282f25544bbb006f9158044299",
-      "blocks": 118
+      "textSha256": "875f19b44ec9c3f1e56ac94504624b65e60748a34a885caf541149fff6ae0a7f",
+      "blocks": 118,
+      "preEditorialTextSha256": "4a36a43632aa3e895b2f4fbfa366ea37f98062282f25544bbb006f9158044299"
     },
     {
       "chapter": "fall-10",
@@ -242,8 +243,9 @@
       "source": "fall",
       "file": "OEBPS/Simm_9780307781895_epub_c18_r1.htm",
       "sourceTextSha256": "3a2c3138c7dcb9a202b99a8220eef10cefe7ce415f7bc569b2d4b52781729820",
-      "textSha256": "3a2c3138c7dcb9a202b99a8220eef10cefe7ce415f7bc569b2d4b52781729820",
-      "blocks": 93
+      "textSha256": "005ffd867af5a24d1c0c0a709015abf23a125186a0b99ecb7910e7785185cd8f",
+      "blocks": 93,
+      "preEditorialTextSha256": "3a2c3138c7dcb9a202b99a8220eef10cefe7ce415f7bc569b2d4b52781729820"
     },
     {
       "chapter": "fall-19",
@@ -291,7 +293,7 @@
       "source": "fall",
       "file": "OEBPS/Simm_9780307781895_epub_c24_r1.htm",
       "sourceTextSha256": "b60e0109a8642f25cd16aa7927a2d9b01cc1df4de5a0720315b137ac53475e2c",
-      "textSha256": "639a463d09feeaba2fe8f7149a09014046dc8f7cf83f39619dd6706710b53f15",
+      "textSha256": "37f4404bc50885b48c162418fc3031ee3217d24116562169a482c5bdac64bdbe",
       "blocks": 84,
       "preEditorialTextSha256": "b60e0109a8642f25cd16aa7927a2d9b01cc1df4de5a0720315b137ac53475e2c"
     },
@@ -453,8 +455,9 @@
       "source": "fall",
       "file": "OEBPS/Simm_9780307781895_epub_c43_r1.htm",
       "sourceTextSha256": "c1986d018fe152f1877773947ad5080dda2018f0eddbb987c22ab47c33cf72a8",
-      "textSha256": "c1986d018fe152f1877773947ad5080dda2018f0eddbb987c22ab47c33cf72a8",
-      "blocks": 268
+      "textSha256": "b1586d866119a3012a8f98ad73ee00f2e246ac4fb4d5dbfef12b497348a94231",
+      "blocks": 268,
+      "preEditorialTextSha256": "c1986d018fe152f1877773947ad5080dda2018f0eddbb987c22ab47c33cf72a8"
     },
     {
       "chapter": "fall-44",
@@ -809,6 +812,16 @@
       "reason": "Apparent retained line-end hyphen; the same Nordholm senator is Roanquist in chapter 37."
     },
     {
+      "book": "hyperion",
+      "chapter": "fall-24",
+      "paragraph": "p-075",
+      "before": "anist, I mean",
+      "after": "artist, I mean",
+      "reason": "OCR rt merged as n; the next phrase identifies the person doing the speaker’s portrait.",
+      "confidence": "high",
+      "id": "v18-5cc4bc5790ec"
+    },
+    {
       "id": "v16-fall-020",
       "book": "hyperion",
       "chapter": "fall-33",
@@ -816,6 +829,36 @@
       "before": "protective containment held bubble",
       "after": "protective containment field bubble",
       "reason": "OCR substitution fi→h; containment fields are consistently the protective technology in surrounding text."
+    },
+    {
+      "book": "hyperion",
+      "chapter": "fall-09",
+      "paragraph": "p-098",
+      "before": "ostenible reason",
+      "after": "ostensible reason",
+      "reason": "Dropped s inside ostensible; the sentence contrasts the stated reason with the real reason.",
+      "confidence": "high",
+      "id": "v18-bc575e9f37b1"
+    },
+    {
+      "book": "hyperion",
+      "chapter": "fall-18",
+      "paragraph": "p-022",
+      "before": "heavinesss",
+      "after": "heaviness",
+      "reason": "Duplicated final s in heaviness.",
+      "confidence": "high",
+      "id": "v18-a6b56f134d1c"
+    },
+    {
+      "book": "hyperion",
+      "chapter": "fall-43",
+      "paragraph": "p-021",
+      "before": "added,” Reconciliation",
+      "after": "added, “Reconciliation",
+      "reason": "Speech-opening double quote is reversed and placed before the word space.",
+      "confidence": "high",
+      "id": "v18-3ba3b31c0722"
     }
   ]
 }

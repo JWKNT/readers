@@ -19,9 +19,9 @@
   ],
   "totalWords": 352735,
   "defaultChapter": "hyperion-prologue",
-  "glossaryCount": 516,
+  "glossaryCount": 513,
   "correctionCount": 0,
-  "editionVersion": 17,
+  "editionVersion": 18,
   "chapters": [
     {
       "id": "hyperion-prologue",
@@ -1939,10 +1939,6 @@
           "paragraph": "p-089"
         },
         {
-          "term": "cicero",
-          "paragraph": "p-097"
-        },
-        {
           "term": "hegirah",
           "paragraph": "p-098"
         },
@@ -2105,10 +2101,6 @@
         {
           "term": "cislunar",
           "paragraph": "p-287"
-        },
-        {
-          "term": "buckminster-map",
-          "paragraph": "p-293"
         },
         {
           "term": "singularities",
@@ -5764,10 +5756,6 @@
           "paragraph": "p-444"
         },
         {
-          "term": "charles-armitage-brown",
-          "paragraph": "p-518"
-        },
-        {
           "term": "servitor",
           "paragraph": "p-528"
         },
@@ -6796,10 +6784,6 @@
           "paragraph": "p-490"
         },
         {
-          "term": "buckminster-map",
-          "paragraph": "p-492"
-        },
-        {
           "term": "william-gladstone",
           "paragraph": "p-495"
         },
@@ -6810,10 +6794,6 @@
         {
           "term": "visigoths",
           "paragraph": "p-504"
-        },
-        {
-          "term": "cicero",
-          "paragraph": "p-514"
         },
         {
           "term": "oort-cloud",
@@ -7343,10 +7323,6 @@
         {
           "term": "hegirah",
           "paragraph": "p-007"
-        },
-        {
-          "term": "albedo",
-          "paragraph": "p-008"
         },
         {
           "term": "hyperion",
@@ -8288,10 +8264,6 @@
           "paragraph": "p-016"
         },
         {
-          "term": "albedo",
-          "paragraph": "p-024"
-        },
-        {
           "term": "turing",
           "paragraph": "p-032"
         },
@@ -8712,10 +8684,6 @@
           "paragraph": "p-016"
         },
         {
-          "term": "albedo",
-          "paragraph": "p-023"
-        },
-        {
           "term": "philomel",
           "paragraph": "p-026"
         },
@@ -9002,10 +8970,6 @@
         {
           "term": "endymion",
           "paragraph": "p-028"
-        },
-        {
-          "term": "cicero",
-          "paragraph": "p-033"
         },
         {
           "term": "francis-bacon",
@@ -9306,10 +9270,6 @@
         },
         {
           "term": "umber",
-          "paragraph": "p-007"
-        },
-        {
-          "term": "albedo",
           "paragraph": "p-007"
         },
         {
@@ -9683,10 +9643,6 @@
           "paragraph": "p-068"
         },
         {
-          "term": "albedo",
-          "paragraph": "p-073"
-        },
-        {
           "term": "deuterium",
           "paragraph": "p-093"
         },
@@ -10031,10 +9987,6 @@
         {
           "term": "piezoelectric",
           "paragraph": "p-029"
-        },
-        {
-          "term": "buckminster-map",
-          "paragraph": "p-030"
         },
         {
           "term": "spindrift",
@@ -10887,10 +10839,6 @@
           "paragraph": "p-004"
         },
         {
-          "term": "cicero",
-          "paragraph": "p-004"
-        },
-        {
           "term": "cordite",
           "paragraph": "p-018"
         },
@@ -11025,10 +10973,6 @@
         },
         {
           "term": "all-thing",
-          "paragraph": "p-001"
-        },
-        {
-          "term": "albedo",
           "paragraph": "p-001"
         },
         {
@@ -13655,7 +13599,7 @@
           "paragraph": "p-127"
         },
         {
-          "term": "hieronymus-bosch",
+          "term": "bosch",
           "paragraph": "p-132"
         },
         {
@@ -13860,10 +13804,6 @@
         {
           "term": "singularities",
           "paragraph": "p-007"
-        },
-        {
-          "term": "albedo",
-          "paragraph": "p-008"
         },
         {
           "term": "william-gladstone",
@@ -14574,10 +14514,6 @@
           "paragraph": "p-057"
         },
         {
-          "term": "albedo",
-          "paragraph": "p-063"
-        },
-        {
           "term": "cislunar",
           "paragraph": "p-066"
         },
@@ -14612,10 +14548,6 @@
         {
           "term": "ursine",
           "paragraph": "p-115"
-        },
-        {
-          "term": "cicero",
-          "paragraph": "p-125"
         },
         {
           "term": "flechette",
@@ -14972,10 +14904,6 @@
         {
           "term": "tharsis",
           "paragraph": "p-057"
-        },
-        {
-          "term": "albedo",
-          "paragraph": "p-065"
         },
         {
           "term": "yggdrasill",
@@ -15693,10 +15621,6 @@
         {
           "term": "all-thing",
           "paragraph": "p-103"
-        },
-        {
-          "term": "albedo",
-          "paragraph": "p-115"
         },
         {
           "term": "pacem",
@@ -16791,10 +16715,6 @@
         {
           "term": "hawking",
           "paragraph": "p-198"
-        },
-        {
-          "term": "albedo",
-          "paragraph": "p-202"
         },
         {
           "term": "praetorian",
@@ -18106,10 +18026,6 @@
           "paragraph": "p-003"
         },
         {
-          "term": "cicero",
-          "paragraph": "p-005"
-        },
-        {
           "term": "john-keats",
           "paragraph": "p-008"
         },
@@ -18219,5 +18135,5 @@
       "startWords": 352735
     }
   ],
-  "editorialCorrectionCount": 36
+  "editorialCorrectionCount": 40
 }

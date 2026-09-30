@@ -388,6 +388,7 @@ def build(spec, archives, source_info):
                     opening.text='';opening.insert(0,quote)
             decorate(tree,slug,tailpiece=not any('scene-divider' in e.get('class','') for e in tree.iter()))
     entries_path=DATA/(slug+'.json');entries=json.loads(entries_path.read_text()) if entries_path.exists() else []
+    common.validate_exclusions(entries, records)
     counts,first=Counter(),{}
     for r in records:
         heading=ET.Element('h1',{'data-block':'chapter-title'});heading.text=r['title']
@@ -405,7 +406,7 @@ def build(spec, archives, source_info):
     for r in records:
         tree=documents[r['id']];r['words']=len(re.findall(r"\b[\w’'-]+\b",txt(tree)));r['startWords']=total
         if r['kind']!='reference':total+=r['words']
-        search.append({k:r[k] for k in ('id','index','title','volume','kind')}|{'paragraphs':[{'id':'chapter-title','text':r['title']}]+[{'id':e.get('data-block'),'text':norm(txt(e))} for e in tree.iter() if e.get('data-block') and not any(x.get('data-block') for x in list(e.iter())[1:])]})
+        search.append({k:r[k] for k in ('id','index','title','volume','kind')}|{'paragraphs':[{'id':'chapter-title','text':r['title']}]+[{'id':e.get('data-block'),'text':norm(common.searchable(e))} for e in tree.iter() if e.get('data-block') and not any(x.get('data-block') for x in list(e.iter())[1:])]})
         save(dest/'chapters'/(r['id']+'.json'),r|{'html':inner(tree)})
         nav='<a href="../../">Readers</a><a href="../index.html#'+r['id']+'">Reader</a><a href="../contents.html">Contents</a>'
         if r['index']>0:nav+=f'<a href="{records[r["index"]-1]["id"]}.html">Previous</a>'

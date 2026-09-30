@@ -186,6 +186,7 @@ def build(slug):
         entries = json.loads(data_path.read_text())
     assert len({e['id'] for e in entries}) == len(entries), 'duplicate note IDs'
     manifest = json.loads((dest / 'manifest.json').read_text())
+    common.validate_exclusions(entries, manifest['chapters'])
     counts, first, documents, chapters, headings = Counter(), {}, {}, {}, {}
     for record in manifest['chapters']:
         cid = record['id']

@@ -2252,6 +2252,10 @@
           "paragraph": "p-005"
         },
         {
+          "term": "bravos",
+          "paragraph": "p-018"
+        },
+        {
           "term": "marcellina",
           "paragraph": "p-020"
         },
@@ -3709,6 +3713,10 @@
           "paragraph": "p-072"
         },
         {
+          "term": "lianas",
+          "paragraph": "p-079"
+        },
+        {
           "term": "sappanwood",
           "paragraph": "p-079"
         }
@@ -3810,6 +3818,10 @@
         },
         {
           "term": "terminus-est",
+          "paragraph": "p-020"
+        },
+        {
+          "term": "freshet",
           "paragraph": "p-020"
         },
         {
@@ -4051,7 +4063,7 @@
           "paragraph": "p-070"
         }
       ],
-      "words": 2593,
+      "words": 2594,
       "startWords": 59335
     },
     {
@@ -4173,7 +4185,7 @@
         }
       ],
       "words": 2365,
-      "startWords": 61928
+      "startWords": 61929
     },
     {
       "id": "shadow-23",
@@ -4335,7 +4347,7 @@
         }
       ],
       "words": 2800,
-      "startWords": 64293
+      "startWords": 64294
     },
     {
       "id": "shadow-24",
@@ -4482,7 +4494,7 @@
         }
       ],
       "words": 2932,
-      "startWords": 67093
+      "startWords": 67094
     },
     {
       "id": "shadow-25",
@@ -4714,7 +4726,7 @@
         }
       ],
       "words": 3083,
-      "startWords": 70025
+      "startWords": 70026
     },
     {
       "id": "shadow-26",
@@ -4854,12 +4866,16 @@
           "paragraph": "p-045"
         },
         {
+          "term": "mews",
+          "paragraph": "p-046"
+        },
+        {
           "term": "renascent",
           "paragraph": "p-053"
         }
       ],
       "words": 2328,
-      "startWords": 73108
+      "startWords": 73109
     },
     {
       "id": "shadow-27",
@@ -5058,7 +5074,7 @@
         }
       ],
       "words": 1964,
-      "startWords": 75436
+      "startWords": 75437
     },
     {
       "id": "shadow-28",
@@ -5218,7 +5234,7 @@
         }
       ],
       "words": 2785,
-      "startWords": 77400
+      "startWords": 77401
     },
     {
       "id": "shadow-29",
@@ -5406,7 +5422,7 @@
         }
       ],
       "words": 2584,
-      "startWords": 80185
+      "startWords": 80186
     },
     {
       "id": "shadow-30",
@@ -5502,6 +5518,10 @@
           "paragraph": "p-007"
         },
         {
+          "term": "estrapade",
+          "paragraph": "p-007"
+        },
+        {
           "term": "dorcas",
           "paragraph": "p-008"
         },
@@ -5567,7 +5587,7 @@
         }
       ],
       "words": 2500,
-      "startWords": 82769
+      "startWords": 82770
     },
     {
       "id": "shadow-31",
@@ -5711,7 +5731,7 @@
         }
       ],
       "words": 2430,
-      "startWords": 85269
+      "startWords": 85270
     },
     {
       "id": "shadow-32",
@@ -5865,7 +5885,7 @@
         }
       ],
       "words": 3324,
-      "startWords": 87699
+      "startWords": 87700
     },
     {
       "id": "shadow-33",
@@ -5981,7 +6001,7 @@
         }
       ],
       "words": 2087,
-      "startWords": 91023
+      "startWords": 91024
     },
     {
       "id": "shadow-34",
@@ -6124,7 +6144,7 @@
         }
       ],
       "words": 1875,
-      "startWords": 93110
+      "startWords": 93111
     },
     {
       "id": "shadow-35",
@@ -6355,7 +6375,7 @@
         }
       ],
       "words": 3873,
-      "startWords": 94985
+      "startWords": 94986
     },
     {
       "id": "shadow-appendix",
@@ -6398,7 +6418,7 @@
         }
       ],
       "words": 318,
-      "startWords": 98858
+      "startWords": 98859
     },
     {
       "id": "claw-01",
@@ -6527,6 +6547,10 @@
           "paragraph": "p-007"
         },
         {
+          "term": "ewer",
+          "paragraph": "p-007"
+        },
+        {
           "term": "agia",
           "paragraph": "p-007"
         },
@@ -6600,7 +6624,7 @@
         }
       ],
       "words": 2454,
-      "startWords": 99176
+      "startWords": 99177
     },
     {
       "id": "claw-02",
@@ -6743,7 +6767,7 @@
         }
       ],
       "words": 2413,
-      "startWords": 101630
+      "startWords": 101631
     },
     {
       "id": "claw-03",
@@ -6906,7 +6930,7 @@
         }
       ],
       "words": 2596,
-      "startWords": 104043
+      "startWords": 104044
     },
     {
       "id": "claw-04",
@@ -7130,7 +7154,7 @@
         }
       ],
       "words": 3313,
-      "startWords": 106639
+      "startWords": 106640
     },
     {
       "id": "claw-05",
@@ -7208,6 +7232,10 @@
           "paragraph": "p-002"
         },
         {
+          "term": "ewer",
+          "paragraph": "p-003"
+        },
+        {
           "term": "palaemon",
           "paragraph": "p-009"
         },
@@ -7281,7 +7309,7 @@
         }
       ],
       "words": 2763,
-      "startWords": 109952
+      "startWords": 109953
     },
     {
       "id": "claw-06",
@@ -7375,7 +7403,7 @@
         }
       ],
       "words": 2917,
-      "startWords": 112715
+      "startWords": 112716
     },
     {
       "id": "claw-07",
@@ -7539,7 +7567,7 @@
         }
       ],
       "words": 2951,
-      "startWords": 115632
+      "startWords": 115633
     },
     {
       "id": "claw-08",
@@ -7699,7 +7727,7 @@
         }
       ],
       "words": 2703,
-      "startWords": 118583
+      "startWords": 118584
     },
     {
       "id": "claw-09",
@@ -7839,7 +7867,7 @@
         }
       ],
       "words": 2478,
-      "startWords": 121286
+      "startWords": 121287
     },
     {
       "id": "claw-10",
@@ -8036,7 +8064,7 @@
         }
       ],
       "words": 3314,
-      "startWords": 123764
+      "startWords": 123765
     },
     {
       "id": "claw-11",
@@ -8269,7 +8297,7 @@
         }
       ],
       "words": 3169,
-      "startWords": 127078
+      "startWords": 127079
     },
     {
       "id": "claw-12",
@@ -8396,7 +8424,7 @@
         }
       ],
       "words": 2410,
-      "startWords": 130247
+      "startWords": 130248
     },
     {
       "id": "claw-13",
@@ -8576,7 +8604,7 @@
         }
       ],
       "words": 2322,
-      "startWords": 132657
+      "startWords": 132658
     },
     {
       "id": "claw-14",
@@ -8740,7 +8768,7 @@
         }
       ],
       "words": 2495,
-      "startWords": 134979
+      "startWords": 134980
     },
     {
       "id": "claw-15",
@@ -8927,7 +8955,7 @@
         }
       ],
       "words": 2686,
-      "startWords": 137474
+      "startWords": 137475
     },
     {
       "id": "claw-16",
@@ -9110,7 +9138,7 @@
         }
       ],
       "words": 3199,
-      "startWords": 140160
+      "startWords": 140161
     },
     {
       "id": "claw-17",
@@ -9303,7 +9331,7 @@
         }
       ],
       "words": 6055,
-      "startWords": 143359
+      "startWords": 143360
     },
     {
       "id": "claw-18",
@@ -9487,7 +9515,7 @@
         }
       ],
       "words": 3223,
-      "startWords": 149414
+      "startWords": 149415
     },
     {
       "id": "claw-19",
@@ -9638,7 +9666,7 @@
         }
       ],
       "words": 2370,
-      "startWords": 152637
+      "startWords": 152638
     },
     {
       "id": "claw-20",
@@ -9833,7 +9861,7 @@
         }
       ],
       "words": 2816,
-      "startWords": 155007
+      "startWords": 155008
     },
     {
       "id": "claw-21",
@@ -10009,7 +10037,7 @@
         }
       ],
       "words": 2692,
-      "startWords": 157823
+      "startWords": 157824
     },
     {
       "id": "claw-22",
@@ -10198,7 +10226,7 @@
         }
       ],
       "words": 3218,
-      "startWords": 160515
+      "startWords": 160516
     },
     {
       "id": "claw-23",
@@ -10339,7 +10367,7 @@
         }
       ],
       "words": 2375,
-      "startWords": 163733
+      "startWords": 163734
     },
     {
       "id": "claw-24",
@@ -10829,7 +10857,7 @@
         }
       ],
       "words": 7454,
-      "startWords": 166108
+      "startWords": 166109
     },
     {
       "id": "claw-25",
@@ -11003,7 +11031,7 @@
         }
       ],
       "words": 2351,
-      "startWords": 173562
+      "startWords": 173563
     },
     {
       "id": "claw-26",
@@ -11203,7 +11231,7 @@
         }
       ],
       "words": 3236,
-      "startWords": 175913
+      "startWords": 175914
     },
     {
       "id": "claw-27",
@@ -11348,7 +11376,7 @@
         }
       ],
       "words": 2252,
-      "startWords": 179149
+      "startWords": 179150
     },
     {
       "id": "claw-28",
@@ -11517,7 +11545,7 @@
         }
       ],
       "words": 2732,
-      "startWords": 181401
+      "startWords": 181402
     },
     {
       "id": "claw-29",
@@ -11662,7 +11690,7 @@
         }
       ],
       "words": 2671,
-      "startWords": 184133
+      "startWords": 184134
     },
     {
       "id": "claw-30",
@@ -11831,7 +11859,7 @@
         }
       ],
       "words": 2710,
-      "startWords": 186804
+      "startWords": 186805
     },
     {
       "id": "claw-31",
@@ -12051,7 +12079,7 @@
         }
       ],
       "words": 3692,
-      "startWords": 189514
+      "startWords": 189515
     },
     {
       "id": "edition-part0071",
@@ -12228,7 +12256,7 @@
         }
       ],
       "words": 1245,
-      "startWords": 193206
+      "startWords": 193207
     },
     {
       "id": "sword-01",
@@ -12401,7 +12429,7 @@
         }
       ],
       "words": 2831,
-      "startWords": 194451
+      "startWords": 194452
     },
     {
       "id": "sword-02",
@@ -12586,7 +12614,7 @@
         }
       ],
       "words": 2552,
-      "startWords": 197282
+      "startWords": 197283
     },
     {
       "id": "sword-03",
@@ -12731,6 +12759,10 @@
           "paragraph": "p-030"
         },
         {
+          "term": "kine",
+          "paragraph": "p-034"
+        },
+        {
           "term": "jelab",
           "paragraph": "p-036"
         },
@@ -12744,7 +12776,7 @@
         }
       ],
       "words": 3260,
-      "startWords": 199834
+      "startWords": 199835
     },
     {
       "id": "sword-04",
@@ -12937,7 +12969,7 @@
         }
       ],
       "words": 2652,
-      "startWords": 203094
+      "startWords": 203095
     },
     {
       "id": "sword-05",
@@ -13056,6 +13088,10 @@
           "paragraph": "p-007"
         },
         {
+          "term": "shrive",
+          "paragraph": "p-008"
+        },
+        {
           "term": "domnicellae",
           "paragraph": "p-008"
         },
@@ -13121,7 +13157,7 @@
         }
       ],
       "words": 2539,
-      "startWords": 205746
+      "startWords": 205747
     },
     {
       "id": "sword-06",
@@ -13259,6 +13295,10 @@
           "paragraph": "p-013"
         },
         {
+          "term": "phantasmagoria",
+          "paragraph": "p-019"
+        },
+        {
           "term": "severian",
           "paragraph": "p-027"
         },
@@ -13288,7 +13328,7 @@
         }
       ],
       "words": 2476,
-      "startWords": 208285
+      "startWords": 208286
     },
     {
       "id": "sword-07",
@@ -13439,8 +13479,8 @@
           "paragraph": "p-038"
         }
       ],
-      "words": 1954,
-      "startWords": 210761
+      "words": 1955,
+      "startWords": 210762
     },
     {
       "id": "sword-08",
@@ -13580,7 +13620,7 @@
         }
       ],
       "words": 2005,
-      "startWords": 212715
+      "startWords": 212717
     },
     {
       "id": "sword-09",
@@ -13724,7 +13764,7 @@
         }
       ],
       "words": 2054,
-      "startWords": 214720
+      "startWords": 214722
     },
     {
       "id": "sword-10",
@@ -13832,7 +13872,7 @@
         }
       ],
       "words": 1612,
-      "startWords": 216774
+      "startWords": 216776
     },
     {
       "id": "sword-11",
@@ -14048,7 +14088,7 @@
         }
       ],
       "words": 3069,
-      "startWords": 218386
+      "startWords": 218388
     },
     {
       "id": "sword-12",
@@ -14244,7 +14284,7 @@
         }
       ],
       "words": 2538,
-      "startWords": 221455
+      "startWords": 221457
     },
     {
       "id": "sword-13",
@@ -14384,7 +14424,7 @@
         }
       ],
       "words": 2796,
-      "startWords": 223993
+      "startWords": 223995
     },
     {
       "id": "sword-14",
@@ -14537,7 +14577,7 @@
         }
       ],
       "words": 2690,
-      "startWords": 226789
+      "startWords": 226791
     },
     {
       "id": "sword-15",
@@ -14684,7 +14724,7 @@
         }
       ],
       "words": 2931,
-      "startWords": 229479
+      "startWords": 229481
     },
     {
       "id": "sword-16",
@@ -14808,7 +14848,7 @@
         }
       ],
       "words": 2760,
-      "startWords": 232410
+      "startWords": 232412
     },
     {
       "id": "sword-17",
@@ -14962,7 +15002,7 @@
         }
       ],
       "words": 2505,
-      "startWords": 235170
+      "startWords": 235172
     },
     {
       "id": "sword-18",
@@ -15093,6 +15133,10 @@
           "paragraph": "p-027"
         },
         {
+          "term": "lianas",
+          "paragraph": "p-027"
+        },
+        {
           "term": "sabretache",
           "paragraph": "p-040"
         },
@@ -15106,7 +15150,7 @@
         }
       ],
       "words": 2711,
-      "startWords": 237675
+      "startWords": 237677
     },
     {
       "id": "sword-19",
@@ -15229,7 +15273,7 @@
         }
       ],
       "words": 3618,
-      "startWords": 240386
+      "startWords": 240388
     },
     {
       "id": "sword-20",
@@ -15374,7 +15418,7 @@
         }
       ],
       "words": 2559,
-      "startWords": 244004
+      "startWords": 244006
     },
     {
       "id": "sword-21",
@@ -15513,7 +15557,7 @@
         }
       ],
       "words": 2815,
-      "startWords": 246563
+      "startWords": 246565
     },
     {
       "id": "sword-22",
@@ -15661,7 +15705,7 @@
         }
       ],
       "words": 2889,
-      "startWords": 249378
+      "startWords": 249380
     },
     {
       "id": "sword-23",
@@ -15782,7 +15826,7 @@
         }
       ],
       "words": 2487,
-      "startWords": 252267
+      "startWords": 252269
     },
     {
       "id": "sword-24",
@@ -15920,7 +15964,7 @@
         }
       ],
       "words": 2763,
-      "startWords": 254754
+      "startWords": 254756
     },
     {
       "id": "sword-25",
@@ -16075,7 +16119,7 @@
         }
       ],
       "words": 2577,
-      "startWords": 257517
+      "startWords": 257519
     },
     {
       "id": "sword-26",
@@ -16223,7 +16267,7 @@
         }
       ],
       "words": 2426,
-      "startWords": 260094
+      "startWords": 260096
     },
     {
       "id": "sword-27",
@@ -16351,7 +16395,7 @@
         }
       ],
       "words": 2743,
-      "startWords": 262520
+      "startWords": 262522
     },
     {
       "id": "sword-28",
@@ -16536,7 +16580,7 @@
         }
       ],
       "words": 2932,
-      "startWords": 265263
+      "startWords": 265265
     },
     {
       "id": "sword-29",
@@ -16669,7 +16713,7 @@
         }
       ],
       "words": 1885,
-      "startWords": 268195
+      "startWords": 268197
     },
     {
       "id": "sword-30",
@@ -16783,7 +16827,7 @@
         }
       ],
       "words": 2103,
-      "startWords": 270080
+      "startWords": 270082
     },
     {
       "id": "sword-31",
@@ -16936,7 +16980,7 @@
         }
       ],
       "words": 2674,
-      "startWords": 272183
+      "startWords": 272185
     },
     {
       "id": "sword-32",
@@ -17043,6 +17087,10 @@
           "paragraph": "p-017"
         },
         {
+          "term": "shingle",
+          "paragraph": "p-017"
+        },
+        {
           "term": "casdoe",
           "paragraph": "p-018"
         },
@@ -17084,7 +17132,7 @@
         }
       ],
       "words": 2352,
-      "startWords": 274857
+      "startWords": 274859
     },
     {
       "id": "sword-33",
@@ -17243,7 +17291,7 @@
         }
       ],
       "words": 2396,
-      "startWords": 277209
+      "startWords": 277211
     },
     {
       "id": "sword-34",
@@ -17408,7 +17456,7 @@
         }
       ],
       "words": 2210,
-      "startWords": 279605
+      "startWords": 279607
     },
     {
       "id": "sword-35",
@@ -17560,7 +17608,7 @@
         }
       ],
       "words": 2224,
-      "startWords": 281815
+      "startWords": 281817
     },
     {
       "id": "sword-36",
@@ -17641,7 +17689,7 @@
         }
       ],
       "words": 1885,
-      "startWords": 284039
+      "startWords": 284041
     },
     {
       "id": "sword-37",
@@ -17706,7 +17754,7 @@
         }
       ],
       "words": 1552,
-      "startWords": 285924
+      "startWords": 285926
     },
     {
       "id": "sword-38",
@@ -17809,7 +17857,7 @@
         }
       ],
       "words": 1981,
-      "startWords": 287476
+      "startWords": 287478
     },
     {
       "id": "edition-part0112",
@@ -17905,7 +17953,7 @@
         }
       ],
       "words": 751,
-      "startWords": 289457
+      "startWords": 289459
     },
     {
       "id": "citadel-01",
@@ -18052,6 +18100,10 @@
           "paragraph": "p-013"
         },
         {
+          "term": "mora",
+          "paragraph": "p-013"
+        },
+        {
           "term": "trilophodons",
           "paragraph": "p-014"
         },
@@ -18085,7 +18137,7 @@
         }
       ],
       "words": 2526,
-      "startWords": 290208
+      "startWords": 290210
     },
     {
       "id": "citadel-02",
@@ -18218,7 +18270,7 @@
         }
       ],
       "words": 2098,
-      "startWords": 292734
+      "startWords": 292736
     },
     {
       "id": "citadel-03",
@@ -18355,7 +18407,7 @@
         }
       ],
       "words": 2248,
-      "startWords": 294832
+      "startWords": 294834
     },
     {
       "id": "citadel-04",
@@ -18513,7 +18565,7 @@
         }
       ],
       "words": 2457,
-      "startWords": 297080
+      "startWords": 297082
     },
     {
       "id": "citadel-05",
@@ -18647,7 +18699,7 @@
         }
       ],
       "words": 1930,
-      "startWords": 299537
+      "startWords": 299539
     },
     {
       "id": "citadel-06",
@@ -18821,7 +18873,7 @@
         }
       ],
       "words": 3031,
-      "startWords": 301467
+      "startWords": 301469
     },
     {
       "id": "citadel-07",
@@ -18898,6 +18950,10 @@
           "paragraph": "p-009"
         },
         {
+          "term": "shingle",
+          "paragraph": "p-015"
+        },
+        {
           "term": "melito",
           "paragraph": "p-020"
         },
@@ -18923,7 +18979,7 @@
         }
       ],
       "words": 1971,
-      "startWords": 304498
+      "startWords": 304500
     },
     {
       "id": "citadel-08",
@@ -19072,7 +19128,7 @@
         }
       ],
       "words": 2096,
-      "startWords": 306469
+      "startWords": 306471
     },
     {
       "id": "citadel-09",
@@ -19163,7 +19219,7 @@
         }
       ],
       "words": 2576,
-      "startWords": 308565
+      "startWords": 308567
     },
     {
       "id": "citadel-10",
@@ -19389,7 +19445,7 @@
         }
       ],
       "words": 2771,
-      "startWords": 311141
+      "startWords": 311143
     },
     {
       "id": "citadel-11",
@@ -19507,7 +19563,7 @@
         }
       ],
       "words": 1998,
-      "startWords": 313912
+      "startWords": 313914
     },
     {
       "id": "citadel-12",
@@ -19680,7 +19736,7 @@
         }
       ],
       "words": 2985,
-      "startWords": 315910
+      "startWords": 315912
     },
     {
       "id": "citadel-13",
@@ -19803,7 +19859,7 @@
         }
       ],
       "words": 3206,
-      "startWords": 318895
+      "startWords": 318897
     },
     {
       "id": "citadel-14",
@@ -19983,7 +20039,7 @@
         }
       ],
       "words": 2543,
-      "startWords": 322101
+      "startWords": 322103
     },
     {
       "id": "citadel-15",
@@ -20107,7 +20163,7 @@
         }
       ],
       "words": 1924,
-      "startWords": 324644
+      "startWords": 324646
     },
     {
       "id": "citadel-16",
@@ -20256,7 +20312,7 @@
         }
       ],
       "words": 2087,
-      "startWords": 326568
+      "startWords": 326570
     },
     {
       "id": "citadel-17",
@@ -20425,7 +20481,7 @@
         }
       ],
       "words": 2983,
-      "startWords": 328655
+      "startWords": 328657
     },
     {
       "id": "citadel-18",
@@ -20634,7 +20690,7 @@
         }
       ],
       "words": 2305,
-      "startWords": 331638
+      "startWords": 331640
     },
     {
       "id": "citadel-19",
@@ -20841,7 +20897,7 @@
         }
       ],
       "words": 3059,
-      "startWords": 333943
+      "startWords": 333945
     },
     {
       "id": "citadel-20",
@@ -21037,7 +21093,7 @@
         }
       ],
       "words": 3137,
-      "startWords": 337002
+      "startWords": 337004
     },
     {
       "id": "citadel-21",
@@ -21191,7 +21247,7 @@
         }
       ],
       "words": 1820,
-      "startWords": 340139
+      "startWords": 340141
     },
     {
       "id": "citadel-22",
@@ -21386,7 +21442,7 @@
         }
       ],
       "words": 4381,
-      "startWords": 341959
+      "startWords": 341961
     },
     {
       "id": "citadel-23",
@@ -21537,7 +21593,7 @@
         }
       ],
       "words": 2132,
-      "startWords": 346340
+      "startWords": 346342
     },
     {
       "id": "citadel-24",
@@ -21726,7 +21782,7 @@
         }
       ],
       "words": 3116,
-      "startWords": 348472
+      "startWords": 348474
     },
     {
       "id": "citadel-25",
@@ -21959,7 +22015,7 @@
         }
       ],
       "words": 3640,
-      "startWords": 351588
+      "startWords": 351590
     },
     {
       "id": "citadel-26",
@@ -22110,7 +22166,7 @@
         }
       ],
       "words": 2427,
-      "startWords": 355228
+      "startWords": 355230
     },
     {
       "id": "citadel-27",
@@ -22237,7 +22293,7 @@
         }
       ],
       "words": 1547,
-      "startWords": 357655
+      "startWords": 357657
     },
     {
       "id": "citadel-28",
@@ -22337,7 +22393,7 @@
         }
       ],
       "words": 1874,
-      "startWords": 359202
+      "startWords": 359204
     },
     {
       "id": "citadel-29",
@@ -22477,7 +22533,7 @@
         }
       ],
       "words": 2421,
-      "startWords": 361076
+      "startWords": 361078
     },
     {
       "id": "citadel-30",
@@ -22627,7 +22683,7 @@
         }
       ],
       "words": 1968,
-      "startWords": 363497
+      "startWords": 363499
     },
     {
       "id": "citadel-31",
@@ -22840,7 +22896,7 @@
         }
       ],
       "words": 3126,
-      "startWords": 365465
+      "startWords": 365467
     },
     {
       "id": "citadel-32",
@@ -22930,6 +22986,10 @@
           "paragraph": "p-009"
         },
         {
+          "term": "sweeps-oars",
+          "paragraph": "p-010"
+        },
+        {
           "term": "malrubius",
           "paragraph": "p-012"
         },
@@ -22979,7 +23039,7 @@
         }
       ],
       "words": 2798,
-      "startWords": 368591
+      "startWords": 368593
     },
     {
       "id": "citadel-33",
@@ -23190,7 +23250,7 @@
         }
       ],
       "words": 2668,
-      "startWords": 371389
+      "startWords": 371391
     },
     {
       "id": "citadel-34",
@@ -23383,7 +23443,7 @@
         }
       ],
       "words": 3608,
-      "startWords": 374057
+      "startWords": 374059
     },
     {
       "id": "citadel-35",
@@ -23517,6 +23577,10 @@
           "paragraph": "p-043"
         },
         {
+          "term": "rheumy",
+          "paragraph": "p-046"
+        },
+        {
           "term": "fechin",
           "paragraph": "p-054"
         },
@@ -23581,6 +23645,10 @@
           "paragraph": "p-062"
         },
         {
+          "term": "tarentines",
+          "paragraph": "p-063"
+        },
+        {
           "term": "antrustiones",
           "paragraph": "p-063"
         },
@@ -23602,7 +23670,7 @@
         }
       ],
       "words": 2588,
-      "startWords": 377665
+      "startWords": 377667
     },
     {
       "id": "citadel-36",
@@ -23760,7 +23828,7 @@
         }
       ],
       "words": 2606,
-      "startWords": 380253
+      "startWords": 380255
     },
     {
       "id": "citadel-37",
@@ -24061,7 +24129,7 @@
         }
       ],
       "words": 4233,
-      "startWords": 382859
+      "startWords": 382861
     },
     {
       "id": "citadel-38",
@@ -24185,7 +24253,7 @@
         }
       ],
       "words": 1554,
-      "startWords": 387092
+      "startWords": 387094
     },
     {
       "id": "edition-part0152",
@@ -24296,7 +24364,7 @@
         }
       ],
       "words": 952,
-      "startWords": 388646
+      "startWords": 388648
     },
     {
       "id": "urth-01",
@@ -24440,7 +24508,7 @@
         }
       ],
       "words": 2738,
-      "startWords": 389598
+      "startWords": 389600
     },
     {
       "id": "urth-02",
@@ -24603,7 +24671,7 @@
         }
       ],
       "words": 2428,
-      "startWords": 392336
+      "startWords": 392338
     },
     {
       "id": "urth-03",
@@ -24749,7 +24817,7 @@
         }
       ],
       "words": 2287,
-      "startWords": 394764
+      "startWords": 394766
     },
     {
       "id": "urth-04",
@@ -24917,7 +24985,7 @@
         }
       ],
       "words": 2586,
-      "startWords": 397051
+      "startWords": 397053
     },
     {
       "id": "urth-05",
@@ -25070,7 +25138,7 @@
         }
       ],
       "words": 2353,
-      "startWords": 399637
+      "startWords": 399639
     },
     {
       "id": "urth-06",
@@ -25214,7 +25282,7 @@
         }
       ],
       "words": 2667,
-      "startWords": 401990
+      "startWords": 401992
     },
     {
       "id": "urth-07",
@@ -25399,7 +25467,7 @@
         }
       ],
       "words": 2712,
-      "startWords": 404657
+      "startWords": 404659
     },
     {
       "id": "urth-08",
@@ -25565,7 +25633,7 @@
         }
       ],
       "words": 2320,
-      "startWords": 407369
+      "startWords": 407371
     },
     {
       "id": "urth-09",
@@ -25711,7 +25779,7 @@
         }
       ],
       "words": 2456,
-      "startWords": 409689
+      "startWords": 409691
     },
     {
       "id": "urth-10",
@@ -25844,7 +25912,7 @@
         }
       ],
       "words": 2563,
-      "startWords": 412145
+      "startWords": 412147
     },
     {
       "id": "urth-11",
@@ -25974,6 +26042,10 @@
           "paragraph": "p-046"
         },
         {
+          "term": "companionway",
+          "paragraph": "p-054"
+        },
+        {
           "term": "pandour",
           "paragraph": "p-062"
         },
@@ -25987,7 +26059,7 @@
         }
       ],
       "words": 2036,
-      "startWords": 414708
+      "startWords": 414710
     },
     {
       "id": "urth-12",
@@ -26066,7 +26138,7 @@
         }
       ],
       "words": 2004,
-      "startWords": 416744
+      "startWords": 416746
     },
     {
       "id": "urth-13",
@@ -26222,7 +26294,7 @@
         }
       ],
       "words": 2512,
-      "startWords": 418748
+      "startWords": 418750
     },
     {
       "id": "urth-14",
@@ -26351,6 +26423,10 @@
           "paragraph": "p-041"
         },
         {
+          "term": "close-hauled",
+          "paragraph": "p-044"
+        },
+        {
           "term": "sabretache",
           "paragraph": "p-045"
         },
@@ -26364,7 +26440,7 @@
         }
       ],
       "words": 3012,
-      "startWords": 421260
+      "startWords": 421262
     },
     {
       "id": "urth-15",
@@ -26480,6 +26556,10 @@
           "paragraph": "p-019"
         },
         {
+          "term": "pardal",
+          "paragraph": "p-019"
+        },
+        {
           "term": "argent",
           "paragraph": "p-020"
         },
@@ -26501,7 +26581,7 @@
         }
       ],
       "words": 2083,
-      "startWords": 424272
+      "startWords": 424274
     },
     {
       "id": "urth-16",
@@ -26641,7 +26721,7 @@
         }
       ],
       "words": 2243,
-      "startWords": 426355
+      "startWords": 426357
     },
     {
       "id": "urth-17",
@@ -26776,7 +26856,7 @@
         }
       ],
       "words": 2175,
-      "startWords": 428598
+      "startWords": 428600
     },
     {
       "id": "urth-18",
@@ -26960,7 +27040,7 @@
         }
       ],
       "words": 2238,
-      "startWords": 430773
+      "startWords": 430775
     },
     {
       "id": "urth-19",
@@ -27131,7 +27211,7 @@
         }
       ],
       "words": 2452,
-      "startWords": 433011
+      "startWords": 433013
     },
     {
       "id": "urth-20",
@@ -27342,7 +27422,7 @@
         }
       ],
       "words": 3080,
-      "startWords": 435463
+      "startWords": 435465
     },
     {
       "id": "urth-21",
@@ -27565,7 +27645,7 @@
         }
       ],
       "words": 2163,
-      "startWords": 438543
+      "startWords": 438545
     },
     {
       "id": "urth-22",
@@ -27732,7 +27812,7 @@
         }
       ],
       "words": 2108,
-      "startWords": 440706
+      "startWords": 440708
     },
     {
       "id": "urth-23",
@@ -27845,7 +27925,7 @@
         }
       ],
       "words": 2135,
-      "startWords": 442814
+      "startWords": 442816
     },
     {
       "id": "urth-24",
@@ -27993,7 +28073,7 @@
         }
       ],
       "words": 2328,
-      "startWords": 444949
+      "startWords": 444951
     },
     {
       "id": "urth-25",
@@ -28110,7 +28190,7 @@
         }
       ],
       "words": 1709,
-      "startWords": 447277
+      "startWords": 447279
     },
     {
       "id": "urth-26",
@@ -28262,7 +28342,7 @@
         }
       ],
       "words": 2159,
-      "startWords": 448986
+      "startWords": 448988
     },
     {
       "id": "urth-27",
@@ -28420,7 +28500,7 @@
         }
       ],
       "words": 2289,
-      "startWords": 451145
+      "startWords": 451147
     },
     {
       "id": "urth-28",
@@ -28565,7 +28645,7 @@
         }
       ],
       "words": 1990,
-      "startWords": 453434
+      "startWords": 453436
     },
     {
       "id": "urth-29",
@@ -28726,7 +28806,7 @@
         }
       ],
       "words": 2167,
-      "startWords": 455424
+      "startWords": 455426
     },
     {
       "id": "urth-30",
@@ -28954,7 +29034,7 @@
         }
       ],
       "words": 2526,
-      "startWords": 457591
+      "startWords": 457593
     },
     {
       "id": "urth-31",
@@ -29104,7 +29184,7 @@
         }
       ],
       "words": 2206,
-      "startWords": 460117
+      "startWords": 460119
     },
     {
       "id": "urth-32",
@@ -29253,10 +29333,14 @@
         {
           "term": "increate",
           "paragraph": "p-051"
+        },
+        {
+          "term": "gobbet",
+          "paragraph": "p-056"
         }
       ],
       "words": 2168,
-      "startWords": 462323
+      "startWords": 462325
     },
     {
       "id": "urth-33",
@@ -29405,6 +29489,10 @@
           "paragraph": "p-025"
         },
         {
+          "term": "close-hauled",
+          "paragraph": "p-026"
+        },
+        {
           "term": "mizzenmast",
           "paragraph": "p-027"
         },
@@ -29458,7 +29546,7 @@
         }
       ],
       "words": 2732,
-      "startWords": 464491
+      "startWords": 464493
     },
     {
       "id": "urth-34",
@@ -29620,11 +29708,19 @@
           "paragraph": "p-027"
         },
         {
+          "term": "close-hauled",
+          "paragraph": "p-041"
+        },
+        {
           "term": "jonas",
           "paragraph": "p-045"
         },
         {
           "term": "uhlan",
+          "paragraph": "p-045"
+        },
+        {
+          "term": "ewer",
           "paragraph": "p-045"
         },
         {
@@ -29641,7 +29737,7 @@
         }
       ],
       "words": 2431,
-      "startWords": 467223
+      "startWords": 467225
     },
     {
       "id": "urth-35",
@@ -29809,7 +29905,7 @@
         }
       ],
       "words": 2145,
-      "startWords": 469654
+      "startWords": 469656
     },
     {
       "id": "urth-36",
@@ -29958,7 +30054,7 @@
         }
       ],
       "words": 2185,
-      "startWords": 471799
+      "startWords": 471801
     },
     {
       "id": "urth-37",
@@ -30152,7 +30248,7 @@
         }
       ],
       "words": 2354,
-      "startWords": 473984
+      "startWords": 473986
     },
     {
       "id": "urth-38",
@@ -30292,7 +30388,7 @@
         }
       ],
       "words": 2051,
-      "startWords": 476338
+      "startWords": 476340
     },
     {
       "id": "urth-39",
@@ -30487,7 +30583,7 @@
         }
       ],
       "words": 2736,
-      "startWords": 478389
+      "startWords": 478391
     },
     {
       "id": "urth-40",
@@ -30659,7 +30755,7 @@
         }
       ],
       "words": 2167,
-      "startWords": 481125
+      "startWords": 481127
     },
     {
       "id": "urth-41",
@@ -30823,7 +30919,7 @@
         }
       ],
       "words": 1933,
-      "startWords": 483292
+      "startWords": 483294
     },
     {
       "id": "urth-42",
@@ -31017,7 +31113,7 @@
         }
       ],
       "words": 2245,
-      "startWords": 485225
+      "startWords": 485227
     },
     {
       "id": "urth-43",
@@ -31234,7 +31330,7 @@
         }
       ],
       "words": 2161,
-      "startWords": 487470
+      "startWords": 487472
     },
     {
       "id": "urth-44",
@@ -31446,6 +31542,10 @@
           "paragraph": "p-028"
         },
         {
+          "term": "tarentines",
+          "paragraph": "p-028"
+        },
+        {
           "term": "cuir-bouilli",
           "paragraph": "p-029"
         },
@@ -31487,7 +31587,7 @@
         }
       ],
       "words": 2493,
-      "startWords": 489631
+      "startWords": 489633
     },
     {
       "id": "urth-45",
@@ -31560,6 +31660,10 @@
         {
           "term": "baluchither",
           "paragraph": "p-001"
+        },
+        {
+          "term": "gaff",
+          "paragraph": "p-002"
         },
         {
           "term": "jibboom",
@@ -31655,7 +31759,7 @@
         }
       ],
       "words": 2087,
-      "startWords": 492124
+      "startWords": 492126
     },
     {
       "id": "urth-46",
@@ -31888,7 +31992,7 @@
         }
       ],
       "words": 2355,
-      "startWords": 494211
+      "startWords": 494213
     },
     {
       "id": "urth-47",
@@ -32047,7 +32151,7 @@
         }
       ],
       "words": 1897,
-      "startWords": 496566
+      "startWords": 496568
     },
     {
       "id": "urth-48",
@@ -32234,7 +32338,7 @@
         }
       ],
       "words": 2335,
-      "startWords": 498463
+      "startWords": 498465
     },
     {
       "id": "urth-49",
@@ -32406,7 +32510,7 @@
         }
       ],
       "words": 2931,
-      "startWords": 500798
+      "startWords": 500800
     },
     {
       "id": "urth-50",
@@ -32678,7 +32782,7 @@
         }
       ],
       "words": 3828,
-      "startWords": 503729
+      "startWords": 503731
     },
     {
       "id": "urth-51",
@@ -32876,7 +32980,7 @@
         }
       ],
       "words": 2683,
-      "startWords": 507557
+      "startWords": 507559
     },
     {
       "id": "edition-part0208",
@@ -32918,14 +33022,14 @@
         }
       ],
       "words": 232,
-      "startWords": 510240
+      "startWords": 510242
     }
   ],
-  "totalWords": 510472,
+  "totalWords": 510474,
   "defaultChapter": "shadow-01",
-  "glossaryCount": 951,
+  "glossaryCount": 969,
   "correctionCount": 41,
   "cover": "cover.jpeg",
-  "editionVersion": 15,
-  "editorialCorrectionCount": 8
+  "editionVersion": 18,
+  "editorialCorrectionCount": 11
 }

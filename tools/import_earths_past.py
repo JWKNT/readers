@@ -26,6 +26,12 @@ NS = '{http://www.w3.org/1999/xhtml}'
 def tag(e): return e.tag.rsplit('}', 1)[-1]
 def txt(e): return ''.join(e.itertext())
 def norm(s): return ' '.join(s.split())
+def searchable(e):
+    """Preserve visible line-break word boundaries in plain-text search."""
+    return (e.text or '') + ''.join(
+        (' ' if child.tag == 'br' else searchable(child)) + (child.tail or '')
+        for child in e)
+
 def save(p, obj): p.write_text(json.dumps(obj, ensure_ascii=False, indent=2) + '\n')
 def serial(e): return ET.tostring(e, encoding='unicode', method='html')
 def inner(e): return html.escape(e.text or '') + ''.join(serial(x) for x in e)
@@ -129,9 +135,42 @@ def matcher(entries):
     return regex, lookup
 
 
+def validate_exclusions(entries, chapters):
+    """Reject misspelled/stale exclusion addresses before rebuilding outputs."""
+    by_id = {chapter['id']: chapter for chapter in chapters}
+    for item in entries:
+        for row in item.get('excludeMatches', []):
+            regex, _ = matcher([item])
+            assert regex is not None and regex.fullmatch(row['text']), (item['id'], row, 'unknown excluded alias')
+            assert isinstance(row.get('count', 1), int) and row.get('count', 1) > 0, (item['id'], row, 'invalid exclusion count')
+            assert row['chapter'] in by_id, (item['id'], row, 'unknown exclusion chapter')
+            chapter = by_id[row['chapter']]
+            assert chapter['kind'] != 'reference', (item['id'], row, 'excluded reference section')
+            assert row['paragraph'] == 'chapter-title' or row['paragraph'] in chapter['blocks'], (item['id'], row, 'unknown exclusion paragraph')
+
+
 def annotate(tree, entries, counts, first, ch):
     regex, lookup = matcher(entries)
     if regex is None: return []
+    excluded = set()
+    # Ambiguous aliases can identify an unrelated person, place or ordinary
+    # word. Keep reviewed exclusions exact and fail closed if their context
+    # drifts, rather than silently moving a definition to the wrong referent.
+    for item in entries:
+        for row in item.get('excludeMatches', []):
+            if row['chapter'] != ch['id']:
+                continue
+            heading = tree.get('data-block') == 'chapter-title'
+            if (row['paragraph'] == 'chapter-title') != heading:
+                continue
+            blocks = [e for e in tree.iter() if e.get('data-block') == row['paragraph']]
+            assert len(blocks) == 1, (item['id'], row, 'missing or ambiguous exclusion paragraph')
+            value = txt(blocks[0])
+            matches = re.findall(r'(?<![\w])' + re.escape(row['text']) + r'(?![\w])', value)
+            assert len(matches) == row.get('count', 1), (item['id'], row, 'stale exclusion text')
+            assert value.count(row['context']) == 1, (item['id'], row, 'stale exclusion context')
+            assert row['text'] in row['context'], (item['id'], row, 'invalid exclusion context')
+            excluded.add((item['id'], row['paragraph'], row['text']))
     local, anchors = set(), []
     def register(word, item, block):
         tid=item['id'];fresh,here=counts[tid]==0,tid not in local
@@ -143,7 +182,10 @@ def annotate(tree, entries, counts, first, ch):
     def fragments(s, block):
         last, out = 0, []
         for m in regex.finditer(s):
-            out.append(s[last:m.start()]); item = lookup[m[0].lower()]; tid = item['id']
+            item = lookup[m[0].lower()]; tid = item['id']
+            if (tid, block, m[0]) in excluded:
+                continue
+            out.append(s[last:m.start()])
             word = ET.Element('span');word.text=m[0]
             register(word,item,block);out.append(word)
             last = m.end()
@@ -154,6 +196,7 @@ def annotate(tree, entries, counts, first, ch):
             # Annotation maintenance can retain a word around correction spans.
             # Recount its complete visible spelling while preserving those spans.
             value=txt(e);assert regex.fullmatch(value),('stale preserved annotation',value)
+            assert (lookup[value.lower()]['id'], block, value) not in excluded, ('excluded match crosses a preserved repair', ch['id'], block, value)
             register(e,lookup[value.lower()],block)
             return
         if e.tag in ('a','sup','script','style') or any(x in e.get('class','') for x in ('initial', 'source-note', 'source-address')): return
@@ -225,6 +268,7 @@ def build(z, toc, spec):
     counts,first=Counter(),{}
     sourcepath=ROOT/'data'/'earths-past'/(slug+'.json')
     entries=json.loads(sourcepath.read_text()) if sourcepath.exists() else []
+    validate_exclusions(entries, records)
     refs={r['source']:r for r in records}
     for r in records:
         tree=documents[r['id']]
@@ -263,7 +307,7 @@ def build(z, toc, spec):
     for r in records:
         tree=documents[r['id']];r['words']=len(re.findall(r"\b[\w’'-]+\b",txt(tree)));r['startWords']=total
         if r['kind']!='reference':total+=r['words']
-        search.append({k:r[k] for k in ('id','index','title','volume','kind')}|{'paragraphs':[{'id':e.get('data-block'),'text':norm(txt(e))} for e in tree.iter() if e.get('data-block') and not any(x.get('data-block') for x in list(e.iter())[1:])]})
+        search.append({k:r[k] for k in ('id','index','title','volume','kind')}|{'paragraphs':[{'id':e.get('data-block'),'text':norm(searchable(e))} for e in tree.iter() if e.get('data-block') and not any(x.get('data-block') for x in list(e.iter())[1:])]})
         data={k:v for k,v in r.items() if k!='source'}|{'html':inner(tree)}
         save(dest/'chapters'/(r['id']+'.json'),data)
         nav=f'<a href="../index.html#{r["id"]}">Book</a><a href="../contents.html">Contents</a>'

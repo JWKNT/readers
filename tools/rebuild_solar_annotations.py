@@ -85,13 +85,30 @@ def text_offsets(tree):
 
 
 def apply_anchor_corrections(tree, rules):
-    """Unwrap only explicitly reviewed old matches, with stale-target guards."""
+    """Prepare exact reviewed replacements or missing anchors, failing stale targets."""
     applied = []
     for rule in rules:
         blocks = [e for e in tree.iter() if e.get('data-block') == rule['paragraph']]
         assert len(blocks) == 1, ('anchor correction paragraph missing', rule)
         block = blocks[0]
         offsets = text_offsets(block)
+        if rule['old_id'] is None:
+            # A reviewed spelling repair can reveal an earlier valid reference.
+            # Insert only at this exact paragraph/offset, without globally
+            # rematching the established term's other spellings.
+            start = rule['text_offset']
+            assert isinstance(start, int) and start >= 0 and rule.get('count', 1) == 1, ('invalid anchor insertion', rule)
+            replacements = [e for e in block.iter()
+                            if e.get('data-term') == rule['replacement_id']
+                            and common.txt(e) == rule['replacement_text']
+                            and offsets[e][0] == start]
+            if replacements:
+                assert len(replacements) == 1, ('duplicate anchor insertion', rule)
+                continue
+            value = common.txt(block)
+            assert value.count(rule['replacement_text']) == 1 and value[start:start+len(rule['replacement_text'])] == rule['replacement_text'], ('stale anchor insertion', rule)
+            applied.append(dict(rule, _starts=[start]))
+            continue
         matches = [e for e in block.iter() if e.get('data-term') == rule['old_id']
                    and common.txt(e) == rule['old_text']]
         if not matches:
@@ -134,7 +151,7 @@ def build(slug,root=None):
     oldids={e['id']for e in old};known={e['id']for e in entries};removed=oldids-known
     added=[e for e in entries if e['id']not in oldids]
     for e in entries:
-        if e['id']in {r['replacement_id']for r in rules} and e not in added:added.append(e)
+        if e['id']in {r['replacement_id']for r in rules if r['old_id'] is not None} and e not in added:added.append(e)
     oldmap={e['id']:e for e in old}
     for e in entries:
         if e['id']not in oldmap:continue
@@ -155,6 +172,11 @@ def build(slug,root=None):
         oldnodes=[(e.get('data-term'),common.txt(e))for e in retained_nodes]
         unwrap_removed(tree,removed)
         if ch['kind']in ('chapter','prelude','epilogue') or (slug=='book-of-the-long-sun' and cid=='exodus-my-defense'):
+            for rule in applied:
+                if rule['old_id'] is None:
+                    block = next(e for e in tree.iter() if e.get('data-block') == rule['paragraph'])
+                    entry = next(e for e in entries if e['id'] == rule['replacement_id'])
+                    add_new(block, [dict(entry, term=rule['replacement_text'], aliases=[])])
             add_new(tree,added)
         for rule in applied:
             block=next(e for e in tree.iter()if e.get('data-block')==rule['paragraph'])

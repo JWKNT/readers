@@ -12,7 +12,7 @@
   ],
   "totalWords": 9544,
   "defaultChapter": "story",
-  "glossaryCount": 29,
+  "glossaryCount": 32,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -389,6 +389,10 @@
           "paragraph": "p-055"
         },
         {
+          "term": "galla",
+          "paragraph": "p-073"
+        },
+        {
           "term": "obelisk",
           "paragraph": "p-076"
         },
@@ -413,6 +417,10 @@
           "paragraph": "p-082"
         },
         {
+          "term": "cataracts",
+          "paragraph": "p-083"
+        },
+        {
           "term": "wazir",
           "paragraph": "p-093"
         },
@@ -423,6 +431,10 @@
         {
           "term": "jinnistan",
           "paragraph": "p-129"
+        },
+        {
+          "term": "mount-kaf",
+          "paragraph": "p-131"
         },
         {
           "term": "jacinth",

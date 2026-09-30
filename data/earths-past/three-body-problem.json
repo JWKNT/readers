@@ -2252,5 +2252,30 @@
         "context": "s before them. A famous scientist who had won the Turing Award jumped onto the table and began to speak. “The time for talk is over. Comrades, what"
       }
     ]
+  },
+  {
+    "id": "string-theory",
+    "term": "string theory",
+    "aliases": [],
+    "short": "A proposed framework treating particles as vibrating strings.",
+    "note": "A theoretical framework in which tiny one-dimensional strings replace pointlike elementary particles, with different vibration modes corresponding to different particles. It is studied as a possible way to combine quantum physics and gravity; it remains experimentally unconfirmed.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://cms.cern/index.php/physics/do-we-really-live-only-three-dimensions",
+        "label": "CERN CMS: String theory and extra dimensions"
+      },
+      {
+        "url": "https://www.caltech.edu/about/news/string-theory-emerges-from-almost-nothing",
+        "label": "Caltech: String theory"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "section-11",
+        "paragraph": "p-033",
+        "context": "and time. All the physical laws of human history, from Archimedes’ principle to string theory, and all the scientific discoveries and intellectual fruits of our species are the by-products of this great law. Compa"
+      }
+    ]
   }
 ]

@@ -9,6 +9,8 @@ import re
 import subprocess
 import tarfile
 from editorial import restore
+from import_earths_past import norm, searchable, validate_exclusions
+from rebuild_annotations import Fragment
 from urllib.parse import unquote, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -53,6 +55,10 @@ def main():
     for book in (ROOT / name for name in sorted(library)):
         manifest = json.loads((book / 'manifest.json').read_text())
         glossary = json.loads((book / 'glossary.json').read_text())
+        validate_exclusions(glossary, manifest['chapters'])
+        search_records = json.loads((book / 'search.json').read_text())
+        assert [row['id'] for row in search_records] == [c['id'] for c in manifest['chapters']], (book, 'search chapter order')
+        search = {row['id']: row for row in search_records}
         terms = {entry['id']: entry for entry in glossary}
         assert len(terms) == len(glossary), (book, 'duplicate glossary IDs')
         assert manifest['glossaryCount'] == library[book.name]['glossaryCount'] == len(glossary)
@@ -72,6 +78,25 @@ def main():
             assert data['words']==chapter['words'],(path,'word metadata')
             if data['kind']!='reference':running_words+=data['words']
             current = Inspect(data['html'])
+            tree = Fragment(data['html']).root
+            for entry in glossary:
+                for row in entry.get('excludeMatches', []):
+                    if row['chapter'] != chapter['id']:
+                        continue
+                    blocks = [e for e in tree.iter() if e.get('data-block') == row['paragraph']]
+                    if row['paragraph'] == 'chapter-title':
+                        blocks = [Fragment(data.get('headingHtml', data['title'])).root]
+                    assert len(blocks) == 1, (path, entry['id'], 'exclusion paragraph')
+                    value = ''.join(blocks[0].itertext())
+                    assert value.count(row['context']) == 1, (path, entry['id'], 'exclusion context')
+                    assert not any(e.get('data-term') == entry['id'] and ''.join(e.itertext()) == row['text'] for e in blocks[0].iter()), (path, entry['id'], 'excluded alias still annotated')
+            searchable_blocks = {e.get('data-block'): norm(searchable(e)) for e in tree.iter()
+                                 if e.get('data-block') and not any(x.get('data-block') for x in list(e.iter())[1:])}
+            rows = search[chapter['id']]['paragraphs']
+            if any(row['id'] == 'chapter-title' for row in rows):
+                searchable_blocks['chapter-title'] = data['title']
+            assert len(rows) == len(searchable_blocks), (path, 'search paragraph count')
+            assert {row['id']: row['text'] for row in rows} == searchable_blocks, (path, 'search text or addresses')
             if integrity:
                 import hashlib
                 normalized = ' '.join(''.join(current.text).split())
@@ -143,7 +168,7 @@ def main():
             url = urlsplit(link)
             if not url.scheme and not url.netloc and url.path:
                 assert (path.parent / unquote(url.path)).exists(), (path, link)
-    print('PASS: glossary metadata, paragraph IDs, static text, first appearances, and local links')
+    print('PASS: glossary metadata, paragraph IDs, static/search text, first appearances, and local links')
     if baseline:
         print('PASS: original chapter wording and paragraph IDs preserved against ' + args.baseline + '; only recorded repairs and whitespace changed')
 

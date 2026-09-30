@@ -37,9 +37,9 @@
   ],
   "totalWords": 186717,
   "defaultChapter": "section-05",
-  "glossaryCount": 103,
+  "glossaryCount": 107,
   "correctionCount": 0,
-  "editionVersion": 15,
+  "editionVersion": 18,
   "chapters": [
     {
       "id": "section-05",
@@ -1953,6 +1953,10 @@
           "paragraph": "p-428"
         },
         {
+          "term": "limpet-mines",
+          "paragraph": "p-428"
+        },
+        {
           "term": "wang-xiaobo",
           "paragraph": "p-511"
         },
@@ -2638,6 +2642,10 @@
           "paragraph": "p-140"
         },
         {
+          "term": "nuclear-magnetic-resonance",
+          "paragraph": "p-140"
+        },
+        {
           "term": "von-neumann",
           "paragraph": "p-145"
         },
@@ -2647,6 +2655,10 @@
         },
         {
           "term": "quantum-mechanics",
+          "paragraph": "p-269"
+        },
+        {
+          "term": "string-theory",
           "paragraph": "p-269"
         },
         {
@@ -2882,6 +2894,10 @@
         "p-191"
       ],
       "noteAnchors": [
+        {
+          "term": "propeller-island",
+          "paragraph": "p-038"
+        },
         {
           "term": "nuclear-fusion",
           "paragraph": "p-073"
@@ -5664,5 +5680,6 @@
       "words": 247,
       "startWords": 186717
     }
-  ]
+  ],
+  "editorialCorrectionCount": 5
 }

@@ -4442,15 +4442,19 @@
     "aliases": [
       "Palatine"
     ],
-    "short": "Of a palace; possessing royal privileges.",
-    "note": "Connected with an imperial palace or endowed with royal authority. As a noun, a high palace official or a lord exercising sovereign powers in a territory.",
+    "short": "Possibly Rome’s Palatine Hill, site of imperial palaces.",
+    "note": "Possibly the Palatine Hill, one of Rome’s seven hills, where aristocratic houses and later imperial palaces were built. The related adjective palatine means belonging to a palace or possessing royal authority.",
     "sources": [
       {
+        "url": "https://www.italia.it/en/lazio/rome/palatine-hill",
+        "label": "Italia.it: Palatine Hill"
+      },
+      {
         "url": "https://www.merriam-webster.com/dictionary/palatine",
-        "label": "Merriam-Webster"
+        "label": "Merriam-Webster: palatine"
       }
     ],
-    "possible": false,
+    "possible": true,
     "occurrences": 2,
     "first": {
       "chapter": "return-10",
@@ -9996,6 +10000,88 @@
       "chapter": "blue-03",
       "paragraph": "p-091",
       "index": 3
+    }
+  },
+  {
+    "id": "ambion",
+    "term": "ambion",
+    "aliases": [],
+    "short": "Possibly ambo: a church pulpit or reading stand.",
+    "note": "Possibly ambo, from Greek ambōn: a raised pulpit or reading desk used in churches for scripture readings and preaching.",
+    "possible": true,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/ambo",
+        "label": "Merriam-Webster: ambo"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "return-10",
+      "paragraph": "p-075",
+      "index": 53
+    }
+  },
+  {
+    "id": "close-hauled",
+    "term": "close-hauled",
+    "aliases": [],
+    "short": "Sailing as near into the wind as possible.",
+    "note": "Describes a vessel with its sails drawn in to travel as close to the wind’s direction as it can.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/close-hauled",
+        "label": "Merriam-Webster: close-hauled"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "blue-07",
+      "paragraph": "p-121",
+      "index": 7
+    }
+  },
+  {
+    "id": "scullery",
+    "term": "scullery",
+    "aliases": [],
+    "short": "A room for washing dishes and other kitchen work.",
+    "note": "A service room adjoining a kitchen, used for cleaning utensils, preparing food, and similar tasks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/scullery",
+        "label": "Merriam-Webster: scullery"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "return-05",
+      "paragraph": "p-058",
+      "index": 48
+    }
+  },
+  {
+    "id": "wainscot",
+    "term": "wainscoting",
+    "aliases": [
+      "wainscotting"
+    ],
+    "short": "Wall paneling, especially along the lower part.",
+    "note": "A wooden or other lining on an interior wall, commonly covering only its lower portion.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/wainscot",
+        "label": "Merriam-Webster: wainscot"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "return-05",
+      "paragraph": "p-039",
+      "index": 48
     }
   }
 ]

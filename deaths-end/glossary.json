@@ -2416,5 +2416,33 @@
       "paragraph": "p-099",
       "index": 68
     }
+  },
+  {
+    "id": "accretion-discs",
+    "term": "accretion discs",
+    "aliases": [
+      "accretion disc",
+      "accretion disk",
+      "accretion disks"
+    ],
+    "short": "Flattened discs of matter gathering around a central body.",
+    "note": "Rotating material such as gas and dust arranged in a flattened disc around a gravitating body, with some matter gradually spiraling inward. Accretion discs can feed growing stars.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://science.nasa.gov/exoplanets/resources/life-and-death/chapter-1/",
+        "label": "NASA: A Star Is Born"
+      },
+      {
+        "url": "https://astrobiology.nasa.gov/news/universe-of-disks/",
+        "label": "NASA Astrobiology: Universe of Disks"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "section-52",
+      "paragraph": "p-023",
+      "index": 42
+    }
   }
 ]

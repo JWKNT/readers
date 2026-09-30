@@ -12,7 +12,7 @@
   ],
   "totalWords": 2493,
   "defaultChapter": "story",
-  "glossaryCount": 15,
+  "glossaryCount": 17,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -87,6 +87,14 @@
         {
           "term": "falchion",
           "paragraph": "p-004"
+        },
+        {
+          "term": "partisans",
+          "paragraph": "p-005"
+        },
+        {
+          "term": "brown-bills",
+          "paragraph": "p-005"
         },
         {
           "term": "galleass",

@@ -58,6 +58,18 @@ class TargetedAnchorTests(unittest.TestCase):
         tree=Fragment('<p data-block="p-001">pampas grass</p>').root
         with self.assertRaises(AssertionError):apply_anchor_corrections(tree,[self.rule()])
 
+    def test_scoped_insertion_guard_and_repeat(self):
+        from rebuild_solar_annotations import apply_anchor_corrections
+        rule={'paragraph':'p-001','old_id':None,'replacement_id':'logan','replacement_text':'Loganstone','text_offset':4}
+        tree=Fragment('<p data-block="p-001">The Logan<span data-original="l" data-correction="r">s</span>tone.</p><p data-block="p-002">Loganstone</p>').root
+        before=common.txt(tree)
+        applied=apply_anchor_corrections(tree,[rule]);self.assertEqual([4],applied[0]['_starts'])
+        add_new(tree[0],[{'id':'logan','term':'Loganstone'}])
+        self.assertEqual(before,common.txt(tree))
+        self.assertEqual([],apply_anchor_corrections(tree,[rule]))
+        self.assertFalse(any(e.get('data-term') for e in tree[1].iter()))
+        with self.assertRaises(AssertionError):apply_anchor_corrections(tree,[dict(rule,text_offset=5)])
+
 class SolarBuildTests(unittest.TestCase):
     def test_unmatched_addition_fails_without_output_writes(self):
         import tempfile,json,pathlib,hashlib

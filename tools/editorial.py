@@ -200,13 +200,9 @@ def apply(books=None):
                 words=lambda s:len(re.findall(r"\b[\w’'-]+\b",text(s)))
                 data['words']=old_words+words(data['html'])-words(before_html)
                 data['editorialVersion']=edition
-                paragraph_text=defaultdict(str)
-                for _,_,value,pid in Runs(data['html']).runs:
-                    if pid:paragraph_text[pid]+=value
-                if book=='hyperion':
-                    from rebuild_annotations import Fragment
-                    from series_readers import searchable
-                    paragraph_text={e.get('data-block'):searchable(e) for e in Fragment(data['html']).root.iter() if e.get('data-block')}
+                from rebuild_annotations import Fragment
+                from import_earths_past import searchable
+                paragraph_text={e.get('data-block'):searchable(e) for e in Fragment(data['html']).root.iter() if e.get('data-block')}
                 for p in search_by_id[data['id']]['paragraphs']:
                     if p['id'] in paragraph_text:p['text']=' '.join(paragraph_text[p['id']].split())
                 if integrity:

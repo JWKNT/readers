@@ -225,12 +225,19 @@
     "term": "Gulliver",
     "aliases": [],
     "short": "The traveller in Jonathan Swift’s Gulliver’s Travels.",
-    "note": "In the giant land of Brobdingnag, Gulliver observes skin at an enlarged scale and finds apparently smooth beauty rough and uneven close up.",
+    "note": "Lemuel Gulliver is the narrator of Jonathan Swift’s Gulliver’s Travels. In its final voyage he encounters the rational horses called Houyhnhnms; after returning home, he recoils from human company and prefers his horses.",
     "possible": false,
     "sources": [
       {
         "url": "https://www.gutenberg.org/cache/epub/829/pg829-images.html",
-        "label": "Project Gutenberg: Gulliver’s Travels, Part II"
+        "label": "Jonathan Swift: Gulliver’s Travels, Part IV, chapter XI"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "fall-15",
+        "paragraph": "p-139",
+        "context": "I thought of Swift’s sailor, Gulliver, and his disgust with mankind after his return from the land of the intelligent horses—the Houyhnhnms—a disgust with hi"
       }
     ]
   },
@@ -935,22 +942,6 @@
     ]
   },
   {
-    "id": "hieronymus-bosch",
-    "term": "Hieronymus Bosch",
-    "aliases": [
-      "Bosch"
-    ],
-    "short": "Netherlandish painter of visionary religious scenes.",
-    "note": "Painter, c. 1450–1516, known for densely imagined moral and religious scenes filled with hybrids, monsters, temptation, and punishment. His works include The Garden of Earthly Delights.",
-    "possible": false,
-    "sources": [
-      {
-        "url": "https://www.nga.gov/artists/986-hieronymus-bosch",
-        "label": "National Gallery of Art: Hieronymus Bosch"
-      }
-    ]
-  },
-  {
     "id": "van-gogh",
     "term": "van Gogh",
     "aliases": [
@@ -1091,10 +1082,24 @@
     "possible": false,
     "sources": [
       {
-        "url": "https://johnkeats.uvic.ca/1818-06-26.html?data-id=haydon_br",
+        "url": "https://johnkeats.uvic.ca/1818-08-07.html",
         "label": "University of Victoria: Keats’s northern tour"
+      },
+      {
+        "url": "https://keatsfoundation.com/news/charles-armitage-browns-house-laira-plymouth/",
+        "label": "Keats Foundation: Charles Armitage Brown"
       }
-    ]
+    ],
+    "excludeMatches": [
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-518",
+        "text": "Brown",
+        "context": "Brown robe",
+        "reason": "This is a color adjective, not Charles Armitage Brown."
+      }
+    ],
+    "evidence": []
   },
   {
     "id": "skiddaw",
@@ -1422,7 +1427,38 @@
         "url": "https://www.bfi.org/about-fuller/big-ideas/dymaxion-map/",
         "label": "Buckminster Fuller Institute: Dymaxion map"
       }
-    ]
+    ],
+    "excludeMatches": [
+      {
+        "chapter": "fall-17",
+        "paragraph": "p-030",
+        "text": "Buckminster",
+        "context": "capital of Buckminster",
+        "reason": "This is a fictional city, not the map projection."
+      },
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-293",
+        "text": "Buckminster",
+        "context": "Buckminster, the capital",
+        "reason": "This is a fictional city, not the map projection."
+      },
+      {
+        "chapter": "hyperion-02",
+        "paragraph": "p-305",
+        "text": "Buckminster",
+        "context": "Civic Center Building in Buckminster",
+        "reason": "This is a fictional city, not the map projection."
+      },
+      {
+        "chapter": "hyperion-06",
+        "paragraph": "p-492",
+        "text": "Buckminster",
+        "context": "refugee barracks in Buckminster",
+        "reason": "This is a fictional city, not the map projection."
+      }
+    ],
+    "evidence": []
   },
   {
     "id": "bonne",
@@ -1519,34 +1555,6 @@
       {
         "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/summer-triangle-corner-deneb/",
         "label": "NASA: Deneb"
-      }
-    ]
-  },
-  {
-    "id": "albedo",
-    "term": "Albedo",
-    "aliases": [],
-    "short": "The fraction of incoming light reflected by a surface.",
-    "note": "A measure of reflectivity, expressed between zero and one or as a percentage. Snow and bright clouds have high albedo; dark ocean water and forests generally reflect much less light.",
-    "possible": false,
-    "sources": [
-      {
-        "url": "https://mynasadata.larc.nasa.gov/basic-page/albedo-values",
-        "label": "NASA: albedo values"
-      }
-    ]
-  },
-  {
-    "id": "cicero",
-    "term": "Cicero",
-    "aliases": [],
-    "short": "Possibly Marcus Tullius Cicero, Roman orator and statesman.",
-    "note": "Possibly Marcus Tullius Cicero, 106–43 BCE, the Roman lawyer, politician, and philosophical writer. His speeches and prose became influential models of Latin eloquence.",
-    "possible": true,
-    "sources": [
-      {
-        "url": "https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n7969/",
-        "label": "Lewis and Short: Cicero"
       }
     ]
   },

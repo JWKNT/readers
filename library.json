@@ -30,8 +30,8 @@
         "chapters": 51
       }
     ],
-    "glossaryCount": 951,
-    "totalWords": 510472
+    "glossaryCount": 969,
+    "totalWords": 510474
   },
   {
     "id": "book-of-the-long-sun",
@@ -59,8 +59,8 @@
         "chapters": 16
       }
     ],
-    "glossaryCount": 511,
-    "totalWords": 462159
+    "glossaryCount": 519,
+    "totalWords": 462158
   },
   {
     "id": "book-of-the-short-sun",
@@ -83,8 +83,8 @@
         "chapters": 20
       }
     ],
-    "glossaryCount": 462,
-    "totalWords": 401944
+    "glossaryCount": 466,
+    "totalWords": 401941
   },
   {
     "id": "the-fifth-head-of-cerberus",
@@ -104,7 +104,7 @@
       }
     ],
     "glossaryCount": 128,
-    "totalWords": 78077,
+    "totalWords": 78078,
     "kind": "book"
   },
   {
@@ -319,7 +319,7 @@
         "referenceTitle": "Afterword"
       }
     ],
-    "glossaryCount": 23,
+    "glossaryCount": 24,
     "totalWords": 20671,
     "kind": "story"
   },
@@ -955,7 +955,7 @@
         "chapters": 1
       }
     ],
-    "glossaryCount": 7,
+    "glossaryCount": 8,
     "totalWords": 5321,
     "kind": "story"
   },
@@ -1201,7 +1201,7 @@
         "chapters": 1
       }
     ],
-    "glossaryCount": 29,
+    "glossaryCount": 32,
     "totalWords": 9544,
     "kind": "story"
   },
@@ -1216,7 +1216,7 @@
         "chapters": 1
       }
     ],
-    "glossaryCount": 15,
+    "glossaryCount": 17,
     "totalWords": 2493,
     "kind": "story"
   },
@@ -1252,7 +1252,7 @@
         "referenceTitle": "Afterword"
       }
     ],
-    "glossaryCount": 17,
+    "glossaryCount": 18,
     "totalWords": 2576,
     "kind": "story"
   },
@@ -1412,7 +1412,7 @@
         "referenceTitle": "Supplementary material"
       }
     ],
-    "glossaryCount": 350,
+    "glossaryCount": 356,
     "totalWords": 522571,
     "kind": "series"
   },
@@ -1434,7 +1434,7 @@
         "referenceTitle": "Dedication"
       }
     ],
-    "glossaryCount": 516,
+    "glossaryCount": 513,
     "totalWords": 352735,
     "kind": "series"
   }

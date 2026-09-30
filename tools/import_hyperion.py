@@ -101,6 +101,9 @@ def merged_entries():
             current=by_id.get(entry['id'])
             if current and current['term'].casefold()==entry['term'].casefold():
                 current['aliases']=sorted(set(current.get('aliases',[])+entry.get('aliases',[])))
+                for row in entry.get('excludeMatches', []):
+                    if row not in current.setdefault('excludeMatches', []):
+                        current['excludeMatches'].append(row)
                 maps[volume].append(current)
                 continue
             if current:entry['id']=volume+'-'+entry['id']
@@ -147,6 +150,7 @@ def build(paths):
                     decorate(tree,'hyperion' if volume=='hyperion' else 'the-fall-of-hyperion',tailpiece=True)
                 documents[cid]=tree;chapters.append(record)
                 integrity.append(dict(chapter=cid,source=volume,file=filename,sourceTextSha256=hashlib.sha256(source_text.encode()).hexdigest(),textSha256=hashlib.sha256(norm(txt(tree)).encode()).hexdigest(),blocks=len(blocks)))
+    common.validate_exclusions(entries, chapters)
     counts,first=Counter(),{}
     for record in chapters:
         tree=documents[record['id']]

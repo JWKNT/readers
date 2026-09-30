@@ -90,21 +90,25 @@
     "id": "coruscant",
     "term": "coruscant",
     "aliases": [
-      "coruscant"
+      "coruscated"
     ],
-    "note": "Flashing or sparkling with light.",
+    "note": "Coruscant means flashing or sparkling; to coruscate is to give off bright flashes or glitter.",
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/coruscant",
-        "label": "Merriam-Webster"
+        "label": "Merriam-Webster: coruscant"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/coruscate",
+        "label": "Merriam-Webster: coruscate"
       }
     ],
-    "short": "Flashing or sparkling.",
-    "occurrences": 1,
+    "short": "Flashing or sparkling with light.",
+    "occurrences": 2,
     "first": {
-      "chapter": "exodus-01",
-      "paragraph": "p-112",
-      "index": 37
+      "chapter": "lake-05",
+      "paragraph": "p-127",
+      "index": 17
     }
   },
   {
@@ -3802,15 +3806,19 @@
     "aliases": [
       "Palatine"
     ],
-    "short": "Of a palace; possessing royal privileges.",
-    "note": "Connected with an imperial palace or endowed with royal authority. As a noun, a high palace official or a lord exercising sovereign powers in a territory.",
+    "short": "Possibly Rome’s Palatine Hill, site of imperial palaces.",
+    "note": "Possibly the Palatine Hill, one of Rome’s seven hills, where aristocratic houses and later imperial palaces were built. The related adjective palatine means belonging to a palace or possessing royal authority.",
     "sources": [
       {
+        "url": "https://www.italia.it/en/lazio/rome/palatine-hill",
+        "label": "Italia.it: Palatine Hill"
+      },
+      {
         "url": "https://www.merriam-webster.com/dictionary/palatine",
-        "label": "Merriam-Webster"
+        "label": "Merriam-Webster: palatine"
       }
     ],
-    "possible": false,
+    "possible": true,
     "occurrences": 54,
     "first": {
       "chapter": "nightside-01",
@@ -6998,11 +7006,11 @@
         "url": "https://www.collinsdictionary.com/us/dictionary/english/rocking-stone"
       }
     ],
-    "occurrences": 1,
+    "occurrences": 2,
     "first": {
-      "chapter": "lake-10",
-      "paragraph": "p-137",
-      "index": 22
+      "chapter": "lake-09",
+      "paragraph": "p-247",
+      "index": 21
     }
   },
   {
@@ -10942,6 +10950,172 @@
       "chapter": "exodus-06",
       "paragraph": "p-355",
       "index": 42
+    }
+  },
+  {
+    "id": "sprats",
+    "term": "sprats",
+    "aliases": [
+      "sprat"
+    ],
+    "short": "Small fish; figuratively, small or insignificant people.",
+    "note": "A sprat is a small herring-family fish. The word is also applied to a small or insignificant person, often a child.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/sprat",
+        "label": "Merriam-Webster: sprat"
+      }
+    ],
+    "occurrences": 37,
+    "first": {
+      "chapter": "nightside-01",
+      "paragraph": "p-056",
+      "index": 0
+    }
+  },
+  {
+    "id": "bootless",
+    "term": "bootless",
+    "aliases": [],
+    "short": "Useless or unavailing.",
+    "note": "An older adjective for something that produces no benefit, result, or advantage.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/bootless",
+        "label": "Merriam-Webster: bootless"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "calde-epilogue",
+      "paragraph": "p-005",
+      "index": 36
+    }
+  },
+  {
+    "id": "suborn",
+    "term": "suborn",
+    "aliases": [],
+    "short": "To induce someone to commit a wrongful act.",
+    "note": "To persuade, bribe, or secretly induce someone to do wrong; in legal usage, especially to procure false testimony.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/suborn",
+        "label": "Merriam-Webster: suborn"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "exodus-13",
+      "paragraph": "p-249",
+      "index": 49
+    }
+  },
+  {
+    "id": "burse",
+    "term": "burse",
+    "aliases": [],
+    "short": "A purse, or the funds it represents.",
+    "note": "An old word for a purse. Figuratively, a purse can mean the money available to meet expenses.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/burse",
+        "label": "Merriam-Webster: burse"
+      },
+      {
+        "url": "https://www.merriam-webster.com/dictionary/purse",
+        "label": "Merriam-Webster: purse, financial sense"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "lake-04",
+      "paragraph": "p-049",
+      "index": 16
+    }
+  },
+  {
+    "id": "lanyard",
+    "term": "lanyard",
+    "aliases": [],
+    "short": "A cord pulled to fire a cannon.",
+    "note": "Among its several uses, lanyard denotes the cord connected to a gun’s firing mechanism.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/lanyard",
+        "label": "Merriam-Webster: lanyard"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-09",
+      "paragraph": "p-116",
+      "index": 21
+    }
+  },
+  {
+    "id": "combers",
+    "term": "combers",
+    "aliases": [],
+    "short": "Long waves with curling crests.",
+    "note": "A comber is a long sea wave whose crest curls over as it breaks.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/comber",
+        "label": "Merriam-Webster: comber"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "lake-11",
+      "paragraph": "p-021",
+      "index": 23
+    }
+  },
+  {
+    "id": "plashing",
+    "term": "plashing",
+    "aliases": [],
+    "short": "Splashing gently.",
+    "note": "To plash is to splash or make a soft splashing sound.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/plash",
+        "label": "Merriam-Webster: plash"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "nightside-09",
+      "paragraph": "p-252",
+      "index": 8
+    }
+  },
+  {
+    "id": "heeling",
+    "term": "heeling",
+    "aliases": [],
+    "short": "Leaning to one side, as a sailing vessel does.",
+    "note": "To heel is to tilt or incline sideways from the upright position.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.merriam-webster.com/dictionary/heel",
+        "label": "Merriam-Webster: heel"
+      }
+    ],
+    "occurrences": 3,
+    "first": {
+      "chapter": "lake-06",
+      "paragraph": "p-135",
+      "index": 18
     }
   }
 ]

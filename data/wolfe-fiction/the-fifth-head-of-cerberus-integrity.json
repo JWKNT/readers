@@ -30,7 +30,7 @@
         "index_split_001.html"
       ],
       "sourceTextSha256": "79893aecf4e0a7f7ca8773ea5334a2334f4c645606b183fe0bb207a01df859f2",
-      "textSha256": "0c18d4c682f6cdf8893b5332e38b3ddbd944972869685eab8c4adcd448bd63ec",
+      "textSha256": "1ceb0f3b31b08e7e2518836d00ecb29ffa8d5874288d31941a532d5ae571527a",
       "blocks": 557,
       "preEditorialTextSha256": "79893aecf4e0a7f7ca8773ea5334a2334f4c645606b183fe0bb207a01df859f2"
     },
@@ -42,7 +42,7 @@
         "index_split_002.html"
       ],
       "sourceTextSha256": "9ccc320eec2d325341fedacaefc4356a671e99600f4feb225ef53b1e6c089b2c",
-      "textSha256": "bfd801dee8cff536e370f11ba56dd6d548ed920cae543565bb60f179a36e7c37",
+      "textSha256": "9e7da9890aa9f413c0dc6ca52c6e5b6dcacdea9514ffc1171b7711cf92b91b06",
       "blocks": 1013,
       "preEditorialTextSha256": "bb714b248f441b42d3fdcae6ae557f0f8a110c6e1b8ea7288b81f098843ef868"
     },
@@ -287,6 +287,56 @@
       "reason": "Missing first hyphen in a repeatedly hyphenated personal name.",
       "confidence": "high",
       "id": "v14-2fad3ed764f7"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-138",
+      "before": "something to :at",
+      "after": "something to eat",
+      "reason": "OCR colon for e at the start of eat.",
+      "confidence": "high",
+      "id": "v18-7a9543eb04b4"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-336",
+      "before": ") ’so neither",
+      "after": ") “so neither",
+      "reason": "Wrong single closing quote where double-quoted speech resumes after a parenthetical stage direction.",
+      "confidence": "high",
+      "id": "v18-a23829d9943c"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-138",
+      "before": "wind in the grass, when you came",
+      "after": "wind in the grass, “when you came",
+      "reason": "Missing opening double quote when the girl’s direct speech resumes after the attribution; its final closing quote is present.",
+      "confidence": "high",
+      "id": "v18-c9c44f2e58d0"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-543",
+      "before": "he repeated, There is a way.”",
+      "after": "he repeated, “There is a way.”",
+      "reason": "Missing opening double quote before the explicitly repeated words, with closing double quote present.",
+      "confidence": "high",
+      "id": "v18-ba3b84bee951"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-548",
+      "before": "That which swam in my mouth swims in his veins now,”",
+      "after": "“That which swam in my mouth swims in his veins now,”",
+      "reason": "Missing opening double quote before speech followed by the Shadow child said; closing quotation exists.",
+      "confidence": "high",
+      "id": "v18-5834a92ee874"
     },
     {
       "book": "the-fifth-head-of-cerberus",
@@ -777,6 +827,46 @@
       "reason": "Garbled OCR word; out completes the locally unambiguous action of dropping the tape into the flower bed.",
       "confidence": "probable",
       "id": "v14-01b343c0a62b"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-183",
+      "before": "“Frogtown“,",
+      "after": "“Frogtown”,",
+      "reason": "Reversed closing double quote around a place name.",
+      "confidence": "high",
+      "id": "v18-26003cc9af8f"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-383",
+      "before": "hardJt’s hit",
+      "after": "hard it’s hit",
+      "reason": "Missing word space plus OCR J for i; the clause describes how hard the striker is hit.",
+      "confidence": "high",
+      "id": "v18-c180e3b8e6fc"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-844",
+      "before": "the ceils to either side",
+      "after": "the cells to either side",
+      "reason": "OCR i for l in the prisoner’s account of the adjacent cells.",
+      "confidence": "high",
+      "id": "v18-312edfdaa5cc"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "vrt",
+      "paragraph": "p-937",
+      "before": "The \\sounds",
+      "after": "The sounds",
+      "reason": "Stray reverse solidus before an ordinary noun.",
+      "confidence": "high",
+      "id": "v18-28d49ae2271d"
     },
     {
       "book": "the-fifth-head-of-cerberus",
