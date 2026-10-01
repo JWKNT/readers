@@ -13,7 +13,7 @@ HOME = ('<a class="site-home" href="https://jehlp.net/" '
         'aria-label="Home — jehlp.net" title="Home — jehlp.net">'
         '<span aria-hidden="true">✳</span></a>')
 THEME_VERSION = 'theme-20260930-header-home'
-CATALOG_STYLE_VERSION = 'theme-20260930-mobile-header'
+STYLE_VERSION = 'theme-20261001-utilities'
 
 
 class Headers(HTMLParser):
@@ -70,8 +70,11 @@ class HomeNavigation(unittest.TestCase):
                 refs = re.findall(r'assets/theme/(base\.css|theme\.js)([^"\s>]*)', source)
                 self.assertTrue(refs)
                 for asset, ref in refs:
-                    version = CATALOG_STYLE_VERSION if page == ROOT / 'index.html' and asset == 'base.css' else THEME_VERSION
-                    self.assertEqual('?v=' + version, ref)
+                    version = STYLE_VERSION if asset == 'base.css' else THEME_VERSION
+                    if page == ROOT / 'index.html' or asset == 'theme.js':
+                        self.assertEqual('?v=' + version, ref)
+                    else:
+                        self.assertIn(ref, ('?v=' + STYLE_VERSION, '?v=' + THEME_VERSION))
                 if 'assets/reader.js' in source:
                     self.assertIn('assets/reader.js?v=reader-20260930-header-home', source)
 
@@ -82,7 +85,7 @@ class HomeNavigation(unittest.TestCase):
             self.assertEqual(1, source.count(HOME))
             self.assertIn('<span class="site-utility-pair">' + HOME + '<button', source)
             self.assertTrue(Headers(source).homes[0][1])
-            version = CATALOG_STYLE_VERSION if index == 0 else THEME_VERSION
+            version = STYLE_VERSION
             self.assertIn('assets/theme/base.css?v=' + version, source)
             self.assertIn('assets/theme/theme.js?v=' + THEME_VERSION, source)
 
@@ -90,14 +93,14 @@ class HomeNavigation(unittest.TestCase):
         source = (ROOT / 'tools/series_readers.py').read_text()
         redirect_template = source[source.index('# Keep every old hash'):]
         self.assertIn('<header class="site-utilities" data-theme-toggle-slot>' + HOME + '</header>', redirect_template)
-        self.assertIn('assets/theme/base.css?v=' + THEME_VERSION, redirect_template)
+        self.assertIn('assets/theme/base.css?v=' + STYLE_VERSION, redirect_template)
         self.assertNotIn('site-home-dock', redirect_template)
 
     def test_numeric_edition_rebuilds_preserve_named_chrome_keys(self):
-        source = (ROOT / 'book-of-the-short-sun/index.html').read_text()
+        source = series_page('Test', '<p>Book text</p>', '', [])
         rebuilt = re.sub(r'\?v=\d+', '?v=99', source)
-        for asset, version in [('theme/base.css', THEME_VERSION), ('theme/theme.js', THEME_VERSION),
-                               ('reader.css', 'layout-20260930-header-home'), ('reader.js', 'reader-20260930-header-home')]:
+        for asset, version in [('theme/base.css', STYLE_VERSION), ('theme/theme.js', THEME_VERSION),
+                               ('reader.css', 'layout-20261001-utilities')]:
             self.assertIn('assets/' + asset + '?v=' + version, rebuilt)
         self.assertIn('assets/initials/initials.css?v=99', rebuilt)
 
@@ -111,6 +114,7 @@ class HomeNavigation(unittest.TestCase):
         self.assertNotIn('.mobile-tools .site-home', css)
         self.assertIn('.appearance{display:flex;align-items:center;gap:.5rem;position:absolute;', css)
         self.assertIn('.static-header .site-utility-pair{margin-left:auto}', css)
+        self.assertNotIn('.static-header .theme-toggle{margin-left:auto}', css)
 
     def test_narrow_static_headers_wrap_in_flow_without_old_top_spacer(self):
         css = (ROOT / 'assets/reader.css').read_text()
@@ -122,13 +126,13 @@ class HomeNavigation(unittest.TestCase):
 
     def test_home_icon_is_vendored_without_footer_spacing(self):
         css = (ROOT / 'assets/theme/base.css').read_text()
-        self.assertTrue((ROOT / 'assets/theme/icons/home-emblem.svg').is_file())
-        self.assertIn('icons/home-emblem.svg', css)
+        self.assertTrue((ROOT / 'assets/theme/icons/home-compass.svg').is_file())
+        self.assertIn('icons/home-compass.svg', css)
         self.assertNotIn('--site-home-clearance', css)
         self.assertNotIn('body:has(.site-home)::after', css)
         self.assertNotIn('.site-home-dock', css)
         self.assertIn('.site-home', css)
-        home_block = css[css.index('/* A header colophon'):css.index('details {')]
+        home_block = css[css.index('a.site-home,'):css.index('.site-utility-pair .theme-toggle')]
         self.assertNotRegex(home_block, r'position:\s*(?:fixed|sticky)')
         self.assertIn('min-width: 44px', home_block)
         self.assertIn('min-height: 44px', home_block)

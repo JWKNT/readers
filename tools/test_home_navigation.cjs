@@ -31,3 +31,28 @@ test('shared Home has no footer spacer or focused-field scrolling handler', () =
   assert.ok(!theme.includes('keepFocusedControlClear'));
   assert.ok(!theme.includes('homeFocusBound'));
 });
+
+
+test('Home and theme share geometry, ink and icon scale without local overrides', () => {
+  const utilities = base.slice(base.indexOf('a.site-home,'), base.indexOf('.site-utility-pair .theme-toggle'));
+  for (const declaration of ['width: var(--utility-size, 2.75rem)', 'height: var(--utility-size, 2.75rem)', 'margin: 0', 'color: var(--muted-strong)', 'opacity: 1']) assert.ok(utilities.includes(declaration));
+  assert.ok(base.includes('gap: var(--utility-gap, .375rem)'));
+  assert.ok(base.includes('width: var(--utility-icon-size, 1.6rem)'));
+  assert.ok(base.includes('icons/home-compass.svg'));
+  assert.ok(!base.includes('icons/home-emblem.svg'));
+  for (const icon of ['home-compass.svg', 'search-slash.svg']) assert.ok(fs.existsSync(path.join(__dirname, '..', 'assets/theme/icons', icon)));
+  assert.ok(!css.includes('.static-header .theme-toggle{margin-left:auto}'));
+  assert.ok(css.includes('a:not(.site-home):hover,a:not(.site-home):visited'));
+  assert.ok(css.includes('button:not(.theme-toggle):focus-visible'));
+  const library = read('assets/library.css');
+  assert.ok(library.includes('.library-page a:not(.site-home) { color: var(--ink); }'));
+  assert.ok(library.includes('.library-page button:not(.theme-toggle):focus-visible'));
+});
+
+
+test('reduced-motion disables transitions for Home and theme alike', () => {
+  const reduced = base.slice(base.indexOf('@media (prefers-reduced-motion: reduce)'), base.indexOf('@media print'));
+  assert.ok(reduced.includes('a.site-home, button.site-search,'));
+  assert.ok(reduced.includes('[data-theme-toggle].theme-toggle,'));
+  assert.ok(reduced.includes('transition: none;'));
+});

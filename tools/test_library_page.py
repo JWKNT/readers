@@ -86,8 +86,8 @@ class LibraryPage(unittest.TestCase):
         self.assertIn('data-theme-toggle', buttons[0])
 
     def test_landing_styles_do_not_load_book_typography(self):
-        self.assertEqual(['assets/theme/base.css?v=theme-20260930-mobile-header',
-                          'assets/library.css?v=library-20260930-mobile-header'], self.catalog.styles)
+        self.assertEqual(['assets/theme/base.css?v=theme-20261001-utilities',
+                          'assets/library.css?v=library-20261001-utilities'], self.catalog.styles)
         for page in ROOT.glob('*/index.html'):
             self.assertNotIn('assets/library.css', page.read_text(), str(page))
 

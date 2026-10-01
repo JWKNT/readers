@@ -8,9 +8,9 @@ html { scroll-behavior: auto; }
   --page: 64rem;
 }
 
-.library-page a { color: var(--ink); }
-.library-page a:focus-visible,
-.library-page button:focus-visible {
+.library-page a:not(.site-home) { color: var(--ink); }
+.library-page a:not(.site-home):focus-visible,
+.library-page button:not(.theme-toggle):focus-visible {
   outline: 1px solid var(--ink);
   outline-offset: 4px;
   box-shadow: none;
