@@ -20646,5 +20646,45 @@
       "paragraph": "p-020",
       "index": 13
     }
+  },
+  {
+    "id": "rubaiyat-awake",
+    "term": "Awake! for Morning",
+    "aliases": [],
+    "short": "The opening of FitzGerald’s Rubáiyát of Omar Khayyám.",
+    "note": "The opening of the first edition (1859) of Edward FitzGerald’s English Rubáiyát of Omar Khayyám. Its first quatrain pictures dawn scattering the stars and lighting a distant tower.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/The_Rubaiyat_of_Omar_Khayyam_(tr._Fitzgerald,_1st_edition)/The_Rubaiyat_of_Omar_Khayyam",
+        "label": "Edward FitzGerald: Rubáiyát, first edition, stanza I"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-50",
+      "paragraph": "p-106",
+      "index": 195
+    }
+  },
+  {
+    "id": "dante-gate-of-hell",
+    "term": "No hope for those who enter here",
+    "aliases": [],
+    "short": "Echoes the warning over Dante’s gate of Hell.",
+    "note": "A paraphrase of the final line of the inscription over the gate of Hell in Dante’s Inferno, canto III. The inscription tells those entering to abandon all hope.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/1001/1001-h/1001-h.htm",
+        "label": "Dante: Inferno, canto III, translated by Longfellow"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "urth-23",
+      "paragraph": "p-013",
+      "index": 168
+    }
   }
 ]

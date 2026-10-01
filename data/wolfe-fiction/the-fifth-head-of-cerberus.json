@@ -1993,5 +1993,26 @@
       }
     ],
     "evidence": "vrt/p-231: h Columbia against me? The prosecution cites it? No, Your Honor, it is a clever sophistry, but invalid; my tutorial position at Columbia was a manifest sinecure given me to enable me to complete my graduate work, and for my exped"
+  },
+  {
+    "id": "euripides-cerberus-quotation",
+    "term": "And thence the dog",
+    "aliases": [],
+    "short": "An altered quotation from Euripides’ Heracles.",
+    "note": "From Euripides’ Heracles, called Hercules Distracted in Michael Wodhull’s translation. Heracles tells Amphitryon that he brought Cerberus up from the underworld. Wodhull’s line has “triple-head”; David’s version substitutes “fourfold head.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/77336/pg77336-images.html#Page_61",
+        "label": "Euripides: Hercules Distracted, translated by Michael Wodhull, p. 61"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "fifth-head",
+        "paragraph": "p-136",
+        "context": " Spring surprised me, as she always does those of us who remain most of our lives indoors. One day, while I still thought, if I thought about the weather at all, in terms of winter, David threw open the window and insisted that I go with him into the park—and it was April. Mr. Million went with us, and I remember that as we stepped out the front door into the little garden that opened into the street, a garden I had last seen banked with the snow shoveled from the path but which was now bright with early bulbs and the chiming of the fountain, David tapped the iron dog on its grinning muzzle and recited: “ ‘And thence the dog. With fourfold head brought to these realms of light.’ ”"
+      }
+    ]
   }
 ]

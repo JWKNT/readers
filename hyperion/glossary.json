@@ -1618,12 +1618,16 @@
     "term": "Francis Bacon",
     "aliases": [],
     "short": "English philosopher of experimental inquiry, 1561–1626.",
-    "note": "Bacon’s Novum Organum examines obstacles to reliable knowledge. Its “idols of the marketplace” are errors fostered by words and ordinary habits of speech.",
+    "note": "Francis Bacon (1561–1626), English philosopher associated with the development of experimental science. The quotation about badly formed words comes from Novum Organum (1620), book I, aphorism 43, on the “idols of the market”: errors arising through language.",
     "possible": false,
     "sources": [
       {
-        "url": "https://www.gutenberg.org/ebooks/45988",
-        "label": "Francis Bacon: Novum Organum"
+        "url": "https://www.gutenberg.org/cache/epub/45988/pg45988-images.html",
+        "label": "Francis Bacon: Novum Organum, book I, aphorism 43"
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/francis-bacon/",
+        "label": "Stanford Encyclopedia of Philosophy: Francis Bacon"
       }
     ],
     "occurrences": 1,
@@ -8086,37 +8090,45 @@
   {
     "id": "adams-dream",
     "term": "Adam’s dream",
-    "aliases": [],
-    "short": "Adam’s dream of reality in Milton’s Paradise Lost.",
-    "note": "In book VIII of Paradise Lost, Adam describes waking to discover that what he dreamed exists. Keats compares imagination to this experience in his letter to Benjamin Bailey of 22 November 1817.",
+    "aliases": [
+      "I am certain of nothing"
+    ],
+    "short": "Keats’s letter to Bailey on imagination, beauty, and truth.",
+    "note": "Keats’s letter to Benjamin Bailey of 22 November 1817 connects beauty with the truth of imagination. It contains both the statement beginning “I am certain of nothing” and the comparison of imagination to Adam’s dream. The latter refers to Paradise Lost, book VIII, where Adam wakes to find the woman he has seen in his dream.",
     "possible": false,
     "sources": [
       {
-        "url": "https://cowperandnewtonmuseum.org.uk/bulletin/recalling-adams-dream-a-note-on-keats-and-cowper/",
-        "label": "Cowper & Newton Museum: Keats and Adam’s dream"
+        "url": "https://www.gutenberg.org/files/35698/35698-h/35698-h.htm#XXII",
+        "label": "John Keats: letter to Benjamin Bailey, 22 November 1817"
+      },
+      {
+        "url": "https://www.gutenberg.org/files/20/20-h/20-h.htm",
+        "label": "John Milton: Paradise Lost, book VIII"
       }
     ],
-    "occurrences": 1,
+    "occurrences": 2,
     "first": {
-      "chapter": "fall-epigraph",
-      "paragraph": "p-005",
-      "index": 9
+      "chapter": "hyperion-03",
+      "paragraph": "p-084",
+      "index": 3
     }
   },
   {
     "id": "keats-superior-beings",
     "term": "May there not be superior beings",
-    "aliases": [],
+    "aliases": [
+      "Though a quarrel in the street"
+    ],
     "short": "From Keats’s letter of 19 March 1819.",
-    "note": "In a journal-letter to George and Georgiana Keats, the poet compares human purposes with animal instinct. He wonders whether higher beings might appreciate human thought as humans appreciate an animal’s alertness.",
+    "note": "In his journal-letter to George and Georgiana Keats, in the entry for 19 March 1819, Keats compares human purposes with animal instinct. He imagines higher beings appreciating human thought as humans appreciate an animal’s alertness, and distinguishes the energy of a street quarrel from its objectionable nature.",
     "possible": false,
     "sources": [
       {
-        "url": "https://www.gutenberg.org/cache/epub/35698/pg35698-images.html",
-        "label": "John Keats: Letters to His Family and Friends"
+        "url": "https://www.gutenberg.org/files/35698/35698-h/35698-h.htm#Page_237",
+        "label": "John Keats: journal-letter to George and Georgiana Keats, 19 March 1819"
       }
     ],
-    "occurrences": 2,
+    "occurrences": 3,
     "first": {
       "chapter": "hyperion-05",
       "paragraph": "p-788",
@@ -10592,6 +10604,26 @@
       "chapter": "fall-39",
       "paragraph": "p-004",
       "index": 48
+    }
+  },
+  {
+    "id": "keats-five-feet-high",
+    "term": "five feet high",
+    "aliases": [],
+    "short": "Keats’s self-description in a July 1818 letter.",
+    "note": "Keats describes himself as “Mister John Keats five feet high” in his July 1818 letter to Benjamin Bailey, written during his walking tour of Scotland. The phrase belongs to the prose letter.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/35698/35698-h/35698-h.htm#LXII",
+        "label": "John Keats: letter to Benjamin Bailey, July 18–22, 1818"
+      }
+    ],
+    "occurrences": 4,
+    "first": {
+      "chapter": "fall-01",
+      "paragraph": "p-028",
+      "index": 10
     }
   }
 ]

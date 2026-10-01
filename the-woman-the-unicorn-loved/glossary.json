@@ -221,5 +221,25 @@
       "paragraph": "p-158",
       "index": 0
     }
+  },
+  {
+    "id": "pope-iliad-pluto",
+    "term": "Pluto, the grisly god",
+    "aliases": [],
+    "short": "A couplet from Pope’s translation of the Iliad.",
+    "note": "From Alexander Pope’s translation of Homer’s Iliad, book IX. Agamemnon describes Pluto, the ruler of the underworld, as pitiless during the deliberations over an embassy to Achilles.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/6130/pg6130-images.html#chap09",
+        "label": "Homer: Iliad, book IX, translated by Alexander Pope"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "story",
+      "paragraph": "p-005",
+      "index": 0
+    }
   }
 ]

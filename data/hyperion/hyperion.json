@@ -1162,12 +1162,16 @@
     "term": "Francis Bacon",
     "aliases": [],
     "short": "English philosopher of experimental inquiry, 1561–1626.",
-    "note": "Bacon’s Novum Organum examines obstacles to reliable knowledge. Its “idols of the marketplace” are errors fostered by words and ordinary habits of speech.",
+    "note": "Francis Bacon (1561–1626), English philosopher associated with the development of experimental science. The quotation about badly formed words comes from Novum Organum (1620), book I, aphorism 43, on the “idols of the market”: errors arising through language.",
     "possible": false,
     "sources": [
       {
-        "url": "https://www.gutenberg.org/ebooks/45988",
-        "label": "Francis Bacon: Novum Organum"
+        "url": "https://www.gutenberg.org/cache/epub/45988/pg45988-images.html",
+        "label": "Francis Bacon: Novum Organum, book I, aphorism 43"
+      },
+      {
+        "url": "https://plato.stanford.edu/entries/francis-bacon/",
+        "label": "Stanford Encyclopedia of Philosophy: Francis Bacon"
       }
     ]
   },

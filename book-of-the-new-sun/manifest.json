@@ -27908,6 +27908,10 @@
           "paragraph": "p-012"
         },
         {
+          "term": "dante-gate-of-hell",
+          "paragraph": "p-013"
+        },
+        {
           "term": "gravid",
           "paragraph": "p-016"
         },
@@ -32799,6 +32803,10 @@
         {
           "term": "foila",
           "paragraph": "p-104"
+        },
+        {
+          "term": "rubaiyat-awake",
+          "paragraph": "p-106"
         }
       ],
       "words": 3828,
@@ -33047,9 +33055,9 @@
   ],
   "totalWords": 510515,
   "defaultChapter": "shadow-01",
-  "glossaryCount": 974,
+  "glossaryCount": 976,
   "correctionCount": 41,
   "cover": "cover.jpeg",
-  "editionVersion": 19,
-  "editorialCorrectionCount": 52
+  "editionVersion": 20,
+  "editorialCorrectionCount": 53
 }

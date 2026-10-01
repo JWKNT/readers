@@ -30,7 +30,7 @@
         "chapters": 51
       }
     ],
-    "glossaryCount": 974,
+    "glossaryCount": 976,
     "totalWords": 510515
   },
   {
@@ -103,7 +103,7 @@
         "referenceTitle": "Afterword"
       }
     ],
-    "glossaryCount": 128,
+    "glossaryCount": 129,
     "totalWords": 78078,
     "kind": "book"
   },
@@ -1354,7 +1354,7 @@
         "chapters": 1
       }
     ],
-    "glossaryCount": 11,
+    "glossaryCount": 12,
     "totalWords": 6335,
     "kind": "story"
   },
@@ -1434,7 +1434,7 @@
         "referenceTitle": "Dedication"
       }
     ],
-    "glossaryCount": 515,
+    "glossaryCount": 516,
     "totalWords": 352735,
     "kind": "series"
   }

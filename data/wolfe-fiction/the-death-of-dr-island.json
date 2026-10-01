@@ -167,9 +167,11 @@
   {
     "id": "the-lustre-of-the-long-convolvuluses",
     "term": "The lustre of the long convolvuluses",
-    "aliases": [],
-    "short": "A line from Tennyson’s Enoch Arden.",
-    "note": "From Alfred Tennyson’s narrative poem Enoch Arden (1864), in a passage describing the vegetation of a tropical island.",
+    "aliases": [
+      "The mountain wooded to the peak"
+    ],
+    "short": "From Tennyson’s Enoch Arden.",
+    "note": "From Alfred Tennyson’s narrative poem Enoch Arden (1864), in the passage describing the tropical island where Enoch is stranded. The quotation begins with “The mountain wooded to the peak” and continues through the description of the convolvuluses.",
     "possible": false,
     "sources": [
       {
@@ -177,7 +179,18 @@
         "label": "Alfred Tennyson: Enoch Arden"
       }
     ],
-    "evidence": "story/p-520:                                                              The lustre of the long convolvuluses"
+    "evidence": [
+      {
+        "chapter": "story",
+        "paragraph": "p-516",
+        "context": "                                                             The mountain wooded to the peak, the lawns"
+      },
+      {
+        "chapter": "story",
+        "paragraph": "p-520",
+        "context": "                                                             The lustre of the long convolvuluses"
+      }
+    ]
   },
   {
     "id": "i-have-desired-to-go",

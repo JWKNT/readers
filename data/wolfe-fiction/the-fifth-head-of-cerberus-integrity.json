@@ -30,7 +30,7 @@
         "index_split_001.html"
       ],
       "sourceTextSha256": "79893aecf4e0a7f7ca8773ea5334a2334f4c645606b183fe0bb207a01df859f2",
-      "textSha256": "1ceb0f3b31b08e7e2518836d00ecb29ffa8d5874288d31941a532d5ae571527a",
+      "textSha256": "12db97f4ebff8a652f14b18195935bdef052fcb8db54ef6f02f23033b17457b6",
       "blocks": 557,
       "preEditorialTextSha256": "79893aecf4e0a7f7ca8773ea5334a2334f4c645606b183fe0bb207a01df859f2"
     },
@@ -337,6 +337,16 @@
       "reason": "Missing opening double quote before speech followed by the Shadow child said; closing quotation exists.",
       "confidence": "high",
       "id": "v18-5834a92ee874"
+    },
+    {
+      "book": "the-fifth-head-of-cerberus",
+      "chapter": "a-story",
+      "paragraph": "p-104",
+      "before": "After that lie only sang",
+      "after": "After that he only sang",
+      "reason": "The immediately preceding two sentences explicitly name Sandwalker and refer to him as he; the verb sang requires the continuing singular subject. The OCR-like lie is neither a grammatical subject nor a meaningful verb in this sentence. Replace only the corrupted pronoun.",
+      "confidence": "high-local-structural",
+      "id": "v20-context-001"
     },
     {
       "book": "the-fifth-head-of-cerberus",

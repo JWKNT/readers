@@ -2641,5 +2641,25 @@
       "paragraph": "p-231",
       "index": 2
     }
+  },
+  {
+    "id": "euripides-cerberus-quotation",
+    "term": "And thence the dog",
+    "aliases": [],
+    "short": "An altered quotation from Euripides’ Heracles.",
+    "note": "From Euripides’ Heracles, called Hercules Distracted in Michael Wodhull’s translation. Heracles tells Amphitryon that he brought Cerberus up from the underworld. Wodhull’s line has “triple-head”; David’s version substitutes “fourfold head.”",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/cache/epub/77336/pg77336-images.html#Page_61",
+        "label": "Euripides: Hercules Distracted, translated by Michael Wodhull, p. 61"
+      }
+    ],
+    "occurrences": 1,
+    "first": {
+      "chapter": "fifth-head",
+      "paragraph": "p-136",
+      "index": 0
+    }
   }
 ]

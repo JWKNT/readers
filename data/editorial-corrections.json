@@ -6630,5 +6630,35 @@
     "reason": "Clear plural-object English pronoun with an explicit antecedent; di is a common OCR confusion for th. These are distinct from the four literal Latin carpe diem contexts in Liu, which are preserved.",
     "confidence": "high-local-structural",
     "id": "v19-diem-007"
+  },
+  {
+    "book": "the-fifth-head-of-cerberus",
+    "chapter": "a-story",
+    "paragraph": "p-104",
+    "before": "After that lie only sang",
+    "after": "After that he only sang",
+    "reason": "The immediately preceding two sentences explicitly name Sandwalker and refer to him as he; the verb sang requires the continuing singular subject. The OCR-like lie is neither a grammatical subject nor a meaningful verb in this sentence. Replace only the corrupted pronoun.",
+    "confidence": "high-local-structural",
+    "id": "v20-context-001"
+  },
+  {
+    "book": "book-of-the-new-sun",
+    "chapter": "urth-50",
+    "paragraph": "p-106",
+    "before": "puts the Stars to. Flight",
+    "after": "puts the Stars to Flight",
+    "reason": "A stray full stop splits the preposition to from its object Flight within the quoted line. First-edition FitzGerald confirms the unbroken phrase. Leave the novel’s comma after Night and period after Flight unchanged; this does not normalize every detail to the poem.",
+    "confidence": "high-local-structural",
+    "id": "v20-context-002"
+  },
+  {
+    "book": "book-of-the-short-sun",
+    "chapter": "blue-08",
+    "paragraph": "p-015",
+    "before": "Babbie and I and going",
+    "after": "Babbie and I are going",
+    "reason": "Babbie and I forms a complete plural subject followed by going back to your boat. The second and leaves the clause without a finite verb and does not coordinate any second constituent. Replacing that second and with are supplies the uniquely natural auxiliary while retaining the compound subject. Surrounding Seawrack dialogue is fluent and gives no marked dialect pattern of and as a finite auxiliary.",
+    "confidence": "high-local-structural",
+    "id": "v20-context-003"
   }
 ]

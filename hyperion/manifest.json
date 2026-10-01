@@ -19,7 +19,7 @@
   ],
   "totalWords": 352735,
   "defaultChapter": "hyperion-prologue",
-  "glossaryCount": 515,
+  "glossaryCount": 516,
   "correctionCount": 0,
   "editionVersion": 18,
   "chapters": [
@@ -2930,6 +2930,10 @@
         {
           "term": "hebron",
           "paragraph": "p-083"
+        },
+        {
+          "term": "adams-dream",
+          "paragraph": "p-084"
         },
         {
           "term": "bandolier",
@@ -7144,6 +7148,10 @@
         },
         {
           "term": "john-keats",
+          "paragraph": "p-028"
+        },
+        {
+          "term": "keats-five-feet-high",
           "paragraph": "p-028"
         },
         {
@@ -12526,6 +12534,10 @@
           "paragraph": "p-167"
         },
         {
+          "term": "keats-five-feet-high",
+          "paragraph": "p-189"
+        },
+        {
           "term": "consumptive",
           "paragraph": "p-189"
         }
@@ -17062,6 +17074,10 @@
           "paragraph": "p-019"
         },
         {
+          "term": "keats-five-feet-high",
+          "paragraph": "p-019"
+        },
+        {
           "term": "protestant-cemetery",
           "paragraph": "p-036"
         },
@@ -17351,6 +17367,10 @@
         },
         {
           "term": "john-keats",
+          "paragraph": "p-003"
+        },
+        {
+          "term": "keats-five-feet-high",
           "paragraph": "p-003"
         },
         {

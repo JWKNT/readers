@@ -12,7 +12,7 @@
   ],
   "totalWords": 6335,
   "defaultChapter": "story",
-  "glossaryCount": 11,
+  "glossaryCount": 12,
   "correctionCount": 0,
   "editionVersion": 15,
   "chapters": [
@@ -252,6 +252,10 @@
         {
           "term": "guidon",
           "paragraph": "p-003"
+        },
+        {
+          "term": "pope-iliad-pluto",
+          "paragraph": "p-005"
         },
         {
           "term": "pumpernickel",

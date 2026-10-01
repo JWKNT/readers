@@ -16470,5 +16470,47 @@
       }
     ],
     "evidence": "shadow-14/p-020: From time to time boats glided through the weed-choked water while the wind drew music from their rigging. The poorer sort showed no lights and seemed hardly more than floating debris; but several times I beheld rich thalamegii with bow and stern lamps to show off their gilding. These kept to the center of the channel for fear of attack, yet I could hear the song of their sweepsmen across the water:"
+  },
+  {
+    "id": "rubaiyat-awake",
+    "term": "Awake! for Morning",
+    "aliases": [],
+    "short": "The opening of FitzGerald’s Rubáiyát of Omar Khayyám.",
+    "note": "The opening of the first edition (1859) of Edward FitzGerald’s English Rubáiyát of Omar Khayyám. Its first quatrain pictures dawn scattering the stars and lighting a distant tower.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://en.wikisource.org/wiki/The_Rubaiyat_of_Omar_Khayyam_(tr._Fitzgerald,_1st_edition)/The_Rubaiyat_of_Omar_Khayyam",
+        "label": "Edward FitzGerald: Rubáiyát, first edition, stanza I"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "urth-50",
+        "paragraph": "p-106",
+        "context": "His wife sang, “Awake! for Morning in the Bowl of Night, Has flung the Stone that puts the Stars to. Flight.”"
+      }
+    ]
+  },
+  {
+    "id": "dante-gate-of-hell",
+    "term": "No hope for those who enter here",
+    "aliases": [],
+    "short": "Echoes the warning over Dante’s gate of Hell.",
+    "note": "A paraphrase of the final line of the inscription over the gate of Hell in Dante’s Inferno, canto III. The inscription tells those entering to abandon all hope.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/1001/1001-h/1001-h.htm",
+        "label": "Dante: Inferno, canto III, translated by Longfellow"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "urth-23",
+        "paragraph": "p-013",
+        "context": "Gunnie looked up at the lintel and, as though she read the words there, recited, “No hope for those who enter here.”"
+      }
+    ]
   }
 ]

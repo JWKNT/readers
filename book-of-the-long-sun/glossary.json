@@ -7565,13 +7565,21 @@
     "aliases": [
       "gammadions"
     ],
-    "short": "A cross formed from four Greek capital gammas.",
-    "note": "A cross-shaped design made from four capital Greek gamma shapes. These may form a swastika or the outline of a hollow Greek cross.",
+    "short": "A cross formed from four Greek gammas; also a gamma-shaped ornament.",
+    "note": "A cross-shaped design made from four capital Greek gamma shapes, forming a swastika or the outline of a hollow Greek cross. The word can also name a single gamma-shaped ornament, especially one on a church vestment.",
     "possible": false,
     "sources": [
       {
         "url": "https://www.merriam-webster.com/dictionary/gammadion",
         "label": "Merriam-Webster: gammadion"
+      },
+      {
+        "url": "https://www.wordnik.com/words/gammadion",
+        "label": "The Century Dictionary, via Wordnik: gammadion"
+      },
+      {
+        "url": "https://www.clevelandart.org/art/1973.21",
+        "label": "Cleveland Museum of Art: gamma-shaped tunic ornament"
       }
     ],
     "occurrences": 24,

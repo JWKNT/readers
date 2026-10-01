@@ -1711,28 +1711,65 @@
   {
     "id": "adams-dream",
     "term": "Adam’s dream",
-    "aliases": [],
-    "short": "Adam’s dream of reality in Milton’s Paradise Lost.",
-    "note": "In book VIII of Paradise Lost, Adam describes waking to discover that what he dreamed exists. Keats compares imagination to this experience in his letter to Benjamin Bailey of 22 November 1817.",
+    "aliases": [
+      "I am certain of nothing"
+    ],
+    "short": "Keats’s letter to Bailey on imagination, beauty, and truth.",
+    "note": "Keats’s letter to Benjamin Bailey of 22 November 1817 connects beauty with the truth of imagination. It contains both the statement beginning “I am certain of nothing” and the comparison of imagination to Adam’s dream. The latter refers to Paradise Lost, book VIII, where Adam wakes to find the woman he has seen in his dream.",
     "possible": false,
     "sources": [
       {
-        "url": "https://cowperandnewtonmuseum.org.uk/bulletin/recalling-adams-dream-a-note-on-keats-and-cowper/",
-        "label": "Cowper & Newton Museum: Keats and Adam’s dream"
+        "url": "https://www.gutenberg.org/files/35698/35698-h/35698-h.htm#XXII",
+        "label": "John Keats: letter to Benjamin Bailey, 22 November 1817"
+      },
+      {
+        "url": "https://www.gutenberg.org/files/20/20-h/20-h.htm",
+        "label": "John Milton: Paradise Lost, book VIII"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-03",
+        "paragraph": "p-084",
+        "context": "The poet John Keats once wrote to a friend of his named Bailey: “I am certain of nothing but the holiness of the Heart’s affection and the truth of Imagination—What the imagination seizes as Beauty must be truth—whether it existed before or not.”"
+      },
+      {
+        "chapter": "fall-epigraph",
+        "paragraph": "p-005",
+        "context": "“The Imagination may be compared to Adam’s dream—he awoke and found it truth.”"
       }
     ]
   },
   {
     "id": "keats-superior-beings",
     "term": "May there not be superior beings",
-    "aliases": [],
+    "aliases": [
+      "Though a quarrel in the street"
+    ],
     "short": "From Keats’s letter of 19 March 1819.",
-    "note": "In a journal-letter to George and Georgiana Keats, the poet compares human purposes with animal instinct. He wonders whether higher beings might appreciate human thought as humans appreciate an animal’s alertness.",
+    "note": "In his journal-letter to George and Georgiana Keats, in the entry for 19 March 1819, Keats compares human purposes with animal instinct. He imagines higher beings appreciating human thought as humans appreciate an animal’s alertness, and distinguishes the energy of a street quarrel from its objectionable nature.",
     "possible": false,
     "sources": [
       {
-        "url": "https://www.gutenberg.org/cache/epub/35698/pg35698-images.html",
-        "label": "John Keats: Letters to His Family and Friends"
+        "url": "https://www.gutenberg.org/files/35698/35698-h/35698-h.htm#Page_237",
+        "label": "John Keats: journal-letter to George and Georgiana Keats, 19 March 1819"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-788",
+        "context": "“May there not be superior beings amused with any graceful, though instinctive attitude my mind may fall into, as I am entertained with the alertness of a Stoat or the anxiety of a Deer? Though a quarrel in the streets is a thing to be hated, the energies displayed in it are fine. By a superior being our reasonings may take the same tone—though erroneous they may be fine—This is the very thing in which consists poetry.”"
+      },
+      {
+        "chapter": "hyperion-05",
+        "paragraph": "p-867",
+        "context": "“ ‘Though a quarrel in the street is a thing to be hated, the energies displayed in it are fine,’ ” I quoted. “They weren’t cybrids, were they?”"
+      },
+      {
+        "chapter": "fall-epigraph",
+        "paragraph": "p-003",
+        "context": "“… May there not be superior beings amused with any graceful, though instinctive attitude my mind may fall into, as I am entertained with the alertness of a Stoat or the anxiety of a Deer? Though a quarrel in the streets is a thing to be hated, the energies displayed in it are fine … By a superior being our reasonings may take the same tone—though erroneous they may be fine— This is the very thing in which consists poetry …”"
       }
     ]
   },
@@ -3591,5 +3628,41 @@
       }
     ],
     "evidence": "fall-39/p-004: , miraculously cured, the “real” Severn and Dr. Clark and even little Signora Angeletti hovering in the outer room. That period of convalescence from death; that period of realization that I was not Keats, was not on "
+  },
+  {
+    "id": "keats-five-feet-high",
+    "term": "five feet high",
+    "aliases": [],
+    "short": "Keats’s self-description in a July 1818 letter.",
+    "note": "Keats describes himself as “Mister John Keats five feet high” in his July 1818 letter to Benjamin Bailey, written during his walking tour of Scotland. The phrase belongs to the prose letter.",
+    "possible": false,
+    "sources": [
+      {
+        "url": "https://www.gutenberg.org/files/35698/35698-h/35698-h.htm#LXII",
+        "label": "John Keats: letter to Benjamin Bailey, July 18–22, 1818"
+      }
+    ],
+    "evidence": [
+      {
+        "chapter": "fall-01",
+        "paragraph": "p-028",
+        "context": "“Goddamn right it’s necessary.” Diana Philomel had opened her mouth, but it was her husband who answered. He had come up from behind and now took a seat on the faux log where we dined. He was a big man, at least a foot and a half taller than I. But then, I am short. My memory tells me that I once wrote a verse ridiculing myself as “… Mr. John Keats, five feet high,” although I am five feet one, slightly short when Napoleon and Wellington were alive and the average height for men was five feet six, ridiculously short now that men from average-g worlds range from six feet tall to almost seven. I obviously did not have the musculature or frame to claim I had come from a high-g world, so to all eyes I was merely short. (I report my thoughts above in the units in which I think … of all the mental changes since my rebirth into the Web, thinking in metric is by far the hardest. Sometimes I refuse to try.)"
+      },
+      {
+        "chapter": "fall-32",
+        "paragraph": "p-189",
+        "context": "I realized that all of the books in all of the alcoves were works of “Mister John Keats, five feet high,” as I had once written—John Keats, the consumptive poet who had asked only that his tomb be nameless except for the inscription:"
+      },
+      {
+        "chapter": "fall-43",
+        "paragraph": "p-019",
+        "context": "Keats’s eyes fluttered open. They were hazel and far too bright. “Ummon and the others are trying to make me escape myself through accepting the godhood, Hunt. Bait to catch the white whale, honey to catch the ultimate fly. Fleeing Empathy shall find its home in me … in me, Mister John Keats, five feet high … and then the reconciliation begins, right?”"
+      },
+      {
+        "chapter": "fall-44",
+        "paragraph": "p-003",
+        "context": "Mister John Keats, five feet high."
+      }
+    ]
   }
 ]

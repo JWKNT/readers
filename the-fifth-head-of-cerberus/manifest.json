@@ -18,9 +18,9 @@
   ],
   "totalWords": 78078,
   "defaultChapter": "fifth-head",
-  "glossaryCount": 128,
+  "glossaryCount": 129,
   "correctionCount": 1,
-  "editionVersion": 18,
+  "editionVersion": 20,
   "chapters": [
     {
       "id": "fifth-head",
@@ -603,6 +603,10 @@
         {
           "term": "nephrite",
           "paragraph": "p-127"
+        },
+        {
+          "term": "euripides-cerberus-quotation",
+          "paragraph": "p-136"
         },
         {
           "term": "cerberus",
@@ -2666,5 +2670,5 @@
       "startWords": 78078
     }
   ],
-  "editorialCorrectionCount": 84
+  "editorialCorrectionCount": 85
 }

@@ -1,0 +1,2325 @@
+{
+  "schema": 1,
+  "date": "2026-10-01",
+  "baseline": "0451fc5f0c72d65f43f38f6210307465e0f5ee1e",
+  "title": "Three targeted reader audits",
+  "summary": {
+    "catalogReaders": 79,
+    "newEditorialLedgerRows": 3,
+    "newAnnotations": 5,
+    "revisedAnnotations": 5,
+    "removedEntries": 0,
+    "removedMatches": 0,
+    "finalGlossaryEntries": 3875,
+    "finalAnnotationSpans": 55001,
+    "newOfficialExcerptCollations": 7,
+    "novelSourceBackedRepairs": 0,
+    "localMechanicalRepairs": 3
+  },
+  "passes": [
+    {
+      "id": 1,
+      "focus": "unresolved readings and fresh witness-quality collation",
+      "methods": [
+        "New all-corpus near-adjacent long-phrase repetition screen: case-normalized word sequences of at least five tokens, zero through eight intervening words. Candidate windows reviewed; no automatic text changes.",
+        "Seven additional lawful official publisher excerpts, not the seven previously collated, compared lexically and with punctuation-aware token alignment; quotation-mark and dash glyph styles normalized only for comparison.",
+        "Targeted exact-paragraph mechanical review of two parent-discovered cases and one collateral discovery."
+      ],
+      "scope": {
+        "mechanical": {
+          "readers": 79,
+          "chapterReferenceFiles": 618,
+          "manifestDataBlockElements": 77577,
+          "blockTagInventory": {
+            "p": 77203,
+            "span": 352,
+            "h2": 19,
+            "table": 2,
+            "h3": 1
+          },
+          "candidateMatches": 279,
+          "candidateParagraphs": 242
+        },
+        "collation": {
+          "newOfficialExcerpts": 7,
+          "correspondingBlocks": 936,
+          "localLexicalTokens": 31850,
+          "lexicalDifferenceOperations": 40,
+          "punctuationInclusiveDifferenceOperations": 86,
+          "sourceBackedAcceptedNovelRepairs": 0
+        }
+      },
+      "publisherExcerpts": [
+        {
+          "name": "green",
+          "reader": "book-of-the-short-sun",
+          "url": "https://us.macmillan.com/books/9781429915489/ingreensjungles/",
+          "openedDate": "2026-10-01",
+          "first": "green-01/p-001",
+          "last": "green-01/p-251",
+          "blocks": 251,
+          "localLexicalTokens": 6905,
+          "witnessLexicalTokens": 6905,
+          "lexicalDifferenceOperations": 0,
+          "punctuationInclusiveDifferenceOperations": 6,
+          "acceptedEdits": 0,
+          "outcome": "Complete opening chapter. Exact normalized lexical agreement. Six punctuation differences are publisher asterism representations at existing section boundaries; no prose repair."
+        },
+        {
+          "name": "bluesberry",
+          "reader": "bluesberry-jam",
+          "url": "https://us.macmillan.com/books/9780312872786/strangetravelers/",
+          "openedDate": "2026-10-01",
+          "first": "story/p-001",
+          "last": "story/p-348",
+          "blocks": 348,
+          "localLexicalTokens": 8655,
+          "witnessLexicalTokens": 8654,
+          "lexicalDifferenceOperations": 7,
+          "punctuationInclusiveDifferenceOperations": 18,
+          "acceptedEdits": 0,
+          "outcome": "Complete story. All seven lexical differences are defective or unsupported publisher readings. For example, the publisher changes the character name Aldo to Also and the singing verb sings to signs. Other punctuation differences concern asterisms, typography, quotation or name-apostrophe variations and a defective attribution stop; retain local text."
+        },
+        {
+          "name": "urth",
+          "reader": "book-of-the-new-sun",
+          "url": "https://us.macmillan.com/books/9780312863944/theurthofthenewsun/",
+          "openedDate": "2026-10-01",
+          "first": "urth-01/p-001",
+          "last": "urth-01/p-040",
+          "blocks": 40,
+          "localLexicalTokens": 2744,
+          "witnessLexicalTokens": 2739,
+          "lexicalDifferenceOperations": 5,
+          "punctuationInclusiveDifferenceOperations": 5,
+          "acceptedEdits": 0,
+          "outcome": "Complete opening chapter. The only five differences are publisher word-joining defects. Local text is retained."
+        },
+        {
+          "name": "three",
+          "reader": "remembrance-of-earths-past",
+          "url": "https://us.macmillan.com/books/9781250370600/thethreebodyproblem/",
+          "openedDate": "2026-10-01",
+          "first": "three-body-problem-section-06/p-001",
+          "last": "three-body-problem-section-06/p-085",
+          "blocks": 85,
+          "localLexicalTokens": 4383,
+          "witnessLexicalTokens": 4383,
+          "lexicalDifferenceOperations": 0,
+          "punctuationInclusiveDifferenceOperations": 7,
+          "acceptedEdits": 0,
+          "outcome": "Complete first narrative chapter, including its date heading. Lexical agreement; seven punctuation differences are ellipsis representations. Original footnote routes and formatting are outside the text comparison."
+        },
+        {
+          "name": "hyperion",
+          "reader": "hyperion",
+          "url": "https://penguinrandomhouselibrary.com/book/?isbn=9780307781888",
+          "openedDate": "2026-10-01",
+          "first": "hyperion-prologue/p-001",
+          "last": "hyperion-prologue/p-031",
+          "blocks": 31,
+          "localLexicalTokens": 1834,
+          "witnessLexicalTokens": 1833,
+          "lexicalDifferenceOperations": 22,
+          "punctuationInclusiveDifferenceOperations": 35,
+          "acceptedEdits": 0,
+          "outcome": "Complete prologue. The publisher HTML is heavily corrupted: 22 lexical and 35 punctuation-inclusive difference operations. These include misread letters and numerals, word joins, and broken names. No publisher reading overrides the cleaner local text."
+        },
+        {
+          "name": "fall",
+          "reader": "hyperion",
+          "url": "https://penguinrandomhouselibrary.com/book/?isbn=9780553288209",
+          "openedDate": "2026-10-01",
+          "first": "fall-01/p-001",
+          "last": "fall-01/p-034",
+          "blocks": 34,
+          "localLexicalTokens": 1522,
+          "witnessLexicalTokens": 1522,
+          "lexicalDifferenceOperations": 0,
+          "punctuationInclusiveDifferenceOperations": 0,
+          "acceptedEdits": 0,
+          "outcome": "Opening chapter paragraphs 1–34 only. Exact normalized lexical and punctuation agreement. The remaining 22 paragraphs are outside this official excerpt."
+        },
+        {
+          "name": "dark",
+          "reader": "remembrance-of-earths-past",
+          "url": "https://us.macmillan.com/books/9780765377081/thedarkforest/",
+          "openedDate": "2026-10-01",
+          "first": "dark-forest-section-08/p-002",
+          "last": "dark-forest-section-08/p-148",
+          "blocks": 147,
+          "localLexicalTokens": 5807,
+          "witnessLexicalTokens": 5803,
+          "lexicalDifferenceOperations": 6,
+          "punctuationInclusiveDifferenceOperations": 15,
+          "acceptedEdits": 0,
+          "outcome": "Bounded opening excerpt through dark-forest-section-08/p-148, excluding the date/distance header p-001. The six lexical operations concern two publisher word joins and four original-footnote-number presentations. Punctuation differences are separator, dash, marker and numbering presentations. Later retrieved excerpt text was not collated."
+        }
+      ],
+      "acceptedRepairs": [
+        {
+          "book": "the-fifth-head-of-cerberus",
+          "chapter": "a-story",
+          "paragraph": "p-104",
+          "before": "After that lie only sang",
+          "after": "After that he only sang",
+          "reason": "The immediately preceding two sentences explicitly name Sandwalker and refer to him as he; the verb sang requires the continuing singular subject. The OCR-like lie is neither a grammatical subject nor a meaningful verb in this sentence. Replace only the corrupted pronoun.",
+          "confidence": "high-local-structural",
+          "id": "v20-context-001",
+          "verificationBasis": "individually unambiguous local grammar",
+          "evidence": {
+            "source": "Current HTML a-story/p-103 through p-105; supplied by parent and independently reread",
+            "externalWitness": false
+          }
+        },
+        {
+          "book": "book-of-the-new-sun",
+          "chapter": "urth-50",
+          "paragraph": "p-106",
+          "before": "puts the Stars to. Flight",
+          "after": "puts the Stars to Flight",
+          "reason": "A stray full stop splits the preposition to from its object Flight within the quoted line. First-edition FitzGerald confirms the unbroken phrase. Leave the novel’s comma after Night and period after Flight unchanged; this does not normalize every detail to the poem.",
+          "confidence": "high-local-structural",
+          "id": "v20-context-002",
+          "verificationBasis": "unambiguous local punctuation, corroborated by the quoted primary poem",
+          "evidence": {
+            "url": "https://en.wikisource.org/wiki/The_Rubaiyat_of_Omar_Khayyam_(tr._Fitzgerald,_1st_edition)/The_Rubaiyat_of_Omar_Khayyam",
+            "openedDate": "2026-10-01",
+            "location": "Stanza I, second line; opened web-rendered lines 111–115",
+            "excerpt": "Has flung the Stone that puts the Stars to Flight:",
+            "limitation": "This is a witness to FitzGerald’s original quoted line, not an independently collated edition of The Urth of the New Sun."
+          }
+        },
+        {
+          "book": "book-of-the-short-sun",
+          "chapter": "blue-08",
+          "paragraph": "p-015",
+          "before": "Babbie and I and going",
+          "after": "Babbie and I are going",
+          "reason": "Babbie and I forms a complete plural subject followed by going back to your boat. The second and leaves the clause without a finite verb and does not coordinate any second constituent. Replacing that second and with are supplies the uniquely natural auxiliary while retaining the compound subject. Surrounding Seawrack dialogue is fluent and gives no marked dialect pattern of and as a finite auxiliary.",
+          "confidence": "high-local-structural",
+          "id": "v20-context-003",
+          "verificationBasis": "individually unambiguous local grammar",
+          "evidence": {
+            "source": "Current HTML blue-08/p-014 through p-017; collateral discovery during fresh long-phrase repetition review",
+            "externalWitness": false
+          }
+        }
+      ],
+      "priorDeferrals": {
+        "formal33": "Preserved; no newly accepted exact witness",
+        "ambiguousNewSun80": "Preserved; no proposed delimiter changes"
+      },
+      "additionalDeferral": {
+        "reader": "book-of-the-new-sun",
+        "chapter": "shadow-06",
+        "paragraph": "p-071",
+        "fragment": "and by its further will we would furnish to the Chatelaine Thecla",
+        "finding": "This twelve-word clause is repeated immediately. It is suspicious, but this pass has no accepted independent edition witness for deletion; do not remove it on the repetition scan alone."
+      },
+      "sourceAccessLimits": [
+        "Google Books supplied bibliographic metadata for Shadow & Claw, but both linked preview attempts returned cache-miss errors; no protected-page bypass or unofficial book mirror was used as correction authority.",
+        "A direct shell fetch of the Green publisher page returned HTTP 403; the already available public web-tool rendering supplied the official excerpt.",
+        "No original EPUB, complete authorized edition or new source scan was available.",
+        "Official publisher provenance is not a guarantee of clean excerpt text. All discrepant tokens were inspected before deciding against copying them."
+      ]
+    },
+    {
+      "id": 2,
+      "focus": "annotation edge cases and actual later senses",
+      "scope": {
+        "baseline": "0451fc5f0c72d65f43f38f6210307465e0f5ee1e",
+        "date": "2026-10-01",
+        "readersInventoried": 79,
+        "chapterFilesInventoried": 618,
+        "entriesInventoried": 3870,
+        "renderedSpansInventoried": 54990,
+        "namedAliasRiskEntriesScreened": 119,
+        "namedAliasLowCountEntries": 113,
+        "namedAliasLowCountSpansInExcerptReview": 903,
+        "highCountAliasTreatment": "Six entries with more than 70 spans: inspect nonidentical rendered aliases, not every same-name repetition.",
+        "newSelectedRepeatEntries": 36,
+        "newSelectedRepeatSpans": 425,
+        "priorRepeatEntriesExcludedFromNewRepeatSet": 91,
+        "strongClaimPatternEntriesScreened": 118,
+        "scienceClaimPatternEntriesScreened": 110,
+        "uniqueClaimPatternEntriesScreened": 219,
+        "titleSpansChecked": 15,
+        "proposedEntryUpdates": 1,
+        "proposedNewEntries": 0,
+        "proposedEntryRemovals": 0,
+        "proposedAnchorExclusions": 0,
+        "fullParagraphsReadForEveryInventorySpan": false,
+        "allSourcesRecertified": false
+      },
+      "acceptedChanges": [
+        {
+          "reader": "book-of-the-long-sun",
+          "id": "gammadion",
+          "action": "update",
+          "reason": "The current cross-only definition fits the first pendant reference but not the later uses for the separate gamma-shaped pieces. Two independently described external senses are required; this is not a fictional explanation or a conjectural alias removal.",
+          "before": {
+            "id": "gammadion",
+            "term": "gammadion",
+            "aliases": [
+              "gammadions"
+            ],
+            "short": "A cross formed from four Greek capital gammas.",
+            "note": "A cross-shaped design made from four capital Greek gamma shapes. These may form a swastika or the outline of a hollow Greek cross.",
+            "possible": false,
+            "sources": [
+              {
+                "url": "https://www.merriam-webster.com/dictionary/gammadion",
+                "label": "Merriam-Webster: gammadion"
+              }
+            ],
+            "evidence": "nightside-07/p-058: zed his bedroom, over the kitchen in the manse. \"Pas's gammadion. That's steel, of course, but the chain's silver and should be worth something. I also have an old "
+          },
+          "after": {
+            "id": "gammadion",
+            "term": "gammadion",
+            "aliases": [
+              "gammadions"
+            ],
+            "short": "A cross formed from four Greek gammas; also a gamma-shaped ornament.",
+            "note": "A cross-shaped design made from four capital Greek gamma shapes, forming a swastika or the outline of a hollow Greek cross. The word can also name a single gamma-shaped ornament, especially one on a church vestment.",
+            "possible": false,
+            "sources": [
+              {
+                "url": "https://www.merriam-webster.com/dictionary/gammadion",
+                "label": "Merriam-Webster: gammadion"
+              },
+              {
+                "url": "https://www.wordnik.com/words/gammadion",
+                "label": "The Century Dictionary, via Wordnik: gammadion"
+              },
+              {
+                "url": "https://www.clevelandart.org/art/1973.21",
+                "label": "Cleveland Museum of Art: gamma-shaped tunic ornament"
+              }
+            ],
+            "evidence": "nightside-07/p-058: zed his bedroom, over the kitchen in the manse. \"Pas's gammadion. That's steel, of course, but the chain's silver and should be worth something. I also have an old "
+          }
+        }
+      ],
+      "negativeFindings": [
+        {
+          "reader": "hyperion",
+          "id": "balusters",
+          "decision": "retain",
+          "reason": "Withdrawn proposed correction. The existing Dictionary.com entry explicitly licenses the plural balusters as a balustrade. Its singular support sense is also already stated in the full note and is appropriate to the grabbed baluster at fall-38/p-122. The two-part note is defensible; do not replace it merely because Merriam-Webster foregrounds the individual support.",
+          "opened_sources": [
+            "https://www.dictionary.com/browse/baluster",
+            "https://www.merriam-webster.com/dictionary/baluster",
+            "https://www.merriam-webster.com/dictionary/balustrade"
+          ],
+          "reviewedContextCount": 2,
+          "locations": [
+            "fall-36/p-108",
+            "fall-38/p-122"
+          ]
+        },
+        {
+          "reader": "the-death-of-koshchei-the-deathless",
+          "id": "blue-funk",
+          "decision": "retain",
+          "reason": "Actual full paragraph describes years of grief after deaths and family separation. Opened Cambridge discussion explicitly supports the melancholy sense of blue funk. Do not force a fear-only meaning.",
+          "opened_sources": [
+            "https://dictionaryblog.cambridge.org/2011/10/10/blue-talk/"
+          ],
+          "reviewedContextCount": 1,
+          "locations": [
+            "story/p-013"
+          ]
+        },
+        {
+          "reader": "hyperion",
+          "id": "olympus-mons",
+          "decision": "retain",
+          "reason": "A possible elevation-reference objection was not established as a mandatory correction. NASA APOD itself uses approximately 21 km above the surrounding plain, while other official summaries use different reference surfaces/heights. Existing wording is approximate; no precise substitute or changed fictional measurement is justified in this pass.",
+          "opened_sources": [
+            "https://science.nasa.gov/image-article/apod-2004-may-26-at-the-summit-of-olympus-mons/"
+          ],
+          "reviewedContextCount": 6,
+          "locations": [
+            "hyperion-02/p-237",
+            "hyperion-05/p-640",
+            "fall-15/p-007",
+            "fall-18/p-051",
+            "fall-38/p-057",
+            "fall-42/p-086"
+          ]
+        },
+        {
+          "reader": "hyperion",
+          "id": "schwarzschild-radius",
+          "decision": "retain",
+          "reason": "Full note already includes both uncharged and nonrotating qualifications and the correct formula. Brief omission of charge is a compression of the fuller definition, not a demonstrated contextual false match. No change proposed.",
+          "opened_sources": [],
+          "reviewedContextCount": 1,
+          "locations": [
+            "hyperion-06/p-456"
+          ]
+        },
+        {
+          "reader": "book-of-the-long-sun",
+          "id": "cant",
+          "decision": "retain",
+          "reason": "All five rendered matches mean specialized speech. No geometrical tilt sense has been attached.",
+          "opened_sources": [],
+          "reviewedContextCount": 5,
+          "locations": [
+            "nightside-02/p-056",
+            "nightside-04/p-078",
+            "lake-04/p-069",
+            "exodus-06/p-341"
+          ]
+        },
+        {
+          "reader": "book-of-the-long-sun",
+          "id": "hanger",
+          "decision": "retain",
+          "reason": "All 31 rendered occurrences in the selected repeat screen refer to the weapon. No clothes-hanger match was found.",
+          "opened_sources": [],
+          "reviewedContextCount": 31,
+          "locations": [
+            "nightside-03/p-055",
+            "nightside-04/p-074",
+            "nightside-13/p-087",
+            "lake-01/p-043",
+            "lake-05/p-177",
+            "lake-07/p-034",
+            "lake-07/p-036",
+            "lake-13/p-054",
+            "calde-01/p-167",
+            "calde-02/p-236",
+            "calde-03/p-152",
+            "calde-03/p-286",
+            "calde-03/p-311",
+            "calde-03/p-339",
+            "calde-03/p-396",
+            "calde-03/p-405",
+            "calde-03/p-406",
+            "calde-03/p-462",
+            "calde-03/p-508",
+            "calde-05/p-265",
+            "calde-06/p-153",
+            "calde-08/p-059",
+            "calde-08/p-078",
+            "calde-09/p-117",
+            "calde-09/p-119",
+            "exodus-03/p-064",
+            "exodus-12/p-040"
+          ]
+        },
+        {
+          "reader": "book-of-the-long-sun",
+          "id": "cull",
+          "decision": "retain",
+          "reason": "All 67 rendered occurrences in the selected repeat screen denote a person or people in cant. The animal-culls phrase refers to animal sellers, with the next sentence explicitly quoting the man. No selective-killing sense should be imposed.",
+          "opened_sources": [],
+          "reviewedContextCount": 67,
+          "locations": [
+            "nightside-01/p-090",
+            "nightside-01/p-152",
+            "nightside-02/p-056",
+            "nightside-10/p-076",
+            "nightside-10/p-154",
+            "nightside-11/p-085",
+            "nightside-13/p-049",
+            "nightside-13/p-051",
+            "lake-03/p-187",
+            "lake-05/p-131",
+            "lake-05/p-151",
+            "lake-05/p-172",
+            "lake-05/p-220",
+            "lake-05/p-229",
+            "lake-10/p-018",
+            "lake-10/p-034",
+            "calde-03/p-306",
+            "calde-03/p-342",
+            "calde-03/p-349",
+            "calde-03/p-354",
+            "calde-03/p-359",
+            "calde-03/p-384",
+            "calde-03/p-385",
+            "calde-03/p-397",
+            "calde-03/p-453",
+            "calde-03/p-465",
+            "calde-03/p-504",
+            "calde-05/p-226",
+            "calde-06/p-147",
+            "calde-06/p-270",
+            "calde-07/p-087",
+            "calde-09/p-110",
+            "exodus-02/p-082",
+            "exodus-02/p-102",
+            "exodus-03/p-027",
+            "exodus-03/p-032",
+            "exodus-03/p-059",
+            "exodus-06/p-124",
+            "exodus-06/p-178",
+            "exodus-06/p-184",
+            "exodus-06/p-209",
+            "exodus-06/p-275",
+            "exodus-06/p-279",
+            "exodus-06/p-283",
+            "exodus-06/p-298",
+            "exodus-06/p-304",
+            "exodus-06/p-306",
+            "exodus-06/p-360",
+            "exodus-06/p-385",
+            "exodus-08/p-111",
+            "exodus-08/p-178",
+            "exodus-08/p-258",
+            "exodus-08/p-280",
+            "exodus-08/p-290",
+            "exodus-09/p-021",
+            "exodus-09/p-038",
+            "exodus-09/p-095",
+            "exodus-11/p-255",
+            "exodus-12/p-194",
+            "exodus-12/p-196",
+            "exodus-12/p-200",
+            "exodus-12/p-204",
+            "exodus-12/p-381",
+            "exodus-15/p-048"
+          ]
+        },
+        {
+          "reader": "book-of-the-short-sun",
+          "id": "gaff",
+          "decision": "retain",
+          "reason": "All four rendered matches concern the sailing spar or rig. No fishing-hook or slang sense requires expansion.",
+          "opened_sources": [],
+          "reviewedContextCount": 4,
+          "locations": [
+            "blue-07/p-120",
+            "blue-10/p-017",
+            "return-13/p-203",
+            "return-15/p-003"
+          ]
+        },
+        {
+          "reader": "book-of-the-short-sun",
+          "id": "sorrel",
+          "decision": "retain",
+          "reason": "All six matches describe reddish-brown hair or a wig; no botanical sense should be imported.",
+          "opened_sources": [],
+          "reviewedContextCount": 6,
+          "locations": [
+            "green-21/p-046",
+            "green-23/p-009",
+            "green-24/p-201",
+            "green-25/p-056",
+            "return-03/p-036",
+            "return-09/p-147"
+          ]
+        },
+        {
+          "reader": "hyperion",
+          "id": "fanny-brawne",
+          "decision": "retain",
+          "reason": "All 17 Fanny alias excerpts refer to the historical beloved or reconstructed/remembered persona. No ordinary anatomical euphemism match. Keep the existing qualified namesake wording; no fictional biography added.",
+          "opened_sources": [],
+          "reviewedContextCount": 527,
+          "locations": [
+            "hyperion-01/p-029",
+            "hyperion-01/p-030",
+            "hyperion-01/p-031",
+            "hyperion-01/p-036",
+            "hyperion-01/p-041",
+            "hyperion-01/p-057",
+            "hyperion-01/p-063",
+            "hyperion-01/p-069",
+            "hyperion-01/p-074",
+            "hyperion-01/p-078",
+            "hyperion-01/p-087",
+            "hyperion-01/p-100",
+            "hyperion-01/p-105",
+            "hyperion-01/p-120",
+            "hyperion-01/p-138",
+            "hyperion-01/p-752",
+            "hyperion-02/p-010",
+            "hyperion-02/p-082",
+            "hyperion-02/p-113",
+            "hyperion-02/p-126",
+            "hyperion-02/p-152",
+            "hyperion-02/p-157",
+            "hyperion-02/p-164",
+            "hyperion-02/p-170",
+            "hyperion-02/p-509",
+            "hyperion-02/p-525",
+            "hyperion-03/p-005",
+            "hyperion-03/p-017",
+            "hyperion-04/p-007",
+            "hyperion-04/p-010",
+            "hyperion-04/p-036",
+            "hyperion-04/p-038",
+            "hyperion-04/p-046",
+            "hyperion-04/p-055",
+            "hyperion-04/p-081",
+            "hyperion-04/p-136",
+            "hyperion-04/p-148",
+            "hyperion-04/p-154",
+            "hyperion-04/p-800",
+            "hyperion-04/p-831",
+            "hyperion-05/p-002",
+            "hyperion-05/p-006",
+            "hyperion-05/p-015",
+            "hyperion-05/p-019",
+            "hyperion-05/p-038",
+            "hyperion-05/p-045",
+            "hyperion-05/p-054",
+            "hyperion-05/p-065",
+            "hyperion-05/p-068",
+            "hyperion-05/p-092",
+            "hyperion-05/p-094",
+            "hyperion-05/p-099",
+            "hyperion-05/p-115",
+            "hyperion-05/p-147",
+            "hyperion-05/p-153",
+            "hyperion-05/p-156",
+            "hyperion-05/p-175",
+            "hyperion-05/p-178",
+            "hyperion-05/p-180",
+            "hyperion-05/p-183",
+            "hyperion-05/p-190",
+            "hyperion-05/p-399",
+            "hyperion-05/p-405",
+            "hyperion-05/p-417",
+            "hyperion-05/p-425",
+            "hyperion-05/p-433",
+            "hyperion-05/p-462",
+            "hyperion-05/p-463",
+            "hyperion-05/p-474",
+            "hyperion-05/p-697",
+            "hyperion-05/p-750",
+            "hyperion-05/p-752",
+            "hyperion-05/p-753",
+            "hyperion-05/p-784",
+            "hyperion-05/p-786",
+            "hyperion-05/p-810",
+            "hyperion-05/p-814",
+            "hyperion-05/p-939",
+            "hyperion-05/p-956",
+            "hyperion-05/p-988",
+            "hyperion-05/p-990",
+            "hyperion-05/p-999",
+            "hyperion-05/p-1001",
+            "hyperion-05/p-1003",
+            "hyperion-05/p-1007",
+            "hyperion-05/p-1009",
+            "hyperion-05/p-1011",
+            "hyperion-05/p-1013",
+            "hyperion-05/p-1017",
+            "hyperion-05/p-1021",
+            "hyperion-05/p-1027",
+            "hyperion-05/p-1029",
+            "hyperion-05/p-1031",
+            "hyperion-05/p-1041",
+            "hyperion-05/p-1049",
+            "hyperion-05/p-1051",
+            "hyperion-05/p-1053",
+            "hyperion-05/p-1065",
+            "hyperion-05/p-1067",
+            "hyperion-05/p-1069",
+            "hyperion-05/p-1120",
+            "hyperion-05/p-1136",
+            "hyperion-05/p-1138",
+            "hyperion-05/p-1140",
+            "hyperion-05/p-1162",
+            "hyperion-05/p-1176",
+            "hyperion-05/p-1179",
+            "hyperion-05/p-1188",
+            "hyperion-05/p-1202",
+            "hyperion-05/p-1204",
+            "hyperion-05/p-1227",
+            "hyperion-05/p-1245",
+            "hyperion-05/p-1288",
+            "hyperion-05/p-1291",
+            "hyperion-05/p-1298",
+            "hyperion-06/p-007",
+            "hyperion-06/p-011",
+            "hyperion-06/p-027",
+            "hyperion-06/p-039",
+            "hyperion-06/p-041",
+            "hyperion-06/p-051",
+            "hyperion-06/p-067",
+            "hyperion-06/p-070",
+            "hyperion-06/p-072",
+            "hyperion-06/p-077",
+            "hyperion-06/p-093",
+            "hyperion-06/p-103",
+            "hyperion-06/p-118",
+            "hyperion-06/p-126",
+            "hyperion-06/p-469",
+            "hyperion-06/p-541",
+            "hyperion-06/p-566",
+            "hyperion-06/p-576",
+            "hyperion-06/p-584",
+            "hyperion-06/p-595",
+            "hyperion-epilogue/p-005",
+            "hyperion-epilogue/p-010",
+            "hyperion-epilogue/p-017",
+            "hyperion-epilogue/p-021",
+            "hyperion-epilogue/p-029",
+            "hyperion-epilogue/p-037",
+            "hyperion-epilogue/p-039",
+            "hyperion-epilogue/p-044",
+            "hyperion-epilogue/p-046",
+            "hyperion-epilogue/p-048",
+            "fall-02/p-057",
+            "fall-02/p-078",
+            "fall-02/p-101",
+            "fall-03/p-002",
+            "fall-03/p-004",
+            "fall-03/p-016",
+            "fall-03/p-021",
+            "fall-03/p-023",
+            "fall-03/p-024",
+            "fall-03/p-032",
+            "fall-03/p-033",
+            "fall-03/p-038",
+            "fall-03/p-051",
+            "fall-03/p-059",
+            "fall-03/p-065",
+            "fall-03/p-066",
+            "fall-03/p-069",
+            "fall-03/p-071",
+            "fall-03/p-073",
+            "fall-03/p-080",
+            "fall-03/p-082",
+            "fall-03/p-087",
+            "fall-04/p-068",
+            "fall-05/p-001",
+            "fall-05/p-006",
+            "fall-05/p-022",
+            "fall-06/p-003",
+            "fall-08/p-001",
+            "fall-08/p-002",
+            "fall-08/p-005",
+            "fall-08/p-008",
+            "fall-08/p-029",
+            "fall-08/p-044",
+            "fall-08/p-049",
+            "fall-08/p-068",
+            "fall-08/p-072",
+            "fall-08/p-078",
+            "fall-08/p-081",
+            "fall-08/p-084",
+            "fall-08/p-090",
+            "fall-08/p-107",
+            "fall-08/p-109",
+            "fall-08/p-111",
+            "fall-08/p-112",
+            "fall-10/p-001",
+            "fall-10/p-003",
+            "fall-10/p-006",
+            "fall-10/p-008",
+            "fall-10/p-012",
+            "fall-10/p-015",
+            "fall-10/p-018",
+            "fall-15/p-068",
+            "fall-16/p-004",
+            "fall-16/p-013",
+            "fall-16/p-022",
+            "fall-16/p-026",
+            "fall-16/p-027",
+            "fall-16/p-034",
+            "fall-16/p-045",
+            "fall-16/p-054",
+            "fall-16/p-058",
+            "fall-16/p-061",
+            "fall-16/p-081",
+            "fall-16/p-085",
+            "fall-16/p-099",
+            "fall-18/p-024",
+            "fall-18/p-029",
+            "fall-19/p-001",
+            "fall-19/p-007",
+            "fall-19/p-023",
+            "fall-19/p-038",
+            "fall-19/p-054",
+            "fall-20/p-014",
+            "fall-20/p-037",
+            "fall-20/p-042",
+            "fall-21/p-016",
+            "fall-21/p-021",
+            "fall-22/p-007",
+            "fall-22/p-019",
+            "fall-22/p-023",
+            "fall-22/p-054",
+            "fall-25/p-003",
+            "fall-25/p-011",
+            "fall-25/p-015",
+            "fall-25/p-017",
+            "fall-25/p-018",
+            "fall-25/p-023",
+            "fall-25/p-024",
+            "fall-25/p-091",
+            "fall-25/p-095",
+            "fall-25/p-096",
+            "fall-25/p-112",
+            "fall-25/p-115",
+            "fall-25/p-117",
+            "fall-26/p-001",
+            "fall-26/p-014",
+            "fall-26/p-023",
+            "fall-26/p-031",
+            "fall-26/p-033",
+            "fall-26/p-041",
+            "fall-26/p-044",
+            "fall-26/p-045",
+            "fall-28/p-002",
+            "fall-28/p-024",
+            "fall-28/p-073",
+            "fall-28/p-074",
+            "fall-28/p-089",
+            "fall-29/p-002",
+            "fall-29/p-007",
+            "fall-29/p-032",
+            "fall-29/p-037",
+            "fall-29/p-054",
+            "fall-29/p-059",
+            "fall-29/p-064",
+            "fall-29/p-067",
+            "fall-29/p-098",
+            "fall-29/p-103",
+            "fall-29/p-109",
+            "fall-29/p-111",
+            "fall-29/p-118",
+            "fall-29/p-119",
+            "fall-31/p-035",
+            "fall-31/p-065",
+            "fall-32/p-114",
+            "fall-32/p-165",
+            "fall-32/p-175",
+            "fall-32/p-176",
+            "fall-33/p-001",
+            "fall-33/p-005",
+            "fall-33/p-006",
+            "fall-33/p-012",
+            "fall-33/p-013",
+            "fall-33/p-014",
+            "fall-33/p-015",
+            "fall-33/p-018",
+            "fall-33/p-019",
+            "fall-33/p-020",
+            "fall-33/p-021",
+            "fall-33/p-022",
+            "fall-33/p-025",
+            "fall-33/p-027",
+            "fall-33/p-028",
+            "fall-33/p-029",
+            "fall-33/p-031",
+            "fall-33/p-032",
+            "fall-33/p-039",
+            "fall-33/p-043",
+            "fall-33/p-046",
+            "fall-33/p-052",
+            "fall-33/p-066",
+            "fall-33/p-080",
+            "fall-33/p-083",
+            "fall-33/p-094",
+            "fall-33/p-096",
+            "fall-33/p-098",
+            "fall-33/p-488",
+            "fall-33/p-493",
+            "fall-33/p-497",
+            "fall-33/p-541",
+            "fall-33/p-542",
+            "fall-33/p-550",
+            "fall-33/p-555",
+            "fall-33/p-558",
+            "fall-33/p-560",
+            "fall-34/p-008",
+            "fall-34/p-082",
+            "fall-34/p-089",
+            "fall-34/p-176",
+            "fall-35/p-019",
+            "fall-35/p-114",
+            "fall-36/p-051",
+            "fall-36/p-053",
+            "fall-36/p-168",
+            "fall-36/p-169",
+            "fall-36/p-170",
+            "fall-37/p-021",
+            "fall-37/p-246",
+            "fall-38/p-056",
+            "fall-39/p-115",
+            "fall-39/p-124",
+            "fall-40/p-022",
+            "fall-40/p-031",
+            "fall-40/p-041",
+            "fall-40/p-057",
+            "fall-40/p-058",
+            "fall-40/p-060",
+            "fall-40/p-062",
+            "fall-40/p-066",
+            "fall-40/p-067",
+            "fall-40/p-068",
+            "fall-40/p-070",
+            "fall-40/p-072",
+            "fall-40/p-074",
+            "fall-40/p-076",
+            "fall-40/p-078",
+            "fall-40/p-080",
+            "fall-40/p-081",
+            "fall-40/p-083",
+            "fall-40/p-084",
+            "fall-40/p-085",
+            "fall-41/p-001",
+            "fall-41/p-002",
+            "fall-41/p-223",
+            "fall-41/p-258",
+            "fall-41/p-398",
+            "fall-42/p-040",
+            "fall-42/p-041",
+            "fall-42/p-042",
+            "fall-42/p-043",
+            "fall-42/p-045",
+            "fall-42/p-046",
+            "fall-42/p-047",
+            "fall-42/p-048",
+            "fall-42/p-050",
+            "fall-42/p-051",
+            "fall-42/p-052",
+            "fall-42/p-053",
+            "fall-42/p-054",
+            "fall-43/p-043",
+            "fall-43/p-045",
+            "fall-43/p-046",
+            "fall-43/p-047",
+            "fall-43/p-050",
+            "fall-43/p-052",
+            "fall-43/p-053",
+            "fall-43/p-054",
+            "fall-43/p-055",
+            "fall-43/p-056",
+            "fall-43/p-057",
+            "fall-43/p-058",
+            "fall-43/p-060",
+            "fall-43/p-062",
+            "fall-43/p-063",
+            "fall-43/p-064",
+            "fall-43/p-066",
+            "fall-43/p-070",
+            "fall-43/p-073",
+            "fall-43/p-075",
+            "fall-44/p-006",
+            "fall-45/p-002",
+            "fall-45/p-032",
+            "fall-45/p-081",
+            "fall-45/p-082",
+            "fall-45/p-084",
+            "fall-45/p-086",
+            "fall-45/p-087",
+            "fall-45/p-088",
+            "fall-45/p-089",
+            "fall-45/p-091",
+            "fall-45/p-093",
+            "fall-45/p-094",
+            "fall-45/p-095",
+            "fall-45/p-096",
+            "fall-45/p-098",
+            "fall-45/p-100",
+            "fall-45/p-101",
+            "fall-45/p-103",
+            "fall-45/p-105",
+            "fall-45/p-106",
+            "fall-45/p-107",
+            "fall-45/p-111",
+            "fall-45/p-113",
+            "fall-45/p-114",
+            "fall-45/p-119",
+            "fall-45/p-134",
+            "fall-45/p-137",
+            "fall-45/p-138",
+            "fall-45/p-173",
+            "fall-45/p-190",
+            "fall-45/p-191",
+            "fall-45/p-194",
+            "fall-45/p-195",
+            "fall-45/p-196",
+            "fall-45/p-197",
+            "fall-45/p-199",
+            "fall-45/p-205",
+            "fall-45/p-206",
+            "fall-45/p-207",
+            "fall-45/p-209",
+            "fall-45/p-212",
+            "fall-45/p-216",
+            "fall-epilogue/p-001",
+            "fall-epilogue/p-004",
+            "fall-epilogue/p-006",
+            "fall-epilogue/p-009",
+            "fall-epilogue/p-010",
+            "fall-epilogue/p-011",
+            "fall-epilogue/p-012",
+            "fall-epilogue/p-013",
+            "fall-epilogue/p-014",
+            "fall-epilogue/p-015",
+            "fall-epilogue/p-016",
+            "fall-epilogue/p-017",
+            "fall-epilogue/p-018",
+            "fall-epilogue/p-019",
+            "fall-epilogue/p-021",
+            "fall-epilogue/p-022",
+            "fall-epilogue/p-023",
+            "fall-epilogue/p-028",
+            "fall-epilogue/p-029",
+            "fall-epilogue/p-038",
+            "fall-epilogue/p-041",
+            "fall-epilogue/p-042",
+            "fall-epilogue/p-045",
+            "fall-epilogue/p-047",
+            "fall-epilogue/p-049",
+            "fall-epilogue/p-050",
+            "fall-epilogue/p-052",
+            "fall-epilogue/p-055",
+            "fall-epilogue/p-056",
+            "fall-epilogue/p-059",
+            "fall-epilogue/p-061",
+            "fall-epilogue/p-063",
+            "fall-epilogue/p-066",
+            "fall-epilogue/p-067",
+            "fall-epilogue/p-069",
+            "fall-epilogue/p-072",
+            "fall-epilogue/p-075",
+            "fall-epilogue/p-077",
+            "fall-epilogue/p-080",
+            "fall-epilogue/p-082",
+            "fall-epilogue/p-085",
+            "fall-epilogue/p-088",
+            "fall-epilogue/p-091",
+            "fall-epilogue/p-093",
+            "fall-epilogue/p-094",
+            "fall-epilogue/p-098",
+            "fall-epilogue/p-100",
+            "fall-epilogue/p-102",
+            "fall-epilogue/p-104",
+            "fall-epilogue/p-105",
+            "fall-epilogue/p-107",
+            "fall-epilogue/p-109",
+            "fall-epilogue/p-113",
+            "fall-epilogue/p-126",
+            "fall-epilogue/p-127",
+            "fall-epilogue/p-129",
+            "fall-epilogue/p-131",
+            "fall-epilogue/p-133",
+            "fall-epilogue/p-134",
+            "fall-epilogue/p-136",
+            "fall-epilogue/p-138",
+            "fall-epilogue/p-144",
+            "fall-epilogue/p-145"
+          ]
+        },
+        {
+          "reader": "hyperion",
+          "id": "benares",
+          "decision": "retain",
+          "reason": "The first context expressly says the vessel is built in and named after the city. Later ship uses do not justify deleting the valid external-reference note.",
+          "opened_sources": [],
+          "reviewedContextCount": 29,
+          "locations": [
+            "hyperion-02/p-150",
+            "hyperion-02/p-152",
+            "hyperion-02/p-153",
+            "hyperion-02/p-156",
+            "hyperion-02/p-180",
+            "hyperion-02/p-504",
+            "hyperion-02/p-535",
+            "hyperion-03/p-001",
+            "hyperion-03/p-046",
+            "hyperion-04/p-001",
+            "hyperion-04/p-006",
+            "hyperion-04/p-009",
+            "hyperion-04/p-031",
+            "hyperion-04/p-042",
+            "hyperion-04/p-082",
+            "hyperion-04/p-088",
+            "hyperion-05/p-169",
+            "fall-03/p-031",
+            "fall-11/p-007",
+            "fall-16/p-020",
+            "fall-25/p-103",
+            "fall-28/p-004",
+            "fall-28/p-065",
+            "fall-35/p-031",
+            "fall-35/p-032",
+            "fall-35/p-033",
+            "fall-epilogue/p-015"
+          ]
+        },
+        {
+          "reader": "book-of-the-new-sun",
+          "id": "thiasus",
+          "decision": "retain",
+          "reason": "The seven actual occurrences can use the term for the festival gathering rather than only the people. No separately sourced independent sense was established; preserve the association/gathering definition and do not derive a new dictionary meaning solely from fiction.",
+          "opened_sources": [],
+          "reviewedContextCount": 7,
+          "locations": [
+            "claw-11/p-048",
+            "claw-20/p-006",
+            "claw-20/p-020",
+            "claw-20/p-052",
+            "claw-21/p-004",
+            "claw-22/p-007",
+            "claw-25/p-015"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "focus": "overlooked direct quotations and original-source identification",
+      "method": "Fresh phrase-cue inventory of all eligible sections, screening 356 candidate context excerpts, selected adjacent verse/quotation review, then direct primary-text collation. This supplements the previous rare-vocabulary scan rather than rerunning it.",
+      "scope": {
+        "readers": 79,
+        "eligibleSections": 562,
+        "eligibleWords": 2751380,
+        "phraseCueBlocks": 356,
+        "readersWithCues": 38
+      },
+      "acceptedChanges": [
+        {
+          "reader": "book-of-the-new-sun",
+          "file": "data/solar-cycle/book-of-the-new-sun.json",
+          "id": "rubaiyat-awake",
+          "action": "add",
+          "reason": "Identify the exact two quoted lines without extending to narrative interpretation or changing edition-specific wording.",
+          "before": null,
+          "after": {
+            "id": "rubaiyat-awake",
+            "term": "Awake! for Morning",
+            "aliases": [],
+            "short": "The opening of FitzGerald’s Rubáiyát of Omar Khayyám.",
+            "note": "The opening of the first edition (1859) of Edward FitzGerald’s English Rubáiyát of Omar Khayyám. Its first quatrain pictures dawn scattering the stars and lighting a distant tower.",
+            "possible": false,
+            "sources": [
+              {
+                "url": "https://en.wikisource.org/wiki/The_Rubaiyat_of_Omar_Khayyam_(tr._Fitzgerald,_1st_edition)/The_Rubaiyat_of_Omar_Khayyam",
+                "label": "Edward FitzGerald: Rubáiyát, first edition, stanza I"
+              }
+            ],
+            "evidence": [
+              {
+                "chapter": "urth-50",
+                "paragraph": "p-106",
+                "context": "His wife sang, “Awake! for Morning in the Bowl of Night, Has flung the Stone that puts the Stars to. Flight.”"
+              }
+            ]
+          },
+          "generated": {
+            "reader": "book-of-the-new-sun",
+            "id": "rubaiyat-awake",
+            "action": "add",
+            "oldFirst": null,
+            "first": {
+              "chapter": "urth-50",
+              "paragraph": "p-106",
+              "index": 195
+            },
+            "oldOccurrences": 0,
+            "occurrences": 1,
+            "firstText": [
+              "Awake! for Morning"
+            ],
+            "context": "His wife sang, “Awake! for Morning in the Bowl of Night, Has flung the Stone that puts the Stars to Flight.”"
+          }
+        },
+        {
+          "reader": "book-of-the-new-sun",
+          "file": "data/solar-cycle/book-of-the-new-sun.json",
+          "id": "dante-gate-of-hell",
+          "action": "add",
+          "reason": "The explicit recitation at a lintel closely paraphrases a specific source; the note identifies that source without asserting anything about the fictional place.",
+          "before": null,
+          "after": {
+            "id": "dante-gate-of-hell",
+            "term": "No hope for those who enter here",
+            "aliases": [],
+            "short": "Echoes the warning over Dante’s gate of Hell.",
+            "note": "A paraphrase of the final line of the inscription over the gate of Hell in Dante’s Inferno, canto III. The inscription tells those entering to abandon all hope.",
+            "possible": false,
+            "sources": [
+              {
+                "url": "https://www.gutenberg.org/files/1001/1001-h/1001-h.htm",
+                "label": "Dante: Inferno, canto III, translated by Longfellow"
+              }
+            ],
+            "evidence": [
+              {
+                "chapter": "urth-23",
+                "paragraph": "p-013",
+                "context": "Gunnie looked up at the lintel and, as though she read the words there, recited, “No hope for those who enter here.”"
+              }
+            ]
+          },
+          "generated": {
+            "reader": "book-of-the-new-sun",
+            "id": "dante-gate-of-hell",
+            "action": "add",
+            "oldFirst": null,
+            "first": {
+              "chapter": "urth-23",
+              "paragraph": "p-013",
+              "index": 168
+            },
+            "oldOccurrences": 0,
+            "occurrences": 1,
+            "firstText": [
+              "No hope for those who enter here"
+            ],
+            "context": "Gunnie looked up at the lintel and, as though she read the words there, recited, “No hope for those who enter here.”"
+          }
+        },
+        {
+          "reader": "the-fifth-head-of-cerberus",
+          "file": "data/wolfe-fiction/the-fifth-head-of-cerberus.json",
+          "id": "euripides-cerberus-quotation",
+          "action": "add",
+          "reason": "Identify exact translation and distinguish deliberate local head-count variation; no alteration to the quotation or plot inference.",
+          "before": null,
+          "after": {
+            "id": "euripides-cerberus-quotation",
+            "term": "And thence the dog",
+            "aliases": [],
+            "short": "An altered quotation from Euripides’ Heracles.",
+            "note": "From Euripides’ Heracles, called Hercules Distracted in Michael Wodhull’s translation. Heracles tells Amphitryon that he brought Cerberus up from the underworld. Wodhull’s line has “triple-head”; David’s version substitutes “fourfold head.”",
+            "possible": false,
+            "sources": [
+              {
+                "url": "https://www.gutenberg.org/cache/epub/77336/pg77336-images.html#Page_61",
+                "label": "Euripides: Hercules Distracted, translated by Michael Wodhull, p. 61"
+              }
+            ],
+            "evidence": [
+              {
+                "chapter": "fifth-head",
+                "paragraph": "p-136",
+                "context": " Spring surprised me, as she always does those of us who remain most of our lives indoors. One day, while I still thought, if I thought about the weather at all, in terms of winter, David threw open the window and insisted that I go with him into the park—and it was April. Mr. Million went with us, and I remember that as we stepped out the front door into the little garden that opened into the street, a garden I had last seen banked with the snow shoveled from the path but which was now bright with early bulbs and the chiming of the fountain, David tapped the iron dog on its grinning muzzle and recited: “ ‘And thence the dog. With fourfold head brought to these realms of light.’ ”"
+              }
+            ]
+          },
+          "generated": {
+            "reader": "the-fifth-head-of-cerberus",
+            "id": "euripides-cerberus-quotation",
+            "action": "add",
+            "oldFirst": null,
+            "first": {
+              "chapter": "fifth-head",
+              "paragraph": "p-136",
+              "index": 0
+            },
+            "oldOccurrences": 0,
+            "occurrences": 1,
+            "firstText": [
+              "And thence the dog"
+            ],
+            "context": " Spring surprised me, as she always does those of us who remain most of our lives indoors. One day, while I still thought, if I thought about the weather at all, in terms of winter, David threw open the window and insisted that I go with him into the park—and it was April. Mr. Million went with us, and I remember that as we stepped out the front door into the little garden that opened into the street, a garden I had last seen banked with the snow shoveled from the path but which was now bright with early bulbs and the chiming of the fountain, David tapped the iron dog on its grinning muzzle and recited: “ ‘And thence the dog. With fourfold head brought to these realms of light.’ ”"
+          }
+        },
+        {
+          "reader": "the-woman-the-unicorn-loved",
+          "file": "data/wolfe-fiction/the-woman-the-unicorn-loved.json",
+          "id": "pope-iliad-pluto",
+          "action": "add",
+          "reason": "Name the specific source of the opening couplet, preserving the story’s omission of and in the second line.",
+          "before": null,
+          "after": {
+            "id": "pope-iliad-pluto",
+            "term": "Pluto, the grisly god",
+            "aliases": [],
+            "short": "A couplet from Pope’s translation of the Iliad.",
+            "note": "From Alexander Pope’s translation of Homer’s Iliad, book IX. Agamemnon describes Pluto, the ruler of the underworld, as pitiless during the deliberations over an embassy to Achilles.",
+            "possible": false,
+            "sources": [
+              {
+                "url": "https://www.gutenberg.org/cache/epub/6130/pg6130-images.html#chap09",
+                "label": "Homer: Iliad, book IX, translated by Alexander Pope"
+              }
+            ],
+            "evidence": [
+              {
+                "chapter": "story",
+                "paragraph": "p-005",
+                "context": "“Pluto, the grisly god, who never spares, Who feels no mercy, who hears no prayers.”"
+              }
+            ]
+          },
+          "generated": {
+            "reader": "the-woman-the-unicorn-loved",
+            "id": "pope-iliad-pluto",
+            "action": "add",
+            "oldFirst": null,
+            "first": {
+              "chapter": "story",
+              "paragraph": "p-005",
+              "index": 0
+            },
+            "oldOccurrences": 0,
+            "occurrences": 1,
+            "firstText": [
+              "Pluto, the grisly god"
+            ],
+            "context": "“Pluto, the grisly god, who never spares, Who feels no mercy, who hears no prayers.”"
+          }
+        },
+        {
+          "reader": "hyperion",
+          "file": "data/hyperion/the-fall-of-hyperion.json",
+          "id": "keats-five-feet-high",
+          "action": "add",
+          "reason": "Provide the real prose-letter source for all four self-descriptions; do not rewrite the novel’s claim that it was verse.",
+          "before": null,
+          "after": {
+            "id": "keats-five-feet-high",
+            "term": "five feet high",
+            "aliases": [],
+            "short": "Keats’s self-description in a July 1818 letter.",
+            "note": "Keats describes himself as “Mister John Keats five feet high” in his July 1818 letter to Benjamin Bailey, written during his walking tour of Scotland. The phrase belongs to the prose letter.",
+            "possible": false,
+            "sources": [
+              {
+                "url": "https://www.gutenberg.org/files/35698/35698-h/35698-h.htm#LXII",
+                "label": "John Keats: letter to Benjamin Bailey, July 18–22, 1818"
+              }
+            ],
+            "evidence": [
+              {
+                "chapter": "fall-01",
+                "paragraph": "p-028",
+                "context": "“Goddamn right it’s necessary.” Diana Philomel had opened her mouth, but it was her husband who answered. He had come up from behind and now took a seat on the faux log where we dined. He was a big man, at least a foot and a half taller than I. But then, I am short. My memory tells me that I once wrote a verse ridiculing myself as “… Mr. John Keats, five feet high,” although I am five feet one, slightly short when Napoleon and Wellington were alive and the average height for men was five feet six, ridiculously short now that men from average-g worlds range from six feet tall to almost seven. I obviously did not have the musculature or frame to claim I had come from a high-g world, so to all eyes I was merely short. (I report my thoughts above in the units in which I think … of all the mental changes since my rebirth into the Web, thinking in metric is by far the hardest. Sometimes I refuse to try.)"
+              },
+              {
+                "chapter": "fall-32",
+                "paragraph": "p-189",
+                "context": "I realized that all of the books in all of the alcoves were works of “Mister John Keats, five feet high,” as I had once written—John Keats, the consumptive poet who had asked only that his tomb be nameless except for the inscription:"
+              },
+              {
+                "chapter": "fall-43",
+                "paragraph": "p-019",
+                "context": "Keats’s eyes fluttered open. They were hazel and far too bright. “Ummon and the others are trying to make me escape myself through accepting the godhood, Hunt. Bait to catch the white whale, honey to catch the ultimate fly. Fleeing Empathy shall find its home in me … in me, Mister John Keats, five feet high … and then the reconciliation begins, right?”"
+              },
+              {
+                "chapter": "fall-44",
+                "paragraph": "p-003",
+                "context": "Mister John Keats, five feet high."
+              }
+            ]
+          },
+          "generated": {
+            "reader": "hyperion",
+            "id": "keats-five-feet-high",
+            "action": "add",
+            "oldFirst": null,
+            "first": {
+              "chapter": "fall-01",
+              "paragraph": "p-028",
+              "index": 10
+            },
+            "oldOccurrences": 0,
+            "occurrences": 4,
+            "firstText": [
+              "five feet high"
+            ],
+            "context": "“Goddamn right it’s necessary.” Diana Philomel had opened her mouth, but it was her husband who answered. He had come up from behind and now took a seat on the faux log where we dined. He was a big man, at least a foot and a half taller than I. But then, I am short. My memory tells me that I once wrote a verse ridiculing myself as “… Mr. John Keats, five feet high,” although I am five feet one, slightly short when Napoleon and Wellington were alive and the average height for men was five feet six, ridiculously short now that men from average-g worlds range from six feet tall to almost seven. I obviously did not have the musculature or frame to claim I had come from a high-g world, so to all eyes I was merely short. (I report my thoughts above in the units in which I think … of all the mental changes since my rebirth into the Web, thinking in metric is by far the hardest. Sometimes I refuse to try.)"
+          }
+        },
+        {
+          "reader": "hyperion",
+          "file": "data/hyperion/hyperion.json",
+          "id": "francis-bacon",
+          "action": "update",
+          "reason": "Give the exact primary work and aphorism behind the only current Francis Bacon occurrence; retain existing biography brief.",
+          "before": {
+            "id": "francis-bacon",
+            "term": "Francis Bacon",
+            "aliases": [],
+            "short": "English philosopher of experimental inquiry, 1561–1626.",
+            "note": "Bacon’s Novum Organum examines obstacles to reliable knowledge. Its “idols of the marketplace” are errors fostered by words and ordinary habits of speech.",
+            "possible": false,
+            "sources": [
+              {
+                "url": "https://www.gutenberg.org/ebooks/45988",
+                "label": "Francis Bacon: Novum Organum"
+              }
+            ]
+          },
+          "after": {
+            "id": "francis-bacon",
+            "term": "Francis Bacon",
+            "aliases": [],
+            "short": "English philosopher of experimental inquiry, 1561–1626.",
+            "note": "Francis Bacon (1561–1626), English philosopher associated with the development of experimental science. The quotation about badly formed words comes from Novum Organum (1620), book I, aphorism 43, on the “idols of the market”: errors arising through language.",
+            "possible": false,
+            "sources": [
+              {
+                "url": "https://www.gutenberg.org/cache/epub/45988/pg45988-images.html",
+                "label": "Francis Bacon: Novum Organum, book I, aphorism 43"
+              },
+              {
+                "url": "https://plato.stanford.edu/entries/francis-bacon/",
+                "label": "Stanford Encyclopedia of Philosophy: Francis Bacon"
+              }
+            ]
+          },
+          "generated": {
+            "reader": "hyperion",
+            "id": "francis-bacon",
+            "action": "update",
+            "oldFirst": {
+              "chapter": "hyperion-03",
+              "paragraph": "p-025",
+              "index": 3
+            },
+            "first": {
+              "chapter": "hyperion-03",
+              "paragraph": "p-025",
+              "index": 3
+            },
+            "oldOccurrences": 1,
+            "occurrences": 1,
+            "firstText": [
+              "Francis Bacon"
+            ],
+            "context": "Francis Bacon once said, “There arises from a bad and unapt formation of words a wonderful obstruction to the mind.” We have all contributed our wonderful obstructions to the mind, have we not? I more than most. One of the twentieth century’s better, forgotten writers—that is better-comma-forgotten, once bon moted: “I love being a writer. It’s the paperwork I can’t stand.” Get it? Well, amigos and amigette, I love being a poet. It’s the goddamned words I can’t stand."
+          }
+        },
+        {
+          "reader": "hyperion",
+          "file": "data/hyperion/the-fall-of-hyperion.json",
+          "id": "adams-dream",
+          "action": "update",
+          "reason": "Connect the earlier quotation to the already annotated letter and retain the precise Milton referent, using direct primary texts rather than a biography-only pointer.",
+          "before": {
+            "id": "adams-dream",
+            "term": "Adam’s dream",
+            "aliases": [],
+            "short": "Adam’s dream of reality in Milton’s Paradise Lost.",
+            "note": "In book VIII of Paradise Lost, Adam describes waking to discover that what he dreamed exists. Keats compares imagination to this experience in his letter to Benjamin Bailey of 22 November 1817.",
+            "possible": false,
+            "sources": [
+              {
+                "url": "https://cowperandnewtonmuseum.org.uk/bulletin/recalling-adams-dream-a-note-on-keats-and-cowper/",
+                "label": "Cowper & Newton Museum: Keats and Adam’s dream"
+              }
+            ]
+          },
+          "after": {
+            "id": "adams-dream",
+            "term": "Adam’s dream",
+            "aliases": [
+              "I am certain of nothing"
+            ],
+            "short": "Keats’s letter to Bailey on imagination, beauty, and truth.",
+            "note": "Keats’s letter to Benjamin Bailey of 22 November 1817 connects beauty with the truth of imagination. It contains both the statement beginning “I am certain of nothing” and the comparison of imagination to Adam’s dream. The latter refers to Paradise Lost, book VIII, where Adam wakes to find the woman he has seen in his dream.",
+            "possible": false,
+            "sources": [
+              {
+                "url": "https://www.gutenberg.org/files/35698/35698-h/35698-h.htm#XXII",
+                "label": "John Keats: letter to Benjamin Bailey, 22 November 1817"
+              },
+              {
+                "url": "https://www.gutenberg.org/files/20/20-h/20-h.htm",
+                "label": "John Milton: Paradise Lost, book VIII"
+              }
+            ],
+            "evidence": [
+              {
+                "chapter": "hyperion-03",
+                "paragraph": "p-084",
+                "context": "The poet John Keats once wrote to a friend of his named Bailey: “I am certain of nothing but the holiness of the Heart’s affection and the truth of Imagination—What the imagination seizes as Beauty must be truth—whether it existed before or not.”"
+              },
+              {
+                "chapter": "fall-epigraph",
+                "paragraph": "p-005",
+                "context": "“The Imagination may be compared to Adam’s dream—he awoke and found it truth.”"
+              }
+            ]
+          },
+          "generated": {
+            "reader": "hyperion",
+            "id": "adams-dream",
+            "action": "update",
+            "oldFirst": {
+              "chapter": "fall-epigraph",
+              "paragraph": "p-005",
+              "index": 9
+            },
+            "first": {
+              "chapter": "hyperion-03",
+              "paragraph": "p-084",
+              "index": 3
+            },
+            "oldOccurrences": 1,
+            "occurrences": 2,
+            "firstText": [
+              "I am certain of nothing"
+            ],
+            "context": "The poet John Keats once wrote to a friend of his named Bailey: “I am certain of nothing but the holiness of the Heart’s affection and the truth of Imagination—What the imagination seizes as Beauty must be truth—whether it existed before or not.”"
+          }
+        },
+        {
+          "reader": "hyperion",
+          "file": "data/hyperion/the-fall-of-hyperion.json",
+          "id": "keats-superior-beings",
+          "action": "update",
+          "reason": "The street-quarrel quotation occurs in the same source paragraph as the existing superior-beings quotation; add the unannotated shorter quotation to the existing note.",
+          "before": {
+            "id": "keats-superior-beings",
+            "term": "May there not be superior beings",
+            "aliases": [],
+            "short": "From Keats’s letter of 19 March 1819.",
+            "note": "In a journal-letter to George and Georgiana Keats, the poet compares human purposes with animal instinct. He wonders whether higher beings might appreciate human thought as humans appreciate an animal’s alertness.",
+            "possible": false,
+            "sources": [
+              {
+                "url": "https://www.gutenberg.org/cache/epub/35698/pg35698-images.html",
+                "label": "John Keats: Letters to His Family and Friends"
+              }
+            ]
+          },
+          "after": {
+            "id": "keats-superior-beings",
+            "term": "May there not be superior beings",
+            "aliases": [
+              "Though a quarrel in the street"
+            ],
+            "short": "From Keats’s letter of 19 March 1819.",
+            "note": "In his journal-letter to George and Georgiana Keats, in the entry for 19 March 1819, Keats compares human purposes with animal instinct. He imagines higher beings appreciating human thought as humans appreciate an animal’s alertness, and distinguishes the energy of a street quarrel from its objectionable nature.",
+            "possible": false,
+            "sources": [
+              {
+                "url": "https://www.gutenberg.org/files/35698/35698-h/35698-h.htm#Page_237",
+                "label": "John Keats: journal-letter to George and Georgiana Keats, 19 March 1819"
+              }
+            ],
+            "evidence": [
+              {
+                "chapter": "hyperion-05",
+                "paragraph": "p-788",
+                "context": "“May there not be superior beings amused with any graceful, though instinctive attitude my mind may fall into, as I am entertained with the alertness of a Stoat or the anxiety of a Deer? Though a quarrel in the streets is a thing to be hated, the energies displayed in it are fine. By a superior being our reasonings may take the same tone—though erroneous they may be fine—This is the very thing in which consists poetry.”"
+              },
+              {
+                "chapter": "hyperion-05",
+                "paragraph": "p-867",
+                "context": "“ ‘Though a quarrel in the street is a thing to be hated, the energies displayed in it are fine,’ ” I quoted. “They weren’t cybrids, were they?”"
+              },
+              {
+                "chapter": "fall-epigraph",
+                "paragraph": "p-003",
+                "context": "“… May there not be superior beings amused with any graceful, though instinctive attitude my mind may fall into, as I am entertained with the alertness of a Stoat or the anxiety of a Deer? Though a quarrel in the streets is a thing to be hated, the energies displayed in it are fine … By a superior being our reasonings may take the same tone—though erroneous they may be fine— This is the very thing in which consists poetry …”"
+              }
+            ]
+          },
+          "generated": {
+            "reader": "hyperion",
+            "id": "keats-superior-beings",
+            "action": "update",
+            "oldFirst": {
+              "chapter": "hyperion-05",
+              "paragraph": "p-788",
+              "index": 5
+            },
+            "first": {
+              "chapter": "hyperion-05",
+              "paragraph": "p-788",
+              "index": 5
+            },
+            "oldOccurrences": 2,
+            "occurrences": 3,
+            "firstText": [
+              "May there not be superior beings"
+            ],
+            "context": "“May there not be superior beings amused with any graceful, though instinctive attitude my mind may fall into, as I am entertained with the alertness of a Stoat or the anxiety of a Deer? Though a quarrel in the streets is a thing to be hated, the energies displayed in it are fine. By a superior being our reasonings may take the same tone—though erroneous they may be fine—This is the very thing in which consists poetry.”"
+          }
+        },
+        {
+          "reader": "the-death-of-dr-island",
+          "file": "data/wolfe-fiction/the-death-of-dr-island.json",
+          "id": "the-lustre-of-the-long-convolvuluses",
+          "action": "update",
+          "reason": "Place the established Tennyson reference at the actual start of the excerpt, four paragraph lines earlier, without adding a duplicate entry.",
+          "before": {
+            "id": "the-lustre-of-the-long-convolvuluses",
+            "term": "The lustre of the long convolvuluses",
+            "aliases": [],
+            "short": "A line from Tennyson’s Enoch Arden.",
+            "note": "From Alfred Tennyson’s narrative poem Enoch Arden (1864), in a passage describing the vegetation of a tropical island.",
+            "possible": false,
+            "sources": [
+              {
+                "url": "https://www.gutenberg.org/cache/epub/1358/pg1358-images.html",
+                "label": "Alfred Tennyson: Enoch Arden"
+              }
+            ],
+            "evidence": "story/p-520:                                                              The lustre of the long convolvuluses"
+          },
+          "after": {
+            "id": "the-lustre-of-the-long-convolvuluses",
+            "term": "The lustre of the long convolvuluses",
+            "aliases": [
+              "The mountain wooded to the peak"
+            ],
+            "short": "From Tennyson’s Enoch Arden.",
+            "note": "From Alfred Tennyson’s narrative poem Enoch Arden (1864), in the passage describing the tropical island where Enoch is stranded. The quotation begins with “The mountain wooded to the peak” and continues through the description of the convolvuluses.",
+            "possible": false,
+            "sources": [
+              {
+                "url": "https://www.gutenberg.org/cache/epub/1358/pg1358-images.html",
+                "label": "Alfred Tennyson: Enoch Arden"
+              }
+            ],
+            "evidence": [
+              {
+                "chapter": "story",
+                "paragraph": "p-516",
+                "context": "                                                             The mountain wooded to the peak, the lawns"
+              },
+              {
+                "chapter": "story",
+                "paragraph": "p-520",
+                "context": "                                                             The lustre of the long convolvuluses"
+              }
+            ]
+          },
+          "generated": {
+            "reader": "the-death-of-dr-island",
+            "id": "the-lustre-of-the-long-convolvuluses",
+            "action": "update",
+            "oldFirst": {
+              "chapter": "story",
+              "paragraph": "p-520",
+              "index": 0
+            },
+            "first": {
+              "chapter": "story",
+              "paragraph": "p-516",
+              "index": 0
+            },
+            "oldOccurrences": 1,
+            "occurrences": 2,
+            "firstText": [
+              "The mountain wooded to the peak"
+            ],
+            "context": "                                                             The mountain wooded to the peak, the lawns"
+          }
+        }
+      ],
+      "rejections": [
+        {
+          "candidate": "William Gass quotation source",
+          "decision": "deferred",
+          "reason": "Existing author identification remains valid. A new bibliography-level source attribution was not added: the opened Paris Review interview does not contain the exact words, and a quotation-aggregator citation to Conversations with William H. Gass was not promoted into primary evidence."
+        },
+        {
+          "candidate": "Bertrand Russell quotation source",
+          "decision": "deferred",
+          "reason": "A secondary citation locates it in Human Knowledge, part II, chapter 1, but an independently opened lawful primary-text witness was not obtained. Existing biographical note left intact; no quotation or source claim forced."
+        },
+        {
+          "candidate": "The Cap and Bells",
+          "decision": "no new note",
+          "reason": "The actual paragraph already names the poem and identifies it as an unfinished satirical faery tale. The opened University of Victoria poem adds a source but little explanatory value here."
+        },
+        {
+          "candidate": "Gingerbread Man refrain",
+          "decision": "no new note",
+          "reason": "Familiar story already signaled by the title and immediate context; no forced generic tale explanation."
+        },
+        {
+          "candidate": "Fifth Head, fourfold head",
+          "decision": "preserved",
+          "reason": "The exact Wodhull source has triple-head, but the next paragraph explicitly makes the changed head count a joke. The note explains the textual relation; the fiction is not corrected to its source."
+        },
+        {
+          "candidate": "Fifth Head, dog. With",
+          "decision": "punctuation deferred",
+          "reason": "The independent source supplies a line boundary, but does not prove which punctuation appeared in Wolfe’s source edition. Preserved while adding the source annotation."
+        },
+        {
+          "candidate": "New Sun incantation beginning Where I put you",
+          "decision": "no attribution",
+          "reason": "No authoritative external source established; do not assume invented in-story verse requires an external referent."
+        },
+        {
+          "candidate": "New Sun verse beginning Dine at dawn",
+          "decision": "no attribution",
+          "reason": "No authoritative external source established; no speculative historical author or work assigned."
+        },
+        {
+          "candidate": "Liu, Remembering Bethune and Li Zhiyi quotation",
+          "decision": "already covered",
+          "reason": "Existing original/reference annotations and explicit context already identify the author and work; no duplicate note."
+        },
+        {
+          "candidate": "The Death of Dr. Island, Kipling and Poe references",
+          "decision": "already covered",
+          "reason": "The existing turtle-and-hedgehog and Montresor notes already provide the relevant direct story sources."
+        },
+        {
+          "candidate": "Ain’t You ’Most Done, Moore lyrics",
+          "decision": "already covered",
+          "reason": "The existing My Gentle Harp and Minstrel Boy entries already name the lyrics and link the primary collection."
+        }
+      ]
+    }
+  ],
+  "readerCoverage": [
+    {
+      "reader": "book-of-the-new-sun",
+      "entriesBefore": 974,
+      "entriesAfter": 976,
+      "words": 510515,
+      "changes": [
+        {
+          "id": "rubaiyat-awake",
+          "action": "add"
+        },
+        {
+          "id": "dante-gate-of-hell",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "reader": "book-of-the-long-sun",
+      "entriesBefore": 520,
+      "entriesAfter": 520,
+      "words": 462159,
+      "changes": [
+        {
+          "id": "gammadion",
+          "action": "update"
+        }
+      ]
+    },
+    {
+      "reader": "book-of-the-short-sun",
+      "entriesBefore": 467,
+      "entriesAfter": 467,
+      "words": 401941,
+      "changes": []
+    },
+    {
+      "reader": "the-fifth-head-of-cerberus",
+      "entriesBefore": 128,
+      "entriesAfter": 129,
+      "words": 78078,
+      "changes": [
+        {
+          "id": "euripides-cerberus-quotation",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "reader": "aint-you-most-done",
+      "entriesBefore": 29,
+      "entriesAfter": 29,
+      "words": 8668,
+      "changes": []
+    },
+    {
+      "reader": "all-the-hues-of-hell",
+      "entriesBefore": 6,
+      "entriesAfter": 6,
+      "words": 4669,
+      "changes": []
+    },
+    {
+      "reader": "and-when-they-appear",
+      "entriesBefore": 16,
+      "entriesAfter": 16,
+      "words": 8457,
+      "changes": []
+    },
+    {
+      "reader": "bed-and-breakfast",
+      "entriesBefore": 12,
+      "entriesAfter": 12,
+      "words": 8577,
+      "changes": []
+    },
+    {
+      "reader": "beech-hill",
+      "entriesBefore": 2,
+      "entriesAfter": 2,
+      "words": 2216,
+      "changes": []
+    },
+    {
+      "reader": "bluesberry-jam",
+      "entriesBefore": 11,
+      "entriesAfter": 11,
+      "words": 8601,
+      "changes": []
+    },
+    {
+      "reader": "the-boy-who-hooked-the-sun",
+      "entriesBefore": 6,
+      "entriesAfter": 6,
+      "words": 1130,
+      "changes": []
+    },
+    {
+      "reader": "a-cabin-on-the-coast",
+      "entriesBefore": 6,
+      "entriesAfter": 6,
+      "words": 4350,
+      "changes": []
+    },
+    {
+      "reader": "the-cat",
+      "entriesBefore": 34,
+      "entriesAfter": 34,
+      "words": 2651,
+      "changes": []
+    },
+    {
+      "reader": "counting-cats-in-zanzibar",
+      "entriesBefore": 22,
+      "entriesAfter": 22,
+      "words": 6086,
+      "changes": []
+    },
+    {
+      "reader": "the-dark-of-the-june",
+      "entriesBefore": 3,
+      "entriesAfter": 3,
+      "words": 2185,
+      "changes": []
+    },
+    {
+      "reader": "the-death-of-dr-island",
+      "entriesBefore": 24,
+      "entriesAfter": 24,
+      "words": 20671,
+      "changes": [
+        {
+          "id": "the-lustre-of-the-long-convolvuluses",
+          "action": "update"
+        }
+      ]
+    },
+    {
+      "reader": "the-death-of-hyle",
+      "entriesBefore": 7,
+      "entriesAfter": 7,
+      "words": 2270,
+      "changes": []
+    },
+    {
+      "reader": "the-death-of-koshchei-the-deathless",
+      "entriesBefore": 55,
+      "entriesAfter": 55,
+      "words": 6092,
+      "changes": []
+    },
+    {
+      "reader": "death-of-the-island-doctor",
+      "entriesBefore": 18,
+      "entriesAfter": 18,
+      "words": 2229,
+      "changes": []
+    },
+    {
+      "reader": "the-detective-of-dreams",
+      "entriesBefore": 10,
+      "entriesAfter": 10,
+      "words": 6933,
+      "changes": []
+    },
+    {
+      "reader": "eyebem",
+      "entriesBefore": 9,
+      "entriesAfter": 9,
+      "words": 4225,
+      "changes": []
+    },
+    {
+      "reader": "the-eyeflash-miracles",
+      "entriesBefore": 20,
+      "entriesAfter": 20,
+      "words": 23757,
+      "changes": []
+    },
+    {
+      "reader": "flash-company",
+      "entriesBefore": 19,
+      "entriesAfter": 19,
+      "words": 3532,
+      "changes": []
+    },
+    {
+      "reader": "forlesen",
+      "entriesBefore": 7,
+      "entriesAfter": 7,
+      "words": 18725,
+      "changes": []
+    },
+    {
+      "reader": "from-the-desk-of-gilmer-c-merton",
+      "entriesBefore": 3,
+      "entriesAfter": 3,
+      "words": 1547,
+      "changes": []
+    },
+    {
+      "reader": "from-the-notebook-of-dr-stein",
+      "entriesBefore": 9,
+      "entriesAfter": 9,
+      "words": 2046,
+      "changes": []
+    },
+    {
+      "reader": "game-in-the-popes-head",
+      "entriesBefore": 8,
+      "entriesAfter": 8,
+      "words": 1847,
+      "changes": []
+    },
+    {
+      "reader": "the-god-and-his-man",
+      "entriesBefore": 4,
+      "entriesAfter": 4,
+      "words": 2205,
+      "changes": []
+    },
+    {
+      "reader": "has-anybody-seen-junie-moon",
+      "entriesBefore": 5,
+      "entriesAfter": 5,
+      "words": 6338,
+      "changes": []
+    },
+    {
+      "reader": "the-haunted-boardinghouse",
+      "entriesBefore": 71,
+      "entriesAfter": 71,
+      "words": 9319,
+      "changes": []
+    },
+    {
+      "reader": "the-headless-man",
+      "entriesBefore": 4,
+      "entriesAfter": 4,
+      "words": 2362,
+      "changes": []
+    },
+    {
+      "reader": "the-hero-as-werwolf",
+      "entriesBefore": 8,
+      "entriesAfter": 8,
+      "words": 6448,
+      "changes": []
+    },
+    {
+      "reader": "the-horars-of-war",
+      "entriesBefore": 4,
+      "entriesAfter": 4,
+      "words": 6646,
+      "changes": []
+    },
+    {
+      "reader": "hour-of-trust",
+      "entriesBefore": 13,
+      "entriesAfter": 13,
+      "words": 12017,
+      "changes": []
+    },
+    {
+      "reader": "house-of-ancestors",
+      "entriesBefore": 5,
+      "entriesAfter": 5,
+      "words": 8639,
+      "changes": []
+    },
+    {
+      "reader": "in-the-house-of-gingerbread",
+      "entriesBefore": 4,
+      "entriesAfter": 4,
+      "words": 5946,
+      "changes": []
+    },
+    {
+      "reader": "the-island-of-doctor-death-and-other-stories",
+      "entriesBefore": 6,
+      "entriesAfter": 6,
+      "words": 6199,
+      "changes": []
+    },
+    {
+      "reader": "kevin-malone",
+      "entriesBefore": 5,
+      "entriesAfter": 5,
+      "words": 3805,
+      "changes": []
+    },
+    {
+      "reader": "la-befana",
+      "entriesBefore": 3,
+      "entriesAfter": 3,
+      "words": 1350,
+      "changes": []
+    },
+    {
+      "reader": "the-last-thrilling-wonder-story",
+      "entriesBefore": 3,
+      "entriesAfter": 3,
+      "words": 9154,
+      "changes": []
+    },
+    {
+      "reader": "lukora",
+      "entriesBefore": 5,
+      "entriesAfter": 5,
+      "words": 2571,
+      "changes": []
+    },
+    {
+      "reader": "the-man-in-the-pepper-mill",
+      "entriesBefore": 17,
+      "entriesAfter": 17,
+      "words": 5852,
+      "changes": []
+    },
+    {
+      "reader": "the-map",
+      "entriesBefore": 42,
+      "entriesAfter": 42,
+      "words": 5027,
+      "changes": []
+    },
+    {
+      "reader": "the-marvelous-brass-chessplaying-automaton",
+      "entriesBefore": 9,
+      "entriesAfter": 9,
+      "words": 7147,
+      "changes": []
+    },
+    {
+      "reader": "the-most-beautiful-woman-on-the-world",
+      "entriesBefore": 6,
+      "entriesAfter": 6,
+      "words": 4899,
+      "changes": []
+    },
+    {
+      "reader": "my-book",
+      "entriesBefore": 6,
+      "entriesAfter": 6,
+      "words": 558,
+      "changes": []
+    },
+    {
+      "reader": "the-nebraskan-and-the-nereid",
+      "entriesBefore": 11,
+      "entriesAfter": 11,
+      "words": 3112,
+      "changes": []
+    },
+    {
+      "reader": "no-planets-strike",
+      "entriesBefore": 12,
+      "entriesAfter": 12,
+      "words": 4556,
+      "changes": []
+    },
+    {
+      "reader": "on-the-train",
+      "entriesBefore": 1,
+      "entriesAfter": 1,
+      "words": 460,
+      "changes": []
+    },
+    {
+      "reader": "one-two-three-for-me",
+      "entriesBefore": 1,
+      "entriesAfter": 1,
+      "words": 2456,
+      "changes": []
+    },
+    {
+      "reader": "the-other-dead-man",
+      "entriesBefore": 5,
+      "entriesAfter": 5,
+      "words": 6714,
+      "changes": []
+    },
+    {
+      "reader": "our-neighbour-by-david-copperfield",
+      "entriesBefore": 8,
+      "entriesAfter": 8,
+      "words": 5321,
+      "changes": []
+    },
+    {
+      "reader": "parkroads-a-review",
+      "entriesBefore": 6,
+      "entriesAfter": 6,
+      "words": 1062,
+      "changes": []
+    },
+    {
+      "reader": "the-peace-spy",
+      "entriesBefore": 5,
+      "entriesAfter": 5,
+      "words": 2330,
+      "changes": []
+    },
+    {
+      "reader": "peritonitis",
+      "entriesBefore": 3,
+      "entriesAfter": 3,
+      "words": 2218,
+      "changes": []
+    },
+    {
+      "reader": "petting-zoo",
+      "entriesBefore": 4,
+      "entriesAfter": 4,
+      "words": 2220,
+      "changes": []
+    },
+    {
+      "reader": "procreation",
+      "entriesBefore": 6,
+      "entriesAfter": 6,
+      "words": 3167,
+      "changes": []
+    },
+    {
+      "reader": "queen-of-the-night",
+      "entriesBefore": 26,
+      "entriesAfter": 26,
+      "words": 4992,
+      "changes": []
+    },
+    {
+      "reader": "the-recording",
+      "entriesBefore": 5,
+      "entriesAfter": 5,
+      "words": 1498,
+      "changes": []
+    },
+    {
+      "reader": "redbeard",
+      "entriesBefore": 2,
+      "entriesAfter": 2,
+      "words": 2425,
+      "changes": []
+    },
+    {
+      "reader": "seven-american-nights",
+      "entriesBefore": 27,
+      "entriesAfter": 27,
+      "words": 22086,
+      "changes": []
+    },
+    {
+      "reader": "silhouette",
+      "entriesBefore": 11,
+      "entriesAfter": 11,
+      "words": 18202,
+      "changes": []
+    },
+    {
+      "reader": "straw",
+      "entriesBefore": 11,
+      "entriesAfter": 11,
+      "words": 3209,
+      "changes": []
+    },
+    {
+      "reader": "suzanne-delage",
+      "entriesBefore": 4,
+      "entriesAfter": 4,
+      "words": 2287,
+      "changes": []
+    },
+    {
+      "reader": "sweet-forest-maid",
+      "entriesBefore": 4,
+      "entriesAfter": 4,
+      "words": 1874,
+      "changes": []
+    },
+    {
+      "reader": "the-tale-of-the-rose-and-the-nightingale-and-what-came-of-it",
+      "entriesBefore": 32,
+      "entriesAfter": 32,
+      "words": 9544,
+      "changes": []
+    },
+    {
+      "reader": "thag",
+      "entriesBefore": 17,
+      "entriesAfter": 17,
+      "words": 2493,
+      "changes": []
+    },
+    {
+      "reader": "to-the-seventh",
+      "entriesBefore": 14,
+      "entriesAfter": 14,
+      "words": 6448,
+      "changes": []
+    },
+    {
+      "reader": "the-toy-theater",
+      "entriesBefore": 18,
+      "entriesAfter": 18,
+      "words": 2576,
+      "changes": []
+    },
+    {
+      "reader": "the-tree-is-my-hat",
+      "entriesBefore": 6,
+      "entriesAfter": 6,
+      "words": 10264,
+      "changes": []
+    },
+    {
+      "reader": "useful-phrases",
+      "entriesBefore": 11,
+      "entriesAfter": 11,
+      "words": 2749,
+      "changes": []
+    },
+    {
+      "reader": "war-beneath-the-tree",
+      "entriesBefore": 5,
+      "entriesAfter": 5,
+      "words": 2104,
+      "changes": []
+    },
+    {
+      "reader": "westwind",
+      "entriesBefore": 2,
+      "entriesAfter": 2,
+      "words": 2999,
+      "changes": []
+    },
+    {
+      "reader": "when-i-was-ming-the-merciless",
+      "entriesBefore": 3,
+      "entriesAfter": 3,
+      "words": 2895,
+      "changes": []
+    },
+    {
+      "reader": "the-woman-the-unicorn-loved",
+      "entriesBefore": 11,
+      "entriesAfter": 12,
+      "words": 6335,
+      "changes": [
+        {
+          "id": "pope-iliad-pluto",
+          "action": "add"
+        }
+      ]
+    },
+    {
+      "reader": "the-woman-who-loved-the-centaur-pholus",
+      "entriesBefore": 15,
+      "entriesAfter": 15,
+      "words": 3110,
+      "changes": []
+    },
+    {
+      "reader": "the-ziggurat",
+      "entriesBefore": 66,
+      "entriesAfter": 66,
+      "words": 27229,
+      "changes": []
+    },
+    {
+      "reader": "remembrance-of-earths-past",
+      "entriesBefore": 358,
+      "entriesAfter": 358,
+      "words": 522571,
+      "changes": []
+    },
+    {
+      "reader": "hyperion",
+      "entriesBefore": 515,
+      "entriesAfter": 516,
+      "words": 352735,
+      "changes": [
+        {
+          "id": "keats-five-feet-high",
+          "action": "add"
+        },
+        {
+          "id": "francis-bacon",
+          "action": "update"
+        },
+        {
+          "id": "adams-dream",
+          "action": "update"
+        },
+        {
+          "id": "keats-superior-beings",
+          "action": "update"
+        }
+      ]
+    }
+  ],
+  "verification": {
+    "pythonTests": 67,
+    "nodeTests": 4,
+    "javascriptSyntax": "passed",
+    "whitespace": "passed",
+    "fullBaselineValidator": "passed",
+    "preservation": {
+      "baseline": "0451fc5",
+      "checks": "exact visible deltas, original source, semantic structure, IDs, prior repair spans",
+      "counts": {
+        "blocks": 90461,
+        "chapters": 747,
+        "changedBlocks": 3,
+        "newLedgerRows": 3
+      }
+    },
+    "annotationChecks": {
+      "allUnchangedDefinitionsExact": true,
+      "allProposedFirstsAndRenderedTargetsVerified": true,
+      "oldSpans": 54990,
+      "newSpans": 55001,
+      "protectedFilesExact": [
+        "index.html",
+        "assets/reader.css",
+        "assets/library.css",
+        "assets/reader.js",
+        "assets/theme/base.css",
+        "assets/theme/theme.js",
+        "assets/series-redirect.js"
+      ]
+    },
+    "idempotence": [
+      {
+        "pass": 1,
+        "filesChecked": 2589,
+        "changed": []
+      },
+      {
+        "pass": 2,
+        "filesChecked": 2589,
+        "changed": []
+      }
+    ],
+    "independentReview": "Passed: all three mechanical repairs and ten annotation proposals; independent comparison of 747 chapter JSON files, 90,461 blocks, 973 prior repair spans, all 912 full HTML documents, and 454 protected files; isolated two-pass maintenance replay with zero changed files; full test suite and baseline validation.",
+    "publication": "Exact resulting commit, its Pages workflow, changed deployed HTML/JSON, and selected live cloud-browser reading flows are verified during publication; the final delivery includes the run and commit links."
+  },
+  "limits": [
+    "No newly available original EPUB. The three text repairs are individually mechanical; the poem corroborates one, but none is claimed to have a newly collated independent novel-edition witness.",
+    "All 33 prior formal deferrals and 80 ambiguous New Sun delimiters remain. A fresh duplicated-clause candidate and the Fifth Head dog/With punctuation remain unresolved.",
+    "Full-corpus screening is not uninterrupted close reading, exhaustive allusion discovery or certification of every existing source URL.",
+    "No changes to shared styles, runtime, theme or mobile/home controls. Numeric per-reader edition metadata/cache versions advance where the existing editorial maintenance requires them.",
+    "Native phone/Safari and print rendering are not claimed."
+  ]
+}
