@@ -113,13 +113,13 @@ class HomeNavigation(unittest.TestCase):
         self.assertNotIn('site-home', js)
         self.assertNotIn('.mobile-tools .site-home', css)
         self.assertIn('.appearance{display:flex;align-items:center;gap:.5rem;position:absolute;', css)
-        self.assertIn('.static-header .site-utility-pair{margin-left:auto}', css)
+        self.assertIn('.static-header .site-utility-pair{position:absolute;top:0;right:0;margin-left:0}', css)
         self.assertNotIn('.static-header .theme-toggle{margin-left:auto}', css)
 
     def test_narrow_static_headers_wrap_in_flow_without_old_top_spacer(self):
         css = (ROOT / 'assets/reader.css').read_text()
-        self.assertIn('@media(max-width:919px){.static-header{position:static;flex-wrap:wrap;', css)
-        self.assertIn('column-gap:clamp(.75rem,2.5vw,1.5rem);row-gap:.5rem;margin:15px 24px 0', css)
+        self.assertIn('@media(max-width:919px){.static-header{position:relative;top:auto;flex-wrap:wrap;', css)
+        self.assertIn('column-gap:clamp(.75rem,2.5vw,1.5rem);row-gap:.5rem;margin-top:var(--site-frame-top,24px)', css)
         self.assertIn('.static-header+.static-reading,.static-header+.document{margin-top:2rem}', css)
         base = (ROOT / 'assets/theme/base.css').read_text()
         self.assertIn('.site-utility-pair { display: inline-flex; align-items: center; flex: none;', base)

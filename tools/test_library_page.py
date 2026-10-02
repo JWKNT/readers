@@ -101,28 +101,25 @@ class LibraryPage(unittest.TestCase):
             series_readers.library_page()
             build.assert_called_once_with(series_readers.ROOT)
 
-    def test_mobile_catalog_header_has_explicit_two_row_placement(self):
+    def test_mobile_catalog_leaves_utility_placement_to_the_shared_frame(self):
         css = (ROOT / 'assets/library.css').read_text()
         mobile = css.split('@media (max-width: 48rem) {', 1)[1].split('@media (max-width: 34rem)', 1)[0]
-        self.assertIn('.site-header.site-header--identity.library-header {\n    display: grid;', mobile)
-        self.assertIn('grid-template-columns: minmax(0, 1fr) auto;', mobile)
-        self.assertIn('.library-header > .site-brand { grid-column: 1; grid-row: 1; }', mobile)
-        self.assertIn('.library-header > .site-utility-pair { grid-column: 2; grid-row: 1; justify-self: end; }', mobile)
-        self.assertIn('.library-header nav.author-nav { grid-column: 1 / -1; grid-row: 2;', mobile)
+        self.assertIn('.library-header nav.author-nav { flex-basis: 100%; width: 100%; margin-left: 0;', mobile)
         self.assertIn('.library-header .author-nav a { min-height: 2.75rem; }', mobile)
+        self.assertNotIn('grid-column', mobile)
+        self.assertNotIn('.library-header > .site-utility-pair', css)
         self.assertNotIn('order: 3', mobile)
-        # Outside the mobile breakpoint the established desktop flex layout wins.
-        desktop = css.split('@media (max-width: 48rem)', 1)[0]
-        self.assertNotIn('.site-header.site-header--identity.library-header', desktop)
 
-    def test_shared_mobile_header_overrides_identity_specificity(self):
+    def test_vendored_header_reserves_a_stable_absolute_utility_slot(self):
         css = (ROOT / 'assets/theme/base.css').read_text()
-        mobile = css.split('@media (max-width: 42rem) {', 1)[1].split('@media (pointer: coarse)', 1)[0]
-        self.assertIn('.site-header, .site-header.site-header--identity { align-items: stretch; flex-flow: column nowrap;', mobile)
-        self.assertIn('.site-header nav, .site-header.site-header--identity nav { width: 100%; margin-left: 0;', mobile)
-        self.assertIn('.site-header nav > a:not(.site-home)', mobile)
-        self.assertIn('min-width: 2.75rem; min-height: 2.75rem;', mobile)
-        self.assertIn('.site-header nav > .site-utility-pair, .site-header nav > .theme-toggle { margin-left: auto; }', mobile)
+        self.assertIn('scrollbar-gutter: stable', css)
+        self.assertIn('--site-frame-page: 74rem', css)
+        self.assertIn('--site-frame-width:', css)
+        self.assertIn('.site-header .site-utility-pair { position: absolute; top: var(--site-frame-top); right: 0;', css)
+        self.assertIn('padding: var(--site-frame-top) var(--site-utility-clearance) 1rem 0;', css)
+        self.assertIn('@media (max-width: 60rem)', css)
+        self.assertIn('@media (max-width: 38rem)', css)
+        self.assertNotIn('.site-header nav > .site-utility-pair, .site-header nav > .theme-toggle { margin-left: auto; }', css)
 
 
 if __name__ == '__main__':

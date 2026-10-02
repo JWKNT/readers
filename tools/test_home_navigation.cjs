@@ -22,7 +22,7 @@ test('Contents and Search retain their original mobile toolbar behavior', () => 
 
 test('header control area scrolls with the reader document', () => {
   assert.ok(css.includes('.appearance{display:flex;align-items:center;gap:.5rem;position:absolute;'));
-  assert.ok(css.includes('.static-header .site-utility-pair{margin-left:auto}'));
+  assert.ok(css.includes('.static-header .site-utility-pair{position:absolute;top:0;right:0;margin-left:0}'));
 });
 
 test('shared Home has no footer spacer or focused-field scrolling handler', () => {

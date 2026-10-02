@@ -110,17 +110,8 @@ html { scroll-behavior: auto; }
 .story-list a:hover { text-decoration: underline; }
 
 @media (max-width: 48rem) {
-  /* Keep the catalog's sibling utilities beside its brand, with author jumps
-     on one full-width second row rather than an accidental third flex row. */
-  .site-header.site-header--identity.library-header {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) auto;
-    align-items: center;
-    gap: .375rem 1rem;
-  }
-  .library-header > .site-brand { grid-column: 1; grid-row: 1; }
-  .library-header > .site-utility-pair { grid-column: 2; grid-row: 1; justify-self: end; }
-  .library-header nav.author-nav { grid-column: 1 / -1; grid-row: 2; width: 100%; margin-left: 0; gap: .25rem 1rem; }
+  /* The shared utility slot owns Home/theme; author jumps keep a full row. */
+  .library-header nav.author-nav { flex-basis: 100%; width: 100%; margin-left: 0; gap: .25rem 1rem; }
   .library-header .author-nav a { min-height: 2.75rem; }
   .library { margin-top: 1.75rem; }
   .author-group { grid-template-columns: minmax(0, 1fr); gap: 1.25rem; }

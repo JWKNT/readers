@@ -18,10 +18,25 @@ class ReaderLayout(unittest.TestCase):
             rules = re.findall(re.escape(selector) + r'\{([^}]+)\}', CSS)
             positions = [re.search(r'(?:^|;)position:([^;]+)', rule)[1]
                          for rule in rules if re.search(r'(?:^|;)position:', rule)]
-            self.assertEqual(['absolute', 'static'] if selector == '.static-header' else ['absolute'], positions, selector)
+            self.assertEqual(['absolute', 'relative'] if selector == '.static-header' else ['absolute'], positions, selector)
         # The reader's deliberately persistent navigation still works.
         self.assertIn('.mobile-tools{position:fixed;', CSS)
         self.assertIn('.word-popup{position:fixed;', CSS)
+
+    def test_reader_headers_use_the_shared_viewport_frame(self):
+        appearance = re.search(r'\.appearance\{([^}]+)\}', CSS)[1]
+        static = re.search(r'\.static-header\{([^}]+)\}', CSS)[1]
+        for rule in (appearance, static):
+            self.assertIn('top:var(--site-frame-top,24px)', rule)
+            self.assertIn('var(--site-frame-width,', rule)
+        self.assertIn('right:calc((100% - var(--site-frame-width,', appearance)
+        self.assertIn('width:var(--site-frame-width,', static)
+        self.assertIn('padding-right:var(--site-utility-clearance,6.875rem)', static)
+        self.assertIn('.static-header .site-utility-pair{position:absolute;top:0;right:0;margin-left:0}', CSS)
+        self.assertNotRegex(CSS, r'\.appearance\{top:\d+px;right:\d+px')
+        # Preserve the book content's independent margins and column geometry.
+        self.assertIn('padding:100px 32px 80px', CSS)
+        self.assertIn('padding:85px 28px 85px', CSS)
 
     def test_mobile_initial_has_clearance_before_fourth_line(self):
         mobile = re.search(
