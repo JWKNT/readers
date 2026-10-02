@@ -56,3 +56,10 @@ test('reduced-motion disables transitions for Home and theme alike', () => {
   assert.ok(reduced.includes('[data-theme-toggle].theme-toggle,'));
   assert.ok(reduced.includes('transition: none;'));
 });
+
+
+test('vendored touch navigation keeps the Home utility in the same grid as the dial', () => {
+  const touch = base.split('@media (pointer: coarse) {')[1].split('@media (prefers-reduced-motion: reduce)')[0];
+  assert.match(touch, /\.site-header nav a:not\(\.site-home\), \.site-nav a:not\(\.site-home\)/);
+  assert.doesNotMatch(touch, /\.site-header nav a\s*[,\{]|\.site-nav a\s*[,\{]/);
+});
