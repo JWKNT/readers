@@ -96,6 +96,8 @@ mark { padding-inline: .08em; background: var(--mark); color: inherit; }
 .site-header.site-header--identity { align-items: center; flex-flow: row wrap; padding-block: clamp(1.25rem, 2.5vw, 2rem) 1rem; gap: .8rem 1.5rem; }
 .site-brand { display: flex; align-items: center; gap: .7rem; min-width: 0; max-width: 100%; }
 .site-mark { display: block; flex: none; width: 2rem; height: 2rem; object-fit: contain; }
+:root[data-theme="dark"] .site-mark,
+:root[data-theme="dark"] .site-divider > img { filter: invert(1); }
 .site-header--identity .site-title { min-width: 0; margin: 0; font: 500 clamp(1.3rem, 2vw, 1.55rem)/1.18 var(--display); letter-spacing: -.015em; font-variant: normal; overflow-wrap: anywhere; }
 .site-header.site-header--identity nav { width: auto; margin-left: auto; gap: .6rem 1rem; }
 .site-header--identity nav a { text-decoration-color: transparent; }
@@ -260,6 +262,8 @@ th { color: var(--muted-strong); font: 600 var(--text-ui)/1.4 var(--sans); }
   [data-theme-toggle].theme-toggle::before { transition: none; }
 }
 @media print {
+  :root[data-theme="dark"] .site-mark,
+  :root[data-theme="dark"] .site-divider > img { filter: none; }
   :root, :root[data-theme="dark"] {
     --paper: #fff; --surface: #fff; --surface-blue: #f1f1f1;
     --ink: #000; --muted-strong: #333; --muted: #444; --faint: #555;
