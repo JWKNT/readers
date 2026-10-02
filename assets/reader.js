@@ -194,8 +194,10 @@
   async function openChapter(id,paragraph) {
     const meta=chapter(id);if(!meta)throw new Error('The chapter address does not exist.');
     closeDialogs();closePopup(false);$('#error-panel').hidden=true;
-    if(state.chapter?.id===id){scrollToPassage(paragraph);return;}
-    const token=++state.token;state.loading=true;$('#reading').setAttribute('aria-busy','true');
+    // Every navigation supersedes pending work, even a return to the visible chapter.
+    const token=++state.token;
+    if(state.chapter?.id===id){state.loading=false;$('#reading').setAttribute('aria-busy','false');scrollToPassage(paragraph);return;}
+    state.loading=true;$('#reading').setAttribute('aria-busy','true');
     try {
       let c=state.cache.get(id);if(!c){c=await getJSON('chapters/'+id+'.json');state.cache.set(id,c);if(state.cache.size>8)state.cache.delete(state.cache.keys().next().value);}
       if(token!==state.token)return;
@@ -216,6 +218,14 @@
       if($('#search-input').value.trim())doSearch();
     }catch(e){if(token===state.token){state.loading=false;$('#reading').setAttribute('aria-busy','false');showError(e);}}
   }
+  function rememberPassage(event,link) {
+    if(event.defaultPrevented||event.button>0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
+    if((link.target&&link.target!=='_self')||!link.hasAttribute('data-route')||!link.closest('#chapter-body'))return;
+    const block=link.closest('[data-block]');if(!block?.id||!state.chapter)return;
+    // Give Back an exact footnote origin without storing a reading position.
+    const url=new URL(location.href);url.hash=state.chapter.id+'/'+block.id;
+    history.replaceState(history.state,'',url);
+  }
   function scrollToPassage(id) {
     const el=id?$('#reading').querySelector('#'+CSS.escape(id)):null;
     if(el){el.scrollIntoView({block:'start',behavior:'instant'});window.scrollBy(0,-28);}
@@ -224,7 +234,7 @@
   async function navigate() {
     if(!state.manifest)return;
     const r=route();const id=chapter(r.chapter)?r.chapter:state.manifest.defaultChapter;
-    if(r.chapter&&!chapter(r.chapter)){showError(new Error('Unknown chapter address.'));return;}
+    if(r.chapter&&!chapter(r.chapter)){++state.token;state.loading=false;$('#reading').setAttribute('aria-busy','false');showError(new Error('Unknown chapter address.'));return;}
     try{await openChapter(id,r.paragraph);}catch(e){showError(e);}
   }
   function positionPopup() {
@@ -286,7 +296,7 @@
   $('#search-button').addEventListener('click',()=>{$('#search-dialog').showModal();$('#search-input').focus();});
   $$('[data-close]').forEach(b=>b.addEventListener('click',()=>b.closest('dialog').close()));
   $$('dialog').forEach(d=>d.addEventListener('click',e=>{if(e.target===d){const r=d.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)d.close();}}));
-  document.addEventListener('click',e=>{const a=e.target.closest('a[href^="#"]');if(!a||a.classList.contains('skip-link'))return;if(a.hash===location.hash){e.preventDefault();closeDialogs();navigate();}else if(a.closest('.toc,#search-results'))closeDialogs();});
+  document.addEventListener('click',e=>{const a=e.target.closest('a[href^="#"]');if(!a||a.classList.contains('skip-link'))return;if(a.hash===location.hash){e.preventDefault();closeDialogs();navigate();}else {rememberPassage(e,a);if(a.closest('.toc,#search-results'))closeDialogs();}});
   document.addEventListener('keydown',e=>{
     if(e.key==='Escape'){if(!popup.hidden){e.preventDefault();closePopup(true);}else if(e.target===$('#search-input')&&e.target.value){e.preventDefault();e.target.value='';doSearch();}return;}
     if(e.target.closest('input,textarea,select,[contenteditable="true"]'))return;

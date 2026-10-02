@@ -64,7 +64,8 @@ There is no remembered reading position or account. Theme preference is inherite
 from the original site. Original named-character lists, where supplied, remain
 optional under each volume's “Names in the text”; these may contain spoilers.
 The Liu novels keep original notes, character lists, era tables, and postscripts
-in “Supplementary material.” Original footnote links also work within chapters.
+in “Supplementary material.” Original footnote links also work within chapters. Browser Back returns to the
+paragraph that opened an in-text footnote.
 
 ## Plain HTML
 
@@ -238,3 +239,5 @@ python3 tools/validate.py --baseline 337d71b
 readers. The Liu importer and annotation-maintenance command invoke it
 automatically. If replaying editorial repairs against a retained Liu source,
 run the assembly afterward. See [NOTES-V16.md](NOTES-V16.md) for this release.
+
+Navigation-state and footnote-history regression tests: `node --test tools/test_navigation.cjs tools/test_footnote_history.cjs`.
