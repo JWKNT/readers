@@ -63,3 +63,8 @@ test('vendored touch navigation keeps the Home utility in the same grid as the d
   assert.match(touch, /\.site-header nav a:not\(\.site-home\), \.site-nav a:not\(\.site-home\)/);
   assert.doesNotMatch(touch, /\.site-header nav a\s*[,\{]|\.site-nav a\s*[,\{]/);
 });
+
+
+test('empty Readers theme buttons and Home fallback spans share the same icon track', () => {
+  assert.match(base, /header a\.site-home,\s*header \[data-theme-toggle\]\.theme-toggle \{\s*grid-template-rows: minmax\(0, 1fr\);\s*grid-auto-rows: 0;/);
+});
