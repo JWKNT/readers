@@ -76,7 +76,7 @@ class HomeNavigation(unittest.TestCase):
                     else:
                         self.assertIn(ref, ('?v=' + STYLE_VERSION, '?v=' + THEME_VERSION))
                 if 'assets/reader.js' in source:
-                    self.assertIn('assets/reader.js?v=reader-20261002-navigation', source)
+                    self.assertIn('assets/reader.js?v=reader-20261003-controls', source)
 
     def test_generated_catalog_and_static_exports_keep_native_header_home(self):
         pages = [render_library(), imported_page('Test', '<p>Book text</p>', ''),

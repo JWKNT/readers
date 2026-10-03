@@ -298,6 +298,7 @@
   $$('dialog').forEach(d=>d.addEventListener('click',e=>{if(e.target===d){const r=d.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)d.close();}}));
   document.addEventListener('click',e=>{const a=e.target.closest('a[href^="#"]');if(!a||a.classList.contains('skip-link'))return;if(a.hash===location.hash){e.preventDefault();closeDialogs();navigate();}else {rememberPassage(e,a);if(a.closest('.toc,#search-results'))closeDialogs();}});
   document.addEventListener('keydown',e=>{
+    if(e.defaultPrevented)return;
     if(e.key==='Escape'){if(!popup.hidden){e.preventDefault();closePopup(true);}else if(e.target===$('#search-input')&&e.target.value){e.preventDefault();e.target.value='';doSearch();}return;}
     if(e.target.closest('input,textarea,select,[contenteditable="true"]'))return;
     if(e.key==='/'||((e.metaKey||e.ctrlKey)&&e.key.toLowerCase()==='k')){e.preventDefault();if(!desktop.matches)$('#search-dialog').showModal();$('#search-input').focus();}

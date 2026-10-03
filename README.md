@@ -82,7 +82,10 @@ short marginal glosses, full definitions, and independent source links. No
 reference-guide files, font programs, editorial section, or audit pages are included.
 
 This is a static export. A reproducible, source-specific importer for the supplied
-Liu omnibus lives in `tools/import_earths_past.py`; it is not a general EPUB application. Typography changes
+Liu omnibus lives in `tools/import_earths_past.py`; it is not a general EPUB application. The optional dropdown assets in `assets/theme/components.css` and `assets/theme/components.js`
+are exact copies of `site-theme/v2/`. Copy both files together when updating this component.
+The interactive shells opt in with `data-ui-select`. Importers inherit these controls from the Short Sun shell.
+Typography changes
 can be made in assets/reader.css. Preserve chapter/paragraph IDs when editing text.
 Documented corrections retain their original strings in `data-original` attributes;
 adding `?wording=source` before a chapter hash displays that wording.
