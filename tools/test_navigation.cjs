@@ -67,6 +67,31 @@ test('an unknown chapter address cancels a previous request and clears busy stat
   assert.equal(h.state.chapter.id, 'a');
 });
 
+test('the skip link preserves the visible chapter and a pending chapter request', async () => {
+  const h = setup();
+  const pending = h.openChapter('b');
+  h.context.currentRoute = { chapter: 'reading' };
+  await h.navigate();
+  assert.deepEqual(h.errors, []);
+  assert.equal(h.node('#error-panel').hidden, true);
+  assert.equal(h.state.loading, true);
+  h.requests.get('chapters/b.json').resolve({ id: 'b', title: 'B', html: '<p>B</p>', volume: 'one' });
+  await pending;
+  assert.equal(h.state.chapter.id, 'b');
+});
+
+test('opening the document anchor directly loads the default chapter', async () => {
+  const h = setup();
+  h.state.chapter = null;
+  h.context.currentRoute = { chapter: 'reading' };
+  const pending = h.navigate();
+  h.requests.get('chapters/a.json').resolve({ id: 'a', title: 'A', html: '<p>A</p>', volume: 'one' });
+  await pending;
+  assert.deepEqual(h.errors, []);
+  assert.equal(h.state.chapter.id, 'a');
+  assert.equal(h.state.loading, false);
+});
+
 test('the latest pending chapter wins and a failed request can be retried', async () => {
   const h = setup();
   const first = h.openChapter('b');

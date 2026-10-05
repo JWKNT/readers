@@ -1,0 +1,51 @@
+[
+  {
+    "id": "dokja-reader",
+    "term": "Dokja / reader",
+    "aliases": [
+      "dear reader"
+    ],
+    "includeChapters": [
+      "prologue"
+    ],
+    "short": "Dokja sounds like the Korean word for reader.",
+    "note": "Dokja and the Korean word for reader have the same sound. The author’s “dear reader” can also be heard as a polite address to Dokja.",
+    "sources": [
+      {
+        "url": "https://omniscient-readers-viewpoint.fandom.com/wiki/Chapter_1_%28webtoon%29",
+        "label": "ORV wiki · Name and reader wordplay"
+      }
+    ],
+    "occurrences": 2,
+    "first": {
+      "chapter": "prologue",
+      "paragraph": "p-069",
+      "index": 0
+    }
+  },
+  {
+    "id": "chuunibyou",
+    "term": "Chuunibyou",
+    "aliases": [
+      "chuunibyou"
+    ],
+    "short": "A term for adolescent fantasies of exceptional powers or importance.",
+    "note": "The Korean expression here means “second-year middle-school syndrome.” It refers to adolescent fantasies of hidden powers or exceptional importance. Chuunibyou is the spelling used for the attribute in the ORV wiki.",
+    "sources": [
+      {
+        "url": "https://omniscient-readers-viewpoint.fandom.com/wiki/Kim_Namwoon#Abilities",
+        "label": "ORV wiki · Attribute spelling"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ch%C5%ABniby%C5%8D",
+        "label": "Chūnibyō · Cultural meaning"
+      }
+    ],
+    "occurrences": 6,
+    "first": {
+      "chapter": "chapter-001",
+      "paragraph": "p-669",
+      "index": 1
+    }
+  }
+]

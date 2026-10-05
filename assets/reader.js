@@ -233,7 +233,13 @@
   }
   async function navigate() {
     if(!state.manifest)return;
-    const r=route();const id=chapter(r.chapter)?r.chapter:state.manifest.defaultChapter;
+    const r=route();
+    // The skip link targets the document, not a chapter address.
+    if(r.chapter==='reading'&&!r.paragraph){
+      if(state.chapter){$('#error-panel').hidden=true;return;}
+      await openChapter(state.manifest.defaultChapter);return;
+    }
+    const id=chapter(r.chapter)?r.chapter:state.manifest.defaultChapter;
     if(r.chapter&&!chapter(r.chapter)){++state.token;state.loading=false;$('#reading').setAttribute('aria-busy','false');showError(new Error('Unknown chapter address.'));return;}
     try{await openChapter(id,r.paragraph);}catch(e){showError(e);}
   }
