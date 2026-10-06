@@ -26,12 +26,13 @@ ROOT = Path(__file__).resolve().parents[1]
 SLUG = 'omniscient-readers-viewpoint'
 TITLE = 'Omniscient Reader’s Viewpoint'
 AUTHOR = 'Sing Shong'
-EDITION = 21
+EDITION = 22
 STAGES = ('mt-draft', 'accuracy-reviewed', 'prose-reviewed', 'reader-verified')
 TARGET_STAGES = ('untranslated',) + STAGES
 IDENTIFIER = re.compile(r'[a-z0-9]+(?:-[a-z0-9]+)*\Z')
 SHA256 = re.compile(r'[0-9a-f]{64}\Z')
 HANGUL = re.compile(r'[\u1100-\u11ff\u3130-\u318f\ua960-\ua97f\uac00-\ud7af\ud7b0-\ud7ff]')
+CRYING_EMOTICON = re.compile(r'(?<!\w)ㅠㅠ(?!\w)')
 PLACEHOLDER = re.compile(r'^\s*(?:TODO|TBD|TRANSLATION PENDING|UNTRANSLATED|\[\[PLACEHOLDER\]\])(?:\s*[:.]|\s*$)', re.I)
 
 
@@ -67,9 +68,17 @@ def valid_hash(value):
     return isinstance(value, str) and SHA256.fullmatch(value)
 
 
-def english_text(value, location):
+def english_text(value, location, *, source_text=None):
     require(nonempty(value), f'{location}: empty English text')
-    require(not HANGUL.search(value), f'{location}: untranslated Korean text')
+    checked = value
+    # Preserve this printed emoticon without accepting untranslated Korean or
+    # introducing more copies than the corresponding source row contains.
+    if source_text is not None:
+        source_count = len(CRYING_EMOTICON.findall(source_text))
+        target_count = len(CRYING_EMOTICON.findall(value))
+        if target_count <= source_count:
+            checked = CRYING_EMOTICON.sub('', value)
+    require(not HANGUL.search(checked), f'{location}: untranslated Korean text')
     require('\ufffd' not in value, f'{location}: replacement character')
     require(not PLACEHOLDER.search(value), f'{location}: translation placeholder')
 
@@ -172,10 +181,10 @@ def validate_target(chapter, source, target, *, check_english=True):
         require(isinstance(row.get('text'), str), f'{location}: invalid row text')
         if row['status'] == 'untranslated':
             if check_english and row['text'].strip():
-                english_text(row['text'], location)
+                english_text(row['text'], location, source_text=original['source'])
             continue
         if check_english:
-            english_text(row.get('text'), location)
+            english_text(row.get('text'), location, source_text=original['source'])
         if check_english and original['type'] != 'scene-break' and HANGUL.search(original['source']):
             require(row['text'].strip() != original['source'].strip(), f'{location}: unchanged Korean source')
         if original['type'] == 'scene-break':
@@ -417,6 +426,8 @@ def build(root=ROOT, data=None, require_complete=False, update_library=False, mi
                       lambda match: '<h1 id="chapter-title">' + chapters[0]['headingHtml'] + '</h1>', template, flags=re.S)
     template = template.replace('chapters/blue-prelude.html', 'chapters/' + chapters[0]['id'] + '.html')
     template = re.sub(r'\?v=\d+', f'?v={EDITION}', template)
+    template = re.sub(r'(\.\./assets/reader\.js)(?:\?[^\"\s]+)?',
+                      lambda match: match.group(1) + f'?v=orv-{EDITION}', template)
     (destination / 'index.html').write_text(add_status(template, translation))
     contents = ''.join(chapter_contents(chapters, volume) for volume in volumes)
     page = static_page(TITLE, contents, '<a href="../">Readers</a><a href="index.html">Reader</a>', []).replace('../../assets/', '../assets/')

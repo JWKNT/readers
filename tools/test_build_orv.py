@@ -93,6 +93,8 @@ class OrvBuilder(unittest.TestCase):
         self.assertEqual(''.join(current.text), ''.join(Inspect(article(index)).text))
         self.assertIn('Translation draft. 1 of 3 source sections are available.', index)
         self.assertNotIn('series-switch', index)
+        self.assertIn(f'../assets/reader.js?v=orv-{builder.EDITION}', index)
+        self.assertEqual(builder.EDITION, manifest['editionVersion'])
         search = json.loads((destination / 'search.json').read_text())[0]['paragraphs']
         self.assertEqual('[The story begins.] [Choose <a & b>.]', search[2]['text'])
         self.assertEqual([], json.loads((self.root / 'library.json').read_text()))
@@ -220,6 +222,35 @@ class OrvBuilder(unittest.TestCase):
                 modifier(target)
                 with self.assertRaises(builder.BuildError):
                     self.validate(target)
+
+    def test_source_attested_crying_emoticon_survives_the_english_gate(self):
+        self.sources['chapter-001']['rows'][0]['source'] = '「현재 수정 중입니다. ㅠㅠ」'
+        target = copy.deepcopy(self.targets['chapter-001'])
+        target['rows'][0]['text'] = '「Currently revising. ㅠㅠ」'
+        self.validate(target)
+        self.assertEqual('「Currently revising. ㅠㅠ」', target['rows'][0]['text'])
+
+        rejected = ('Currently revising. ㅠㅠ ㅠㅠ', 'Currently 수정. ㅠㅠ',
+                    'Currently revising. ㅠㅠㅠ', 'Currently revising. 한국ㅠㅠ',
+                    'Currently revising. ㅜㅜ', 'Currently revising. ㅠㅠ한국')
+        for text in rejected:
+            with self.subTest(text=text):
+                target['rows'][0]['text'] = text
+                with self.assertRaisesRegex(builder.BuildError, 'untranslated Korean text'):
+                    self.validate(target)
+
+        target['rows'][0]['text'] = '「Currently revising. ㅠㅠ」'
+        self.sources['chapter-001']['rows'][0]['source'] = '현재 수정 중입니다.'
+        with self.assertRaisesRegex(builder.BuildError, 'untranslated Korean text'):
+            self.validate(target)
+        self.sources['chapter-001']['rows'][0]['source'] += ' ㅠㅠㅠ'
+        with self.assertRaisesRegex(builder.BuildError, 'untranslated Korean text'):
+            self.validate(target)
+
+        self.sources['chapter-001']['rows'][0]['source'] = '현재 수정 중입니다. ㅠㅠ'
+        target['title'] = 'The Beginning ㅠㅠ'
+        with self.assertRaisesRegex(builder.BuildError, 'title: untranslated Korean text'):
+            self.validate(target)
 
     def prose_target(self, cid):
         target = copy.deepcopy(self.targets[cid])

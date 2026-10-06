@@ -41,11 +41,32 @@
         "label": "Chūnibyō · Cultural meaning"
       }
     ],
-    "occurrences": 6,
+    "occurrences": 11,
     "first": {
       "chapter": "chapter-001",
       "paragraph": "p-669",
       "index": 1
+    }
+  },
+  {
+    "id": "chapter-023-bloodshed-source-wording",
+    "term": "Balk at bloodshed",
+    "aliases": [
+      "balk even at bloodshed"
+    ],
+    "includeChapters": [
+      "chapter-023"
+    ],
+    "short": "The printed wording contrasts with the surrounding description.",
+    "note": "The printed Korean says the kings would balk at bloodshed. The same sentence describes a “savage” mood. The translation preserves this tension. Source: supplied Korean PDF, page 1495.",
+    "sources": [],
+    "kind": "source-qualification",
+    "sourceLabel": "Supplied Korean PDF, page 1495",
+    "occurrences": 1,
+    "first": {
+      "chapter": "chapter-023",
+      "paragraph": "p-367",
+      "index": 23
     }
   }
 ]
