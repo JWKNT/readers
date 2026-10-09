@@ -7,4 +7,5 @@ Thumbs.db
 *.otf
 *.woff
 *.woff2
+!assets/theme/fonts/WrenfoldText-Regular.woff2
 tests/output/

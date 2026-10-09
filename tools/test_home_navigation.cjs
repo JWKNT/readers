@@ -38,12 +38,12 @@ test('Home and theme share geometry, ink and icon scale without local overrides'
   for (const declaration of ['width: var(--utility-size, 2.75rem)', 'height: var(--utility-size, 2.75rem)', 'margin: 0', 'color: var(--muted-strong)', 'opacity: 1']) assert.ok(utilities.includes(declaration));
   assert.ok(base.includes('gap: var(--utility-gap, .375rem)'));
   assert.ok(base.includes('width: var(--utility-icon-size, 1.6rem)'));
-  assert.ok(base.includes('icons/home-compass.svg'));
+  assert.ok(base.includes('icons/home-folio-scroll.svg'));
   assert.ok(!base.includes('icons/home-emblem.svg'));
-  for (const icon of ['home-compass.svg', 'search-slash.svg']) assert.ok(fs.existsSync(path.join(__dirname, '..', 'assets/theme/icons', icon)));
+  for (const icon of ['home-folio-scroll.svg', 'search-slash.svg']) assert.ok(fs.existsSync(path.join(__dirname, '..', 'assets/theme/icons', icon)));
   assert.ok(!css.includes('.static-header .theme-toggle{margin-left:auto}'));
   assert.ok(css.includes('a:not(.site-home):hover,a:not(.site-home):visited'));
-  assert.ok(css.includes('button:not(.theme-toggle):focus-visible'));
+  assert.ok(css.includes('button:not(.theme-toggle):not(.ui-select-trigger):focus-visible'));
   const library = read('assets/library.css');
   assert.ok(library.includes('.library-page a:not(.site-home) { color: var(--ink); }'));
   assert.ok(library.includes('.library-page button:not(.theme-toggle):focus-visible'));
@@ -66,5 +66,5 @@ test('vendored touch navigation keeps the Home utility in the same grid as the d
 
 
 test('empty Readers theme buttons and Home fallback spans share the same icon track', () => {
-  assert.match(base, /header a\.site-home,\s*header \[data-theme-toggle\]\.theme-toggle \{\s*grid-template-rows: minmax\(0, 1fr\);\s*grid-auto-rows: 0;/);
+  assert.match(base, /a\.site-home,\s*\[data-theme-toggle\]\.theme-toggle,\s*button\.site-search \{\s*grid-template-rows: minmax\(0, 1fr\);\s*grid-auto-rows: 0;/);
 });

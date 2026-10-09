@@ -56,8 +56,8 @@ def render_library(root=ROOT, library=None):
 <meta name="robots" content="noindex,nofollow,noarchive">
 <title>Readers</title>
 <script src="assets/theme/theme.js?v=theme-20260930-header-home"></script>
-<link rel="stylesheet" href="assets/theme/base.css?v=theme-20261001-utilities">
-<link rel="stylesheet" href="assets/library.css?v=library-20261001-utilities">
+<link rel="stylesheet" href="assets/theme/base.css?v=theme-20261009-reading-folio">
+<link rel="stylesheet" href="assets/library.css?v=library-20261009-reading-folio">
 <link rel="icon" href="assets/theme/favicons/readers.png">
 <script defer src="assets/retire-offline.js"></script>
 </head>

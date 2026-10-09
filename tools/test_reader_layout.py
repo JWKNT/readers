@@ -9,7 +9,7 @@ import unittest
 
 ROOT = Path(__file__).resolve().parents[1]
 CSS = (ROOT / 'assets/reader.css').read_text()
-STYLE_VERSION = 'layout-20261001-utilities'
+STYLE_VERSION = 'layout-20261009-reading-folio'
 
 
 class ReaderLayout(unittest.TestCase):
@@ -58,7 +58,7 @@ class ReaderLayout(unittest.TestCase):
         count = 0
         for page in ROOT.rglob('*.html'):
             for href in re.findall(r'href=[\"\']([^\"\']*assets/reader\.css[^\"\']*)', page.read_text()):
-                self.assertTrue(href.endswith(('?v=' + STYLE_VERSION, '?v=layout-20260930-header-home', '?v=layout-20261003-controls')), str(page))
+                self.assertTrue(href.endswith(('?v=' + STYLE_VERSION, '?v=layout-20260930-header-home', '?v=layout-20261003-controls', '?v=layout-20261001-utilities')), str(page))
                 count += 1
         self.assertGreater(count, 900)
 

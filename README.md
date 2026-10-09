@@ -79,7 +79,9 @@ search loads the selected book's search index only when needed.
 original theme. Each book directory contains index.html, contents.html, chapter
 JSON/HTML, manifest.json, glossary.json, and search.json. Vocabulary is stored as
 short marginal glosses, full definitions, and independent source links. No
-reference-guide files, font programs, editorial section, or audit pages are included.
+reference-guide files, editorial section, or audit pages are included.
+Wrenfold Text is included in `assets/theme/fonts/` for reading text.
+Keep its license and copyright notices with redistributed copies.
 
 This is a static export. A reproducible, source-specific importer for the supplied
 Liu omnibus lives in `tools/import_earths_past.py`; it is not a general EPUB application. The optional dropdown assets in `assets/theme/components.css` and `assets/theme/components.js`

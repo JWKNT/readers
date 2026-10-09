@@ -13,7 +13,7 @@ HOME = ('<a class="site-home" href="https://jehlp.net/" '
         'aria-label="Home — jehlp.net" title="Home — jehlp.net">'
         '<span aria-hidden="true">✳</span></a>')
 THEME_VERSION = 'theme-20260930-header-home'
-STYLE_VERSION = 'theme-20261001-utilities'
+STYLE_VERSION = 'theme-20261009-reading-folio'
 
 
 class Headers(HTMLParser):
@@ -42,7 +42,7 @@ class Headers(HTMLParser):
 class HomeNavigation(unittest.TestCase):
     def test_every_html_page_has_one_native_header_home(self):
         pages = list(ROOT.rglob('*.html'))
-        self.assertEqual(912, len(pages))
+        self.assertEqual(965, len(pages))
         aliases = 0
         for page in pages:
             source = page.read_text()
@@ -74,9 +74,10 @@ class HomeNavigation(unittest.TestCase):
                     if page == ROOT / 'index.html' or asset == 'theme.js':
                         self.assertEqual('?v=' + version, ref)
                     else:
-                        self.assertIn(ref, ('?v=' + STYLE_VERSION, '?v=' + THEME_VERSION))
+                        self.assertIn(ref, ('?v=' + STYLE_VERSION, '?v=' + THEME_VERSION, '?v=theme-20261001-utilities'))
                 if 'assets/reader.js' in source:
-                    self.assertIn('assets/reader.js?v=reader-20261003-controls', source)
+                    version = 'orv-22' if page.parent.name == 'omniscient-readers-viewpoint' else 'reader-20261003-controls'
+                    self.assertIn('assets/reader.js?v=' + version, source)
 
     def test_generated_catalog_and_static_exports_keep_native_header_home(self):
         pages = [render_library(), imported_page('Test', '<p>Book text</p>', ''),
@@ -100,7 +101,7 @@ class HomeNavigation(unittest.TestCase):
         source = series_page('Test', '<p>Book text</p>', '', [])
         rebuilt = re.sub(r'\?v=\d+', '?v=99', source)
         for asset, version in [('theme/base.css', STYLE_VERSION), ('theme/theme.js', THEME_VERSION),
-                               ('reader.css', 'layout-20261001-utilities')]:
+                               ('reader.css', 'layout-20261009-reading-folio')]:
             self.assertIn('assets/' + asset + '?v=' + version, rebuilt)
         self.assertIn('assets/initials/initials.css?v=99', rebuilt)
 
@@ -126,8 +127,8 @@ class HomeNavigation(unittest.TestCase):
 
     def test_home_icon_is_vendored_without_footer_spacing(self):
         css = (ROOT / 'assets/theme/base.css').read_text()
-        self.assertTrue((ROOT / 'assets/theme/icons/home-compass.svg').is_file())
-        self.assertIn('icons/home-compass.svg', css)
+        self.assertTrue((ROOT / 'assets/theme/icons/home-folio-scroll.svg').is_file())
+        self.assertIn('icons/home-folio-scroll.svg', css)
         self.assertNotIn('--site-home-clearance', css)
         self.assertNotIn('body:has(.site-home)::after', css)
         self.assertNotIn('.site-home-dock', css)
