@@ -41,7 +41,11 @@ class LibraryPage(unittest.TestCase):
         for book in self.library:
             self.assertEqual(1, self.catalog.links.count(book['id'] + '/'), book['id'])
         self.assertEqual(73, sum(book.get('kind') == 'story' for book in self.library))
-        self.assertEqual(96, sum(not urlsplit(link).scheme and not link.startswith('#') for link in self.catalog.links))
+        volume_counts = [sum(bool(volume['chapters']) for volume in book['volumes'])
+                         for book in self.library if book.get('kind') != 'story']
+        volume_links = sum(count for count in volume_counts if count > 1)
+        self.assertEqual(len(self.library) + volume_links,
+                         sum(not urlsplit(link).scheme and not link.startswith('#') for link in self.catalog.links))
 
     def test_every_catalog_link_resolves(self):
         self.assertEqual(len(self.catalog.ids), len(set(self.catalog.ids)))
@@ -75,7 +79,8 @@ class LibraryPage(unittest.TestCase):
         self.assertEqual(1, len(headings))
         self.assertNotIn('sr-only', headings[0][1].get('class', ''))
         self.assertNotIn('/', self.catalog.links)
-        self.assertIn(('nav', {'class': 'author-nav', 'aria-label': 'Authors'}), self.catalog.tags)
+        self.assertNotIn('author-nav', self.page)
+        self.assertFalse(any(tag == 'a' and attrs.get('class') == 'site-title' for tag, attrs in self.catalog.tags))
         self.assertIn(('main', {'class': 'library', 'id': 'catalog', 'tabindex': '-1'}), self.catalog.tags)
         mark = next(attrs for tag, attrs in self.catalog.tags if tag == 'img')
         self.assertEqual('', mark['alt'])
@@ -104,8 +109,7 @@ class LibraryPage(unittest.TestCase):
     def test_mobile_catalog_leaves_utility_placement_to_the_shared_frame(self):
         css = (ROOT / 'assets/library.css').read_text()
         mobile = css.split('@media (max-width: 48rem) {', 1)[1].split('@media (max-width: 34rem)', 1)[0]
-        self.assertIn('.library-header nav.author-nav { flex-basis: 100%; width: 100%; margin-left: 0;', mobile)
-        self.assertIn('.library-header .author-nav a { min-height: 2.75rem; }', mobile)
+        self.assertNotIn('author-nav', css)
         self.assertNotIn('grid-column', mobile)
         self.assertNotIn('.library-header > .site-utility-pair', css)
         self.assertNotIn('order: 3', mobile)

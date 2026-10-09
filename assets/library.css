@@ -1,5 +1,5 @@
 /* Catalog only. Reading pages retain their independent book typography. */
-/* Long author jumps and rapid keyboard skips should land immediately. */
+/* Keyboard skips should land immediately. */
 html { scroll-behavior: auto; }
 :root {
   --serif: Georgia, "Times New Roman", serif;
@@ -26,17 +26,6 @@ html { scroll-behavior: auto; }
 .library-page .skip-link:focus { top: .5rem; }
 .library-header .site-title { font-weight: 700; }
 .library-header .theme-toggle { margin-left: 0; }
-.library-header nav.author-nav {
-  font: 400 .875rem/1.4 var(--serif);
-  gap: .25rem 1.5rem;
-}
-.library-header .author-nav a {
-  display: inline-flex;
-  align-items: center;
-  min-height: 2.25rem;
-  color: var(--muted-strong);
-}
-.library-header .author-nav a:hover { color: var(--ink); }
 .library {
   width: min(var(--page), calc(100% - 2 * var(--gutter)));
   margin: 2.5rem auto 5rem;
@@ -110,9 +99,6 @@ html { scroll-behavior: auto; }
 .story-list a:hover { text-decoration: underline; }
 
 @media (max-width: 48rem) {
-  /* The shared utility slot owns Home/theme; author jumps keep a full row. */
-  .library-header nav.author-nav { flex-basis: 100%; width: 100%; margin-left: 0; gap: .25rem 1rem; }
-  .library-header .author-nav a { min-height: 2.75rem; }
   .library { margin-top: 1.75rem; }
   .author-group { grid-template-columns: minmax(0, 1fr); gap: 1.25rem; }
   .author-heading { font-size: 1.375rem; }
@@ -126,10 +112,10 @@ html { scroll-behavior: auto; }
   .story-list a { padding-block: .6rem; }
 }
 @media (pointer: coarse) {
-  .library-header .author-nav a, .volumes a { min-height: 2.75rem; }
+  .volumes a { min-height: 2.75rem; }
 }
 @media print {
-  .author-nav, .skip-link { display: none !important; }
+  .skip-link { display: none !important; }
   .library { margin-block: 1.5rem; }
   .author-group { display: block; }
   .author-heading { margin-bottom: 1rem; }

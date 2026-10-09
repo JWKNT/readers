@@ -48,9 +48,6 @@ def render_library(root=ROOT, library=None):
         groups.append(f'<section class="author-group" aria-labelledby="{heading_id}">\n'
                       f'<h2 id="{heading_id}" class="author-heading" tabindex="-1">{escape(author)}</h2>\n'
                       '<div class="author-books">\n' + '\n'.join(rows) + '\n</div>\n</section>')
-    navigation = '\n'.join(
-        f'<a href="#{AUTHOR_IDS.get(author, "-".join(author.lower().split()) + "-title")}">{escape(author)}</a>'
-        for author in authors)
     return '''<!doctype html>
 <html lang="en">
 <head>
@@ -71,9 +68,6 @@ def render_library(root=ROOT, library=None):
 <img class="site-mark" src="assets/theme/marks/readers.png" width="32" height="32" alt="">
 <h1 class="site-title">Readers</h1>
 </div>
-<nav class="author-nav" aria-label="Authors">
-''' + navigation + '''
-</nav>
 <span class="site-utility-pair"><a class="site-home" href="https://jehlp.net/" aria-label="Home — jehlp.net" title="Home — jehlp.net"><span aria-hidden="true">✳</span></a><button class="theme-toggle" data-theme-toggle aria-label="Change theme"></button></span>
 </header>
 <main class="library" id="catalog" tabindex="-1">
