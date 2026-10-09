@@ -33,6 +33,16 @@ class WrenfoldTheme(unittest.TestCase):
         self.assertIn('code, kbd, pre, samp { font-family: var(--mono); }', base)
         self.assertIn('"Noto Serif CJK JP"', base)
 
+    def test_definitions_and_excerpts_use_reading_font_without_changing_controls(self):
+        reader = (ROOT / 'assets/reader.css').read_text()
+        self.assertIn('.margin-note p{font-family:var(--book-reading);', reader)
+        self.assertIn('.word-popup h2{font:700 21px/1.2 var(--book-reading)', reader)
+        self.assertIn('.word-popup p{margin:0;font-family:var(--book-reading)}', reader)
+        self.assertIn('.search-result p{font-family:var(--book-reading);', reader)
+        self.assertIn('font:700 14px/1.2 var(--regal);text-align:left;cursor:help', reader)
+        self.assertIn('font:400 16px/1.6 var(--book-serif)', reader)
+        self.assertIn('#word-sources{font-size:12px;', reader)
+
     def test_folio_svg_and_legacy_aliases_are_exact(self):
         for name in ('home-folio-scroll.svg', 'home-compass.svg', 'home.svg', 'home-emblem.svg'):
             self.assertEqual('ff757b439e901db80d320d5fd1422edb63525b0ff46e235ab2dd5c52b2dad55f', sha256((THEME / 'icons' / name).read_bytes()).hexdigest(), name)
