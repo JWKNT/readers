@@ -68,6 +68,45 @@ class OrvBuilder(unittest.TestCase):
     def validate(self, target):
         return builder.validate_target(self.manifest['chapters'][0], self.sources['chapter-001'], target)
 
+    def graphic_divider(self):
+        source = self.sources['chapter-001']
+        return {'chapterId': source['id'], 'paragraphId': 'p-002',
+                'sourceHash': source['sourceHash'],
+                'rowSourceHash': source['rows'][1]['sourceHash'], 'sourcePage': 1,
+                'evidence': 'private-evidence-fixture'}
+
+    def store_graphic_dividers(self, entries):
+        save(self.data / 'graphic-dividers.json', {'schemaVersion': 1,
+             'sourcePdfSha256': self.manifest['source']['sha256'], 'dividers': entries})
+
+    def test_verified_graphic_divider_preserves_text_ids_and_static_export(self):
+        self.store_target('chapter-001')
+        previous = builder.common.inner(builder.make_tree(self.sources['chapter-001'],
+                                                         self.targets['chapter-001']))
+        self.store_graphic_dividers([self.graphic_divider()])
+        builder.build(self.root)
+        destination = self.root / builder.SLUG
+        data = json.loads((destination / 'chapters/chapter-001.json').read_text())
+        static = article((destination / 'chapters/chapter-001.html').read_text())
+        for rendered in (data['html'], static):
+            self.assertEqual(''.join(Inspect(previous).text), ''.join(Inspect(rendered).text))
+            self.assertEqual(Inspect(previous).ids, Inspect(rendered).ids)
+            self.assertEqual(1, rendered.count('role="separator"'))
+            self.assertLess(rendered.index('id="p-001"'), rendered.index('role="separator"'))
+            self.assertLess(rendered.index('role="separator"'), rendered.index('id="p-002"'))
+            self.assertNotIn('private-evidence-fixture', rendered)
+
+    def test_graphic_divider_rejects_stale_or_duplicate_source_boundaries(self):
+        for changes in ({'sourceHash': 'f' * 64}, {'rowSourceHash': 'f' * 64},
+                        {'sourcePage': 2}, {'paragraphId': 'p-003'}):
+            with self.subTest(changes=changes):
+                self.store_graphic_dividers([self.graphic_divider() | changes])
+                with self.assertRaises(builder.BuildError):
+                    builder.load_graphic_dividers(self.data, self.manifest, self.sources)
+        self.store_graphic_dividers([self.graphic_divider(), self.graphic_divider()])
+        with self.assertRaisesRegex(builder.BuildError, 'duplicate graphic divider'):
+            builder.load_graphic_dividers(self.data, self.manifest, self.sources)
+
     def test_progressive_build_skips_partial_units_and_preserves_text(self):
         self.store_target('chapter-001')
         pending = self.pending('chapter-002')

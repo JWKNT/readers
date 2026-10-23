@@ -26,7 +26,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SLUG = 'omniscient-readers-viewpoint'
 TITLE = 'Omniscient Reader’s Viewpoint'
 AUTHOR = 'Sing Shong'
-EDITION = 24
+EDITION = 25
 STAGES = ('mt-draft', 'accuracy-reviewed', 'prose-reviewed', 'reader-verified')
 TARGET_STAGES = ('untranslated',) + STAGES
 IDENTIFIER = re.compile(r'[a-z0-9]+(?:-[a-z0-9]+)*\Z')
@@ -225,9 +225,49 @@ def select_targets(data, manifest, sources, require_complete=False, minimum_stat
     return prefix, targets
 
 
-def make_tree(source, target):
+def load_graphic_dividers(data, manifest, sources):
+    path = data / 'graphic-dividers.json'
+    if not path.exists():
+        return {}
+    document = load(path)
+    require(isinstance(document, dict) and document.get('schemaVersion') == 1,
+            'graphic-dividers.json: invalid schema')
+    require(document.get('sourcePdfSha256') == manifest['source']['sha256'],
+            'graphic-dividers.json: source PDF mismatch')
+    entries = document.get('dividers')
+    require(isinstance(entries, list) and all(isinstance(entry, dict) for entry in entries),
+            'graphic-dividers.json: invalid entries')
+    result = {}
+    for entry in entries:
+        cid, pid = entry.get('chapterId'), entry.get('paragraphId')
+        require(nonempty(cid) and cid in sources, 'graphic divider: unknown chapter')
+        source = sources[cid]
+        require(entry.get('sourceHash') == source['sourceHash'],
+                f'{cid}: graphic divider source hash mismatch')
+        positions = {row['id']: i for i, row in enumerate(source['rows'])}
+        require(nonempty(pid) and pid in positions, f'{cid}: graphic divider unknown paragraph')
+        position = positions[pid]
+        row = source['rows'][position]
+        require(position > 0 and row['type'] != 'scene-break'
+                and source['rows'][position - 1]['type'] != 'scene-break',
+                f'{cid}/{pid}: graphic divider duplicates an existing boundary')
+        require(entry.get('rowSourceHash') == row['sourceHash'],
+                f'{cid}/{pid}: graphic divider row hash mismatch')
+        page = entry.get('sourcePage')
+        require(type(page) is int and page in row['pages'],
+                f'{cid}/{pid}: graphic divider source page mismatch')
+        scoped = result.setdefault(cid, set())
+        require(pid not in scoped, f'{cid}/{pid}: duplicate graphic divider')
+        scoped.add(pid)
+    return result
+
+
+def make_tree(source, target, graphic_dividers=()):
     tree = ET.Element('div')
     for original, translated in zip(source['rows'], target['rows']):
+        if original['id'] in graphic_dividers:
+            ET.SubElement(tree, 'div', {'class': 'center scene-break', 'role': 'separator',
+                                       'aria-label': 'Scene break'})
         classes = 'prose'
         if original['type'] == 'system':
             classes += ' noindent'
@@ -321,6 +361,7 @@ def build(root=ROOT, data=None, require_complete=False, update_library=False, mi
     root = Path(root)
     source_manifest, sources = validate_sources(data)
     selected, targets = select_targets(data, source_manifest, sources, require_complete, minimum_status)
+    graphic_dividers = load_graphic_dividers(data, source_manifest, sources)
     entries = load_notes(data)
     for entry in entries:
         require(set(entry.get('includeChapters', [])) <= set(sources),
@@ -337,7 +378,7 @@ def build(root=ROOT, data=None, require_complete=False, update_library=False, mi
             run = volume_runs[original['volume']]
             generated_volume = original['volume'] + (f'-{run}' if run > 1 else '')
             previous_source_volume = original['volume']
-        tree = make_tree(sources[cid], target)
+        tree = make_tree(sources[cid], target, graphic_dividers.get(cid, ()))
         words = len(re.findall(r"\b[\w’'-]+\b", common.searchable(tree)))
         record = dict(id=cid, title=target['title'], volume=generated_volume, sourceVolume=original['volume'],
                       volumeTitle=original['volumeTitle'], number=original.get('number', index + 1),
