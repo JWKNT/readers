@@ -79,6 +79,24 @@ class OrvBuilder(unittest.TestCase):
         save(self.data / 'graphic-dividers.json', {'schemaVersion': 1,
              'sourcePdfSha256': self.manifest['source']['sha256'], 'dividers': entries})
 
+    def cross_page_graphic_divider(self):
+        self.manifest['source']['pages'] = 4
+        self.manifest['chapters'][0]['pageEnd'] = 2
+        self.sources['chapter-001']['pageEnd'] = 2
+        for row in self.sources['chapter-001']['rows'][1:]:
+            row['pages'] = [2]
+        for chapter in self.manifest['chapters'][1:]:
+            page = chapter['number'] + 1
+            chapter.update(pageStart=page, pageEnd=page)
+            source = self.sources[chapter['id']]
+            source.update(pageStart=page, pageEnd=page)
+            for row in source['rows']:
+                row['pages'] = [page]
+        self.store_sources()
+        return self.graphic_divider() | {
+            'firstFollowingTextPage': 2, 'previousParagraphId': 'p-001',
+            'previousRowSourceHash': self.sources['chapter-001']['rows'][0]['sourceHash']}
+
     def test_verified_graphic_divider_preserves_text_ids_and_static_export(self):
         self.store_target('chapter-001')
         previous = builder.common.inner(builder.make_tree(self.sources['chapter-001'],
@@ -106,6 +124,63 @@ class OrvBuilder(unittest.TestCase):
         self.store_graphic_dividers([self.graphic_divider(), self.graphic_divider()])
         with self.assertRaisesRegex(builder.BuildError, 'duplicate graphic divider'):
             builder.load_graphic_dividers(self.data, self.manifest, self.sources)
+
+    def test_cross_page_graphic_divider_preserves_text_and_paragraphs(self):
+        entry = self.cross_page_graphic_divider()
+        self.store_target('chapter-001')
+        previous = builder.common.inner(builder.make_tree(self.sources['chapter-001'],
+                                                         self.targets['chapter-001']))
+        self.store_graphic_dividers([entry])
+        builder.build(self.root)
+        destination = self.root / builder.SLUG / 'chapters'
+        rendered = json.loads((destination / 'chapter-001.json').read_text())['html']
+        static = article((destination / 'chapter-001.html').read_text())
+        for text in (rendered, static):
+            self.assertEqual(''.join(Inspect(previous).text), ''.join(Inspect(text).text))
+            self.assertEqual(Inspect(previous).ids, Inspect(text).ids)
+            self.assertEqual(1, text.count('role="separator"'))
+            self.assertLess(text.index('id="p-001"'), text.index('role="separator"'))
+            self.assertLess(text.index('role="separator"'), text.index('id="p-002"'))
+
+    def test_cross_page_graphic_divider_requires_exact_predecessor(self):
+        entry = self.cross_page_graphic_divider()
+        for changes in ({'previousParagraphId': 'p-003'},
+                        {'previousParagraphId': 'chapter-002:p-001'},
+                        {'previousRowSourceHash': 'f' * 64},
+                        {'previousParagraphId': None}, {'previousRowSourceHash': None}):
+            with self.subTest(changes=changes):
+                self.store_graphic_dividers([entry | changes])
+                with self.assertRaisesRegex(builder.BuildError, 'preceding paragraph mismatch'):
+                    builder.load_graphic_dividers(self.data, self.manifest, self.sources)
+
+    def test_cross_page_graphic_divider_rejects_missing_predecessor(self):
+        entry = self.cross_page_graphic_divider()
+        for field in ('previousParagraphId', 'previousRowSourceHash'):
+            with self.subTest(field=field):
+                changed = dict(entry)
+                del changed[field]
+                self.store_graphic_dividers([changed])
+                with self.assertRaisesRegex(builder.BuildError, 'preceding paragraph mismatch'):
+                    builder.load_graphic_dividers(self.data, self.manifest, self.sources)
+
+    def test_cross_page_graphic_divider_requires_adjacent_pages_and_paragraph_start(self):
+        entry = self.cross_page_graphic_divider()
+        source = self.sources['chapter-001']
+        for source_page, following_page, row_pages, previous_pages, bounds, message in (
+                (1, 3, [3], [1], (1, 3), 'next page paragraph'),
+                (1, 2, [1, 2], [1], (1, 2), 'next page paragraph'),
+                (2, 3, [3], [1], (1, 3), 'preceding page mismatch'),
+                (1, 2, [2], [1], (1, 1), 'outside unit page range'),
+                (1, 2, [2], [1], (2, 2), 'outside unit page range')):
+            with self.subTest(source_page=source_page, following_page=following_page,
+                              row_pages=row_pages, previous_pages=previous_pages, bounds=bounds):
+                source['rows'][0]['pages'] = previous_pages
+                source['rows'][1]['pages'] = row_pages
+                self.manifest['chapters'][0].update(pageStart=bounds[0], pageEnd=bounds[1])
+                self.store_graphic_dividers([entry | {'sourcePage': source_page,
+                                                     'firstFollowingTextPage': following_page}])
+                with self.assertRaisesRegex(builder.BuildError, message):
+                    builder.load_graphic_dividers(self.data, self.manifest, self.sources)
 
     def test_progressive_build_skips_partial_units_and_preserves_text(self):
         self.store_target('chapter-001')

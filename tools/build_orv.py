@@ -26,7 +26,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SLUG = 'omniscient-readers-viewpoint'
 TITLE = 'Omniscient Reader’s Viewpoint'
 AUTHOR = 'Sing Shong'
-EDITION = 25
+EDITION = 26
 STAGES = ('mt-draft', 'accuracy-reviewed', 'prose-reviewed', 'reader-verified')
 TARGET_STAGES = ('untranslated',) + STAGES
 IDENTIFIER = re.compile(r'[a-z0-9]+(?:-[a-z0-9]+)*\Z')
@@ -237,10 +237,13 @@ def load_graphic_dividers(data, manifest, sources):
     entries = document.get('dividers')
     require(isinstance(entries, list) and all(isinstance(entry, dict) for entry in entries),
             'graphic-dividers.json: invalid entries')
+    unit_bounds = {entry['id']: (entry['pageStart'], entry['pageEnd'])
+                   for entry in manifest['chapters']}
     result = {}
     for entry in entries:
         cid, pid = entry.get('chapterId'), entry.get('paragraphId')
-        require(nonempty(cid) and cid in sources, 'graphic divider: unknown chapter')
+        require(nonempty(cid) and cid in sources and cid in unit_bounds,
+                'graphic divider: unknown chapter')
         source = sources[cid]
         require(entry.get('sourceHash') == source['sourceHash'],
                 f'{cid}: graphic divider source hash mismatch')
@@ -254,8 +257,24 @@ def load_graphic_dividers(data, manifest, sources):
         require(entry.get('rowSourceHash') == row['sourceHash'],
                 f'{cid}/{pid}: graphic divider row hash mismatch')
         page = entry.get('sourcePage')
-        require(type(page) is int and page in row['pages'],
+        following_page = entry.get('firstFollowingTextPage', page)
+        require(type(page) is int and type(following_page) is int
+                and following_page in row['pages'],
                 f'{cid}/{pid}: graphic divider source page mismatch')
+        start, end = unit_bounds[cid]
+        require(start <= page <= end and start <= following_page <= end,
+                f'{cid}/{pid}: graphic divider outside unit page range')
+        previous = source['rows'][position - 1]
+        cross_page = following_page != page
+        if cross_page:
+            require(following_page == page + 1 and following_page == row['pages'][0],
+                    f'{cid}/{pid}: graphic divider must precede the next page paragraph')
+            require(page == previous['pages'][-1],
+                    f'{cid}/{pid}: graphic divider preceding page mismatch')
+        if cross_page or 'previousParagraphId' in entry or 'previousRowSourceHash' in entry:
+            require(entry.get('previousParagraphId') == previous['id']
+                    and entry.get('previousRowSourceHash') == previous['sourceHash'],
+                    f'{cid}/{pid}: graphic divider preceding paragraph mismatch')
         scoped = result.setdefault(cid, set())
         require(pid not in scoped, f'{cid}/{pid}: duplicate graphic divider')
         scoped.add(pid)
