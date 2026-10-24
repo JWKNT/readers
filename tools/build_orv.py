@@ -26,7 +26,8 @@ ROOT = Path(__file__).resolve().parents[1]
 SLUG = 'omniscient-readers-viewpoint'
 TITLE = 'Omniscient Reader’s Viewpoint'
 AUTHOR = 'Sing Shong'
-EDITION = 36
+EDITION = 37
+READER_CSS_VERSION = 'layout-20261003-controls-orv37-title-wrap'
 STAGES = ('mt-draft', 'accuracy-reviewed', 'prose-reviewed', 'reader-verified')
 TARGET_STAGES = ('untranslated',) + STAGES
 IDENTIFIER = re.compile(r'[a-z0-9]+(?:-[a-z0-9]+)*\Z')
@@ -371,6 +372,9 @@ def status_text(translation):
 
 
 def add_status(page, translation):
+    # Load the title-wrapping CSS on dynamic and static ORV pages.
+    page = re.sub(r'(href="(?:\.\./)+assets/reader\.css)(?:\?[^"\s]+)?(")',
+                  lambda match: match.group(1) + '?v=' + READER_CSS_VERSION + match.group(2), page)
     status = '<p class="quiet translation-status">' + html.escape(status_text(translation)) + '</p>'
     return page.replace('<header class="chapter-heading">', status + '<header class="chapter-heading">', 1)
 
