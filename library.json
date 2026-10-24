@@ -1452,27 +1452,24 @@
       {
         "id": "novel",
         "title": "Novel",
-        "chapters": 94,
+        "chapters": 97,
         "referenceTitle": "Supplementary material"
       }
     ],
     "glossaryCount": 3,
-    "totalWords": 1101560,
+    "totalWords": 1126058,
     "kind": "book",
     "translation": {
       "sourceLanguage": "ko",
       "targetLanguage": "en",
       "status": "prose-reviewed",
       "complete": false,
-      "availableChapters": 95,
+      "availableChapters": 98,
       "sourceChapters": 107,
-      "availableNarrativeChapters": 95,
+      "availableNarrativeChapters": 98,
       "sourceNarrativeChapters": 105,
       "sourceSha256": "5473b91f107934bda8fee4cf746668b55b03bfd2789e7a15673e703c1f8bc104",
       "pendingChapters": [
-        "chapter-095",
-        "chapter-096",
-        "chapter-097",
         "chapter-098",
         "chapter-099",
         "author-note-1",
