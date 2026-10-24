@@ -1,0 +1,38 @@
+{
+  "id": "author-note-1",
+  "title": "Author’s note",
+  "volume": "supplementary",
+  "sourceVolume": "supplementary",
+  "volumeTitle": "Author’s notes",
+  "number": 1,
+  "label": "",
+  "kind": "reference",
+  "index": 100,
+  "layout": "prose",
+  "blocks": [
+    "p-001",
+    "p-002",
+    "p-003",
+    "p-004",
+    "p-005",
+    "p-006",
+    "p-007",
+    "p-008",
+    "p-009",
+    "p-010",
+    "p-011"
+  ],
+  "sections": [],
+  "words": 148,
+  "startWords": 1146988,
+  "translationStatus": "prose-reviewed",
+  "sourceHash": "8111a5cec41fb29d8f678c155a734c924559c9fcad10908d211e062242edce7e",
+  "sourcePages": [
+    6361,
+    6362
+  ],
+  "headingNoteAnchors": [],
+  "headingHtml": "Author’s note",
+  "noteAnchors": [],
+  "html": "<p id=\"p-001\" data-block=\"p-001\" class=\"prose\">Hello, I'm Sing Shong</p><p id=\"p-002\" data-block=\"p-002\" class=\"prose\">Today marks the end of the main story of ‘Omniscient Reader's Viewpoint’.</p><p id=\"p-003\" data-block=\"p-003\" class=\"prose\">Of course, the whole story isn't over yet. There's still the epilogue.</p><p id=\"p-004\" data-block=\"p-004\" class=\"prose\">The epilogue was originally going to follow straight away, but in my current condition, I don't think there's any way I can properly tell the stories planned for it.</p><p id=\"p-005\" data-block=\"p-005\" class=\"prose\">So I've decided to take about a month to rest and recover. I'm very sorry. I intend to return with my mind and body at least a little restored, as someone who can write better stories.</p><p id=\"p-006\" data-block=\"p-006\" class=\"prose\">The epilogue to Omniscient Reader's Viewpoint will begin at 7 p.m. on December 15, one month from now.</p><p id=\"p-007\" data-block=\"p-007\" class=\"prose\">To everyone who's read this far, I'm sorry...the epilogue will be paid content</p><p id=\"p-008\" data-block=\"p-008\" class=\"prose\">I was able to come this far because you were here, dear readers.</p><p id=\"p-009\" data-block=\"p-009\" class=\"prose\">Thank you so much.</p><p id=\"p-010\" data-block=\"p-010\" class=\"prose\">I hope you'll continue to support me.</p><p id=\"p-011\" data-block=\"p-011\" class=\"prose\">===</p>"
+}
