@@ -43,10 +43,10 @@ class WrenfoldTheme(unittest.TestCase):
         self.assertIn('font:400 16px/1.6 var(--book-serif)', reader)
         self.assertIn('#word-sources{font-size:12px;', reader)
 
-    def test_folio_svg_and_legacy_aliases_are_exact(self):
-        for name in ('home-folio-scroll.svg', 'home-compass.svg', 'home.svg', 'home-emblem.svg'):
-            self.assertEqual('ff757b439e901db80d320d5fd1422edb63525b0ff46e235ab2dd5c52b2dad55f', sha256((THEME / 'icons' / name).read_bytes()).hexdigest(), name)
-        self.assertIn('icons/home-folio-scroll.svg', (THEME / 'base.css').read_text())
+    def test_door_svg_and_legacy_aliases_are_exact(self):
+        for name in ('home-doorway.svg', 'home-folio-scroll.svg', 'home-compass.svg', 'home.svg', 'home-emblem.svg'):
+            self.assertEqual('2baa87caf29834e155af108d7743c410e2a3b1775edf6c7671ec24918a7810db', sha256((THEME / 'icons' / name).read_bytes()).hexdigest(), name)
+        self.assertIn('icons/home-doorway.svg', (THEME / 'base.css').read_text())
 
 
 if __name__ == '__main__':

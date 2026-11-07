@@ -12,6 +12,8 @@ ROOT = Path(__file__).resolve().parents[1]
 HOME = ('<a class="site-home" href="https://jehlp.net/" '
         'aria-label="Home — jehlp.net" title="Home — jehlp.net">'
         '<span aria-hidden="true">✳</span></a>')
+# A moved reader keeps one redirect page, which has no theme or header of its own.
+MOVED = ROOT / 'omniscient-readers-viewpoint/index.html'
 THEME_VERSION = 'theme-20260930-header-home'
 STYLE_VERSION = 'theme-20261009-reading-folio'
 
@@ -41,8 +43,8 @@ class Headers(HTMLParser):
 
 class HomeNavigation(unittest.TestCase):
     def test_every_html_page_has_one_native_header_home(self):
-        pages = list(ROOT.rglob('*.html'))
-        self.assertEqual(965, len(pages))
+        pages = [page for page in ROOT.rglob('*.html') if page != MOVED]
+        self.assertEqual(912, len(pages))
         aliases = 0
         for page in pages:
             source = page.read_text()
@@ -65,6 +67,8 @@ class HomeNavigation(unittest.TestCase):
 
     def test_every_shared_asset_reference_has_current_cache_key(self):
         for page in ROOT.rglob('*.html'):
+            if page == MOVED:
+                continue
             source = page.read_text()
             with self.subTest(page=str(page.relative_to(ROOT))):
                 refs = re.findall(r'assets/theme/(base\.css|theme\.js)([^"\s>]*)', source)
@@ -76,7 +80,7 @@ class HomeNavigation(unittest.TestCase):
                     else:
                         self.assertIn(ref, ('?v=' + STYLE_VERSION, '?v=' + THEME_VERSION, '?v=theme-20261001-utilities'))
                 if 'assets/reader.js' in source:
-                    version = 'orv-22' if page.parent.name == 'omniscient-readers-viewpoint' else 'reader-20261003-controls'
+                    version = 'reader-20261003-controls'
                     self.assertIn('assets/reader.js?v=' + version, source)
 
     def test_generated_catalog_and_static_exports_keep_native_header_home(self):
@@ -127,8 +131,8 @@ class HomeNavigation(unittest.TestCase):
 
     def test_home_icon_is_vendored_without_footer_spacing(self):
         css = (ROOT / 'assets/theme/base.css').read_text()
-        self.assertTrue((ROOT / 'assets/theme/icons/home-folio-scroll.svg').is_file())
-        self.assertIn('icons/home-folio-scroll.svg', css)
+        self.assertTrue((ROOT / 'assets/theme/icons/home-doorway.svg').is_file())
+        self.assertIn('icons/home-doorway.svg', css)
         self.assertNotIn('--site-home-clearance', css)
         self.assertNotIn('body:has(.site-home)::after', css)
         self.assertNotIn('.site-home-dock', css)
