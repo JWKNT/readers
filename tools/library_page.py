@@ -7,6 +7,8 @@ from html import escape
 import json
 from pathlib import Path
 
+from link_previews import apply as add_preview, library_summary
+
 ROOT = Path(__file__).resolve().parents[1]
 AUTHOR_IDS = {'Gene Wolfe': 'wolfe-title', 'Cixin Liu': 'liu-title',
               'Dan Simmons': 'simmons-title'}
@@ -48,7 +50,7 @@ def render_library(root=ROOT, library=None):
         groups.append(f'<section class="author-group" aria-labelledby="{heading_id}">\n'
                       f'<h2 id="{heading_id}" class="author-heading" tabindex="-1">{escape(author)}</h2>\n'
                       '<div class="author-books">\n' + '\n'.join(rows) + '\n</div>\n</section>')
-    return '''<!doctype html>
+    page = '''<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -76,6 +78,7 @@ def render_library(root=ROOT, library=None):
 </body>
 </html>
 '''
+    return add_preview(page, *library_summary(library))
 
 
 def build_library(root=ROOT, library=None):

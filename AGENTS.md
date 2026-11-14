@@ -8,4 +8,5 @@ Preserve imported reader text, translations, quotations, proper titles, and lega
 Preserve formulas, formal statements, identifiers, data, and technical meaning.
 Preserve NDB fictional dialogue, story text, and item descriptions.
 Edit the source of generated pages, then rebuild and test them.
+After an import or a rebuild, run `python3 tools/link_previews.py`: it writes the link preview of every page, and `tools/test_link_previews.py` checks it.
 Report the checks performed. Do not claim full compliance without a dictionary and rule review.
